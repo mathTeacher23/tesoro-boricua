@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link, useParams, useNavigate } from 'react-router-dom';
 import AlphabetNavigation from '../components/AlphabetNavigation';
 import TranslationSidebar from '../components/TranslationSidebar';
+import LLMChatSidebar from '../components/LLMChatSidebar.js';
 
 const LanguagePage = () => {
   const { letter } = useParams();
@@ -15,6 +16,7 @@ const LanguagePage = () => {
   const [availableLetters, setAvailableLetters] = useState([]);
   const [expandedCards, setExpandedCards] = useState(new Set());
   const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [chatSidebarOpen, setChatSidebarOpen] = useState(false);
 
   // Load data from translated JSON files (they have English definitions)
   const loadDataForLetter = async (letter) => {
@@ -290,6 +292,14 @@ const LanguagePage = () => {
       <TranslationSidebar
         isOpen={sidebarOpen}
         onToggle={() => setSidebarOpen(!sidebarOpen)}
+        otherSidebarOpen={chatSidebarOpen}
+      />
+
+      {/* LLM Chat Sidebar */}
+      <LLMChatSidebar
+        isOpen={chatSidebarOpen}
+        onToggle={() => setChatSidebarOpen(!chatSidebarOpen)}
+        otherSidebarOpen={sidebarOpen}
       />
 
       <div className="page-content">

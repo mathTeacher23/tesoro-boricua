@@ -2,12 +2,15 @@
 name = "tesoro-boricua"
 version = "1.0.0"
 description = "Puerto Rican Cultural Learning Platform - React Version with FastAPI Backend"
-requires-python = ">=3.8"
+requires-python = ">=3.9,<4.0"
 dependencies = [
     "fastapi>=0.104.0",
     "uvicorn>=0.24.0",
     "pydantic>=2.10.0",
     "translate>=3.6.0",
+    "langchain>=0.1.0,<0.3.0",
+    "langchain-community>=0.0.0,<0.3.0",
+    "requests>=2.31.0",
 ]
 
 [tool.uv]

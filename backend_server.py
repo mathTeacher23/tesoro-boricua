@@ -1,20 +1,36 @@
 #!/usr/bin/env python3
 """
-Translation API server for Tesoro Boricua React UI.
-Provides live translation between English and Spanish using FastAPI.
+Tesoro Boricua Backend API Server
+Provides translation and LLM chat functionality using FastAPI and LangChain.
 """
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from translate import Translator
+from langchain_community.llms import LlamaCpp
 import logging
+import os
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-app = FastAPI(title="Tesoro Boricua Translation API", version="1.0.0")
+app = FastAPI(title="Tesoro Boricua API", version="1.0.0")
+
+# Initialize LLM (LM Studio connection)
+try:
+    from langchain_community.llms.ollama import Ollama
+    # Using Ollama-compatible endpoint from LM Studio
+    llm = Ollama(
+        model="meta-llama-3.1-8b-instruct",
+        base_url="http://localhost:1234",  # LM Studio default port
+        temperature=0.7,
+    )
+    logger.info("✓ LM Studio LLM initialized successfully")
+except Exception as e:
+    logger.warning(f"⚠️ Could not initialize LM Studio LLM: {e}")
+    llm = None
 
 # Add CORS middleware for React frontend
 app.add_middleware(
@@ -39,6 +55,14 @@ class TranslationResponse(BaseModel):
 class LanguageInfo(BaseModel):
     code: str
     name: str
+
+class ChatRequest(BaseModel):
+    message: str
+    context: str = "You are a helpful assistant about Puerto Rican culture and cuisine."
+
+class ChatResponse(BaseModel):
+    response: str
+    status: str = "success"
 
 @app.post("/api/translate", response_model=TranslationResponse)
 async def translate_text(request: TranslationRequest):
@@ -91,6 +115,44 @@ async def translate_text(request: TranslationRequest):
     except Exception as e:
         logger.error(f"Translation error: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Translation failed: {str(e)}")
+
+@app.post("/api/chat", response_model=ChatResponse)
+async def chat_with_llm(request: ChatRequest):
+    """
+    Chat with the LLM via LangChain using LM Studio.
+    """
+    if llm is None:
+        raise HTTPException(
+            status_code=503,
+            detail="LM Studio LLM is not available. Make sure LM Studio is running on port 1234."
+        )
+
+    try:
+        message = request.message.strip()
+        if not message:
+            raise HTTPException(status_code=400, detail="Empty message provided")
+
+        context = request.context
+
+        # Create a prompt with context
+        prompt = f"{context}\n\nUser: {message}\nAssistant:"
+
+        # Call the LLM
+        logger.info(f"Sending to LLM: {message[:100]}...")
+        response = llm.invoke(prompt)
+
+        logger.info(f"LLM Response: {response[:100]}...")
+
+        return ChatResponse(
+            response=response.strip(),
+            status="success"
+        )
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Chat error: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Chat failed: {str(e)}")
 
 @app.get("/api/health")
 async def health_check():

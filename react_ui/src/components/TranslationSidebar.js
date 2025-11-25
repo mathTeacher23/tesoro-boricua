@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const TranslationSidebar = ({ isOpen, onToggle }) => {
+const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
   const [inputText, setInputText] = useState('');
   const [translatedText, setTranslatedText] = useState('');
   const [fromLang, setFromLang] = useState('en');
@@ -63,17 +63,45 @@ const TranslationSidebar = ({ isOpen, onToggle }) => {
   return (
     <>
       {/* Toggle Button */}
-      <button
-        className={`translation-toggle ${isOpen ? 'open' : ''}`}
-        onClick={onToggle}
-        title="Toggle Translation Sidebar"
-      >
-        <i className="fas fa-language"></i>
-        {isOpen ? ' Close' : ' Translate'}
-      </button>
+      {!isOpen && (
+        <button
+          className={`translation-toggle ${isOpen ? 'open' : ''}`}
+          onClick={onToggle}
+          title="Toggle Translation Sidebar"
+          style={{
+            position: 'fixed',
+            top: '20px',
+            right: otherSidebarOpen ? '370px' : '20px',
+            borderRadius: '8px',
+            zIndex: '1001',
+            padding: '10px 12px',
+            transition: 'right 0.3s ease-in-out'
+          }}
+        >
+          <i className="fas fa-language"></i>
+          Translate
+        </button>
+      )}
 
       {/* Sidebar */}
-      <div className={`translation-sidebar ${isOpen ? 'open' : ''}`}>
+      <div
+        className={`translation-sidebar ${isOpen ? 'open' : ''}`}
+        data-sidebar="translation"
+        style={{
+          position: 'fixed',
+          right: isOpen ? (otherSidebarOpen ? '350px' : '0') : '-350px',
+          top: '0',
+          height: '100vh',
+          width: '350px',
+          zIndex: '999',
+          transition: 'right 0.3s ease-in-out',
+          boxShadow: '-2px 0 10px rgba(0,0,0,0.1)',
+          overflow: 'hidden',
+          display: 'flex',
+          flexDirection: 'column',
+          background: '#fff'
+        }}
+      >
         <div className="sidebar-header">
           <h3>
             <i className="fas fa-language"></i>
@@ -84,7 +112,7 @@ const TranslationSidebar = ({ isOpen, onToggle }) => {
           </button>
         </div>
 
-        <div className="sidebar-content">
+        <div className="sidebar-content" style={{ flex: 1, overflowY: 'auto', paddingRight: '4px' }}>
           {/* Language Selection */}
           <div className="language-controls">
             <div className="language-selector">
@@ -191,7 +219,20 @@ const TranslationSidebar = ({ isOpen, onToggle }) => {
       </div>
 
       {/* Backdrop */}
-      {isOpen && <div className="sidebar-backdrop" onClick={onToggle}></div>}
+      {isOpen && (
+        <div
+          style={{
+            position: 'fixed',
+            top: '0',
+            left: '0',
+            right: '350px',
+            bottom: '0',
+            background: 'rgba(0, 0, 0, 0.3)',
+            zIndex: '998',
+            onClick: onToggle
+          }}
+        ></div>
+      )}
     </>
   );
 };
