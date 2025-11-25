@@ -1,0 +1,120 @@
+/* Recipe Header Component Styles */
+.recipe-header-container {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  box-sizing: border-box;
+  border: none;
+}
+
+.recipe-image-section img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.recipe-category-tag {
+  display: inline-block;
+  background: #e3f2fd;
+  color: #1976d2;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.recipe-title {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+.recipe-description {
+  font-size: 1.1rem;
+  color: #6c757d;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.recipe-meta-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+  height: 120px;
+}
+
+.recipe-meta-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.recipe-meta-item i {
+  font-size: 1.2rem;
+  color: #007bff;
+}
+
+.recipe-meta-item div {
+  display: flex;
+  flex-direction: column;
+}
+
+.recipe-meta-item strong {
+  font-size: 0.8rem;
+  color: #6c757d;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.recipe-meta-item span {
+  font-weight: 500;
+  color: #2c3e50;
+}
+
+.difficulty-badge {
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-size: 0.7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.recipe-actions {
+  display: flex;
+  gap: 1rem;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .recipe-header-container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 1.5rem;
+  }
+
+  .recipe-image-section img {
+    height: 200px;
+  }
+
+  .recipe-title {
+    font-size: 2rem;
+  }
+
+  .recipe-meta-container {
+    height: auto;
+  }
+}

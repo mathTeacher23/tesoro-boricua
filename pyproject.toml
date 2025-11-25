@@ -1,0 +1,14 @@
+[project]
+name = "tesoro-boricua"
+version = "1.0.0"
+description = "Puerto Rican Cultural Learning Platform - React Version with FastAPI Backend"
+requires-python = ">=3.8"
+dependencies = [
+    "fastapi>=0.104.0",
+    "uvicorn>=0.24.0",
+    "pydantic>=2.10.0",
+    "translate>=3.6.0",
+]
+
+[tool.uv]
+python-preference = "managed"
