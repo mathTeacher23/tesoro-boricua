@@ -70,7 +70,7 @@ const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
           title="Toggle Translation Sidebar"
           style={{
             position: 'fixed',
-            top: '20px',
+            top: '45px',
             right: otherSidebarOpen ? '370px' : '20px',
             borderRadius: '8px',
             zIndex: '1001',
@@ -78,8 +78,8 @@ const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
             transition: 'right 0.3s ease-in-out'
           }}
         >
-          <i className="fas fa-language"></i>
-          Translate
+          
+          Translate <i className="fas fa-language"></i>
         </button>
       )}
 
@@ -104,17 +104,18 @@ const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
       >
         <div className="sidebar-header">
           <h3>
-            <i className="fas fa-language"></i>
-            Quick Translation
+            
+            Translate <i className="fas fa-language"></i>
           </h3>
           <button className="close-btn" onClick={onToggle}>
             <i className="fas fa-times"></i>
           </button>
         </div>
 
-        <div className="sidebar-content" style={{ flex: 1, overflowY: 'auto', paddingRight: '4px' }}>
+        {/* Content Area with Scrollable Results */}
+        <div style={{ flex: 1, overflowY: 'auto', padding: '1rem', paddingRight: '4px' }}>
           {/* Language Selection */}
-          <div className="language-controls">
+          <div className="language-controls" style={{ marginBottom: '1rem' }}>
             <div className="language-selector">
               <label>From:</label>
               <select
@@ -130,8 +131,9 @@ const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
             <button
               className="swap-btn"
               onClick={handleSwapLanguages}
-              title="Swap languages"
+              title="Swap languages and texts"
               disabled={fromLang === 'auto'}
+              style={{ cursor: fromLang === 'auto' ? 'not-allowed' : 'pointer' }}
             >
               <i className="fas fa-exchange-alt"></i>
             </button>
@@ -148,43 +150,9 @@ const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
             </div>
           </div>
 
-          {/* Input Text */}
-          <div className="translation-input">
-            <label>Enter text to translate:</label>
-            <textarea
-              value={inputText}
-              onChange={(e) => setInputText(e.target.value)}
-              placeholder="Type your text here..."
-              rows={4}
-              maxLength={500}
-            />
-            <div className="char-count">
-              {inputText.length}/500
-            </div>
-          </div>
-
-          {/* Translation Controls */}
-          <div className="translation-controls">
-            <button
-              className="btn btn-primary"
-              onClick={handleTranslate}
-              disabled={isTranslating || !inputText.trim()}
-            >
-              <i className={`fas ${isTranslating ? 'fa-spinner fa-spin' : 'fa-language'}`}></i>
-              {isTranslating ? 'Translating...' : 'Translate'}
-            </button>
-            <button
-              className="btn btn-secondary"
-              onClick={handleClear}
-            >
-              <i className="fas fa-eraser"></i>
-              Clear
-            </button>
-          </div>
-
           {/* Error Display */}
           {error && (
-            <div className="translation-error">
+            <div className="translation-error" style={{ marginBottom: '1rem' }}>
               <i className="fas fa-exclamation-triangle"></i>
               {error}
             </div>
@@ -192,9 +160,9 @@ const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
 
           {/* Translation Result */}
           {translatedText && (
-            <div className="translation-result">
+            <div className="translation-result" style={{ marginBottom: '1rem' }}>
               <label>Translation:</label>
-              <div className="result-text">
+              <div className="result-text" style={{ padding: '0.75rem', background: '#f8f9fa', borderRadius: '6px', marginBottom: '0.5rem', minHeight: '40px' }}>
                 {translatedText}
               </div>
               <button
@@ -208,12 +176,46 @@ const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
             </div>
           )}
 
-          {/* Help Text */}
-          <div className="translation-help">
-            <p>
-              <i className="fas fa-info-circle"></i>
-              <strong>Quick tip:</strong> Use this tool to translate words or phrases between English and Spanish while browsing the dictionary.
-            </p>
+        </div>
+
+        {/* Input Area - Anchored to Bottom */}
+        <div style={{ borderTop: '1px solid #dee2e6', padding: '1rem', background: '#fff' }}>
+          <div className="translation-input" style={{ marginBottom: '0.5rem' }}>
+            <label style={{ fontSize: '0.9rem', marginBottom: '0.5rem', display: 'block' }}>Enter text to translate:</label>
+            <textarea
+              value={inputText}
+              onChange={(e) => setInputText(e.target.value)}
+              placeholder="Type your text here..."
+              rows={3}
+              maxLength={500}
+              style={{ width: '100%', borderRadius: '6px', border: '1px solid #dee2e6', padding: '0.5rem', fontFamily: 'inherit', resize: 'none' }}
+            />
+            <div className="char-count" style={{ fontSize: '0.75rem', color: '#6c757d', marginTop: '0.25rem' }}>
+              {inputText.length}/500
+            </div>
+          </div>
+
+          {/* Translation Controls */}
+          <div className="translation-controls" style={{ display: 'flex', gap: '0.5rem' }}>
+            <button
+              className="btn btn-primary"
+              onClick={handleTranslate}
+              disabled={isTranslating || !inputText.trim()}
+              title="Translate text between English and Spanish"
+              style={{ flex: 1, padding: '0.5rem 1rem', background: '#007bff', color: '#fff', border: 'none', borderRadius: '6px', cursor: 'pointer' }}
+            >
+              <i className={`fas ${isTranslating ? 'fa-spinner fa-spin' : 'fa-language'}`}></i>
+              {isTranslating ? 'Translating...' : 'Translate'}
+            </button>
+            <button
+              className="btn btn-secondary"
+              onClick={handleClear}
+              title="Clear all text and results"
+              style={{ flex: 1, padding: '0.5rem 1rem', background: '#6c757d', color: '#fff', border: 'none', borderRadius: '6px', cursor: 'pointer' }}
+            >
+              <i className="fas fa-eraser"></i>
+              Clear
+            </button>
           </div>
         </div>
       </div>

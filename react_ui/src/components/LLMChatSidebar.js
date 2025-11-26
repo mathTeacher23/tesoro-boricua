@@ -5,8 +5,18 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
   const [inputText, setInputText] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
+  const messagesEndRef = React.useRef(null);
 
   const API_BASE_URL = 'http://localhost:8000';
+
+  // Auto-scroll to bottom when messages change
+  const scrollToBottom = () => {
+    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  };
+
+  React.useEffect(() => {
+    scrollToBottom();
+  }, [messages]);
 
   const handleSendMessage = async () => {
     if (!inputText.trim()) {
@@ -73,8 +83,8 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
           title="Toggle LLM Chat"
           style={{
             position: 'fixed',
-            top: '20px',
-            right: otherSidebarOpen ? '370px' : '120px',
+            top: '40px',
+            right: otherSidebarOpen ? '370px' : '80px',
             borderRadius: '8px',
             zIndex: '1001',
             padding: '10px 12px',
@@ -85,8 +95,7 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
             cursor: 'pointer'
           }}
         >
-          <i className="fas fa-robot"></i>
-          Chat
+          Bori-Bot 🐸
         </button>
       )}
 
@@ -110,7 +119,7 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
       >
         <div className="sidebar-header" style={{ background: '#6f42c1', padding: '1rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <h3 style={{ margin: 0, color: '#fff' }}>
-            <i className="fas fa-robot"></i> LLM Chat
+            Bori-Bot 🐸
           </h3>
           <button
             type="button"
@@ -138,48 +147,51 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
           </button>
         </div>
 
-        <div className="sidebar-content" style={{ flex: 1, overflowY: 'auto', paddingRight: '4px' }}>
-          {/* Chat History */}
-          <div
-            style={{
-              marginBottom: '1rem',
-              padding: '1rem',
-              minHeight: '200px',
-              background: '#fff',
-              borderRadius: '8px'
-            }}
-          >
-            {messages.length === 0 ? (
-              <div style={{ textAlign: 'center', color: '#6c757d', padding: '2rem 0' }}>
-                <p>
-                  <i className="fas fa-comments" style={{ fontSize: '2rem', marginBottom: '1rem' }} />
-                </p>
-                <p>Start a conversation with the LLM</p>
+        {/* Chat History - Scrollable Content Area */}
+        <div style={{ flex: 1, overflowY: 'auto', padding: '1rem', paddingRight: '4px' }}>
+          {messages.length === 0 ? (
+            <div style={{ textAlign: 'center', color: '#6c757d', padding: '2rem 0' }}>
+              <p>
+                <i className="fas fa-comments" style={{ fontSize: '2rem', marginBottom: '1rem' }} />
+              </p>
+              <p>Start a conversation with the Bori-Bot</p>
+            </div>
+          ) : (
+            messages.map((msg, idx) => (
+              <div
+                key={idx}
+                style={{
+                  marginBottom: '1rem',
+                  padding: '0.75rem',
+                  borderRadius: '6px',
+                  background: msg.role === 'user' ? '#e7f3ff' : '#f0f0f0',
+                  borderLeft: `4px solid ${msg.role === 'user' ? '#007bff' : '#6f42c1'}`,
+                }}
+              >
+                <strong style={{ color: msg.role === 'user' ? '#0056b3' : '#4a235a', fontSize: '0.85rem' }}>
+                  {msg.role === 'user' ? 'You' : 'Bori-Bot 🐸'}
+                </strong>
+                <p style={{ margin: '0.5rem 0 0 0', fontSize: '0.9rem', color: '#333' }}>{msg.content}</p>
               </div>
-            ) : (
-              messages.map((msg, idx) => (
-                <div
-                  key={idx}
-                  style={{
-                    marginBottom: '1rem',
-                    padding: '0.75rem',
-                    borderRadius: '6px',
-                    background: msg.role === 'user' ? '#e7f3ff' : '#f0f0f0',
-                    borderLeft: `4px solid ${msg.role === 'user' ? '#007bff' : '#6f42c1'}`,
-                  }}
-                >
-                  <strong style={{ color: msg.role === 'user' ? '#0056b3' : '#4a235a', fontSize: '0.85rem' }}>
-                    {msg.role === 'user' ? 'You' : 'LLM'}
-                  </strong>
-                  <p style={{ margin: '0.5rem 0 0 0', fontSize: '0.9rem', color: '#333' }}>{msg.content}</p>
-                </div>
-              ))
-            )}
-          </div>
+            ))
+          )}
 
-          {/* Input Area */}
-          <div className="translation-input">
-            <label>Your message:</label>
+          {/* Error Display */}
+          {error && (
+            <div className="translation-error" style={{ marginTop: '1rem' }}>
+              <i className="fas fa-exclamation-triangle"></i>
+              {error}
+            </div>
+          )}
+
+          {/* Auto-scroll anchor point */}
+          <div ref={messagesEndRef} />
+        </div>
+
+        {/* Input Area - Anchored to Bottom */}
+        <div style={{ borderTop: '1px solid #dee2e6', padding: '1rem', background: '#fff' }}>
+          <div className="translation-input" style={{ marginBottom: '0.5rem' }}>
+            <label style={{ fontSize: '0.9rem', marginBottom: '0.5rem', display: 'block' }}>Your message:</label>
             <textarea
               value={inputText}
               onChange={(e) => setInputText(e.target.value)}
@@ -194,20 +206,29 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
               maxLength={500}
               disabled={isLoading}
               style={{
+                width: '100%',
+                borderRadius: '6px',
+                border: '1px solid #dee2e6',
+                padding: '0.5rem',
+                fontFamily: 'inherit',
+                resize: 'none',
                 opacity: isLoading ? 0.6 : 1,
                 cursor: isLoading ? 'not-allowed' : 'text',
               }}
             />
-            <div className="char-count">{inputText.length}/500</div>
+            <div className="char-count" style={{ fontSize: '0.75rem', color: '#6c757d', marginTop: '0.25rem' }}>
+              {inputText.length}/500
+            </div>
           </div>
 
           {/* Controls */}
-          <div className="translation-controls">
+          <div className="translation-controls" style={{ display: 'flex', gap: '0.5rem' }}>
             <button
               className="btn btn-primary"
               onClick={handleSendMessage}
               disabled={isLoading || !inputText.trim()}
-              style={{ flex: 1 }}
+              title="Send message to Bori-Bot"
+              style={{ flex: 1, padding: '0.5rem 1rem', background: '#6f42c1', color: '#fff', border: 'none', borderRadius: '6px', cursor: 'pointer' }}
             >
               <i className={`fas ${isLoading ? 'fa-spinner fa-spin' : 'fa-paper-plane'}`}></i>
               {isLoading ? 'Sending...' : 'Send'}
@@ -216,26 +237,11 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
               className="btn btn-secondary"
               onClick={handleClear}
               disabled={isLoading}
-              style={{ flex: 1 }}
+              title="Clear chat history"
+              style={{ flex: 1, padding: '0.5rem 1rem', background: '#6c757d', color: '#fff', border: 'none', borderRadius: '6px', cursor: 'pointer' }}
             >
               <i className="fas fa-eraser"></i> Clear
             </button>
-          </div>
-
-          {/* Error Display */}
-          {error && (
-            <div className="translation-error">
-              <i className="fas fa-exclamation-triangle"></i>
-              {error}
-            </div>
-          )}
-
-          {/* Help Text */}
-          <div className="translation-help">
-            <p>
-              <i className="fas fa-info-circle"></i>
-              <strong>Tip:</strong> Ask about Puerto Rican culture, recipes, language, or anything else!
-            </p>
           </div>
         </div>
       </div>

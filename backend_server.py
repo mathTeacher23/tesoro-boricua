@@ -20,16 +20,18 @@ app = FastAPI(title="Tesoro Boricua API", version="1.0.0")
 
 # Initialize LLM (LM Studio connection)
 try:
-    from langchain_community.llms.ollama import Ollama
-    # Using Ollama-compatible endpoint from LM Studio
-    llm = Ollama(
+    from langchain_openai import ChatOpenAI
+    # Using OpenAI-compatible endpoint from LM Studio
+    llm = ChatOpenAI(
         model="meta-llama-3.1-8b-instruct",
-        base_url="http://localhost:1234",  # LM Studio default port
+        api_key="not-needed",  # LM Studio doesn't require API key
+        base_url="http://127.0.0.1:1234/v1",  # LM Studio OpenAI-compatible endpoint
         temperature=0.7,
     )
     logger.info("✓ LM Studio LLM initialized successfully")
 except Exception as e:
     logger.warning(f"⚠️ Could not initialize LM Studio LLM: {e}")
+    logger.warning(f"⚠️ Error details: {str(e)}")
     llm = None
 
 # Add CORS middleware for React frontend
@@ -134,17 +136,26 @@ async def chat_with_llm(request: ChatRequest):
 
         context = request.context
 
-        # Create a prompt with context
-        prompt = f"{context}\n\nUser: {message}\nAssistant:"
+        # Import message classes
+        from langchain_core.messages import SystemMessage, HumanMessage
+
+        # Create messages for ChatOpenAI
+        messages = [
+            SystemMessage(content=context),
+            HumanMessage(content=message)
+        ]
 
         # Call the LLM
         logger.info(f"Sending to LLM: {message[:100]}...")
-        response = llm.invoke(prompt)
+        response = llm.invoke(messages)
 
-        logger.info(f"LLM Response: {response[:100]}...")
+        # Extract text from response
+        response_text = response.content if hasattr(response, 'content') else str(response)
+
+        logger.info(f"LLM Response: {response_text[:100]}...")
 
         return ChatResponse(
-            response=response.strip(),
+            response=response_text.strip(),
             status="success"
         )
 
@@ -152,6 +163,8 @@ async def chat_with_llm(request: ChatRequest):
         raise
     except Exception as e:
         logger.error(f"Chat error: {str(e)}")
+        import traceback
+        logger.error(f"Traceback: {traceback.format_exc()}")
         raise HTTPException(status_code=500, detail=f"Chat failed: {str(e)}")
 
 @app.get("/api/health")
