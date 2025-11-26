@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
+import ReactMarkdown from 'react-markdown';
+import { colors } from '../config/colors';
 
-const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
+const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen, isFirst }) => {
   const [messages, setMessages] = useState([]);
   const [inputText, setInputText] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -78,21 +80,26 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
       {/* Toggle Button */}
       {!isOpen && (
         <button
-          className={`translation-toggle ${isOpen ? 'open' : ''}`}
           onClick={onToggle}
           title="Toggle LLM Chat"
           style={{
             position: 'fixed',
-            top: '40px',
-            right: otherSidebarOpen ? '370px' : '80px',
-            borderRadius: '8px',
+            top: '70px',
+            right: otherSidebarOpen ? '370px' : '120px',
+            borderRadius: '0 0 0 8px',
             zIndex: '1001',
-            padding: '10px 12px',
+            padding: '12px 16px',
+            height: '44px',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '0.5rem',
             transition: 'right 0.3s ease-in-out',
-            background: '#6f42c1',
+            background: colors.boribotSidebarBg,
             color: '#fff',
             border: 'none',
-            cursor: 'pointer'
+            cursor: 'pointer',
+            fontSize: '0.9rem',
+            fontWeight: '500'
           }}
         >
           Bori-Bot 🐸
@@ -104,11 +111,11 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
         className={`translation-sidebar ${isOpen ? 'open' : ''}`}
         style={{
           position: 'fixed',
-          right: isOpen ? '0' : '-350px',
-          top: '0',
-          height: '100vh',
+          right: isOpen ? (isFirst ? '0' : '350px') : '-350px',
+          top: '70px',
+          height: '93vh',
           width: '350px',
-          zIndex: '999',
+          zIndex: isFirst ? '1000' : '999',
           transition: 'right 0.3s ease-in-out',
           boxShadow: '-2px 0 10px rgba(0,0,0,0.1)',
           overflow: 'hidden',
@@ -117,8 +124,8 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
           background: '#fff'
         }}
       >
-        <div className="sidebar-header" style={{ background: '#6f42c1', padding: '1rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <h3 style={{ margin: 0, color: '#fff' }}>
+        <div className="sidebar-header" style={{ background: colors.boribotSidebarBg, padding: '0.75rem 1rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center', height: '3rem' }}>
+          <h3 style={{ margin: 0, color: '#fff', fontSize: '1rem', fontWeight: '600' }}>
             Bori-Bot 🐸
           </h3>
           <button
@@ -132,6 +139,7 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
             style={{
               background: 'transparent',
               border: 'none',
+              
               color: '#fff',
               fontSize: '24px',
               cursor: 'pointer',
@@ -165,13 +173,47 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
                   padding: '0.75rem',
                   borderRadius: '6px',
                   background: msg.role === 'user' ? '#e7f3ff' : '#f0f0f0',
-                  borderLeft: `4px solid ${msg.role === 'user' ? '#007bff' : '#6f42c1'}`,
+                  borderLeft: `4px solid ${msg.role === 'user' ? '#007bff' : colors.boribotMessageBorder}`,
                 }}
               >
-                <strong style={{ color: msg.role === 'user' ? '#0056b3' : '#4a235a', fontSize: '0.85rem' }}>
+                <strong style={{ color: msg.role === 'user' ? '#0056b3' : colors.boribotTextColor, fontSize: '0.85rem' }}>
                   {msg.role === 'user' ? 'You' : 'Bori-Bot 🐸'}
                 </strong>
-                <p style={{ margin: '0.5rem 0 0 0', fontSize: '0.9rem', color: '#333' }}>{msg.content}</p>
+                <div style={{ margin: '0.5rem 0 0 0', fontSize: '0.9rem', color: '#333' }}>
+                  {msg.role === 'user' ? (
+                    <p style={{ margin: 0 }}>{msg.content}</p>
+                  ) : (
+                    <ReactMarkdown
+                      style={{
+                        h1: { fontSize: '1.1rem', marginBottom: '0.5rem', marginTop: '0.5rem' },
+                        h2: { fontSize: '1rem', marginBottom: '0.4rem', marginTop: '0.4rem' },
+                        h3: { fontSize: '0.95rem', marginBottom: '0.3rem', marginTop: '0.3rem' },
+                        ul: { marginLeft: '1rem', marginBottom: '0.5rem' },
+                        ol: { marginLeft: '1rem', marginBottom: '0.5rem' },
+                        li: { marginBottom: '0.25rem' },
+                        code: { backgroundColor: '#e8e8e8', padding: '0.2rem 0.4rem', borderRadius: '3px', fontSize: '0.85rem' },
+                        pre: { backgroundColor: '#e8e8e8', padding: '0.5rem', borderRadius: '3px', overflow: 'auto' },
+                      }}
+                      components={{
+                        h1: ({ node, ...props }) => <h1 style={{ fontSize: '1.1rem', marginBottom: '0.5rem', marginTop: '0.5rem' }} {...props} />,
+                        h2: ({ node, ...props }) => <h2 style={{ fontSize: '1rem', marginBottom: '0.4rem', marginTop: '0.4rem' }} {...props} />,
+                        h3: ({ node, ...props }) => <h3 style={{ fontSize: '0.95rem', marginBottom: '0.3rem', marginTop: '0.3rem' }} {...props} />,
+                        ul: ({ node, ...props }) => <ul style={{ marginLeft: '1rem', marginBottom: '0.5rem' }} {...props} />,
+                        ol: ({ node, ...props }) => <ol style={{ marginLeft: '1rem', marginBottom: '0.5rem' }} {...props} />,
+                        li: ({ node, ...props }) => <li style={{ marginBottom: '0.25rem' }} {...props} />,
+                        code: ({ node, inline, ...props }) =>
+                          inline ? (
+                            <code style={{ backgroundColor: '#e8e8e8', padding: '0.2rem 0.4rem', borderRadius: '3px', fontSize: '0.85rem' }} {...props} />
+                          ) : (
+                            <pre style={{ backgroundColor: '#e8e8e8', padding: '0.5rem', borderRadius: '3px', overflow: 'auto' }}><code {...props} /></pre>
+                          ),
+                        p: ({ node, ...props }) => <p style={{ margin: '0.5rem 0', lineHeight: '1.4' }} {...props} />,
+                      }}
+                    >
+                      {msg.content}
+                    </ReactMarkdown>
+                  )}
+                </div>
               </div>
             ))
           )}
@@ -181,6 +223,33 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
             <div className="translation-error" style={{ marginTop: '1rem' }}>
               <i className="fas fa-exclamation-triangle"></i>
               {error}
+            </div>
+          )}
+
+          {/* Loading Spinner */}
+          {isLoading && (
+            <div
+              style={{
+                marginTop: '1rem',
+                padding: '1rem',
+                borderRadius: '6px',
+                background: '#f0f0f0',
+                borderLeft: `4px solid ${colors.boribotMessageBorder}`,
+                textAlign: 'center',
+              }}
+            >
+              <i
+                className="fas fa-spinner fa-spin"
+                style={{
+                  color: colors.boribotSendBtn,
+                  fontSize: '1.5rem',
+                  marginBottom: '0.5rem',
+                  display: 'block',
+                }}
+              ></i>
+              <p style={{ margin: '0.5rem 0 0 0', fontSize: '0.9rem', color: colors.boribotTextColor }}>
+                Waiting for Bori-Bot response...
+              </p>
             </div>
           )}
 
@@ -228,7 +297,7 @@ const LLMChatSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
               onClick={handleSendMessage}
               disabled={isLoading || !inputText.trim()}
               title="Send message to Bori-Bot"
-              style={{ flex: 1, padding: '0.5rem 1rem', background: '#6f42c1', color: '#fff', border: 'none', borderRadius: '6px', cursor: 'pointer' }}
+              style={{ flex: 1, padding: '0.5rem 1rem', background: colors.boribotSendBtn, color: '#fff', border: 'none', borderRadius: '6px', cursor: 'pointer' }}
             >
               <i className={`fas ${isLoading ? 'fa-spinner fa-spin' : 'fa-paper-plane'}`}></i>
               {isLoading ? 'Sending...' : 'Send'}

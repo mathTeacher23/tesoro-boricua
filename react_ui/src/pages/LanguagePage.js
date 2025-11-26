@@ -17,6 +17,7 @@ const LanguagePage = () => {
   const [expandedCards, setExpandedCards] = useState(new Set());
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [chatSidebarOpen, setChatSidebarOpen] = useState(false);
+  const [firstSidebarOpened, setFirstSidebarOpened] = useState(null); // 'translation' or 'chat'
 
   // Load data from translated JSON files (they have English definitions)
   const loadDataForLetter = async (letter) => {
@@ -291,18 +292,44 @@ const LanguagePage = () => {
       {/* Translation Sidebar */}
       <TranslationSidebar
         isOpen={sidebarOpen}
-        onToggle={() => setSidebarOpen(!sidebarOpen)}
+        onToggle={() => {
+          if (!sidebarOpen && !chatSidebarOpen) {
+            // First sidebar being opened
+            setFirstSidebarOpened('translation');
+          } else if (sidebarOpen && chatSidebarOpen) {
+            // Closing the first sidebar while second is open
+            setFirstSidebarOpened('chat');
+          } else if (sidebarOpen && !chatSidebarOpen) {
+            // Closing the only open sidebar
+            setFirstSidebarOpened(null);
+          }
+          setSidebarOpen(!sidebarOpen);
+        }}
         otherSidebarOpen={chatSidebarOpen}
+        isFirst={firstSidebarOpened === 'translation'}
       />
 
       {/* LLM Chat Sidebar */}
       <LLMChatSidebar
         isOpen={chatSidebarOpen}
-        onToggle={() => setChatSidebarOpen(!chatSidebarOpen)}
+        onToggle={() => {
+          if (!chatSidebarOpen && !sidebarOpen) {
+            // First sidebar being opened
+            setFirstSidebarOpened('chat');
+          } else if (chatSidebarOpen && sidebarOpen) {
+            // Closing the first sidebar while second is open
+            setFirstSidebarOpened('translation');
+          } else if (chatSidebarOpen && !sidebarOpen) {
+            // Closing the only open sidebar
+            setFirstSidebarOpened(null);
+          }
+          setChatSidebarOpen(!chatSidebarOpen);
+        }}
         otherSidebarOpen={sidebarOpen}
+        isFirst={firstSidebarOpened === 'chat'}
       />
 
-      <div className="page-content">
+      <div className="page-content" style={{ marginTop: '2rem' }}>
         <div className="page-header">
           <h2>📖 Language & Words</h2>
           <p>Explore Puerto Rican Spanish words, phrases, and expressions from multiple sources.</p>

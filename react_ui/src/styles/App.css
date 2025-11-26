@@ -14,14 +14,20 @@ body {
 
 .app {
   min-height: 100vh;
+  padding-top: 5rem;
 }
 
 /* Header styles */
 .header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
   background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
   color: white;
   padding: 1rem 2rem;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  z-index: 1002;
 }
 
 .header h1 {
@@ -312,6 +318,40 @@ body {
   line-height: 1.5;
   font-size: 0.9rem;
   flex-grow: 1;
+}
+
+.tile .btn {
+  margin-top: 1rem !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: block !important;
+  width: 100% !important;
+  pointer-events: auto !important;
+  position: static !important;
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+  clip: auto !important;
+  transform: none !important;
+}
+
+.tile:hover .btn {
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: block !important;
+  width: 100% !important;
+  max-height: none !important;
+  overflow: visible !important;
+}
+
+.tile .btn.btn-success,
+.tile .btn.btn-info {
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: block !important;
+  width: 100% !important;
+  max-height: none !important;
+  overflow: visible !important;
 }
 
 .tile-badges {
@@ -796,10 +836,11 @@ body {
 .sidebar-header {
   background: linear-gradient(135deg, #f90404 0%, #f90404 100%);
   color: white;
-  padding: 1rem;
+  padding: 0.75rem 1rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height: 3rem;
 }
 
 .sidebar-header h3 {

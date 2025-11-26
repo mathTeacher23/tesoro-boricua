@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
+import { colors } from '../config/colors';
 
-const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
+const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen, isFirst }) => {
   const [inputText, setInputText] = useState('');
   const [translatedText, setTranslatedText] = useState('');
   const [fromLang, setFromLang] = useState('en');
@@ -65,21 +66,29 @@ const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
       {/* Toggle Button */}
       {!isOpen && (
         <button
-          className={`translation-toggle ${isOpen ? 'open' : ''}`}
           onClick={onToggle}
           title="Toggle Translation Sidebar"
           style={{
             position: 'fixed',
-            top: '45px',
-            right: otherSidebarOpen ? '370px' : '20px',
-            borderRadius: '8px',
+            top: '70px',
+            right: otherSidebarOpen ? '370px' : '10px',
+            borderRadius: '0 0 8px 0',
             zIndex: '1001',
-            padding: '10px 12px',
-            transition: 'right 0.3s ease-in-out'
+            padding: '12px 16px',
+            height: '44px',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '0.5rem',
+            transition: 'right 0.3s ease-in-out',
+            background: colors.translateSidebarBg,
+            color: '#fff',
+            border: 'none',
+            cursor: 'pointer',
+            fontSize: '0.9rem',
+            fontWeight: '500'
           }}
         >
-          
-          Translate <i className="fas fa-language"></i>
+          <i className="fas fa-language"></i> Translate
         </button>
       )}
 
@@ -89,11 +98,11 @@ const TranslationSidebar = ({ isOpen, onToggle, otherSidebarOpen }) => {
         data-sidebar="translation"
         style={{
           position: 'fixed',
-          right: isOpen ? (otherSidebarOpen ? '350px' : '0') : '-350px',
-          top: '0',
-          height: '100vh',
+          right: isOpen ? (isFirst ? '0' : '350px') : '-350px',
+          top: '70px',
+          height: '93vh', /* had to shift this down since anchoring header*/
           width: '350px',
-          zIndex: '999',
+          zIndex: isFirst ? '1000' : '999',
           transition: 'right 0.3s ease-in-out',
           boxShadow: '-2px 0 10px rgba(0,0,0,0.1)',
           overflow: 'hidden',

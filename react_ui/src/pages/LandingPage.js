@@ -52,7 +52,7 @@ const LandingPage = () => {
               <span className="badge info">Available Now</span>
             </div>
           </div>
-          <button className="btn btn-success">Start Learning</button>
+          <button className="btn btn-info">Start Learning</button>
         </div>
 
         {/* Discover Puerto Rico Tile */}
@@ -84,7 +84,7 @@ const LandingPage = () => {
               <span className="badge info">Available Now</span>
             </div>
           </div>
-          <button className="btn btn-success">View Recipes</button>
+          <button className="btn btn-info">View Recipes</button>
         </div>
 
         {/* Music & Arts Tile */}
