@@ -16,6 +16,18 @@ const LandingPage = () => {
     navigate('/recipes');
   };
 
+  const handleMusicArtsClick = () => {
+    navigate('/music-arts');
+  };
+
+  const handleHistoryCultureClick = () => {
+    navigate('/history-culture');
+  };
+
+  const handleMeetCommunityClick = () => {
+    navigate('/meet-community');
+  };
+
   return (
     <div className="container">
       {/* Welcome Section */}
@@ -73,6 +85,51 @@ const LandingPage = () => {
             </div>
           </div>
           <button className="btn btn-success">View Recipes</button>
+        </div>
+
+        {/* Music & Arts Tile */}
+        <div className="tile available" onClick={handleMusicArtsClick}>
+          <div>
+            <div className="tile-icon music">
+              <i className="fas fa-music"></i>
+            </div>
+            <h4>🎵 Music & Arts</h4>
+            <p>Explore Puerto Rican music, dance, and traditional art forms.</p>
+            <div className="tile-badges">
+              <span className="badge coming-soon">Coming Soon</span>
+            </div>
+          </div>
+          <button className="btn btn-secondary">Learn More</button>
+        </div>
+
+        {/* History & Culture Tile */}
+        <div className="tile available" onClick={handleHistoryCultureClick}>
+          <div>
+            <div className="tile-icon history">
+              <i className="fas fa-book"></i>
+            </div>
+            <h4>📚 History & Culture</h4>
+            <p>Dive deep into Puerto Rico's rich history and cultural heritage.</p>
+            <div className="tile-badges">
+              <span className="badge coming-soon">Coming Soon</span>
+            </div>
+          </div>
+          <button className="btn btn-secondary">Discover</button>
+        </div>
+
+        {/* Meet the Community Tile */}
+        <div className="tile available" onClick={handleMeetCommunityClick}>
+          <div>
+            <div className="tile-icon community">
+              <i className="fas fa-globe"></i>
+            </div>
+            <h4>🌍 Meet the Community</h4>
+            <p>Connect with fellow learners and celebrate Puerto Rican heritage together.</p>
+            <div className="tile-badges">
+              <span className="badge coming-soon">Coming Soon</span>
+            </div>
+          </div>
+          <button className="btn btn-secondary">Join Us</button>
         </div>
       </div>
     </div>

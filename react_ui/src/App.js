@@ -6,6 +6,9 @@ import LanguagePage from './pages/LanguagePage';
 import DiscoverPage from './pages/DiscoverPage';
 import RecipePage from './pages/RecipePage';
 import RecipeDetailPage from './pages/RecipeDetailPage';
+import MusicArtsPage from './pages/MusicArtsPage';
+import HistoryCulturePage from './pages/HistoryCulturePage';
+import MeetCommunityPage from './pages/MeetCommunityPage';
 import './styles/App.css';
 
 function App() {
@@ -20,6 +23,9 @@ function App() {
           <Route path="/discover" element={<DiscoverPage />} />
           <Route path="/recipes" element={<RecipePage />} />
           <Route path="/recipes/:recipeId" element={<RecipeDetailPage />} />
+          <Route path="/music-arts" element={<MusicArtsPage />} />
+          <Route path="/history-culture" element={<HistoryCulturePage />} />
+          <Route path="/meet-community" element={<MeetCommunityPage />} />
         </Routes>
       </Router>
     </div>
