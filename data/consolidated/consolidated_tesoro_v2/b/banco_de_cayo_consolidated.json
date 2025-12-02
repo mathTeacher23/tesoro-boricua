@@ -1,0 +1,44 @@
+{
+  "banco_de_cayo": {
+    "1": {
+      "consolidated_definition": "Elevación del fondo.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.0,
+      "consolidated_themes": [
+        "CUERPOS DE AGUA. BARCOS. PECES.",
+        "GEOGRAFÍA. UBICACIÓN EN EL ESPACIO."
+      ],
+      "all_themes_found": [
+        "CUERPOS DE AGUA. BARCOS. PECES.",
+        "GEOGRAFÍA. UBICACIÓN EN EL ESPACIO."
+      ],
+      "years": [
+        1986,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "VAQUERO,",
+          "year": "1986"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo compuesto",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Elevación del fondo.",
+        "Banco de arena."
+      ]
+    }
+  }
+}

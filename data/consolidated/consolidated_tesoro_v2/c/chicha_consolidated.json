@@ -1,0 +1,91 @@
+{
+  "chicha": {
+    "1": {
+      "consolidated_definition": "Bebida embriagante que usaban los indios, preparada a base de maíz, frutas y otros ingredientes.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 5,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.1274481658692185,
+      "consolidated_themes": [
+        "ALCOHOL."
+      ],
+      "all_themes_found": [
+        "ALCOHOL."
+      ],
+      "years": [
+        1788,
+        1969,
+        1984,
+        1986
+      ],
+      "sources": [
+        {
+          "source": "ABBAD Y LASIERRA,",
+          "year": "1788"
+        },
+        {
+          "source": "HERNÁNDEZ AQUINO,",
+          "year": "1969"
+        },
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "GAZTAMBIDE,",
+          "year": "1986"
+        }
+      ],
+      "origin": "Indigenismo",
+      "grammar": [
+        "sustantivo",
+        "femenino"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Bebida de la chicha, que hacían las mujeres de maíz, frutas y otras cosas.",
+        "Bebida embriagante que usaban los indios, preparada a base de maíz, frutas y otros ingredientes.",
+        "Xixá."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Vulva.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "High (≥0.6) - Strong semantic consistency",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [
+        "CUERPO HUMANO."
+      ],
+      "all_themes_found": [
+        "CUERPO HUMANO."
+      ],
+      "years": [
+        1788,
+        1984
+      ],
+      "sources": [
+        {
+          "source": "ABBAD Y LASIERRA,",
+          "year": "1788"
+        },
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "femenino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Vulva.",
+        "Vulva."
+      ]
+    }
+  }
+}

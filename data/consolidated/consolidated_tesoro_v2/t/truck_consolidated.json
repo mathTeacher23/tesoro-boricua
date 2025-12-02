@@ -1,0 +1,63 @@
+{
+  "truck": {
+    "1": {
+      "consolidated_definition": "Camión de carga.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 6,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.13621031746031745,
+      "consolidated_themes": [
+        "TRANSPORTE."
+      ],
+      "all_themes_found": [
+        "TRANSPORTE."
+      ],
+      "years": [
+        1973,
+        1984,
+        1990,
+        2001,
+        2009,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "HUYKE,",
+          "year": "1973"
+        },
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "ÁLVAREZ NAZARIO,",
+          "year": "1990"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2001"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2009"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Camión (de carga).",
+        "Camión de carga. También dicen tros.",
+        "Camión. También troh."
+      ]
+    }
+  }
+}

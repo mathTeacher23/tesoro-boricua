@@ -1,0 +1,71 @@
+{
+  "polla": {
+    "1": {
+      "consolidated_definition": "Persona joven de gran belleza, atractiva y elegante.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 4,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.13000610500610502,
+      "consolidated_themes": [
+        "CUALIDAD."
+      ],
+      "all_themes_found": [
+        "CUALIDAD."
+      ],
+      "years": [
+        1984,
+        1989,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "CLAUDIO DE LA TORRE,",
+          "year": "1989"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "femenino"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Mujer joven y de gran belleza.",
+        "Mujer culona.",
+        "Muchacha agradable, bonita, atractiva, guapa y elegante."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Ver pinga .",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 1,
+      "definition_stability": "Single definition (no comparison)",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [],
+      "all_themes_found": [],
+      "years": [],
+      "sources": [
+        {
+          "source": "",
+          "year": ""
+        }
+      ],
+      "origin": null,
+      "grammar": [],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Ver pinga ."
+      ]
+    }
+  }
+}

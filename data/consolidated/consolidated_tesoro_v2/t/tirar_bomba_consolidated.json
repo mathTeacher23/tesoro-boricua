@@ -1,0 +1,83 @@
+{
+  "tirar_bomba": {
+    "1": {
+      "consolidated_definition": "Dar droga mezclada.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "High (≥0.6) - Strong semantic consistency",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [
+        "DROGAS.",
+        "EVENTO."
+      ],
+      "all_themes_found": [
+        "DROGAS.",
+        "EVENTO."
+      ],
+      "years": [
+        1973,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "ALTIERI DE BARRETO,",
+          "year": "1973"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "locución verbal"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Dar droga mezclada.",
+        "Dar droga mezclada."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Dejar plantado, o esperando, a alguien.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 4,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.12271062271062272,
+      "consolidated_themes": [
+        "EVENTO.",
+        "COMUNICACIÓN."
+      ],
+      "all_themes_found": [
+        "COMUNICACIÓN.",
+        "EVENTO."
+      ],
+      "years": [
+        1989,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "CLAUDIO DE LA TORRE,",
+          "year": "1989"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "locución verbal"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Dejar plantado, o esperando, a alguien.",
+        "Decir algo y no hacerlo. No cumplir con lo que se había prometido.",
+        "Dejar plantado a alguien."
+      ]
+    }
+  }
+}

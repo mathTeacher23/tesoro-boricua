@@ -9,4 +9,8 @@ Ingredients:
 * Vanilla Extract (2 Tbsp)
 
 Instructions:
-It’s best to put all the ingredients into a large bowl or caldero. Combine all the ingredients and add Rum to taste and strength. Whisk until all ingredients are blended well. Spoon out amounts and use a funnel to fill the bottles. 
+1. Put all the ingredients into a large bowl or caldero
+2. Combine all the ingredients together
+3. Add Bacardi Rum to taste and desired strength
+4. Whisk until all ingredients are blended well
+5. Spoon out amounts and use a funnel to fill bottles 

@@ -9,6 +9,7 @@ import RecipeDetailPage from './pages/RecipeDetailPage';
 import MusicArtsPage from './pages/MusicArtsPage';
 import HistoryCulturePage from './pages/HistoryCulturePage';
 import MeetCommunityPage from './pages/MeetCommunityPage';
+import CreatorBioPage from './pages/CreatorBioPage';
 import './styles/App.css';
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
           <Route path="/music-arts" element={<MusicArtsPage />} />
           <Route path="/history-culture" element={<HistoryCulturePage />} />
           <Route path="/meet-community" element={<MeetCommunityPage />} />
+          <Route path="/creator-bio" element={<CreatorBioPage />} />
         </Routes>
       </Router>
     </div>

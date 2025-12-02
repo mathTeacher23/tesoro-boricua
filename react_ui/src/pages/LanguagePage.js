@@ -24,6 +24,7 @@ const LanguagePage = () => {
     try {
       const tesoroResponse = await fetch(`/data/translated_tesoro/transformed_tesoro_letter_${letter.toLowerCase()}.json`);
       const dialectoResponse = await fetch(`/data/translated_dialecto/dialecto_letter_${letter.toUpperCase()}.json`);
+      const tesoroV2Response = await fetch(`/data/translated_tesoro_v2/transformed_tesoro_v2_${letter.toLowerCase()}.json`);
 
       const data = [];
 
@@ -32,6 +33,7 @@ const LanguagePage = () => {
         const tesoroEntries = tesoroData.map(item => ({
           ...item,
           file_source: 'Tesoro',
+          data_version: 'V1',
           has_overlap: false
         }));
         data.push(...tesoroEntries);
@@ -42,9 +44,21 @@ const LanguagePage = () => {
         const dialectoEntries = dialectoData.map(item => ({
           ...item,
           file_source: 'Dialecto',
+          data_version: 'V1',
           has_overlap: false
         }));
         data.push(...dialectoEntries);
+      }
+
+      if (tesoroV2Response.ok) {
+        const tesoroV2Data = await tesoroV2Response.json();
+        const tesoroV2Entries = tesoroV2Data.map(item => ({
+          ...item,
+          file_source: 'Tesoro',
+          data_version: 'V2',
+          has_overlap: false
+        }));
+        data.push(...tesoroV2Entries);
       }
 
       return data;
@@ -64,8 +78,9 @@ const LanguagePage = () => {
         try {
           const tesoroResponse = await fetch(`/data/translated_tesoro/transformed_tesoro_letter_${letter.toLowerCase()}.json`, { method: 'HEAD' });
           const dialectoResponse = await fetch(`/data/translated_dialecto/dialecto_letter_${letter.toUpperCase()}.json`, { method: 'HEAD' });
+          const tesoroV2Response = await fetch(`/data/translated_tesoro_v2/transformed_tesoro_v2_${letter.toLowerCase()}.json`, { method: 'HEAD' });
 
-          if (tesoroResponse.ok || dialectoResponse.ok) {
+          if (tesoroResponse.ok || dialectoResponse.ok || tesoroV2Response.ok) {
             lettersWithData.push(letter);
           }
         } catch (error) {
@@ -84,6 +99,10 @@ const LanguagePage = () => {
 
     if (sourceFilter === 'tesoro') {
       return data.filter(item => item.file_source === 'Tesoro');
+    } else if (sourceFilter === 'tesoro-v1') {
+      return data.filter(item => item.file_source === 'Tesoro' && item.data_version === 'V1');
+    } else if (sourceFilter === 'tesoro-v2') {
+      return data.filter(item => item.file_source === 'Tesoro' && item.data_version === 'V2');
     } else if (sourceFilter === 'dialecto') {
       return data.filter(item => item.file_source === 'Dialecto');
     } else if (sourceFilter === 'overlap') {
@@ -190,6 +209,10 @@ const LanguagePage = () => {
 
       if (newSourceFilter === 'tesoro') {
         return data.filter(item => item.file_source === 'Tesoro');
+      } else if (newSourceFilter === 'tesoro-v1') {
+        return data.filter(item => item.file_source === 'Tesoro' && item.data_version === 'V1');
+      } else if (newSourceFilter === 'tesoro-v2') {
+        return data.filter(item => item.file_source === 'Tesoro' && item.data_version === 'V2');
       } else if (newSourceFilter === 'dialecto') {
         return data.filter(item => item.file_source === 'Dialecto');
       } else if (newSourceFilter === 'overlap') {
@@ -226,21 +249,82 @@ const LanguagePage = () => {
     setExpandedCards(newExpanded);
   };
 
-  const createDefinitionCard = (item, index) => {
+  const groupAndDisplayResults = (results) => {
+    // Group results by term (base word without superscript)
+    const groupedByTerm = {};
+
+    results.forEach((item, index) => {
+      const baseTermKey = item.term;
+
+      if (!groupedByTerm[baseTermKey]) {
+        groupedByTerm[baseTermKey] = [];
+      }
+
+      groupedByTerm[baseTermKey].push({ ...item, originalIndex: index });
+    });
+
+    // Sort each group by superscript (numerically)
+    Object.keys(groupedByTerm).forEach(term => {
+      groupedByTerm[term].sort((a, b) => {
+        const superscriptA = parseInt(a.superscript || '1');
+        const superscriptB = parseInt(b.superscript || '1');
+        return superscriptA - superscriptB;
+      });
+    });
+
+    // Create grouped display
+    return Object.keys(groupedByTerm)
+      .sort()
+      .map((term, termIndex) => {
+        const variantsOfTerm = groupedByTerm[term];
+        const hasMultipleVariants = variantsOfTerm.length > 1;
+
+        return (
+          <div key={`term-group-${termIndex}`} className="term-group">
+            {hasMultipleVariants && (
+              <div className="term-group-header">
+                <h4>{term}</h4>
+                <span className="variant-count">{variantsOfTerm.length} meaning{variantsOfTerm.length > 1 ? 's' : ''}</span>
+              </div>
+            )}
+
+            <div className={hasMultipleVariants ? 'term-variants' : ''}>
+              {variantsOfTerm.map((item, variantIndex) =>
+                createDefinitionCard(item, variantIndex, hasMultipleVariants)
+              )}
+            </div>
+          </div>
+        );
+      });
+  };
+
+  const createDefinitionCard = (item, index, isInGroup = false) => {
     const sourceClass = item.file_source === 'Tesoro' ? 'tesoro' : 'dialecto';
     const badgeClass = item.file_source === 'Tesoro' ? 'badge-tesoro' : 'badge-dialecto';
     const cardId = `${item.term}-${index}`;
     const isExpanded = expandedCards.has(cardId);
+    const isV2 = item.data_version === 'V2';
+    const stability = isV2 && item.consolidation_metadata?.definition_stability;
+    const score = isV2 && item.consolidation_metadata?.semantic_similarity_score;
 
     return (
-      <div key={index} className={`definition-card ${sourceClass} ${isExpanded ? 'expanded' : ''}`}>
+      <div key={index} className={`definition-card ${sourceClass} ${isExpanded ? 'expanded' : ''} ${isInGroup ? 'in-group' : ''}`}>
         <div
           className="card-header"
           onClick={() => toggleCard(cardId)}
           style={{ cursor: 'pointer' }}
         >
           <div className="term-title">
-            {item.term}
+            {isInGroup ? (
+              <>
+                Meaning <sup className="superscript-large">{item.superscript || '1'}</sup>
+              </>
+            ) : (
+              <>
+                {item.term}
+                {item.superscript && <sup>{item.superscript}</sup>}
+              </>
+            )}
             {item.has_overlap && (
               <span title="This term appears in both sources" style={{ color: '#ffc107' }}>
                 🔄
@@ -249,7 +333,25 @@ const LanguagePage = () => {
           </div>
 
           <div className="card-controls">
-            <span className={`source-badge ${badgeClass}`}>{item.file_source}</span>
+            <span className={`source-badge ${badgeClass}`}>
+              {item.file_source} {item.data_version}
+            </span>
+            {isV2 && stability && (
+              <span
+                className="stability-badge"
+                title={`Stability: ${stability}, Similarity: ${score}`}
+                style={{
+                  backgroundColor: stability.includes('High') ? '#4CAF50' : '#FFC107',
+                  color: 'white',
+                  padding: '2px 8px',
+                  borderRadius: '12px',
+                  fontSize: '0.75rem',
+                  marginLeft: '4px'
+                }}
+              >
+                ✓ {stability.includes('High') ? 'Reliable' : 'Moderate'}
+              </span>
+            )}
             <span className="expand-icon">
               {isExpanded ? '▼' : '▶'}
             </span>
@@ -275,6 +377,28 @@ const LanguagePage = () => {
                     <div key={idx} className="definition-item">{def}</div>
                   ))}
                 </div>
+              </div>
+            )}
+
+            {isV2 && item.consolidation_metadata && (
+              <div className="metadata-section" style={{
+                backgroundColor: '#f5f5f5',
+                padding: '12px',
+                marginTop: '12px',
+                borderLeft: '4px solid #2196F3',
+                borderRadius: '4px',
+                fontSize: '0.85rem'
+              }}>
+                <h5>📊 Consolidation Metadata:</h5>
+                <p><strong>Stability:</strong> {item.consolidation_metadata.definition_stability}</p>
+                <p><strong>Similarity Score:</strong> {item.consolidation_metadata.semantic_similarity_score?.toFixed(2)}</p>
+                <p><strong>Definitions Analyzed:</strong> {item.consolidation_metadata.num_definitions_analyzed}</p>
+                {item.consolidation_metadata.themes && item.consolidation_metadata.themes.length > 0 && (
+                  <p><strong>Themes:</strong> {item.consolidation_metadata.themes.slice(0, 3).join(', ')}</p>
+                )}
+                {item.consolidation_metadata.related_words && item.consolidation_metadata.related_words.length > 0 && (
+                  <p><strong>Related Words:</strong> {item.consolidation_metadata.related_words.slice(0, 3).join(', ')}</p>
+                )}
               </div>
             )}
           </div>
@@ -370,7 +494,9 @@ const LanguagePage = () => {
               onChange={(e) => handleSourceFilterChange(e.target.value)}
             >
               <option value="all">All sources</option>
-              <option value="tesoro">Tesoro (Dictionary)</option>
+              <option value="tesoro">Tesoro (All versions)</option>
+              <option value="tesoro-v1">Tesoro V1 (Original)</option>
+              <option value="tesoro-v2">Tesoro V2 (Consolidated)</option>
               <option value="dialecto">Dialecto (Cultural)</option>
               <option value="overlap">Overlapping terms</option>
             </select>
@@ -393,6 +519,16 @@ const LanguagePage = () => {
             {selectedLetter && ` starting with "${selectedLetter}"`}
             {searchQuery && ` for "${searchQuery}"`}
             {sourceFilter !== 'all' && ` in ${sourceFilter} source`}
+
+            {results.some(r => r.data_version === 'V2') && (
+              <div className="version-info" style={{ marginTop: '8px', fontSize: '0.9rem', color: '#666' }}>
+                <span>V2 consolidated: {results.filter(r => r.data_version === 'V2').length}</span>
+                {results.some(r => r.data_version === 'V1') && (
+                  <span style={{ marginLeft: '16px' }}>V1 original: {results.filter(r => r.data_version === 'V1').length}</span>
+                )}
+              </div>
+            )}
+
             <div className="results-hint">
               💡 Click on any word to see its definitions
             </div>
@@ -412,7 +548,7 @@ const LanguagePage = () => {
               <p>{selectedLetter ? 'Try selecting a different letter.' : searchQuery ? 'Try adjusting your search query or search type.' : 'Click on any letter above to see available words.'}</p>
             </div>
           ) : (
-            results.map((item, index) => createDefinitionCard(item, index))
+            groupAndDisplayResults(results)
           )}
         </div>
       </div>

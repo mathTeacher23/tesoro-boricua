@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TESORO Boricua - Word Validation</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background-color: #f5f5f5;
+    }
+
+    .validation-app {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      background-color: #f5f5f5;
+    }
+
+    /* Header */
+    .app-header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 20px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      flex-shrink: 0;
+    }
+
+    .app-header h1 {
+      margin: 0 0 5px 0;
+      font-size: 28px;
+    }
+
+    .app-header p {
+      margin: 0;
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    /* Search Bar */
+    .search-container {
+      background: white;
+      padding: 15px 20px;
+      border-bottom: 1px solid #ddd;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+      flex-shrink: 0;
+    }
+
+    .search-input-wrapper {
+      flex: 1;
+      min-width: 300px;
+      display: flex;
+      gap: 10px;
+    }
+
+    .search-bar {
+      flex: 1;
+      padding: 10px 15px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 14px;
+      transition: all 0.2s;
+    }
+
+    .search-bar:focus {
+      outline: none;
+      border-color: #667eea;
+      box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+    }
+
+    .alphabet-buttons {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+    }
+
+    .letter-btn {
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      background: white;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 600;
+      transition: all 0.15s;
+    }
+
+    .letter-btn:hover {
+      border-color: #667eea;
+      background: #f0f4ff;
+    }
+
+    .letter-btn.active {
+      background: #667eea;
+      color: white;
+      border-color: #667eea;
+    }
+
+    /* Main Content */
+    .main-content {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+      gap: 0;
+      min-height: 0;
+    }
+
+    .words-panel {
+      width: 25%;
+      background: white;
+      border-right: 1px solid #ddd;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      transition: width 0.3s ease;
+      min-height: 0;
+    }
+
+    .words-panel.collapsed {
+      width: 50px;
+    }
+
+    .words-header {
+      padding: 12px 15px;
+      border-bottom: 1px solid #eee;
+      font-weight: 600;
+      color: #333;
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-shrink: 0;
+    }
+
+    .collapse-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+      color: #667eea;
+      padding: 4px 8px;
+      border-radius: 3px;
+      transition: all 0.2s;
+      flex-shrink: 0;
+    }
+
+    .collapse-btn:hover {
+      background: #f0f0f0;
+    }
+
+    .words-panel.collapsed .words-header span {
+      display: none;
+    }
+
+    .words-list {
+      flex: 1;
+      overflow-y: scroll;
+      overflow-x: hidden;
+      padding: 0;
+      min-height: 0;
+    }
+
+    .words-panel.collapsed .words-list {
+      display: none;
+    }
+
+    .word-item {
+      padding: 10px 15px;
+      border-bottom: 1px solid #f0f0f0;
+      cursor: pointer;
+      transition: background-color 0.15s;
+      font-size: 13px;
+      color: #333;
+    }
+
+    .word-item:hover {
+      background-color: #f9f9f9;
+    }
+
+    .word-item.selected {
+      background-color: #e8eaf6;
+      border-left: 3px solid #667eea;
+      padding-left: 12px;
+      font-weight: 600;
+      color: #667eea;
+    }
+
+    .no-words {
+      padding: 20px;
+      text-align: center;
+      color: #999;
+      font-size: 12px;
+    }
+
+    /* Comparison Panel */
+    .comparison-panel {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      background: white;
+      min-height: 0;
+    }
+
+    /* Word Info Bar - goes across top */
+    .word-info-bar {
+      padding: 15px 20px;
+      background: linear-gradient(135deg, #f5f7ff 0%, #fff 100%);
+      border-bottom: 2px solid #667eea;
+      flex-shrink: 0;
+    }
+
+    .word-info-title {
+      font-size: 24px;
+      font-weight: 700;
+      color: #333;
+      margin-bottom: 8px;
+    }
+
+    .word-info-meta {
+      display: flex;
+      gap: 15px;
+      font-size: 12px;
+      color: #666;
+    }
+
+    /* Columns Container */
+    .columns-wrapper {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      flex: 1;
+      overflow: hidden;
+      min-height: 0;
+    }
+
+    .column {
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      border-right: 1px solid #ddd;
+      min-height: 0;
+    }
+
+    .column:last-child {
+      border-right: none;
+    }
+
+    .column-header {
+      padding: 12px 20px;
+      background: #f5f5f5;
+      border-bottom: 1px solid #ddd;
+      font-weight: 600;
+      font-size: 12px;
+      color: #666;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      flex-shrink: 0;
+    }
+
+    .column-content {
+      flex: 1;
+      overflow-y: scroll;
+      overflow-x: hidden;
+      padding: 15px 20px;
+      min-height: 0;
+    }
+
+    /* Raw Data Styles */
+    .definitions-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .definition-entry {
+      padding: 12px;
+      background: #fafafa;
+      border-left: 3px solid #e0e0e0;
+      border-radius: 4px;
+    }
+
+    .definition-entry:hover {
+      background: #f5f5f5;
+      border-left-color: #667eea;
+    }
+
+    .definition-number {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 10px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #667eea;
+    }
+
+    .definition-badge {
+      background: #667eea;
+      color: white;
+      padding: 3px 8px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 600;
+      min-width: 30px;
+      text-align: center;
+      flex-shrink: 0;
+    }
+
+    .definition-title {
+      font-size: 12px;
+      color: #333;
+      flex: 1;
+    }
+
+    .definition-text {
+      font-size: 12px;
+      line-height: 1.6;
+      color: #333;
+      margin-bottom: 10px;
+    }
+
+    .definition-meta {
+      font-size: 10px;
+      color: #999;
+      margin-bottom: 8px;
+    }
+
+    .definition-meta-item {
+      margin-bottom: 3px;
+    }
+
+    .meta-label {
+      font-weight: 600;
+      display: inline-block;
+      min-width: 60px;
+      color: #666;
+    }
+
+    .themes-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-top: 6px;
+    }
+
+    .theme-badge {
+      background: #e3f2fd;
+      color: #1976d2;
+      padding: 3px 6px;
+      border-radius: 3px;
+      font-size: 9px;
+      font-weight: 600;
+    }
+
+    /* Preprocessed Data Styles */
+    .variant-section {
+      margin-bottom: 18px;
+      padding: 12px;
+      background: #fafafa;
+      border-radius: 4px;
+      border: 1px solid #e0e0e0;
+    }
+
+    .variant-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 10px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #667eea;
+    }
+
+    .superscript-badge {
+      background: #667eea;
+      color: white;
+      padding: 3px 8px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 600;
+      min-width: 30px;
+      text-align: center;
+    }
+
+    .variant-title {
+      font-size: 12px;
+      color: #333;
+      flex: 1;
+    }
+
+    .consolidated-def {
+      background: white;
+      padding: 10px;
+      border-left: 3px solid #4caf50;
+      border-radius: 3px;
+      margin-bottom: 10px;
+      font-size: 12px;
+      line-height: 1.5;
+      color: #333;
+    }
+
+    .metadata-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      font-size: 10px;
+    }
+
+    .metadata-item {
+      background: white;
+      padding: 6px;
+      border-radius: 3px;
+      border-left: 2px solid #ddd;
+    }
+
+    .metadata-label {
+      font-weight: 600;
+      color: #666;
+      margin-bottom: 2px;
+      font-size: 9px;
+    }
+
+    .metadata-value {
+      color: #333;
+      font-size: 10px;
+    }
+
+    .stability-high {
+      color: #4caf50;
+      font-weight: 600;
+    }
+
+    .stability-medium {
+      color: #ff9800;
+      font-weight: 600;
+    }
+
+    .stability-low {
+      color: #f44336;
+      font-weight: 600;
+    }
+
+    /* Placeholder */
+    .placeholder-content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex: 1;
+      color: #999;
+      text-align: center;
+      font-size: 14px;
+    }
+
+    .placeholder-content p {
+      margin: 0;
+    }
+
+    /* Scrollbar */
+    .words-list::-webkit-scrollbar,
+    .column-content::-webkit-scrollbar {
+      width: 10px;
+    }
+
+    .words-list::-webkit-scrollbar-track,
+    .column-content::-webkit-scrollbar-track {
+      background: #f5f5f5;
+    }
+
+    .words-list::-webkit-scrollbar-thumb,
+    .column-content::-webkit-scrollbar-thumb {
+      background: #b0b0b0;
+      border-radius: 5px;
+      border: 2px solid #f5f5f5;
+    }
+
+    .words-list::-webkit-scrollbar-thumb:hover,
+    .column-content::-webkit-scrollbar-thumb:hover {
+      background: #888;
+    }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
+      .columns-wrapper {
+        grid-template-columns: 1fr;
+      }
+
+      .column {
+        border-right: none;
+        border-bottom: 1px solid #ddd;
+      }
+
+      .column:last-child {
+        border-bottom: none;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .words-panel {
+        width: 100%;
+        max-height: 30%;
+      }
+
+      .main-content {
+        flex-direction: column;
+      }
+
+      .alphabet-buttons {
+        order: 2;
+        margin-left: auto;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="validation-app">
+    <header class="app-header">
+      <h1>TESORO Boricua - Word Validation</h1>
+      <p>Compare raw and preprocessed word data side-by-side</p>
+    </header>
+
+    <div class="search-container">
+      <div class="search-input-wrapper">
+        <input
+          type="text"
+          id="searchBar"
+          class="search-bar"
+          placeholder="Search words..."
+        />
+      </div>
+      <div class="alphabet-buttons" id="letterButtons"></div>
+    </div>
+
+    <div class="main-content">
+      <div class="words-panel" id="wordsPanel">
+        <div class="words-header">
+          <span>Words</span>
+          <button class="collapse-btn" id="collapseBtn" title="Toggle word panel">◀</button>
+        </div>
+        <div class="words-list" id="wordsList"></div>
+      </div>
+
+      <div class="comparison-panel" id="comparisonPanel">
+        <div id="comparisonContent" class="placeholder-content">
+          <p>Select a word from the left to view its definitions</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API_BASE = 'http://localhost:5001/api';
+    let allLetters = [];
+    let currentLetterWords = [];
+    let selectedLetter = null;
+    let selectedWord = null;
+
+    async function initApp() {
+      await fetchLetters();
+      renderLetterButtons();
+      setupEventListeners();
+    }
+
+    async function fetchLetters() {
+      try {
+        const response = await fetch(`${API_BASE}/letters`);
+        const data = await response.json();
+        allLetters = data.letters;
+      } catch (error) {
+        console.error('Error fetching letters:', error);
+      }
+    }
+
+    function renderLetterButtons() {
+      const container = document.getElementById('letterButtons');
+      container.innerHTML = '';
+
+      allLetters.forEach(letter => {
+        const btn = document.createElement('button');
+        btn.className = 'letter-btn';
+        btn.textContent = letter.toUpperCase();
+        btn.onclick = () => handleLetterClick(letter);
+        container.appendChild(btn);
+      });
+    }
+
+    async function handleLetterClick(letter) {
+      selectedLetter = letter;
+      selectedWord = null;
+
+      document.querySelectorAll('.letter-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.textContent === letter.toUpperCase());
+      });
+
+      try {
+        const response = await fetch(`${API_BASE}/words/${letter}`);
+        const data = await response.json();
+        currentLetterWords = data.words || [];
+        renderWordsList(currentLetterWords);
+      } catch (error) {
+        console.error('Error fetching words:', error);
+        renderWordsList([]);
+      }
+    }
+
+    function renderWordsList(words) {
+      const container = document.getElementById('wordsList');
+
+      if (words.length === 0) {
+        container.innerHTML = '<div class="no-words">No words found</div>';
+        return;
+      }
+
+      container.innerHTML = '';
+      words.forEach(word => {
+        const item = document.createElement('div');
+        item.className = 'word-item';
+        item.textContent = word;
+        item.onclick = () => handleWordClick(word);
+        container.appendChild(item);
+      });
+    }
+
+    async function handleSearch(value) {
+      value = value.trim();
+      if (!value) {
+        // If search is empty and a letter is selected, show all words for that letter
+        if (selectedLetter) {
+          renderWordsList(currentLetterWords);
+        }
+        return;
+      }
+
+      // Get the first letter of the search term
+      const searchLetter = value[0].toLowerCase();
+      if (searchLetter < 'a' || (searchLetter > 'z' && searchLetter !== 'ñ')) {
+        renderWordsList([]);
+        return;
+      }
+
+      // If it's a different letter than selected, fetch that letter's words
+      if (selectedLetter !== searchLetter) {
+        selectedLetter = searchLetter;
+
+        // Update button states
+        document.querySelectorAll('.letter-btn').forEach(btn => {
+          btn.classList.toggle('active', btn.textContent === searchLetter.toUpperCase());
+        });
+
+        try {
+          const response = await fetch(`${API_BASE}/words/${searchLetter}`);
+          const data = await response.json();
+          currentLetterWords = data.words || [];
+        } catch (error) {
+          console.error('Error fetching words:', error);
+          currentLetterWords = [];
+        }
+      }
+
+      // Filter words by search term
+      const filtered = currentLetterWords.filter(word =>
+        word.toLowerCase().includes(value.toLowerCase())
+      );
+
+      renderWordsList(filtered);
+    }
+
+    async function handleWordClick(word) {
+      selectedWord = word;
+
+      document.querySelectorAll('.word-item').forEach(item => {
+        item.classList.toggle('selected', item.textContent === word);
+      });
+
+      try {
+        const response = await fetch(`${API_BASE}/word-data?word=${encodeURIComponent(word)}`);
+        const data = await response.json();
+        renderComparison(word, data.raw, data.preprocessed);
+      } catch (error) {
+        console.error('Error fetching word data:', error);
+      }
+    }
+
+    function renderComparison(word, rawData, preprocessedData) {
+      const container = document.getElementById('comparisonPanel');
+
+      const letter = word[0].toUpperCase();
+      const wordDisplay = word.replace(/_/g, ' ');
+
+      let html = `
+        <div class="word-info-bar">
+          <div class="word-info-title">${escapeHtml(wordDisplay)}</div>
+          <div class="word-info-meta">
+            <span>Letter: <strong>${letter}</strong></span>
+          </div>
+        </div>
+
+        <div class="columns-wrapper">
+          <div class="column">
+            <div class="column-header">Raw Definitions</div>
+            <div class="column-content">
+              ${renderRawDefinitions(rawData)}
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="column-header">Consolidated Data</div>
+            <div class="column-content">
+              ${renderPreprocessedDefinitions(preprocessedData)}
+            </div>
+          </div>
+        </div>
+      `;
+
+      container.innerHTML = html;
+    }
+
+    function renderRawDefinitions(rawData) {
+      if (!rawData || !Array.isArray(rawData[Object.keys(rawData)[0]])) {
+        return '<div class="no-words">No raw data found</div>';
+      }
+
+      const entries = rawData[Object.keys(rawData)[0]];
+      let html = '<div class="definitions-list">';
+
+      entries.forEach((entry, idx) => {
+        const superscript = entry.superscript || '';
+        const details = entry.details || {};
+        const grammar = (details.grammar || []).join(', ');
+        const origin = details.origin || 'N/A';
+
+        html += `<div class="definition-entry">`;
+        html += `<div class="definition-number">`;
+        html += `<span class="definition-badge">${superscript || '1'}</span>`;
+        html += `<span class="definition-title">Variant ${superscript || '1'}</span>`;
+        html += `</div>`;
+
+        const defList = details.definition_list || [];
+        defList.forEach((def, defIdx) => {
+          const subDefs = def.definition_sublist || [];
+          subDefs.forEach(subDef => {
+            html += `<div style="margin-bottom: 10px;">`;
+            html += `<div class="definition-text">${escapeHtml(subDef.definition || '')}</div>`;
+            html += `<div class="definition-meta">`;
+            html += `<div class="definition-meta-item"><span class="meta-label">Source:</span> ${escapeHtml(subDef.source || 'N/A')} (${escapeHtml(subDef.year || '')})</div>`;
+            if (grammar) html += `<div class="definition-meta-item"><span class="meta-label">Grammar:</span> ${escapeHtml(grammar)}</div>`;
+            if (origin && origin !== 'N/A') html += `<div class="definition-meta-item"><span class="meta-label">Origin:</span> ${escapeHtml(origin)}</div>`;
+            html += `</div>`;
+            if (subDef.themes && subDef.themes.length > 0) {
+              html += `<div class="themes-list">`;
+              subDef.themes.forEach(theme => {
+                html += `<span class="theme-badge">${escapeHtml(theme)}</span>`;
+              });
+              html += `</div>`;
+            }
+            html += `</div>`;
+          });
+        });
+
+        html += `</div>`;
+      });
+
+      html += '</div>';
+      return html;
+    }
+
+    function renderPreprocessedDefinitions(preprocessedData) {
+      if (!preprocessedData || !preprocessedData.superscripts) {
+        return '<div class="no-words">No preprocessed data found</div>';
+      }
+
+      let html = '<div class="definitions-list">';
+
+      Object.entries(preprocessedData.superscripts).forEach(([superscript, data]) => {
+        const metadata = data.consolidation_metadata || {};
+        const stability = metadata.definition_stability || '';
+        const stabilityClass = getStabilityClass(stability);
+        const grammar = (metadata.grammar || []).join(', ');
+        const themes = metadata.themes || [];
+        const sources = metadata.sources || [];
+        const years = metadata.years || [];
+
+        html += `<div class="variant-section">`;
+        html += `<div class="variant-header">`;
+        html += `<span class="superscript-badge">${superscript}</span>`;
+        html += `<span class="variant-title">Variant ${superscript}</span>`;
+        html += `</div>`;
+
+        html += `<div class="consolidated-def">${escapeHtml(data.consolidated_definition || '')}</div>`;
+
+        html += `<div class="metadata-grid">`;
+        html += `<div class="metadata-item">
+          <div class="metadata-label">Consolidated</div>
+          <div class="metadata-value">${data.could_not_consolidate ? '<span style="color: #f44336; font-weight: 600;">Failed</span>' : '<span style="color: #4caf50; font-weight: 600;">Success</span>'}</div>
+        </div>`;
+        html += `<div class="metadata-item">
+          <div class="metadata-label">Definitions Analyzed</div>
+          <div class="metadata-value">${metadata.num_definitions_analyzed || 0}</div>
+        </div>`;
+        html += `<div class="metadata-item">
+          <div class="metadata-label">Stability</div>
+          <div class="metadata-value ${stabilityClass}">${getStabilityLabel(stability)}</div>
+        </div>`;
+        html += `<div class="metadata-item">
+          <div class="metadata-label">Semantic Similarity</div>
+          <div class="metadata-value">${(metadata.semantic_similarity_score || 0).toFixed(3)}</div>
+        </div>`;
+        html += `<div class="metadata-item">
+          <div class="metadata-label">Grammar</div>
+          <div class="metadata-value">${grammar || 'N/A'}</div>
+        </div>`;
+        
+        if (themes.length > 0) {
+          html += `<div class="metadata-item" style="grid-column: 1 / -1;">
+            <div class="metadata-label">Themes</div>
+            <div class="themes-list">`;
+          themes.forEach(theme => {
+            html += `<span class="theme-badge">${escapeHtml(theme)}</span>`;
+          });
+          html += `</div></div>`;
+        }
+
+        if (sources.length > 0) {
+          html += `<div class="metadata-item" style="grid-column: 1 / -1;">
+            <div class="metadata-label">Sources</div>
+            <div class="metadata-value">${sources.map(s => `${escapeHtml(s.source)} (${s.year})`).join(', ')}</div>
+          </div>`;
+        }
+
+        html += `</div>`;
+        html += `</div>`;
+      });
+
+      html += '</div>';
+      return html;
+    }
+
+    function getStabilityClass(stability) {
+      if (stability.includes('High')) return 'stability-high';
+      if (stability.includes('Medium')) return 'stability-medium';
+      return 'stability-low';
+    }
+
+    function getStabilityLabel(stability) {
+      const match = stability.match(/High|Medium|Low/);
+      return match ? match[0] : 'Unknown';
+    }
+
+    function escapeHtml(text) {
+      const map = {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#039;'
+      };
+      return text.replace(/[&<>"']/g, m => map[m]);
+    }
+
+    function setupEventListeners() {
+      document.getElementById('searchBar').addEventListener('input', (e) => {
+        handleSearch(e.target.value);
+      });
+
+      document.getElementById('collapseBtn').addEventListener('click', () => {
+        const panel = document.getElementById('wordsPanel');
+        const btn = document.getElementById('collapseBtn');
+        panel.classList.toggle('collapsed');
+        btn.textContent = panel.classList.contains('collapsed') ? '▶' : '◀';
+        btn.title = panel.classList.contains('collapsed') ? 'Expand word panel' : 'Collapse word panel';
+      });
+    }
+
+    initApp();
+  </script>
+</body>
+</html>

@@ -1,0 +1,127 @@
+{
+  "enchivar": {
+    "1": {
+      "consolidated_definition": "Esconder o coger las cosas ajenas.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 7,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.09952177452177453,
+      "consolidated_themes": [
+        "EVENTO.",
+        "CRIMEN."
+      ],
+      "all_themes_found": [
+        "CRIMEN.",
+        "EVENTO."
+      ],
+      "years": [
+        1965,
+        1972,
+        1984,
+        1989,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "DEL ROSARIO,",
+          "year": "1965"
+        },
+        {
+          "source": "BENNETT,",
+          "year": "1972"
+        },
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "CLAUDIO DE LA TORRE,",
+          "year": "1989"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "verbo transitivo"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "(general)  Esconder o coger las cosas ajenas. También agachar.",
+        "Esconder o coger cosas ajenas.",
+        "Coger y esconder una cosa ajena."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Ahorrar.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 1,
+      "definition_stability": "Single definition (no comparison)",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [
+        "DINERO.",
+        "EVENTO."
+      ],
+      "all_themes_found": [
+        "DINERO.",
+        "EVENTO."
+      ],
+      "years": [
+        2010
+      ],
+      "sources": [
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "verbo transitivo"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Ahorrar."
+      ]
+    },
+    "3": {
+      "consolidated_definition": "Ponerse alguien colérico.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 1,
+      "definition_stability": "Single definition (no comparison)",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [
+        "ESTADO ANÍMICO. AFECTIVO.",
+        "EVENTO."
+      ],
+      "all_themes_found": [
+        "ESTADO ANÍMICO. AFECTIVO.",
+        "EVENTO."
+      ],
+      "years": [
+        2010
+      ],
+      "sources": [
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "verbo intransitivo"
+      ],
+      "related_words": [
+        "enchivarse"
+      ],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Ponerse alguien colérico."
+      ]
+    }
+  }
+}

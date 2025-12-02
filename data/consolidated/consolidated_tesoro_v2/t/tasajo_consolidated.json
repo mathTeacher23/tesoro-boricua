@@ -1,0 +1,48 @@
+{
+  "tasajo": {
+    "1": {
+      "consolidated_definition": "Carne seca y salada.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 3,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.2388888888888889,
+      "consolidated_themes": [
+        "ALIMENTO."
+      ],
+      "all_themes_found": [
+        "ALIMENTO."
+      ],
+      "years": [
+        1974,
+        1984,
+        1995
+      ],
+      "sources": [
+        {
+          "source": "CARRILLO,",
+          "year": "1974"
+        },
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "VAQUERO,",
+          "year": "1995"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "[Carne] cecina. También carne montevideo, carne vieja.",
+        "Carne cecina. Sinónimos montevideo, carnevieja, carne norte. Carnevieja.",
+        "Carne seca y salada. También carne vieja."
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "retirado,_da": {
+    "1": {
+      "consolidated_definition": "Pensionado.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.015873015873015872,
+      "consolidated_themes": [
+        "CUALIDAD.",
+        "OFICIOS."
+      ],
+      "all_themes_found": [
+        "CUALIDAD.",
+        "OFICIOS."
+      ],
+      "years": [
+        1984,
+        2009
+      ],
+      "sources": [
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2009"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "adjetivo"
+      ],
+      "related_words": [
+        "retirarse",
+        "retiro"
+      ],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Pensionado. Jubilado.",
+        "Jubilado. Persona que ha dejado de trabajar y percibe una pensión, normalmente ocurre al llegar a la edad fijada para ello o por incapacidad. Usual. D..."
+      ]
+    }
+  }
+}

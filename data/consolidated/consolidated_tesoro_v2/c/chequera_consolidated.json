@@ -1,0 +1,45 @@
+{
+  "chequera": {
+    "1": {
+      "consolidated_definition": "Talonario de cheques.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.058823529411764705,
+      "consolidated_themes": [
+        "DINERO."
+      ],
+      "all_themes_found": [
+        "DINERO."
+      ],
+      "years": [
+        1984,
+        2009
+      ],
+      "sources": [
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2009"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "femenino"
+      ],
+      "related_words": [
+        "cheque",
+        "chequero, ra"
+      ],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Talonario. Libreta pre-impresa para escribir cheques.",
+        "Talonario de cheques. Libreta que une un conjunto de cheques. Usual. DRAE 2001 (Am.)\nApabullado, consiente con la cabeza; en silencio se dirige a su p..."
+      ]
+    }
+  }
+}

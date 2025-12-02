@@ -1,0 +1,89 @@
+{
+  "pool": {
+    "1": {
+      "consolidated_definition": "Grupo de empleados de una empresa que sirven indistintamente a cualquiera de los superiores.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 5,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.06247561093541405,
+      "consolidated_themes": [
+        "DINERO.",
+        "ENTRETENIMIENTO.",
+        "GRUPOS. COMUNIDAD."
+      ],
+      "all_themes_found": [
+        "DINERO.",
+        "ENTRETENIMIENTO.",
+        "GRUPOS. COMUNIDAD.",
+        "INSTITUCIONES CIVILES.",
+        "OFICIOS."
+      ],
+      "years": [
+        1984,
+        2009
+      ],
+      "sources": [
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2009"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Monto de las apuestas a repartir en las carreras de caballos.",
+        "Grupo de empleados de una empresa que sirven indistintamente a cualquiera de los superiores. “Pul de secretarias.”",
+        "Influencia.  Poder político o económico. “Tener pul.”"
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Piscina.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.023255813953488372,
+      "consolidated_themes": [
+        "VIVIENDA.",
+        "ENTRETENIMIENTO."
+      ],
+      "all_themes_found": [
+        "ENTRETENIMIENTO.",
+        "VIVIENDA."
+      ],
+      "years": [
+        1984,
+        2009
+      ],
+      "sources": [
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2009"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Piscina.",
+        "Piscina. Estanque grande de agua destinado al baño y a la natación. Anglicismo crudo, poco frecuente. Compuesto: pool party. Véase swimming pool.\nYo a..."
+      ]
+    }
+  }
+}

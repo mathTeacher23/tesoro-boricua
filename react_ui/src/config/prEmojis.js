@@ -3,6 +3,10 @@ export const prEmojis = {
     "coqui": "🐸",
     "island": "🏝️",
     "salsa": "💃",
-    "bomba": "🪘",
+    "barriles de bomba": "🪘",
+    "salsa": "🎶",
     "sun": "☀️",
+    "coco": "🥥",
+    "arroz": "🥘",
+    "palmas": "🌴"
 }

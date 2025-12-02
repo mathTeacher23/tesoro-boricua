@@ -1,0 +1,91 @@
+{
+  "corredera": {
+    "1": {
+      "consolidated_definition": "En la industria cafetalera, plataforma con ruedas montada en rieles empleada para secar café.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 5,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.1398991733054191,
+      "consolidated_themes": [
+        "AGRICULTURA/CAFÉ.",
+        "TECNOLOGÍA."
+      ],
+      "all_themes_found": [
+        "AGRICULTURA/CAFÉ.",
+        "TECNOLOGÍA."
+      ],
+      "years": [
+        1965,
+        1984,
+        1990,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "FONFRÍAS, 1975B",
+          "year": ""
+        },
+        {
+          "source": "FIGUEROA,",
+          "year": "1965"
+        },
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "ÁLVAREZ NAZARIO,",
+          "year": "1990"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "femenino"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Plataforma movediza empleada para secar café.",
+        "Gaveta corrediza sobre ruedas para secar café al sol.",
+        "Especie de gaveta gigantesca montada en rieles, usada para sacar café al sol."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Diarrea.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 1,
+      "definition_stability": "Single definition (no comparison)",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [
+        "CUERPO HUMANO."
+      ],
+      "all_themes_found": [
+        "CUERPO HUMANO."
+      ],
+      "years": [
+        1984
+      ],
+      "sources": [
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "femenino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Diarrea. También correncia y correntina."
+      ]
+    }
+  }
+}

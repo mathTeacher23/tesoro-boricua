@@ -1,0 +1,80 @@
+{
+  "subway": {
+    "1": {
+      "consolidated_definition": "Ferrocarril urbano subterráneo.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 3,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.1111111111111111,
+      "consolidated_themes": [
+        "TRANSPORTE."
+      ],
+      "all_themes_found": [
+        "TRANSPORTE."
+      ],
+      "years": [
+        1973,
+        1986,
+        2009
+      ],
+      "sources": [
+        {
+          "source": "HUYKE,",
+          "year": "1973"
+        },
+        {
+          "source": "LÓPEZ MORALES,",
+          "year": "1986"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2009"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Subterráneo.",
+        "Ferrocarril urbano subterráneo.",
+        "transp. Metro. Tren eléctrico subterráneo que funciona en las grandes ciudades. Anglicismo crudo, poco frecuente.\nPara visitar Manhattan y todas sus a..."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "alim.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 1,
+      "definition_stability": "Single definition (no comparison)",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [
+        "ALIMENTO."
+      ],
+      "all_themes_found": [
+        "ALIMENTO."
+      ],
+      "years": [
+        2009
+      ],
+      "sources": [
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2009"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "alim. Bocadillo especial. Nombre de un tipo especial de sándwich que recibe el nombre del establecimiento que lo vende. Anglicismo crudo, frecuente.\nU..."
+      ]
+    }
+  }
+}

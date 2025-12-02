@@ -1,0 +1,107 @@
+{
+  "record": {
+    "1": {
+      "consolidated_definition": "Prueba fehaciente de una hazaña deportiva digna de registrarse.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 7,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.1170416884702599,
+      "consolidated_themes": [
+        "COMUNICACIÓN.",
+        "DEPORTE.",
+        "OTROS."
+      ],
+      "all_themes_found": [
+        "COMUNICACIÓN.",
+        "DEPORTE.",
+        "OTROS."
+      ],
+      "years": [
+        1957,
+        1968,
+        1971,
+        1972,
+        1984,
+        2001
+      ],
+      "sources": [
+        {
+          "source": "WASHINGTON LLORENS,",
+          "year": "1957"
+        },
+        {
+          "source": "PÉREZ SALA,",
+          "year": "1968"
+        },
+        {
+          "source": "ACEVEDO DE D’AURIA,",
+          "year": "1971"
+        },
+        {
+          "source": "BENNETT,",
+          "year": "1972"
+        },
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2001"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Prueba fehaciente de una hazaña deportiva digna de registrarse.",
+        "Expediente. Registro, historial, hoja de servicios.",
+        "Registro, historial, hoja de servicios."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Disco fonográfico.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.0,
+      "consolidated_themes": [
+        "MÚSICA. BAILE.",
+        "TECNOLOGÍA."
+      ],
+      "all_themes_found": [
+        "MÚSICA. BAILE.",
+        "TECNOLOGÍA."
+      ],
+      "years": [
+        1972,
+        1984
+      ],
+      "sources": [
+        {
+          "source": "BENNETT,",
+          "year": "1972"
+        },
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Disco.",
+        "Disco fonográfico."
+      ]
+    }
+  }
+}

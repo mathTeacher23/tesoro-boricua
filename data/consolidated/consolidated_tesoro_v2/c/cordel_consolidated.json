@@ -1,0 +1,84 @@
+{
+  "cordel": {
+    "1": {
+      "consolidated_definition": "Tendedero de ropa lavada, cordeles.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.3333333333333333,
+      "consolidated_themes": [
+        "TECNOLOGÍA.",
+        "VESTIDO."
+      ],
+      "all_themes_found": [
+        "TECNOLOGÍA.",
+        "VESTIDO."
+      ],
+      "years": [
+        1984,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "masculino",
+        "plural"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Tendedero de ropa lavada, cordeles.",
+        "Tendedero de ropa."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Línea de arrastre.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 3,
+      "definition_stability": "High (≥0.6) - Strong semantic consistency",
+      "semantic_similarity_score": 0.6666666666666666,
+      "consolidated_themes": [
+        "TECNOLOGÍA."
+      ],
+      "all_themes_found": [
+        "TECNOLOGÍA."
+      ],
+      "years": [
+        1986,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "VAQUERO,",
+          "year": "1986"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Línea de mano.",
+        "Línea de arrastre.",
+        "Línea de arrastre."
+      ]
+    }
+  }
+}

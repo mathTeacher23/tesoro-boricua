@@ -1,0 +1,87 @@
+{
+  "guasimilla": {
+    "1": {
+      "consolidated_definition": "Árbol de hasta 12 m de altura, de corteza lisa de color castaño, copa amplia, y flores en racimos.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 4,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.13278512340566653,
+      "consolidated_themes": [
+        "FLORA. PLANTAS SILVESTRES.",
+        "TRANSPORTE."
+      ],
+      "all_themes_found": [
+        "FLORA. PLANTAS SILVESTRES.",
+        "TRANSPORTE."
+      ],
+      "years": [
+        1937,
+        1969,
+        1984,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "MALARET,",
+          "year": "1937"
+        },
+        {
+          "source": "HERNÁNDEZ AQUINO,",
+          "year": "1969"
+        },
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": "Indigenismo",
+      "grammar": [
+        "sustantivo",
+        "femenino"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "(T. en Cuba).  Árbol de madera blanca, que parte verticalmente. (Proekia crucis; Trema micrantha.). Grosourdy, 2:387; Otero, 310.",
+        "Trema micranthra. Árbol familia de las ulmáceas.",
+        "Árbol de sombra que se produce en bosques abiertos. Crece hasta 40 pies de alto. Su tronco tiene la corteza lisa de color castaño. Su copa es amplia y..."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Algo desagradable.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 1,
+      "definition_stability": "Single definition (no comparison)",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [
+        "COMUNICACIÓN."
+      ],
+      "all_themes_found": [
+        "COMUNICACIÓN."
+      ],
+      "years": [
+        1989
+      ],
+      "sources": [
+        {
+          "source": "CLAUDIO DE LA TORRE,",
+          "year": "1989"
+        }
+      ],
+      "origin": "Indigenismo",
+      "grammar": [
+        "sustantivo",
+        "femenino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Algo desagradable. Trampa. Mentira."
+      ]
+    }
+  }
+}

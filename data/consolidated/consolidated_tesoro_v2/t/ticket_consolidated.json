@@ -1,0 +1,106 @@
+{
+  "ticket": {
+    "1": {
+      "consolidated_definition": "Taquilla, entrada, boleto.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 13,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.10771246381372059,
+      "consolidated_themes": [
+        "ENTRETENIMIENTO.",
+        "INSTITUCIONES CIVILES.",
+        "COMUNICACIÓN."
+      ],
+      "all_themes_found": [
+        "COMUNICACIÓN.",
+        "DINERO.",
+        "ENTRETENIMIENTO.",
+        "INSTITUCIONES CIVILES.",
+        "TRANSPORTE."
+      ],
+      "years": [
+        1966,
+        1968,
+        1969,
+        1971,
+        1973,
+        2001,
+        2009
+      ],
+      "sources": [
+        {
+          "source": "VAQUERO,",
+          "year": "1966"
+        },
+        {
+          "source": "PÉREZ SALA,",
+          "year": "1968"
+        },
+        {
+          "source": "PAGÁN GONZÁLEZ,",
+          "year": "1969"
+        },
+        {
+          "source": "ACEVEDO DE D’AURIA,",
+          "year": "1971"
+        },
+        {
+          "source": "HUYKE,",
+          "year": "1973"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2001"
+        },
+        {
+          "source": "MORALES DE WALTERS,",
+          "year": "2009"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Taquilla, entrada, boleto.",
+        "Boleto.",
+        "Boleto."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Regaño.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 1,
+      "definition_stability": "Single definition (no comparison)",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [
+        "COMUNICACIÓN."
+      ],
+      "all_themes_found": [
+        "COMUNICACIÓN."
+      ],
+      "years": [
+        1989
+      ],
+      "sources": [
+        {
+          "source": "CLAUDIO DE LA TORRE,",
+          "year": "1989"
+        }
+      ],
+      "origin": "Anglicismo",
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Regaño."
+      ]
+    }
+  }
+}

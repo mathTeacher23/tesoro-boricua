@@ -1,0 +1,79 @@
+{
+  "administrador,_ra": {
+    "1": {
+      "consolidated_definition": "Jefe.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.2,
+      "consolidated_themes": [
+        "OFICIOS."
+      ],
+      "all_themes_found": [
+        "OFICIOS."
+      ],
+      "years": [
+        1990,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "ÁLVAREZ NAZARIO,",
+          "year": "1990"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "masculino y femenino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Jefe. Ú. t. c. s.",
+        "Jefe."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Referido a persona, que se aprovecha de la buena fe de otros, medrando a su costa.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.23809523809523808,
+      "consolidated_themes": [
+        "CUALIDAD."
+      ],
+      "all_themes_found": [
+        "CUALIDAD."
+      ],
+      "years": [
+        1984,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "adjetivo"
+      ],
+      "related_words": [],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Dícese de la persona que medra aprovechándose de la bondad y buena fe de otra.",
+        "Referido a persona, que se aprovecha de la buena fe de otros, medrando a su costa."
+      ]
+    }
+  }
+}

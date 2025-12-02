@@ -1,0 +1,82 @@
+{
+  "sereno": {
+    "1": {
+      "consolidated_definition": "Rocío.",
+      "could_not_consolidate": true,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "High (≥0.6) - Strong semantic consistency",
+      "semantic_similarity_score": 1.0,
+      "consolidated_themes": [
+        "EL TIEMPO ATMOSFÉRICO."
+      ],
+      "all_themes_found": [
+        "EL TIEMPO ATMOSFÉRICO."
+      ],
+      "years": [
+        1984,
+        1995
+      ],
+      "sources": [
+        {
+          "source": "VICENTE MAURA,",
+          "year": "1984"
+        },
+        {
+          "source": "VAQUERO,",
+          "year": "1995"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [],
+      "analysis_method": "Fallback: Longest definition (base consolidation failed)",
+      "reference_definitions": [
+        "Rocío.",
+        "Rocío."
+      ]
+    },
+    "2": {
+      "consolidated_definition": "Llovizna con sol, ‘agua fina que casi no moja’.",
+      "could_not_consolidate": false,
+      "num_definitions_analyzed": 2,
+      "definition_stability": "Low (<0.4) - Significant semantic variation",
+      "semantic_similarity_score": 0.058823529411764705,
+      "consolidated_themes": [
+        "EL TIEMPO ATMOSFÉRICO."
+      ],
+      "all_themes_found": [
+        "EL TIEMPO ATMOSFÉRICO."
+      ],
+      "years": [
+        1965,
+        2010
+      ],
+      "sources": [
+        {
+          "source": "FIGUEROA,",
+          "year": "1965"
+        },
+        {
+          "source": "DICCIONARIO DE AMERICANISMOS,",
+          "year": "2010"
+        }
+      ],
+      "origin": null,
+      "grammar": [
+        "sustantivo",
+        "masculino"
+      ],
+      "related_words": [
+        "serenito"
+      ],
+      "analysis_method": "Base: Longest/most complete definition",
+      "reference_definitions": [
+        "Llovizna con sol, ‘agua fina que casi no moja’. Se le llama también mojabobo, flor de tigüero y paja de tigüero. En Canarias y Colombia es llovizna. A...",
+        "Lluvia menuda y de corta duración."
+      ]
+    }
+  }
+}
