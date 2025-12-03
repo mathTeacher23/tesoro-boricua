@@ -3,12 +3,15 @@
   "term": "pollito, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Significa figuradamente por el país, por campos y pueblos, adolescente, hombre muy joven o mocita.",
+      "consolidated_definition": ". Adolescente, hombre muy joven o moza nueva, joven que empieza a prometer.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12498170106865758,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.539",
+        "semantic_similarity_score": 0.539,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "ALTIERI DE BARRETO,",
             "year": "1973"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -43,19 +46,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Can.).  Adolescente, hombre muy joven o moza nueva, joven que empieza a prometer.",
+          ". Adolescente, hombre muy joven o moza nueva, joven que empieza a prometer.",
           "Significa figuradamente por el país, por campos y pueblos, adolescente, hombre muy joven o mocita.",
-          "(Prostitución).  Muchacha joven y bonita que se inicia en la profesión."
+          ". Muchacha joven y bonita que se inicia en la profesión.",
+          "Voz usada entre delincuentes. Prostituta que se inicia en esa vida."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cría de la gallina.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Cría de la gallina",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -84,8 +91,8 @@
     }
   },
   "es_definitions": [
-    "Significa figuradamente por el país, por campos y pueblos, adolescente, hombre muy joven o mocita.",
-    "Cría de la gallina."
+    ". Adolescente, hombre muy joven o moza nueva, joven que empieza a prometer.",
+    "Cría de la gallina"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

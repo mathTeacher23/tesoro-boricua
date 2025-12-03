@@ -3,12 +3,15 @@
   "term": "embolsicar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Meter algo en un bolsillo, generalmente dinero.",
+      "consolidated_definition": "Meter en el bolsillo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02148148148148148,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4217",
+        "semantic_similarity_score": 0.4217,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,13 +47,16 @@
         "reference_definitions": [
           "Meter en el bolsillo.",
           "Esconder.",
-          "Embolsar. “Su mujer lo tiene embolsicado.” La mujer lo domina."
+          "Embolsar. “Su mujer lo tiene embolsicado.” La mujer lo domina.",
+          "prnl. Embolsarse, guardar dinero.",
+          "Esconder a alguien.",
+          "Meter algo en un bolsillo, generalmente dinero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Meter algo en un bolsillo, generalmente dinero."
+    "Meter en el bolsillo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

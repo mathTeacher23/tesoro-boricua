@@ -3,12 +3,15 @@
   "term": "despampanar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cortar la pámpana al racimo de plátanos o de guineo.",
+      "consolidated_definition": "Cortar la pámpana al racimo de plátanos o",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5714285714285714,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9298",
+        "semantic_similarity_score": 0.9298,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,12 +46,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Hablar alguien sin reservas.",
+      "consolidated_definition": "Hablar sin reservas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.75,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8813",
+        "semantic_similarity_score": 0.8813,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -62,12 +68,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -84,8 +90,8 @@
     }
   },
   "es_definitions": [
-    "Cortar la pámpana al racimo de plátanos o de guineo.",
-    "Hablar alguien sin reservas."
+    "Cortar la pámpana al racimo de plátanos o",
+    "Hablar sin reservas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

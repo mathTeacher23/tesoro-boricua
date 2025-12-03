@@ -3,12 +3,15 @@
   "term": "bretón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Renuevo de las plantas de caña.",
+      "consolidated_definition": "Brote de la caña",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0996031746031746,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5824",
+        "semantic_similarity_score": 0.5824,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GONZÁLEZ MUÑIZ,",
             "year": "1988"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           }
         ],
         "years": [
@@ -43,28 +46,26 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Brote de la caña. Al retoño de la caña se le dan numerosos nombres, empleados también en gran parte para designar el brote de cualquier otra planta: [...",
+          "Brote de la caña. Al retoño de la caña se le dan numerosos nombres, empleados también en gran parte para designar el brote de cualquier otra planta: bretón, Peña Pobre.",
           "Renuevo de las plantas de caña.",
           "Brote de cualquier planta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver semilla 1 .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver semilla 1",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -75,8 +76,8 @@
     }
   },
   "es_definitions": [
-    "Renuevo de las plantas de caña.",
-    "Ver semilla 1 ."
+    "Brote de la caña",
+    "Ver semilla 1"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

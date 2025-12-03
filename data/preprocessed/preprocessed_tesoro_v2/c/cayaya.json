@@ -3,12 +3,15 @@
   "term": "cayaya",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comadrona.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Antiguo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16666666666666666,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4494",
+        "semantic_similarity_score": 0.4494,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -38,19 +41,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Antiguo.  Comadrona.",
+          "Antiguo. Comadrona.",
           "Niñera.",
           "Comadrona."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona de nalgas grandes.",
+      "consolidated_definition": "Persona de nalgas grandes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -80,21 +86,19 @@
       }
     },
     "3": {
-      "consolidated_definition": "Ver anolis .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver anolis",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -105,9 +109,9 @@
     }
   },
   "es_definitions": [
-    "Comadrona.",
-    "Persona de nalgas grandes.",
-    "Ver anolis ."
+    "Antiguo",
+    "Persona de nalgas grandes",
+    "Ver anolis"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

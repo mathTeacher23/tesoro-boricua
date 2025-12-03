@@ -3,12 +3,15 @@
   "term": "fututear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablar por un fotuto.",
+      "consolidated_definition": "Hablar por un fotuto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.125,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4174",
+        "semantic_similarity_score": 0.4174,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Hablar por un fotuto.",
           "Chisguetear.",
-          "Tener relaciones amorosas."
+          "Tener relaciones amorosas.",
+          "Tener alguien relaciones amorosas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hablar por un fotuto."
+    "Hablar por un fotuto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

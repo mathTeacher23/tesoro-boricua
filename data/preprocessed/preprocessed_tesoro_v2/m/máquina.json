@@ -3,12 +3,15 @@
   "term": "máquina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre familiar del automóvil.",
+      "consolidated_definition": "Nombre familiar del automóvil, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07242615251514027,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4024",
+        "semantic_similarity_score": 0.4024,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -46,19 +49,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Nombre familiar del automóvil. Es más frecuente decir auto y carro. Ac. “Y mientras que la máquina el cambio se traga.” C. Ortiz Stella, La caravana o...",
-          "(T.en Cuba).  Automóvil.",
-          "Carro."
+          "Nombre familiar del automóvil. Es más frecuente decir auto y carro. Ac. “Y mientras que la máquina el cambio se traga.” C. Ortiz Stella, La caravana oscura, 1921, p. 95.",
+          ". Automóvil.",
+          "Carro.",
+          "Automóvil."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Locomotora.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Locomotora",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -86,12 +93,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Voz usada por prostitutas.",
+      "consolidated_definition": "Voz usada por prostitutas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5109",
+        "semantic_similarity_score": 0.5109,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -106,12 +116,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -121,16 +131,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Voz usada por prostitutas.  Vulva.",
+          "Voz usada por prostitutas. Vulva.",
           "Vulva."
         ]
       }
     }
   },
   "es_definitions": [
-    "Nombre familiar del automóvil.",
-    "Locomotora.",
-    "Voz usada por prostitutas."
+    "Nombre familiar del automóvil, relacionado con un mecanismo",
+    "Locomotora",
+    "Voz usada por prostitutas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "artesa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de fuente de diferentes formas y materiales usada para amasar la pasta de las empanadas.",
+      "consolidated_definition": "En Loíza se usa para amasar la masa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10526315789473684,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.2503",
+        "semantic_similarity_score": 0.2503,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MAULEÓN,",
             "year": "1974"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Especie de fuente de diferentes formas y materiales usada para amasar la pasta de las empanadas."
+    "En Loíza se usa para amasar la masa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

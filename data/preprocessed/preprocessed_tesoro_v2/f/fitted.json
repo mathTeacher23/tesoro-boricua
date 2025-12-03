@@ -3,12 +3,15 @@
   "term": "fitted",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se refiere a la sábana inferior que queda ajustada a la cama.",
+      "consolidated_definition": "Se refiere a la sábana inferior que queda",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2065892133957931,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6766",
+        "semantic_similarity_score": 0.6766,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,13 +46,14 @@
         "reference_definitions": [
           "Se refiere a la sábana inferior que queda ajustada a la cama.",
           "Sábana inferior o de abajo.",
-          "Ajustado, ceñido. Se dice de la sábana o cobertura que se ciñe al colchón. Anglicismo crudo, frecuente.\nSet para la cama cuna con motivo de Disney Bab..."
+          "Ajustado, ceñido. Se dice de la sábana o cobertura que se ciñe al colchón. Anglicismo crudo, frecuente. Set para la cama cuna con motivo de Disney Babies incluye falda para cuna, bordes contra golpes, comforter, pampera, cover de matress fitted",
+          "Sábana inferior que se ajusta a la cama."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se refiere a la sábana inferior que queda ajustada a la cama."
+    "Se refiere a la sábana inferior que queda"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

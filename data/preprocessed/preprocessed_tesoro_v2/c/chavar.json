@@ -3,12 +3,15 @@
   "term": "chavar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Molestar, fastidiar una persona a alguien.",
+      "consolidated_definition": "Molestar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 12,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.050111548089263776,
+        "num_cleaned_definitions": 12,
+        "definition_stability": "Stability: 0.476",
+        "semantic_similarity_score": 0.476,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,40 +25,40 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -77,18 +80,30 @@
         ],
         "reference_definitions": [
           "Molestar, fastidiar.",
-          "prnl.  Chasquearse, chivarse. “¿Tabaqueros? ¿Y con chavetas? Pues entonces... nos hemos chavado.” González García, Los Reyes Magos, 1933.",
-          "(Voz de germanía).  Molestar, hacer daño, perjudicar. Ú.t.c.prnl. “Le cayó la maldición que le echamos. Ojalá le sigan pasando cosas. El malo tiene qu..."
+          "prnl. Chasquearse, chivarse. “¿Tabaqueros? ¿Y con chavetas? Pues entonces... nos hemos chavado.” González García, .",
+          ". Molestar, hacer daño, perjudicar. Ú.t.c.prnl. “Le cayó la maldición que le echamos. Ojalá le sigan pasando cosas. El malo tiene que chavarse.”",
+          "Fastidiar, molestar.",
+          "Perjudicar.",
+          "Hacer fracasar. .",
+          "Molestar. fastidiar. Mortificar.",
+          "Molestar. Fastidiarse.",
+          "Molestar, fastidiarse. “No me chave, mano.”",
+          "Molestar.",
+          "Molestar, fastidiar, incordiar. Ú. t. c. prnl.",
+          "Molestar, fastidiar una persona a alguien."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pasar el rato.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Divertirse",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3339",
+        "semantic_similarity_score": 0.3339,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -119,8 +134,8 @@
     }
   },
   "es_definitions": [
-    "Molestar, fastidiar una persona a alguien.",
-    "Pasar el rato."
+    "Molestar",
+    "Divertirse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

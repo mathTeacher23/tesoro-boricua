@@ -3,12 +3,15 @@
   "term": "dar un fajazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "‘Pedirle dinero a uno.’ “¡Qué fajazo me dio mi cuñado y sin esperanza de que me devuelva el dinero!”.",
+      "consolidated_definition": "Pedirle a uno dinero prestado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10357142857142858,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5823",
+        "semantic_similarity_score": 0.5823,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -28,12 +31,12 @@
             "year": "1973"
           },
           {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           }
         ],
         "years": [
@@ -46,13 +49,14 @@
         "reference_definitions": [
           "Pedirle a uno dinero prestado.",
           "‘Pedirle dinero a uno.’ “¡Qué fajazo me dio mi cuñado y sin esperanza de que me devuelva el dinero!”",
-          "Pedir alguien dinero prestado."
+          "Pedir alguien dinero prestado.",
+          "Timar a alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "‘Pedirle dinero a uno.’ “¡Qué fajazo me dio mi cuñado y sin esperanza de que me devuelva el dinero!”."
+    "Pedirle a uno dinero prestado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

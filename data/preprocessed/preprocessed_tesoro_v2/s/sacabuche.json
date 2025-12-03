@@ -3,12 +3,15 @@
   "term": "sacabuche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta de hasta 1 m de altura, de tallos ramificados angulados, hojas alternas pecioladas ovadas, flores solitarias en forma de campanilla amarillo cremosa y fruto en baya globosa; tiene propiedades medicinales.",
+      "consolidated_definition": "Herbácea ramosa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07274034531646724,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.5221",
+        "semantic_similarity_score": 0.5221,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,20 +26,28 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "MAULEÓN,",
@@ -45,14 +56,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -66,15 +69,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Herbácea ramosa (Physalis angulata; pubescens). Stahl, 6, 121.",
-          "(jíbaro)  Una planta silvestre que se emplea en infusiones para aliviar malestares del estómago y el hígado.",
-          "Planta medicinal cuya raíz sirve para curar trastornos estomacales. El extracto diluido de la planta machacada tiene propiedades diuréticas. También s..."
+          "Herbácea ramosa . Stahl, 6, 121.",
+          "Una planta silvestre que se emplea en infusiones para aliviar malestares del estómago y el hígado.",
+          "Planta medicinal cuya raíz sirve para curar trastornos estomacales. El extracto diluido de la planta machacada tiene propiedades diuréticas. También se conoce como vejiga de perro .",
+          "Planta medicinal para inflamaciones del hígado.",
+          "De las Solanaceas. Physalis angulata. “Sale por ahí dondequiera. Echa un grano grande y es claro por dentro. Sirve para empacho y dolor de oído.”",
+          "Planta medicinal que cura los empachos.",
+          ". Planta con propiedades diuréticas que cura las inflamaciones del hígado.",
+          "Planta de hasta 1 m de altura, de tallos ramificados angulados, hojas alternas pecioladas ovadas, flores solitarias en forma de campanilla amarillo cremosa y fruto en baya globosa; tiene propiedades medicinales. Solanaceae, Physalis angulata."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta de hasta 1 m de altura, de tallos ramificados angulados, hojas alternas pecioladas ovadas, flores solitarias en forma de campanilla amarillo cremosa y fruto en baya globosa; tiene propiedades medicinales."
+    "Herbácea ramosa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

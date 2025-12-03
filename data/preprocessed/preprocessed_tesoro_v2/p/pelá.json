@@ -3,12 +3,15 @@
   "term": "pelá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desacierto en el juego.",
+      "consolidated_definition": "Desacierto en el juego",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -36,12 +39,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "La muerte.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "La muerte",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -69,12 +75,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Rasguño o quemadura en la piel.",
+      "consolidated_definition": "Rasguño en la piel",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9147",
+        "semantic_similarity_score": 0.9147,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -87,12 +96,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -109,9 +118,9 @@
     }
   },
   "es_definitions": [
-    "Desacierto en el juego.",
-    "La muerte.",
-    "Rasguño o quemadura en la piel."
+    "Desacierto en el juego",
+    "La muerte",
+    "Rasguño en la piel"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

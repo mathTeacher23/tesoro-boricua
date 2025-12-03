@@ -3,12 +3,15 @@
   "term": "pinto, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo o gallina de plumaje rojizo dorado, con manchas blancuzcas.",
+      "consolidated_definition": "Jaspeado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09033777264188168,
+        "num_cleaned_definitions": 10,
+        "definition_stability": "Stability: 0.5682",
+        "semantic_similarity_score": 0.5682,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -28,24 +31,24 @@
             "year": ""
           },
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -59,18 +62,28 @@
         "related_words": [],
         "reference_definitions": [
           "Jaspeado, de plumaje manchado, generalmente de blanco.",
-          "(T. en Arg., Cuba, Méx., Perú y Ven.).  Dícese del animal pintado de blanco y negro. (Aunque Ac. no consigna este color, Pereda, en Peñas Arriba, p. 1...",
-          "(T. en Col., Chile y Perú).  Se aplica al gallo o gallina de plumaje rojizo dorado con manchas blancuzcas. “No sabe lo que se pielde —Ey que no los ja..."
+          ". Dícese del animal pintado de blanco y negro. .",
+          ". Se aplica al gallo o gallina de plumaje rojizo dorado con manchas blancuzcas. “No sabe lo que se pielde —Ey que no los ja escuchao. —¿Y lo de vey la pelea —De un gayo bien coleao, —Pinto, giro, canagüey...” , p. 162. c. .",
+          ". La vaca con pintas.",
+          "Pintado de blanco y negro.",
+          "Gallo o gallina de plumaje rojizo dorado, con manchas blancuzcas.",
+          "Gallo o gallina de plumaje rojizo dorado con manchas blancuzcas.",
+          "De la persona pecosa.",
+          "Gallo de plumaje manchado, jaspeado, generalmente manchas blancas. . También existe la variante pinto habichuelo.",
+          "Se llama pinto también a una variedad del gallino."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dícese de la fruta que comienza a madurar.",
+      "consolidated_definition": "Dícese de la fruta que comienza a madurar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08472222222222221,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.589",
+        "semantic_similarity_score": 0.589,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -84,16 +97,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -111,12 +124,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Pintado, parecido.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Pintado",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -144,9 +160,9 @@
     }
   },
   "es_definitions": [
-    "Gallo o gallina de plumaje rojizo dorado, con manchas blancuzcas.",
-    "Dícese de la fruta que comienza a madurar.",
-    "Pintado, parecido."
+    "Jaspeado",
+    "Dícese de la fruta que comienza a madurar",
+    "Pintado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

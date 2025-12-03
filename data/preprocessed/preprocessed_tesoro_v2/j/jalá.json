@@ -3,12 +3,15 @@
   "term": "jalá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fumada, especialmente la de un cigarrillo de marihuana.",
+      "consolidated_definition": "Voz usada por drogadictos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10087719298245613,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6669",
+        "semantic_similarity_score": 0.6669,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,13 +46,14 @@
         "reference_definitions": [
           "Voz usada por drogadictos. Fumada de un cigarrillo de marihuana.",
           "Fumada.",
-          "Fumada. Cuando alguien está fumando y otro quiere fumar un momento de su cigarrillo."
+          "Fumada. Cuando alguien está fumando y otro quiere fumar un momento de su cigarrillo.",
+          "Fumada, especialmente la de un cigarrillo de marihuana."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fumada, especialmente la de un cigarrillo de marihuana."
+    "Voz usada por drogadictos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

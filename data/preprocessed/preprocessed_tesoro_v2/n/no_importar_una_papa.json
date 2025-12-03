@@ -3,12 +3,15 @@
   "term": "no importar una papa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No dar importancia.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "No importar nada",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5308",
+        "semantic_similarity_score": 0.5308,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "FERNÁNDEZ,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FERNÁNDEZ,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "No dar importancia."
+    "No importar nada"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

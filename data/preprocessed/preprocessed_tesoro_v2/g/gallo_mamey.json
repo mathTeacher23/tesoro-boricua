@@ -3,12 +3,15 @@
   "term": "gallo mamey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Clasificación del gallo por el color de su plumaje, entre amarillo y anaranjado.",
+      "consolidated_definition": "Clasificación del gallo por el color de su",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4584",
+        "semantic_similarity_score": 0.4584,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -38,7 +41,7 @@
     }
   },
   "es_definitions": [
-    "Clasificación del gallo por el color de su plumaje, entre amarillo y anaranjado."
+    "Clasificación del gallo por el color de su"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "picúa parda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez marino.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Pez de la familia Sphyraenidae . Sphyraena guachancho.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09090909090909091,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2569",
+        "semantic_similarity_score": 0.2569,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "ERDMAN,",
-            "year": "1974"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ERDMAN,",
+            "year": "1974"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(La Parguera).  Pez de la familia Sphyraenidae (picúas). Sphyraena guachancho.",
+          ". Pez de la familia Sphyraenidae . Sphyraena guachancho.",
           "Pez marino."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pez marino."
+    ". Pez de la familia Sphyraenidae . Sphyraena guachancho."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

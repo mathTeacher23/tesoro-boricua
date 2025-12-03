@@ -3,12 +3,15 @@
   "term": "boliche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Las primeras hojas de la mata de tabaco que por estar cerca de la tierra se dañan y su valor es muy poco.",
+      "consolidated_definition": "Tabaco de clase inferior que se produce en",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2676093278736787,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.6964",
+        "semantic_similarity_score": 0.6964,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
@@ -41,12 +40,16 @@
             "year": "1986"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -62,18 +65,26 @@
         "related_words": [],
         "reference_definitions": [
           "Tabaco de clase inferior que se produce en la isla. Ac. “Yo tenía dos cigarros de boliche.” Fernández Juncos, Costumbres y tradiciones, 1883, p. 207.",
-          "(popular) Tabaco de mala calidad.",
-          "Tabaco de inferior calidad."
+          "Tabaco de mala calidad.",
+          "Tabaco de inferior calidad.",
+          "Las primeras hojas de la mata de tabaco que por estar cerca de la tierra se dañan y su valor es muy poco. En algunos sitios las llaman espumilla, también pie .",
+          "Tabaco de inferior calidad.",
+          "Tabaco de inferior calidad elaborado de las hojas rastreras del tabaco, o del de segunda.",
+          "Hoja de tabaco de inferior calidad.",
+          "Tabaco de clase inferior elaborado con las hojas rastreras de la planta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Bolera, lugar donde se juega a los bolos.",
+      "consolidated_definition": "Bolos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4468",
+        "semantic_similarity_score": 0.4468,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -86,12 +97,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -109,12 +120,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Terreno que no produce azúcar.",
+      "consolidated_definition": "Terreno que no produce azúcar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -144,12 +158,15 @@
       }
     },
     "4": {
-      "consolidated_definition": ".",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Juguete que se forma de un palo terminado en punta y de una bola taladrada sujeta por un cordón al palo, la cual, lanzada al aire, se procura ensartar en la punta.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -172,16 +189,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Col., C. Rica y Perú). Juguete que se forma de un palo terminado en punta y de una bola taladrada sujeta por un cordón al palo, la cual, lanzad..."
+          ". Juguete que se forma de un palo terminado en punta y de una bola taladrada sujeta por un cordón al palo, la cual, lanzada al aire, se procura ensartar en la punta."
         ]
       }
     }
   },
   "es_definitions": [
-    "Las primeras hojas de la mata de tabaco que por estar cerca de la tierra se dañan y su valor es muy poco.",
-    "Bolera, lugar donde se juega a los bolos.",
-    "Terreno que no produce azúcar.",
-    "."
+    "Tabaco de clase inferior que se produce en",
+    "Bolos",
+    "Terreno que no produce azúcar",
+    ". Juguete que se forma de un palo terminado en punta y de una bola taladrada sujeta por un cordón al palo, la cual, lanzada al aire, se procura ensartar en la punta."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

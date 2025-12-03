@@ -3,12 +3,15 @@
   "term": "embollarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dedicarse alguien intensamente a algo.",
+      "consolidated_definition": "Emborracharse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3766",
+        "semantic_similarity_score": 0.3766,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -51,13 +54,15 @@
         "reference_definitions": [
           "Emborracharse.",
           "Ajumarse.",
-          "Enrollarse."
+          "Enrollarse.",
+          "Dedicarse alguien intensamente a algo.",
+          "Emborracharse alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dedicarse alguien intensamente a algo."
+    "Emborracharse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

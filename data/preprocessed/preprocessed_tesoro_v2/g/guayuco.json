@@ -3,12 +3,15 @@
   "term": "guayuco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vestimenta vieja y raída que usan los obreros, pescadores y campesinos para sus faenas diarias.",
+      "consolidated_definition": "Muda o traje viejo y usado que tienen",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11321801950643876,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.5638",
+        "semantic_similarity_score": 0.5638,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,6 +24,26 @@
         ],
         "sources": [
           {
+            "source": "BENNETT,",
+            "year": "1972"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -29,28 +52,8 @@
             "year": "1948"
           },
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
-            "source": "BENNETT,",
-            "year": "1972"
-          },
-          {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -67,13 +70,19 @@
         "reference_definitions": [
           "Muda o traje viejo y usado que tienen los jornaleros para el trabajo.",
           "Traje viejo.",
-          "(jíbaro)  Ropa vieja que se pone el obrero para trabajar."
+          "Ropa vieja que se pone el obrero para trabajar.",
+          "Vestimenta vieja y raída que usan los obreros, pescadores y campesinos para sus faenas diarias.",
+          "Ropa vieja que se pone el obrero para trabajar. También overol.",
+          "Muda o ropa vieja que usa el jornalero para ir al trabajo.",
+          "Taparrabo que usaban los taínos.",
+          "Muda de ropa vieja de trabajo. También dicen guayusco.",
+          "Taparrabos, ropa vieja."
         ]
       }
     }
   },
   "es_definitions": [
-    "Vestimenta vieja y raída que usan los obreros, pescadores y campesinos para sus faenas diarias."
+    "Muda o traje viejo y usado que tienen"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "desguañangarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desfallecer el ánimo.",
+      "consolidated_definition": "Desfallecer el ánimo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02222222222222222,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4975",
+        "semantic_similarity_score": 0.4975,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,13 +47,16 @@
         "reference_definitions": [
           "Desfallecer el ánimo.",
           "Desguabinar. Desfallecer.",
-          "Desguabinarse. Rendirse. Acobardarse. Aplastarse. Algunos dicen esguañangarse."
+          "Desguabinarse. Rendirse. Acobardarse. Aplastarse. Algunos dicen esguañangarse.",
+          "Caerse, hacerse daño.",
+          "Acobardarse alguien.",
+          "Rendirse alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Desfallecer el ánimo."
+    "Desfallecer el ánimo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

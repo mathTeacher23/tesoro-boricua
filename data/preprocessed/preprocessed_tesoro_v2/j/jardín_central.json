@@ -3,12 +3,15 @@
   "term": "jardín central",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol, campo central situado detrás de la segunda base.",
+      "consolidated_definition": "dep",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13157894736842105,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5138",
+        "semantic_similarity_score": 0.5138,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En béisbol, la zona central posterior al cuadro interior. Calco de estructura, frecuente.\nSólo él sabe, lo mismo que Mickey Mantle, que algunas j...",
+          "dep. En béisbol, la zona central posterior al cuadro interior. Calco de estructura, frecuente. Sólo él sabe, lo mismo que Mickey Mantle, que algunas jugadas en el jardín central son peligrosas, insuperables",
           "En el beisbol, campo central situado detrás de la segunda base."
         ]
       }
     }
   },
   "es_definitions": [
-    "En el beisbol, campo central situado detrás de la segunda base."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

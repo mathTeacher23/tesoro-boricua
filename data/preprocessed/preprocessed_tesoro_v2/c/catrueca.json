@@ -3,12 +3,15 @@
   "term": "catrueca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cabeza, coco, chola, güira.",
+      "consolidated_definition": "Cabeza",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3487179487179487,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.7328",
+        "semantic_similarity_score": 0.7328,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -51,15 +54,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(jíbaro)  Cabeza. Otras denominaciones humorísticas: coco, chola, güira, etc.",
+          "Cabeza. Otras denominaciones humorísticas: coco, chola, güira, etc.",
           "Cabeza.",
-          "Cabeza, coco, chola, güira. Variante: catueca."
+          "Cabeza, coco, chola, güira. Variante: catueca.",
+          "Cabeza.",
+          "Cabeza."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cabeza, coco, chola, güira."
+    "Cabeza"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

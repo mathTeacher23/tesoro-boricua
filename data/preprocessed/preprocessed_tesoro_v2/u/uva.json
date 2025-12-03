@@ -3,12 +3,15 @@
   "term": "uva",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El grano de café […] ya en estado maduro.",
+      "consolidated_definition": "Fruto maduro del café",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13227513227513227,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7415",
+        "semantic_similarity_score": 0.7415,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -42,17 +45,20 @@
         "reference_definitions": [
           "Fruto maduro del café.",
           "Higo. El grano del café maduro.",
-          "El grano de café […] ya en estado maduro. También poma, cereza."
+          "El grano de café ya en estado maduro. También poma, cereza."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Bueno [referido al tabaco].",
+      "consolidated_definition": "Bueno",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6022",
+        "semantic_similarity_score": 0.6022,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -67,12 +73,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -82,15 +88,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bueno [referido al tabaco]. Oí decir a un comprador de tabaco hilado: “Dámelo del bueno, del que mascan los Acevedo, del que es puro higo.” Otros dice...",
+          "Bueno . Oí decir a un comprador de tabaco hilado: “Dámelo del bueno, del que mascan los Acevedo, del que es puro higo.” Otros dicen uva.",
           "Bueno. Cuando se acepta algo como bien, chévere."
         ]
       }
     }
   },
   "es_definitions": [
-    "El grano de café […] ya en estado maduro.",
-    "Bueno [referido al tabaco]."
+    "Fruto maduro del café",
+    "Bueno"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

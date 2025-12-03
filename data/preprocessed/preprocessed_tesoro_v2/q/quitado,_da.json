@@ -3,12 +3,15 @@
   "term": "quitado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice del estudiante que aprobó un examen o una asignatura.",
+      "consolidated_definition": "Se dice del estudiante que aprobó un examen",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0984848484848485,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5092",
+        "semantic_similarity_score": 0.5092,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,13 +49,14 @@
         "reference_definitions": [
           "Se dice del estudiante que aprobó un examen o una asignatura.",
           "Dícese de la persona retraída.",
-          "Algo fácil de hacer."
+          "Algo fácil de hacer.",
+          "Referido a cosa, muy fácil de hacer."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se dice del estudiante que aprobó un examen o una asignatura."
+    "Se dice del estudiante que aprobó un examen"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

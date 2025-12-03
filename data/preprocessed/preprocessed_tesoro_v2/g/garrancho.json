@@ -3,12 +3,15 @@
   "term": "garrancho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona vieja y desaliñada en el vestir; cualquier cosa vieja y deteriorada.",
+      "consolidated_definition": "Persona vieja y desaliñada en el vestir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1503052503052503,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.577",
+        "semantic_similarity_score": 0.577,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -26,16 +29,16 @@
         ],
         "sources": [
           {
+            "source": "BENNETT,",
+            "year": "1972"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
             "source": "PAGÁN GONZÁLEZ,",
             "year": "1969"
-          },
-          {
-            "source": "BENNETT,",
-            "year": "1972"
           },
           {
             "source": "VICENTE MAURA,",
@@ -51,15 +54,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Persona vieja y desaliñada en el vestir; cualquier cosa vieja y deteriorada.",
+          "Persona vieja y desaliñada en el vestir; cualquier cosa vieja y deteriorada.",
           "Cualquier cosa vieja o deteriorada; persona vieja, desaliñada en el vestir.",
-          "Persona vieja y desaliñada al vestir; cualquier cosa vieja y deteriorada.  También guarrancho, rancho."
+          "Persona vieja y desaliñada al vestir; cualquier cosa vieja y deteriorada. También guarrancho, rancho.",
+          "Carrancho. Cosa Inservible.",
+          "Hombre senil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona vieja y desaliñada en el vestir; cualquier cosa vieja y deteriorada."
+    "Persona vieja y desaliñada en el vestir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

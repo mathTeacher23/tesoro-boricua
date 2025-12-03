@@ -3,12 +3,15 @@
   "term": "tortuga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El nombre de tortuga se aplica únicamente a la especie de la que se saca el aceite de tortuga cuya carne no se come.",
+      "consolidated_definition": "Persona de andar lento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05568062438650674,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4487",
+        "semantic_similarity_score": 0.4487,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -26,20 +29,20 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -51,19 +54,25 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Persona de andar lento; chofer que guía despacio.",
+          "Persona de andar lento; chofer que guía despacio.",
           "El nombre de tortuga se aplica únicamente a la especie de la que se saca el aceite de tortuga cuya carne no se come.",
-          "Dícese de la persona de movimientos lentos."
+          "Dícese de la persona de movimientos lentos.",
+          "Del conductor que va muy despacio teniendo vía franca.",
+          "Persona lenta.",
+          "La guagua escolar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Nombre que le dan al árbol llamado violeta.",
+      "consolidated_definition": "Nombre que le dan al árbol llamado violeta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -92,8 +101,8 @@
     }
   },
   "es_definitions": [
-    "El nombre de tortuga se aplica únicamente a la especie de la que se saca el aceite de tortuga cuya carne no se come.",
-    "Nombre que le dan al árbol llamado violeta."
+    "Persona de andar lento",
+    "Nombre que le dan al árbol llamado violeta"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

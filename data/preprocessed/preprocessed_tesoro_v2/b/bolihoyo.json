@@ -3,12 +3,15 @@
   "term": "bolihoyo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Juego con canicas.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Juego de hoyito.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09090909090909091,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6693",
+        "semantic_similarity_score": 0.6693,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba). Juego de hoyito.",
+          ". Juego de hoyito.",
           "Juego con canicas. Bolita y hoyo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Juego con canicas."
+    ". Juego de hoyito."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

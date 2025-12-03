@@ -3,12 +3,15 @@
   "term": "pira",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El cogollo de esta palma [palma de grana o palma real] lo cuecen y comen como la mejor col cocida y también en ensalada.",
+      "consolidated_definition": "El cogollo de esta palma lo cuecen y",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18866698448644434,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7308",
+        "semantic_similarity_score": 0.7308,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -27,16 +30,16 @@
             "year": "1788"
           },
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -48,15 +51,16 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "El cogollo de esta palma [palma de grana o palma real] lo cuecen y comen como la mejor col cocida y también en ensalada. Los indios la llaman pira y l...",
+          "El cogollo de esta palma lo cuecen y comen como la mejor col cocida y también en ensalada. Los indios la llaman pira y la usan con frecuencia; en Puerto Rico raras veces, aunque es agradable. A estas palmas se suben las culebras para cazar las aves que se sientan sobre ellas a comer la fruta.",
           "Cogollo de la palma de grana, utilizado como comestible.",
-          "Cogollo tierno de la palma real, que es comestible en ensalada. También palmillo."
+          "Cogollo tierno de la palma real, que es comestible en ensalada. También palmillo.",
+          "Cogollo de palma de grana comestible, hervido y en ensalada."
         ]
       }
     }
   },
   "es_definitions": [
-    "El cogollo de esta palma [palma de grana o palma real] lo cuecen y comen como la mejor col cocida y también en ensalada."
+    "El cogollo de esta palma lo cuecen y"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

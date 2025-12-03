@@ -3,12 +3,15 @@
   "term": "muey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muelle.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07142857142857142,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.451",
+        "semantic_similarity_score": 0.451,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MELÉNDEZ MUÑOZ,",
-            "year": "1927"
-          },
-          {
             "source": "MALARET,",
             "year": "1937"
+          },
+          {
+            "source": "MELÉNDEZ MUÑOZ,",
+            "year": "1927"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Muelle. “Que atraque... al muey.” Meléndez Muñoz, Cuentos del cedro, 1936, p. 99.",
+          "vulg. Muelle. “Que atraque... al muey.” Meléndez Muñoz, Cuentos del cedro, 1936, p. 99.",
           "Muelle."
         ]
       }
     }
   },
   "es_definitions": [
-    "Muelle."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

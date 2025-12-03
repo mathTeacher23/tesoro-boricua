@@ -3,12 +3,15 @@
   "term": "chayote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Esta planta cucurbitácea —Sechium edule— ha tenido distribución en Puerto Rico.",
+      "consolidated_definition": "Fruto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12928592309026268,
+        "num_cleaned_definitions": 11,
+        "definition_stability": "Stability: 0.5276",
+        "semantic_similarity_score": 0.5276,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,8 +26,16 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1966"
+            "source": "BENNETT,",
+            "year": "1972"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
             "source": "HERNÁNDEZ AQUINO,",
@@ -35,28 +46,20 @@
             "year": "1969"
           },
           {
-            "source": "BENNETT,",
-            "year": "1972"
-          },
-          {
             "source": "SOLER,",
             "year": "1973"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1966"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -75,14 +78,22 @@
         ],
         "reference_definitions": [
           "Fruto. También tayote.",
-          "(Del azteca chaiotl.)  Esta planta cucurbitácea —Sechium edule— ha tenido distribución en Puerto Rico. Es planta trepadora y vivaz, de hojas simples, ...",
-          "Tayote."
+          "Esta planta cucurbitácea —Sechium edule— ha tenido distribución en Puerto Rico. Es planta trepadora y vivaz, de hojas simples, flores blancas y fruto trasovado oblongo, que puede medir de cuatro a seis pulgadas. Es comestible y lleva el mismo nombre de la planta. Hay tres variedades: verde, con algunas espinas finas en la superficie; blanco liso o blanco con espinas en la superficie.",
+          "Tayote.",
+          "Tayote. También tayón.",
+          "Fruto mayor que una pera corriente de corteza espinosa.",
+          "Tayote, tayón.",
+          "Tayote. También chayonón, tayón.",
+          "Tayote. También dicen chayón.",
+          "Sechium edule. Bejuco cucurbitáceo, fruto comestible del mismo, tayote, chayón.",
+          "Tayote.",
+          "Planta y fruto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Esta planta cucurbitácea —Sechium edule— ha tenido distribución en Puerto Rico."
+    "Fruto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

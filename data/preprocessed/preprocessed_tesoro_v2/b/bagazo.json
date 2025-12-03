@@ -3,12 +3,15 @@
   "term": "bagazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por antonomasia, en Puerto Rico y demás tierras del Caribe y América en general, donde se beneficia [se procesa] la caña sucrosa, residuo de la caña después de haberse molido y exprimido para extraerle el guarapo.",
+      "consolidated_definition": ". Por antonomasia, el de la caña.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17654037966537964,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5845",
+        "semantic_similarity_score": 0.5845,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -20,6 +23,10 @@
           "AGRICULTURA/CAÑA."
         ],
         "sources": [
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
           {
             "source": "MALARET,",
             "year": "1937"
@@ -31,10 +38,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1972"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -46,19 +49,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Am.). Por antonomasia, el de la caña.",
+          ". Por antonomasia, el de la caña.",
           "Paja de la caña.",
-          "Por antonomasia, en Puerto Rico y demás tierras del Caribe y América en general, donde se beneficia [se procesa] la caña sucrosa, residuo de la caña d..."
+          "Por antonomasia, en Puerto Rico y demás tierras del Caribe y América en general, donde se beneficia la caña sucrosa, residuo de la caña después de haberse molido y exprimido para extraerle el guarapo.",
+          "En la industria azucarera, residuo de la caña, una vez extraído el jugo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que ha perdido su valía, su productividad.",
+      "consolidated_definition": ". Persona despreciable.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20530303030303032,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.631",
+        "semantic_similarity_score": 0.631,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -71,12 +78,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -86,7 +93,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba). Persona despreciable.",
+          ". Persona despreciable.",
           "Persona despreciable.",
           "Persona que ha perdido su valía, su productividad."
         ]
@@ -94,8 +101,8 @@
     }
   },
   "es_definitions": [
-    "Por antonomasia, en Puerto Rico y demás tierras del Caribe y América en general, donde se beneficia [se procesa] la caña sucrosa, residuo de la caña después de haberse molido y exprimido para extraerle el guarapo.",
-    "Persona que ha perdido su valía, su productividad."
+    ". Por antonomasia, el de la caña.",
+    ". Persona despreciable."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

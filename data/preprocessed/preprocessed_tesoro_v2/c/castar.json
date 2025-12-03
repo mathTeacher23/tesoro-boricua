@@ -3,12 +3,15 @@
   "term": "castar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aparear alguien un gallo y una gallina de buena raza para lograr gallos de pelea de casta superior.",
+      "consolidated_definition": "Aparear gallo y gallina de buena raza para",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.8125,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.953",
+        "semantic_similarity_score": 0.953,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "Aparear alguien un gallo y una gallina de buena raza para lograr gallos de pelea de casta superior."
+    "Aparear gallo y gallina de buena raza para"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

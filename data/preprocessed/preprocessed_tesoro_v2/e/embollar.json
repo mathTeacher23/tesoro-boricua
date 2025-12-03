@@ -3,12 +3,15 @@
   "term": "embollar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Concentrarse o dedicarse, interesarse demasiado en algo.",
+      "consolidated_definition": "Enrollar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.010618349904064189,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4328",
+        "semantic_similarity_score": 0.4328,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,19 +50,26 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Enrollar. “Yo era entonces un mocoso que ni siquiera ma atrevía a embollar el cordel.” Daubón, Cosas de Puerto Rico, 1904, p. 50.",
+          "Enrollar. “Yo era entonces un mocoso que ni siquiera ma atrevía a embollar el cordel.” Daubón, Cosas de , p. 50.",
           "Embobinar, enrollar.",
-          "Envolver, enliar descuidadamente."
+          "Envolver, enliar descuidadamente.",
+          "Entusiasmar.",
+          "Concentrarse o dedicarse, interesarse demasiado en algo.",
+          "Engañar, confundir a alguien.",
+          "Enrollar alguien algo, envolverlo descuidadamente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ir alguien a gran velocidad.",
+      "consolidated_definition": "Huir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3012",
+        "semantic_similarity_score": 0.3012,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -90,8 +100,8 @@
     }
   },
   "es_definitions": [
-    "Concentrarse o dedicarse, interesarse demasiado en algo.",
-    "Ir alguien a gran velocidad."
+    "Enrollar",
+    "Huir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

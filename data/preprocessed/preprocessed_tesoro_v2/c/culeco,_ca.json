@@ -3,12 +3,15 @@
   "term": "culeco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, contenta y alegre.",
+      "consolidated_definition": "fest",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05138888888888889,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4072",
+        "semantic_similarity_score": 0.4072,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,20 +27,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS, 1981B",
-            "year": ""
-          },
-          {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "WASHINGTON LLORENS, 1981B",
+            "year": ""
           }
         ],
         "years": [
@@ -52,15 +55,18 @@
           "enculecarse"
         ],
         "reference_definitions": [
-          "fest.  (T. en Am.).  Metátesis de clueco. (Así en Alava y Aragón).",
+          "fest. . Metátesis de clueco. .",
           "Muy enamorado.",
-          "Palabra castellana deformada. Contento, esvanecido (de clueco)."
+          "Palabra castellana deformada. Contento, esvanecido .",
+          "Alegre.",
+          "Referido a persona, contenta y alegre.",
+          "Referido a persona, muy enamorada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, contenta y alegre."
+    "fest"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

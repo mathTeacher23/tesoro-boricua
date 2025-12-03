@@ -3,12 +3,15 @@
   "term": "caerse de eslay",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caerse alguien y quedar tendido en el suelo.",
+      "consolidated_definition": "Caer tendido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5815",
+        "semantic_similarity_score": 0.5815,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "PÉREZ SALA,",
+            "year": "1968"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Caerse alguien y quedar tendido en el suelo."
+    "Caer tendido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

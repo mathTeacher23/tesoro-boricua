@@ -3,12 +3,15 @@
   "term": "handbag",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Maleta de mano, de cosméticos.",
+      "consolidated_definition": "Maletín",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.029738562091503263,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4388",
+        "semantic_similarity_score": 0.4388,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,13 +46,14 @@
         "reference_definitions": [
           "Maletín.",
           "Maleta de mano, de cosméticos.",
-          "Cartera de mano. Bolsa de tela o cuero que se lleva en la mano o colgada del hombro. Anglicismo crudo, poco frecuente. Véase bag.\nSe me ocurre que, pa..."
+          "Cartera de mano. Bolsa de tela o cuero que se lleva en la mano o colgada del hombro. Anglicismo crudo, poco frecuente. Véase bag. Se me ocurre que, para evitar complicaciones, debería llevar las maletas al aeropuerto antes de entregar el carro. ¡Y qué maletas! Siempre para este viaje traigo una maleta más grande de lo necesario para así poder acomodar la información que inevitablemente uno tiene que traer consigo. Pero esta vez fue algo que está fuera de serie. Tuve que distribuir el material del show entre todo mi equipaje, incluyendo un hand bag",
+          "Maletín, generalmente para cosméticos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Maleta de mano, de cosméticos."
+    "Maletín"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

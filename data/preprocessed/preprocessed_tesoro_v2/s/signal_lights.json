@@ -3,12 +3,15 @@
   "term": "signal lights",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Luces direccionales del automóvil.",
+      "consolidated_definition": "Luces direccionales",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08027777777777778,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5257",
+        "semantic_similarity_score": 0.5257,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino",
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -45,14 +48,14 @@
         "related_words": [],
         "reference_definitions": [
           "Luces direccionales.",
-          "autom. Luz de señales. En los automóviles, las luces que señalan las direcciones. Anglicismo crudo, poco frecuente.\nPues los que puedan llegar a Monte...",
+          "autom. Luz de señales. En los automóviles, las luces que señalan las direcciones. Anglicismo crudo, poco frecuente. Pues los que puedan llegar a Monte Hiedra, lleguen. Estaremos allí de 10:00am a 11:00am para salir a las 11:00am en punto, el que no pueda llegarle allí, que se pare por el paseo con las signal light, así se coge por el camino",
           "Luces direccionales del automóvil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Luces direccionales del automóvil."
+    "Luces direccionales"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

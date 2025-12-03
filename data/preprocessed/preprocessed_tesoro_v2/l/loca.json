@@ -3,12 +3,15 @@
   "term": "loca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer que mantiene relaciones sentimentales con varios hombres, pero ninguna estable.",
+      "consolidated_definition": "Mujer de costumbres libres",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0375,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3554",
+        "semantic_similarity_score": 0.3554,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -30,12 +33,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,19 +49,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Mujer de costumbres libres, prostituta. También tusa.",
+          "Mujer de costumbres libres, prostituta. También tusa.",
           "Mujer libertina.",
-          "Adolescente alocada."
+          "Adolescente alocada.",
+          "Mujer que mantiene relaciones sentimentales con varios hombres, pero ninguna estable.",
+          "Prostituta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Homosexual.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Homosexual",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -93,8 +101,8 @@
     }
   },
   "es_definitions": [
-    "Mujer que mantiene relaciones sentimentales con varios hombres, pero ninguna estable.",
-    "Homosexual."
+    "Mujer de costumbres libres",
+    "Homosexual"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

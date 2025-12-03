@@ -3,12 +3,15 @@
   "term": "trabajar en la vaguin company",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar ocioso, holgazanear; estar sin empleo.",
+      "consolidated_definition": "Estar ocioso",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1502777777777778,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6253",
+        "semantic_similarity_score": 0.6253,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -24,20 +27,20 @@
             "year": "1965"
           },
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "PAGÁN GONZÁLEZ,",
             "year": "1969"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "PÉREZ SALA,",
+            "year": "1968"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,15 +53,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Estar ocioso, holgazanear; estar sin empleo.",
+          "Estar ocioso, holgazanear; estar sin empleo.",
           "Ser un vago.",
-          "Estar sin empleo."
+          "Estar sin empleo.",
+          "Holgazanear. Estar desempleado.",
+          "Estar alguien desempleado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estar ocioso, holgazanear; estar sin empleo."
+    "Estar ocioso"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

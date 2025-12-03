@@ -3,12 +3,15 @@
   "term": "en cospe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En gran cantidad.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "loc",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17800925925925926,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5765",
+        "semantic_similarity_score": 0.5765,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -44,15 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "loc. adv.  (T. josco1).  En cantidad, en gran abundancia. Johco.",
+          "loc. . . En cantidad, en gran abundancia. Johco.",
           "En abundancia.",
-          "En gran cantidad."
+          "En gran cantidad.",
+          "En mucha cantidad. “Había gente en cospe.” Tiene chavos en cospe.”"
         ]
       }
     }
   },
   "es_definitions": [
-    "En gran cantidad."
+    "loc"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

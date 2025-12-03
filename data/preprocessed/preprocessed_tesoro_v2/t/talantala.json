@@ -3,12 +3,15 @@
   "term": "talantala",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto de flores amarillas, grandes, en densos racimos terminales.",
+      "consolidated_definition": "Arbusto de flores amarillas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09041301391844869,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5297",
+        "semantic_similarity_score": 0.5297,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "MAULEÓN,",
@@ -46,15 +49,16 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Arbusto de flores amarillas, grandes, en densos racimos terminales. (Herpetica alata; Cassia a.; Cassia herpetica). Stahl, 3:107.",
-          "Herpetica alata. Planta de flores amarillas, que crece en racimos, familia de las cesalpiniáceas. Crece como arbusto y llega hasta los tres metros de ...",
-          "Cesalpineas. Herpetica alata. Mata que sirve pa la hinchasón, echa una flor amarilla."
+          "Arbusto de flores amarillas, grandes, en densos racimos terminales. . Stahl, 3:107.",
+          "Herpetica alata. Planta de flores amarillas, que crece en racimos, familia de las cesalpiniáceas. Crece como arbusto y llega hasta los tres metros de altura.",
+          "Cesalpineas. Herpetica alata. Mata que sirve pa la hinchasón, echa una flor amarilla.",
+          "Planta silvestre que puede ser ornamental. Echa flores abundantes de color amarillo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Arbusto de flores amarillas, grandes, en densos racimos terminales."
+    "Arbusto de flores amarillas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

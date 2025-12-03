@@ -3,12 +3,15 @@
   "term": "maco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llaman así los chicos en su juego de macos a una especie de caracolitos lisos y lustrosos, y a unas especies de granos amarillos o colorados también llamados matos.",
+      "consolidated_definition": "Llaman así los chicos en su juego de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,17 +34,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Llaman así los chicos en su juego de macos a una especie de caracolitos lisos y lustrosos, y a unas especies de granos amarillos o colorados también l..."
+          "Llaman así los chicos en su juego de macos a una especie de caracolitos lisos y lustrosos, y a unas especies de granos amarillos o colorados también llamados matos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Significa ojo, según el uso popular, aunque se utiliza más en la forma plural macos, en frases como: “Macos grandes, ojos grandes” o “abrió así de grandes los macos”.",
+      "consolidated_definition": "Ojo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07096096096096097,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4464",
+        "semantic_similarity_score": 0.4464,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -54,20 +60,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS, 1981B",
-            "year": ""
-          },
-          {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "WASHINGTON LLORENS, 1981B",
+            "year": ""
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -83,16 +89,18 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Ojo, el órgano de la vista. (Sólo tiene uso en tono festivo). “Cuando volví a abrir los macos...” Timothée, Cuentos populares, 1917, p. 125.",
-          "(popular)  Ojo.",
-          "Significa ojo, según el uso popular, aunque se utiliza más en la forma plural macos, en frases como: “Macos grandes, ojos grandes” o “abrió así de gra..."
+          "Ojo, el órgano de la vista. . “Cuando volví a abrir los macos...” Timothée, Cuentos populares, 1917, p. 125.",
+          "Ojo.",
+          "Significa ojo, según el uso popular, aunque se utiliza más en la forma plural macos, en frases como: “Macos grandes, ojos grandes” o “abrió así de grandes los macos”.",
+          "Ojo.",
+          "Con voluntad más bien festiva, se oye decir macos ‘ojos’ ("
         ]
       }
     }
   },
   "es_definitions": [
-    "Llaman así los chicos en su juego de macos a una especie de caracolitos lisos y lustrosos, y a unas especies de granos amarillos o colorados también llamados matos.",
-    "Significa ojo, según el uso popular, aunque se utiliza más en la forma plural macos, en frases como: “Macos grandes, ojos grandes” o “abrió así de grandes los macos”."
+    "Llaman así los chicos en su juego de",
+    "Ojo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

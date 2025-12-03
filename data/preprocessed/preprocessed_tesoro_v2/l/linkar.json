@@ -3,12 +3,15 @@
   "term": "linkar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -35,13 +38,13 @@
           "linkear"
         ],
         "reference_definitions": [
-          "inform. Enlazar. Establecer o incluir un enlace entre páginas electrónicas. Anglicismo adaptado, poco frecuente.\nTe cuento que todo este embrollo es p..."
+          "inform. Enlazar. Establecer o incluir un enlace entre páginas electrónicas. Anglicismo adaptado, poco frecuente. Te cuento que todo este embrollo es porque algunos sitios no permiten linkear imágenes desde afuera, es decir que si hace un link a alguno de estos sitios las imágenes no se verán. El sitio que aparece en la explicación sí permite hacer esto"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

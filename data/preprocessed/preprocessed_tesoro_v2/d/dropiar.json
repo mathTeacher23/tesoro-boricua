@@ -3,12 +3,15 @@
   "term": "dropiar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Suspender.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Expulsar",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2741",
+        "semantic_similarity_score": 0.2741,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -39,7 +42,7 @@
     }
   },
   "es_definitions": [
-    "Suspender."
+    "Expulsar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

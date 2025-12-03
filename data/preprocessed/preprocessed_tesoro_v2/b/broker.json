@@ -3,12 +3,15 @@
   "term": "broker",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una especialización que consiste en orientar al público sobre todo tipo de seguro y la compañía o compañías aseguradoras que mejor llenan los requisitos para el tipo de seguro que el cliente quiere.",
+      "consolidated_definition": "Agente o corredor de seguros, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1676112119378907,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5491",
+        "semantic_similarity_score": 0.5491,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "HUYKE,",
+            "year": "1973"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,13 +51,16 @@
         "reference_definitions": [
           "Agente o corredor de seguros.",
           "Vendedor de seguros.",
-          "Una especialización que consiste en orientar al público sobre todo tipo de seguro y la compañía o compañías aseguradoras que mejor llenan los requisit..."
+          "Una especialización que consiste en orientar al público sobre todo tipo de seguro y la compañía o compañías aseguradoras que mejor llenan los requisitos para el tipo de seguro que el cliente quiere.",
+          "Corredor o agente mercantil.",
+          "econ. Corredor, agente financiero. Oficial de una organización con fines de lucro que actúa como mediador para otra persona o empresa en operaciones financieras. Anglicismo crudo, usual. El ciudadano, independientemente de que sea estudiante o no lo sea, trabajador, o no lo sea, o broker de seguros como lo es el Sr. Krans, o no lo sea, tiene derecho a solicitarle a la Junta de Sindicos la “reparacion de agravios” o el “redress of grievances”",
+          "Agente de seguros."
         ]
       }
     }
   },
   "es_definitions": [
-    "Una especialización que consiste en orientar al público sobre todo tipo de seguro y la compañía o compañías aseguradoras que mejor llenan los requisitos para el tipo de seguro que el cliente quiere."
+    "Agente o corredor de seguros, relacionado con una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

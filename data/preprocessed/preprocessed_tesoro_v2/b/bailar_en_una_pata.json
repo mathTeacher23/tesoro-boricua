@@ -3,12 +3,15 @@
   "term": "bailar en una pata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar sumamente alegre.",
+      "consolidated_definition": ". Estar sumamente alegre.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3699074074074074,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7465",
+        "semantic_similarity_score": 0.7465,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -37,15 +40,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Chile y Perú).  Estar sumamente alegre.",
+          ". Estar sumamente alegre.",
           "Estar en peligro.",
-          "Estar sumamente alegre."
+          "Estar sumamente alegre.",
+          "Estar en peligro."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estar sumamente alegre."
+    ". Estar sumamente alegre."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

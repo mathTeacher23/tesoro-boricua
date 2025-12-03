@@ -3,12 +3,15 @@
   "term": "troli",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trolebús.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Trolebús",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4411",
+        "semantic_similarity_score": 0.4411,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -37,13 +40,13 @@
         "related_words": [],
         "reference_definitions": [
           "Trolebús.",
-          "transp. Autobús. Vehículo de transportación pública que semeja un tranvía. Anglicismo adaptado, usual.\nEste bueno, primero, estaba la deso de los trol..."
+          "transp. Autobús. Vehículo de transportación pública que semeja un tranvía. Anglicismo adaptado, usual. Este bueno, primero, estaba la deso de los trolis, los trolis, la San Juan Lighter. Claro, yo lo vi ya que estaba acabado aquello, donde está el parking de San Juan hoy en día, el estacionamiento. Pero... yo vi los trolis allí, los viejos trolis aquellos"
         ]
       }
     }
   },
   "es_definitions": [
-    "Trolebús."
+    "Trolebús"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

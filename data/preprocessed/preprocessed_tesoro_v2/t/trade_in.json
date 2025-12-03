@@ -3,12 +3,15 @@
   "term": "trade in",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Transacción comercial donde se obtienen rebajas entregando a cambio un producto de menor calidad o de una calidad parecida.",
+      "consolidated_definition": "Cambio",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0652864044168392,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3759",
+        "semantic_similarity_score": 0.3759,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2001"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2001"
           }
         ],
         "years": [
@@ -36,7 +39,7 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Cambio, pronto (pago), parte del pago. Los informantes señalaron que lo usaban en muchas ocasiones pero especialmente para la compra de un carro o bee...",
+          "Cambio, pronto , parte del pago. Los informantes señalaron que lo usaban en muchas ocasiones pero especialmente para la compra de un carro o beeper nuevo, porque los viejos los “daban en trade in”.",
           "Transacción comercial donde se obtienen rebajas entregando a cambio un producto de menor calidad o de una calidad parecida.",
           "Anticipo de pago por la compra de algo."
         ]
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Transacción comercial donde se obtienen rebajas entregando a cambio un producto de menor calidad o de una calidad parecida."
+    "Cambio"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

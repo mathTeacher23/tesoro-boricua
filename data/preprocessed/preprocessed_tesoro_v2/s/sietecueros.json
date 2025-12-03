@@ -3,12 +3,15 @@
   "term": "sietecueros",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un callo infectado.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.018137254901960786,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.2769",
+        "semantic_similarity_score": 0.2769,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -41,19 +44,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (Ant., Col., Ecuad., Méx. y Pan.). Engrosamiento o inflamación del talón del pie. “La extracción de una uña encarnada, la dilatación de un siet...",
+          "vulg. . Engrosamiento o inflamación del talón del pie. “La extracción de una uña encarnada, la dilatación de un sietecueros y otras sencillísimas operaciones.” Martínez Roselló, , p. 175.",
           "Un callo infectado.",
           "Hiperqueratosis. Panadizo en los dedos causado por una hincada."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Árbol de hasta 12 m de altura, de corteza dura, hojas elípticas y flores verdes; su madera se utiliza para carbón vegetal y postes.",
+      "consolidated_definition": "Árbol de madera dura",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14705882352941177,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4776",
+        "semantic_similarity_score": 0.4776,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -68,12 +74,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -83,15 +89,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Árbol de madera dura, fibrosa y fuerte (Phyllanthus nobilis; antillanus). Grosourdy, 2, 414; Otero, 976.",
-          "Árbol de hasta 12 m de altura, de corteza dura, hojas elípticas y flores verdes; su madera se utiliza para carbón vegetal y postes. (Phyllanthaceae; P..."
+          "Árbol de madera dura, fibrosa y fuerte . Grosourdy, 2, 414; Otero, 976.",
+          "Árbol de hasta 12 m de altura, de corteza dura, hojas elípticas y flores verdes; su madera se utiliza para carbón vegetal y postes. ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Un callo infectado.",
-    "Árbol de hasta 12 m de altura, de corteza dura, hojas elípticas y flores verdes; su madera se utiliza para carbón vegetal y postes."
+    "vulg",
+    "Árbol de madera dura"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

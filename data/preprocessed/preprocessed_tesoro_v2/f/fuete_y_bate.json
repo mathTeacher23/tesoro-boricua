@@ -3,12 +3,15 @@
   "term": "fuete y bate",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muy fuerte, intensamente.",
+      "consolidated_definition": "Fuerte",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.25,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7461",
+        "semantic_similarity_score": 0.7461,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Muy fuerte, intensamente."
+    "Fuerte"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "collect",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llamada telefónica con cargos revertidos.",
+      "consolidated_definition": "Llamada telefónica con cargos revertidos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13155802861685215,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7864",
+        "semantic_similarity_score": 0.7864,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,14 +46,14 @@
         "related_words": [],
         "reference_definitions": [
           "Llamada telefónica con cargos revertidos.",
-          "telecom. Con cargos revertidos. En el teléfono, la llamada que debe ser pagada por el receptor. Anglicismo crudo, usual.\nEventualmente, Corrales ganó,...",
+          "telecom. Con cargos revertidos. En el teléfono, la llamada que debe ser pagada por el receptor. Anglicismo crudo, usual. Eventualmente, Corrales ganó, figurativamente hablando, tras hacer una llamada collect en el décimo asalto",
           "Llamada telefónica a cobro revertido."
         ]
       }
     }
   },
   "es_definitions": [
-    "Llamada telefónica con cargos revertidos."
+    "Llamada telefónica con cargos revertidos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

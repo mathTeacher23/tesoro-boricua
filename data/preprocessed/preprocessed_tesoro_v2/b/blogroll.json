@@ -3,12 +3,15 @@
   "term": "blogroll",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,13 +44,13 @@
           "bloguero, ra"
         ],
         "reference_definitions": [
-          "inform. Colección de enlaces a otros blogs, normalmente presentado en una columna lateral de la página web. Anglicismo crudo, poco frecuente.\nLuego lo..."
+          "inform. Colección de enlaces a otros blogs, normalmente presentado en una columna lateral de la página web. Anglicismo crudo, poco frecuente. Luego los estudiantes deben evaluar, entre otras cosas, los directorios en los que se inscribe, los enlaces del blogroll, las fuentes más utilizadas…"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

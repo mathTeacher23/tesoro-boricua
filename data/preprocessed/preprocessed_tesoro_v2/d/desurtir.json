@@ -3,12 +3,15 @@
   "term": "desurtir",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dejar alguien de traer surtido a un negocio.",
+      "consolidated_definition": "Dejar de surtir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14582010582010582,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4978",
+        "semantic_similarity_score": 0.4978,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -45,14 +48,14 @@
         ],
         "reference_definitions": [
           "Dejar de surtir.",
-          "Voz usada en otros países de Hispanoamérica.  Dejar de surtir un comercio, especialmente si hay la intención de liquidarlo o venderlo en conjunto.",
+          "Voz usada en otros países de Hispanoamérica. Dejar de surtir un comercio, especialmente si hay la intención de liquidarlo o venderlo en conjunto.",
           "Dejar alguien de traer surtido a un negocio."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dejar alguien de traer surtido a un negocio."
+    "Dejar de surtir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

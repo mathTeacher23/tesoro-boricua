@@ -3,12 +3,15 @@
   "term": "dar candela",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Malaret lo define como: “molestar, fastidiar”.",
+      "consolidated_definition": ". Molestar, fastidiar.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03333333333333333,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5186",
+        "semantic_similarity_score": 0.5186,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,24 +23,24 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -50,15 +53,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Hond.). Molestar, fastidiar.",
-          "(T. en Hond.). Molestar, fastidiar.",
-          "Hacer travesuras un niño."
+          ". Molestar, fastidiar.",
+          ". Molestar, fastidiar.",
+          "Hacer travesuras un niño.",
+          "Malaret lo define como: “molestar, fastidiar”. “Si el nenito ese me da mucha candela, se lo mando inmediatamente a su mamá.”",
+          "Fastidiar, molestar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Malaret lo define como: “molestar, fastidiar”."
+    ". Molestar, fastidiar."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

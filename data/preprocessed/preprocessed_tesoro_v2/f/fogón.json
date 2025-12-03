@@ -3,12 +3,15 @@
   "term": "fogón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La hornilla se habilita por lo común en el fogón con tres piedras que se colocan en arreglo triangular para sostener la vasija que se pone al fuego que arde entre las mismas.",
+      "consolidated_definition": "Artefacto localizado en la cocina con una o",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13315696649029982,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4729",
+        "semantic_similarity_score": 0.4729,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,18 +47,21 @@
         "related_words": [],
         "reference_definitions": [
           "Artefacto localizado en la cocina con una o más hornillas que se usa para cocinar.",
-          "La hornilla se habilita por lo común en el fogón con tres piedras que se colocan en arreglo triangular para sostener la vasija que se pone al fuego qu...",
+          "La hornilla se habilita por lo común en el fogón con tres piedras que se colocan en arreglo triangular para sostener la vasija que se pone al fuego que arde entre las mismas.",
           "Cocina rústica de leña, construida con cemento o barro sobre una mesa, y que puede incluir una parrilla."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Acto, objeto o suceso que puede levantar sospechas o poner en descubierto a alguien.",
+      "consolidated_definition": "Coraje",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4565",
+        "semantic_similarity_score": 0.4565,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -72,12 +78,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -92,14 +98,16 @@
         "reference_definitions": [
           "Coraje. Enfado.",
           "Entusiasmo pasajero.",
-          "Fiebre."
+          "Fiebre.",
+          "Acto, objeto o suceso que puede levantar sospechas o poner en descubierto a alguien.",
+          "Enfado, indignación."
         ]
       }
     }
   },
   "es_definitions": [
-    "La hornilla se habilita por lo común en el fogón con tres piedras que se colocan en arreglo triangular para sostener la vasija que se pone al fuego que arde entre las mismas.",
-    "Acto, objeto o suceso que puede levantar sospechas o poner en descubierto a alguien."
+    "Artefacto localizado en la cocina con una o",
+    "Coraje"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

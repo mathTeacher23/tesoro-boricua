@@ -3,12 +3,15 @@
   "term": "llantén",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta medicinal […] para golpes y contusiones.",
+      "consolidated_definition": "Yerba",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09999999999999999,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.338",
+        "semantic_similarity_score": 0.338,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -27,12 +30,12 @@
             "year": "1788"
           },
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
           }
         ],
         "years": [
@@ -45,17 +48,20 @@
         "reference_definitions": [
           "Yerba.",
           "Planta medicinal o para otros usos.",
-          "Planta medicinal […] para golpes y contusiones."
+          "Planta medicinal para golpes y contusiones."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Lloriqueo de muchas personas a la vez.",
+      "consolidated_definition": "Lloriqueo de muchas personas a la vez, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13666666666666666,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5981",
+        "semantic_similarity_score": 0.5981,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -72,12 +78,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -89,14 +95,16 @@
         "reference_definitions": [
           "Lloriqueo de muchas personas a la vez.",
           "Llanto prolongado. Llantina.",
-          "Queja."
+          "Queja.",
+          "Llanto prolongado de alguien.",
+          "Lloriqueo de muchas personas a la vez."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta medicinal […] para golpes y contusiones.",
-    "Lloriqueo de muchas personas a la vez."
+    "Yerba",
+    "Lloriqueo de muchas personas a la vez, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

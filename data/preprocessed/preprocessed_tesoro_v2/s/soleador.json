@@ -3,12 +3,15 @@
   "term": "soleador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las peleas de gallos, jaula grande, alta y ancha para emplumar o cuidar a los gallos para la pelea.",
+      "consolidated_definition": "Jaula",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.24382716049382713,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7732",
+        "semantic_similarity_score": 0.7732,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "En las peleas de gallos, jaula grande, alta y ancha para emplumar o cuidar a los gallos para la pelea."
+    "Jaula"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

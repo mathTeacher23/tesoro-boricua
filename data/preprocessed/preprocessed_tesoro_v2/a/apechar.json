@@ -3,12 +3,15 @@
   "term": "apechar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacer frente en una pelea.",
+      "consolidated_definition": "Repechar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06395687645687646,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4238",
+        "semantic_similarity_score": 0.4238,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -47,17 +50,21 @@
         "reference_definitions": [
           "Repechar; subir una cuesta.",
           "Hacer frente en una pelea.",
-          "Atacar."
+          "Atacar.",
+          "Repechar. Arrepechar. Apechugar. Subir una cuesta, meter el hombro."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dar el pecho a un niño; atetar.",
+      "consolidated_definition": "dar el pecho a un algo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21428571428571427,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5197",
+        "semantic_similarity_score": 0.5197,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -93,8 +100,8 @@
     }
   },
   "es_definitions": [
-    "Hacer frente en una pelea.",
-    "Dar el pecho a un niño; atetar."
+    "Repechar",
+    "dar el pecho a un algo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

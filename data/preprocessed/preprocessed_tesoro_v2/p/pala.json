@@ -3,12 +3,15 @@
   "term": "pala",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona que ayuda a otra a conseguir empleo, un préstamo o un negocio.",
+      "consolidated_definition": "Socio",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08014588838060695,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4924",
+        "semantic_similarity_score": 0.4924,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,28 +26,28 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -58,19 +61,26 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Socio, compinche. Úsase en mala parte (En germanía española, la pala es el que ayuda al robo. Ya Cervantes decía al referirse a las Indias de América ...",
-          "(general)  Sujeto influyente a quien se acude para que lo ayude a uno a conseguir algo.",
-          "Dícese de la persona que ayuda a otra a conseguir empleo, un préstamo o un negocio.  Sinónimos palanca, enchufe."
+          "Socio, compinche. Úsase en mala parte .",
+          "Sujeto influyente a quien se acude para que lo ayude a uno a conseguir algo.",
+          "Dícese de la persona que ayuda a otra a conseguir empleo, un préstamo o un negocio. Sinónimos palanca, enchufe.",
+          "Persona influyente.",
+          "Persona que ejerce influencia para conseguir algún beneficio para otro. Quien ayuda a otro en cualquier asunto de conseguir trabajo.",
+          "Influencia, valimiento, poder.",
+          "Palanca, persona influyente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Parte ancha de la hoja cortante [del machete].",
+      "consolidated_definition": "Lo más ancho del machete",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5299",
+        "semantic_similarity_score": 0.5299,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -99,17 +109,20 @@
         "related_words": [],
         "reference_definitions": [
           "Lo más ancho del machete. También hoja, punta.",
-          "Parte ancha de la hoja cortante [del machete]."
+          "Parte ancha de la hoja cortante ."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Parte del remo que entra en el agua.",
+      "consolidated_definition": "Parte del remo que entra en el agua",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -140,9 +153,9 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona que ayuda a otra a conseguir empleo, un préstamo o un negocio.",
-    "Parte ancha de la hoja cortante [del machete].",
-    "Parte del remo que entra en el agua."
+    "Socio",
+    "Lo más ancho del machete",
+    "Parte del remo que entra en el agua"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

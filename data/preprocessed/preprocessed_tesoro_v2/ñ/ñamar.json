@@ -3,12 +3,15 @@
   "term": "ñamar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llamar alguien.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18115942028985507,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5644",
+        "semantic_similarity_score": 0.5644,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,6 +25,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -32,10 +39,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -47,15 +50,16 @@
         "origin": "Africanismo",
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Llamar. “Y si se le pregunta cómo se llama la otra, el jíbaro contestará: la otra se ñama...” E. Fernández Vanga, El idioma, 1931, p. 125.",
+          "vulg. Llamar. “Y si se le pregunta cómo se llama la otra, el jíbaro contestará: la otra se ñama...” E. Fernández Vanga, El idioma, 1931, p. 125.",
           "Llamar.",
-          "Llamar."
+          "Llamar.",
+          "Llamar alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Llamar alguien."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

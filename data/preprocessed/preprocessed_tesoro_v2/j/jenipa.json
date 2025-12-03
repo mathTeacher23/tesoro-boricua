@@ -3,12 +3,15 @@
   "term": "jenipa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tinta negra que extraían los indios de la fruta del árbol de jagua para teñirse la piel.",
+      "consolidated_definition": "Tinta negra que extraían los indios de la",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19611831511145014,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6919",
+        "semantic_similarity_score": 0.6919,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Tinta negra que extraían los indios de la fruta del árbol de jagua para teñirse la piel."
+    "Tinta negra que extraían los indios de la"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

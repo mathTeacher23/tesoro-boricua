@@ -3,12 +3,15 @@
   "term": "scooter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Motocicleta ligera.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Motocicleta ligera",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12790697674418605,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4978",
+        "semantic_similarity_score": 0.4978,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,14 +36,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Motocicleta ligera. Motocicleta con ruedas pequeñas y una plancha delantera de protección. Anglicismo crudo, frecuente. DRAE 2001, voz inglesa.\nSegún ...",
-          "Patineta. Plancha con manubrio y ruedas pequeñas que los niños impulsan con los pies. Anglicismo crudo, poco frecuente.\nAllá para 1900, el primer arqu..."
+          "Motocicleta ligera. Motocicleta con ruedas pequeñas y una plancha delantera de protección. Anglicismo crudo, frecuente. DRAE 2001, voz inglesa. Según informó David Silva, Comisionado de Seguridad de la Policía Municipal de San Juan entre estos se encuentran patrullas de comunidad, motoras",
+          "Patineta. Plancha con manubrio y ruedas pequeñas que los niños impulsan con los pies. Anglicismo crudo, poco frecuente. Allá para 1900, el primer arquetipo de patineta fue el scooter. Este artefacto estaba compuesto de cuatro ruedas pegadas a una tabla 2x4 y llevaba clavado sobre la tabla un cajón, con unos mangos que sobresalían para mantener el control"
         ]
       }
     }
   },
   "es_definitions": [
-    "Motocicleta ligera."
+    "Motocicleta ligera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "borra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "A las heces o posos que el guarapo cocido deja en las pailas se les da el nombre de cachipa.",
+      "consolidated_definition": "A las heces o posos que el guarapo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -31,17 +34,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "A las heces o posos que el guarapo cocido deja en las pailas se les da el nombre de cachipa. En realidad hubo varios sujetos que aplicaron indistintam..."
+          "A las heces o posos que el guarapo cocido deja en las pailas se les da el nombre de cachipa. En realidad hubo varios sujetos que aplicaron indistintamente los nombres de cachaza, cachipa y borra a cualquiera de los residuos indicados."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Zaborra del café después de colado.",
+      "consolidated_definition": ". Sedimento del café hervido.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14882154882154883,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7296",
+        "semantic_similarity_score": 0.7296,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -54,16 +60,16 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -74,19 +80,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(P. Rico y Pan.). Sedimento del café hervido.",
+          ". Sedimento del café hervido.",
           "Zaborra del café después de colado. Ú. en pl.",
           "Sedimento del café."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Goma para borrar lo escrito a lápiz o con tinta.",
+      "consolidated_definition": "Voz usada por estudiantes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08564814814814814,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.612",
+        "semantic_similarity_score": 0.612,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -99,16 +108,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -119,7 +128,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Voz usada por estudiantes.  Goma de borrar.",
+          "Voz usada por estudiantes. Goma de borrar.",
           "Goma del lápiz.",
           "Goma para borrar lo escrito a lápiz o con tinta."
         ]
@@ -127,9 +136,9 @@
     }
   },
   "es_definitions": [
-    "A las heces o posos que el guarapo cocido deja en las pailas se les da el nombre de cachipa.",
-    "Zaborra del café después de colado.",
-    "Goma para borrar lo escrito a lápiz o con tinta."
+    "A las heces o posos que el guarapo",
+    ". Sedimento del café hervido.",
+    "Voz usada por estudiantes"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

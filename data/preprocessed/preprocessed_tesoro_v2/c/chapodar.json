@@ -3,12 +3,15 @@
   "term": "chapodar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cortar la yerba con machete a baja altura, rápida y descuidadamente.",
+      "consolidated_definition": "Podar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4592",
+        "semantic_similarity_score": 0.4592,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -26,12 +29,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -51,13 +54,14 @@
         "reference_definitions": [
           "Podar.",
           "Cortar la yerba con machete a baja altura, rápida y descuidadamente. Hacer chapós o chapapotes.",
-          "Podar, desyerbar."
+          "Podar, desyerbar.",
+          "Talar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cortar la yerba con machete a baja altura, rápida y descuidadamente."
+    "Podar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

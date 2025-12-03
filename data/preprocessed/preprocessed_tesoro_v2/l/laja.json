@@ -3,12 +3,15 @@
   "term": "laja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona avarienta, mezquina.",
+      "consolidated_definition": "Dícese de la persona avarienta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -35,12 +38,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Piedra plana y ancha.",
+      "consolidated_definition": ". Piedra lisa y plana.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23597883597883595,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.8003",
+        "semantic_similarity_score": 0.8003,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -53,16 +59,16 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "VAQUERO,",
+            "year": "1995"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "VAQUERO,",
-            "year": "1995"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -73,7 +79,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Can.). Piedra lisa y plana.",
+          ". Piedra lisa y plana.",
           "Piedra plana y ancha.",
           "Piedra plana."
         ]
@@ -81,8 +87,8 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona avarienta, mezquina.",
-    "Piedra plana y ancha."
+    "Dícese de la persona avarienta",
+    ". Piedra lisa y plana."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

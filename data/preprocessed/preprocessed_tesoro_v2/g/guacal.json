@@ -3,12 +3,15 @@
   "term": "guacal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jaula de madera.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". . Alacena portátil formada de varillas de madera, que se utiliza para el transporte de loza, frutas, etc. Ac. Coll y Toste, Vocabulario.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17575707338638372,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5676",
+        "semantic_similarity_score": 0.5676,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1972"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -41,15 +44,15 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "(Del mexicano huacalli: ‘cesta o canasta’).  (Ant., Col., Méx. y Ven.).  Alacena portátil formada de varillas de madera, que se utiliza para el transp...",
-          "(T. en Col., Cuba, Méx., R. Domin. y Ven.).  Alacena portátil formada de varillas de madera, que se utiliza para el transporte de loza, frutas, etc. V...",
+          ". . Alacena portátil formada de varillas de madera, que se utiliza para el transporte de loza, frutas, etc. Ac. Coll y Toste, Vocabulario.",
+          ". Alacena portátil formada de varillas de madera, que se utiliza para el transporte de loza, frutas, etc. Voz ya decadente.",
           "Jaula de madera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Jaula de madera."
+    ". . Alacena portátil formada de varillas de madera, que se utiliza para el transporte de loza, frutas, etc. Ac. Coll y Toste, Vocabulario."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

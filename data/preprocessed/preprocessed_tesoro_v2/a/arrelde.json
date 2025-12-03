@@ -3,12 +3,15 @@
   "term": "arrelde",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desde el XVI se emplea en la Isla para referirse al peso de cuatro libras que se usa principalmente aplicado a carne fresca de cerdo y de res, y en especial a la primera de éstas.",
+      "consolidated_definition": "Unidad de peso equivalente a cuatro libras",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09883394025779121,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.6045",
+        "semantic_similarity_score": 0.6045,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,18 +26,6 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
-            "source": "LAUREANO ORTEGA,",
-            "year": "1969"
-          },
-          {
-            "source": "PAGÁN GONZÁLEZ,",
-            "year": "1969"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
@@ -45,6 +36,18 @@
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
+            "source": "LAUREANO ORTEGA,",
+            "year": "1969"
+          },
+          {
+            "source": "PAGÁN GONZÁLEZ,",
+            "year": "1969"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -66,13 +69,17 @@
         "reference_definitions": [
           "Unidad de peso equivalente a cuatro libras. Existe la variante arrelda.",
           "“Hay que decir arrelde de las de antes para que sean 4 libra.”",
-          "Medida para pesar carne."
+          "Medida para pesar carne.",
+          "Cuatro libras de carne de cerdo.",
+          "Equivale a un peso de cuatro libras.",
+          "Peso de cuatro libras.",
+          "Desde el XVI se emplea en la Isla para referirse al peso de cuatro libras que se usa principalmente aplicado a carne fresca de cerdo y de res, y en especial a la primera de éstas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Desde el XVI se emplea en la Isla para referirse al peso de cuatro libras que se usa principalmente aplicado a carne fresca de cerdo y de res, y en especial a la primera de éstas."
+    "Unidad de peso equivalente a cuatro libras"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

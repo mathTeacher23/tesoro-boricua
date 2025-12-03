@@ -3,12 +3,15 @@
   "term": "force out",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. Out forzado. En el béisbol, pérdida por parte de un corredor de la base que ocupa porque el bateador pasa a corredor. Anglicismo crudo, poco frec..."
+          "dep. Out forzado. En el béisbol, pérdida por parte de un corredor de la base que ocupa porque el bateador pasa a corredor. Anglicismo crudo, poco frecuente. El boricua Mike Lowell, al parecer, se propuso recluir a aún más peloteros de Nueva York en el hospital al hacer su mejor imitación de Zinedine Zidane, dándole un cabezazo a Robinson Cano mientras corría a segunda base en un force out"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

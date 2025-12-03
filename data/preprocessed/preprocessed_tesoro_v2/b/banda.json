@@ -3,12 +3,15 @@
   "term": "banda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En lugar de lado norte o sur de la isla, es corriente decir banda norte y banda sur, expresiones ya usadas por Oviedo y por la Memoria de 1582.",
+      "consolidated_definition": "En lugar de lado norte o sur de, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.2859",
+        "semantic_similarity_score": 0.2859,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1972"
-          },
-          {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
           }
         ],
         "years": [
@@ -43,19 +46,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En lugar de lado norte o sur de la isla, es corriente decir banda norte y banda sur, expresiones ya usadas por Oviedo y por la Memoria de 1582. Nos di...",
+          "En lugar de lado norte o sur de la isla, es corriente decir banda norte y banda sur, expresiones ya usadas por Oviedo y por la Memoria de 1582. Nos dice Abbad y Lasierra que los negros llamaban a los blancos “gente de la otra banda”.",
           "Lado.",
           "Grupo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cinta para el pelo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Cinta para el pelo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4444444444444444,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8696",
+        "semantic_similarity_score": 0.8696,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -68,12 +74,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -89,12 +95,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Grupo, cardumen o mancha de peces.",
+      "consolidated_definition": "Grupo, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8734",
+        "semantic_similarity_score": 0.8734,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -109,12 +118,12 @@
         ],
         "sources": [
           {
-            "source": "MAULEÓN,",
-            "year": "1974"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MAULEÓN,",
+            "year": "1974"
           }
         ],
         "years": [
@@ -131,9 +140,9 @@
     }
   },
   "es_definitions": [
-    "En lugar de lado norte o sur de la isla, es corriente decir banda norte y banda sur, expresiones ya usadas por Oviedo y por la Memoria de 1582.",
-    "Cinta para el pelo.",
-    "Grupo, cardumen o mancha de peces."
+    "En lugar de lado norte o sur de, relacionado con un grupo",
+    "Cinta para el pelo",
+    "Grupo, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

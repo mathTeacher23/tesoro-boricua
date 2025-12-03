@@ -3,12 +3,15 @@
   "term": "mantisa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Promedio bajo debido a las malas notas.",
+      "consolidated_definition": "Promedio bajo debido a las malas notas, relacionado con una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.058823529411764705,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5644",
+        "semantic_similarity_score": 0.5644,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Promedio bajo debido a las malas notas.  (Voz de estudiantes).",
-          "Voz usada por estudiantes.  Promedio académico bajo."
+          "Promedio bajo debido a las malas notas. .",
+          "Voz usada por estudiantes. Promedio académico bajo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Promedio bajo debido a las malas notas."
+    "Promedio bajo debido a las malas notas, relacionado con una calificación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

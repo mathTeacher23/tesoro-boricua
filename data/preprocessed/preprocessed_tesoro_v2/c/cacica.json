@@ -3,12 +3,15 @@
   "term": "cacica",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer de un cacique; señora que ejercía vasallaje sobre alguna tribu o pueblo de indios.",
+      "consolidated_definition": "Mujer de un cacique",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06623777457110791,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5786",
+        "semantic_similarity_score": 0.5786,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1977"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Mujer de un cacique; señora que ejercía vasallaje sobre alguna tribu o pueblo de indios. Existieron tres cacicas famosas en Boriquén: doña Inés Agüeyb...",
+          "Mujer de un cacique; señora que ejercía vasallaje sobre alguna tribu o pueblo de indios. Existieron tres cacicas famosas en Boriquén: doña Inés Agüeyban, madre del cacique principal, confederado de los españoles; Luysa de Cayniabon, esposa del español Pedro Mexía y afecta a los españoles, y María de Bagaaname o Bagnanamay, hija del cacique Caguas, también afecta a los españoles, quien casó finalmente con Diego Muriel.",
           "Derivado de cacique.",
           "Esposa de un cacique, jefe de una tribu o yucayeque."
         ]
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Mujer de un cacique; señora que ejercía vasallaje sobre alguna tribu o pueblo de indios."
+    "Mujer de un cacique"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

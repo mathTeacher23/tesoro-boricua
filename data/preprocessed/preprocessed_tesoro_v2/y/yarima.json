@@ -3,12 +3,15 @@
   "term": "yarima",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Extremidad de una cueva, por donde se vacía.",
+      "consolidated_definition": "Extremidad de una cueva",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07407407407407407,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3901",
+        "semantic_similarity_score": 0.3901,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -40,13 +43,14 @@
         "reference_definitions": [
           "Extremidad de una cueva, por donde se vacía.",
           "El ano.",
-          "Extremidad de una cueva, cloaca."
+          "Extremidad de una cueva, cloaca.",
+          "Colon."
         ]
       }
     }
   },
   "es_definitions": [
-    "Extremidad de una cueva, por donde se vacía."
+    "Extremidad de una cueva"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

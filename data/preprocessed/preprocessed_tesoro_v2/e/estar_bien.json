@@ -3,12 +3,15 @@
   "term": "estar bien",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sentirse ‘elevado’ con el uso de la droga.",
+      "consolidated_definition": "Sentirse ‘elevado’ con el uso de la droga",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05555555555555555,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5016",
+        "semantic_similarity_score": 0.5016,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -30,12 +33,12 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Sentirse ‘elevado’ con el uso de la droga.",
           "Estar endrogado. Estar borracho.",
-          "Contento, alegre, ‘embollao’."
+          "Contento, alegre, ‘embollao’.",
+          "Endrogado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sentirse ‘elevado’ con el uso de la droga."
+    "Sentirse ‘elevado’ con el uso de la droga"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

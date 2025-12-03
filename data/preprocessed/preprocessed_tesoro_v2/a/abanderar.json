@@ -3,12 +3,15 @@
   "term": "abanderar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La acción de la mata de plátano o de guineo al echar la última hoja luego de la cual empezará a brotar el racimo.",
+      "consolidated_definition": "La acción de la mata de plátano o",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3624338624338624,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.8338",
+        "semantic_similarity_score": 0.8338,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,12 +52,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Entregar alguien la bandera nacional a una persona, colectivo o delegación para que represente al país internacionalmente.",
+      "consolidated_definition": "Entregar alguien la bandera nacional a una persona",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -84,8 +90,8 @@
     }
   },
   "es_definitions": [
-    "La acción de la mata de plátano o de guineo al echar la última hoja luego de la cual empezará a brotar el racimo.",
-    "Entregar alguien la bandera nacional a una persona, colectivo o delegación para que represente al país internacionalmente."
+    "La acción de la mata de plátano o",
+    "Entregar alguien la bandera nacional a una persona"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

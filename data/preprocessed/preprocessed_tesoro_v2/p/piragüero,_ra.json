@@ -3,12 +3,15 @@
   "term": "piragüero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que hace y vende piraguas.",
+      "consolidated_definition": "Persona que hace y vende piraguas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17079365079365078,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.7387",
+        "semantic_similarity_score": 0.7387,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -29,20 +32,20 @@
             "year": "1965"
           },
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -58,14 +61,16 @@
         ],
         "reference_definitions": [
           "Persona que hace y vende piraguas.",
-          "(Der. de piragua). Vendedor de piraguas.",
-          "Vendedor de piraguas."
+          ". Vendedor de piraguas.",
+          "Vendedor de piraguas.",
+          "Persona que vende piraguas .",
+          "Fabricante o vendedor de piraguas, refrescos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que hace y vende piraguas."
+    "Persona que hace y vende piraguas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

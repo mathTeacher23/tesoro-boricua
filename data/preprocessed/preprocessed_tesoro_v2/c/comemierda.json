@@ -3,12 +3,15 @@
   "term": "comemierda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, orgullosa, jactanciosa a causa de su dinero o de su estilo de vida de gran lujo.",
+      "consolidated_definition": "Esnobista",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3207",
+        "semantic_similarity_score": 0.3207,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,13 +51,15 @@
         "reference_definitions": [
           "Esnobista.",
           "Presuntuoso.",
-          "Orgulloso. Persona antipática. Presumida."
+          "Orgulloso. Persona antipática. Presumida.",
+          "Echón, fanfarrón.",
+          "Referido a persona, orgullosa, jactanciosa a causa de su dinero o de su estilo de vida de gran lujo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, orgullosa, jactanciosa a causa de su dinero o de su estilo de vida de gran lujo."
+    "Esnobista"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

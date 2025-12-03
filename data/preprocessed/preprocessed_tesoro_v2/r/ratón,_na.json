@@ -3,12 +3,15 @@
   "term": "ratón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se llama así a la policía y a los agentes de Rentas Internas.",
+      "consolidated_definition": "Persona que delata a un delincuente, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08388115826965509,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4964",
+        "semantic_similarity_score": 0.4964,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -31,16 +34,16 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -54,17 +57,24 @@
         "reference_definitions": [
           "Persona que delata a un delincuente.",
           "Se llama así a la policía y a los agentes de Rentas Internas.",
-          "Persona vil."
+          "Persona vil.",
+          "Dícese de la persona muy pobre sin oficio ni profesión.",
+          "Persona que acusa a las demás personas. Agente encubierto. Chota de la policía. Soplón.",
+          "Bochinchero. Alcahuete. Chismoso.",
+          "Referido a persona, que delata a un delincuente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cualquier cosa de mala calidad.",
+      "consolidated_definition": "Malo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.42857142857142855,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7753",
+        "semantic_similarity_score": 0.7753,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -91,15 +101,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Malo. De mala calidad.",
+          "Malo. De mala calidad.",
           "Cualquier cosa de mala calidad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se llama así a la policía y a los agentes de Rentas Internas.",
-    "Cualquier cosa de mala calidad."
+    "Persona que delata a un delincuente, relacionado con un grupo",
+    "Malo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "update",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Actualización.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Actualización",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Actualización. Proceso por el cual un equipo u objeto se actualiza o se pone al día. Anglicismo crudo, usual. Frase: hacer un update.\nNosotros vamos a..."
+          "Actualización. Proceso por el cual un equipo u objeto se actualiza o se pone al día. Anglicismo crudo, usual. Frase: hacer un update. Nosotros vamos a realizar unos up dates para que el público sepa cómo va su recuperación"
         ]
       }
     }
   },
   "es_definitions": [
-    "Actualización."
+    "Actualización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

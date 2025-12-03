@@ -3,12 +3,15 @@
   "term": "enguaretar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Juntarse dos personas en una gran amistad e ir juntas a todas partes.",
+      "consolidated_definition": "vulg, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07237317206357455,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5109",
+        "semantic_similarity_score": 0.5109,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -24,20 +27,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1977"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1977"
           }
         ],
         "years": [
@@ -51,15 +54,17 @@
           "enguaretarse"
         ],
         "reference_definitions": [
-          "vulg.  Unirse, pegarse dos cosas, quedar guaretas.",
-          "tr.  Aparejar. De guares, indigenismo, que significa mellizos.",
-          "Emparejarse, unirse, pegarse dos cosas."
+          "vulg. Unirse, pegarse dos cosas, quedar guaretas.",
+          "tr. Aparejar. De guares, indigenismo, que significa mellizos.",
+          "Emparejarse, unirse, pegarse dos cosas.",
+          "Juntarse dos personas en una gran amistad e ir juntas a todas partes.",
+          "Criarse dos frutos bajo una sola corteza."
         ]
       }
     }
   },
   "es_definitions": [
-    "Juntarse dos personas en una gran amistad e ir juntas a todas partes."
+    "vulg, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

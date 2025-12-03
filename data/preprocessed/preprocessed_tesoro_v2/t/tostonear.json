@@ -3,12 +3,15 @@
   "term": "tostonear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cortar alguien el cabello a una persona con descuido.",
+      "consolidated_definition": "Trasquilar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1152439348091522,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5714",
+        "semantic_similarity_score": 0.5714,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,19 +53,23 @@
           "tostonero, ra 1"
         ],
         "reference_definitions": [
-          "Trasquilar, tusar. “Me presentó una cerda tostoniada.”  Fernández Juncos, Tipos y ..., 1882, p. 64.",
-          "Trasquilar, cortar el pelo a trechos (por descuido o falta de habilidad).",
-          "Cortar el cabello descuidadamente."
+          "Trasquilar, tusar. “Me presentó una cerda tostoniada.” Fernández Juncos, Tipos y ..., 1882, p. 64.",
+          "Trasquilar, cortar el pelo a trechos .",
+          "Cortar el cabello descuidadamente.",
+          "Cortar alguien el cabello a una persona con descuido."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Golpear o reprender a alguien.",
+      "consolidated_definition": "Golpear o reprender a alguien",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -92,8 +99,8 @@
     }
   },
   "es_definitions": [
-    "Cortar alguien el cabello a una persona con descuido.",
-    "Golpear o reprender a alguien."
+    "Trasquilar",
+    "Golpear o reprender a alguien"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

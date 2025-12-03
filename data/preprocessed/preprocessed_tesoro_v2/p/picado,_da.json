@@ -3,12 +3,15 @@
   "term": "picado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sentirse aludido.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Dañado",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4604",
+        "semantic_similarity_score": 0.4604,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona, ligeramente borracha.",
+      "consolidated_definition": "Borracho",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2566666666666667,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6199",
+        "semantic_similarity_score": 0.6199,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -61,6 +67,14 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FERNÁNDEZ,",
             "year": "1979"
           },
@@ -69,16 +83,8 @@
             "year": "1984"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -93,14 +99,16 @@
         "reference_definitions": [
           "Borracho.",
           "Borracho. Rajao.",
-          "Borracho."
+          "Borracho.",
+          "Ebrio. Se dice del borracho.",
+          "Referido a persona, ligeramente borracha."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sentirse aludido.",
-    "Referido a persona, ligeramente borracha."
+    "Dañado",
+    "Borracho"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

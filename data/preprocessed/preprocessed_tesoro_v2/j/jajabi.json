@@ -3,12 +3,15 @@
   "term": "jajabi",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de cotorra pequeña o perico, abundante en la Isla antiguamente y hoy extinto.",
+      "consolidated_definition": "Especie de cotorra pequeña o perico",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.020015698587127158,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6202",
+        "semantic_similarity_score": 0.6202,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -41,7 +44,7 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Especie de cotorra pequeña o perico, abundante en la Isla antiguamente y hoy extinto. El historiador Las Casas los describe como “muy chiquitos, que t...",
+          "Especie de cotorra pequeña o perico, abundante en la Isla antiguamente y hoy extinto. El historiador Las Casas los describe como “muy chiquitos, que tienen más ira que los indios”, y Fernández de Oviedo como “menores, de colas luegas, codillos o encuentros de las alas e los sobacos colorados, e todo el restante dellos verde”. Xaxabi.",
           "Variedad de cotorra, pequeña, autóctona de Puerto Rico, casi extinta.",
           "Amazona vittata. Jajabí, perico o cotorra pequeña."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Especie de cotorra pequeña o perico, abundante en la Isla antiguamente y hoy extinto."
+    "Especie de cotorra pequeña o perico"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

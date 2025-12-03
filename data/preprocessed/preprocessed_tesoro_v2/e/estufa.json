@@ -3,12 +3,15 @@
   "term": "estufa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Automóvil viejo que se calienta mucho el motor; o, sin aire acondicionado.",
+      "consolidated_definition": "Artefacto de gas o eléctrico para cocinar, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1305676953952816,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5425",
+        "semantic_similarity_score": 0.5425,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "VAQUERO,",
             "year": "1995"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,13 +52,15 @@
         "reference_definitions": [
           "Artefacto de gas o eléctrico para cocinar. Cocina.",
           "Automóvil viejo que se calienta mucho el motor; o, sin aire acondicionado.",
-          "Aparato que hace las veces de fogón. Aparato, mueble, eléctrico o de gas, donde se encienden las hornillas para cocinar. Cocina."
+          "Aparato que hace las veces de fogón. Aparato, mueble, eléctrico o de gas, donde se encienden las hornillas para cocinar. Cocina.",
+          "Automóvil viejo al que se le calienta mucho el motor.",
+          "Automóvil sin aire acondicionado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Automóvil viejo que se calienta mucho el motor; o, sin aire acondicionado."
+    "Artefacto de gas o eléctrico para cocinar, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

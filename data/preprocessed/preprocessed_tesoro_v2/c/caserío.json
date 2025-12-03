@@ -3,12 +3,15 @@
   "term": "caserío",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de edificios iguales, en zona urbana, protegidos por el gobierno para familias de pocos recursos.",
+      "consolidated_definition": "Conjunto de viviendas económicas en un suburbio, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19495508093906264,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5986",
+        "semantic_similarity_score": 0.5986,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "VAQUERO,",
             "year": "1995"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,13 +48,14 @@
         "reference_definitions": [
           "Conjunto de viviendas económicas en un suburbio.",
           "Viviendas comunales hechas por el gobierno para personas de pocos recursos económicos. También llamado residencial.",
-          "Conjunto de edificios iguales, en zona urbana, protegidos por el gobierno para familias de pocos recursos."
+          "Conjunto de edificios iguales, en zona urbana, protegidos por el gobierno para familias de pocos recursos.",
+          "Conjunto de edificios de apartamentos subsidiados por el Gobierno, destinado a personas de pocos recursos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Conjunto de edificios iguales, en zona urbana, protegidos por el gobierno para familias de pocos recursos."
+    "Conjunto de viviendas económicas en un suburbio, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

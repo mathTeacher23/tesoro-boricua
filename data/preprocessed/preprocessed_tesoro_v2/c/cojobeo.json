@@ -3,12 +3,15 @@
   "term": "cojobeo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre con el cual se conoce al pez jurel ojón en La Parguera.",
+      "consolidated_definition": "Caranx latus",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18218415734295954,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6733",
+        "semantic_similarity_score": 0.6733,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "ERDMAN,",
             "year": "1974"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Caranx latus. Especie de pez jurel, conocido también por el nombre de jurel ojón, familia de los acantopterigios, abundante en los mares de Puerto Ric...",
+          "Caranx latus. Especie de pez jurel, conocido también por el nombre de jurel ojón, familia de los acantopterigios, abundante en los mares de Puerto Rico.",
           "Nombre con el cual se conoce al pez jurel ojón en La Parguera.",
-          "Variedad del pez jurel. También dicen jurel ojón, por el tamaño de sus ojos."
+          "Variedad del pez jurel. También dicen jurel ojón, por el tamaño de sus ojos.",
+          "Caranx latus. Pez parecido al jurel, jurel ojón del mar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Nombre con el cual se conoce al pez jurel ojón en La Parguera."
+    "Caranx latus"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

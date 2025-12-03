@@ -3,12 +3,15 @@
   "term": "despichar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abrir alguien un hueco en un tanque o vasija.",
+      "consolidated_definition": "Abrir un agujero en una vasija o tanque",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.26666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7207",
+        "semantic_similarity_score": 0.7207,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Abrir alguien un hueco en un tanque o vasija."
+    "Abrir un agujero en una vasija o tanque"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

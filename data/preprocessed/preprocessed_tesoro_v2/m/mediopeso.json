@@ -3,12 +3,15 @@
   "term": "mediopeso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hay una especie de verdalón, de pequeño tamaño, que recibe los nombres de san pedrito, mediopeso y papagayo, con otras denominaciones más corrientes.",
+      "consolidated_definition": "Hay una especie de verdalón",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05994152046783626,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.423",
+        "semantic_similarity_score": 0.423,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,6 +24,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
           },
@@ -31,10 +38,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hay una especie de verdalón, de pequeño tamaño, que recibe los nombres de san pedrito, mediopeso y papagayo, con otras denominaciones más corrientes. ...",
+          "Hay una especie de verdalón, de pequeño tamaño, que recibe los nombres de san pedrito, mediopeso y papagayo, con otras denominaciones más corrientes. Mediopeso aparece en los lugares interiores y montañeses de la parte occidental.",
           "Ave menuda mejor conocida por el nombre de sampedrito.",
-          "Cierta ave."
+          "Cierta ave.",
+          "Cheto, ave."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hay una especie de verdalón, de pequeño tamaño, que recibe los nombres de san pedrito, mediopeso y papagayo, con otras denominaciones más corrientes."
+    "Hay una especie de verdalón"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "abastecido, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de la finca que tiene buena producción de viandas y frutas; la que tiene mucho que comer.",
+      "consolidated_definition": "Se dice de la finca que tiene buena",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15789473684210525,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7135",
+        "semantic_similarity_score": 0.7135,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -43,12 +46,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Se dice de persona que está satisfecha, harta .",
+      "consolidated_definition": "Se dice de persona que está satisfecha",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05263157894736842,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6302",
+        "semantic_similarity_score": 0.6302,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -62,12 +68,12 @@
         ],
         "sources": [
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -79,15 +85,15 @@
           "abastecerse"
         ],
         "reference_definitions": [
-          "Se dice de persona que está satisfecha, harta (en uso todavía en la zona rural).",
+          "Se dice de persona que está satisfecha, harta .",
           "Referido a persona, satisfecha, saciada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se dice de la finca que tiene buena producción de viandas y frutas; la que tiene mucho que comer.",
-    "Se dice de persona que está satisfecha, harta ."
+    "Se dice de la finca que tiene buena",
+    "Se dice de persona que está satisfecha"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

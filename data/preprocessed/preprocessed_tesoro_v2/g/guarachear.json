@@ -3,12 +3,15 @@
   "term": "guarachear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Divertirse alguien en juergas y fiestas.",
+      "consolidated_definition": "Embromar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.007692307692307693,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3635",
+        "semantic_similarity_score": 0.3635,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -24,20 +27,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -54,13 +57,15 @@
         "reference_definitions": [
           "Embromar.",
           "Meterse en guarachas, fiestas, juergas. También dicen guarachar.",
-          "Bailar."
+          "Bailar.",
+          "Divertirse alguien en juergas y fiestas.",
+          "Bailar alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Divertirse alguien en juergas y fiestas."
+    "Embromar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

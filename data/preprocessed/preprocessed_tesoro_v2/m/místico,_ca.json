@@ -3,12 +3,15 @@
   "term": "místico, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, melindrosa.",
+      "consolidated_definition": ". Afectado, remilgado.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.016720779220779223,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5764",
+        "semantic_similarity_score": 0.5764,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,24 +23,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -53,15 +56,18 @@
           "mistiquez"
         ],
         "reference_definitions": [
-          "(T. en Col. y Ecuad.).  Afectado, remilgado.",
+          ". Afectado, remilgado.",
           "Remilgado.",
-          "Melindroso."
+          "Melindroso.",
+          "Remilgado, remirado, delicado.",
+          ". And. Col., Hond., Pan., P. Rico y Ven. Melindroso.",
+          "Referido a persona, melindrosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, melindrosa."
+    ". Afectado, remilgado."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

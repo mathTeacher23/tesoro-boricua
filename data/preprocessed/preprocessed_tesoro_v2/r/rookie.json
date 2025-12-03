@@ -3,12 +3,15 @@
   "term": "rookie",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muy artificial, ya sea una persona o una situación.",
+      "consolidated_definition": "Muy artificial",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0845611752588497,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6031",
+        "semantic_similarity_score": 0.6031,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,12 +27,12 @@
             "year": "1989"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -42,13 +45,14 @@
         "reference_definitions": [
           "Muy artificial, ya sea una persona o una situación.",
           "Persona sin mucha experiencia.",
-          "Sin experiencia. Se dice de la persona nueva en una actividad o en su primer año de educación o trabajo. Anglicismo crudo, frecuente.\nYo soy rookie. Y..."
+          "Sin experiencia. Se dice de la persona nueva en una actividad o en su primer año de educación o trabajo. Anglicismo crudo, frecuente. Yo soy rookie. Yo soy novato aquí, pero que yo sepa yo nunca he defraudado a mi País",
+          "Referido a persona, que no tiene mucha experiencia."
         ]
       }
     }
   },
   "es_definitions": [
-    "Muy artificial, ya sea una persona o una situación."
+    "Muy artificial"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

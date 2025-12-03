@@ -3,12 +3,15 @@
   "term": "soguero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que opera dicho artefacto de fabricar sogas.",
+      "consolidated_definition": "Especie de torniquete para trenzar las sogas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05128205128205129,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3224",
+        "semantic_similarity_score": 0.3224,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "Persona que opera dicho artefacto de fabricar sogas."
+    "Especie de torniquete para trenzar las sogas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

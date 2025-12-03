@@ -3,12 +3,15 @@
   "term": "juyidor, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un gallo de pelea, que huye acobardado.",
+      "consolidated_definition": "Huidor",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06125874125874127,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4306",
+        "semantic_similarity_score": 0.4306,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,13 +44,15 @@
         "reference_definitions": [
           "Huidor.",
           "Dícese del gallo de pelea que huye.",
-          "Persona cobarde."
+          "Persona cobarde.",
+          "Referido a un gallo de pelea, que huye acobardado.",
+          "Referido a persona, cobarde."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a un gallo de pelea, que huye acobardado."
+    "Huidor"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

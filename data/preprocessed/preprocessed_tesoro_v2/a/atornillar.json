@@ -3,12 +3,15 @@
   "term": "atornillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Contratar leoninamente a alguien.",
+      "consolidated_definition": "Contratar leoninamente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8939",
+        "semantic_similarity_score": 0.8939,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Contratar leoninamente a alguien."
+    "Contratar leoninamente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

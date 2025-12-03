@@ -3,12 +3,15 @@
   "term": "arrancado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, que no tiene dinero.",
+      "consolidated_definition": ". El que está falto de dinero, sea siempre, sea ocasionalmente.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04545454545454545,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6348",
+        "semantic_similarity_score": 0.6348,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1961"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1961"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
           "arranquera"
         ],
         "reference_definitions": [
-          "(T. en R. Dom., Cuba, Méx., Col.).  El que está falto de dinero, sea siempre, sea ocasionalmente.",
+          ". El que está falto de dinero, sea siempre, sea ocasionalmente.",
           "Estar mal, económicamente; estar sin dinero.",
           "Referido a persona, que no tiene dinero."
         ]
@@ -52,7 +55,7 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, que no tiene dinero."
+    ". El que está falto de dinero, sea siempre, sea ocasionalmente."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

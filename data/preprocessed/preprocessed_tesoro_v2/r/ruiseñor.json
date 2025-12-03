@@ -3,12 +3,15 @@
   "term": "ruiseñor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pájaro.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Pájaro distinto del europeo hasta en su canto . . “También hay ruiseñores en esta isla; son mayores que los de España y algo diferentes en el plumaje.” , cap. 36.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3872",
+        "semantic_similarity_score": 0.3872,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "SOLER,",
-            "year": "1973"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
+            "source": "SOLER,",
+            "year": "1973"
           },
           {
             "source": "VAQUERO,",
@@ -51,7 +54,9 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Ant.). Pájaro distinto del europeo hasta en su canto (Muscicapa elisabeth, Myiadestes e). (El de Europa pertenece a los géneros Lusciola, Eryth...",
+          ". Pájaro distinto del europeo hasta en su canto . . “También hay ruiseñores en esta isla; son mayores que los de España y algo diferentes en el plumaje.” , cap. 36.",
+          "Pájaro.",
+          "Ave.",
           "Pájaro.",
           "Ave."
         ]
@@ -59,7 +64,7 @@
     }
   },
   "es_definitions": [
-    "Pájaro."
+    ". Pájaro distinto del europeo hasta en su canto . . “También hay ruiseñores en esta isla; son mayores que los de España y algo diferentes en el plumaje.” , cap. 36."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

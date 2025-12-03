@@ -3,12 +3,15 @@
   "term": "pelea armada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pelea de gallos concertada oficialmente para un determinado día.",
+      "consolidated_definition": "Peleas concertadas oficialmente para un día de lidia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.26666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7192",
+        "semantic_similarity_score": 0.7192,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "2003"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "2003"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Peleas concertadas oficialmente (casadas) para un día de lidia. Reglamento.",
+          "Peleas concertadas oficialmente para un día de lidia. Reglamento.",
           "Pelea de gallos concertada oficialmente para un determinado día."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pelea de gallos concertada oficialmente para un determinado día."
+    "Peleas concertadas oficialmente para un día de lidia"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "cuatrero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El que toca el cuatro, instrumento musical de cinco cuerdas muy típico del campesino puertorriquerio.",
+      "consolidated_definition": "El que toca el cuatro",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1875,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6479",
+        "semantic_similarity_score": 0.6479,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "El que toca el cuatro, instrumento musical de cinco cuerdas muy típico del campesino puertorriquerio."
+    "El que toca el cuatro"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

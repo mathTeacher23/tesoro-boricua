@@ -3,12 +3,15 @@
   "term": "quilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hueso plano situado en la parte anterior del pecho, con el cual se articulan por delante las costillas verdaderas […] en textos jibarescos del XIX.",
+      "consolidated_definition": "Vértebra",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06143740242257698,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.3822",
+        "semantic_similarity_score": 0.3822,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,20 +28,20 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -53,18 +56,25 @@
         ],
         "reference_definitions": [
           "Vértebra. Espina dorsal.",
-          "Hueso plano situado en la parte anterior del pecho, con el cual se articulan por delante las costillas verdaderas […] en textos jibarescos del XIX. “A...",
-          "Parte saliente y afilada del esternón del gallo, por semejanza con la quilla de las embarcaciones. Del gallo flaco se dice que “está en la quilla”. Po..."
+          "Hueso plano situado en la parte anterior del pecho, con el cual se articulan por delante las costillas verdaderas en textos jibarescos del XIX. “Antonse er sebo e flande… porrán untaye en la quiya.” Méndez Quiñones.",
+          "Parte saliente y afilada del esternón del gallo, por semejanza con la quilla de las embarcaciones. Del gallo flaco se dice que “está en la quilla”. Por extensión, se aplica a la persona muy delgada.",
+          "Vértebra.",
+          "Espina dorsal.",
+          "Esternón.",
+          "Esternón del gallo, sobre todo cuando es muy saliente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona muy delgada.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Persona muy delgada",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -95,8 +105,8 @@
     }
   },
   "es_definitions": [
-    "Hueso plano situado en la parte anterior del pecho, con el cual se articulan por delante las costillas verdaderas […] en textos jibarescos del XIX.",
-    "Persona muy delgada."
+    "Vértebra",
+    "Persona muy delgada"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

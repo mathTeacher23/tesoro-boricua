@@ -3,12 +3,15 @@
   "term": "jacha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacha.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Hacha",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,12 +51,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Diente incisivo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Diente grande",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6666666666666666,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.8594",
+        "semantic_similarity_score": 0.8594,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -70,16 +76,16 @@
             "year": "1966"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -93,14 +99,15 @@
         "reference_definitions": [
           "Diente grande.",
           "Diente grande.",
-          "Diente grande."
+          "Diente grande.",
+          "Diente incisivo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hacha.",
-    "Diente incisivo."
+    "Hacha",
+    "Diente grande"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

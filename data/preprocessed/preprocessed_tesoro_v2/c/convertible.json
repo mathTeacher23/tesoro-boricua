@@ -3,12 +3,15 @@
   "term": "convertible",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un vehículo, descapotable.",
+      "consolidated_definition": "Automóvil descapotable",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07055387035164588,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4012",
+        "semantic_similarity_score": 0.4012,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,14 +45,14 @@
         "related_words": [],
         "reference_definitions": [
           "Automóvil descapotable.",
-          "autom. Descapotable, carro deportivo. Automóvil con cubierta plegable. Usual. DRAE 2001 (Am.)\nLa caravana, presidida por un Cadillac convertible donde...",
+          "autom. Descapotable, carro deportivo. Automóvil con cubierta plegable. Usual. DRAE 2001 La caravana, presidida por un Cadillac convertible donde iban Roberto y Peruchín, partió hacia el Parque Sixto Escobar para una celebración de pueblo amenizada por Cortijo y su combo",
           "Referido a un vehículo, descapotable."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a un vehículo, descapotable."
+    "Automóvil descapotable"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

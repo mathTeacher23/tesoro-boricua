@@ -3,12 +3,15 @@
   "term": "casual",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Informal, sencillo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ropa informal",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.017543859649122806,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5261",
+        "semantic_similarity_score": 0.5261,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -38,13 +41,13 @@
         "related_words": [],
         "reference_definitions": [
           "Ropa informal.",
-          "Informal, sencillo. Sin formalidad, generalmente referido a la ropa que no es de vestir. Desvío semántico, usual. DRAE 2001: que sucede por casualidad..."
+          "Informal, sencillo. Sin formalidad, generalmente referido a la ropa que no es de vestir. Desvío semántico, usual. DRAE 2001: que sucede por casualidad, imprevisto. Por otro lado, Carlos Cabrera, gerente general de Hyatt Regency Cerromar, dijo que el hotel espera poder inaugurar su nueva área recreacional, que incluye piscina olímpica, jacuzzi y un restaurante casual entre la playa y la piscina"
         ]
       }
     }
   },
   "es_definitions": [
-    "Informal, sencillo."
+    "Ropa informal"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

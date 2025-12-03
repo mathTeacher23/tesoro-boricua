@@ -3,12 +3,15 @@
   "term": "web",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Red, telaraña. Servidor de información www (world wide web); también, el universo www en su conjunto, en este caso suele escribirse con mayúsc..."
+          "inform. Red, telaraña. Servidor de información www ; también, el universo www en su conjunto, en este caso suele escribirse con mayúscula. Usual. DRAE: desde 2001. Compuestos: web address, web editor, web page, web server, weblog, webcam, webmail, webmaster, website. Más importante quizá es la incógnita de si una web tan especializada tendrá empuje para hacerse con las grandes campañas de los anunciantes"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

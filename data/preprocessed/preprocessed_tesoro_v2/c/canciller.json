@@ -3,12 +3,15 @@
   "term": "canciller",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rector de una universidad.",
+      "consolidated_definition": "Rector de universidad",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0967741935483871,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.594",
+        "semantic_similarity_score": 0.594,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -41,13 +44,13 @@
         ],
         "reference_definitions": [
           "Rector de universidad.",
-          "Rector de una universidad. Término en retroceso. Poco frecuente. DRAE 2001.\nEl 11 de agosto de 1924 el cargo de Canciller Ejecutivo de la Universidad ..."
+          "Rector de una universidad. Término en retroceso. Poco frecuente. DRAE 2001. El 11 de agosto de 1924 el cargo de Canciller Ejecutivo de la Universidad fue separado de los deberes del Comisionado de Instrucción"
         ]
       }
     }
   },
   "es_definitions": [
-    "Rector de una universidad."
+    "Rector de universidad"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "bacalao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona, especialmente mujer, cuya extrema delgadez le da mal aspecto.",
+      "consolidated_definition": "Mujer u hombre demasiado flaco",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6197",
+        "semantic_similarity_score": 0.6197,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -26,16 +29,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Mujer u hombre demasiado flaco.",
           "Gallo flaco, muy débil.",
-          "Persona, especialmente mujer, cuya extrema delgadez le da mal aspecto."
+          "Persona, especialmente mujer, cuya extrema delgadez le da mal aspecto.",
+          "Gallo flaco y muy débil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona, especialmente mujer, cuya extrema delgadez le da mal aspecto."
+    "Mujer u hombre demasiado flaco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

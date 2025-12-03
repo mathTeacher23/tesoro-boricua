@@ -3,12 +3,15 @@
   "term": "batatazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe muy fuerte, especialmente en la cabeza.",
+      "consolidated_definition": ". Golpe, especialmente en la cabeza.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08750000000000001,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4854",
+        "semantic_similarity_score": 0.4854,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -33,10 +40,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,15 +51,16 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "(T. en Perú).  Golpe, especialmente en la cabeza.",
+          ". Golpe, especialmente en la cabeza.",
           "Puñetazo. Batacanazo.",
-          "Golpe contundente."
+          "Golpe contundente.",
+          "Golpe muy fuerte, especialmente en la cabeza."
         ]
       }
     }
   },
   "es_definitions": [
-    "Golpe muy fuerte, especialmente en la cabeza."
+    ". Golpe, especialmente en la cabeza."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

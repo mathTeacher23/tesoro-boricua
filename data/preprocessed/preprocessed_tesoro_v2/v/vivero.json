@@ -3,12 +3,15 @@
   "term": "vivero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio donde se llevan las pequeñas plantas de café desde el semillero y donde acaban de ponerse en condición para llevarlas a su sitio permanente.",
+      "consolidated_definition": "Predio donde se transplanta el arbolillo de café",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16757946147557226,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5164",
+        "semantic_similarity_score": 0.5164,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           },
           {
             "source": "SUÁREZ,",
@@ -55,13 +58,15 @@
         "reference_definitions": [
           "Predio donde se transplanta el arbolillo de café, para una nueva etapa de crecimiento, antes de transplantarse a tierra firme.",
           "Sitio donde se llevan las pequeñas plantas de café desde el semillero y donde acaban de ponerse en condición para llevarlas a su sitio permanente.",
-          "Lugar donde se mantienen o crían peces."
+          "Lugar donde se mantienen o crían peces.",
+          "Lugar o recipiente donde los pescadores llevan el cebo vivo.",
+          "El predio donde se transplanta el arbolillo de café, para una nueva etapa de crecimiento antes de su transplante final."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sitio donde se llevan las pequeñas plantas de café desde el semillero y donde acaban de ponerse en condición para llevarlas a su sitio permanente."
+    "Predio donde se transplanta el arbolillo de café"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

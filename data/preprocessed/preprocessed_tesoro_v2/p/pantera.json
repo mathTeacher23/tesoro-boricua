@@ -3,12 +3,15 @@
   "term": "pantera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trapacero.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "fig",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.007407407407407408,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3926",
+        "semantic_similarity_score": 0.3926,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
           "panterismo"
         ],
         "reference_definitions": [
-          "fig.  (T. en Cuba).  Trapacero. El uso metafórico de nombres de plantas y animales tiene extensión ilimitada en todos los idiomas. “En nuestro país, e...",
+          "fig. . Trapacero. El uso metafórico de nombres de plantas y animales tiene extensión ilimitada en todos los idiomas. “En nuestro país, el hombre de presa goza de excesivo prestigio. ¡Qué pantera es Fulano! se dice, no en son de reproche, sino de admiración.” José Padín, .",
           "Trapacero. Ladino. Agiotista.",
           "Astuto. Rufián."
         ]
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Trapacero."
+    "fig"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "jaco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jaca o caballo pequeño.",
+      "consolidated_definition": "Jaca o caballo pequeño",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7002",
+        "semantic_similarity_score": 0.7002,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Jaca o caballo pequeño. (No es el caballo pequeño y ruin que define Ac.).",
+          "Jaca o caballo pequeño. .",
           "Caballito bajito."
         ]
       }
     }
   },
   "es_definitions": [
-    "Jaca o caballo pequeño."
+    "Jaca o caballo pequeño"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

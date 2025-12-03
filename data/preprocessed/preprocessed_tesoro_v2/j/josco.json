@@ -3,12 +3,15 @@
   "term": "josco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Choreto, abundante; en cantidad.",
+      "consolidated_definition": "Choreto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21326839826839827,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.7466",
+        "semantic_similarity_score": 0.7466,
+        "cluster_count": null,
         "grammar": [
           "adverbio"
         ],
@@ -20,10 +23,6 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
@@ -32,12 +31,16 @@
             "year": "1972"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,15 +53,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Choreto, abundante. Frases equivalentes: en cantidad, en bruto, en cospe.",
+          "Choreto, abundante. Frases equivalentes: en cantidad, en bruto, en cospe.",
           "Choreto, en cospe.",
-          "Choreto, abundante; en cantidad."
+          "Choreto, abundante; en cantidad.",
+          "Abundante. Choreto. En bruto.",
+          "Abundantemente, en gran cantidad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Choreto, abundante; en cantidad."
+    "Choreto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

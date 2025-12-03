@@ -3,12 +3,15 @@
   "term": "centro de servicios",
   "superscripts": {
     "1": {
-      "consolidated_definition": "autom.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "autom",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "autom. Establecimiento comercial que repara y sustituye piezas de los automóviles. Calco de estructura, poco frecuente.\nAllí le indicaron que, por raz..."
+          "autom. Establecimiento comercial que repara y sustituye piezas de los automóviles. Calco de estructura, poco frecuente. Allí le indicaron que, por razones de seguridad, llevara su automóvil en grúa hasta el centro de servicios para verificación del damper"
         ]
       }
     }
   },
   "es_definitions": [
-    "autom."
+    "autom"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

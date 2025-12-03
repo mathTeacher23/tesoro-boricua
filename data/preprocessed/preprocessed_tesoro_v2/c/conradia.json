@@ -3,12 +3,15 @@
   "term": "conradia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto reputado de venenoso.",
+      "consolidated_definition": "Arbusto reputado de venenoso",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2857142857142857,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5939",
+        "semantic_similarity_score": 0.5939,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -31,18 +34,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Arbusto reputado de venenoso. (Conradia pedunculosa). Stahl, 6, 258.",
-          "Yerba pubescente. (Conradia reticulata; Pentarhaphia r.). Stahl, 6, 258."
+          "Arbusto reputado de venenoso. . Stahl, 6, 258.",
+          "Yerba pubescente. . Stahl, 6, 258."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Planta herbácea perenne, de hasta 50 cm de altura, con desarrollo arbustivo, hojas opuestas, inflorescencia axilar, flores rojizas y fruto en cápsula con numerosas semillas.",
+      "consolidated_definition": "Planta herbácea perenne",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -65,14 +71,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Planta herbácea perenne, de hasta 50 cm de altura, con desarrollo arbustivo, hojas opuestas, inflorescencia axilar, flores rojizas y fruto en cápsula ..."
+          "Planta herbácea perenne, de hasta 50 cm de altura, con desarrollo arbustivo, hojas opuestas, inflorescencia axilar, flores rojizas y fruto en cápsula con numerosas semillas. Gesneriaceae, Gesneria reticulata."
         ]
       }
     }
   },
   "es_definitions": [
-    "Arbusto reputado de venenoso.",
-    "Planta herbácea perenne, de hasta 50 cm de altura, con desarrollo arbustivo, hojas opuestas, inflorescencia axilar, flores rojizas y fruto en cápsula con numerosas semillas."
+    "Arbusto reputado de venenoso",
+    "Planta herbácea perenne"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

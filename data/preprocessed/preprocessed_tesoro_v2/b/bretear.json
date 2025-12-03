@@ -3,12 +3,15 @@
   "term": "bretear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar alguien metido en amoríos ilegítimos, en problemas de faldas.",
+      "consolidated_definition": "fest",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13513513513513514,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4078",
+        "semantic_similarity_score": 0.4078,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -42,18 +45,21 @@
           "breteo"
         ],
         "reference_definitions": [
-          "fest.  Estar metido en amoríos maliciosos. “Él es poeta y viajante —y ha breteado hasta en Pekín.”  Ferd. R. Cestero, “El Jíbaro del Dorao”, “¡Santa B...",
+          "fest. Estar metido en amoríos maliciosos. “Él es poeta y viajante —y ha breteado hasta en Pekín.” Ferd. R. Cestero, “El Jíbaro del Dorao”, “¡Santa Bárbara bendita!”, La Correspondencia, núm. del 30 de octubre de 1934.",
           "Estar alguien metido en amoríos ilegítimos, en problemas de faldas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Trajinar en la casa.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Trajinar en la casa",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4424",
+        "semantic_similarity_score": 0.4424,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -87,7 +93,7 @@
           "breteo"
         ],
         "reference_definitions": [
-          "(general)  Trajinar en la casa.",
+          "Trajinar en la casa.",
           "Trajinar. Bretejear",
           "Chismorrear."
         ]
@@ -95,8 +101,8 @@
     }
   },
   "es_definitions": [
-    "Estar alguien metido en amoríos ilegítimos, en problemas de faldas.",
-    "Trajinar en la casa."
+    "fest",
+    "Trajinar en la casa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

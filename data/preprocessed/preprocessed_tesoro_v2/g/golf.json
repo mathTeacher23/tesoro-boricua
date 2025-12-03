@@ -3,12 +3,15 @@
   "term": "golf",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. Juego de origen escocés, que consiste en impeler con un palo especial una pelota para introducirla en una serie de hoyos abiertos en un terreno e..."
+          "dep. Juego de origen escocés, que consiste en impeler con un palo especial una pelota para introducirla en una serie de hoyos abiertos en un terreno extenso cubierto de césped. Anglicismo crudo, usual. DRAE 2001, del inglés. Las hospederías de Hyatt también buscan aumentar su participación en el negocio del golf, el cual hasta ahora representa un 20% del mercado total del hotel en la Isla"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

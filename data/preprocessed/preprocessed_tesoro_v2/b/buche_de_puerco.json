@@ -3,12 +3,15 @@
   "term": "buche de puerco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Café amontonado que despide mal olor al fermentar.",
+      "consolidated_definition": "Planta silvestre que despide olor fétido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19974415204678364,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6299",
+        "semantic_similarity_score": 0.6299,
+        "cluster_count": null,
         "grammar": [
           "locución sustantiva",
           "masculina"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -42,13 +45,14 @@
         "reference_definitions": [
           "Planta silvestre que despide olor fétido. Se aplica también al café amontonado que al fermentar despide mal olor.",
           "Café colado de sabor deficiente.",
-          "Planta silvestre que despide un olor fétido."
+          "Planta silvestre que despide un olor fétido.",
+          "Café amontonado que despide mal olor al fermentar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Café amontonado que despide mal olor al fermentar."
+    "Planta silvestre que despide olor fétido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,21 +3,19 @@
   "term": "sapo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver burro prieto .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver burro prieto",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -27,12 +25,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "La infección bucal que se caracteriza por unas manchas blancas en las encías.",
+      "consolidated_definition": ". Sapillo, especie de afta.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0694600062247121,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5912",
+        "semantic_similarity_score": 0.5912,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,20 +46,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "GOYCO,",
-            "year": "1964"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
+            "source": "GOYCO,",
+            "year": "1964"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -70,19 +71,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Col.).  Sapillo, especie de afta.",
+          ". Sapillo, especie de afta.",
           "La infección bucal que se caracteriza por unas manchas blancas en las encías. También sapillo.",
-          "A cualquier llaguita en la boca el pueblo le llama sapo."
+          "A cualquier llaguita en la boca el pueblo le llama sapo.",
+          "Enfermedad de la boca."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Nombre que se le da al que acusa o traiciona a los adictos a drogas.",
+      "consolidated_definition": "Nombre que se le da al que acusa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03185185185185185,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3968",
+        "semantic_similarity_score": 0.3968,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -103,12 +108,12 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -128,12 +133,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Enfermedad que le da a las gallinas, consistente en un espumarajo y mucha baba espesa en el güelguero.",
+      "consolidated_definition": "Enfermedad que le da a las gallinas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17807103290974258,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6302",
+        "semantic_similarity_score": 0.6302,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -148,16 +156,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -175,12 +183,15 @@
       }
     },
     "5": {
-      "consolidated_definition": "Gallo de pata corta conocido también como rana y pato.",
+      "consolidated_definition": "Gallo de pata corta conocido también como rana",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7057",
+        "semantic_similarity_score": 0.7057,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -197,12 +208,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -218,12 +229,15 @@
       }
     },
     "6": {
-      "consolidated_definition": "Otro nombre para el pez llamado rana.",
+      "consolidated_definition": "Otro nombre para el pez llamado rana",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -252,12 +266,12 @@
     }
   },
   "es_definitions": [
-    "Ver burro prieto .",
-    "La infección bucal que se caracteriza por unas manchas blancas en las encías.",
-    "Nombre que se le da al que acusa o traiciona a los adictos a drogas.",
-    "Enfermedad que le da a las gallinas, consistente en un espumarajo y mucha baba espesa en el güelguero.",
-    "Gallo de pata corta conocido también como rana y pato.",
-    "Otro nombre para el pez llamado rana."
+    "Ver burro prieto",
+    ". Sapillo, especie de afta.",
+    "Nombre que se le da al que acusa",
+    "Enfermedad que le da a las gallinas",
+    "Gallo de pata corta conocido también como rana",
+    "Otro nombre para el pez llamado rana"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "dar un sip",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dar alguien un sorbo de algún líquido.",
+      "consolidated_definition": "dar un sorbo. algo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5499",
+        "semantic_similarity_score": 0.5499,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,7 +53,7 @@
     }
   },
   "es_definitions": [
-    "Dar alguien un sorbo de algún líquido."
+    "dar un sorbo. algo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

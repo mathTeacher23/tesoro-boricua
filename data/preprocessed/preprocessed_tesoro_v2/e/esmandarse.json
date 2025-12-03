@@ -3,12 +3,15 @@
   "term": "esmandarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Echarse a correr una persona, animal o vehículo a mucha velocidad.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.060724780382838725,
+        "num_cleaned_definitions": 10,
+        "definition_stability": "Stability: 0.4072",
+        "semantic_similarity_score": 0.4072,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,15 +52,22 @@
           "esmandado, da 1"
         ],
         "reference_definitions": [
-          "vulg.  Unido a otro verbo, resolverse o determinarse a la acción significada por éste. “Se esmandó a cantar.” “Esmandó a correr por temor a que le ech...",
-          "(general)  Echar a correr.",
-          "Alejarse a gran velocidad."
+          "vulg. Unido a otro verbo, resolverse o determinarse a la acción significada por éste. “Se esmandó a cantar.” “Esmandó a correr por temor a que le echaran mano.” Ramírez, Folklore, 88. .",
+          "Echar a correr.",
+          "Alejarse a gran velocidad.",
+          "Echar a correr con rapidez. Irse a toda prisa.",
+          "Desbocarse un caballo.",
+          "Pasarse de lo prudente. “Fulano se esmandó.” “¡No te esmandes!”",
+          "Pasarse alguien de lo prudente.",
+          "Echarse a correr una persona, animal o vehículo a mucha velocidad.",
+          "Desbocarse un caballo.",
+          "Comenzar a hacer algo con prisa ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Echarse a correr una persona, animal o vehículo a mucha velocidad."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

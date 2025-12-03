@@ -3,12 +3,15 @@
   "term": "cordón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tendedero, conjunto de alambres o cuerdas donde se tiende la ropa.",
+      "consolidated_definition": ". El encintado de los tendales.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05555555555555555,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5295",
+        "semantic_similarity_score": 0.5295,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -38,18 +41,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba).  El encintado de los tendales.",
+          ". El encintado de los tendales.",
           "Tendedero, conjunto de alambres o cuerdas donde se tiende la ropa."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Serie, fila.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Serie",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -78,8 +84,8 @@
     }
   },
   "es_definitions": [
-    "Tendedero, conjunto de alambres o cuerdas donde se tiende la ropa.",
-    "Serie, fila."
+    ". El encintado de los tendales.",
+    "Serie"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

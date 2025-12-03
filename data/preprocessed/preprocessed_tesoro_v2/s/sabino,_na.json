@@ -3,12 +3,15 @@
   "term": "sabino, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Equino albino con tinte amarillo en el pelo y piel negra.",
+      "consolidated_definition": "Albino",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2514394646747588,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.629",
+        "semantic_similarity_score": 0.629,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,16 +25,24 @@
         ],
         "sources": [
           {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
             "source": "LAUREANO ORTEGA,",
@@ -40,14 +51,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -61,15 +64,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Albino.",
+          "Albino.",
           "Albino. “Lo sijo le han ha salío sabino.”",
-          "Albino."
+          "Albino.",
+          "Albino.",
+          "Albino.",
+          "Equino albino con tinte amarillo en el pelo y piel negra.",
+          "Referido a un equino, de pelo color amarillo y piel negra."
         ]
       }
     }
   },
   "es_definitions": [
-    "Equino albino con tinte amarillo en el pelo y piel negra."
+    "Albino"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

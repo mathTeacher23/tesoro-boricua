@@ -3,12 +3,15 @@
   "term": "agentado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -30,17 +33,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Aventado, podrido."
+          "vulg. Aventado, podrido."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Se distinguen varias modalidades respecto al modo de ser de la persona que se conduce entre los demás con audacia y desenfado.",
+      "consolidated_definition": "Se dice del que se la echa de, relacionado con un grupo o una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 14,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05672080963486429,
+        "num_cleaned_definitions": 14,
+        "definition_stability": "Stability: 0.4511",
+        "semantic_similarity_score": 0.4511,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -54,6 +60,22 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -62,28 +84,12 @@
             "year": "1948"
           },
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -99,16 +105,27 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice del que se la echa de gente, es decir, de persona decente. “Van muy serios los pairinos —muy erechos y agentaos.” Ramón Méndez Cardona, Cuento...",
-          "Se distinguen varias modalidades respecto al modo de ser de la persona que se conduce entre los demás con audacia y desenfado. Agentao, dentro del mis...",
-          "El que presume de ser más de lo que es."
+          "Se dice del que se la echa de gente, es decir, de persona decente. “Van muy serios los pairinos —muy erechos y agentaos.” Ramón Méndez Cardona, Cuento de . “De golpe se ha presentado —metiendo toíta la pata —un comeol de batata, —jíbaro medio agentao.” Ferd. R. Cestero, “El jíbaro del Dorao”, Ahora va con usté, 1932.",
+          "Se distinguen varias modalidades respecto al modo de ser de la persona que se conduce entre los demás con audacia y desenfado. Agentao, dentro del mismo grupo, subraya la nota de presuntuoso.",
+          "El que presume de ser más de lo que es.",
+          "Presuntuoso. Fasistor.",
+          "Que se las echa de persona importante.",
+          "Aprontao.",
+          "Entrometido, fatuo.",
+          "Persona orgullosa.",
+          "El que presume de ser más de lo que es.",
+          "Entrometido, dispuesto.",
+          "Referido a persona, especialmente un niño, sociable, que posee capacidad para relacionarse con los otros.",
+          "Referido a persona, que aprovecha cualquier situación en beneficio propio, oportunista.",
+          "Referido a persona, entrometida.",
+          "Referido a persona, pretenciosa, fatua, que presume de lo que no es."
         ]
       }
     }
   },
   "es_definitions": [
-    "vulg.",
-    "Se distinguen varias modalidades respecto al modo de ser de la persona que se conduce entre los demás con audacia y desenfado."
+    "vulg",
+    "Se dice del que se la echa de, relacionado con un grupo o una calificación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

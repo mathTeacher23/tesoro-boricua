@@ -3,12 +3,15 @@
   "term": "tirada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Engaño, mala partida; chasco.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17439947209892215,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6407",
+        "semantic_similarity_score": 0.6407,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "PÉREZ SALA,",
@@ -51,15 +54,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Engaño, mala partida. “Para ello utilizaban lo que en común parlanza llamamos una tirada.” Martínez Álvarez, Don Cati, 1923, p. 57.  (En España...",
-          "(general)  Engaño, mala partida; chasco.",
-          "Engaño, mala partida, chasco."
+          "vulg. Engaño, mala partida. “Para ello utilizaban lo que en común parlanza llamamos una tirada.” Martínez Álvarez, , p. 57. .",
+          "Engaño, mala partida; chasco.",
+          "Engaño, mala partida, chasco.",
+          "Engaño, chasco.",
+          "Engaño. Estafa. Mala pasada. Darle a uno una tirada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Engaño, mala partida; chasco."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

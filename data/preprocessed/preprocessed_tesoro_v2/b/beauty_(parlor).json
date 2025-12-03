@@ -3,12 +3,15 @@
   "term": "beauty (parlor)",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Peluquería, salón de belleza.",
+      "consolidated_definition": "Peluquería",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2050703764989479,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.6329",
+        "semantic_similarity_score": 0.6329,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,28 +26,28 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "1969"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "LÓPEZ MORALES,",
             "year": "1986"
           },
           {
+            "source": "MORALES DE WALTERS,",
+            "year": "1969"
+          },
+          {
             "source": "VAQUERO,",
             "year": "1995"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -62,14 +65,18 @@
         ],
         "reference_definitions": [
           "Peluquería, salón de belleza.",
-          "Salón de belleza. Establecimiento donde se ofrecen servicios de embellecimiento a los clientes. Anglicismo crudo, usual.\nA pesar de tener cerca de set...",
-          "Peluquería."
+          "Salón de belleza. Establecimiento donde se ofrecen servicios de embellecimiento a los clientes. Anglicismo crudo, usual. A pesar de tener cerca de setenta años visitaban el beauty parlor todas las semanas para teñirse y hacerse el setting",
+          "Peluquería.",
+          "Peluquería de señoras. Salón de belleza.",
+          "Peluquería.",
+          "Peluquería de señoras. También salón de belleza.",
+          "Peluquería de señoras."
         ]
       }
     }
   },
   "es_definitions": [
-    "Peluquería, salón de belleza."
+    "Peluquería"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

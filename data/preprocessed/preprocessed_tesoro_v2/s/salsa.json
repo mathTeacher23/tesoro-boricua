@@ -3,12 +3,15 @@
   "term": "salsa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Música y baile alegre de figuras moviendo el cuerpo y manos.",
+      "consolidated_definition": "Cierta música moderna muy movida y alegre, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17407407407407405,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6648",
+        "semantic_similarity_score": 0.6648,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,12 +53,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Golpiza violenta y repetida.",
+      "consolidated_definition": "Paliza",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2913",
+        "semantic_similarity_score": 0.2913,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -90,8 +96,8 @@
     }
   },
   "es_definitions": [
-    "Música y baile alegre de figuras moviendo el cuerpo y manos.",
-    "Golpiza violenta y repetida."
+    "Cierta música moderna muy movida y alegre, relacionado con una organización",
+    "Paliza"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

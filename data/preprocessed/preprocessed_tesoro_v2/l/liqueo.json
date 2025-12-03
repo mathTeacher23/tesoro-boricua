@@ -3,12 +3,15 @@
   "term": "liqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Goteo, filtración.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Goteo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7747",
+        "semantic_similarity_score": 0.7747,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -47,14 +50,14 @@
         ],
         "reference_definitions": [
           "Goteo, filtración.",
-          "Filtración, goteo. Caída de un líquido poco a poco o gota a gota; por extensión, filtración de información. Anglicismo adaptado, usual.\nSeñaló, que él...",
+          "Filtración, goteo. Caída de un líquido poco a poco o gota a gota; por extensión, filtración de información. Anglicismo adaptado, usual. Señaló, que él tiene que chequear que todos los camiones estén en perfectas condiciones de seguridad, los frenos, que no tengan liqueo, el funcionamiento completo",
           "Goteo, filtración."
         ]
       }
     }
   },
   "es_definitions": [
-    "Goteo, filtración."
+    "Goteo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

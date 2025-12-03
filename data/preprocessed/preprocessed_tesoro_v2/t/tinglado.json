@@ -3,12 +3,15 @@
   "term": "tinglado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El estado atmosférico nublado.",
+      "consolidated_definition": "Tiempo de lluvia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5132",
+        "semantic_similarity_score": 0.5132,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Variedad de carey, tortuga de mar.",
+      "consolidated_definition": ". Reptil escamoso de gran tamaño. . Stahl, Catalog, 68.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.058823529411764705,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4789",
+        "semantic_similarity_score": 0.4789,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,18 +81,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba).  Reptil escamoso de gran tamaño. (Sphargis coriacea). Stahl, Catalog, 68.",
+          ". Reptil escamoso de gran tamaño. . Stahl, Catalog, 68.",
           "Variedad de carey, tortuga de mar."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Estructura que existía en el puerto de Ponce con techumbre de hierro galvanizado, para albergar las mercancías que se desembarcaban antes de pasar a los almacenes.",
+      "consolidated_definition": "Estructura que existía en el puerto de Ponce",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07219551282051283,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3738",
+        "semantic_similarity_score": 0.3738,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -118,17 +127,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Estructura que existía en el puerto de Ponce con techumbre de hierro galvanizado, para albergar las mercancías que se desembarcaban antes de pasar a l...",
+          "Estructura que existía en el puerto de Ponce con techumbre de hierro galvanizado, para albergar las mercancías que se desembarcaban antes de pasar a los almacenes. Neumann Gandía, 133.",
           "Andamio u otra estructura para construcciones de plantas físicas.",
-          "Conjunto de manejos para fabricar un caso judicial."
+          "Conjunto de manejos para fabricar un caso judicial.",
+          "Circunstancias que conducen a un chanchullo."
         ]
       }
     }
   },
   "es_definitions": [
-    "El estado atmosférico nublado.",
-    "Variedad de carey, tortuga de mar.",
-    "Estructura que existía en el puerto de Ponce con techumbre de hierro galvanizado, para albergar las mercancías que se desembarcaban antes de pasar a los almacenes."
+    "Tiempo de lluvia",
+    ". Reptil escamoso de gran tamaño. . Stahl, Catalog, 68.",
+    "Estructura que existía en el puerto de Ponce"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

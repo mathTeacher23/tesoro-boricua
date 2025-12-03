@@ -3,12 +3,15 @@
   "term": "cubujón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rincón o sitio a modo de covacha.",
+      "consolidated_definition": "Chiribitil",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05131172839506173,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.4448",
+        "semantic_similarity_score": 0.4448,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,17 +53,26 @@
         "reference_definitions": [
           "Chiribitil.",
           "Callejón de extramuros.",
-          "Cuarto muy pequeño."
+          "Cuarto muy pequeño.",
+          "Rincón o sitio a modo de covacha.",
+          "Cuartucho. Cobacha. Escondrijo.",
+          "Espacio muy reducido, estrecho.",
+          "Cuartucho, covacha.",
+          "Escondrijo.",
+          "Callejón de extramuros."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Suburbio urbano muy pobre.",
+      "consolidated_definition": "Suburbio urbano muy pobre",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.6,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8497",
+        "semantic_similarity_score": 0.8497,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -73,12 +85,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -95,8 +107,8 @@
     }
   },
   "es_definitions": [
-    "Rincón o sitio a modo de covacha.",
-    "Suburbio urbano muy pobre."
+    "Chiribitil",
+    "Suburbio urbano muy pobre"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

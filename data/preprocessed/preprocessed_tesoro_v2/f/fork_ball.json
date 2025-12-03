@@ -3,12 +3,15 @@
   "term": "fork ball",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el béisbol, lanzamiento fuerte que se hace con el índice y los dedos del medio de la mano. Anglicismo crudo, poco frecuente.\nVoy a lanzar como..."
+          "dep. En el béisbol, lanzamiento fuerte que se hace con el índice y los dedos del medio de la mano. Anglicismo crudo, poco frecuente. Voy a lanzar como lo hice en Puerto Rico en la serie final, mucha recta y fork ball"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

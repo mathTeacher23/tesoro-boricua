@@ -3,12 +3,15 @@
   "term": "futbolista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -37,13 +40,13 @@
           "futbolina"
         ],
         "reference_definitions": [
-          "dep. Jugador de fútbol. Persona que practica el fútbol y pertenece a uno de los equipos constituidos. Frecuente. DRAE 2001.\nPara ésta, el hombre de te..."
+          "dep. Jugador de fútbol. Persona que practica el fútbol y pertenece a uno de los equipos constituidos. Frecuente. DRAE 2001. Para ésta, el hombre de tez negra “siempre es sensual”, por eso le encantan atletas como el pelotero boricua Carlos Delgado, el baloncelista estadounidense Michael Jordan y el futbolista brasileño Nélson De Jesus Silva, mejor conocido como Dida"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

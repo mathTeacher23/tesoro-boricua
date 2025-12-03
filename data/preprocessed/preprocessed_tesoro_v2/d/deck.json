@@ -3,12 +3,15 @@
   "term": "deck",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sobre de heroína.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Sobre de heroína",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.34848484848484845,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6319",
+        "semantic_similarity_score": 0.6319,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
             "year": "1973"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -42,18 +45,21 @@
         "related_words": [],
         "reference_definitions": [
           "Sobre de heroína.",
-          "drog. Paquete de narcóticos, porción pequeña de narcóticos. Anglicismo crudo, frecuente.\nNo es necesaria una orden judicial para que la policía arrest...",
+          "drog. Paquete de narcóticos, porción pequeña de narcóticos. Anglicismo crudo, frecuente. No es necesaria una orden judicial para que la policía arreste válidamente a una persona cuando ésta es sorprendida sosteniendo en una de sus manos un sobrecito de los conocidos como deck dentro de una estructura deshabitada",
           "Sobre de heroína."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Terraza, balcón, cubierta.",
+      "consolidated_definition": "Cubierta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.014492753623188406,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2982",
+        "semantic_similarity_score": 0.2982,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,17 +88,20 @@
         "related_words": [],
         "reference_definitions": [
           "Cubierta.",
-          "Terraza, balcón, cubierta. Piso o terraza descubierta, generalmente de madera; también, plataforma que se extiende de un lado a otro de un barco. Angl..."
+          "Terraza, balcón, cubierta. Piso o terraza descubierta, generalmente de madera; también, plataforma que se extiende de un lado a otro de un barco. Anglicismo crudo, frecuente. Más arriba hicimos una terraza en donde antes hubo un vivero. Aún más arriba hicimos un balcón de madera que acoge, abraza, celebra la caída —¡pequeña, esta bien... pero bonita y alegre y fresca!— que hay en esa parte del río Canas. El asunto es que a eso le llaman mis bárbaros amigos el deck. Yo le llamo El Balcón de la Cascada"
         ]
       }
     },
     "3": {
-      "consolidated_definition": "mús.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "mús",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -115,15 +124,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "mús. Módulo, grabador. Componente modular que se añade a un sistema de música. Anglicismo crudo, frecuente.\nVendo deck Nevos doble casetera $30.000,00..."
+          "mús. Módulo, grabador. Componente modular que se añade a un sistema de música. Anglicismo crudo, frecuente. Vendo deck Nevos doble casetera $30.000,00"
         ]
       }
     }
   },
   "es_definitions": [
-    "Sobre de heroína.",
-    "Terraza, balcón, cubierta.",
-    "mús."
+    "Sobre de heroína",
+    "Cubierta",
+    "mús"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

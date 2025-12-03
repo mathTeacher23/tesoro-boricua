@@ -3,12 +3,15 @@
   "term": "mochar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cortar o podar un árbol de un modo imperfecto.",
+      "consolidated_definition": "Cortar imperfecta o desacertadamente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11346153846153846,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6391",
+        "semantic_similarity_score": 0.6391,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -49,13 +52,14 @@
         "reference_definitions": [
           "Cortar imperfecta o desacertadamente.",
           "Cortar o podar un árbol de un modo imperfecto.",
-          "Transmochar. Talar con machete en forma descuidada."
+          "Transmochar. Talar con machete en forma descuidada.",
+          "Cortar o podar, . gr. un árbol, de manera imperfecta y desacertada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cortar o podar un árbol de un modo imperfecto."
+    "Cortar imperfecta o desacertadamente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

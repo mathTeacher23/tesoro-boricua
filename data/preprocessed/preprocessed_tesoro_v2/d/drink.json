@@ -3,12 +3,15 @@
   "term": "drink",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trago de bebida alcohólica.",
+      "consolidated_definition": "Trago",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04029697900665643,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.54",
+        "semantic_similarity_score": 0.54,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "PAGÁN GONZÁLEZ,",
-            "year": "1969"
-          },
-          {
             "source": "BENNETT,",
             "year": "1972"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "PAGÁN GONZÁLEZ,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Trago.",
           "Un trago o bebida.",
-          "Trago, bebida. Bebida espirituosa generalmente preparada con varios ingredientes. Anglicismo crudo, usual.\nDisfruta de piezas de arte a la vez que cen..."
+          "Trago, bebida. Bebida espirituosa generalmente preparada con varios ingredientes. Anglicismo crudo, usual. Disfruta de piezas de arte a la vez que cenas y tomas tu drink preferido",
+          "Trago de bebida alcohólica."
         ]
       }
     }
   },
   "es_definitions": [
-    "Trago de bebida alcohólica."
+    "Trago"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

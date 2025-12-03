@@ -3,12 +3,15 @@
   "term": "foul ball",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -33,13 +36,13 @@
           "foul"
         ],
         "reference_definitions": [
-          "dep. En el juego de béisbol, pelota bateada que cae fuera del terreno de juego o que rebota más allá. Anglicismo crudo, poco frecuente.\nUn dato curios..."
+          "dep. En el juego de béisbol, pelota bateada que cae fuera del terreno de juego o que rebota más allá. Anglicismo crudo, poco frecuente. Un dato curioso en este partido fue cuando Roberto Clemente conectó una línea peligrosa por las banda de la derecha y fue cantada foul ball, ese juego tuve la dicha de verlo por el televisor y creanme mi gente fue un cuadrangular bien claro"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

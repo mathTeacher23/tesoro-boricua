@@ -3,12 +3,15 @@
   "term": "gazpacho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pulpa del coco seco después de rallada y de extraerle la leche.",
+      "consolidated_definition": "La envoltura del coco",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1936165069498403,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7101",
+        "semantic_similarity_score": 0.7101,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1966"
-          },
-          {
             "source": "LAUREANO ORTEGA,",
             "year": "1969"
           },
           {
             "source": "SOLER,",
             "year": "1973"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1966"
           },
           {
             "source": "VICENTE MAURA,",
@@ -50,17 +53,21 @@
         "reference_definitions": [
           "La envoltura del coco. También casco, cachaza, corteza.",
           "Envoltura del coco. También cachipa, corteza, pelusa, cáscara, pajuncia.",
-          "Envoltura del coco. También cachispa, caparazón, carapacho."
+          "Envoltura del coco. También cachispa, caparazón, carapacho.",
+          "Pulpa del coco seco después de rallada y de extraerle la leche. Úsase para hacer polvo de amor, tostándolo con azúcar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Plato hecho con algunas viandas hervidas con sal, bacalao y aceite de oliva.",
+      "consolidated_definition": "Plato hecho con algunas viandas hervidas con sal",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13054298642533937,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5758",
+        "semantic_similarity_score": 0.5758,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -73,16 +80,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -95,14 +102,15 @@
         "reference_definitions": [
           "Plato hecho con algunas viandas hervidas con sal, bacalao y aceite de oliva. Sírvese en cena de media noche.",
           "El mismo plato, pero sustituyendo las viandas por galletas o pan mojado. Algo equivalente a la panocha castellana.",
-          "Mezcla de ensalada con bacalao."
+          "Mezcla de ensalada con bacalao.",
+          "Plato de verduras hervidas con sal, bacalao y aceite de oliva."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pulpa del coco seco después de rallada y de extraerle la leche.",
-    "Plato hecho con algunas viandas hervidas con sal, bacalao y aceite de oliva."
+    "La envoltura del coco",
+    "Plato hecho con algunas viandas hervidas con sal"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

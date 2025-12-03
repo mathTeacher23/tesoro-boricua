@@ -3,12 +3,15 @@
   "term": "titerear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cometer alguien fechorías.",
+      "consolidated_definition": "Cometer fechorías",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16666666666666666,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7038",
+        "semantic_similarity_score": 0.7038,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,7 +50,7 @@
     }
   },
   "es_definitions": [
-    "Cometer alguien fechorías."
+    "Cometer fechorías"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

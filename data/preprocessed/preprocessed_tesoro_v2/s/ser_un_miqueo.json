@@ -3,12 +3,15 @@
   "term": "ser un miqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser algo fácil.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ser bien fácil",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18181818181818182,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5489",
+        "semantic_similarity_score": 0.5489,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Ser algo fácil."
+    "Ser bien fácil"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

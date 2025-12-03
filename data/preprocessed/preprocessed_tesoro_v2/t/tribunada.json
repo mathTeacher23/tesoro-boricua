@@ -3,12 +3,15 @@
   "term": "tribunada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aguacero torrencial con vientos fuertes; manguera de viento y lluvia.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08915050410539609,
+        "num_cleaned_definitions": 10,
+        "definition_stability": "Stability: 0.5474",
+        "semantic_similarity_score": 0.5474,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,40 +24,40 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
-            "source": "CARRILLO,",
-            "year": "1974"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "FIGUEROA,",
+            "year": "1965"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
             "source": "VAQUERO,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -69,15 +72,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg. Turbonada. “Una tribunada arracó de cuajo el cobertizo del trapiche.” González García, Carmela, 1925, p. 146.",
-          "(jíbaro) Aguacero torrencial acompañado de vientos fuertes en todas direcciones. También manguera.",
-          "Lluvias de tribuná. Agua con viento que hace daño a las plantaciones de caña y tabaco."
+          "vulg. Turbonada. “Una tribunada arracó de cuajo el cobertizo del trapiche.” González García, , p. 146.",
+          "Aguacero torrencial acompañado de vientos fuertes en todas direcciones. También manguera.",
+          "Lluvias de tribuná. Agua con viento que hace daño a las plantaciones de caña y tabaco.",
+          "Turbonada viento fuerte con o sin aguacero.",
+          "Turbonada. Aguaceros fuertes con mucho viento.",
+          "Ráfaga de viento fuerte de un temporal o ciclón.",
+          "Aguacero torrencial con vientos fuertes; manguera de viento y lluvia.",
+          "Viento a ráfagas.",
+          "Golpe de viento.",
+          "Golpe de viento."
         ]
       }
     }
   },
   "es_definitions": [
-    "Aguacero torrencial con vientos fuertes; manguera de viento y lluvia."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

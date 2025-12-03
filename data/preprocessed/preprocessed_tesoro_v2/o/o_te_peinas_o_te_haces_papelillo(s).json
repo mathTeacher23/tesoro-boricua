@@ -3,12 +3,15 @@
   "term": "o te peinas o te haces papelillo(s)",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica la necesidad de alguien de tomar una decisión.",
+      "consolidated_definition": "Exhorta a que se tome una decisión",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10714285714285714,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5268",
+        "semantic_similarity_score": 0.5268,
+        "cluster_count": null,
         "grammar": [
           "expresión"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Indica la necesidad de alguien de tomar una decisión."
+    "Exhorta a que se tome una decisión"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

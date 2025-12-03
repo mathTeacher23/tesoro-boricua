@@ -3,12 +3,15 @@
   "term": "azufaifo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto de ramas largas, delgadas y flexibles, copa densa, hojas alternas pecioladas y lampiñas, flores verdosas y fruto en drupa carnosa globosa.",
+      "consolidated_definition": "Arbusto de ramas largas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20689655172413793,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4915",
+        "semantic_similarity_score": 0.4915,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Arbusto de ramas largas, delgadas y flexibles. (Zyzyphus reticulata). Stahl, 4: 42.",
-          "Arbusto de ramas largas, delgadas y flexibles, copa densa, hojas alternas pecioladas y lampiñas, flores verdosas y fruto en drupa carnosa globosa. Rha..."
+          "Arbusto de ramas largas, delgadas y flexibles. . Stahl, 4: 42.",
+          "Arbusto de ramas largas, delgadas y flexibles, copa densa, hojas alternas pecioladas y lampiñas, flores verdosas y fruto en drupa carnosa globosa. Rhamnaceae Zyzyphus reticulata."
         ]
       }
     }
   },
   "es_definitions": [
-    "Arbusto de ramas largas, delgadas y flexibles, copa densa, hojas alternas pecioladas y lampiñas, flores verdosas y fruto en drupa carnosa globosa."
+    "Arbusto de ramas largas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

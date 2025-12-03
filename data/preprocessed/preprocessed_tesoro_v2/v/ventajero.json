@@ -3,12 +3,15 @@
   "term": "ventajero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo que pica arriba, a la cabeza.",
+      "consolidated_definition": "Gallo que pica arriba",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,12 +39,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "m.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "m",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -68,14 +74,14 @@
           "ventaja"
         ],
         "reference_definitions": [
-          "m.  Vendedor del dulce llamado ventaja."
+          "m. Vendedor del dulce llamado ventaja."
         ]
       }
     }
   },
   "es_definitions": [
-    "Gallo que pica arriba, a la cabeza.",
-    "m."
+    "Gallo que pica arriba",
+    "m"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "fresca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El aire fresco que sopla por la mañana o por la tarde.",
+      "consolidated_definition": "La madrugada",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17875968992248062,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6141",
+        "semantic_similarity_score": 0.6141,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -47,17 +50,20 @@
         "reference_definitions": [
           "La madrugada. “Me levanto con la fresca.” “La fresca del amanecer, de la tarde.”",
           "El aire fresco que sopla por la mañana o por la tarde. Se habla de la fresca de la mañana y de la fresa de la tarde.",
-          "El fresco. El aire o brisa que sopla a cualquier hora del día, refrescando el ambiente, suele llamarse la fresca entre nuestra gente de campo, y asimi..."
+          "El fresco. El aire o brisa que sopla a cualquier hora del día, refrescando el ambiente, suele llamarse la fresca entre nuestra gente de campo, y asimismo con frecuencia en el nivel del habla popular urbana, con particulares referencias a la fresca de la mañana y la fresca de la tarde."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Se dice de la tierra que conserva alguna humedad y se puede sembrar en ella.",
+      "consolidated_definition": "Se dice de la tierra que conserva alguna",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6470588235294118,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9423",
+        "semantic_similarity_score": 0.9423,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -70,12 +76,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -92,8 +98,8 @@
     }
   },
   "es_definitions": [
-    "El aire fresco que sopla por la mañana o por la tarde.",
-    "Se dice de la tierra que conserva alguna humedad y se puede sembrar en ella."
+    "La madrugada",
+    "Se dice de la tierra que conserva alguna"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

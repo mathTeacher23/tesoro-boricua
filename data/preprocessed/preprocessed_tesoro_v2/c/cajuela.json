@@ -3,12 +3,15 @@
   "term": "cajuela",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En carpintería, escopleadura.",
+      "consolidated_definition": "En carpintería",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -36,12 +39,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "En la industria azucarera, surco en la siembra de la caña.",
+      "consolidated_definition": "Surco",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5555555555555556,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6394",
+        "semantic_similarity_score": 0.6394,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -54,12 +60,12 @@
         ],
         "sources": [
           {
-            "source": "GONZÁLEZ MUÑIZ,",
-            "year": "1988"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "GONZÁLEZ MUÑIZ,",
+            "year": "1988"
           }
         ],
         "years": [
@@ -76,8 +82,8 @@
     }
   },
   "es_definitions": [
-    "En carpintería, escopleadura.",
-    "En la industria azucarera, surco en la siembra de la caña."
+    "En carpintería",
+    "Surco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

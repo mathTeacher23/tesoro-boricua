@@ -3,12 +3,15 @@
   "term": "palometa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las puntas de las mijarras había palometas o asientos para el chico que arreaba las yuntas.",
+      "consolidated_definition": "En las puntas de las mijarras había palometas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4728",
+        "semantic_similarity_score": 0.4728,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Nombre que algunos le dan al pez de mar llamado pez espada.",
+      "consolidated_definition": ". Pez comestible. . Stahl, Catalog., 73; 77.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10243548208330289,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.4598",
+        "semantic_similarity_score": 0.4598,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -62,16 +68,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
             "source": "ERDMAN,",
             "year": "1974"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "MAULEÓN,",
@@ -91,16 +97,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Am.).  Pez comestible. (Trachynotus glaucus; Hynnis cubensis; Serrasalmus marginatus). Stahl, Catalog., 73; 77.",
+          ". Pez comestible. . Stahl, Catalog., 73; 77.",
           "Pez “que anda por los bajos”.",
-          "Pez de la familia Carngidae. Trachinotus goodei."
+          "Pez de la familia Carngidae. Trachinotus goodei.",
+          "Otro nombre para el pez llamado paguala.",
+          "Otro nombre para el pez llamado papito.",
+          "Stromateidae. Peprilusparu. “Peje que se coge en Las Quillas. Ahora el gobierno las llama Mis Quillas”.",
+          "Nombre que algunos le dan al pez de mar llamado pez espada.",
+          "Pez de mar, comestible, de la familia del jurel. Su nombre taíno es paguala. LHA."
         ]
       }
     }
   },
   "es_definitions": [
-    "En las puntas de las mijarras había palometas o asientos para el chico que arreaba las yuntas.",
-    "Nombre que algunos le dan al pez de mar llamado pez espada."
+    "En las puntas de las mijarras había palometas",
+    ". Pez comestible. . Stahl, Catalog., 73; 77."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "matuco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bastón hecho con un simple palo rollizo, grueso, al que le quitan la corteza, dejándole los nudillos.",
+      "consolidated_definition": "Especie de bastón ordinario",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.058589238496265135,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.4995",
+        "semantic_similarity_score": 0.4995,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,6 +24,22 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -29,28 +48,12 @@
             "year": "1948"
           },
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -66,15 +69,20 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Especie de bastón ordinario. “¿Qué es eso de matuco?, le preguntó Pedrito. —Un palo duro que tiene siempre en su cuarto, y cuando sale con ese garrote...",
+          "Especie de bastón ordinario. “¿Qué es eso de matuco?, le preguntó Pedrito. —Un palo duro que tiene siempre en su cuarto, y cuando sale con ese garrote es garata segura.” Timothée, La libertad de la palabra, 1932.",
           "Estaca.",
-          "Garrote rústico que sirve de bastón."
+          "Garrote rústico que sirve de bastón.",
+          "Bastón ordinario. Estaca.",
+          "Bastón hecho con un simple palo rollizo, grueso, al que le quitan la corteza, dejándole los nudillos. También dicen cocomacaco.",
+          "Cocomacaco. Garrote rústico usado de bastón.",
+          "Estaca o palo.",
+          "Bastón fuerte hecho de palma u otra madera dura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bastón hecho con un simple palo rollizo, grueso, al que le quitan la corteza, dejándole los nudillos."
+    "Especie de bastón ordinario"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

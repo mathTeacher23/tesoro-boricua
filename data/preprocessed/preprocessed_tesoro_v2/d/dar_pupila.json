@@ -3,12 +3,15 @@
   "term": "dar pupila",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Curiosear alguien, observar con disimulo.",
+      "consolidated_definition": "Curiosear",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03458049886621315,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4118",
+        "semantic_similarity_score": 0.4118,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,20 +23,20 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,14 +49,18 @@
         "related_words": [],
         "reference_definitions": [
           "Curiosear, observar disimuladamente.",
-          "Observar con detenimiento.  También dar vistilla.",
-          "Curiosear."
+          "Observar con detenimiento. También dar vistilla.",
+          "Curiosear.",
+          "Observar.",
+          "Escudriñar con cierta picardía.",
+          "Atisbar.",
+          "Curiosear alguien, observar con disimulo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Curiosear alguien, observar con disimulo."
+    "Curiosear"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

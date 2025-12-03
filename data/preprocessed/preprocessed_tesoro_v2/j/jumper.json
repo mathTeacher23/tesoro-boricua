@@ -3,12 +3,15 @@
   "term": "jumper",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prenda femenina sin cuello ni mangas que, a modo de vestido, cubre el cuerpo hasta poco más arriba de las rodillas y se usa sobre la blusa.",
+      "consolidated_definition": "Prenda de vestir holgada sin mangas que se, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15384615384615385,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4867",
+        "semantic_similarity_score": 0.4867,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,18 +39,21 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Prenda de vestir holgada sin mangas que se usa sobre una camisa, frecuente en uniformes escolares. Anglicismo crudo, frecuente.\nTambién hubo variedad ...",
+          "Prenda de vestir holgada sin mangas que se usa sobre una camisa, frecuente en uniformes escolares. Anglicismo crudo, frecuente. También hubo variedad de turtlenecks utilizados debajo de jumpers y abrigos oversize sobre trajecitos sencillos",
           "Prenda femenina sin cuello ni mangas que, a modo de vestido, cubre el cuerpo hasta poco más arriba de las rodillas y se usa sobre la blusa."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "telecom.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "electr",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10891089108910891,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.448",
+        "semantic_similarity_score": 0.448,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -70,15 +76,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "electr. Alambre corto o pequeño conector utilizado para hacer conexiones eléctricas temporales. Anglicismo crudo, poco frecuente.\nSurge del desfile de...",
-          "telecom. Conexión ilegal de una línea telefónica legal, que desvía el servicio a un tercero que no está autorizado a usarla. Anglicismo crudo, poco fr..."
+          "electr. Alambre corto o pequeño conector utilizado para hacer conexiones eléctricas temporales. Anglicismo crudo, poco frecuente. Surge del desfile de prueba que el vehículo tenía primeramente un problema electromecánico, siendo esa la causa de que prendiera en todos los cambios, además de tener un jumper instalado en el motor para poder prenderlo",
+          "telecom. Conexión ilegal de una línea telefónica legal, que desvía el servicio a un tercero que no está autorizado a usarla. Anglicismo crudo, poco frecuente. Tambien encontró que varias líneas telefónicas estaban intervenidas mediante jumpers por lo que los servicios eran ilegalmente desviados, y que esos jumpers se dirigían al apto #1 del Edificio, que por información provista por la administración del edificio era alquilado por Evelyn Car y Richard Pérez."
         ]
       }
     }
   },
   "es_definitions": [
-    "Prenda femenina sin cuello ni mangas que, a modo de vestido, cubre el cuerpo hasta poco más arriba de las rodillas y se usa sobre la blusa.",
-    "telecom."
+    "Prenda de vestir holgada sin mangas que se, relacionado con una organización",
+    "electr"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

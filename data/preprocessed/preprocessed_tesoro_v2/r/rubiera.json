@@ -3,12 +3,15 @@
   "term": "rubiera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Borrachera con cerveza.",
+      "consolidated_definition": "Ribota",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.2996",
+        "semantic_similarity_score": 0.2996,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
           }
         ],
         "years": [
@@ -43,15 +46,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ribota, juerga. Ac. “Pero es lo que yo digo, —que pa meterme en rubiera...” Ferd. R. Cestero, “El jíbaro del Dorao”, “Asujete a ese maestro”  La Corre...",
+          "Ribota, juerga. Ac. “Pero es lo que yo digo, —que pa meterme en rubiera...” Ferd. R. Cestero, “El jíbaro del Dorao”, “Asujete a ese maestro” La Correspondencia, 15 de diciembre de 1936.",
           "Diversión. Jarana.",
-          "Borrachera con cerveza."
+          "Borrachera con cerveza.",
+          "Diversión, jira."
         ]
       }
     }
   },
   "es_definitions": [
-    "Borrachera con cerveza."
+    "Ribota"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

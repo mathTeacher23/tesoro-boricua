@@ -3,12 +3,15 @@
   "term": "arroz con cumbrera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plato de arroz bien lleno.",
+      "consolidated_definition": "Plato de arroz bien lleno",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6190476190476191,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.799",
+        "semantic_similarity_score": 0.799,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Plato de arroz bien lleno."
+    "Plato de arroz bien lleno"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

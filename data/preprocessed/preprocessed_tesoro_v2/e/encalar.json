@@ -3,12 +3,15 @@
   "term": "encalar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aplicar cal a las tierras de cultivo que la necesiten.",
+      "consolidated_definition": "Aplicar cal a las tierras que la necesitan",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6363636363636364,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9318",
+        "semantic_similarity_score": 0.9318,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Aplicar cal a las tierras de cultivo que la necesiten."
+    "Aplicar cal a las tierras que la necesitan"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

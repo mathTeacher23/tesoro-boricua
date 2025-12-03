@@ -3,12 +3,15 @@
   "term": "lo que trajo el barco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Botín de poco valor obtenido en un robo.",
+      "consolidated_definition": "Botín de poco valor obtenido en un robo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19047619047619047,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5626",
+        "semantic_similarity_score": 0.5626,
+        "cluster_count": null,
         "grammar": [
           "locución sustantiva"
         ],
@@ -28,12 +31,12 @@
             "year": "1973"
           },
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -52,7 +55,7 @@
     }
   },
   "es_definitions": [
-    "Botín de poco valor obtenido en un robo."
+    "Botín de poco valor obtenido en un robo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "pámpana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La extremidad en forma de borla que tiene el racimo de plátanos o guineos.",
+      "consolidated_definition": "Flor del guineo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.24760127127774187,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.7549",
+        "semantic_similarity_score": 0.7549,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,6 +28,10 @@
             "year": "1965"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
@@ -35,10 +42,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -53,19 +56,24 @@
           "despampanar 1"
         ],
         "reference_definitions": [
-          "(popular)  Flor del guineo.",
+          "Flor del guineo.",
           "Pámpano. Extremidad en forma de borla del racimo de plátanos o guineos.",
-          "Flor del plátano o del guineo. También dicen pampa, pámpano."
+          "Flor del plátano o del guineo. También dicen pampa, pámpano.",
+          "La extremidad en forma de borla que tiene el racimo de plátanos o guineos. También pámpano.",
+          "Flor del guineo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Tallo del racimo de plátanos o guineos.",
+      "consolidated_definition": "Tallo del racimo de plátanos o guineos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -93,12 +101,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "En las peleas de gallos, concha, caída del gallo.",
+      "consolidated_definition": "En las peleas de gallos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -127,9 +138,9 @@
     }
   },
   "es_definitions": [
-    "La extremidad en forma de borla que tiene el racimo de plátanos o guineos.",
-    "Tallo del racimo de plátanos o guineos.",
-    "En las peleas de gallos, concha, caída del gallo."
+    "Flor del guineo",
+    "Tallo del racimo de plátanos o guineos",
+    "En las peleas de gallos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

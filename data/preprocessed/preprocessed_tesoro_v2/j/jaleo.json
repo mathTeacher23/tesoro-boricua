@@ -3,12 +3,15 @@
   "term": "jaleo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sensación que algunas personas sienten por la mañana en el estómago y que desaparece después de haber tomado un poco de café.",
+      "consolidated_definition": "Malestar en el estómago, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11414517683699268,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.4863",
+        "semantic_similarity_score": 0.4863,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,36 +26,36 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "SANTIAGO,",
-            "year": "1974"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
+            "source": "SANTIAGO,",
+            "year": "1974"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -68,19 +71,27 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Malestar en el estómago.",
           "Malestar en el estómago.",
-          "Sensación que algunas personas sienten por la mañana en el estómago y que desaparece después de haber tomado un poco de café."
+          "Malestar en el estómago.",
+          "Sensación que algunas personas sienten por la mañana en el estómago y que desaparece después de haber tomado un poco de café.",
+          "Perturbación estomacal o intestinal.",
+          "Malestar de estómago.",
+          "Mal. Malestar.",
+          "Cierta sensación de malestar. Sensación de desmayo en la boca del estómago.",
+          "Malestar estomacal o intestinal, generalmente acompañado de náuseas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Coito.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Coito",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -109,8 +120,8 @@
     }
   },
   "es_definitions": [
-    "Sensación que algunas personas sienten por la mañana en el estómago y que desaparece después de haber tomado un poco de café.",
-    "Coito."
+    "Malestar en el estómago, relacionado con un grupo",
+    "Coito"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

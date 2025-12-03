@@ -3,12 +3,15 @@
   "term": "junk bond",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bonos o acciones que han perdido valor.",
+      "consolidated_definition": "Bonos o acciones que han perdido valor",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6164",
+        "semantic_similarity_score": 0.6164,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -37,13 +40,13 @@
         "related_words": [],
         "reference_definitions": [
           "Bonos o acciones que han perdido valor.",
-          "Inversión arriesgada, bono chatarra. Bono que paga un tipo de interés muy alto porque tiene mucho riesgo y ha perdido valor en el mercado. Anglicismo ..."
+          "Inversión arriesgada, bono chatarra. Bono que paga un tipo de interés muy alto porque tiene mucho riesgo y ha perdido valor en el mercado. Anglicismo crudo, frecuente. Si continúa la tendencia de seguir tomando prestado al Banco Gubernamental de Fomento para cuadrar el presupuesto, los bonos se van a reducir a junk bonds , que sería detrimental para la Isla"
         ]
       }
     }
   },
   "es_definitions": [
-    "Bonos o acciones que han perdido valor."
+    "Bonos o acciones que han perdido valor"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "pichipén",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Madera muy usada en carpintería.",
+      "consolidated_definition": "Madera de inferior calidad",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13038282855356026,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5551",
+        "semantic_similarity_score": 0.5551,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
-          },
-          {
             "source": "BENNETT,",
             "year": "1972"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "PÉREZ SALA,",
+            "year": "1968"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Madera de inferior calidad.",
           "Madera muy usada en carpintería.",
-          "Madera de pino resinosa."
+          "Madera de pino resinosa.",
+          "Madera de inferior calidad. Madera de una variedad del árbol de pino. Anglicismo adaptado, frecuente. Un buen día llegó y se apoderó de la covacha de cartón y tablas de pichipén que mis amigos y yo habíamos construido en un solar baldío donde jugábamos"
         ]
       }
     }
   },
   "es_definitions": [
-    "Madera muy usada en carpintería."
+    "Madera de inferior calidad"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

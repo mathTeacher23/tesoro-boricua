@@ -3,12 +3,15 @@
   "term": "gallareta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ave de hasta 38 cm de longitud, que presenta coloración general gris pizarra oscuro y tiene pico blanco, similar al de la gallina, y patas con dedos unidos por membranas de color olivo.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03324571361931418,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4025",
+        "semantic_similarity_score": 0.4025,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -20,6 +23,14 @@
           "FAUNA. ANIMALES SILVESTRES."
         ],
         "sources": [
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
           {
             "source": "MALARET,",
             "year": "1937"
@@ -33,16 +44,8 @@
             "year": "1984"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -56,15 +59,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Pato. Llagareta.",
+          "vulg. Pato. Llagareta.",
           "Hay metátesis de diversos tipos que alternan en esta palabra, como yagareta.",
-          "Variedad de pato salvaje que habita en las marismas salobres; también en las lagunas rodeadas de manglares. Su cabeza y partes interiores son de color..."
+          "Variedad de pato salvaje que habita en las marismas salobres; también en las lagunas rodeadas de manglares. Su cabeza y partes interiores son de color violeta; el lomo verde bronceado, el pico rojo con la punta amarilla, el pecho azul celeste y las patas amarillas. También dicen gallareta inglesa, gallareta azul y gallina de agua. Hay otras variedades: gallareta de pico colorao, también dicen gallinaza y gallipato. De pico blanco, la del plumaje color gris pizarra.",
+          "Fulica caribea. Ave acuática de graznido como carcajada, tujuy, de color negro y cresta roja.",
+          "Gallareta, cierta ave.",
+          "Ave de hasta 38 cm de longitud, que presenta coloración general gris pizarra oscuro y tiene pico blanco, similar al de la gallina, y patas con dedos unidos por membranas de color olivo. ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ave de hasta 38 cm de longitud, que presenta coloración general gris pizarra oscuro y tiene pico blanco, similar al de la gallina, y patas con dedos unidos por membranas de color olivo."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

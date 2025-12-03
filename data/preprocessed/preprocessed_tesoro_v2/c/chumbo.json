@@ -3,12 +3,15 @@
   "term": "chumbo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El plátano vulgar y corriente recibe numerosos nombres [...] El oeste ofrece chumbo, en la parte del litoral, desde Isabela y Arecibo hasta San Sebastián.",
+      "consolidated_definition": "El plátano vulgar y corriente recibe numerosos nombres",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11434190314884815,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.5667",
+        "semantic_similarity_score": 0.5667,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,24 +24,28 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "SOLER,",
             "year": "1973"
           },
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
+            "source": "VAQUERO,",
+            "year": "1995"
           },
           {
             "source": "VICENTE MAURA,",
@@ -47,10 +54,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
           }
         ],
         "years": [
@@ -66,15 +69,21 @@
         "origin": "Africanismo",
         "related_words": [],
         "reference_definitions": [
-          "El plátano vulgar y corriente recibe numerosos nombres [...] El oeste ofrece chumbo, en la parte del litoral, desde Isabela y Arecibo hasta San Sebast...",
-          "Son abundantes las denominaciones de carácter africano aplicadas a los plátanos: [...] chumbo.",
-          "Clase de plátano o guineo que se come cocido."
+          "El plátano vulgar y corriente recibe numerosos nombres El oeste ofrece chumbo, en la parte del litoral, desde Isabela y Arecibo hasta San Sebastián.",
+          "Son abundantes las denominaciones de carácter africano aplicadas a los plátanos: chumbo.",
+          "Clase de plátano o guineo que se come cocido.",
+          "Un plátano de tres filos. También bomba.",
+          "Variedad de guineo. También chamaluco.",
+          "Uno de los nombres vulgares del plátano.",
+          "Variedad de guineo que tiene la punta muy roma. Piche.",
+          "Variedad de plátano.",
+          "Variedad de guineo."
         ]
       }
     }
   },
   "es_definitions": [
-    "El plátano vulgar y corriente recibe numerosos nombres [...] El oeste ofrece chumbo, en la parte del litoral, desde Isabela y Arecibo hasta San Sebastián."
+    "El plátano vulgar y corriente recibe numerosos nombres"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

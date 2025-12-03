@@ -3,12 +3,15 @@
   "term": "maloja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta de maíz que solo sirve para pasto del ganado.",
+      "consolidated_definition": ". Malojo. Ac.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0196078431372549,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4467",
+        "semantic_similarity_score": 0.4467,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,19 +46,22 @@
           "malojal"
         ],
         "reference_definitions": [
-          "(T. en Bol., Cuba y Méx.).  Malojo. Ac.",
+          ". Malojo. Ac.",
           "Nombre que algunos dan a la yerba malojilla.",
           "Planta de maíz que solo sirve para pasto del ganado."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Voz usada por drogadictos.",
+      "consolidated_definition": "Voz usada por drogadictos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4666666666666666,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6839",
+        "semantic_similarity_score": 0.6839,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -68,16 +74,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -88,7 +94,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Voz usada por drogadictos.  Marihuana.",
+          "Voz usada por drogadictos. Marihuana.",
           "Marihuana.",
           "Marihuana."
         ]
@@ -96,8 +102,8 @@
     }
   },
   "es_definitions": [
-    "Planta de maíz que solo sirve para pasto del ganado.",
-    "Voz usada por drogadictos."
+    ". Malojo. Ac.",
+    "Voz usada por drogadictos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

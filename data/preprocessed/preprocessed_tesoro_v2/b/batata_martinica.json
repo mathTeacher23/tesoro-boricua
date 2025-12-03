@@ -3,12 +3,15 @@
   "term": "batata martinica",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de batata de forma redonda y amarilla por dentro.",
+      "consolidated_definition": "Es amarilla por dentro y por fuera redonda",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23076923076923078,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7885",
+        "semantic_similarity_score": 0.7885,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Variedad de batata de forma redonda y amarilla por dentro."
+    "Es amarilla por dentro y por fuera redonda"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

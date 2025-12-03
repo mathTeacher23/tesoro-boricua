@@ -3,12 +3,15 @@
   "term": "estragamiento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hambre grande.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Hambre grande",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5486",
+        "semantic_similarity_score": 0.5486,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -38,13 +41,14 @@
         "reference_definitions": [
           "Hambre grande.",
           "Glotonería.",
-          "Hambre grande."
+          "Hambre grande.",
+          "Glotonería."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hambre grande."
+    "Hambre grande"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

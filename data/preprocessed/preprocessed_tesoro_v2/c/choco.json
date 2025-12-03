@@ -3,12 +3,15 @@
   "term": "choco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El plátano común y corriente recibe numerosos nombres [...] choco, en Naranjito.",
+      "consolidated_definition": "El plátano común y corriente recibe numerosos nombres",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09047619047619049,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6373",
+        "semantic_similarity_score": 0.6373,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -41,7 +44,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El plátano común y corriente recibe numerosos nombres [...] choco, en Naranjito.",
+          "El plátano común y corriente recibe numerosos nombres choco, en Naranjito.",
           "En Naranjito, plátano.",
           "Variedad de plátano."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "El plátano común y corriente recibe numerosos nombres [...] choco, en Naranjito."
+    "El plátano común y corriente recibe numerosos nombres"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

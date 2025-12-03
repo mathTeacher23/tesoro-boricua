@@ -3,12 +3,15 @@
   "term": "cáncer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Anillo de matrimonio, especialmente el del hombre.",
+      "consolidated_definition": "Anhelo de matrimonio",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8183",
+        "semantic_similarity_score": 0.8183,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -44,12 +47,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cigarrillo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Cigarrillo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -77,12 +83,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Persona que come mucho.",
+      "consolidated_definition": "Persona que come mucho",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -111,9 +120,9 @@
     }
   },
   "es_definitions": [
-    "Anillo de matrimonio, especialmente el del hombre.",
-    "Cigarrillo.",
-    "Persona que come mucho."
+    "Anhelo de matrimonio",
+    "Cigarrillo",
+    "Persona que come mucho"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

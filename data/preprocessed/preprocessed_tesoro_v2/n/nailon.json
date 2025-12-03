@@ -3,12 +3,15 @@
   "term": "nailon",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fibra sintética.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Fibra sintética",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05084745762711865,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3091",
+        "semantic_similarity_score": 0.3091,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -39,13 +42,13 @@
         "related_words": [],
         "reference_definitions": [
           "Fibra sintética. “Trajes confeccionados de tafeta y encaje nilón.” También nilón.",
-          "text. Material polimérico. Anglicismo adaptado, usual. DRAE 2001, del inglés. Véase nylon.\nAmérica se quita el uniforme de nailon que Don Irving les h..."
+          "text. Material polimérico. Anglicismo adaptado, usual. DRAE 2001, del inglés. Véase nylon. América se quita el uniforme de nailon que Don Irving les hace usar. Es verde, con un delantalcito blanco, también de nailon . En la humedad del verano, el uniforme se siente como la envoltura de una salchicha, apretada y pegajosa"
         ]
       }
     }
   },
   "es_definitions": [
-    "Fibra sintética."
+    "Fibra sintética"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

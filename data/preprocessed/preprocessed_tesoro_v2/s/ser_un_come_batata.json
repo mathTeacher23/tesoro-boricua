@@ -3,12 +3,15 @@
   "term": "ser un come batata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser alguien una persona sin prestigio y sin preparación alguna.",
+      "consolidated_definition": "Equivale a persona sin prestigio o preparación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23076923076923078,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8539",
+        "semantic_similarity_score": 0.8539,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "FERNÁNDEZ,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FERNÁNDEZ,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Ser alguien una persona sin prestigio y sin preparación alguna."
+    "Equivale a persona sin prestigio o preparación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

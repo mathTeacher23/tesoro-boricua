@@ -3,12 +3,15 @@
   "term": "tirar para arriba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fallarle a alguien.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Decir mentiras",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3843",
+        "semantic_similarity_score": 0.3843,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Fallarle a alguien."
+    "Decir mentiras"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

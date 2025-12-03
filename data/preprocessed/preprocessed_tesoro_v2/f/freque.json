@@ -3,12 +3,15 @@
   "term": "freque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de algo que está bien raro.",
+      "consolidated_definition": "Se dice de algo que está bien raro",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07142857142857142,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5551",
+        "semantic_similarity_score": 0.5551,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Se dice de algo que está bien raro."
+    "Se dice de algo que está bien raro"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

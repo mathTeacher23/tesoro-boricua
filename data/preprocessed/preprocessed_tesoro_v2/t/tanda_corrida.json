@@ -3,12 +3,15 @@
   "term": "tanda corrida",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el cine, sesión continua.",
+      "consolidated_definition": "Sesión continua",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.4,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8511",
+        "semantic_similarity_score": 0.8511,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "En el cine, sesión continua."
+    "Sesión continua"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

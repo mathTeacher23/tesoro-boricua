@@ -3,12 +3,15 @@
   "term": "pistero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grifo que controla la salida del agua de una manguera.",
+      "consolidated_definition": "Grifo que controla la salida del agua de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.22736263736263734,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5855",
+        "semantic_similarity_score": 0.5855,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -38,13 +41,15 @@
         "reference_definitions": [
           "Grifo que controla la salida del agua de una manguera.",
           "Artefacto de uso similar.",
-          "Palillo o cañuto de lavativa."
+          "Palillo o cañuto de lavativa.",
+          "Grifo que controla la salida de agua de una manguera.",
+          "Palillo o canuto de lavativa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Grifo que controla la salida del agua de una manguera."
+    "Grifo que controla la salida del agua de"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

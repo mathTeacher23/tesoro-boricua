@@ -3,12 +3,15 @@
   "term": "yerbal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio poblado de hierba.",
+      "consolidated_definition": ". Herbazal.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.047619047619047616,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4145",
+        "semantic_similarity_score": 0.4145,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Chile, Col. y Méx.).  Herbazal.",
+          ". Herbazal.",
           "Herbazal.",
           "Sitio poblado de hierba."
         ]
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Sitio poblado de hierba."
+    ". Herbazal."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

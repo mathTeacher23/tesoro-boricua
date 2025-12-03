@@ -3,12 +3,15 @@
   "term": "ajumado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bajo efectos del alcohol.",
+      "consolidated_definition": "Borracho",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10555555555555556,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5539",
+        "semantic_similarity_score": 0.5539,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,6 +25,10 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
@@ -30,20 +37,16 @@
             "year": "1979"
           },
           {
+            "source": "VAQUERO,",
+            "year": "1995"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
           }
         ],
         "years": [
@@ -60,13 +63,16 @@
         "reference_definitions": [
           "Borracho. Ebrio.",
           "Borracho.",
-          "Borracho, cha."
+          "Borracho, cha.",
+          "Bajo efectos del alcohol.",
+          "Ebrio.",
+          "Borracho. También borrachón."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bajo efectos del alcohol."
+    "Borracho"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

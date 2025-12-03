@@ -3,12 +3,15 @@
   "term": "cocotera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad epidémica que afecta a los gallos, causándoles la muerte.",
+      "consolidated_definition": "Bichera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17261904761904764,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.39",
+        "semantic_similarity_score": 0.39,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,20 +28,20 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -52,17 +55,21 @@
         "reference_definitions": [
           "Bichera.",
           "Bichera.",
-          "Enfermedad epidémica que afecta a los gallos, causándoles la muerte. Es posible que sea producida por una bacteria esférica (micrococo) cuyo nombre de..."
+          "Enfermedad epidémica que afecta a los gallos, causándoles la muerte. Es posible que sea producida por una bacteria esférica cuyo nombre deriva del latín coccum.",
+          "Enfermedad de las aves."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Relativo a la palma del coco.",
+      "consolidated_definition": "Úsase como adjetivo femenino, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.045454545454545456,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7289",
+        "semantic_similarity_score": 0.7289,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -74,12 +81,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -96,8 +103,8 @@
     }
   },
   "es_definitions": [
-    "Enfermedad epidémica que afecta a los gallos, causándoles la muerte.",
-    "Relativo a la palma del coco."
+    "Bichera",
+    "Úsase como adjetivo femenino, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

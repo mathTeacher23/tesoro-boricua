@@ -3,12 +3,15 @@
   "term": "arrayado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de mar, comestible, de carne muy apreciada.",
+      "consolidated_definition": "Pez, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03103697312498003,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.2828",
+        "semantic_similarity_score": 0.2828,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,6 +26,14 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "ERDMAN,",
+            "year": "1974"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -31,20 +42,12 @@
             "year": "1948"
           },
           {
-            "source": "ERDMAN,",
-            "year": "1974"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -58,19 +61,25 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez. (Haemulon serratum, Poey; Neomenis synagrys, L). Stahl, Catalog, 77.",
+          "Pez. . Stahl, Catalog, 77.",
           "Pez de escamas listadas.",
-          "Pez de la familia Lutjanidae (pargos). Lutjanus cyanopterus. También llamado rayado (costa del sur) y manchego (costa norte)."
+          "Pez de la familia Lutjanidae . Lutjanus cyanopterus. También llamado rayado y manchego .",
+          "Pez de mar, comestible, de carne muy apreciada. Pertenece a la familia del pargo. Su cuerpo es elíptico, alargado y crece hasta 20 cm. Su cabeza sigue la línea del cuerpo, con una boca muy grande en proporción a su cuerpo. Su ojo es grande, rojo con centro negro. Su cola es vertical en forma de brocha. Su aleta dorsal va desde la mitad hasta la cola. Sus escamas son rojizas, amarillentas en el vientre y oscuras en el lomo. También manchego.",
+          "Pez.",
+          "Lutjanidae Lutjanus synagris."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cerdo negro de raza Hampshire con una raya blanca alrededor del pecho.",
+      "consolidated_definition": "Cerdo negro que tiene una raya blanca alrededor",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9446",
+        "semantic_similarity_score": 0.9446,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,12 +92,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -105,8 +114,8 @@
     }
   },
   "es_definitions": [
-    "Pez de mar, comestible, de carne muy apreciada.",
-    "Cerdo negro de raza Hampshire con una raya blanca alrededor del pecho."
+    "Pez, relacionado con una organización",
+    "Cerdo negro que tiene una raya blanca alrededor"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

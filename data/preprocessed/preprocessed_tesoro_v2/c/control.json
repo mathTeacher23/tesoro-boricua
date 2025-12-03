@@ -3,12 +3,15 @@
   "term": "control",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dispositivo que regula a distancia el funcionamiento de un aparato, especialmente de un televisor u otro electrodoméstico similar.",
+      "consolidated_definition": "Serie de botones que se oprimen para poner, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06896551724137931,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3214",
+        "semantic_similarity_score": 0.3214,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "GONZÁLEZ MUÑIZ,",
-            "year": "1988"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "GONZÁLEZ MUÑIZ,",
+            "year": "1988"
           }
         ],
         "years": [
@@ -44,12 +47,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Supremacía, dirección, dominio.",
+      "consolidated_definition": "Supremacía",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -72,14 +78,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Supremacía, dirección, dominio. Poder de dirigir, restringir o reglamentar. Término procedente del francés, cuyo étimo inmediato es del inglés. Usual...."
+          "Supremacía, dirección, dominio. Poder de dirigir, restringir o reglamentar. Término procedente del francés, cuyo étimo inmediato es del inglés. Usual. DRAE: desde 1984, del francés. Por otro lado, Puerto Rico tiene discreción y control para hacer determinaciones sobre las medidas de apertura que decida brindar a los empresarios dominicanos en la Isla , pero no tiene con- trol sobre los poderes inherentes de restricción a las exportaciones de Puerto Rico hacia la República Dominicana que habrán de ejercitarse cuando el interés de los empresarios dominicanos pueda verse afectado"
         ]
       }
     }
   },
   "es_definitions": [
-    "Dispositivo que regula a distancia el funcionamiento de un aparato, especialmente de un televisor u otro electrodoméstico similar.",
-    "Supremacía, dirección, dominio."
+    "Serie de botones que se oprimen para poner, relacionado con un mecanismo",
+    "Supremacía"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

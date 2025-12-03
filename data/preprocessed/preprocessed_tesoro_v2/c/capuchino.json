@@ -3,12 +3,15 @@
   "term": "capuchino",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de chiringa pequeña, toda de papel, con determinados dobleces.",
+      "consolidated_definition": "Especie de chiringa pequeña",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10675125313283207,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5419",
+        "semantic_similarity_score": 0.5419,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,6 +24,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -31,10 +38,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Especie de chiringa pequeña, que semeja un capucho. “Cuando a mi casa vienen —mis amiguitos... —a uno le doy el trompo —que más estimo; —aquel otro en...",
+          "Especie de chiringa pequeña, que semeja un capucho. “Cuando a mi casa vienen —mis amiguitos... —a uno le doy el trompo —que más estimo; —aquel otro encampana —mi capuchino.” Virgilio Dávila, Los amigos.",
           "Pequeña cometa de papel sin varillas.",
-          "Especie de chiringa pequeña, toda de papel, con determinados dobleces."
+          "Especie de chiringa pequeña, toda de papel, con determinados dobleces.",
+          "P. Rico y R. Dom. Cometa pequeña de papel y sin varillas. “Llover capuchinos, o capuchinos de bronce.”"
         ]
       }
     }
   },
   "es_definitions": [
-    "Especie de chiringa pequeña, toda de papel, con determinados dobleces."
+    "Especie de chiringa pequeña"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -801,9 +801,25 @@
           <div class="metadata-label">Consolidated</div>
           <div class="metadata-value">${data.could_not_consolidate ? '<span style="color: #f44336; font-weight: 600;">Failed</span>' : '<span style="color: #4caf50; font-weight: 600;">Success</span>'}</div>
         </div>`;
+
+        if (data.consolidation_reason) {
+          html += `<div class="metadata-item" style="grid-column: 1 / -1;">
+            <div class="metadata-label">Consolidation Reason</div>
+            <div class="metadata-value" style="color: #ff9800; font-size: 13px;">${escapeHtml(data.consolidation_reason)}</div>
+          </div>`;
+        }
+
         html += `<div class="metadata-item">
           <div class="metadata-label">Definitions Analyzed</div>
           <div class="metadata-value">${metadata.num_definitions_analyzed || 0}</div>
+        </div>`;
+        html += `<div class="metadata-item">
+          <div class="metadata-label">Cleaned Definitions</div>
+          <div class="metadata-value">${metadata.num_cleaned_definitions || 0}</div>
+        </div>`;
+        html += `<div class="metadata-item">
+          <div class="metadata-label">Cluster Count</div>
+          <div class="metadata-value">${metadata.cluster_count !== null && metadata.cluster_count !== undefined ? metadata.cluster_count : 'N/A'}</div>
         </div>`;
         html += `<div class="metadata-item">
           <div class="metadata-label">Stability</div>
@@ -832,6 +848,13 @@
           html += `<div class="metadata-item" style="grid-column: 1 / -1;">
             <div class="metadata-label">Sources</div>
             <div class="metadata-value">${sources.map(s => `${escapeHtml(s.source)} (${s.year})`).join(', ')}</div>
+          </div>`;
+        }
+
+        if (years.length > 0) {
+          html += `<div class="metadata-item" style="grid-column: 1 / -1;">
+            <div class="metadata-label">Years</div>
+            <div class="metadata-value">${years.join(', ')}</div>
           </div>`;
         }
 

@@ -3,12 +3,15 @@
   "term": "arrebato",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Efecto de la droga.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Borrachera",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4593",
+        "semantic_similarity_score": 0.4593,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -44,13 +47,14 @@
         "reference_definitions": [
           "Borrachera.",
           "Efecto de la droga.",
-          "Efecto de la droga."
+          "Efecto de la droga.",
+          "Borrachera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Efecto de la droga."
+    "Borrachera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

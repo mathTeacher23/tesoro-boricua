@@ -3,12 +3,15 @@
   "term": "federales",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Miembros o empleados del gobierno central de este país.",
+      "consolidated_definition": "m",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0784313725490196,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5283",
+        "semantic_similarity_score": 0.5283,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -41,14 +44,14 @@
           "federal"
         ],
         "reference_definitions": [
-          "m. pl. Oficial del Gobierno Central de Estados Unidos. Desvío semántico, usual. DRAE 2001: federalista, partidario del federalismo.\n“Hoy mismo estaban...",
+          "m. pl. Oficial del Gobierno Central de Estados Unidos. Desvío semántico, usual. DRAE 2001: federalista, partidario del federalismo. “Hoy mismo estaban los federales allí sacando más expedientes. No he sido entrevistado por los federales, pero he sido el enlace con los federales junto a otra de los abogados”, se limitó a testificar",
           "Miembros o empleados del gobierno central de este país."
         ]
       }
     }
   },
   "es_definitions": [
-    "Miembros o empleados del gobierno central de este país."
+    "m"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

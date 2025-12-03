@@ -3,12 +3,15 @@
   "term": "ababacharse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Avergonzarse, abochornarse.",
+      "consolidated_definition": "Avergonzarse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2333333333333333,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.8596",
+        "semantic_similarity_score": 0.8596,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,24 +25,24 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS, 1981B",
-            "year": ""
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS, 1981B",
+            "year": ""
           }
         ],
         "years": [
@@ -53,15 +56,17 @@
           "ababachado, da"
         ],
         "reference_definitions": [
-          "(general)  Avergonzarse, abochornarse.",
+          "Avergonzarse, abochornarse.",
           "Avergonzarse.",
-          "Avergonzarse. Abochornarse levemente."
+          "Avergonzarse. Abochornarse levemente.",
+          "Avergonzarse, abochornarse.",
+          "Avergonzarse."
         ]
       }
     }
   },
   "es_definitions": [
-    "Avergonzarse, abochornarse."
+    "Avergonzarse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

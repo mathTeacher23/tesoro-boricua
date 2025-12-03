@@ -3,12 +3,15 @@
   "term": "caona",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que se daba al oro puro entre los indios.",
+      "consolidated_definition": "Nombre que se daba al oro puro entre",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06818181818181818,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5605",
+        "semantic_similarity_score": 0.5605,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -45,13 +48,15 @@
         "reference_definitions": [
           "Nombre que se daba al oro puro entre los indios.",
           "Oro puro.",
-          "Oro bajo."
+          "Oro bajo.",
+          "Oro. También cauni, cacona.",
+          "Pepita de oro."
         ]
       }
     }
   },
   "es_definitions": [
-    "Nombre que se daba al oro puro entre los indios."
+    "Nombre que se daba al oro puro entre"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

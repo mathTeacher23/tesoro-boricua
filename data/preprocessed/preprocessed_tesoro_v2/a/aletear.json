@@ -3,12 +3,15 @@
   "term": "aletear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Emitir una expresión por despecho y como último recurso.",
+      "consolidated_definition": "Argumentar sin posibilidades de éxito",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2841269841269842,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6935",
+        "semantic_similarity_score": 0.6935,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,17 +44,21 @@
         "reference_definitions": [
           "Argumentar sin posibilidades de éxito.",
           "Emitir una expresión por despecho y como último recurso.",
-          "Argumentar alguien sin posibilidades de éxito."
+          "Argumentar alguien sin posibilidades de éxito.",
+          "Emitir alguien una expresión por despecho como último recurso."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Morirse alguien.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Morirse",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7091",
+        "semantic_similarity_score": 0.7091,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -65,12 +72,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -87,8 +94,8 @@
     }
   },
   "es_definitions": [
-    "Emitir una expresión por despecho y como último recurso.",
-    "Morirse alguien."
+    "Argumentar sin posibilidades de éxito",
+    "Morirse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "babosa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosa o asunto sin importancia.",
+      "consolidated_definition": "Conversación sin sentido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3904761904761904,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6903",
+        "semantic_similarity_score": 0.6903,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -54,7 +57,7 @@
     }
   },
   "es_definitions": [
-    "Cosa o asunto sin importancia."
+    "Conversación sin sentido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "peletaria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre oficial de la planta medicinal que en Ponce se conoce como alumbre o yerba lumbre.",
+      "consolidated_definition": "Piperácea medicinal",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06604387456488565,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.4986",
+        "semantic_similarity_score": 0.4986,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,8 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CARRILLO,",
+            "year": "1974"
+          },
+          {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
           },
           {
             "source": "DEL ROSARIO,",
@@ -35,19 +42,15 @@
             "year": "1965"
           },
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "LAUREANO ORTEGA,",
             "year": "1969"
           },
           {
-            "source": "MAULEÓN,",
-            "year": "1974"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "CARRILLO,",
+            "source": "MAULEÓN,",
             "year": "1974"
           },
           {
@@ -71,15 +74,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Piperácea medicinal. (Peperomia pellucida). Otero, 293.",
+          "Piperácea medicinal. . Otero, 293.",
           "Planta pequeña cuyas hojas y tallo se usan para hacer tisanas. Paletaria, alumbre.",
-          "Nombre oficial de la planta medicinal que en Ponce se conoce como alumbre o yerba lumbre. Existen las variantes vulgares parietaria, prenetaria y plen..."
+          "Nombre oficial de la planta medicinal que en Ponce se conoce como alumbre o yerba lumbre. Existen las variantes vulgares parietaria, prenetaria y plenetaria . También se conoce esta planta como frescura y coclaria.",
+          "Planta medicinal o para otros usos. También alumbre.",
+          "Paletaria. También prenetaria, plenetaria, penetaria, penetraria, praletaria.",
+          "Piperaceas. Piperonia pellucida. “Pa guarapiyo.”",
+          "Planta medicinal para el mal de orín.",
+          "Alumbre, planta medicinal y refrescante. También dicen parietaria, frescura, paletaria.",
+          "Planta medicinal de empleo astringente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Nombre oficial de la planta medicinal que en Ponce se conoce como alumbre o yerba lumbre."
+    "Piperácea medicinal"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

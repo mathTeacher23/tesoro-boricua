@@ -3,12 +3,15 @@
   "term": "curar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la industria tabacalera, poner a secar las hojas de tabaco.",
+      "consolidated_definition": "poner a secar las hojas algo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5881895881895881,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7818",
+        "semantic_similarity_score": 0.7818,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -50,7 +53,7 @@
     }
   },
   "es_definitions": [
-    "En la industria tabacalera, poner a secar las hojas de tabaco."
+    "poner a secar las hojas algo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

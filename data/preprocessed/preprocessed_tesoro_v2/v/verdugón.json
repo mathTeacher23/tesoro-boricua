@@ -3,12 +3,15 @@
   "term": "verdugón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inflamación que causa un golpe en la piel.",
+      "consolidated_definition": "Inflamación que causa un golpe en la piel",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07936507936507936,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.2453",
+        "semantic_similarity_score": 0.2453,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,13 +45,14 @@
         "reference_definitions": [
           "Inflamación que causa un golpe en la piel.",
           "Marca que deja en la piel un latigazo.",
-          "Nervio de resistencia, grueso, en una estructura."
+          "Nervio de resistencia, grueso, en una estructura.",
+          "Moratón."
         ]
       }
     }
   },
   "es_definitions": [
-    "Inflamación que causa un golpe en la piel."
+    "Inflamación que causa un golpe en la piel"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

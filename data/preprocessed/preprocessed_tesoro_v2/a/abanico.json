@@ -3,12 +3,15 @@
   "term": "abanico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dispositivo en forma de hélice del que disponen los automóviles para evitar el recalentamiento del motor.",
+      "consolidated_definition": "Ventilador eléctrico, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.043478260869565216,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4633",
+        "semantic_similarity_score": 0.4633,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,12 +50,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "En la industria del azúcar, aparato para coger las hojas y las yerbas.",
+      "consolidated_definition": "En la industria del azúcar, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,12 +88,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Nombre con el que se conoce el pez vela en Aguadilla.",
+      "consolidated_definition": "Nombre con el que se conoce el pez",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.26666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5816",
+        "semantic_similarity_score": 0.5816,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -121,12 +130,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "En el beisbol, espacio semicircular comprendido entre el cuadro interior del terreno de juego y la cerca.",
+      "consolidated_definition": "En el beisbol",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -155,10 +167,10 @@
     }
   },
   "es_definitions": [
-    "Dispositivo en forma de hélice del que disponen los automóviles para evitar el recalentamiento del motor.",
-    "En la industria del azúcar, aparato para coger las hojas y las yerbas.",
-    "Nombre con el que se conoce el pez vela en Aguadilla.",
-    "En el beisbol, espacio semicircular comprendido entre el cuadro interior del terreno de juego y la cerca."
+    "Ventilador eléctrico, relacionado con un mecanismo",
+    "En la industria del azúcar, relacionado con un mecanismo",
+    "Nombre con el que se conoce el pez",
+    "En el beisbol"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

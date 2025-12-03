@@ -3,12 +3,15 @@
   "term": "juma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La borrachera se llama rasca, tuesta, juma o jumera.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.32239103302611366,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.6763",
+        "semantic_similarity_score": 0.6763,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,8 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
@@ -33,20 +40,16 @@
             "year": "1979"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VAQUERO,",
             "year": "1995"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -60,7 +63,12 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (T. en Am. Cen., Bol., Col., Cuba, Ecuad. y Méx.).  Jumera, borrachera. “Oye, ¿tú bebes? —Como hasta coger una juma, nunca.”  Timothée, Cuentos...",
+          "vulg. . Jumera, borrachera. “Oye, ¿tú bebes? —Como hasta coger una juma, nunca.” Timothée, Cuentos populares, 1917, p. 106. .",
+          "Borrachera.",
+          "Borrachera.",
+          "Borrachera. Estar en estado de embriaguez.",
+          "Borrachera. Turca.",
+          "La borrachera se llama rasca, tuesta, juma o jumera.",
           "Borrachera.",
           "Borrachera."
         ]
@@ -68,7 +76,7 @@
     }
   },
   "es_definitions": [
-    "La borrachera se llama rasca, tuesta, juma o jumera."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

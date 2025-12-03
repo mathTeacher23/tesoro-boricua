@@ -3,12 +3,15 @@
   "term": "pos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pues.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Pues",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09230769230769231,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.445",
+        "semantic_similarity_score": 0.445,
+        "cluster_count": null,
         "grammar": [
           "conjunción"
         ],
@@ -35,14 +38,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pues. “Pos bueno, con esos cheles siño Ricardo nos alquila.” Morales Cabrera, Cuentos populares, 1914, p. 7. (Pos que, igual a pues que, está en el Fu...",
-          "Pues. “No parecen gente e bochinche,… pos ni jablan”, “Güeno…pos…si yo y tigo”, “pos mire usté”, Meléndez Muñoz, alternante en el mismo texto de este ..."
+          "Pues. “Pos bueno, con esos cheles siño Ricardo nos alquila.” Morales Cabrera, Cuentos populares, 1914, p. 7. .",
+          "Pues. “No parecen gente e bochinche,… pos ni jablan”, “Güeno…pos…si yo y tigo”, “pos mire usté”, Meléndez Muñoz, alternante en el mismo texto de este autor la forma pos con la forma normal pues: “¡pues na, muchachas, la gran gente!”."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pues."
+    "Pues"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

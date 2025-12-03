@@ -3,12 +3,15 @@
   "term": "mangoero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio lleno de mangós.",
+      "consolidated_definition": "Vendedor de mangós",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.4,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7527",
+        "semantic_similarity_score": 0.7527,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -41,7 +44,7 @@
     }
   },
   "es_definitions": [
-    "Sitio lleno de mangós."
+    "Vendedor de mangós"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

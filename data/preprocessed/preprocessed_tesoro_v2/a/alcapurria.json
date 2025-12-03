@@ -3,12 +3,15 @@
   "term": "alcapurria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Frita de sartén que se hace con yautía, yuca o plátano rallado en forma de bollo relleno de carne de cerdo molida, luego envuelta en hojas de plátano y asada.",
+      "consolidated_definition": "Fritura que se hace con yautía rallada o",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.35998406796517524,
+        "num_cleaned_definitions": 10,
+        "definition_stability": "Stability: 0.8",
+        "semantic_similarity_score": 0.8,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,18 +24,6 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "BENNETT,",
             "year": "1972"
           },
@@ -41,24 +32,36 @@
             "year": "1973"
           },
           {
-            "source": "SANTIAGO,",
-            "year": "1974"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
+          },
+          {
+            "source": "SANTIAGO,",
+            "year": "1974"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -80,13 +83,20 @@
         "reference_definitions": [
           "Fritura que se hace con yautía rallada o plátano molido y carne de cerdo.",
           "Es plato de tradición puertorriqueña la alcapurria, de cerdo, plátano y yautía.",
-          "(general) Frita boricua hecha de plátano y yautía o yuca rallada y rellena con carne."
+          "Frita boricua hecha de plátano y yautía o yuca rallada y rellena con carne.",
+          "Frita hecha de plátano y yautía o yuca rallada y rellena con carne.",
+          "Frita boricua hecha de plátano, yautía o yuca rallada y rellena con carne.",
+          "Frita hecha de plátano y yautía o yuca rallada y rellena con carne.",
+          "Frita de sartén que se hace con yautía, yuca o plátano rallado en forma de bollo relleno de carne de cerdo molida, luego envuelta en hojas de plátano y asada. También sin envolver y frita.",
+          "Frita hecha de plátano y yautía, o yuca rallada, y rellena con carne.",
+          "Fritura en forma de croqueta grande, hecha de yautía o plátano rallados, rellena de carne.",
+          "Fritura hecha de masa de guineo, plátano verde, yautía y yuca, rellena con picadillo de carne de res o de cerdo, pescado o mariscos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Frita de sartén que se hace con yautía, yuca o plátano rallado en forma de bollo relleno de carne de cerdo molida, luego envuelta en hojas de plátano y asada."
+    "Fritura que se hace con yautía rallada o"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

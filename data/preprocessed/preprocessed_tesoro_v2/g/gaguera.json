@@ -3,12 +3,15 @@
   "term": "gaguera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tartamudez.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Tartamudez.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5714285714285714,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.9821",
+        "semantic_similarity_score": 0.9821,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           }
         ],
         "years": [
@@ -50,7 +53,8 @@
           "gagueo"
         ],
         "reference_definitions": [
-          "(T. en Col., Cuba y Perú).  Tartamudez.",
+          ". Tartamudez.",
+          "Tartamudez.",
           "Tartamudez.",
           "Tartamudez."
         ]
@@ -58,7 +62,7 @@
     }
   },
   "es_definitions": [
-    "Tartamudez."
+    ". Tartamudez."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

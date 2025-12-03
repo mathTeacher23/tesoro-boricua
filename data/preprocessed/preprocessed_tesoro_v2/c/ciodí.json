@@ -3,12 +3,15 @@
   "term": "ciodí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Envío de una mercancía para pagarse al recibo de la misma.",
+      "consolidated_definition": "Envío de una mercancía para pagarse al recibo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17857142857142858,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6679",
+        "semantic_similarity_score": 0.6679,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "BENNETT,",
             "year": "1972"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "(general)  Envío de una mercancía para pagarse al recibo de la misma. En España: contra rembolso. Ciodí se usa o se ha usado en Cuba también.",
+          "Envío de una mercancía para pagarse al recibo de la misma. En España: contra rembolso. Ciodí se usa o se ha usado en Cuba también.",
           "Se dice de la mercancía que se paga al ser recibida."
         ]
       }
     }
   },
   "es_definitions": [
-    "Envío de una mercancía para pagarse al recibo de la misma."
+    "Envío de una mercancía para pagarse al recibo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

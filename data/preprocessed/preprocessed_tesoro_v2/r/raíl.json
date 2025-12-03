@@ -3,12 +3,15 @@
   "term": "raíl",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vía del tren.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Riel",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12984119642306505,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4319",
+        "semantic_similarity_score": 0.4319,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GONZÁLEZ MUÑIZ,",
             "year": "1988"
           },
           {
+            "source": "HUYKE,",
+            "year": "1973"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Riel.",
           "Vía de tren. Riel.",
-          "Vía del tren."
+          "Vía del tren.",
+          "Carril, vía. Línea de hierro de la vía férrea sobre la que corre el tren. Anglicismo adaptado, poco frecuente. DRAE 2001, del inglés. En el mundo del raíl su religión es la puntualidad pues los trenes tienen que circular por la red con el rigor de los astros que gravitan en el cielo"
         ]
       }
     }
   },
   "es_definitions": [
-    "Vía del tren."
+    "Riel"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

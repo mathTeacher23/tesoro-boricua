@@ -3,12 +3,15 @@
   "term": "atizonar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Avivar el fuego arrimando los tizones.",
+      "consolidated_definition": "Atizar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17030381454294496,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6844",
+        "semantic_similarity_score": 0.6844,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,6 +27,10 @@
             "year": "1965"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
@@ -34,10 +41,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -50,15 +53,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Atizar, avivar el fuego.",
-          "Alimentar el fuego.  Empujar la leña a la que se le ha quemado ya la parte que estaba en contacto con la candela.",
-          "Avivar el fuego arrimando los tizones."
+          "Atizar, avivar el fuego.",
+          "Alimentar el fuego. Empujar la leña a la que se le ha quemado ya la parte que estaba en contacto con la candela.",
+          "Avivar el fuego arrimando los tizones.",
+          "Alimentar el fuego. Atizar.",
+          "Avivar alguien el fuego, atizar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Avivar el fuego arrimando los tizones."
+    "Atizar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

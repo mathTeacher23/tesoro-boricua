@@ -3,12 +3,15 @@
   "term": "gaviota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer joven o adolescente, aparentemente tímida, pero enamoradiza.",
+      "consolidated_definition": "Mujer joven o adolescente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5555555555555556,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.814",
+        "semantic_similarity_score": 0.814,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -44,12 +47,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Hombre homosexual.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Homosexual",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7392",
+        "semantic_similarity_score": 0.7392,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -84,8 +90,8 @@
     }
   },
   "es_definitions": [
-    "Mujer joven o adolescente, aparentemente tímida, pero enamoradiza.",
-    "Hombre homosexual."
+    "Mujer joven o adolescente",
+    "Homosexual"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

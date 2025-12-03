@@ -3,12 +3,15 @@
   "term": "yaucano, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De Yauco.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "De Yauco",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09090909090909091,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6693",
+        "semantic_similarity_score": 0.6693,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -37,14 +40,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  De Yauco.",
-          "(Der. de Yauco).  Natural de Yauco; perteneciente a esta ciudad."
+          "De Yauco.",
+          ". Natural de Yauco; perteneciente a esta ciudad."
         ]
       }
     }
   },
   "es_definitions": [
-    "De Yauco."
+    "De Yauco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

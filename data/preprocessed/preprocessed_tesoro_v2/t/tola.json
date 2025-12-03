@@ -3,12 +3,15 @@
   "term": "tola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plancha fina y ancha de acero o de otro metal.",
+      "consolidated_definition": "Hoja de hierro fina",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.25992063492063494,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.626",
+        "semantic_similarity_score": 0.626,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "FIGUEROA,",
+            "year": "1965"
           },
           {
             "source": "GONZÁLEZ MUÑIZ,",
             "year": "1988"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,13 +53,14 @@
         "reference_definitions": [
           "Hoja de hierro fina.",
           "Plancha fina y ancha de acero o de otro metal.",
-          "Pared de hierro en el corral."
+          "Pared de hierro en el corral.",
+          "Plancha fina y ancha de acero o de otro metal."
         ]
       }
     }
   },
   "es_definitions": [
-    "Plancha fina y ancha de acero o de otro metal."
+    "Hoja de hierro fina"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

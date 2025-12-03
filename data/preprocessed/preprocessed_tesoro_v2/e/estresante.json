@@ -3,12 +3,15 @@
   "term": "estresante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "psic.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "psic",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -34,13 +37,13 @@
           "estrésico, ca"
         ],
         "reference_definitions": [
-          "psic. Que produce estrés o está sujeto a estrés físico o psicológico. Usual. DRAE 2001. También estrésico.\nPor otro lado, la experta aclara que, a vec..."
+          "psic. Que produce estrés o está sujeto a estrés físico o psicológico. Usual. DRAE 2001. También estrésico. Por otro lado, la experta aclara que, a veces, “los psiquiatras utilizan el término ‘trastorno de ajuste’ para describir la discapacidad de un individuo para enfrentar eficazmente una situación estresante”"
         ]
       }
     }
   },
   "es_definitions": [
-    "psic."
+    "psic"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

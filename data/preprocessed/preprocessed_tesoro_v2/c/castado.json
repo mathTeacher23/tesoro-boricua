@@ -3,12 +3,15 @@
   "term": "castado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Calificativo que se aplica al hombre que muestra firmeza y valentía.",
+      "consolidated_definition": "Valiente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03809942110434721,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.5329",
+        "semantic_similarity_score": 0.5329,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -25,6 +28,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -33,20 +40,16 @@
             "year": "1948"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "year": "1972"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -62,13 +65,18 @@
         "reference_definitions": [
           "Valiente. “Al pollo más castado, mi canagüey, —jugaré lo que valga mi mejor buey.” Virgilio Dávila, Aromas del terruño, 1916, p. 27.",
           "Calificativo que se aplica al hombre que muestra firmeza y valentía.",
-          "Valiente, temerario, dicho de los gallos de riña."
+          "Valiente, temerario, dicho de los gallos de riña.",
+          "Valiente.",
+          "Gallo castao, gallo de casta, cría de raza, padrón de gallinas.",
+          "Gallo de calidad y ascendencia de raza. También gallo valiente de buenas cualidades para el combate, aunque no todos sirven para castar, para sacar cría.",
+          "Referido a un gallo de pelea, valiente, temerario.",
+          "Referido a persona, valiente, firme."
         ]
       }
     }
   },
   "es_definitions": [
-    "Calificativo que se aplica al hombre que muestra firmeza y valentía."
+    "Valiente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

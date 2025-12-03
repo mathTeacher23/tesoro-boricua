@@ -3,12 +3,15 @@
   "term": "placer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Semillero natural de arbolillos de café, que crece bajo los arbustos, de los granos que se han desprendido del cafeto.",
+      "consolidated_definition": "Semillero natural de arbolillos de café",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10765488991295442,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6387",
+        "semantic_similarity_score": 0.6387,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -42,13 +45,13 @@
         "reference_definitions": [
           "Semillero natural de arbolillos de café, que crece bajo los arbustos, de los granos que se han desprendido del cafeto.",
           "Semilla de café que crece voluntaria, sin sembrarse.",
-          "Se llama placer (pl. placeres) al desarrollo y crecimiento incipiente de semillas de café al pie de los árboles de este fruto."
+          "Se llama placer al desarrollo y crecimiento incipiente de semillas de café al pie de los árboles de este fruto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Semillero natural de arbolillos de café, que crece bajo los arbustos, de los granos que se han desprendido del cafeto."
+    "Semillero natural de arbolillos de café"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

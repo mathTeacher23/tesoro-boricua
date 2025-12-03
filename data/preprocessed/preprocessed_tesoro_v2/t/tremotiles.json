@@ -3,12 +3,15 @@
   "term": "tremotiles",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de bártulos que se acumulan en la casa.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05803124078986147,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4125",
+        "semantic_similarity_score": 0.4125,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "FIGUEROA,",
             "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -44,15 +47,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (T. en Col.).  Trastos, trebejos.",
-          "Conjunto de bártulos que se acumulan en la casa. Existen las variantes trimotriles y tremotetes. Malaret indica que se usa también en Colombia. Vocabu...",
+          "vulg. . Trastos, trebejos.",
+          "Conjunto de bártulos que se acumulan en la casa. Existen las variantes trimotriles y tremotetes. Malaret indica que se usa también en Colombia. Vocabulario.",
           "Voz usada en otros países de Hispanoamérica. Trastos. Bultos. Equipaje."
         ]
       }
     }
   },
   "es_definitions": [
-    "Conjunto de bártulos que se acumulan en la casa."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

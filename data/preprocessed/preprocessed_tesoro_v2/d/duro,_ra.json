@@ -3,12 +3,15 @@
   "term": "duro, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, tacaña, que escatima excesivamente al gastar o dar dinero.",
+      "consolidated_definition": "Mezquino",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.342",
+        "semantic_similarity_score": 0.342,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,20 +27,20 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "LÓPEZ MORALES,",
-            "year": "1986"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "LÓPEZ MORALES,",
+            "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -51,17 +54,21 @@
         "reference_definitions": [
           "Mezquino.",
           "Tacaño.",
-          "Maceta. Tacaño."
+          "Maceta. Tacaño.",
+          "Referido a persona, tacaña, que escatima excesivamente al gastar o dar dinero."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que posee la mejor preparación en un campo determinado.",
+      "consolidated_definition": "Bien preparado en una materia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08063565519447873,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4998",
+        "semantic_similarity_score": 0.4998,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -77,12 +84,12 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
@@ -99,17 +106,22 @@
         "reference_definitions": [
           "Bien preparado en una materia, en un examen, etc. También duraco.",
           "Bien preparado. Hábil en la materia. Inteligente.",
-          "Fuerte en su materia, inteligente. Tiene muchos conocimientos."
+          "Fuerte en su materia, inteligente. Tiene muchos conocimientos.",
+          "Persona hábil.",
+          "Persona que posee la mejor preparación en un campo determinado."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Referido a persona, hermosa, atractiva.",
+      "consolidated_definition": "Guapo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5455",
+        "semantic_similarity_score": 0.5455,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -143,9 +155,9 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, tacaña, que escatima excesivamente al gastar o dar dinero.",
-    "Persona que posee la mejor preparación en un campo determinado.",
-    "Referido a persona, hermosa, atractiva."
+    "Mezquino",
+    "Bien preparado en una materia",
+    "Guapo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

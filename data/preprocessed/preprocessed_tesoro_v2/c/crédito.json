@@ -3,12 +3,15 @@
   "term": "crédito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expediente académico.",
+      "consolidated_definition": "educ",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4586",
+        "semantic_similarity_score": 0.4586,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "educ. En la enseñanza universitaria, unidad de valoración de una asignatura o un curso, equivalente a un determinado número de horas lectivas. Usual. ...",
+          "educ. En la enseñanza universitaria, unidad de valoración de una asignatura o un curso, equivalente a un determinado número de horas lectivas. Usual. DRAE: desde 2001. Bachillerato y Grado Asociado: $40.00 por crédito. Los estudiantes no residentes en Puerto Rico provenientes de Estados Unidos pagarán el equivalente a lo que pagan los residentes de Puerto Rico en las universidades del estado de donde aquéllos provienen",
           "Expediente académico."
         ]
       }
     }
   },
   "es_definitions": [
-    "Expediente académico."
+    "educ"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "embrisque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el juego de naipes, posesión de las cartas de triunfo.",
+      "consolidated_definition": "Huida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08525600835945664,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4773",
+        "semantic_similarity_score": 0.4773,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -26,16 +29,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -50,13 +53,16 @@
         "reference_definitions": [
           "Huida, escapada. “A ese forzado abandono de la zona rural se llamó el embrisque.” José Limón de Arce, Arecibo histórico, 1936, p. 373.",
           "Embriscamiento. Amancebamiento. Sinónimo enfusque.",
-          "En el juego de naipes, tener las cartas de triunfo."
+          "En el juego de naipes, tener las cartas de triunfo.",
+          "En el juego de naipes, posesión de las cartas de triunfo.",
+          "Huida, escapada.",
+          "Amancebamiento."
         ]
       }
     }
   },
   "es_definitions": [
-    "En el juego de naipes, posesión de las cartas de triunfo."
+    "Huida"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

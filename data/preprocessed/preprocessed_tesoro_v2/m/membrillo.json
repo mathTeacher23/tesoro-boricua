@@ -3,12 +3,15 @@
   "term": "membrillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta silvestre de largos tallos, hojas elípticas, prolongadas, y flores en espiga.",
+      "consolidated_definition": "Planta silvestre",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4897",
+        "semantic_similarity_score": 0.4897,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -36,18 +39,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Planta silvestre (Securidaca volubilis L.).",
+          "Planta silvestre .",
           "Planta silvestre de largos tallos, hojas elípticas, prolongadas, y flores en espiga. Polygalaceae, Securidaca volubillis."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Postre preparado a base de leche de coco con maizena o almidón de yuca.",
+      "consolidated_definition": "Jalea",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10803167420814482,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.382",
+        "semantic_similarity_score": 0.382,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -64,16 +70,16 @@
             "year": "1965"
           },
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "FIGUEROA,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -84,16 +90,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(jíbaro)  Jalea.",
+          "Jalea.",
           "Postre preparado a base de leche de coco con maizena o almidón de yuca.",
-          "Del lat. melimēlum, manzana dulce, y este del gr. μελίμηλoν).  P. Rico conserva de frutas. Membrillo de guayaba, de manzana."
+          "Del lat. melimēlum, manzana dulce, y este del gr. μελίμηλoν). P. Rico conserva de frutas. Membrillo de guayaba, de manzana.",
+          "Conserva de frutas.",
+          "Postre preparado con leche de coco y maicena o almidón de yuca."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta silvestre de largos tallos, hojas elípticas, prolongadas, y flores en espiga.",
-    "Postre preparado a base de leche de coco con maizena o almidón de yuca."
+    "Planta silvestre",
+    "Jalea"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

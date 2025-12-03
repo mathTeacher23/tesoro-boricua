@@ -3,12 +3,15 @@
   "term": "fat",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grasa.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "alim",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2237",
+        "semantic_similarity_score": 0.2237,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
           "fatty"
         ],
         "reference_definitions": [
-          "alim. Grasa, manteca. Sustancia suave y grasosa, mezcla de líquidos, mayormente triglicéridos, encontrada en los tejidos orgánicos. Anglicismo crudo, ...",
+          "alim. Grasa, manteca. Sustancia suave y grasosa, mezcla de líquidos, mayormente triglicéridos, encontrada en los tejidos orgánicos. Anglicismo crudo, frecuente. Compuestos: fat-free, low fat, baby fat, trans-fat. No es así en el cerdo. La salsa es una base salsa tangy de vinagre. La carne siempre es escasa, no fat . Si es un afficionado de ajo, la ensalada de ajo es estupenda",
           "Grasa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Grasa."
+    "alim"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

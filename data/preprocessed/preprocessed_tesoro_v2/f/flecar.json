@@ -3,12 +3,15 @@
   "term": "flecar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La acción de castigar con azotes a un niño por la falta cometida.",
+      "consolidated_definition": "Azotar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06358051301328611,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4356",
+        "semantic_similarity_score": 0.4356,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -36,10 +43,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -54,13 +57,17 @@
         "reference_definitions": [
           "Azotar. “Como tu desías ayer cuando flecabas a mamá.” M. González García, La escuela de antaño.",
           "Pegar. Azotar.",
-          "Castigar con foete. Pegar. Desflecar."
+          "Castigar con foete. Pegar. Desflecar.",
+          "Poner adornos de flecos. También dicen flequiar.",
+          "La acción de castigar con azotes a un niño por la falta cometida.",
+          "Poner alguien adornos de flecos.",
+          "Desflecar alguien algo."
         ]
       }
     }
   },
   "es_definitions": [
-    "La acción de castigar con azotes a un niño por la falta cometida."
+    "Azotar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

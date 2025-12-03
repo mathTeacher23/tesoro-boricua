@@ -3,12 +3,15 @@
   "term": "ceodí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mercancía que se paga al ser recibida; sistema de pago contra entrega.",
+      "consolidated_definition": "Mercancía que se paga al ser recibida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17192760942760943,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6014",
+        "semantic_similarity_score": 0.6014,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Mercancía que se paga al ser recibida; sistema de pago contra entrega."
+    "Mercancía que se paga al ser recibida"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

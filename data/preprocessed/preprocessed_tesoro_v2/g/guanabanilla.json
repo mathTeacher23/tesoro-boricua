@@ -3,12 +3,15 @@
   "term": "guanabanilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ibatia maritima.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ibatia maritima",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4534",
+        "semantic_similarity_score": 0.4534,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Ibatia maritima."
+    "Ibatia maritima"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

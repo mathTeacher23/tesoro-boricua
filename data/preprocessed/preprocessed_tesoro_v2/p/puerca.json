@@ -3,12 +3,15 @@
   "term": "puerca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "rompe cerros, empareja la tierra y saca fuera los carretones.",
+      "consolidated_definition": "La máquina que abre el terreno y abre, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08282828282828282,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5228",
+        "semantic_similarity_score": 0.5228,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "GOYCO,",
-            "year": "1964"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
+          },
+          {
+            "source": "GOYCO,",
+            "year": "1964"
           },
           {
             "source": "VICENTE MAURA,",
@@ -46,18 +49,21 @@
         "related_words": [],
         "reference_definitions": [
           "La máquina que abre el terreno y abre zanjas.",
-          "[Máquina en la industria del azúcar, que] rompe cerros, empareja la tierra y saca fuera los carretones.",
+          "rompe cerros, empareja la tierra y saca fuera los carretones.",
           "Máquina removedora de tierra en grandes cantidades. Buldoser."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Borrachera.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Hartera",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.356",
+        "semantic_similarity_score": 0.356,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -89,8 +95,8 @@
     }
   },
   "es_definitions": [
-    "rompe cerros, empareja la tierra y saca fuera los carretones.",
-    "Borrachera."
+    "La máquina que abre el terreno y abre, relacionado con un mecanismo",
+    "Hartera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

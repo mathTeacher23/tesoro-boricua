@@ -3,12 +3,15 @@
   "term": "yola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Embarcación ligera, sin quilla y movida a remo.",
+      "consolidated_definition": "Canoa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1211111111111111,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4269",
+        "semantic_similarity_score": 0.4269,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,20 +28,20 @@
             "year": "1965"
           },
           {
-            "source": "SUÁREZ,",
-            "year": "1979"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1986"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "SUÁREZ,",
+            "year": "1979"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -52,17 +55,22 @@
         "reference_definitions": [
           "Canoa.",
           "Embarcación pequeña.",
-          "Barca sin quilla."
+          "Barca sin quilla.",
+          "Canoa.",
+          "Embarcación ligera, sin quilla y movida a remo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Zapato muy grande.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Zapato grande",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.48333333333333334,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.8161",
+        "semantic_similarity_score": 0.8161,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -79,16 +87,16 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -102,14 +110,15 @@
         "reference_definitions": [
           "Zapato grande. También banasta, canoa.",
           "Zapato grande.",
-          "Banasta. Zapato grande."
+          "Banasta. Zapato grande.",
+          "Zapato muy grande."
         ]
       }
     }
   },
   "es_definitions": [
-    "Embarcación ligera, sin quilla y movida a remo.",
-    "Zapato muy grande."
+    "Canoa",
+    "Zapato grande"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

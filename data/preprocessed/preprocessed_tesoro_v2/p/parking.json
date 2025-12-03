@@ -3,12 +3,15 @@
   "term": "parking",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Solar de estacionamiento.",
+      "consolidated_definition": "Estacionamiento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.27777777777777773,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7588",
+        "semantic_similarity_score": 0.7588,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,17 +50,21 @@
         "reference_definitions": [
           "Estacionamiento.",
           "Solar de estacionamiento.",
-          "Estacionamiento."
+          "Estacionamiento.",
+          "Estacionamiento, aparcamiento."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "La marcha o cambio del autómovil que marca detenido, parado.",
+      "consolidated_definition": "La marcha o cambio del autómovil que marca",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -86,8 +93,8 @@
     }
   },
   "es_definitions": [
-    "Solar de estacionamiento.",
-    "La marcha o cambio del autómovil que marca detenido, parado."
+    "Estacionamiento",
+    "La marcha o cambio del autómovil que marca"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

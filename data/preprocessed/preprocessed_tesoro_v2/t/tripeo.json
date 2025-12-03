@@ -3,12 +3,15 @@
   "term": "tripeo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada por drogadictos.",
+      "consolidated_definition": "Voz usada por drogadictos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17274114774114777,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5563",
+        "semantic_similarity_score": 0.5563,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,19 +46,23 @@
           "tripear 1"
         ],
         "reference_definitions": [
-          "Voz usada por drogadictos.  Acción y efecto de estar endrogado.",
-          "Fumada de pasto (marihuana).",
-          "Hecho de estar drogado."
+          "Voz usada por drogadictos. Acción y efecto de estar endrogado.",
+          "Fumada de pasto .",
+          "Hecho de estar drogado.",
+          "Fumada de marihuana."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Buen rato, diversión.",
+      "consolidated_definition": "Relajo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.020833333333333332,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4722",
+        "semantic_similarity_score": 0.4722,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -68,12 +75,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -83,15 +90,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Relajo, diversión. Estado de alegría y jolgorio entre amigos. Anglicismo adaptado, frecuente.\nSon canciones para todo tipo de público que invitan a la...",
+          "Relajo, diversión. Estado de alegría y jolgorio entre amigos. Anglicismo adaptado, frecuente. Son canciones para todo tipo de público que invitan a la reflexión dentro del tripeo al que inducen sus integrantes: Josean Rosario , Harold Sanders , Eric De la Cruz y Jorge Colón",
           "Buen rato, diversión."
         ]
       }
     }
   },
   "es_definitions": [
-    "Voz usada por drogadictos.",
-    "Buen rato, diversión."
+    "Voz usada por drogadictos",
+    "Relajo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

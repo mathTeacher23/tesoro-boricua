@@ -3,12 +3,15 @@
   "term": "múcura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El postre es miel de cañas, después de ella toma cada uno una múcura o calabazo de agua….",
+      "consolidated_definition": "El postre es miel de cañas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16809099769626087,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6059",
+        "semantic_similarity_score": 0.6059,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -27,16 +30,16 @@
             "year": "1788"
           },
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -49,18 +52,22 @@
         "related_words": [],
         "reference_definitions": [
           "El postre es miel de cañas, después de ella toma cada uno una múcura o calabazo de agua…",
-          "(Voz cumanagota).  Vasija vegetal hecha de la higüera antiguamente.",
-          "Vasija de barro."
+          ". Vasija vegetal hecha de la higüera antiguamente.",
+          "Vasija de barro.",
+          "Vasija vegetal de una higuera."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Rémora.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Rémora",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -91,8 +98,8 @@
     }
   },
   "es_definitions": [
-    "El postre es miel de cañas, después de ella toma cada uno una múcura o calabazo de agua….",
-    "Rémora."
+    "El postre es miel de cañas",
+    "Rémora"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

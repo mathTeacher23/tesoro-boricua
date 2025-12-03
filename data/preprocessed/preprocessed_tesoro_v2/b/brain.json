@@ -3,12 +3,15 @@
   "term": "brain",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona inteligente.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Persona inteligente",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.35947712418300654,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7293",
+        "semantic_similarity_score": 0.7293,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -27,12 +30,12 @@
             "year": "1989"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -44,14 +47,14 @@
         "related_words": [],
         "reference_definitions": [
           "Persona inteligente.",
-          "Cerebro. Persona muy inteligente. Por extensión, persona que está a la cabeza de algún movimiento o plan. Anglicismo crudo, frecuente. Compuestos: bra...",
+          "Cerebro. Persona muy inteligente. Por extensión, persona que está a la cabeza de algún movimiento o plan. Anglicismo crudo, frecuente. Compuestos: brainstorm, brainstorming. ¿Y por qué tanto el apuro? Bueno, no es todos los días que estás tan cerca de un brain",
           "Persona inteligente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona inteligente."
+    "Persona inteligente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

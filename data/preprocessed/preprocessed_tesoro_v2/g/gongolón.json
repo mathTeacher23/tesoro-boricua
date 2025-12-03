@@ -3,12 +3,15 @@
   "term": "gongolón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se usa para un gongolí mucho más grande, blanco y peligroso que hay en los campos.",
+      "consolidated_definition": "Gongolí",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03775958341175733,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4632",
+        "semantic_similarity_score": 0.4632,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,14 +24,6 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1961"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
@@ -37,8 +32,16 @@
             "year": "1969"
           },
           {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1961"
           }
         ],
         "years": [
@@ -53,13 +56,16 @@
         "reference_definitions": [
           "Gongolí, gusano.",
           "Gongolí.",
-          "Miriápodo […] inofensivo para el hombre."
+          "Miriápodo inofensivo para el hombre.",
+          "Gongolí. También gungulén.",
+          "Se usa para un gongolí mucho más grande, blanco y peligroso que hay en los campos.",
+          "Gongolí grande y negro, algo rojizo. También llamado gungulén."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se usa para un gongolí mucho más grande, blanco y peligroso que hay en los campos."
+    "Gongolí"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

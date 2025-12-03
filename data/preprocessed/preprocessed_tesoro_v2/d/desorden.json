@@ -3,12 +3,15 @@
   "term": "desorden",
   "superscripts": {
     "1": {
-      "consolidated_definition": "med.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "med",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "med. Enfermedad menor, afección. Alteración de alguna o algunas funciones físicas o mentales. Desvío semántico, frecuente. DRAE 2001: confusión y alte..."
+          "med. Enfermedad menor, afección. Alteración de alguna o algunas funciones físicas o mentales. Desvío semántico, frecuente. DRAE 2001: confusión y alteración del orden Éstas serían lesiones demasiado cerca de la pared del pecho un seno muy pequeño o muy flácido que no permita compresión adecuada o algún desorden de coagulación en la paciente, entre otras"
         ]
       }
     }
   },
   "es_definitions": [
-    "med."
+    "med"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

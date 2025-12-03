@@ -3,12 +3,15 @@
   "term": "amolarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prepararse alguien para un examen.",
+      "consolidated_definition": "Despabilarse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18984126984126984,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4998",
+        "semantic_similarity_score": 0.4998,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,13 +49,16 @@
         "reference_definitions": [
           "Despabilarse.",
           "Prepararse para medrar.",
-          "Aguzarse."
+          "Aguzarse.",
+          "Prepararse para un examen.",
+          "Prepararse alguien para un examen.",
+          "Espabilarse, prepararse alguien para medrar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Prepararse alguien para un examen."
+    "Despabilarse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

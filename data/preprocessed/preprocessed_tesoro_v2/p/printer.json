@@ -3,12 +3,15 @@
   "term": "printer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Impresora.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Impresora, relacionado con un mecanismo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.021739130434782608,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4329",
+        "semantic_similarity_score": 0.4329,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,13 +43,13 @@
         ],
         "reference_definitions": [
           "Impresora.",
-          "inform. Impresora. Máquina que forma parte de los aditamentos externos de una computadora y reproduce lo que esta produce. Anglicismo crudo, frecuente..."
+          "inform. Impresora. Máquina que forma parte de los aditamentos externos de una computadora y reproduce lo que esta produce. Anglicismo crudo, frecuente. Pero el personal —cuatro empleados y ocho maestros— no pudo apoyar a todos los estudiantes debido a que solamente hay un printer y las fotocopiadoras están dañadas"
         ]
       }
     }
   },
   "es_definitions": [
-    "Impresora."
+    "Impresora, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

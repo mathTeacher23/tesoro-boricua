@@ -3,12 +3,15 @@
   "term": "darse un toquecito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Probar alguna substancia embriagante.",
+      "consolidated_definition": "Fumar marihuana",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.037037037037037035,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3864",
+        "semantic_similarity_score": 0.3864,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -28,16 +31,16 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -51,13 +54,14 @@
         "reference_definitions": [
           "Fumar marihuana.",
           "Darse un trago.",
-          "Probar alguna substancia embriagante."
+          "Probar alguna substancia embriagante.",
+          "‘Darse un trago. Fumada de un cigarrillo de marihuana’. Maura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Probar alguna substancia embriagante."
+    "Fumar marihuana"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

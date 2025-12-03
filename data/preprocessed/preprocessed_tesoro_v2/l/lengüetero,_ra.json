@@ -3,12 +3,15 @@
   "term": "lengüetero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Que habla en demasía.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.038147023227668386,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.5641",
+        "semantic_similarity_score": 0.5641,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,8 +25,20 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "LÓPEZ MORALES,",
+            "year": "1991"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           },
           {
             "source": "VICENTE MAURA,",
@@ -32,18 +47,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "LÓPEZ MORALES,",
-            "year": "1991"
-          },
-          {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -64,15 +67,20 @@
           "lengüetería"
         ],
         "reference_definitions": [
-          "vulg.  Lenguaraz. “¿Y por qué eres tan lengüetera, mujer de Dios?.” Timothée, Celos campestres, 1932.",
+          "vulg. Lenguaraz. “¿Y por qué eres tan lengüetera, mujer de Dios?.” Timothée, Celos campestres, 1932.",
           "Chismoso. Enredador.",
-          "Que habla en demasía."
+          "Que habla en demasía.",
+          "Lenguaraz. “Si no tienes nada bueno que decir cierra el pico y no seas lengüetero.” Hablador, chismoso, deslenguado.",
+          "Chismoso, hablador.",
+          "‘Chismoso. Enredador. Que habla en demasía’, Maura. “Aquel pariente lejano resultó un lengüetero de marca mayor. Nadie lo soportaba.”",
+          "Persona chismosa y murmuradora.",
+          "Persona que habla demasiado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Que habla en demasía."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

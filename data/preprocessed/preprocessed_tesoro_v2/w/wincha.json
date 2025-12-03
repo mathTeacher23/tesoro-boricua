@@ -3,12 +3,15 @@
   "term": "wincha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camioneta grande y destartalada.",
+      "consolidated_definition": "Grúa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4574",
+        "semantic_similarity_score": 0.4574,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Grúa, malacate. Equipo mecánico giratorio. Anglicismo adaptado, poco frecuente.\nLa wincha es completamente nueva no esta usada, se abrió la caja para ...",
+          "Grúa, malacate. Equipo mecánico giratorio. Anglicismo adaptado, poco frecuente. La wincha es completamente nueva no esta usada, se abrió la caja para verificar que todo estubiera completo, es smith built con motor 5.5hp",
           "Camioneta grande y destartalada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Camioneta grande y destartalada."
+    "Grúa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

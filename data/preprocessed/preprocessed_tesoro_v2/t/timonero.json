@@ -3,12 +3,15 @@
   "term": "timonero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El que va delante de los bueyes.",
+      "consolidated_definition": "El labrador que guía los bueyes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14814814814814814,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6476",
+        "semantic_similarity_score": 0.6476,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1995"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
           "timón"
         ],
         "reference_definitions": [
-          "El labrador que guía los bueyes. Se llama asimismo timones o manceras, por el norte central, a los palos del arado que permiten que el timonero guíe s...",
+          "El labrador que guía los bueyes. Se llama asimismo timones o manceras, por el norte central, a los palos del arado que permiten que el timonero guíe según tiran los bueyes.",
           "El que va delante de los bueyes."
         ]
       }
     }
   },
   "es_definitions": [
-    "El que va delante de los bueyes."
+    "El labrador que guía los bueyes"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

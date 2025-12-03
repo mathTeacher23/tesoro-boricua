@@ -3,12 +3,15 @@
   "term": "apolismar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estropeare.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Magullar, estropear. Ac.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10021594551881266,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4592",
+        "semantic_similarity_score": 0.4592,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
           }
         ],
         "years": [
@@ -45,15 +48,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Col., Cuba, Méx. y Pan.). Magullar, estropear. Ac.",
-          "prnl. (T. en C. Rica y Ven.).  Acobardarse.",
-          "(T. en Col., C. Rica, Cuba y Guat.).  Quedarse pequeño, raquítico; no crecer."
+          ". Magullar, estropear. Ac.",
+          "prnl. . Acobardarse.",
+          ". Quedarse pequeño, raquítico; no crecer.",
+          "Estropeare. Dañarse. Magullarse. Se refiere a frutos. Estropearse un fruto poniéndose muy blando sin estar podrido.",
+          "Col. y P. Rico. Quedarse pequeño, sin desarrollar.",
+          "C. Rica, P. Rico y Ven. Acobardarse, estar atontado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estropeare."
+    ". Magullar, estropear. Ac."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

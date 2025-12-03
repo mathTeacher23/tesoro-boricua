@@ -3,12 +3,15 @@
   "term": "atrechar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abreviar el camino, atajar, ir por un atrecho.",
+      "consolidated_definition": "Ir por un atrecho",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23386480121537045,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.6236",
+        "semantic_similarity_score": 0.6236,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -22,6 +25,22 @@
         ],
         "sources": [
           {
+            "source": "CASIANO,",
+            "year": "1973"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -30,28 +49,12 @@
             "year": "1948"
           },
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
-            "source": "CASIANO,",
-            "year": "1973"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -69,15 +72,21 @@
           "atrecho"
         ],
         "reference_definitions": [
-          "Ir por un atrecho. “Atrechamos por un soto de higueras y álamos salvajes.” J. I. de Diego Padró, “Desde la transformación de los mundos hasta el Homo ...",
+          "Ir por un atrecho. “Atrechamos por un soto de higueras y álamos salvajes.” J. I. de Diego Padró, “Desde la transformación de los mundos hasta el Homo sapiens”, El Mundo, núm. del 9 de septiembre de 1934.",
           "Acortar una distancia.",
-          "(general)  Ir por un atrecho."
+          "Ir por un atrecho.",
+          "Acortar camino.",
+          "Ir a algún sitio por atajo.",
+          "Ir por un atajo o atrecho.",
+          "Ir por un atrecho.",
+          "Ir por un atrecho.",
+          "Abreviar el camino, atajar, ir por un atrecho."
         ]
       }
     }
   },
   "es_definitions": [
-    "Abreviar el camino, atajar, ir por un atrecho."
+    "Ir por un atrecho"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

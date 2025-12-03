@@ -3,12 +3,15 @@
   "term": "yamoca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Significa ‘el número dos’ en la aritmética taína.",
+      "consolidated_definition": "Significa ‘el número dos’",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8865",
+        "semantic_similarity_score": 0.8865,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Significa ‘el número dos’ en la aritmética taína."
+    "Significa ‘el número dos’"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

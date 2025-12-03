@@ -3,12 +3,15 @@
   "term": "chirre de pico colorado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de chirre, que se caracteriza por el color de su pico.",
+      "consolidated_definition": "Variedad de chirre",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6555",
+        "semantic_similarity_score": 0.6555,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Variedad de chirre, que se caracteriza por el color de su pico."
+    "Variedad de chirre"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

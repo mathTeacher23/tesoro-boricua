@@ -3,12 +3,15 @@
   "term": "emprestar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacer un empréstito.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.028935185185185185,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4643",
+        "semantic_similarity_score": 0.4643,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -44,7 +47,7 @@
           "empréstamo"
         ],
         "reference_definitions": [
-          "vulg.  Prestar. Ac. “Pedí emprestado un vestido a una amiga.” Zeno Gandía, El negocio, 1922, cap. VIII. (Del antiguo español: “Unas veces siento decir...",
+          "vulg. Prestar. Ac. “Pedí emprestado un vestido a una amiga.” Zeno Gandía, El negocio, 1922, cap. VIII. .",
           "Hacer un empréstito.",
           "Prestar. “¿Y quién va a emprehtarme chavoh a mí?.”"
         ]
@@ -52,7 +55,7 @@
     }
   },
   "es_definitions": [
-    "Hacer un empréstito."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

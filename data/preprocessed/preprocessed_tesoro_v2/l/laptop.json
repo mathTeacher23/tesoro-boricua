@@ -3,12 +3,15 @@
   "term": "laptop",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Computadora portátil.",
+      "consolidated_definition": "inform",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.043478260869565216,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6935",
+        "semantic_similarity_score": 0.6935,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Microcomputadora, ordenador portátil. Computadora pequeña que se transporta en un maletín. Anglicismo crudo, usual.\nEl cesionario recibe, en p...",
+          "inform. Microcomputadora, ordenador portátil. Computadora pequeña que se transporta en un maletín. Anglicismo crudo, usual. El cesionario recibe, en primer lugar, el derecho a usar el programa en dos de sus computadoras siempre y cuando sólo una copia del programa sea usada a la vez",
           "Computadora portátil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Computadora portátil."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

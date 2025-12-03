@@ -3,12 +3,15 @@
   "term": "anaiboa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Almidón fino, de una variedad de yuca, la llamada yuca brava, que es venenosa.",
+      "consolidated_definition": "Almidón fino",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2911512598741701,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.7229",
+        "semantic_similarity_score": 0.7229,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1977"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1977"
           }
         ],
         "years": [
@@ -48,13 +51,16 @@
         "reference_definitions": [
           "Almidón fino, de una variedad de yuca, la llamada yuca brava, que es venenosa.",
           "Almidón y jugo de la yuca.",
-          "Flor de la yuca."
+          "Flor de la yuca.",
+          "Almidón muy fino sacado de la yuca.",
+          "Almidón fino y venenoso que se extrae de la yuca brava.",
+          "Jugo venenoso que se extrae de la yuca."
         ]
       }
     }
   },
   "es_definitions": [
-    "Almidón fino, de una variedad de yuca, la llamada yuca brava, que es venenosa."
+    "Almidón fino"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

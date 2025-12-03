@@ -3,12 +3,15 @@
   "term": "grilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Máquina que recoge la caña cuando el corte se hace a mano.",
+      "consolidated_definition": "La máquina que llena los carretones, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09523809523809523,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5934",
+        "semantic_similarity_score": 0.5934,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,17 +42,20 @@
         "related_words": [],
         "reference_definitions": [
           "La máquina que llena los carretones. También araña.",
-          "Máquina que recoge la caña cuando el corte se hace a mano. Consta de un gancho mecánico con varios dientes que abren y cierran. Encontramos el punto d..."
+          "Máquina que recoge la caña cuando el corte se hace a mano. Consta de un gancho mecánico con varios dientes que abren y cierran. Encontramos el punto de referencia para la imagen en la comparación que se establece entre las patas del insecto y los dientes de la máquina."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Colilla de cigarrillo [de marihuana].",
+      "consolidated_definition": "Colilla de cigarrillo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.33749999999999997,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7752",
+        "semantic_similarity_score": 0.7752,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -66,16 +72,16 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -87,19 +93,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Colilla de cigarrillo [de marihuana].",
-          "Voz usada por drogadictos.  Colilla de marihuana.",
-          "Residuo del cigarrillo de marihuana."
+          "Colilla de cigarrillo .",
+          "Voz usada por drogadictos. Colilla de marihuana.",
+          "Residuo del cigarrillo de marihuana.",
+          "Colilla de cigarrillo de marihuana."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "El juego denominado casier […] consistente, con la participación de dos jugadores, en tirar por turno, desde cierta distancia acordada, monedas de a centavo u otros valores hasta meterlas todas en un hoyo pequeño que se hace en la tierra, llamándose grilla a la jugada en que una moneda cae tocando a otra que se encuentra fuera del hoyo, lo que equivale a que ambas se cuenten como si estuvieran dentro del mismo.",
+      "consolidated_definition": "Jugada en el juego de casier cuando una",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18375260882528324,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7527",
+        "semantic_similarity_score": 0.7527,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -112,16 +122,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -133,18 +143,21 @@
         "related_words": [],
         "reference_definitions": [
           "Jugada en el juego de casier cuando una moneda cae tocando otra que está fuera del hoyo y eso vale como si las dos estuvieran dentro.",
-          "El juego denominado casier […] consistente, con la participación de dos jugadores, en tirar por turno, desde cierta distancia acordada, monedas de a c...",
+          "El juego denominado casier consistente, con la participación de dos jugadores, en tirar por turno, desde cierta distancia acordada, monedas de a centavo u otros valores hasta meterlas todas en un hoyo pequeño que se hace en la tierra, llamándose grilla a la jugada en que una moneda cae tocando a otra que se encuentra fuera del hoyo, lo que equivale a que ambas se cuenten como si estuvieran dentro del mismo.",
           "Juego que consiste en tirar por turno entre los jugadores monedas hasta meterlas todas en un hueco pequeño hecho en la tierra."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "Amante.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Amante",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -172,12 +185,15 @@
       }
     },
     "5": {
-      "consolidated_definition": "Mecha de trapo, impregnada de gas queroseno que se coloca en una botella.",
+      "consolidated_definition": "Botella con gas y una mecha de trapo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2545058564264128,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.6819",
+        "semantic_similarity_score": 0.6819,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -190,12 +206,16 @@
         ],
         "sources": [
           {
+            "source": "ACEVEDO DE D’AURIA,",
+            "year": "1971"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "ACEVEDO DE D’AURIA,",
-            "year": "1971"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
             "source": "SANTIAGO,",
@@ -204,10 +224,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -225,19 +241,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(jíbaro)  Botella con gas y una mecha de trapo para alumbrar. También jacho, mechón.",
+          "Botella con gas y una mecha de trapo para alumbrar. También jacho, mechón.",
           "Tabonuco encendido, botella con gas y un tapón para encenderse.",
-          "Tabonuco encendido, botella con gas y un tapón para encenderse."
+          "Tabonuco encendido, botella con gas y un tapón para encenderse.",
+          "Botella con gas y una mecha de trapo para alumbrar.",
+          "Lámpara hecha con una botella llena de keroseno y con una mecha. La suelen usar para cazar jueyes de noche. También para caminar por el campo donde no hay luz eléctrica, especialmente en las noches sin luna. También dicen jacho y mechón.",
+          "Jacho, mechón, botella con mecha, llena de gas para alumbrarse de noche.",
+          "Mecha de trapo, impregnada de gas queroseno que se coloca en una botella."
         ]
       }
     }
   },
   "es_definitions": [
-    "Máquina que recoge la caña cuando el corte se hace a mano.",
-    "Colilla de cigarrillo [de marihuana].",
-    "El juego denominado casier […] consistente, con la participación de dos jugadores, en tirar por turno, desde cierta distancia acordada, monedas de a centavo u otros valores hasta meterlas todas en un hoyo pequeño que se hace en la tierra, llamándose grilla a la jugada en que una moneda cae tocando a otra que se encuentra fuera del hoyo, lo que equivale a que ambas se cuenten como si estuvieran dentro del mismo.",
-    "Amante.",
-    "Mecha de trapo, impregnada de gas queroseno que se coloca en una botella."
+    "La máquina que llena los carretones, relacionado con un mecanismo",
+    "Colilla de cigarrillo",
+    "Jugada en el juego de casier cuando una",
+    "Amante",
+    "Botella con gas y una mecha de trapo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

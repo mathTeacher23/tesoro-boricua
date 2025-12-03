@@ -3,12 +3,15 @@
   "term": "filo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El borde cortante de la hoja [del machete].",
+      "consolidated_definition": "El corte",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09786324786324786,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4609",
+        "semantic_similarity_score": 0.4609,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El corte [del machete].",
+          "El corte .",
           "La parte “amolá hahta el cabo”. La hoja.",
-          "El borde cortante de la hoja [del machete]."
+          "El borde cortante de la hoja .",
+          "Raya, pliegue vertical que se marca al planchar."
         ]
       }
     }
   },
   "es_definitions": [
-    "El borde cortante de la hoja [del machete]."
+    "El corte"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

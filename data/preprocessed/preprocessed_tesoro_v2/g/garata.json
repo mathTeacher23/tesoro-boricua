@@ -3,12 +3,15 @@
   "term": "garata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pelea; desorden; alboroto.",
+      "consolidated_definition": "Pelea",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.047999777999778,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.3527",
+        "semantic_similarity_score": 0.3527,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,24 +28,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "CASIANO,",
             "year": "1973"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -55,15 +58,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pelea. “Sí, a divertirse... sin quimeras, sin garatas.” Zeno Gandía, La charca, 1893, cap. V. (En español, garata significa alboroto. Mugica).",
+          "Pelea. “Sí, a divertirse... sin quimeras, sin garatas.” Zeno Gandía, La charca, 1893, cap. . .",
           "Pelea, riña. “Después de una de estas garatas el hombre bajaba al cafetín.”",
-          "Pelea; desorden; alboroto."
+          "Pelea; desorden; alboroto.",
+          "Discusión acalorada.",
+          "Pelea. Riña.",
+          "Pelea."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pelea; desorden; alboroto."
+    "Pelea"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

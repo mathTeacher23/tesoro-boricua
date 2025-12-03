@@ -3,12 +3,15 @@
   "term": "sable",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un machete con el lomo curvo en oposición al perrillo y al machete que son derechos.",
+      "consolidated_definition": "Instrumento de trabajo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07254901960784313,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4917",
+        "semantic_similarity_score": 0.4917,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
-            "source": "GOYCO,",
-            "year": "1964"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
+            "source": "GONZÁLEZ MUÑIZ,",
+            "year": "1988"
+          },
+          {
+            "source": "GOYCO,",
+            "year": "1964"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GONZÁLEZ MUÑIZ,",
-            "year": "1988"
           }
         ],
         "years": [
@@ -53,17 +56,22 @@
         "reference_definitions": [
           "Instrumento de trabajo.",
           "Un tipo de machete parecido al perrillo.",
-          "Machete de 33 pulgadas."
+          "Machete de 33 pulgadas.",
+          "Machete.",
+          "Un machete con el lomo curvo en oposición al perrillo y al machete que son derechos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ".",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Es el pez machete. Stahl: Catalog.; Evermann.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -86,14 +94,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba).  Es el pez machete. Stahl: Catalog.; Evermann."
+          ". Es el pez machete. Stahl: Catalog.; Evermann."
         ]
       }
     }
   },
   "es_definitions": [
-    "Un machete con el lomo curvo en oposición al perrillo y al machete que son derechos.",
-    "."
+    "Instrumento de trabajo",
+    ". Es el pez machete. Stahl: Catalog.; Evermann."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

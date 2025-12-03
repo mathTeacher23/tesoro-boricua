@@ -3,12 +3,15 @@
   "term": "meter caña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estudiar bien o tratar de estudiar y comprender lo que se estudia.",
+      "consolidated_definition": "Azotar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04932501387099108,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.3614",
+        "semantic_similarity_score": 0.3614,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -26,24 +29,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -58,13 +61,19 @@
         "reference_definitions": [
           "Azotar, pegar.",
           "Insultar.",
-          "Empezar un trabajo. \"Metí caña al desyerbo.\""
+          "Empezar un trabajo.",
+          "Pegar mucho.",
+          "Estudiar bien o tratar de estudiar y comprender lo que se estudia. Realizar algo difícil.",
+          "Dar o meter caña, azotar, pegar.",
+          "Insultar.",
+          "Empezar un trabajo, para Malaret, y para Maura: ‘pegar mucho’. Del sentido más literal de pegar con una caña actualmente se usa figuradamente como: ‘empezar a trabajar, meterle el diente a algo, atacar un problema’, y creemos que también se emplea muy a menudo en el sentido de ‘azuzar’ o ‘meter cizaña’, acepción que no se recoge en ninguna fuente; sirva como ejemplo: “tenemos que resolver el problema, pero es mejor que no intervenga María, porque le encanta meter caña”.",
+          "Comenzar alguien un trabajo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estudiar bien o tratar de estudiar y comprender lo que se estudia."
+    "Azotar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "cartel",
   "superscripts": {
     "1": {
-      "consolidated_definition": "econ.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "econ, relacionado con un grupo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "econ. Agrupación. Asociación de personas, generalmente ilícita, vinculada al narcotráfico o monopolio de drogas ilícitas. Término procedente del alemá..."
+          "econ. Agrupación. Asociación de personas, generalmente ilícita, vinculada al narcotráfico o monopolio de drogas ilícitas. Término procedente del alemán, cuyo étimo inmediato es del inglés. Usual. DRAE 2001, del alemán. Autoridades de la lucha contra el narcotráfico anunciaron el miércoles que desmantelaron un cartel de traficantes de drogas que introdujo toneladas de cocaina colombiana en los Estados Unidos por vía marítima desde Puerto Rico y la República Dominicana"
         ]
       }
     }
   },
   "es_definitions": [
-    "econ."
+    "econ, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

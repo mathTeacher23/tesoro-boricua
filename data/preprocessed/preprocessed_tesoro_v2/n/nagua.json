@@ -3,12 +3,15 @@
   "term": "nagua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pequeña falda de algodón, con adornos del mismo material, que desde la cintura hasta la media pierna usaban las mujeres indias casadas.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.023809523809523808,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4399",
+        "semantic_similarity_score": 0.4399,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino",
@@ -22,24 +25,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -52,19 +55,24 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (Am.).  Enagua. Úsase también la grafía naguas. “Pa vestirse así, mejor es andar en naguas.” Zeno Gandía, La charca, 1893, cap. V.",
+          "vulg. . Enagua. Úsase también la grafía naguas. “Pa vestirse así, mejor es andar en naguas.” Zeno Gandía, La charca, 1893, cap. .",
           "Pequeña falda de algodón, con adornos del mismo material, que desde la cintura hasta la media pierna usaban las mujeres indias casadas.",
-          "(Am. y Tenerife). Enaguas."
+          ". Enaguas.",
+          "Antiguo. Enaguas cortas.",
+          "Enaguas, faldas de algodón que usaban las indias casadas hasta las rodillas, faldellín de algodón."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona cobarde.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Persona cobarde",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -94,12 +102,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Flor de nagua.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Flor de nagua",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -128,9 +139,9 @@
     }
   },
   "es_definitions": [
-    "Pequeña falda de algodón, con adornos del mismo material, que desde la cintura hasta la media pierna usaban las mujeres indias casadas.",
-    "Persona cobarde.",
-    "Flor de nagua."
+    "vulg",
+    "Persona cobarde",
+    "Flor de nagua"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

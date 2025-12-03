@@ -3,12 +3,15 @@
   "term": "al rescoldo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "A fuego mínimo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "En espera",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5217",
+        "semantic_similarity_score": 0.5217,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1995"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "A fuego mínimo."
+    "En espera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

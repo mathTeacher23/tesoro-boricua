@@ -3,12 +3,15 @@
   "term": "attorney general",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Procurador general.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Procurador general",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Procurador general. Abogado jefe en asuntos legales. Anglicismo crudo, poco frecuente.\nMientras tanto, las agencias federales deben evaluar sus sistem..."
+          "Procurador general. Abogado jefe en asuntos legales. Anglicismo crudo, poco frecuente. Mientras tanto, las agencias federales deben evaluar sus sistemas de tecnología actuales respecto a su accesibilidad y emitir un reporte al attorney general"
         ]
       }
     }
   },
   "es_definitions": [
-    "Procurador general."
+    "Procurador general"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

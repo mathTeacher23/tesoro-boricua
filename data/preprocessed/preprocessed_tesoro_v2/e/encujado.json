@@ -3,12 +3,15 @@
   "term": "encujado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Obra hecha de cujes.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Obra hecha de cujes.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4444444444444444,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9867",
+        "semantic_similarity_score": 0.9867,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
           "encujar"
         ],
         "reference_definitions": [
-          "(T. en Cuba y Ven.).  Obra hecha de cujes.",
+          ". Obra hecha de cujes.",
           "Obra hecha de cujes."
         ]
       }
     }
   },
   "es_definitions": [
-    "Obra hecha de cujes."
+    ". Obra hecha de cujes."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

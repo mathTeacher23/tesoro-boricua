@@ -3,12 +3,15 @@
   "term": "salmón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estúpido, collera, empollón, sangrigordo, bruto, majadero, terco, sangre de puerco, olvidadizo, indeseable.",
+      "consolidated_definition": "Estúpido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07287687802393686,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5663",
+        "semantic_similarity_score": 0.5663,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,10 +25,6 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
@@ -34,20 +33,24 @@
             "year": "1972"
           },
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "SANTIAGO,",
             "year": "1974"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -62,15 +65,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Estúpido, collera. Es palabra eufemística.",
+          "Estúpido, collera. Es palabra eufemística.",
           "Estúpido, collera, empollón, sangrigordo, bruto, majadero, terco, sangre de puerco, olvidadizo, indeseable.",
-          "Estúpido."
+          "Estúpido.",
+          "Estúpido.",
+          "Dícese de la persona tonta, ignorante, torpe, estúpida. También dicen collera.",
+          "Bruto.",
+          "Persona tonta, torpe, estúpida."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estúpido, collera, empollón, sangrigordo, bruto, majadero, terco, sangre de puerco, olvidadizo, indeseable."
+    "Estúpido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

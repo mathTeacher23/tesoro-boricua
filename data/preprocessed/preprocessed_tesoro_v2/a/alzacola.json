@@ -3,12 +3,15 @@
   "term": "alzacola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alicate de alguien.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Persona aduladora",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4292",
+        "semantic_similarity_score": 0.4292,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -40,15 +43,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Persona aduladora.",
+          "Persona aduladora.",
           "Servil.",
-          "Alicate de alguien."
+          "Alicate de alguien.",
+          "Adulador. Servil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Alicate de alguien."
+    "Persona aduladora"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

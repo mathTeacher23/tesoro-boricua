@@ -3,12 +3,15 @@
   "term": "merenguito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cliente de prostituta que es generoso y paga bien.",
+      "consolidated_definition": "Persona generosa que gasta el dinero despreocupadamente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13968253968253966,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6581",
+        "semantic_similarity_score": 0.6581,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "Cliente de prostituta que es generoso y paga bien."
+    "Persona generosa que gasta el dinero despreocupadamente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

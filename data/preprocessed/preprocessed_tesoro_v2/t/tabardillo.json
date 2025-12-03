@@ -3,12 +3,15 @@
   "term": "tabardillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Condición que ocurre cuando una persona ha estado expuesta al sol durante varias horas corridas.",
+      "consolidated_definition": "Condición que ocurre cuando una persona ha estado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04650980392156863,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5277",
+        "semantic_similarity_score": 0.5277,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,8 +24,8 @@
         ],
         "sources": [
           {
-            "source": "GOYCO,",
-            "year": "1964"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "CEREZO DE PONCE,",
@@ -33,12 +36,12 @@
             "year": "1967"
           },
           {
-            "source": "LAUREANO ORTEGA,",
-            "year": "1969"
+            "source": "GOYCO,",
+            "year": "1964"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
+            "source": "LAUREANO ORTEGA,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -53,13 +56,16 @@
         "reference_definitions": [
           "Condición que ocurre cuando una persona ha estado expuesta al sol durante varias horas corridas.",
           "“Mal de orín de sentarse en algo caliente.”",
-          "“Ahora se le llama insolación”, dice el médico."
+          "“Ahora se le llama insolación”, dice el médico.",
+          "Insolación.",
+          "Sobreviene “de estar tanto al sol” o “de sentarse en una piedra caliente”.",
+          "La insolación."
         ]
       }
     }
   },
   "es_definitions": [
-    "Condición que ocurre cuando una persona ha estado expuesta al sol durante varias horas corridas."
+    "Condición que ocurre cuando una persona ha estado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

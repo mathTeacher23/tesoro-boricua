@@ -3,12 +3,15 @@
   "term": "trip",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada por drogadictos.",
+      "consolidated_definition": "Voz usada por drogadictos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11239640066303576,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4715",
+        "semantic_similarity_score": 0.4715,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,15 +53,17 @@
           "tripeado, da"
         ],
         "reference_definitions": [
-          "Voz usada por drogadictos.  Trance en que se encuentra una persona endrogada.",
+          "Voz usada por drogadictos. Trance en que se encuentra una persona endrogada.",
           "Viaje.",
-          "Excursión. Viaje, generalmente corto, con un propósito determinado. Anglicismo crudo, frecuente.\nPara hacer más dinámica nuestras reuniones, hemos dec..."
+          "Excursión. Viaje, generalmente corto, con un propósito determinado. Anglicismo crudo, frecuente. Para hacer más dinámica nuestras reuniones, hemos decidido para el sábado 3 de noviembre regresar a las hermosas playas de Isabela para otro trip de snorkeling",
+          "drog. Letargo, despiste. Estado de euforia o letargo producido por narcóticos; por extensión, divagación. Anglicismo crudo, usual. Bueno, si quieres irte en un trip profundo y a lo mejor PERMANENTE, mezclate como cinco honguitos con tres flores de mata e’ campana, trituralos y ponte a calentar una tazita de agua en el microwave, dale 2 minutos en high y luego te sientas en el balcon de tu casa a las doce de la medianoche, empiezas a tomarte el tonico magico y te vas despidiendo de la realidad de tu vida.. have a nice trip...",
+          "Viaje."
         ]
       }
     }
   },
   "es_definitions": [
-    "Voz usada por drogadictos."
+    "Voz usada por drogadictos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

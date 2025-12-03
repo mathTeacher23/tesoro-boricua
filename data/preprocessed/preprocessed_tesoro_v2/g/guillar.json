@@ -3,12 +3,15 @@
   "term": "guillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Robar, quedarse alguien con parte de las pertenencias de otra persona.",
+      "consolidated_definition": "Robar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07708333333333334,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5705",
+        "semantic_similarity_score": 0.5705,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -39,17 +42,21 @@
         "reference_definitions": [
           "Robar. Quedarse con parte de lo que pertenece a otra persona.",
           "Huir, escapar alguien.",
-          "Robar, quedarse alguien con parte de las pertenencias de otra persona."
+          "Robar, quedarse alguien con parte de las pertenencias de otra persona.",
+          "Hacer alguien algo sin permiso o consentimiento."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Presumir alguien de algo.",
+      "consolidated_definition": "Presumir alguien de algo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -79,8 +86,8 @@
     }
   },
   "es_definitions": [
-    "Robar, quedarse alguien con parte de las pertenencias de otra persona.",
-    "Presumir alguien de algo."
+    "Robar",
+    "Presumir alguien de algo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

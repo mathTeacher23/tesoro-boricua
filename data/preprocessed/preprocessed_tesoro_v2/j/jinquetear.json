@@ -3,12 +3,15 @@
   "term": "jinquetear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pelear a los puños.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3406",
+        "semantic_similarity_score": 0.3406,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -40,14 +43,14 @@
           "jinquete"
         ],
         "reference_definitions": [
-          "vulg.  Pelear.",
+          "vulg. Pelear.",
           "Pelear a los puños."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pelear a los puños."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

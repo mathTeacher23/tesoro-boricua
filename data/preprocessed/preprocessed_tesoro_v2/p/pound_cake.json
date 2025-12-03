@@ -3,12 +3,15 @@
   "term": "pound cake",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bizcocho hecho con harina, azúcar, mantequilla, leche y extracto de maíz.",
+      "consolidated_definition": "alim",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15217391304347827,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5085",
+        "semantic_similarity_score": 0.5085,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "alim. Bizcocho hecho de harina, mantequilla, huevos y azúcar. Anglicismo crudo, frecuente.\nPor ejemplo, si quieres hacer un pound cake y quieres echar...",
+          "alim. Bizcocho hecho de harina, mantequilla, huevos y azúcar. Anglicismo crudo, frecuente. Por ejemplo, si quieres hacer un pound cake y quieres echarle solo algo por encima para endulzarlo, pero no necesariamente cubrirlo con frosting, entonces le echas el sugar glaze",
           "Bizcocho hecho con harina, azúcar, mantequilla, leche y extracto de maíz."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bizcocho hecho con harina, azúcar, mantequilla, leche y extracto de maíz."
+    "alim"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

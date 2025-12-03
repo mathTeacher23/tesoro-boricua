@@ -3,12 +3,15 @@
   "term": "coger la juyilanga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Huirse de una contienda.",
+      "consolidated_definition": "Huir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03571428571428571,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.3963",
+        "semantic_similarity_score": 0.3963,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,24 +23,24 @@
         ],
         "sources": [
           {
-            "source": "PAGÁN GONZÁLEZ,",
-            "year": "1969"
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
           },
           {
-            "source": "SOLER,",
-            "year": "1973"
+            "source": "PAGÁN GONZÁLEZ,",
+            "year": "1969"
           },
           {
             "source": "SANTIAGO,",
             "year": "1974"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "SOLER,",
+            "year": "1973"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -59,13 +62,17 @@
         "reference_definitions": [
           "Huir. También coger la verdolaga.",
           "Irse de paseo.",
-          "Desaparecerse."
+          "Desaparecerse.",
+          "Huirse de una contienda.",
+          "Rehuir pelea o debate.",
+          "Perderse, coger el monte. Huir.",
+          "Coger brisa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Huirse de una contienda."
+    "Huir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

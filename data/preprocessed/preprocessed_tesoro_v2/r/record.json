@@ -3,12 +3,15 @@
   "term": "record",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prueba fehaciente de una hazaña deportiva digna de registrarse.",
+      "consolidated_definition": "Prueba fehaciente de una hazaña deportiva digna de, relacionado con una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1170416884702599,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5351",
+        "semantic_similarity_score": 0.5351,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,14 +28,6 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
@@ -41,12 +36,20 @@
             "year": "1972"
           },
           {
+            "source": "MORALES DE WALTERS,",
+            "year": "2001"
+          },
+          {
+            "source": "PÉREZ SALA,",
+            "year": "1968"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2001"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -62,17 +65,24 @@
         "reference_definitions": [
           "Prueba fehaciente de una hazaña deportiva digna de registrarse.",
           "Expediente. Registro, historial, hoja de servicios.",
-          "Registro, historial, hoja de servicios."
+          "Registro, historial, hoja de servicios.",
+          "Proeza deportiva.",
+          "Registro, historial, hoja de servicio.",
+          "Asiento. Anotación. Calificación.",
+          "Archivo, expediente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Disco fonográfico.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Disco",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5756",
+        "semantic_similarity_score": 0.5756,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -109,8 +119,8 @@
     }
   },
   "es_definitions": [
-    "Prueba fehaciente de una hazaña deportiva digna de registrarse.",
-    "Disco fonográfico."
+    "Prueba fehaciente de una hazaña deportiva digna de, relacionado con una calificación",
+    "Disco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

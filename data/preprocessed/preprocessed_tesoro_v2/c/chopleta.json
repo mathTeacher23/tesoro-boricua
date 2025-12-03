@@ -3,12 +3,15 @@
   "term": "chopleta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre genérico aplicado a cualquier cosa, sobre todo si es ancha y plana.",
+      "consolidated_definition": "Nombre genérico aplicado a cualquier cosa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21428571428571427,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6961",
+        "semantic_similarity_score": 0.6961,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Nombre genérico aplicado a cualquier cosa, sobre todo si es ancha y plana."
+    "Nombre genérico aplicado a cualquier cosa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "tirar a uno como bolsa (de…)",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Echar a uno de lado como cosa que no cuenta.",
+      "consolidated_definition": "Echar a uno de lado como cosa que",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12271062271062272,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5241",
+        "semantic_similarity_score": 0.5241,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -39,13 +42,14 @@
         "reference_definitions": [
           "Echar a uno de lado como cosa que no cuenta.",
           "Despreciarle de mala manera.",
-          "Desechar."
+          "Desechar.",
+          "Echar a alguien de mala manera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Echar a uno de lado como cosa que no cuenta."
+    "Echar a uno de lado como cosa que"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

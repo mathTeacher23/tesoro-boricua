@@ -3,12 +3,15 @@
   "term": "limatón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Viga del techo de una casa que va del ángulo de la pared a uno de los extremos de la viga cumbrea.",
+      "consolidated_definition": "Pieza de madera en la cual se apoyan",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18216542229700122,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5896",
+        "semantic_similarity_score": 0.5896,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -40,13 +43,15 @@
         "reference_definitions": [
           "Pieza de madera en la cual se apoyan las tijerillas de un techo formando caballete.",
           "Cualquier lima grande de grano grueso.",
-          "Junta inclinada en un techo de dos aguas."
+          "Junta inclinada en un techo de dos aguas.",
+          "Viga del techo de una casa que va del ángulo de la pared a uno de los extremos de la viga cumbrea.",
+          "Junta inclinada de un techo de dos aguas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Viga del techo de una casa que va del ángulo de la pared a uno de los extremos de la viga cumbrea."
+    "Pieza de madera en la cual se apoyan"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

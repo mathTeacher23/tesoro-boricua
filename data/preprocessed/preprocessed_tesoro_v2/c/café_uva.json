@@ -3,12 +3,15 @@
   "term": "café uva",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Café que tiene juntas las dos partes del grano, envueltas en la cáscara sin secar.",
+      "consolidated_definition": "Café en pulpa, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15940725466734781,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.6269",
+        "semantic_similarity_score": 0.6269,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FONFRÍAS, 1975B",
             "year": ""
           },
@@ -31,16 +38,12 @@
             "year": "1937"
           },
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -54,13 +57,18 @@
         "reference_definitions": [
           "Café en pulpa. “Flota en el aire del campo —un agostino olor a café uva.” Juan Antonio Corretjer, Poemas criollos, 1932, p. 27.",
           "Café en pulpa.",
-          "Café en pulpa."
+          "Café en pulpa.",
+          "Café cereza.",
+          "Grano de café maduro con pulpa.",
+          "Café colado a mano, a diferencia del de máquina o del instantáneo.",
+          "Café que tiene juntas las dos partes del grano, envueltas en la cáscara sin secar.",
+          "Café muy maduro, de grano grande y rojo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Café que tiene juntas las dos partes del grano, envueltas en la cáscara sin secar."
+    "Café en pulpa, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

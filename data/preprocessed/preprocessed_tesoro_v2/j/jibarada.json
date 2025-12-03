@@ -3,12 +3,15 @@
   "term": "jibarada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dicho o hecho propio de un jíbaro o campesino.",
+      "consolidated_definition": "Dicho o hecho propio de un jíbaro",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17273296878560038,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6613",
+        "semantic_similarity_score": 0.6613,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,20 +28,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -58,13 +61,14 @@
         "reference_definitions": [
           "Dicho o hecho propio de un jíbaro.",
           "Voz despectiva. Asumir una actitud imitativa de lo jíbaro en la forma de hablar y de vestir.",
-          "Acción propia de jíbaros, campesinos."
+          "Acción propia de jíbaros, campesinos.",
+          "Dicho o hecho propio de un jíbaro o campesino."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dicho o hecho propio de un jíbaro o campesino."
+    "Dicho o hecho propio de un jíbaro"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

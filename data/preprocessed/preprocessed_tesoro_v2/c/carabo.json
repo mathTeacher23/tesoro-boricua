@@ -3,12 +3,15 @@
   "term": "carabo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre del jugo de las frutas.",
+      "consolidated_definition": "Nombre del jugo de las frutas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.51",
+        "semantic_similarity_score": 0.51,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Nombre del jugo de las frutas."
+    "Nombre del jugo de las frutas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

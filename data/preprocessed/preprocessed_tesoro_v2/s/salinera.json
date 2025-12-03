@@ -3,12 +3,15 @@
   "term": "salinera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salina, lugar donde se acumula la sal de las aguas del mar o de ciertos manantiales, cuando se ha evaporado el agua.",
+      "consolidated_definition": "Salina",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10144927536231885,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5761",
+        "semantic_similarity_score": 0.5761,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Salina, lugar donde se acumula la sal de las aguas del mar o de ciertos manantiales, cuando se ha evaporado el agua."
+    "Salina"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

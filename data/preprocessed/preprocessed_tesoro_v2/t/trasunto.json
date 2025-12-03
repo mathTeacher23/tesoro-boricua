@@ -3,12 +3,15 @@
   "term": "trasunto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parecido físico entre dos personas.",
+      "consolidated_definition": "Parecido, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09754055468341181,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5445",
+        "semantic_similarity_score": 0.5445,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -26,6 +29,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
@@ -36,10 +43,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -55,13 +58,17 @@
         "reference_definitions": [
           "Parecido.",
           "Parecido físico entre dos personas.",
-          "Presentimiento o vaga idea. Trasluz."
+          "Presentimiento o vaga idea. Trasluz.",
+          "Parecido físico entre dos personas.",
+          "Presentimiento o vaga idea.",
+          "Parecido. “Darse o tener un trasunto con otra.”",
+          "Parecido, semejanza."
         ]
       }
     }
   },
   "es_definitions": [
-    "Parecido físico entre dos personas."
+    "Parecido, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

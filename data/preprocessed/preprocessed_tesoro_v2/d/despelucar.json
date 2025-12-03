@@ -3,12 +3,15 @@
   "term": "despelucar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desplumar, dejar a alguien sin dinero o pertenencias.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03911834237240996,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5422",
+        "semantic_similarity_score": 0.5422,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -47,15 +50,16 @@
           "despelucarse"
         ],
         "reference_definitions": [
-          "vulg.  (Am. Cen., Arg., Col., Chile y Ven.).  Despeluzar. Ú. t. c. r. “Abuela, que me espeluco, gritó... con los ojos huracanados de pavor.” A. Oliver...",
+          "vulg. . Despeluzar. Ú. t. c. r. “Abuela, que me espeluco, gritó... con los ojos huracanados de pavor.” A. Oliver Frau, “Cuando desmontes los guanos”, Puerto Rico Ilustrado, 27 de marzo de 1937.",
           "Despeluzar. Ponérsele a uno la piel como carne de gallina. También dicen espelucar.",
-          "Desordenar el cabello a alguien."
+          "Desordenar el cabello a alguien.",
+          "Desplumar, dejar a alguien sin dinero o pertenencias."
         ]
       }
     }
   },
   "es_definitions": [
-    "Desplumar, dejar a alguien sin dinero o pertenencias."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "jodienda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Majadería, mortificación, molestia, imprudencia, chavienda.",
+      "consolidated_definition": "Majadería extrema",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.018518518518518517,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4537",
+        "semantic_similarity_score": 0.4537,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
           "joder"
         ],
         "reference_definitions": [
-          "(popular)  Majadería extrema, vainas. Es palabra tabú.",
+          "Majadería extrema, vainas. Es palabra tabú.",
           "Majadería, mortificación, molestia, imprudencia, chavienda.",
           "Algo fuera de lo común. Fastidioso. Malo. Molestoso. “Esto es una jodienda.”"
         ]
@@ -52,7 +55,7 @@
     }
   },
   "es_definitions": [
-    "Majadería, mortificación, molestia, imprudencia, chavienda."
+    "Majadería extrema"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

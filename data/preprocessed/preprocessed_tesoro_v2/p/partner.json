@@ -3,12 +3,15 @@
   "term": "partner",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Colega, amigo, socio, pareja.",
+      "consolidated_definition": "Amigo íntimo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03764705882352941,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.49",
+        "semantic_similarity_score": 0.49,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,12 +34,12 @@
             "year": "1989"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -50,17 +53,22 @@
         "reference_definitions": [
           "Amigo íntimo.",
           "Amigo.",
-          "Colega, amigo, socio, pareja. Anglicismo crudo, poco frecuente. Véase pana.\nEn Boston mi partner era J.C. (Romero, relevista zurdo) y las cosas no nos..."
+          "Colega, amigo, socio, pareja. Anglicismo crudo, poco frecuente. Véase pana. En Boston mi partner era J.C. y las cosas no nos iban bien a ninguno de los dos al principio, pero siempre nos dimos ánimo y estuvimos confiados en que había algo bueno para nosotros",
+          "soc. Parejo. Pareja de baile. Anglicismo crudo, poco frecuente. “Pegamos a hablar todo el tiempo y el partner mío se fue a la barra y no lo volví a ver”, relata",
+          "Amigo íntimo, compañero inseparable."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Compañero de trabajo.",
+      "consolidated_definition": "Compañero de trabajo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -89,8 +97,8 @@
     }
   },
   "es_definitions": [
-    "Colega, amigo, socio, pareja.",
-    "Compañero de trabajo."
+    "Amigo íntimo",
+    "Compañero de trabajo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

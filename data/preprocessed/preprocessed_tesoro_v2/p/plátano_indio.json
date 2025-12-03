@@ -3,12 +3,15 @@
   "term": "plátano indio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de plátano.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Musácea de 3 a 6 metros de altura. . También llamado plátano silvestre.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6175",
+        "semantic_similarity_score": 0.6175,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba).  Musácea de 3 a 6 metros de altura. (Heliconia bihai; Bihai b). También llamado plátano silvestre.",
+          ". Musácea de 3 a 6 metros de altura. . También llamado plátano silvestre.",
           "Variedad de plátano."
         ]
       }
     }
   },
   "es_definitions": [
-    "Variedad de plátano."
+    ". Musácea de 3 a 6 metros de altura. . También llamado plátano silvestre."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

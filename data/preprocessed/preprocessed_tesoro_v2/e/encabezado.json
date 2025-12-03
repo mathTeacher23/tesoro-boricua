@@ -3,12 +3,15 @@
   "term": "encabezado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Capataz.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Capataz",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03225806451612903,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5023",
+        "semantic_similarity_score": 0.5023,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,18 +39,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Capataz. “Los indios repartidos se colocaban bajo la inspección de un régulo-capataz o encabezado, como se dice en las fincas azucareras de nuestros t...",
+          "Capataz. “Los indios repartidos se colocaban bajo la inspección de un régulo-capataz o encabezado, como se dice en las fincas azucareras de nuestros tiempos.” Brau, Puerto Rico y su historia, 1894, p. 147.",
           "Capataz."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Membrete del papel de cartas.",
+      "consolidated_definition": "Encabezamiento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3248",
+        "semantic_similarity_score": 0.3248,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -77,8 +83,8 @@
     }
   },
   "es_definitions": [
-    "Capataz.",
-    "Membrete del papel de cartas."
+    "Capataz",
+    "Encabezamiento"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

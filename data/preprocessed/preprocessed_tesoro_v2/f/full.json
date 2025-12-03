@@ -3,12 +3,15 @@
   "term": "full",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el póquer, tener un par y un trío.",
+      "consolidated_definition": "Lleno",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03830472282001234,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.3499",
+        "semantic_similarity_score": 0.3499,
+        "cluster_count": null,
         "grammar": [
           "adverbio"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,19 +53,25 @@
           "fuleteado, da"
         ],
         "reference_definitions": [
-          "Lleno.  Completo.",
+          "Lleno. Completo.",
           "En el póquer, tener un par y un trío.",
-          "Lleno, completo. Se dice de lo que no tiene espacio o tiempo para más. Anglicismo crudo, frecuente. Compuestos: full cover, full service, full time, f..."
+          "Lleno, completo. Se dice de lo que no tiene espacio o tiempo para más. Anglicismo crudo, frecuente. Compuestos: full cover, full service, full time, full staff, full update. Frase: estar full. Será ilegal usar términos como jumbo, gigante, full o frases similares cuando éstas tiendan a exagerar el peso, medida o cantidad de cualquier producto",
+          "Lleno.",
+          "Harto de comida.",
+          "A tope."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Doble.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Doble",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -86,14 +95,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Doble. Se dice de la cama de matrimonio, que tiene aproximadamente 53 pulgadas de ancho. Anglicismo crudo, usual.\nLas camas full, a veces llamadas dob..."
+          "Doble. Se dice de la cama de matrimonio, que tiene aproximadamente 53 pulgadas de ancho. Anglicismo crudo, usual. Las camas full, a veces llamadas dobles, tienen 53 pulgadas de ancho, o justamente 15 pulgadas más que una cama sencilla"
         ]
       }
     }
   },
   "es_definitions": [
-    "En el póquer, tener un par y un trío.",
-    "Doble."
+    "Lleno",
+    "Doble"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

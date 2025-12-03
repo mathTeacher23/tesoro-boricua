@@ -3,12 +3,15 @@
   "term": "guácara",
   "superscripts": {
     "1": {
-      "consolidated_definition": "fest.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "fest",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -31,17 +34,20 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "fest. antic.  Gabán o chaqueta. “¡Cuánto cuatriborlado de chaqueta, o en mangas de camisa y descalzo, codeándose con la levita del hacendado o la guác..."
+          "fest. antic. Gabán o chaqueta. “¡Cuánto cuatriborlado de chaqueta, o en mangas de camisa y descalzo, codeándose con la levita del hacendado o la guácara del estanciero!” Daybón, Cosas de , p. 86."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En plural se determina con este vocablo un tiempo inmemorial, quizá por alusión al hombre de las cavernas.",
+      "consolidated_definition": "En plural se determina con este vocablo un",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0722619583145899,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4477",
+        "semantic_similarity_score": 0.4477,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino",
@@ -60,12 +66,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GONZÁLEZ BIGAS,",
             "year": "1970"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
@@ -82,14 +88,15 @@
         "reference_definitions": [
           "En plural se determina con este vocablo un tiempo inmemorial, quizá por alusión al hombre de las cavernas.",
           "Originalmente era el nombre de un lugar y de una cueva.",
-          "Un hoyo o roto en un trompo hecho por otro trompo en este juego."
+          "Un hoyo o roto en un trompo hecho por otro trompo en este juego.",
+          "Hueco. Roto. Hendedura en la madera. Cucaracha en el hormigón"
         ]
       }
     }
   },
   "es_definitions": [
-    "fest.",
-    "En plural se determina con este vocablo un tiempo inmemorial, quizá por alusión al hombre de las cavernas."
+    "fest",
+    "En plural se determina con este vocablo un"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "picón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Burlón.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Burlón",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4152",
+        "semantic_similarity_score": 0.4152,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -33,17 +36,20 @@
         "related_words": [],
         "reference_definitions": [
           "Burlón.",
-          "(T. en Col.).  Hablador, respondón."
+          ". Hablador, respondón."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dícese de la comida que contiene algún ingrediente que pica un poco.",
+      "consolidated_definition": "Dícese de la comida que contiene algún ingrediente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.375,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9104",
+        "semantic_similarity_score": 0.9104,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -74,8 +80,8 @@
     }
   },
   "es_definitions": [
-    "Burlón.",
-    "Dícese de la comida que contiene algún ingrediente que pica un poco."
+    "Burlón",
+    "Dícese de la comida que contiene algún ingrediente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

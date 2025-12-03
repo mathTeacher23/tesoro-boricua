@@ -3,12 +3,15 @@
   "term": "tormentera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Casita muy pequeña y fuerte, casi a ras de tierra, que se usa para refugiarse durante un temporal.",
+      "consolidated_definition": "Aposento resguardado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.103989097183807,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4883",
+        "semantic_similarity_score": 0.4883,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,14 +26,6 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
@@ -39,12 +34,20 @@
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -65,19 +68,26 @@
           "tormenta"
         ],
         "reference_definitions": [
-          "Aposento resguardado, o local hecho expresamente como para guarecerse de una tormenta. “La víctima escogió una tormentera para privarse de la existenc...",
+          "Aposento resguardado, o local hecho expresamente como para guarecerse de una tormenta. “La víctima escogió una tormentera para privarse de la existencia.” El Mundo, junio 8, 1934.",
           "La cueva de refugio contra los ciclones, preparada a pocos pasos, es denominada tormentera.",
-          "(jíbaro)  Casita muy pequeña y fuerte, casi a ras de tierra, que se usa para refugiarse durante un temporal."
+          "Casita muy pequeña y fuerte, casi a ras de tierra, que se usa para refugiarse durante un temporal.",
+          "Barraca. Caseta tosca en forma triagular, por lo regular techada de zinc, donde se guarecen los campesinos durante los ciclones.",
+          "Casucha de dos aguas con el techo clavado en tierra. Se usa para guarecerse de los ciclones.",
+          "Casa de dos aguas, fuerte y a ras de tierra para refugio durante temporales y ciclones.",
+          "Aposento o local hecho expresamente para guarecerse de tormentas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Plancha, generalmente de metal, que hoy protege puertas y ventanas de los vientos huracanados.",
+      "consolidated_definition": "Plancha",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -104,8 +114,8 @@
     }
   },
   "es_definitions": [
-    "Casita muy pequeña y fuerte, casi a ras de tierra, que se usa para refugiarse durante un temporal.",
-    "Plancha, generalmente de metal, que hoy protege puertas y ventanas de los vientos huracanados."
+    "Aposento resguardado",
+    "Plancha"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

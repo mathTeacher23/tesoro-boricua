@@ -3,12 +3,15 @@
   "term": "handle",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mango de la puerta.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Mango de la puerta, relacionado con un mecanismo o una organización",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3446327683615819,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6484",
+        "semantic_similarity_score": 0.6484,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,14 +45,14 @@
         "related_words": [],
         "reference_definitions": [
           "Mango de la puerta.",
-          "Asa, mango. Parte que sobresale del cuerpo de una vasija o aparato y por el cual se coge. Anglicismo crudo, poco frecuente.\nCuando comencé el control ...",
+          "Asa, mango. Parte que sobresale del cuerpo de una vasija o aparato y por el cual se coge. Anglicismo crudo, poco frecuente. Cuando comencé el control line en el 1963 no tenía con quien comparar ideas y aprender técnicas por ende aprendi a volar con el handle de control al revés y nunca progresé más allá de volar normal,volar invertido y a hacer loops",
           "Mango de la puerta."
         ]
       }
     }
   },
   "es_definitions": [
-    "Mango de la puerta."
+    "Mango de la puerta, relacionado con un mecanismo o una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

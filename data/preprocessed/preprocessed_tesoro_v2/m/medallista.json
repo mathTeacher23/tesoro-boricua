@@ -3,12 +3,15 @@
   "term": "medallista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. Receptor de medalla. Participante que consigue una medalla en una competición. Usual. DRAE: desde 2001.\nPérez, quien fue el primer medallista que..."
+          "dep. Receptor de medalla. Participante que consigue una medalla en una competición. Usual. DRAE: desde 2001. Pérez, quien fue el primer medallista que tuvo Puerto Rico en unos Juegos de la Buena Voluntad cuando ganó la medalla de plata, cuando se le preguntó si consideraba sorpresiva la actuación de León —especialmente si se toma en cuenta la actuación de los boleadores puertorriqueños en competencias como Juegos Centroamericanos y del Caribe, Panamericanos y campeonatos mundiales— contestó en la negativa"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

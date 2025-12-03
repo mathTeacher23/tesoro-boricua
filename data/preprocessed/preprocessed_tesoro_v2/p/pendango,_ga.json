@@ -3,12 +3,15 @@
   "term": "pendango, ga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, tonta, boba, inútil.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0494047619047619,
+        "num_cleaned_definitions": 11,
+        "definition_stability": "Stability: 0.4069",
+        "semantic_similarity_score": 0.4069,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,28 +27,28 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -63,15 +66,23 @@
           "pendejear"
         ],
         "reference_definitions": [
-          "vulg.  Cobarde. “Y como Peliche no es nengún pendango...” El Diluvio, 19 de septiembre de 1936.",
-          "(general)  Pendejo, pusilánime. Variantes: pendón, William Penn. Las tres palabras son eufemismos.",
-          "Pusilánime."
+          "vulg. Cobarde. “Y como Peliche no es nengún pendango...” El Diluvio, 19 de septiembre de 1936.",
+          "Pendejo, pusilánime. Variantes: pendón, William Penn. Las tres palabras son eufemismos.",
+          "Pusilánime.",
+          "Pendejo.",
+          "Cobarde.",
+          "Cornudo.",
+          "Persona boba, zángana.",
+          "Cobarde.",
+          "Cobarde, bobo. Pusilánime.",
+          "Referido a persona, cobarde, pusilánime.",
+          "Referido a persona, tonta, boba, inútil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, tonta, boba, inútil."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

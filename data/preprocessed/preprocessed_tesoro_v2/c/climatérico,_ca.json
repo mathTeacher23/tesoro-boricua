@@ -3,12 +3,15 @@
   "term": "climatérico, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por climático.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Por climático",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07692307692307693,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5141",
+        "semantic_similarity_score": 0.5141,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Por climático."
+    "Por climático"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

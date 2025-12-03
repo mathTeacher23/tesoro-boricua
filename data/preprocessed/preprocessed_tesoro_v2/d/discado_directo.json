@@ -3,12 +3,15 @@
   "term": "discado directo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Marcado directo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Marcado directo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Marcado directo. Sistema de comunicación que permite hacer llamadas de larga distancia sin tener que recurrir a la operadora. Frecuente. DRAE 2001 (Ar..."
+          "Marcado directo. Sistema de comunicación que permite hacer llamadas de larga distancia sin tener que recurrir a la operadora. Frecuente. DRAE 2001 El servicio WATS provee líneas de acceso para el discado directo de llamadas de entrada o salida, dentro de Puerto Rico, bajo los términos y condiciones de una tarifa especial, la cual es basada en uso mensual no detallado"
         ]
       }
     }
   },
   "es_definitions": [
-    "Marcado directo."
+    "Marcado directo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

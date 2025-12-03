@@ -3,12 +3,15 @@
   "term": "saoco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que está a la moda en todo, ropa, bailes, etc.",
+      "consolidated_definition": "Cocolo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04348544973544973,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4668",
+        "semantic_similarity_score": 0.4668,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -39,13 +42,14 @@
         "reference_definitions": [
           "Cocolo. Salsero.",
           "Aquel al que le gusta la música de salsa. Salsero muy a la moda.",
-          "Alguien que se cree que baila bien."
+          "Alguien que se cree que baila bien.",
+          "Persona que está a la moda en todo, ropa, bailes, etc."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que está a la moda en todo, ropa, bailes, etc."
+    "Cocolo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

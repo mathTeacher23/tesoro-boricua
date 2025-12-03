@@ -3,12 +3,15 @@
   "term": "tigua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ave acuática, más pequeña que el zaramagullón, de pico agudo, ojo amarillo, que zambulle para pescar.",
+      "consolidated_definition": "Ave acuática más pequeña que el zaramagullón",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16142198536564734,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5657",
+        "semantic_similarity_score": 0.5657,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -41,28 +44,26 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Ave acuática más pequeña que el zaramagullón, de pico agudo y ojo amarillo.  (Colymbus dominicus d.; Podiceps d.). Stahl, Catalog, 57.",
-          "Colymbus dominicus dominicus. Ave acuática de color gris oscuro, dorso y rabadilla color negro castaño y vientre blanco, pico gris azuloso y patas neg...",
+          "Ave acuática más pequeña que el zaramagullón, de pico agudo y ojo amarillo. . Stahl, Catalog, 57.",
+          "Colymbus dominicus dominicus. Ave acuática de color gris oscuro, dorso y rabadilla color negro castaño y vientre blanco, pico gris azuloso y patas negras. Casi no tiene cola y mide de ocho a quince pulgadas. Reside en lagunas de agua dulce y se parece mucho al zaramago. Suele andar en bandadas y la hembra pone hasta siete huevos. Se le ha localizado en el lago Coamo y en la laguna Cartagena, en la parte occidental de Puerto Rico.",
           "Ave acuática, más pequeña que el zaramagullón, de pico agudo, ojo amarillo, que zambulle para pescar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver tigüero 1 .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver tigüero 1",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -73,8 +74,8 @@
     }
   },
   "es_definitions": [
-    "Ave acuática, más pequeña que el zaramagullón, de pico agudo, ojo amarillo, que zambulle para pescar.",
-    "Ver tigüero 1 ."
+    "Ave acuática más pequeña que el zaramagullón",
+    "Ver tigüero 1"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

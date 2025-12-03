@@ -3,12 +3,15 @@
   "term": "marciano",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El gallo que nace en primavera , como los ruiseñores marcianos que nacen en marzo, son los mejores cantores.",
+      "consolidated_definition": "Llaman a los gallos que cambian el color",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1768622808747693,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6782",
+        "semantic_similarity_score": 0.6782,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,14 +47,15 @@
         "related_words": [],
         "reference_definitions": [
           "Llaman a los gallos que cambian el color de su plumaje en la muda de todos los años.",
-          "El gallo que nace en primavera (marzo), como los ruiseñores marcianos que nacen en marzo, son los mejores cantores. El gallo marciano se distingue por...",
-          "“Para algunos galleros este es un gallo ‘afortunado’, ganador. Es difícil lograr que la gallina ponga el huevo en marzo y lo saque también en marzo”. ..."
+          "El gallo que nace en primavera , como los ruiseñores marcianos que nacen en marzo, son los mejores cantores. El gallo marciano se distingue porque cambia de colores al mudar la pluma. De pinto a rubio, o de rubio a pinto. Hay galleros que opinan que son algunos los que cambian.",
+          "“Para algunos galleros este es un gallo ‘afortunado’, ganador. Es difícil lograr que la gallina ponga el huevo en marzo y lo saque también en marzo”. Ponce.",
+          "En las peleas de gallos, gallo que cambia el color de su plumaje en la muda de cada año."
         ]
       }
     }
   },
   "es_definitions": [
-    "El gallo que nace en primavera , como los ruiseñores marcianos que nacen en marzo, son los mejores cantores."
+    "Llaman a los gallos que cambian el color"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

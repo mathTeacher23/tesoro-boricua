@@ -3,12 +3,15 @@
   "term": "enchismarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enojar a uno mediante inuendos con una tercera persona.",
+      "consolidated_definition": "Enojarse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.7196",
+        "semantic_similarity_score": 0.7196,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,12 +25,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -36,10 +43,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -56,14 +59,17 @@
         ],
         "reference_definitions": [
           "Enojarse.",
-          "(general)  Enojarse, enfadarse, resentirse.",
-          "Enojarse."
+          "Enojarse, enfadarse, resentirse.",
+          "Enojarse.",
+          "Enojar a uno mediante inuendos con una tercera persona.",
+          "Enojarse.",
+          "Enojarse alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enojar a uno mediante inuendos con una tercera persona."
+    "Enojarse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

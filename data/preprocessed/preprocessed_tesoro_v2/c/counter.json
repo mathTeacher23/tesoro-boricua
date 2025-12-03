@@ -3,12 +3,15 @@
   "term": "counter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En un aeropuerto, mostrador donde el viajero presenta los documentos y registra el equipaje.",
+      "consolidated_definition": "Mostrador",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08163265306122448,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5046",
+        "semantic_similarity_score": 0.5046,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Mostrador. Mueble alargado con tope plano usado en cocinas, tiendas, bancos, etc. Anglicismo crudo, usual.\nEl laundry al frente, pues está bien bonito...",
+          "Mostrador. Mueble alargado con tope plano usado en cocinas, tiendas, bancos, etc. Anglicismo crudo, usual. El laundry al frente, pues está bien bonito ...porque están los counters y entonces está la caja registradora y todo lo demás",
           "En un aeropuerto, mostrador donde el viajero presenta los documentos y registra el equipaje."
         ]
       }
     }
   },
   "es_definitions": [
-    "En un aeropuerto, mostrador donde el viajero presenta los documentos y registra el equipaje."
+    "Mostrador"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

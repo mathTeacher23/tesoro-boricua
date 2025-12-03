@@ -3,12 +3,15 @@
   "term": "sumidero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre empleado en Puerto Rico, junto con tembladera, para indicar el tremedal.",
+      "consolidated_definition": ". Pozo negro.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06552911250279671,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4299",
+        "semantic_similarity_score": 0.4299,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -33,10 +40,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,15 +51,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Perú).  Pozo negro.",
-          "Tembladera, tremedal. “Que en la terminología de los llaneros de Venezuela se califican de esteros, y en nuestra propia vernácula expresión llamamos s...",
-          "Nombre empleado en Puerto Rico, junto con tembladera, para indicar el tremedal."
+          ". Pozo negro.",
+          "Tembladera, tremedal. “Que en la terminología de los llaneros de Venezuela se califican de esteros, y en nuestra propia vernácula expresión llamamos sumideros, tembladeras...” Ángel Archilla Cabrera, La ruta naútica del Almirante Colón en , cap. III.",
+          "Nombre empleado en Puerto Rico, junto con tembladera, para indicar el tremedal.",
+          "Pozo lleno de piedras para escape de aguas residuales. Tembladera, tremedal.",
+          "Negocio que causa pérdidas de capital.",
+          "Pozo negro, tremedal."
         ]
       }
     }
   },
   "es_definitions": [
-    "Nombre empleado en Puerto Rico, junto con tembladera, para indicar el tremedal."
+    ". Pozo negro."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

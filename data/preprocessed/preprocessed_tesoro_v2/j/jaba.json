@@ -3,12 +3,15 @@
   "term": "jaba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cesta indígena hecha de hojas de palma de yarey.",
+      "consolidated_definition": "Cesta indígena hecha de hojas de palma de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19999999999999998,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4931",
+        "semantic_similarity_score": 0.4931,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -45,17 +48,21 @@
         "reference_definitions": [
           "Cesta indígena hecha de hojas de palma de yarey.",
           "Cesta indígena hecha de hojas de palma de yarey.",
-          "Saco de henequén grande."
+          "Saco de henequén grande.",
+          "Phaseolus sp. Haba, cesta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Rodaja o loncha de cualquier cosa.",
+      "consolidated_definition": "Pedazo pequeño de jabón",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23167989417989418,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6297",
+        "semantic_similarity_score": 0.6297,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -74,12 +81,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -90,19 +97,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(jíbaro)  Pedazo pequeño de jabón.",
+          "Pedazo pequeño de jabón.",
           "Pastilla de jabón desgastada.",
-          "Rodaja o loncha de cualquier cosa."
+          "Rodaja o loncha de cualquier cosa.",
+          "Pedazo pequeño de jabón."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Crecimiento en el paladar del caballo que le dificulta comer, se cura cortándola y cauterizándola.",
+      "consolidated_definition": "Inflamación que les da a los caballos en",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5792",
+        "semantic_similarity_score": 0.5792,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -117,12 +128,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -138,12 +149,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Semilla.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Semilla",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027777777777777776,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4862",
+        "semantic_similarity_score": 0.4862,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -171,17 +185,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Semilla. Hay dos clases “La jaba de enredadera que envenena a los animales”. Fabaceas. Phaseolus lunatus. “La jaba de burro que se toma pa la fatiga. ...",
+          "Semilla. Hay dos clases “La jaba de enredadera que envenena a los animales”. Fabaceas. Phaseolus lunatus. “La jaba de burro que se toma pa la fatiga. ”Fabaceas. Canavalia ensiformis.",
           "Haba. Variedades de Puerto Rico: haba aterciopelada, haba de burro, haba de espada, haba pinta y haba prieta."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cesta indígena hecha de hojas de palma de yarey.",
-    "Rodaja o loncha de cualquier cosa.",
-    "Crecimiento en el paladar del caballo que le dificulta comer, se cura cortándola y cauterizándola.",
-    "Semilla."
+    "Cesta indígena hecha de hojas de palma de",
+    "Pedazo pequeño de jabón",
+    "Inflamación que les da a los caballos en",
+    "Semilla"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "evento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Situación de enfermedad o molestia no prevista.",
+      "consolidated_definition": "Aconteciemiento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0205761316872428,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4402",
+        "semantic_similarity_score": 0.4402,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -41,14 +44,14 @@
         "related_words": [],
         "reference_definitions": [
           "Aconteciemiento, suceso, hecho.",
-          "Actividad, acto. Celebración de índole deportiva. Usual. DRAE 2001 (Cuba, El Salv., Mex., Perú, Ur. y Ven.)\nSin embargo, el primer evento mundialista ...",
-          "Situación de enfermedad o molestia no prevista. Desvío semántico, poco frecuente. DRAE 2001: eventualidad, hecho imprevisto.\nTambién recomienda que co..."
+          "Actividad, acto. Celebración de índole deportiva. Usual. DRAE 2001 Sin embargo, el primer evento mundialista de deporte colectivo o reconocido por una Federación Internacional adscrita al Comité Olímpico Internacional, COI, efectuado en Puerto Rico fue el Mundobasket de 1974",
+          "Situación de enfermedad o molestia no prevista. Desvío semántico, poco frecuente. DRAE 2001: eventualidad, hecho imprevisto. También recomienda que consulten con sus médicos si han experimentado algún evento adverso que sospechen esté relacionado con el uso del producto"
         ]
       }
     }
   },
   "es_definitions": [
-    "Situación de enfermedad o molestia no prevista."
+    "Aconteciemiento"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

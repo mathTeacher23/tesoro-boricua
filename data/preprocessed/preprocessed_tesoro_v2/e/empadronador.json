@@ -3,12 +3,15 @@
   "term": "empadronador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que tiene sementales y que se dedica comercialmente a empadronar o aparear animales.",
+      "consolidated_definition": "El que tiene sementales para empadronar bestias mediante",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.24639724310776942,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.655",
+        "semantic_similarity_score": 0.655,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,13 +46,14 @@
         "reference_definitions": [
           "El que tiene sementales para empadronar bestias mediante paga.",
           "El que manipula los animales durante el empadronamiento.",
-          "Persona que manipula a los animales durante el empadronamiento."
+          "Persona que manipula a los animales durante el empadronamiento.",
+          "Persona que tiene sementales y que se dedica comercialmente a empadronar o aparear animales."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que tiene sementales y que se dedica comercialmente a empadronar o aparear animales."
+    "El que tiene sementales para empadronar bestias mediante"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

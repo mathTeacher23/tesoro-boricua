@@ -3,12 +3,15 @@
   "term": "colonia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Finca de caña perteneciente a una central o a un colono grande, que tenía su propio capataz, listero y agregados.",
+      "consolidated_definition": "Finca de caña refaccionada por una central",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11588234345592507,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5449",
+        "semantic_similarity_score": 0.5449,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,20 +28,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GONZÁLEZ MUÑIZ,",
             "year": "1988"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -60,13 +63,15 @@
         "reference_definitions": [
           "Finca de caña refaccionada por una central. “Habíame asignado una colonia recién arrendada.” Laguerre, La llamarada, p. 20.",
           "Finca de caña perteneciente a una central o a un colono grande, que tenía su propio capataz, listero y agregados.",
-          "Finca de caña refaccionada por la central azucarera."
+          "Finca de caña refaccionada por la central azucarera.",
+          "Totalidad del terreno en manos del gobierno que se dedica a la siembra de caña.",
+          "Zonas determinadas de café en cultivo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Finca de caña perteneciente a una central o a un colono grande, que tenía su propio capataz, listero y agregados."
+    "Finca de caña refaccionada por una central"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

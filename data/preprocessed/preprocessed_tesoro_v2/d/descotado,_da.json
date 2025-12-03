@@ -3,12 +3,15 @@
   "term": "descotado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a una prenda de vestir, que tiene mucho escote.",
+      "consolidated_definition": "Sin cota o camisón",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10588235294117647,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6567",
+        "semantic_similarity_score": 0.6567,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -39,7 +42,7 @@
           "cota"
         ],
         "reference_definitions": [
-          "Sin cota o camisón. “El nene está descotao.” (desnudo).",
+          "Sin cota o camisón. “El nene está descotao.” .",
           "Referido a una prenda de vestir, que tiene mucho escote.",
           "Referido a un bebé, sin cota o camisón, desnudo."
         ]
@@ -47,7 +50,7 @@
     }
   },
   "es_definitions": [
-    "Referido a una prenda de vestir, que tiene mucho escote."
+    "Sin cota o camisón"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

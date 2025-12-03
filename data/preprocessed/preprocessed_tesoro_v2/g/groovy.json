@@ -3,12 +3,15 @@
   "term": "groovy",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muy bueno, chévere.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Aceptable",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027210884353741496,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4048",
+        "semantic_similarity_score": 0.4048,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,12 +27,12 @@
             "year": "1989"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -41,14 +44,15 @@
         "related_words": [],
         "reference_definitions": [
           "Aceptable. Bien. Bueno. Chévere. Estupendo. Fenómeno. Nítido.",
-          "Muy bueno, chévere. Término usado en los años sesenta, que ha perdido popularidad. Anglicismo crudo, poco frecuente.\nEsta mezcla groovy de funk, loung...",
-          "Estupendo."
+          "Muy bueno, chévere. Término usado en los años sesenta, que ha perdido popularidad. Anglicismo crudo, poco frecuente. Esta mezcla groovy de funk, lounge, rock y un torrente de voz particular es capaz de seducirte en un viaje alucinógeno a través del circo de tus sentidos",
+          "Estupendo.",
+          "Magnífico."
         ]
       }
     }
   },
   "es_definitions": [
-    "Muy bueno, chévere."
+    "Aceptable"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

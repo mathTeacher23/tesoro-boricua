@@ -3,12 +3,15 @@
   "term": "beautician",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estilista, especialista en peinados y en cosméticos.",
+      "consolidated_definition": "Peluquera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05454545454545454,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5099",
+        "semantic_similarity_score": 0.5099,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -40,14 +43,14 @@
           "beauty (parlor)"
         ],
         "reference_definitions": [
-          "Peluquera. Especialista que tiene por oficio peinar, cortar el pelo y vender o hacer pelucas, rizos, etc. en un local para estos fines. Anglicismo cru...",
+          "Peluquera. Especialista que tiene por oficio peinar, cortar el pelo y vender o hacer pelucas, rizos, etc. en un local para estos fines. Anglicismo crudo, usual. Casi se decide a irse cuando se le acerca una mano con reloj de oro, cutículas cuidadas",
           "Estilista, especialista en peinados y en cosméticos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estilista, especialista en peinados y en cosméticos."
+    "Peluquera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

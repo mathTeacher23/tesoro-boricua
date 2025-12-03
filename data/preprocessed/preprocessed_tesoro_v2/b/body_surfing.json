@@ -3,12 +3,15 @@
   "term": "body surfing",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. Deporte que consiste en seguir las olas sin usar ninguna tabla. Anglicismo crudo, frecuente.\nComo todas las playas de Puerto Rico, Isla Verde es ..."
+          "dep. Deporte que consiste en seguir las olas sin usar ninguna tabla. Anglicismo crudo, frecuente. Como todas las playas de Puerto Rico, Isla Verde es playa pública. Por esto entre las cosas que puede hacer gartiuitamente están el jogging matutino o vespertino, tomar el sol, hacer body surfing o construir castillos de arena"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

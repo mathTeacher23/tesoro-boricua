@@ -3,12 +3,15 @@
   "term": "récord",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Archivo, expediente.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Archivo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09297477590160518,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5306",
+        "semantic_similarity_score": 0.5306,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -35,15 +38,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Archivo, expediente. Documento o pieza de evidencia que se guarda clasificado. Desvío semántico, usual. DRAE 2001: marca. Compuestos: récord académico...",
-          "dep. Marca. Resultado máximo o mínimo en deportes u otras actividades. Anglicismo adaptado, usual. Compuesto: recordman. DRAE 2001, del inglés.\nEn est...",
-          "Historial. Conjunto de las actuaciones importantes de una persona. Anglicismo adaptado, frecuente.\nPensemos bien las cosas y a veces hay que husmear u..."
+          "Archivo, expediente. Documento o pieza de evidencia que se guarda clasificado. Desvío semántico, usual. DRAE 2001: marca. Compuestos: récord académico, record book, récord criminal, récord médico. Los 11 récords están pasando por un proceso de carpeteo porque no están en las regiones donde trabajamos nosotros",
+          "dep. Marca. Resultado máximo o mínimo en deportes u otras actividades. Anglicismo adaptado, usual. Compuesto: recordman. DRAE 2001, del inglés. En esta temporada que está próxima a finalizar, Puerto Rico estableció un récord con ocho participantes en el Juego de Estrellas",
+          "Historial. Conjunto de las actuaciones importantes de una persona. Anglicismo adaptado, frecuente. Pensemos bien las cosas y a veces hay que husmear un poco detras de las cortinas para darnos cuenta de como son las cosas antes de defender a un artista que ya tiene un récord delictivo alrededor del mundo"
         ]
       }
     }
   },
   "es_definitions": [
-    "Archivo, expediente."
+    "Archivo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

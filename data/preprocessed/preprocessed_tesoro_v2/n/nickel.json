@@ -3,12 +3,15 @@
   "term": "nickel",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dosis equivalente a cinco dólares de heroína.",
+      "consolidated_definition": "Cinco dólares de heroína",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5714285714285714,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9321",
+        "semantic_similarity_score": 0.9321,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Dosis equivalente a cinco dólares de heroína."
+    "Cinco dólares de heroína"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

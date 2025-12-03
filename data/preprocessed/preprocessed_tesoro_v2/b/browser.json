@@ -3,12 +3,15 @@
   "term": "browser",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,13 +36,13 @@
           "browsear"
         ],
         "reference_definitions": [
-          "inform. Navegador, buscador, lector. Programa de computadora utilizado para acceder a las páginas electrónicas (como Explorer, Navigator, etc). Anglic..."
+          "inform. Navegador, buscador, lector. Programa de computadora utilizado para acceder a las páginas electrónicas . Anglicismo crudo, usual. Esto hará que su modem marque el número de acceso de Puerto Rico Digital, y al conectarse, abrirá el browser de su preferencia"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

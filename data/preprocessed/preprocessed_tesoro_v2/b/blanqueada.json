@@ -3,12 +3,15 @@
   "term": "blanqueada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol, partido en que uno de los equipos no hace anotación de carrera.",
+      "consolidated_definition": ". Blanqueo. Ac., relacionado con una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08589572192513369,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.443",
+        "semantic_similarity_score": 0.443,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -45,7 +48,7 @@
           "blanquear"
         ],
         "reference_definitions": [
-          "(T. en Méx.). Blanqueo. Ac.",
+          ". Blanqueo. Ac.",
           "En béisbol, partido en que uno de los equipos no hace anotación de carrera.",
           "En el beisbol, derrota amplia al contrario sin que anote una sola carrera."
         ]
@@ -53,7 +56,7 @@
     }
   },
   "es_definitions": [
-    "En béisbol, partido en que uno de los equipos no hace anotación de carrera."
+    ". Blanqueo. Ac., relacionado con una calificación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

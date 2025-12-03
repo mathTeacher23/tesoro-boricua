@@ -3,12 +3,15 @@
   "term": "tener todos los hierros",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser bien parecido; persona apuesta.",
+      "consolidated_definition": "Ser estupendo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5589",
+        "semantic_similarity_score": 0.5589,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,16 +23,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "LAUREANO ORTEGA,",
             "year": "1969"
           },
           {
             "source": "SOLER,",
             "year": "1973"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "Ser bien parecido; persona apuesta."
+    "Ser estupendo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

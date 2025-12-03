@@ -3,12 +3,15 @@
   "term": "stock",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Existencias, almacén.",
+      "consolidated_definition": "Existencias",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.005128205128205128,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.657",
+        "semantic_similarity_score": 0.657,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,19 +44,22 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Existencias.  Surtido.",
+          "Existencias. Surtido.",
           "Existencias, almacén.",
-          "comer. Inventario, existencias. Almacenamiento de mercancías disponibles para su distribución o disponibles para un futuro. Anglicismo crudo, frecuent..."
+          "comer. Inventario, existencias. Almacenamiento de mercancías disponibles para su distribución o disponibles para un futuro. Anglicismo crudo, frecuente. DRAE 2001, voz inglesa. Cada vez que intento ordenar mi disco me dicen que no existe ni va a existir en el stock. ¿Cómo voy a promover algo que no está ?”, agregó el estudiante de Comunicaciones que, sostiene, se vio obligado a posponer sus estudios durante un semestre por el concurso"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Acciones o valores de la bolsa.",
+      "consolidated_definition": "Acciones o valores de la bolsa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.044444444444444446,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5193",
+        "semantic_similarity_score": 0.5193,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,14 +88,14 @@
         "related_words": [],
         "reference_definitions": [
           "Acciones o valores de la bolsa.",
-          "econ. Acciones, valores. Capital o fondos de que dispone una empresa. Anglicismo crudo, poco frecuente. Forma el compuesto stock option.\nEl stock de i..."
+          "econ. Acciones, valores. Capital o fondos de que dispone una empresa. Anglicismo crudo, poco frecuente. Forma el compuesto stock option. El stock de inversiones directas extranjeras provenientes de otros países latinoamericanos, 1989 y 1994 suman muchos"
         ]
       }
     }
   },
   "es_definitions": [
-    "Existencias, almacén.",
-    "Acciones o valores de la bolsa."
+    "Existencias",
+    "Acciones o valores de la bolsa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

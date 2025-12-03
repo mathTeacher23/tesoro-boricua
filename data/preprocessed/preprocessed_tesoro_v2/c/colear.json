@@ -3,12 +3,15 @@
   "term": "colear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Examinar y refrescar los gallos durante el descanso en una pelea.",
+      "consolidated_definition": "Preparar los gallos para la pelea",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.26595150880865165,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.7443",
+        "semantic_similarity_score": 0.7443,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,6 +25,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -32,10 +39,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -52,17 +55,24 @@
         "reference_definitions": [
           "Preparar los gallos para la pelea.",
           "Probarlos, para tener idea de su modo de pelear.",
-          "Preparar los gallos para la lucha."
+          "Preparar los gallos para la lucha.",
+          "Preparar los gallos de pelea.",
+          "Examinar y refrescar los gallos durante el descanso en una pelea.",
+          "Preparar alguien los gallos para la pelea.",
+          "Probar alguien los gallos, tener idea de su forma de pelear."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Acercarse alguien a una determinada edad, generalmente avanzada.",
+      "consolidated_definition": ". Hablando de personas, frisar en una edad, acercarse a ella. Juan colea en los 50 años., relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19047619047619047,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5286",
+        "semantic_similarity_score": 0.5286,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -76,12 +86,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -91,15 +101,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Hond.).  Hablando de personas, frisar en una edad, acercarse a ella. Juan colea en los 50 años.",
+          ". Hablando de personas, frisar en una edad, acercarse a ella. Juan colea en los 50 años.",
           "Acercarse alguien a una determinada edad, generalmente avanzada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Examinar y refrescar los gallos durante el descanso en una pelea.",
-    "Acercarse alguien a una determinada edad, generalmente avanzada."
+    "Preparar los gallos para la pelea",
+    ". Hablando de personas, frisar en una edad, acercarse a ella. Juan colea en los 50 años., relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

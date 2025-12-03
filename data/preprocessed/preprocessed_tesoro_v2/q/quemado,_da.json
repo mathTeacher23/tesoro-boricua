@@ -3,12 +3,15 @@
   "term": "quemado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice del gallo que ha sufrido exceso de enfrentamiento.",
+      "consolidated_definition": "Se dice del gallo que ha sufrido exceso",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -32,17 +35,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice del gallo que ha sufrido exceso de enfrentamiento. Hay que ponerlo en descanso por un mes en un rejón o darle una bota larga como si fuera una..."
+          "Se dice del gallo que ha sufrido exceso de enfrentamiento. Hay que ponerlo en descanso por un mes en un rejón o darle una bota larga como si fuera una pelea para sacarlo de esa condición y comenzar su preparación nuevamente.. Se le llama también gallo pasao de cabuya. y gallo pasao de cuido."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dícese de la persona que está pasando los efectos de una borrachera.",
+      "consolidated_definition": "Se dice de quien tiene malestar producido por",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07534801678108315,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5609",
+        "semantic_similarity_score": 0.5609,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -54,20 +60,20 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1966"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1966"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -81,17 +87,21 @@
         "reference_definitions": [
           "Se dice de quien tiene malestar producido por exceso de alcohol. Está quemado o ardido.",
           "Dícese de la persona que está pasando los efectos de una borrachera.",
-          "Estado de alguien después de pasar una borrachera."
+          "Estado de alguien después de pasar una borrachera.",
+          "Referido a persona, que tiene resaca."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Dícese de la persona convicta en un tribunal de justicia.",
+      "consolidated_definition": "Acabado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1542483660130719,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5887",
+        "semantic_similarity_score": 0.5887,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -108,12 +118,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -127,15 +137,16 @@
         "reference_definitions": [
           "Acabado. En el juego, que ya no vale como jugador.",
           "Dícese de la persona convicta en un tribunal de justicia.",
-          "Referido a un jugador, que ha perdido sus aptitudes."
+          "Referido a un jugador, que ha perdido sus aptitudes.",
+          "Referido a persona, convicta en un tribunal de justicia."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se dice del gallo que ha sufrido exceso de enfrentamiento.",
-    "Dícese de la persona que está pasando los efectos de una borrachera.",
-    "Dícese de la persona convicta en un tribunal de justicia."
+    "Se dice del gallo que ha sufrido exceso",
+    "Se dice de quien tiene malestar producido por",
+    "Acabado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

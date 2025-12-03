@@ -3,12 +3,15 @@
   "term": "friega",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Regaño, reprimenda.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Tunda",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11988304093567252,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.531",
+        "semantic_similarity_score": 0.531,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,13 +45,14 @@
         "reference_definitions": [
           "Tunda, zurra. Ac.",
           "Regaño, reprimenda.",
-          "Molestia, majadería. Ac. (Estas acepciones deben de estar en uso en toda América y aun en la misma España)."
+          "Molestia, majadería. Ac. .",
+          "Tunda, zurra."
         ]
       }
     }
   },
   "es_definitions": [
-    "Regaño, reprimenda."
+    "Tunda"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

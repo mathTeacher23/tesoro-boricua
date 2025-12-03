@@ -3,12 +3,15 @@
   "term": "fiestear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Meterse en fiesta, irse de fiesta.",
+      "consolidated_definition": "Estar de fiestas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09491878841088675,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5884",
+        "semantic_similarity_score": 0.5884,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -22,24 +25,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -56,15 +59,17 @@
           "fiestón"
         ],
         "reference_definitions": [
-          "Estar de fiestas. “Y lo más festivo ha resultado que también el pueblo en masa se ha visto obligado a bailar y fiestar.” Luis Brau, Festividad bancari...",
+          "Estar de fiestas. “Y lo más festivo ha resultado que también el pueblo en masa se ha visto obligado a bailar y fiestar.” Luis Brau, Festividad bancaria, “Pica Pica”, núm. del 15 de abril de 1933. “La señora... declaró que en lo sucesivo sólo aceptaría fiesteos a escote.” Max Ríos Ríos, La bella intrusa, 1930, p. 15. .",
           "Meterse en fiesta, irse de fiesta.",
-          "Estar o meterse en fiesta."
+          "Estar o meterse en fiesta.",
+          "Divertirse.",
+          "Andar de fiesta, divertirse."
         ]
       }
     }
   },
   "es_definitions": [
-    "Meterse en fiesta, irse de fiesta."
+    "Estar de fiestas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

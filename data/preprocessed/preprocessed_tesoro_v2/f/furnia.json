@@ -3,12 +3,15 @@
   "term": "furnia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Terreno cubierto de fango fino con cierta profundidad.",
+      "consolidated_definition": "Sumidero natural",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06900656814449918,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4859",
+        "semantic_similarity_score": 0.4859,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,28 +24,28 @@
         ],
         "sources": [
           {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
-          },
-          {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
           },
           {
             "source": "MAULEÓN,",
             "year": "1974"
           },
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -56,19 +59,25 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Sumidero natural. Ac. (En caló gitano: cueva).",
+          "Sumidero natural. Ac. .",
           "Sumidero.",
-          "(Antillas Hispanas). Sumidero natural; concavidad o sima subterránea vertical o agujero profundo y angosto, más propiamente entre peñas, por donde cor..."
+          ". Sumidero natural; concavidad o sima subterránea vertical o agujero profundo y angosto, más propiamente entre peñas, por donde corren las aguas que se recogen en los terrenos bajos. Canarismo. El agua que se estanca y encharca, tanto en el propio manantial como en otros sitios de más amplia extensión por donde se detiene y se sume bajo tierra, formando áreas cenagosas.",
+          "Arcaísmo equivalente a ciénaga. Leonesismo.",
+          "Sumidero.",
+          "Terreno cubierto de fango fino con cierta profundidad. Tembladera."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En lugares del oeste de la isla se da también el nombre de furnia al manantial encharcado.",
+      "consolidated_definition": "En lugares del oeste de la isla se",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4166666666666667,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7081",
+        "semantic_similarity_score": 0.7081,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -81,16 +90,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1972"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -109,8 +118,8 @@
     }
   },
   "es_definitions": [
-    "Terreno cubierto de fango fino con cierta profundidad.",
-    "En lugares del oeste de la isla se da también el nombre de furnia al manantial encharcado."
+    "Sumidero natural",
+    "En lugares del oeste de la isla se"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

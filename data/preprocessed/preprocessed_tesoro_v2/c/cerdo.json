@@ -3,12 +3,15 @@
   "term": "cerdo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guardia, agente de policía.",
+      "consolidated_definition": "Guardia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1611111111111111,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7291",
+        "semantic_similarity_score": 0.7291,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -38,13 +41,14 @@
         "reference_definitions": [
           "Guardia. Oficial de la policía. Agente del NIC. Agente del orden.",
           "Camarón. Policía encubierto.",
-          "Guardia, agente de policía."
+          "Guardia, agente de policía.",
+          "Policía encubierto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Guardia, agente de policía."
+    "Guardia"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

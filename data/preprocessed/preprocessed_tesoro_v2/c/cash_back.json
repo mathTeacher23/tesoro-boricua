@@ -3,12 +3,15 @@
   "term": "cash back",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dinero en efectivo que se retira al efectuar una compra con una tarjeta de débito.",
+      "consolidated_definition": "Dinero en efectivo que se retira al efectuar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0963855421686747,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5856",
+        "semantic_similarity_score": 0.5856,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,14 +34,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Dinero en efectivo que se retira al efectuar una compra con una tarjeta de débito.\nEn otras palabras, no hay cargos por el primero retiro mensual en e...",
-          "Recompensa monetaria que se ofrece a un cliente a cambio de alguna compra.\nEl sitio web credit.com recomienda usar las tarjetas de crédito con recompe..."
+          "Dinero en efectivo que se retira al efectuar una compra con una tarjeta de débito. En otras palabras, no hay cargos por el primero retiro mensual en el cajero automático, compras hechas en establecimientos comerciales, o por retiros en efectivo hechos a través de establecimientos comerciales o “cash back”.",
+          "Recompensa monetaria que se ofrece a un cliente a cambio de alguna compra. El sitio web credit.com recomienda usar las tarjetas de crédito con recompensas para ciertas compras, de manera que ganes puntos o efectivo acumulado , pero intenta pagar el monto acreditado lo más pronto posible."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dinero en efectivo que se retira al efectuar una compra con una tarjeta de débito."
+    "Dinero en efectivo que se retira al efectuar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

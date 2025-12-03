@@ -3,12 +3,15 @@
   "term": "seca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sequía.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Sequía",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -36,12 +39,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Inflamación o resentimiento en las glándulas o tejidos adyacentes a la región pélvica.",
+      "consolidated_definition": "Inflamación o resentimiento en las glándulas o tejidos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -70,8 +76,8 @@
     }
   },
   "es_definitions": [
-    "Sequía.",
-    "Inflamación o resentimiento en las glándulas o tejidos adyacentes a la región pélvica."
+    "Sequía",
+    "Inflamación o resentimiento en las glándulas o tejidos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

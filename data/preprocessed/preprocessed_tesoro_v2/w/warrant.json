@@ -3,12 +3,15 @@
   "term": "warrant",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Recurso legal que emite un juez para autorizar un arresto, efectuar un cateo, confiscación u otra orden judicial.",
+      "consolidated_definition": "econ",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03428050994827341,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4437",
+        "semantic_similarity_score": 0.4437,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -40,15 +43,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "econ. Bono de suscripción, cédula, garantía. Documento o certificado emitido por una corporación que da derecho a comprar acciones de esa corporación ...",
-          "der. Advertencia. Aviso o advertencia de que existe una orden de arresto contra una persona. Anglicismo crudo, poco frecuente.\n“Con Aduana pusimos el ...",
-          "Recurso legal que emite un juez para autorizar un arresto, efectuar un cateo, confiscación u otra orden judicial."
+          "econ. Bono de suscripción, cédula, garantía. Documento o certificado emitido por una corporación que da derecho a comprar acciones de esa corporación a un precio acordado. Anglicismo crudo, poco frecuente. Ahí pues entran una serie de cosas, como lo son, las opciones o los warrants, dicho sea de paso esa palabra, warrant, es una palabra que ha ganado hasta papeles de ciudadanía en varios países de la América del Sur. Los diccionarios lo traducen como cédula pero tampoco la cédula es exactamente un warrant, y los suramericanos prefieren usar el término de warrant, en mi entender...., justificadamente, para designar a estas cosas",
+          "der. Advertencia. Aviso o advertencia de que existe una orden de arresto contra una persona. Anglicismo crudo, poco frecuente. “Con Aduana pusimos el warrant de él en todas las islas, que si él tenía intención de quedarse, las autoridades de las islas tenían las dos órdenes de arresto”, destacó Ríos",
+          "Recurso legal que emite un juez para autorizar un arresto, efectuar un cateo, confiscación u otra orden judicial.",
+          "Cédula comercial, certificación de depósito."
         ]
       }
     }
   },
   "es_definitions": [
-    "Recurso legal que emite un juez para autorizar un arresto, efectuar un cateo, confiscación u otra orden judicial."
+    "econ"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

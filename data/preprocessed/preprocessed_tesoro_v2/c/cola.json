@@ -3,12 +3,15 @@
   "term": "cola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para indicar el manojo de hojas que forman la corona de la fruta [piña] aparecieron entremezcladamente las palabras [...] cola, Utuado.",
+      "consolidated_definition": "Para indicar el manojo de hojas que forman",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5527",
+        "semantic_similarity_score": 0.5527,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           }
         ],
         "years": [
@@ -36,18 +39,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para indicar el manojo de hojas que forman la corona de la fruta [piña] aparecieron entremezcladamente las palabras [...] cola, Utuado.",
+          "Para indicar el manojo de hojas que forman la corona de la fruta aparecieron entremezcladamente las palabras cola, Utuado.",
           "Corona de la piña."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Hoja verde de la parte superior de la caña que no contiene azúcar; cortada la caña, se deja sobre el terreno para abono o alimento de las reses.",
+      "consolidated_definition": "Hoja verde de la parte de arriba de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5454545454545454,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9114",
+        "semantic_similarity_score": 0.9114,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -60,12 +66,12 @@
         ],
         "sources": [
           {
-            "source": "GONZÁLEZ MUÑIZ,",
-            "year": "1988"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "GONZÁLEZ MUÑIZ,",
+            "year": "1988"
           }
         ],
         "years": [
@@ -75,18 +81,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hoja verde de la parte de arriba de la caña. No contiene azúcar y se deja sobre el terreno para abono o alimento de las reses. Esta hoja verde se desh...",
+          "Hoja verde de la parte de arriba de la caña. No contiene azúcar y se deja sobre el terreno para abono o alimento de las reses. Esta hoja verde se deshecha sin perjuicio para el valor de la caña.",
           "Hoja verde de la parte superior de la caña que no contiene azúcar; cortada la caña, se deja sobre el terreno para abono o alimento de las reses."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Peón flojo que rinde menos labor que los demás.",
+      "consolidated_definition": "Peón flojo que rinde menos labor que los",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -116,12 +125,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Trasero, nalgas.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Trasero",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -150,10 +162,10 @@
     }
   },
   "es_definitions": [
-    "Para indicar el manojo de hojas que forman la corona de la fruta [piña] aparecieron entremezcladamente las palabras [...] cola, Utuado.",
-    "Hoja verde de la parte superior de la caña que no contiene azúcar; cortada la caña, se deja sobre el terreno para abono o alimento de las reses.",
-    "Peón flojo que rinde menos labor que los demás.",
-    "Trasero, nalgas."
+    "Para indicar el manojo de hojas que forman",
+    "Hoja verde de la parte de arriba de",
+    "Peón flojo que rinde menos labor que los",
+    "Trasero"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

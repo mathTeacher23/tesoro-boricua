@@ -3,12 +3,15 @@
   "term": "pasado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona atrevida, propasada.",
+      "consolidated_definition": "Dícese de la persona atrevida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.015151515151515152,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5732",
+        "semantic_similarity_score": 0.5732,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,17 +44,21 @@
         "reference_definitions": [
           "Dícese de la persona atrevida, propasada.",
           "Del estudiante aprobado.",
-          "Persona que se toma demasiadas confianzas."
+          "Persona que se toma demasiadas confianzas.",
+          "Referido a persona, muy inteligente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Tela o ropa demasiado vieja o desgastada.",
+      "consolidated_definition": "Tela o ropa demasiado vieja o desgastada",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.030303030303030304,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5031",
+        "semantic_similarity_score": 0.5031,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -82,19 +89,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Tela o ropa demasiado vieja o desgastada.",
+          "Tela o ropa demasiado vieja o desgastada.",
           "Dícese de la tela podrida.",
           "Del fruto maduro pero no podrido."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Ex, anterior, precedente.",
+      "consolidated_definition": "Ex",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -116,15 +126,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Ex, anterior, precedente. Que ya no ocupa el cargo que tenía. Anglicismo adaptado, frecuente.\nMencionó, además, que la pasada alcaldesa de San Juan, S..."
+          "Ex, anterior, precedente. Que ya no ocupa el cargo que tenía. Anglicismo adaptado, frecuente. Mencionó, además, que la pasada alcaldesa de San Juan, Sila M. Calderón, gastó $23 millones en publicidad"
         ]
       }
     }
   },
   "es_definitions": [
-    "Dícese de la persona atrevida, propasada.",
-    "Tela o ropa demasiado vieja o desgastada.",
-    "Ex, anterior, precedente."
+    "Dícese de la persona atrevida",
+    "Tela o ropa demasiado vieja o desgastada",
+    "Ex"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

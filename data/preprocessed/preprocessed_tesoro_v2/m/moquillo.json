@@ -3,12 +3,15 @@
   "term": "moquillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Afección que le produce al gallo y a las gallinas en general secreciones por la nariz.",
+      "consolidated_definition": "Enfermedad propia de las aves especialmente las gallinas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07686011904761904,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.309",
+        "semantic_similarity_score": 0.309,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,15 +45,16 @@
           "moquilloso, sa"
         ],
         "reference_definitions": [
-          "Enfermedad propia de las aves especialmente las gallinas. Afección nasal que le produce al gallo y a las aves en general secreciones por la nariz. El ...",
-          "Afección que le produce al gallo y a las gallinas en general secreciones por la nariz. Se identifica también con la ‘pepita de las gallinas’ lo que re...",
-          "Secreción nasal que da al comienzo de un catarro."
+          "Enfermedad propia de las aves especialmente las gallinas. Afección nasal que le produce al gallo y a las aves en general secreciones por la nariz. El DRAE, p. 922, lo da como ‘pepita de las gallinas’.",
+          "Afección que le produce al gallo y a las gallinas en general secreciones por la nariz. Se identifica también con la ‘pepita de las gallinas’ lo que resulta inexacto en Puerto Rico. La confusión surge porque pepita es deformación de pituita, ‘humor de la nariz, moco’. El veterinario Sr. Torruellas indica que en Puerto Rico la pepita no es sinónimo de moquillo. El moquillo equivale al catarro de las aves. La pepita es una carnosidad fina que crece en la punta de la lengua. Caguas.",
+          "Secreción nasal que da al comienzo de un catarro.",
+          "Gripe."
         ]
       }
     }
   },
   "es_definitions": [
-    "Afección que le produce al gallo y a las gallinas en general secreciones por la nariz."
+    "Enfermedad propia de las aves especialmente las gallinas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

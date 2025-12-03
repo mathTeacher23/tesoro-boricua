@@ -3,12 +3,15 @@
   "term": "vainilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Extracto de la vainilla.",
+      "consolidated_definition": ". Planta de flores que contienen muchas simientes menudas y universalmente apreciadas para aromatizar los licores, el chocolate, etc. Ac.; Grosourdy, 3, 163; Otero, 280. .",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0481962481962482,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4633",
+        "semantic_similarity_score": 0.4633,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -45,7 +48,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Am.).  Planta de flores que contienen muchas simientes menudas y universalmente apreciadas para aromatizar los licores, el chocolate, etc. Ac.;...",
+          ". Planta de flores que contienen muchas simientes menudas y universalmente apreciadas para aromatizar los licores, el chocolate, etc. Ac.; Grosourdy, 3, 163; Otero, 280. .",
           "Extracto de la vainilla.",
           "Vanilla vanilla L. Planta trepadora cuyas semillas producen aroma, aceites esenciales usados en medicinas y alimentos. Estimula la digestión."
         ]
@@ -53,7 +56,7 @@
     }
   },
   "es_definitions": [
-    "Extracto de la vainilla."
+    ". Planta de flores que contienen muchas simientes menudas y universalmente apreciadas para aromatizar los licores, el chocolate, etc. Ac.; Grosourdy, 3, 163; Otero, 280. ."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

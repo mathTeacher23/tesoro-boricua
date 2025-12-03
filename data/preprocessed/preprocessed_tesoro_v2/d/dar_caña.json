@@ -3,12 +3,15 @@
   "term": "dar caña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empezar un trabajo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Insultar",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.2516",
+        "semantic_similarity_score": 0.2516,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Empezar un trabajo."
+    "Insultar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

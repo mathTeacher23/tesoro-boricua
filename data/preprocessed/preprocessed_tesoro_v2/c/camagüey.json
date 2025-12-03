@@ -3,12 +3,15 @@
   "term": "camagüey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol corpulento de sombra buena para el café.",
+      "consolidated_definition": "Árbol corpulento de sombra buena para el café",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -38,12 +41,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Se observará que en estas combinaciones del camagüey el blanco siempre está presente en su plumaje, como en la vestimenta del cubano la guayabera blanca.",
+      "consolidated_definition": "Gallo o gallina de cierto color",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08779609290102768,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6351",
+        "semantic_similarity_score": 0.6351,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,16 +64,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -78,16 +84,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Gallo o gallina de cierto color. La grafía canagüey es más usada. “Mi abuelo... era gallero...; mi padre era criador de los camagüeyes de Espinosa, qu...",
-          "Gallo considerado muy fino, es blanco con plumas amarillas o blanco con chapas coloradas. Oriundo de Cuba. Algunos informantes describieron su plumaje...",
-          "Se observará que en estas combinaciones del camagüey el blanco siempre está presente en su plumaje, como en la vestimenta del cubano la guayabera blan..."
+          "Gallo o gallina de cierto color. La grafía canagüey es más usada. “Mi abuelo... era gallero...; mi padre era criador de los camagüeyes de Espinosa, que mataban en los tiros volaos.” Fernández Juncos, La última hornada, 1928, p. 12. Variante: canagüey.",
+          "Gallo considerado muy fino, es blanco con plumas amarillas o blanco con chapas coloradas. Oriundo de Cuba. Algunos informantes describieron su plumaje como blanco y marrón.",
+          "Se observará que en estas combinaciones del camagüey el blanco siempre está presente en su plumaje, como en la vestimenta del cubano la guayabera blanca.",
+          "Gallo o gallina, de color blanco con pintas amarillas o rojas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Árbol corpulento de sombra buena para el café.",
-    "Se observará que en estas combinaciones del camagüey el blanco siempre está presente en su plumaje, como en la vestimenta del cubano la guayabera blanca."
+    "Árbol corpulento de sombra buena para el café",
+    "Gallo o gallina de cierto color"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

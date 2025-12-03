@@ -3,12 +3,15 @@
   "term": "norte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Viento favorable para navegar y para pescar con chinchorro de arrastre.",
+      "consolidated_definition": "Viento favorable para navegar y para pescar con",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10700362016151489,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.436",
+        "semantic_similarity_score": 0.436,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "FIGUEROA,",
+            "year": "1965"
           },
           {
             "source": "VAQUERO,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -52,18 +55,22 @@
         ],
         "reference_definitions": [
           "Viento favorable para navegar y para pescar con chinchorro de arrastre.",
-          "(T. en Cuba y La Palma).  Viento que sopla de esta parte.",
-          "Brisa del mar."
+          ". Viento que sopla de esta parte.",
+          "Brisa del mar.",
+          "En las actividades marítimas, brisa del mar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "La llovizna que cae cuando sopla viento del norte.",
+      "consolidated_definition": "Llovizna fina",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.041666666666666664,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5657",
+        "semantic_similarity_score": 0.5657,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,12 +83,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
@@ -106,14 +113,15 @@
         "reference_definitions": [
           "Llovizna fina.",
           "Lluvia menuda y continua.",
-          "Llovizna prolongada; a veces dura todo el día."
+          "Llovizna prolongada; a veces dura todo el día.",
+          "La llovizna que cae cuando sopla viento del norte. También nortecito."
         ]
       }
     }
   },
   "es_definitions": [
-    "Viento favorable para navegar y para pescar con chinchorro de arrastre.",
-    "La llovizna que cae cuando sopla viento del norte."
+    "Viento favorable para navegar y para pescar con",
+    "Llovizna fina"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

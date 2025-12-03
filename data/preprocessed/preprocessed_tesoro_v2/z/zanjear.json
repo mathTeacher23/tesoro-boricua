@@ -3,12 +3,15 @@
   "term": "zanjear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sacar el exceso de agua del terreno.",
+      "consolidated_definition": "Zanjar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.015151515151515152,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5124",
+        "semantic_similarity_score": 0.5124,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GONZÁLEZ MUÑIZ,",
             "year": "1988"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,13 +49,14 @@
         "reference_definitions": [
           "Zanjar. Transigir.",
           "Hacer zanjas.",
-          "Sacar el exceso de agua del terreno."
+          "Sacar el exceso de agua del terreno.",
+          "Abrir zanjas en un terreno."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sacar el exceso de agua del terreno."
+    "Zanjar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

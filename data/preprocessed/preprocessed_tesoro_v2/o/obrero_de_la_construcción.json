@@ -3,12 +3,15 @@
   "term": "obrero de la construcción",
   "superscripts": {
     "1": {
-      "consolidated_definition": "constr.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "constr",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "constr. Albañil, obrero. Persona entrenada en la construcción de edificios, casas, etc. El inglés actúa de elemento difusor. Calco de estructura, usua..."
+          "constr. Albañil, obrero. Persona entrenada en la construcción de edificios, casas, etc. El inglés actúa de elemento difusor. Calco de estructura, usual. Hoy, las circunstancias en que trabaja un obrero de la construcción distan dramáticamente de aquellas en la década del 1940 al 1950. El ambiente en la industria de la construcción es cada vez más seguro, con mayores cuidados para proteger la salud del trabajador, y así su productividad y su continuo desarrollo y mejoramiento en el arte que practica"
         ]
       }
     }
   },
   "es_definitions": [
-    "constr."
+    "constr"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

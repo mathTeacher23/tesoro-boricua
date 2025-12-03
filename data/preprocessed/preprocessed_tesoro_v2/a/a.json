@@ -3,12 +3,15 @@
   "term": "a",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Símbolo de la calificación recibida en un curso, examen o cualquier otro tipo de trabajo cuyo valor en términos numéricos oscila entre 3.5 y 4.0, ó entre 90 y 100.",
+      "consolidated_definition": "Símbolo de la calificación recibida en un curso, que representa una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.019230769230769232,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4147",
+        "semantic_similarity_score": 0.4147,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -39,14 +42,14 @@
           "A+"
         ],
         "reference_definitions": [
-          "Símbolo de la calificación recibida en un curso, examen o cualquier otro tipo de trabajo cuyo valor en términos numéricos oscila entre 3.5 y 4.0, ó en...",
+          "Símbolo de la calificación recibida en un curso, examen o cualquier otro tipo de trabajo cuyo valor en términos numéricos oscila entre 3.5 y 4.0, ó entre 90 y 100. Siempre pronunciado en español. Anglicismo adaptado, usual. El sistema de calificaciones de la Universidad de Puerto Rico en Cayey es el siguiente: A-Sobresaliente; B-Bueno; C-Satisfactorio; D-Aprobado",
           "Calificación académica máxima."
         ]
       }
     }
   },
   "es_definitions": [
-    "Símbolo de la calificación recibida en un curso, examen o cualquier otro tipo de trabajo cuyo valor en términos numéricos oscila entre 3.5 y 4.0, ó entre 90 y 100."
+    "Símbolo de la calificación recibida en un curso, que representa una calificación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

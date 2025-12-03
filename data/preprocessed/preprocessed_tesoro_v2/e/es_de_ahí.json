@@ -3,12 +3,15 @@
   "term": "es de ahí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de algo aceptado o cierto.",
+      "consolidated_definition": "Se dice de algo aceptado o cierto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4761",
+        "semantic_similarity_score": 0.4761,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Se dice de algo aceptado o cierto."
+    "Se dice de algo aceptado o cierto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

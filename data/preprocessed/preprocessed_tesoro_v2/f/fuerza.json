@@ -3,12 +3,15 @@
   "term": "fuerza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mondongo, pedazos lavados y cocidos del estómago e intestino de un vacuno.",
+      "consolidated_definition": "Mondongo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07478047837954958,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.3594",
+        "semantic_similarity_score": 0.3594,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -27,8 +30,16 @@
             "year": "1965"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
             "source": "SOLER,",
@@ -37,14 +48,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -57,15 +60,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Mondongo.",
+          "Mondongo.",
           "Cocido hecho a base de la panza de la res.",
-          "Los intestinos, estómago y orejas de res y cerdo."
+          "Los intestinos, estómago y orejas de res y cerdo.",
+          "Mondongo.",
+          "Vigorón.",
+          "Mondongo, pedazos lavados y cocidos del estómago e intestino de un vacuno.",
+          "Conjunto de intestino, estómago y orejas de res o de cerdo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Mondongo, pedazos lavados y cocidos del estómago e intestino de un vacuno."
+    "Mondongo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

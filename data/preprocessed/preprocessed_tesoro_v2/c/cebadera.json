@@ -3,12 +3,15 @@
   "term": "cebadera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Chiquero, corral de cerdos.",
+      "consolidated_definition": "Chiquero",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4629",
+        "semantic_similarity_score": 0.4629,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Chiquero, corral de cerdos."
+    "Chiquero"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

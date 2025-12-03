@@ -3,12 +3,15 @@
   "term": "coyunto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona unida a otra por lazos de parentesco, dicho especialmente del cónyuge: “son primos coyuntos.” También coyundo.",
+      "consolidated_definition": "Conjunto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20678362573099415,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.668",
+        "semantic_similarity_score": 0.668,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -41,19 +44,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Conjunto, o unido por parentesco. Se dice especialmente del cónyuge. “Y hasta la coyunta mía, —que tiene una gran dolama, —se ha tirao de la cama —afa...",
+          "Conjunto, o unido por parentesco. Se dice especialmente del cónyuge. “Y hasta la coyunta mía, —que tiene una gran dolama, —se ha tirao de la cama —afaná por dibeltilse.” Virgilio Dávila, . .",
           "Persona unida a otra por lazos de parentesco, dicho especialmente del cónyuge: “son primos coyuntos.” También coyundo.",
           "Persona unida a otra por lazos de parentesco, especialmente los cónyuges."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Camarón de río de pequeño tamaño, de color amarillento con manchas más oscuras y patas anteriores de gran tamaño.",
+      "consolidated_definition": "Camarón pequeño",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0649853419249971,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5905",
+        "semantic_similarity_score": 0.5905,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -70,16 +76,16 @@
             "year": "1965"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -92,14 +98,15 @@
         "reference_definitions": [
           "Camarón pequeño. Variante: coyuntero.",
           "“Camarón pequeño que muerde bien duro, tiene dos bocas muy anchas.”",
-          "Camarón pequeño de río, también, chágara."
+          "Camarón pequeño de río, también, chágara.",
+          "Camarón de río de pequeño tamaño, de color amarillento con manchas más oscuras y patas anteriores de gran tamaño. Palamonidae; Macrobrachium faustinum."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona unida a otra por lazos de parentesco, dicho especialmente del cónyuge: “son primos coyuntos.” También coyundo.",
-    "Camarón de río de pequeño tamaño, de color amarillento con manchas más oscuras y patas anteriores de gran tamaño."
+    "Conjunto",
+    "Camarón pequeño"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

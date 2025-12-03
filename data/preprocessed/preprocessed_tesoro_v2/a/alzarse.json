@@ -3,12 +3,15 @@
   "term": "alzarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Volverse montaraz, salvaje, un animal doméstico manso.",
+      "consolidated_definition": "Volverse montaraz",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02727272727272727,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3701",
+        "semantic_similarity_score": 0.3701,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -26,12 +29,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,13 +48,15 @@
         "reference_definitions": [
           "Volverse montaraz, salvaje, un animal doméstico manso.",
           "Envalentonarse.",
-          "tr.  Provocar una riña."
+          "tr. Provocar una riña.",
+          "Enfadarse. “Fulano se me alzó”, ‘se enfadó conmigo’.",
+          "Escaparse un animal doméstico y hacerse salvaje."
         ]
       }
     }
   },
   "es_definitions": [
-    "Volverse montaraz, salvaje, un animal doméstico manso."
+    "Volverse montaraz"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

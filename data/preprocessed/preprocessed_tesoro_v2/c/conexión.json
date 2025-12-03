@@ -3,12 +3,15 @@
   "term": "conexión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jefe de las organizaciones que se dedican a robar.",
+      "consolidated_definition": "Jefe de las organizaciones que se dedican a",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.22474747474747472,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6249",
+        "semantic_similarity_score": 0.6249,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -43,13 +46,14 @@
         "reference_definitions": [
           "Jefe de las organizaciones que se dedican a robar.",
           "El que vende droga.",
-          "Vendedor de drogas."
+          "Vendedor de drogas.",
+          "Jefe de las organizaciones que se dedican a robar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Jefe de las organizaciones que se dedican a robar."
+    "Jefe de las organizaciones que se dedican a"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "cabestro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Individuo que se jacta de guapo.",
+      "consolidated_definition": "Individuo que se jacta de guapo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4342",
+        "semantic_similarity_score": 0.4342,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,18 +39,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Individuo que se jacta de guapo. También caja, cajetón.",
+          "Individuo que se jacta de guapo. También caja, cajetón.",
           "Guapetón de barrio."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En las peleas de gallos, gallo de pelea que no deja que los pollos que están en el machero se peleen entre ellos.",
+      "consolidated_definition": "Gallo de pelea que no deja que los",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2043450369221771,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6482",
+        "semantic_similarity_score": 0.6482,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -60,16 +66,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -81,15 +87,17 @@
         "related_words": [],
         "reference_definitions": [
           "Gallo de pelea que no deja que los pollos que están en el machero se peleen entre sí. Algunos dicen cabrejto. Variante: cabresto.",
-          "Es el gallo marrueco que se echa en el machero donde están todos los gallos jóvenes. El cabestro les impone respeto por su tamaño y no los deja pelear...",
-          "También se le conoce como gallo tutelar."
+          "Es el gallo marrueco que se echa en el machero donde están todos los gallos jóvenes. El cabestro les impone respeto por su tamaño y no los deja pelear. Es una especie de vigilante que guarda el orden en el corral. Pero poco a poco los pupilos le van perdiendo el respeto y lo atacan. Como no es gallo de pelea, algunas veces sucumbe. Existen las variantes cabresto y cabreto. “El mejor cabestro es el búlico azul porque cuando se moja, no cambia de color. Su plumaje es impermeable. Si es de otra pluma y se moja, cambia de color, y los gallos jóvenes no lo reconocen como cabestro y lo atacan hasta liquidarlo.” Variantes: cabreto, cabresto .",
+          "También se le conoce como gallo tutelar.",
+          "En las peleas de gallos, gallo tutelar que se echa al machero donde están los gallos jóvenes.",
+          "En las peleas de gallos, gallo de pelea que no deja que los pollos que están en el machero se peleen entre ellos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Individuo que se jacta de guapo.",
-    "En las peleas de gallos, gallo de pelea que no deja que los pollos que están en el machero se peleen entre ellos."
+    "Individuo que se jacta de guapo",
+    "Gallo de pelea que no deja que los"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

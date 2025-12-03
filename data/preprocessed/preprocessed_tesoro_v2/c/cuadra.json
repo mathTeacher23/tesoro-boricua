@@ -3,12 +3,15 @@
   "term": "cuadra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En una manzana, distancia que va de una esquina a la siguiente.",
+      "consolidated_definition": ". Manzana de casas. Ac.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11097883597883597,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4431",
+        "semantic_similarity_score": 0.4431,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -26,12 +29,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Bol., Col., Chile, Méx. y Ven.).  Manzana de casas. Ac.",
-          "(T. en Am.).  El espacio de una calle, comprendido entre dos transversales.",
-          "Medida de longitud entre 100 y 150 m."
+          ". Manzana de casas. Ac.",
+          ". El espacio de una calle, comprendido entre dos transversales.",
+          "Medida de longitud entre 100 y 150 m.",
+          "En una manzana, distancia que va de una esquina a la siguiente."
         ]
       }
     }
   },
   "es_definitions": [
-    "En una manzana, distancia que va de una esquina a la siguiente."
+    ". Manzana de casas. Ac."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

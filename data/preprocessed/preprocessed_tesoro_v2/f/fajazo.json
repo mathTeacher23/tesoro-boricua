@@ -3,12 +3,15 @@
   "term": "fajazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acto de sacar una persona dinero a otra, sablazo.",
+      "consolidated_definition": "Embestida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09988588475663261,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4758",
+        "semantic_similarity_score": 0.4758,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,20 +28,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -53,15 +56,18 @@
           "fajón, na"
         ],
         "reference_definitions": [
-          "Embestida. “El buey dio un fajazo; Luis me dió un fajazo por cinco pesos.” “Se concreta, para empezar a vivir de los neófitos... para después echarles...",
+          "Embestida. “El buey dio un fajazo; Luis me dió un fajazo por cinco pesos.” “Se concreta, para empezar a vivir de los neófitos... para después echarles un oportuno fajacito.” Francisco J. Amy, Letras de molde, 1890, p .87.",
           "Sablazo.",
-          "Embestida de una res."
+          "Embestida de una res.",
+          ". Sablazo . Dar un fajazo a alguien.",
+          "Acto de sacar una persona dinero a otra, sablazo.",
+          "Embestida, generalmente de una res."
         ]
       }
     }
   },
   "es_definitions": [
-    "Acto de sacar una persona dinero a otra, sablazo."
+    "Embestida"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

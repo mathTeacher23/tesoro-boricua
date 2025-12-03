@@ -3,12 +3,15 @@
   "term": "agujón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de la familia Belonidae.",
+      "consolidated_definition": ". Pez del género Belone. Ac.; Stahl, Catalog., 79; Evermann, 99.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03692982456140351,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3326",
+        "semantic_similarity_score": 0.3326,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
           },
           {
             "source": "ERDMAN,",
             "year": "1974"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VAQUERO,",
@@ -50,15 +53,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Ant. y Ven.).  Pez del género Belone. Ac.; Stahl, Catalog., 79; Evermann, 99.",
-          "Guamá (pez).",
-          "Pez."
+          ". Pez del género Belone. Ac.; Stahl, Catalog., 79; Evermann, 99.",
+          "Guamá .",
+          "Pez.",
+          "Pez de la familia Belonidae. Tylosurus crocodilus.",
+          "Pez de mar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pez de la familia Belonidae."
+    ". Pez del género Belone. Ac.; Stahl, Catalog., 79; Evermann, 99."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

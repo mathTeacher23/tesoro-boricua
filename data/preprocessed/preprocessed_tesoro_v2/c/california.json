@@ -3,12 +3,15 @@
   "term": "california",
   "superscripts": {
     "1": {
-      "consolidated_definition": "ant.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "ant",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -31,13 +34,13 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "ant.  Antigua moneda de oro de veinte dólares. “Tengo precisamente ahora como cien californias.” Zeno Gandía, El negocio, 1922, cap. III. “Un montón d..."
+          "ant. Antigua moneda de oro de veinte dólares. “Tengo precisamente ahora como cien californias.” Zeno Gandía, El negocio, 1922, cap. III. “Un montón de californias cayó sobre la cama.” Zeno Gandía, El negocio, cap. IX."
         ]
       }
     }
   },
   "es_definitions": [
-    "ant."
+    "ant"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

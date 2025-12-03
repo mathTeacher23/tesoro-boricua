@@ -3,12 +3,15 @@
   "term": "inombrable",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Que no se puede enumerar.",
+      "consolidated_definition": "Que no se puede enumerar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4256",
+        "semantic_similarity_score": 0.4256,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -39,7 +42,7 @@
     }
   },
   "es_definitions": [
-    "Que no se puede enumerar."
+    "Que no se puede enumerar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

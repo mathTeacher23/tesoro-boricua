@@ -3,12 +3,15 @@
   "term": "desorillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gastar alguien una pequeña cantidad de un billete de alta denominación.",
+      "consolidated_definition": "Comenzar un trabajo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0785048285048285,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4641",
+        "semantic_similarity_score": 0.4641,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,13 +44,16 @@
         "reference_definitions": [
           "Comenzar un trabajo, particularmente, un desyerbo.",
           "Comenzar.",
-          "Gastar una pequeña cantidad de una moneda de alta denominación."
+          "Gastar una pequeña cantidad de una moneda de alta denominación.",
+          "Limpiar de malas hierbas el pie de una planta.",
+          "Comenzar alguien alguna tarea.",
+          "Gastar alguien una pequeña cantidad de un billete de alta denominación."
         ]
       }
     }
   },
   "es_definitions": [
-    "Gastar alguien una pequeña cantidad de un billete de alta denominación."
+    "Comenzar un trabajo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

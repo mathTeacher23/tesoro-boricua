@@ -3,12 +3,15 @@
   "term": "size",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tamaño de la ropa de mujer.",
+      "consolidated_definition": "Tamaño de la ropa de mujer",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13672881386597194,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.629",
+        "semantic_similarity_score": 0.629,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,14 +24,6 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
-            "source": "PAGÁN GONZÁLEZ,",
-            "year": "1969"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
@@ -37,8 +32,12 @@
             "year": "1972"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -49,8 +48,12 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "PAGÁN GONZÁLEZ,",
+            "year": "1969"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -66,15 +69,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "(general)  Tamaño de la ropa de mujer.",
+          "Tamaño de la ropa de mujer.",
           "Tamaño.",
-          "Tamaño."
+          "Tamaño.",
+          "Tamaño.",
+          "Talla. Tamaño de una prenda de vestir.",
+          "Tamaño, talla.",
+          "Tamaño. Tamaño o extensión relativa de una cosa; muy usado en tiendas de ropa y zapatos. Anglicismo crudo, frecuente. Con eso nosotros le ponemos el ticket a la ropa, con mucho cuidado, en parte donde no vaya a quedar ninguna marca, en el ticket donde está el size de la pieza",
+          "Talla de ropa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tamaño de la ropa de mujer."
+    "Tamaño de la ropa de mujer"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "tautuilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta del género Croton.",
+      "consolidated_definition": "Planta del género Croton",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.125,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8005",
+        "semantic_similarity_score": 0.8005,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -37,13 +40,13 @@
         "related_words": [],
         "reference_definitions": [
           "Planta del género Croton.",
-          "(Der. de túa-túa). Planta crotonácea."
+          ". Planta crotonácea."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta del género Croton."
+    "Planta del género Croton"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

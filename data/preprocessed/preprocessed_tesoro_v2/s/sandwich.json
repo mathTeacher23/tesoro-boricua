@@ -3,12 +3,15 @@
   "term": "sandwich",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Panecillo con jamón, queso, etc., dentro.",
+      "consolidated_definition": "Emparedado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02158917340521114,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5856",
+        "semantic_similarity_score": 0.5856,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,8 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "BENNETT,",
             "year": "1972"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
           },
           {
             "source": "CLAUDIO DE LA TORRE,",
@@ -39,6 +34,14 @@
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -54,15 +57,17 @@
           "sanwichera"
         ],
         "reference_definitions": [
-          "Emparedado, bocadillo.  “Al menos me dio algo diferente, el sandwich de todos los días.”",
+          "Emparedado, bocadillo. “Al menos me dio algo diferente, el sandwich de todos los días.”",
           "Panecillo con jamón, queso, etc., dentro.",
-          "Emparedado, bocadillo."
+          "Emparedado, bocadillo.",
+          "Emparedado.",
+          "alim. Emparedado. Bocadillo hecho con pan al que se le añaden diversos ingredientes. Anglicismo crudo, usual. Pues, si voy a comer, vamos a decir, un sandwich pues yo no le pongo una capa de mantequilla ni una capa de mayonesa, sino que prefiero comérmelo con mi jamón y mi queso y queso low fat, de hecho"
         ]
       }
     }
   },
   "es_definitions": [
-    "Panecillo con jamón, queso, etc., dentro."
+    "Emparedado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

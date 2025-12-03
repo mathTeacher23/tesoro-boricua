@@ -3,12 +3,15 @@
   "term": "indague",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción y efecto de relajar.",
+      "consolidated_definition": "Sondeo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5136",
+        "semantic_similarity_score": 0.5136,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,6 +24,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
@@ -31,10 +38,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,13 +54,14 @@
         "reference_definitions": [
           "Sondeo. Broma.",
           "Acción y efecto de relajar. Gufeo.",
-          "Broma, relajo."
+          "Broma, relajo.",
+          "Broma o burla."
         ]
       }
     }
   },
   "es_definitions": [
-    "Acción y efecto de relajar."
+    "Sondeo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

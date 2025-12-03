@@ -3,12 +3,15 @@
   "term": "face lift",
   "superscripts": {
     "1": {
-      "consolidated_definition": "cosm.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "cosm",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,17 +34,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "cosm. Cirugía facial para eliminar arrugas y otros defectos, generalmente los producidos por la vejez. Anglicismo crudo, frecuente.\nIris, otra profesi..."
+          "cosm. Cirugía facial para eliminar arrugas y otros defectos, generalmente los producidos por la vejez. Anglicismo crudo, frecuente. Iris, otra profesional que no quiso se le identificara con su apellido, decidió hacerse una cirugía facial en 1997, cuando tenía 53 años"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Limpieza y reparación de la parte exterior de un edificio o estructura para modernizar su aspecto.",
+      "consolidated_definition": "Limpieza y reparación de la parte exterior de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -64,14 +70,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Limpieza y reparación de la parte exterior de un edificio o estructura para modernizar su aspecto. Anglicismo crudo, frecuente.\nOtra ocasión para real..."
+          "Limpieza y reparación de la parte exterior de un edificio o estructura para modernizar su aspecto. Anglicismo crudo, frecuente. Otra ocasión para realizar la compra e instalación es antes del comienzo de la temporada de huracanes para proteger su residencia contra fuertes vientos y lluvias y antes de la época navideña para darle un face lift a la residencia"
         ]
       }
     }
   },
   "es_definitions": [
-    "cosm.",
-    "Limpieza y reparación de la parte exterior de un edificio o estructura para modernizar su aspecto."
+    "cosm",
+    "Limpieza y reparación de la parte exterior de"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

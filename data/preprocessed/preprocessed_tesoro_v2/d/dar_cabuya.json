@@ -3,12 +3,15 @@
   "term": "dar cabuya",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Amarrar.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Atar, amarrar. Ac. .",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027777777777777776,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7911",
+        "semantic_similarity_score": 0.7911,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -35,18 +38,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Am.).  Atar, amarrar. Ac. (La ed. XV del Dicc. Ac. trae esta palabra con “ll”; pero desde el principio del descubrimiento de América se escribió con ...",
+          ". Atar, amarrar. Ac. .",
           "Amarrar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dejar que una persona siga hablando o actuando de determinada forma .",
+      "consolidated_definition": "Dejar que una persona siga hablando hasta por",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11676756885090218,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5503",
+        "semantic_similarity_score": 0.5503,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -60,20 +66,20 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1977"
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1977"
           }
         ],
         "years": [
@@ -86,15 +92,16 @@
         "related_words": [],
         "reference_definitions": [
           "Dejar que una persona siga hablando hasta por los codos.",
-          "Dejar que una persona siga hablando o actuando de determinada forma (con idea, por lo general, de que revele algo que se desea saber o que se delate c...",
-          "Dejar hacer a uno para luego exigirle."
+          "Dejar que una persona siga hablando o actuando de determinada forma .",
+          "Dejar hacer a uno para luego exigirle.",
+          "Dejar que alguien hable; “dar cuerda a uno”."
         ]
       }
     }
   },
   "es_definitions": [
-    "Amarrar.",
-    "Dejar que una persona siga hablando o actuando de determinada forma ."
+    ". Atar, amarrar. Ac. .",
+    "Dejar que una persona siga hablando hasta por"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

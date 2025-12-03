@@ -3,12 +3,15 @@
   "term": "tumor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inflamación o crecimiento.",
+      "consolidated_definition": "Inflamación o crecimiento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4387",
+        "semantic_similarity_score": 0.4387,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
             "year": "1966"
           },
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -48,12 +51,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Brotes constantes de agua en los terrenos muy húmedos.",
+      "consolidated_definition": "Brotes constantes de agua en los terrenos muy, relacionado con una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16326530612244897,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6814",
+        "semantic_similarity_score": 0.6814,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -66,12 +72,12 @@
         ],
         "sources": [
           {
-            "source": "GONZÁLEZ MUÑIZ,",
-            "year": "1988"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "GONZÁLEZ MUÑIZ,",
+            "year": "1988"
           }
         ],
         "years": [
@@ -81,15 +87,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Brotes constantes de agua en los terrenos muy húmedos. La denominación tumores trae una connotación negativa ya que (según el informante) “el terreno ...",
+          "Brotes constantes de agua en los terrenos muy húmedos. La denominación tumores trae una connotación negativa ya que “el terreno con tumores es un poyal y no es terreno aprovechable para la agricultura”. La comparación se establece entre el crecimiento desordenado y excesivo de una parte de las células de un órgano o tejido y el brote excesivo y dañino del agua.",
           "Brotes de agua constantes en terrenos muy húmedos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Inflamación o crecimiento.",
-    "Brotes constantes de agua en los terrenos muy húmedos."
+    "Inflamación o crecimiento",
+    "Brotes constantes de agua en los terrenos muy, relacionado con una calificación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

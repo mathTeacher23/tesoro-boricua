@@ -3,12 +3,15 @@
   "term": "tibe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Piedra dura y lisa, abundante en los ríos, que usaban los campesinos para sacar filo a sus machetes.",
+      "consolidated_definition": "Piedra dura y lisa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15789473684210525,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5985",
+        "semantic_similarity_score": 0.5985,
+        "cluster_count": null,
         "grammar": [],
         "themes": [
           "GEOGRAFÍA. UBICACIÓN EN EL ESPACIO.",
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Piedra dura y lisa, abundante en los ríos, que usaban los campesinos para sacar filo a sus machetes."
+    "Piedra dura y lisa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

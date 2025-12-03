@@ -3,12 +3,15 @@
   "term": "dar una orejita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "‘Noticia interesante que se da en secreto’, según la define Malaret.",
+      "consolidated_definition": "‘Noticia interesante que se da en secreto’",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10344827586206896,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5735",
+        "semantic_similarity_score": 0.5735,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "‘Noticia interesante que se da en secreto’, según la define Malaret."
+    "‘Noticia interesante que se da en secreto’"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

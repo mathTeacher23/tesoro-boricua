@@ -3,12 +3,15 @@
   "term": "boto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo poco diestro en el tiro de la espuela.",
+      "consolidated_definition": "Gallo poco diestro en el tiro de la",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4090909090909091,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8349",
+        "semantic_similarity_score": 0.8349,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Lomo o filo no cortante de la hoja de un machete.",
+      "consolidated_definition": "El lomo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20458497112908877,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.637",
+        "semantic_similarity_score": 0.637,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -60,20 +66,20 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -85,16 +91,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El lomo [del machete].",
-          "Lado contrario al filo [del machete]. También lomo o romo.",
-          "El lomo no cortante de la hoja."
+          "El lomo .",
+          "Lado contrario al filo . También lomo o romo.",
+          "El lomo no cortante de la hoja.",
+          "Lomo o filo no cortante de la hoja de un machete."
         ]
       }
     }
   },
   "es_definitions": [
-    "Gallo poco diestro en el tiro de la espuela.",
-    "Lomo o filo no cortante de la hoja de un machete."
+    "Gallo poco diestro en el tiro de la",
+    "El lomo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

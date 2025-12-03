@@ -3,12 +3,15 @@
   "term": "ara",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz guaraní.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Voz guaraní",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08928571428571429,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6725",
+        "semantic_similarity_score": 0.6725,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Voz guaraní. (Ara aracanga). Ave trepadora, conocida también como guacamayo rojo pequeño. Abundaba en Puerto Rico y desapareció con el tiempo. A ella ...",
-          "(Ara aracnea). Ave trepadora; guacamayo rojo pequeño."
+          "Voz guaraní. . Ave trepadora, conocida también como guacamayo rojo pequeño. Abundaba en Puerto Rico y desapareció con el tiempo. A ella se refiere el naturalista M. Sonnini, comentando el viaje a Puerto Rico realizado por la expedición científica dirigida por Nicolás Baudin en 1797. . En la vecina isla de Santo Domingo figura un arroyo con dicho nombre.",
+          ". Ave trepadora; guacamayo rojo pequeño."
         ]
       }
     }
   },
   "es_definitions": [
-    "Voz guaraní."
+    "Voz guaraní"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

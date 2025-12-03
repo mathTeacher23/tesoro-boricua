@@ -3,12 +3,15 @@
   "term": "matojo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cada uno de los renuevos que echan los árboles cuando los cortan.",
+      "consolidated_definition": ". Mata o arbusto pequeño enmaniguado. “Un rancho de yagua cobijado de matojo.” González García, , p. 9.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0413876698014629,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.394",
+        "semantic_similarity_score": 0.394,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,16 +28,16 @@
             "year": "1937"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "VAQUERO,",
+            "year": "1995"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "VAQUERO,",
-            "year": "1995"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -49,19 +52,24 @@
           "matojal"
         ],
         "reference_definitions": [
-          "(T. en Ant.).  Mata o arbusto pequeño enmaniguado. “Un rancho de yagua cobijado de matojo.” González García, Carmela, 1925, p. 9.",
+          ". Mata o arbusto pequeño enmaniguado. “Un rancho de yagua cobijado de matojo.” González García, , p. 9.",
           "Cada uno de los renuevos que echan los árboles cuando los cortan.",
-          "(T. en Cuba).  Mata o arbolillo pequeño enmaniguado."
+          ". Mata o arbolillo pequeño enmaniguado.",
+          "Cualquier yerba silvestre de poca altura.",
+          "Maleza."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona bajita.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Persona bajita",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.716",
+        "semantic_similarity_score": 0.716,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,12 +84,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -97,12 +105,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Marihuana.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Marihuana",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -137,9 +148,9 @@
     }
   },
   "es_definitions": [
-    "Cada uno de los renuevos que echan los árboles cuando los cortan.",
-    "Persona bajita.",
-    "Marihuana."
+    ". Mata o arbusto pequeño enmaniguado. “Un rancho de yagua cobijado de matojo.” González García, , p. 9.",
+    "Persona bajita",
+    "Marihuana"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

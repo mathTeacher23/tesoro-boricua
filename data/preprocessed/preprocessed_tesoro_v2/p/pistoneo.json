@@ -3,12 +3,15 @@
   "term": "pistoneo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El ruido que hacen las válvulas de un motor de compresión cuando la combustión es deficiente; ruido parecido a un cascabeleo.",
+      "consolidated_definition": "El ruido que hacen las válvulas de un",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.125,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6414",
+        "semantic_similarity_score": 0.6414,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "El ruido que hacen las válvulas de un motor de compresión cuando la combustión es deficiente; ruido parecido a un cascabeleo."
+    "El ruido que hacen las válvulas de un"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

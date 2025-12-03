@@ -3,12 +3,15 @@
   "term": "zumbar la manigueta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de la persona o cosa extraordinaria.",
+      "consolidated_definition": "Se dice de la persona o cosa extraordinaria",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2794191919191919,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.8133",
+        "semantic_similarity_score": 0.8133,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -24,20 +27,20 @@
             "year": "1965"
           },
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
+          },
+          {
+            "source": "PÉREZ SALA,",
+            "year": "1968"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -52,13 +55,15 @@
         "reference_definitions": [
           "Se dice de la persona o cosa extraordinaria.",
           "Se dice de una cosa extraordinaria.",
-          "Ser cosa extraordinaria. Excelente."
+          "Ser cosa extraordinaria. Excelente.",
+          "Se dice de una cosa extraordinaria; garrida.",
+          "‘Ser cosa extraordinaria. Excelente.’ Maura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se dice de la persona o cosa extraordinaria."
+    "Se dice de la persona o cosa extraordinaria"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

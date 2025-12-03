@@ -3,12 +3,15 @@
   "term": "media agua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Edificio con el techo de una sola vertiente.",
+      "consolidated_definition": "Techo de una sola vertiente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.625,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9372",
+        "semantic_similarity_score": 0.9372,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -38,7 +41,7 @@
     }
   },
   "es_definitions": [
-    "Edificio con el techo de una sola vertiente."
+    "Techo de una sola vertiente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

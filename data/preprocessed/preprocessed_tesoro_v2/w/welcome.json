@@ -3,12 +3,15 @@
   "term": "welcome",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bienvenida.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Bienvenida",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.014285714285714285,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3081",
+        "semantic_similarity_score": 0.3081,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Bienvenida. Acto o palabras de recepción a la llegada de un invitado, también, palabras de bienvenida en general. Anglicismo crudo, poco frecuente.\nWe...",
+          "Bienvenida. Acto o palabras de recepción a la llegada de un invitado, también, palabras de bienvenida en general. Anglicismo crudo, poco frecuente. Welcome a LaZonaDePerreo.com. El niño reguetonero puertorriqueño Miguelito se encamina a convertirse en un “artista completo” al comenzar a tomar clases de vocalización, piano y guitarra, y matricularse este año en una escuela especializada en inglés. El artista, de nueve años, lleva tres semanas aprendiendo canto y piano con el reconocido músico dominicano residente en Puerto Rico desde hace 17 años Bonny Cepeda",
           "Bienvenida."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bienvenida."
+    "Bienvenida"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "jumeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Borrachera.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Borrachera",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19999999999999998,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5791",
+        "semantic_similarity_score": 0.5791,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,6 +24,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FERNÁNDEZ,",
             "year": "1979"
           },
@@ -31,10 +38,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Borrachera.",
           "Rajadura.",
-          "Borrachera. La borrachera se llama rasca, tuesta, juma o jumera."
+          "Borrachera. La borrachera se llama rasca, tuesta, juma o jumera.",
+          "Borrachera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Borrachera."
+    "Borrachera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "turuleta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Canción de cuna.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "fam",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.39215686274509803,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7734",
+        "semantic_similarity_score": 0.7734,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -41,7 +44,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "fam.  Canción de cuna. Variante: turulete. “Especialmente, canciones tradicionales, las ancestrales nanas o turuletas.” Cadilla, Poesía popular, p. 23...",
+          "fam. Canción de cuna. Variante: turulete. “Especialmente, canciones tradicionales, las ancestrales nanas o turuletas.” Cadilla, Poesía popular, p. 235. .",
           "Canción de cuna.",
           "Canción de cuna."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Canción de cuna."
+    "fam"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

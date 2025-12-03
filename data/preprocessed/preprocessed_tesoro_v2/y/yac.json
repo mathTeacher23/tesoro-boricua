@@ -3,12 +3,15 @@
   "term": "yac",
   "superscripts": {
     "1": {
-      "consolidated_definition": "pl.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "pl",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "pl.  Piececitas de metal con puntas redondeadas que se usan en el juego infantil del mismo nombre."
+          "pl. Piececitas de metal con puntas redondeadas que se usan en el juego infantil del mismo nombre."
         ]
       }
     }
   },
   "es_definitions": [
-    "pl."
+    "pl"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "bebé",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Niño de brazos, niño de pecho.",
+      "consolidated_definition": "El recién nacido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.012462147682273467,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4863",
+        "semantic_similarity_score": 0.4863,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -38,13 +41,13 @@
         "reference_definitions": [
           "El recién nacido.",
           "Niño de brazos, niño de pecho.",
-          "Nene, hijo. Se usa el término en sustitución de hijo o nene. El anglicismo resulta de la abundancia de su uso, que se extiende a contextos en que los ..."
+          "Nene, hijo. Se usa el término en sustitución de hijo o nene. El anglicismo resulta de la abundancia de su uso, que se extiende a contextos en que los otros términos hubieran sido más neutrales. Anglicismo de frecuencia, usual. El día que dieron de alta a Margara, Tío nos dio dinero a Andrés y a mi para que fuéramos a comprar lo que necesitara el bebé"
         ]
       }
     }
   },
   "es_definitions": [
-    "Niño de brazos, niño de pecho."
+    "El recién nacido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

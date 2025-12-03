@@ -3,12 +3,15 @@
   "term": "trastera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de vasijas y utensilios que emplea en la cocina para la preparación y servicio de las comidas.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12347237196512559,
+        "num_cleaned_definitions": 10,
+        "definition_stability": "Stability: 0.536",
+        "semantic_similarity_score": 0.536,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,20 +28,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
           {
             "source": "BENNETT,",
             "year": "1972"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "SANTIAGO,",
@@ -51,10 +58,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -70,15 +73,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Trastería; montón de trastos viejos.",
-          "(general)  Conjunto de trastes viejos; conjunto de objetos sucios de cocina y comedor.",
-          "Trastes sucios en la cocina o el comedor."
+          "vulg. Trastería; montón de trastos viejos.",
+          "Conjunto de trastes viejos; conjunto de objetos sucios de cocina y comedor.",
+          "Trastes sucios en la cocina o el comedor.",
+          "Conjunto de objetos sucios de cocina y comedor o de trastes viejos.",
+          "Conjunto de platos sucios.",
+          "Montón de utensilios de comedor o de cocina.",
+          "Armario donde se guardan los trastos.",
+          "Conjunto de vasijas y utensilios que emplea en la cocina para la preparación y servicio de las comidas. También cacharros, trastes, cacharrera.",
+          "Montón de trastos viejos, trastería.",
+          "Conjunto de vasijas y utensilios que se emplean en la cocina para preparación y servicio de las comidas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Conjunto de vasijas y utensilios que emplea en la cocina para la preparación y servicio de las comidas."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

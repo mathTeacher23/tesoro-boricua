@@ -3,12 +3,15 @@
   "term": "pegar vellones",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Molestar, tomar una persona el pelo a alguien.",
+      "consolidated_definition": "provocar con bromas para hacer algo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.022529644268774705,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3977",
+        "semantic_similarity_score": 0.3977,
+        "cluster_count": null,
         "grammar": [
           "plural"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,13 +52,15 @@
         "reference_definitions": [
           "Provocar con bromas para hacer hablar. Embromar.",
           "Hablar en exceso, sin parar.",
-          "Mortificar."
+          "Mortificar.",
+          "‘Provocar con bromas para hacer habla’, Maura. “A ese amigo tuyo lo veo diariamente pegando vellones en la cafetería.”",
+          "Molestar, tomar una persona el pelo a alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Molestar, tomar una persona el pelo a alguien."
+    "provocar con bromas para hacer algo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

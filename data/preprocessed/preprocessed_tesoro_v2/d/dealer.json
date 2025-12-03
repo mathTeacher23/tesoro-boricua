@@ -3,12 +3,15 @@
   "term": "dealer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Que vende droga en pequeña escala.",
+      "consolidated_definition": "Que vende droga en pequeña escala",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06350762527233116,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4905",
+        "semantic_similarity_score": 0.4905,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -30,16 +33,16 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -53,13 +56,15 @@
         "reference_definitions": [
           "Que vende droga en pequeña escala.",
           "Agente. Distribuidor.",
-          "comer. Vendedor, distribuidor. Comerciante o comercio que se dedica a la venta de artículos, en particular, automóviles. Anglicismo crudo, usual. Comp..."
+          "comer. Vendedor, distribuidor. Comerciante o comercio que se dedica a la venta de artículos, en particular, automóviles. Anglicismo crudo, usual. Compuesto: drug dealer. Al otro día, fue a donde un dealer de Maunabo que le debía par de favores y reservó tres guagüitas, de ésas bastante grandes que usan los que carretean chamaquitos pa’ la escuela",
+          "Concesionario de automóviles.",
+          "Distribuidor de automóviles."
         ]
       }
     }
   },
   "es_definitions": [
-    "Que vende droga en pequeña escala."
+    "Que vende droga en pequeña escala"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

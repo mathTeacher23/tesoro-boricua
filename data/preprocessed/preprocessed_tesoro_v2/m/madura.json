@@ -3,12 +3,15 @@
   "term": "madura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de la leche que está próxima a cortarse.",
+      "consolidated_definition": "Se dice de la leche que está próxima",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21761165663604687,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7384",
+        "semantic_similarity_score": 0.7384,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice de la leche que está próxima a cortarse. “Jamás les falta un coco de leche de sus vacas, que es excelente, y tan fresca que, ordeñándola media...",
+          "Se dice de la leche que está próxima a cortarse. “Jamás les falta un coco de leche de sus vacas, que es excelente, y tan fresca que, ordeñándola media hora antes de la comida se quaxa como una pella de manteca: a ésta llaman leche madura.” , cap. XXXI.",
           "Dícese de la leche próxima a cortarse.",
           "Referido a la leche, que está próxima a cortarse."
         ]
@@ -50,7 +53,7 @@
     }
   },
   "es_definitions": [
-    "Se dice de la leche que está próxima a cortarse."
+    "Se dice de la leche que está próxima"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

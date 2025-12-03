@@ -3,12 +3,15 @@
   "term": "canilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Temblor que da en las piernas por miedo o por otra causa, y por extensión, cobardia.",
+      "consolidated_definition": "Miedo o canillera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07523148148148148,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5873",
+        "semantic_similarity_score": 0.5873,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "ACAPLE,",
+            "year": "2005"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -33,10 +40,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "ACAPLE,",
-            "year": "2005"
           }
         ],
         "years": [
@@ -50,13 +53,14 @@
         "reference_definitions": [
           "Miedo o canillera.",
           "Temblor que da en las piernas por miedo o por otra causa, y por extensión, cobardia. También Canillera.",
-          "Pierna flaca."
+          "Pierna flaca.",
+          ". Pierna flaca."
         ]
       }
     }
   },
   "es_definitions": [
-    "Temblor que da en las piernas por miedo o por otra causa, y por extensión, cobardia."
+    "Miedo o canillera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

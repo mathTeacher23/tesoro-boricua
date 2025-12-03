@@ -3,12 +3,15 @@
   "term": "jendío, día",
   "superscripts": {
     "1": {
-      "consolidated_definition": "‘Borracho en grado sumo’, según Maura.",
+      "consolidated_definition": "Muy borracho",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05291725683430752,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4329",
+        "semantic_similarity_score": 0.4329,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,6 +25,10 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
@@ -30,20 +37,16 @@
             "year": "1979"
           },
           {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
           }
         ],
         "years": [
@@ -60,15 +63,19 @@
           "jendía"
         ],
         "reference_definitions": [
-          "(general)  Muy borracho.",
-          "(popular)  Muy borracho. También ajumao, apalastrao, guayao, jalao, jumo, picao, rascao.",
-          "Ebrio."
+          "Muy borracho.",
+          "Muy borracho. También ajumao, apalastrao, guayao, jalao, jumo, picao, rascao.",
+          "Ebrio.",
+          "Rajao.",
+          "Borracho.",
+          "Se dice del borracho.",
+          "‘Borracho en grado sumo’, según Maura. “Y jendío como estaba se fue por esas curvas tras ella.” Juan Antonio Ramos, Démosle luz verde a la nostalgia, p. 109."
         ]
       }
     }
   },
   "es_definitions": [
-    "‘Borracho en grado sumo’, según Maura."
+    "Muy borracho"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

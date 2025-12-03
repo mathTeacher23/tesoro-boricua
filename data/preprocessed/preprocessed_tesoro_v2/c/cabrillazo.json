@@ -3,12 +3,15 @@
   "term": "cabrillazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe brusco de la embarcación en la superficie del agua, por mal tiempo.",
+      "consolidated_definition": "Golpe brusco de la embarcación en la superficie",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2777777777777778,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5487",
+        "semantic_similarity_score": 0.5487,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "Golpe brusco de la embarcación en la superficie del agua, por mal tiempo."
+    "Golpe brusco de la embarcación en la superficie"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

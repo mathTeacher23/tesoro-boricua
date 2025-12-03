@@ -3,12 +3,15 @@
   "term": "correo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona chismosa o alcahueta.",
+      "consolidated_definition": "Chismoso o alcahuete",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05555555555555555,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4253",
+        "semantic_similarity_score": 0.4253,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,12 +51,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Disco de papel o cartón con un agujero en el centro que los chicos ponen en la cuerda de la cometa para que el viento la eleve hasta ella.",
+      "consolidated_definition": ". Disco de papel o de cartón, con un agujero en el centro, que se pone en la cuerda de las cometas para que el viento lo lleve hasta el juguete cuando está en el aire.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.35714285714285715,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9101",
+        "semantic_similarity_score": 0.9101,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -66,12 +72,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -81,15 +87,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg., C. Rica, Perú y Ven.).  Disco de papel o de cartón, con un agujero en el centro, que se pone en la cuerda de las cometas para que el vien...",
+          ". Disco de papel o de cartón, con un agujero en el centro, que se pone en la cuerda de las cometas para que el viento lo lleve hasta el juguete cuando está en el aire.",
           "Disco de papel o cartón con un agujero en el centro que los chicos ponen en la cuerda de la cometa para que el viento la eleve hasta ella."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona chismosa o alcahueta.",
-    "Disco de papel o cartón con un agujero en el centro que los chicos ponen en la cuerda de la cometa para que el viento la eleve hasta ella."
+    "Chismoso o alcahuete",
+    ". Disco de papel o de cartón, con un agujero en el centro, que se pone en la cuerda de las cometas para que el viento lo lleve hasta el juguete cuando está en el aire."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

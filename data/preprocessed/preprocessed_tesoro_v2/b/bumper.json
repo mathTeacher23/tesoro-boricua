@@ -3,12 +3,15 @@
   "term": "bumper",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parachoques de los vehículos de motor.",
+      "consolidated_definition": "Parachoques de un automóvil",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1363100728761106,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5291",
+        "semantic_similarity_score": 0.5291,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "PÉREZ SALA,",
+            "year": "1968"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -53,17 +56,22 @@
         "reference_definitions": [
           "Parachoques de un automóvil.",
           "Parachoques.",
-          "Parachoques de los vehículos de motor."
+          "Parachoques de los vehículos de motor.",
+          "autom. Parachoques. Barra en la parte delantera y trasera del automóvil, que sirve como protector o amortiguador contra choques. Anglicismo crudo, usual. Compuestos: bumper sticker, bumber-to-bumper. Así también la alegada perjudicada dio riversa; la acusada le tocó la bocina pero siempre impactó con el bumper al vehículo de motor de la acusada",
+          "Parachoques."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referente a la parte posterior del cuerpo.",
+      "consolidated_definition": "Fondillo grande, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3486",
+        "semantic_similarity_score": 0.3486,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,16 +84,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -104,8 +112,8 @@
     }
   },
   "es_definitions": [
-    "Parachoques de los vehículos de motor.",
-    "Referente a la parte posterior del cuerpo."
+    "Parachoques de un automóvil",
+    "Fondillo grande, relacionado con una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

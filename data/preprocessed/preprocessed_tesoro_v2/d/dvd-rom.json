@@ -3,12 +3,15 @@
   "term": "dvd-rom",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,13 +36,13 @@
           "DVD"
         ],
         "reference_definitions": [
-          "inform. Disco versátil digital de sólo lectura. Disco compacto de sólo lectura, con capacidad superior a la de un CD ROM, que permite grabar tanto imá..."
+          "inform. Disco versátil digital de sólo lectura. Disco compacto de sólo lectura, con capacidad superior a la de un CD ROM, que permite grabar tanto imágenes como sonido. Sigla anglicada, poco frecuente. Contamos con computadoras para facilitar la búsqueda e investigación electrónica de recursos en disco compacto , bases de datos en línea, conexiones a la Internet y acceso directo a las páginas electrónicas de las oficinas de patentes de EE.UU., la Unión Europea y el Japón, entre otros"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

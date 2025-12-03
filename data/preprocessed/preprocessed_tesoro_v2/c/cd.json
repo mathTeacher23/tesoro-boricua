@@ -3,12 +3,15 @@
   "term": "cd",
   "superscripts": {
     "1": {
-      "consolidated_definition": "mús.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "mús",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,17 +39,20 @@
           "CD-ROM"
         ],
         "reference_definitions": [
-          "mús. Disco compacto. Disco óptico digital de larga duración que almacena texto e imágenes. Sigla anglicada, usual. DRAE 2001, del inglés.\nHay CD’s de ..."
+          "mús. Disco compacto. Disco óptico digital de larga duración que almacena texto e imágenes. Sigla anglicada, usual. DRAE 2001, del inglés. Hay CD’s de música para hacer ejercicio aeróbico, incluyendo música latina"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "econ.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "econ",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -69,14 +75,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "econ. Certificado de depósito. Depósito a plazo fijo durante el cual no pueden hacerse retiros ni incrementos de la cantidad depositada. Sigla anglica..."
+          "econ. Certificado de depósito. Depósito a plazo fijo durante el cual no pueden hacerse retiros ni incrementos de la cantidad depositada. Sigla anglicada, usual. El CD es una cuenta de depósito con un término definido durante el cual se devengan intereses atractivos y la cual puede utilizar como colateral para garantizar préstamos personales"
         ]
       }
     }
   },
   "es_definitions": [
-    "mús.",
-    "econ."
+    "mús",
+    "econ"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

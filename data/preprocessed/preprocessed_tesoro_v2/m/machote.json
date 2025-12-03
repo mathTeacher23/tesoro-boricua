@@ -3,12 +3,15 @@
   "term": "machote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombre con mucho garbo, viril.",
+      "consolidated_definition": "Individuo fuerte y saludable",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.055740740740740743,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4743",
+        "semantic_similarity_score": 0.4743,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,8 +24,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS, 1981B",
-            "year": ""
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
@@ -33,12 +40,8 @@
             "year": "1984"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS, 1981B",
+            "year": ""
           }
         ],
         "years": [
@@ -52,13 +55,16 @@
         "reference_definitions": [
           "Individuo fuerte y saludable.",
           "Buen mozo.",
-          "Hombre con mucho garbo, viril."
+          "Hombre con mucho garbo, viril.",
+          "Hombre valiente. Audaz. También dicen tenche.",
+          "Hombre de buena presencia.",
+          "Persona de muy buena presencia."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hombre con mucho garbo, viril."
+    "Individuo fuerte y saludable"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

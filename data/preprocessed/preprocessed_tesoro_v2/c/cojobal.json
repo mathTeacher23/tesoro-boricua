@@ -3,12 +3,15 @@
   "term": "cojobal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio donde abundan los árboles de la cojoba.",
+      "consolidated_definition": "Bosque de cojoba",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.224537037037037,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7233",
+        "semantic_similarity_score": 0.7233,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,12 +34,12 @@
             "year": "1969"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1977"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1977"
           }
         ],
         "years": [
@@ -52,13 +55,14 @@
         "reference_definitions": [
           "Bosque de cojoba.",
           "Sitio donde abundan los árboles de la cojoba.",
-          "Lugar donde abundan los áboles de cojoba."
+          "Lugar donde abundan los áboles de cojoba.",
+          "Sitio poblado de cojobos o cojobas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sitio donde abundan los árboles de la cojoba."
+    "Bosque de cojoba"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

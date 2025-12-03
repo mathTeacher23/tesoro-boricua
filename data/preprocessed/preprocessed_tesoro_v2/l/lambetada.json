@@ -3,12 +3,15 @@
   "term": "lambetada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Elogio no merecido que se hace esperando algo de la persona que se elogia.",
+      "consolidated_definition": "Elogio no merecido que se hace esperando algo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06731092436974791,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4925",
+        "semantic_similarity_score": 0.4925,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,6 +24,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
@@ -31,10 +38,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,13 +51,15 @@
         "reference_definitions": [
           "Elogio no merecido que se hace esperando algo de la persona que se elogia.",
           "Acción y efecto de adular. Lambetazo.",
-          "Elogio no merecido. Adulación."
+          "Elogio no merecido. Adulación.",
+          "Elogio inmerecido, adulación.",
+          "Lambida, lengüetada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Elogio no merecido que se hace esperando algo de la persona que se elogia."
+    "Elogio no merecido que se hace esperando algo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

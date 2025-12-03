@@ -3,12 +3,15 @@
   "term": "afise",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Asma",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2016",
+        "semantic_similarity_score": 0.2016,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "RAMÍREZ DE ARELLANO,",
-            "year": "1964"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "RAMÍREZ DE ARELLANO,",
+            "year": "1964"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Enfermedad."
+    "Asma"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

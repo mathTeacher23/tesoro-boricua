@@ -3,12 +3,15 @@
   "term": "guardabosque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol, jugador que sirve en el fondo del campo.",
+      "consolidated_definition": "En béisbol",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.058823529411764705,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6632",
+        "semantic_similarity_score": 0.6632,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "En béisbol, jugador que sirve en el fondo del campo."
+    "En béisbol"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

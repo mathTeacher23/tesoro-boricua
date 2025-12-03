@@ -3,12 +3,15 @@
   "term": "café tinta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Café negro cargado, café expreso.",
+      "consolidated_definition": "Café negro y cargado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.34160052910052907,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.8065",
+        "semantic_similarity_score": 0.8065,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -25,16 +28,16 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Café negro y cargado. Variantes: café tinto, café cargado.",
+          "Café negro y cargado. Variantes: café tinto, café cargado.",
           "Café negro bien cargado. Café tinto.",
-          "Café negro cargado, café expreso."
+          "Café negro cargado, café expreso.",
+          "Café negro muy cargado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Café negro cargado, café expreso."
+    "Café negro y cargado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

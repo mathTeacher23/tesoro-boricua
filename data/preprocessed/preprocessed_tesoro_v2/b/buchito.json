@@ -3,12 +3,15 @@
   "term": "buchito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "“Ya me tomé el buchito 'e café”.",
+      "consolidated_definition": "Un poco de café",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.041666666666666664,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6378",
+        "semantic_similarity_score": 0.6378,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "“Ya me tomé el buchito 'e café”."
+    "Un poco de café"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

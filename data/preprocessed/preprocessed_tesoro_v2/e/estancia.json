@@ -3,12 +3,15 @@
   "term": "estancia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "“Ganado de cerda, vacuno y mular, que crían en los hatos y engordan en las estancias y praderías.”.",
+      "consolidated_definition": "“Ganado de cerda",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0864393709370153,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4615",
+        "semantic_similarity_score": 0.4615,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -29,6 +32,10 @@
             "year": "1788"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -37,16 +44,12 @@
             "year": "1948"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1995"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -63,14 +66,17 @@
         ],
         "reference_definitions": [
           "“Ganado de cerda, vacuno y mular, que crían en los hatos y engordan en las estancias y praderías.”",
-          "(Am.).  Hacienda de campo destinada al cultivo y a la ganadería. “Y que convertirán la estancia en una hacienda.” Hostos, La peregrinación de Bayoán, ...",
-          "La misma actitud que divulgó estancia en lugar de cortijo o aldea [...]"
+          ". Hacienda de campo destinada al cultivo y a la ganadería. “Y que convertirán la estancia en una hacienda.” Hostos, La peregrinación de , p. 188. .",
+          "La misma actitud que divulgó estancia en lugar de cortijo o aldea",
+          "Finca rústica de gran tamaño.",
+          "Hacienda de campo. Temprana adaptación, de uso general en América. En Puerto Rico no se usa hoy.",
+          "Finca agrícola o ganadera de gran extensión."
         ]
       }
     }
   },
   "es_definitions": [
-    "“Ganado de cerda, vacuno y mular, que crían en los hatos y engordan en las estancias y praderías.”."
+    "“Ganado de cerda"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

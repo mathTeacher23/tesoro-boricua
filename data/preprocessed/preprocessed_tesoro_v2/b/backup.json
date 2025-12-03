@@ -3,12 +3,15 @@
   "term": "backup",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ayuda",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.140625,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3426",
+        "semantic_similarity_score": 0.3426,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,14 +36,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Ayuda. Sustituto personal o ayuda que se ofrece a alguien. Anglicismo crudo, frecuente.\nHay que tener mucho cuidado en no regalar a Michelo pues es mu...",
-          "inform. Copia de resguardo, copia de seguridad. Copia de ficheros o datos que se guardan de modo que estén disponibles en caso de necesidad. Anglicism..."
+          "Ayuda. Sustituto personal o ayuda que se ofrece a alguien. Anglicismo crudo, frecuente. Hay que tener mucho cuidado en no regalar a Michelo pues es muy joven y sería un buen backup para Turner y hasta podría dividirse la carga",
+          "inform. Copia de resguardo, copia de seguridad. Copia de ficheros o datos que se guardan de modo que estén disponibles en caso de necesidad. Anglicismo crudo, usual. Prepare un backup antes de realizar la actualización por cualquier problema o error"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "Ayuda"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

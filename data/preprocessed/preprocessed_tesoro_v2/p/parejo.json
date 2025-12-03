@@ -3,12 +3,15 @@
   "term": "parejo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Apuesta igual a la del apostador original que suele ser el dueño de uno de los gallos combatientes u otro apostador independiente.",
+      "consolidated_definition": "Apuesta igual a la del apostador original que",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6991",
+        "semantic_similarity_score": 0.6991,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "2003"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "2003"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Apuesta igual a la del apostador original que suele ser el dueño de uno de los gallos combatientes u otro apostador independiente. Contrario a la apue...",
+          "Apuesta igual a la del apostador original que suele ser el dueño de uno de los gallos combatientes u otro apostador independiente. Contrario a la apuesta con gabela. Al escuchar la cantidad apostada el otro gallero responde “voy parejo” y el convenio no necesita más garantía que la palabra empeñada. Es un trato de honor.",
           "En las peleas de gallos, apuesta igual a la hecha por el apostador anterior."
         ]
       }
     }
   },
   "es_definitions": [
-    "Apuesta igual a la del apostador original que suele ser el dueño de uno de los gallos combatientes u otro apostador independiente."
+    "Apuesta igual a la del apostador original que"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

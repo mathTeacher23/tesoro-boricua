@@ -3,12 +3,15 @@
   "term": "parguito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cliente de la prostituta.",
+      "consolidated_definition": "Cliente de la prostituta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.75,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9641",
+        "semantic_similarity_score": 0.9641,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Cliente de la prostituta."
+    "Cliente de la prostituta"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

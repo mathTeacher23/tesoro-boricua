@@ -3,12 +3,15 @@
   "term": "violeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol exclusivo de Puerto Rico.",
+      "consolidated_definition": "Flor y mata",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.004629629629629629,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.348",
+        "semantic_similarity_score": 0.348,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "GOYCO,",
-            "year": "1964"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
+            "source": "GOYCO,",
+            "year": "1964"
           },
           {
             "source": "VICENTE MAURA,",
@@ -47,14 +50,15 @@
         "related_words": [],
         "reference_definitions": [
           "Flor y mata.",
-          "[Planta] decorativa.",
-          "Flor."
+          "decorativa.",
+          "Flor.",
+          "Árbol exclusivo de Puerto Rico. Mediano, de tronco gris. Echa flores en ramilletes, de color violeta y las semillas en cápsulas. Su madera es dura pero no se usa en ebanistería. También llamado palo de tortuga, palo de violeta, tortuga y tortuguero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Árbol exclusivo de Puerto Rico."
+    "Flor y mata"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

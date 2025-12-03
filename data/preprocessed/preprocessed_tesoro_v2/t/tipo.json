@@ -3,12 +3,15 @@
   "term": "tipo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para designar un individuo de baja categoría.",
+      "consolidated_definition": "Apelativo despectivo aplicado a cualquier persona",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.034468599033816424,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3264",
+        "semantic_similarity_score": 0.3264,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -38,13 +41,14 @@
         "reference_definitions": [
           "Apelativo despectivo aplicado a cualquier persona. Fulano, na. Persona indeseable. Varía el significado según la entonación de la voz.",
           "Cherpe.",
-          "Algo medio despectivo para un hombre."
+          "Algo medio despectivo para un hombre.",
+          "Para designar un individuo de baja categoría. Persona antisocial. Se le llama así a una persona que se desprecia. Mujer que no es agradable."
         ]
       }
     }
   },
   "es_definitions": [
-    "Para designar un individuo de baja categoría."
+    "Apelativo despectivo aplicado a cualquier persona"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

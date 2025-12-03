@@ -3,12 +3,15 @@
   "term": "nardo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Flor y mata.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Planta de flores blancas y olorosas. . No es el nardo del Viejo Mundo. “El nardo rivaliza con el clavel en los olores.” Tapia, La leyenda de los veinte años.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.029411764705882353,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.464",
+        "semantic_similarity_score": 0.464,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "GOYCO,",
             "year": "1964"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Am.).  Planta de flores blancas y olorosas. (Polyanthes tuberosa; Amaryllis ornata). No es el nardo (Nardus stricta) del Viejo Mundo. “El nardo rival...",
+          ". Planta de flores blancas y olorosas. . No es el nardo del Viejo Mundo. “El nardo rivaliza con el clavel en los olores.” Tapia, La leyenda de los veinte años.",
           "Flor y mata."
         ]
       }
     }
   },
   "es_definitions": [
-    "Flor y mata."
+    ". Planta de flores blancas y olorosas. . No es el nardo del Viejo Mundo. “El nardo rivaliza con el clavel en los olores.” Tapia, La leyenda de los veinte años."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

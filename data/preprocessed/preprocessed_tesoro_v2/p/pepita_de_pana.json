@@ -3,12 +3,15 @@
   "term": "pepita de pana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fruto parecido a la castaña, que se come hervido con sal.",
+      "consolidated_definition": "Fruto parecido a la castaña",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4519",
+        "semantic_similarity_score": 0.4519,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Fruto parecido a la castaña, que se come hervido con sal."
+    "Fruto parecido a la castaña"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

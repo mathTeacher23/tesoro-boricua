@@ -3,12 +3,15 @@
   "term": "alajes",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mobiliario de una casa.",
+      "consolidated_definition": "Mobiliario de una casa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.36363636363636365,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8525",
+        "semantic_similarity_score": 0.8525,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Mobiliario de una casa."
+    "Mobiliario de una casa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

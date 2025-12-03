@@ -3,12 +3,15 @@
   "term": "tubo de aire",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La cámara de aire.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "La cámara de aire",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.75,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9459",
+        "semantic_similarity_score": 0.9459,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HUYKE,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "La cámara de aire."
+    "La cámara de aire"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

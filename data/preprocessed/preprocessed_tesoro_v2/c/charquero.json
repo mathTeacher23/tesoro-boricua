@@ -3,12 +3,15 @@
   "term": "charquero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Agua derramada accidentalmente en el suelo o sobre un mueble.",
+      "consolidated_definition": "Agua derramada accidentalmente en el suelo o sobre",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.9,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8559",
+        "semantic_similarity_score": 0.8559,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Suciedad producida al pisotear un lugar en el que se ha derramado un líquido.",
+      "consolidated_definition": "Suciedad producida al pisotear un lugar en el",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,12 +81,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Lugar en el que abundan los charcos.",
+      "consolidated_definition": "Lugar en el que abundan los charcos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -111,9 +120,9 @@
     }
   },
   "es_definitions": [
-    "Agua derramada accidentalmente en el suelo o sobre un mueble.",
-    "Suciedad producida al pisotear un lugar en el que se ha derramado un líquido.",
-    "Lugar en el que abundan los charcos."
+    "Agua derramada accidentalmente en el suelo o sobre",
+    "Suciedad producida al pisotear un lugar en el",
+    "Lugar en el que abundan los charcos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

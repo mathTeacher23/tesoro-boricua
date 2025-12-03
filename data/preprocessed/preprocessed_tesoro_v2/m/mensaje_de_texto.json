@@ -3,12 +3,15 @@
   "term": "mensaje de texto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "telecom.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "telecom",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "telecom. Mensaje telefónico grabado mediante un sistema especial de telefonía. Calco de estructura, frecuente.\nEnvío de mensajes de texto con este ser..."
+          "telecom. Mensaje telefónico grabado mediante un sistema especial de telefonía. Calco de estructura, frecuente. Envío de mensajes de texto con este servicio el cliente puede enviar mensajes de texto a números celulares y se le descuenta un minuto por cada mensaje de texto enviado"
         ]
       }
     }
   },
   "es_definitions": [
-    "telecom."
+    "telecom"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "punto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Valor de patrocinio que tiene un negocio.",
+      "consolidated_definition": "Posta en un juego",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4695",
+        "semantic_similarity_score": 0.4695,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Lugar común de reunión de cierto grupo.",
+      "consolidated_definition": "Lugar común de reunión de cierto grupo, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.017543859649122806,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.2879",
+        "semantic_similarity_score": 0.2879,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,12 +88,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Mojón.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Mojón",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -115,12 +124,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Penitenciaría estatal.",
+      "consolidated_definition": "Penitenciaría estatal",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -151,10 +163,10 @@
     }
   },
   "es_definitions": [
-    "Valor de patrocinio que tiene un negocio.",
-    "Lugar común de reunión de cierto grupo.",
-    "Mojón.",
-    "Penitenciaría estatal."
+    "Posta en un juego",
+    "Lugar común de reunión de cierto grupo, relacionado con un grupo",
+    "Mojón",
+    "Penitenciaría estatal"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

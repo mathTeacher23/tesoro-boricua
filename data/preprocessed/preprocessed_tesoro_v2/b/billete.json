@@ -3,12 +3,15 @@
   "term": "billete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Remiendo, o pedazo de tela que se cose a lo que está viejo o roto.",
+      "consolidated_definition": "Remiendo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13636363636363635,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7521",
+        "semantic_similarity_score": 0.7521,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Máxima calificación obtenida en un examen.",
+      "consolidated_definition": "Máxima calificación obtenida en un examen, relacionado con una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,8 +88,8 @@
     }
   },
   "es_definitions": [
-    "Remiendo, o pedazo de tela que se cose a lo que está viejo o roto.",
-    "Máxima calificación obtenida en un examen."
+    "Remiendo",
+    "Máxima calificación obtenida en un examen, relacionado con una calificación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

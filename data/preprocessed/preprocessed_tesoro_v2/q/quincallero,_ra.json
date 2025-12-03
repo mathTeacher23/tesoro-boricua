@@ -3,12 +3,15 @@
   "term": "quincallero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vendedor ambulante de prendas de vestir y artículos relacionados, de bajo precio.",
+      "consolidated_definition": "Vendedor ambulante de prendas de vestir y artículos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09583333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5208",
+        "semantic_similarity_score": 0.5208,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -26,16 +29,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,13 +53,14 @@
         "reference_definitions": [
           "Vendedor ambulante de prendas de vestir y artículos relacionados, de bajo precio.",
           "Dícese del hombre mujeriego.",
-          "Mujeriego."
+          "Mujeriego.",
+          "Referido a un hombre, mujeriego."
         ]
       }
     }
   },
   "es_definitions": [
-    "Vendedor ambulante de prendas de vestir y artículos relacionados, de bajo precio."
+    "Vendedor ambulante de prendas de vestir y artículos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

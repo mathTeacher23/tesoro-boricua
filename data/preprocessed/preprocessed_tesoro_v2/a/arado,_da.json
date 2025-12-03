@@ -3,12 +3,15 @@
   "term": "arado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona muy torpe.",
+      "consolidated_definition": "Persona estúpida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13095238095238096,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.546",
+        "semantic_similarity_score": 0.546,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
@@ -33,10 +40,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
           }
         ],
         "years": [
@@ -47,15 +50,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Persona estúpida.",
+          "Persona estúpida.",
           "Persona torpe.",
-          "Dícese de la persona muy torpe. Estúpida."
+          "Dícese de la persona muy torpe. Estúpida.",
+          "Torpe, bruto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dícese de la persona muy torpe."
+    "Persona estúpida"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

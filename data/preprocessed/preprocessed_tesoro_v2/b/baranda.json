@@ -3,12 +3,15 @@
   "term": "baranda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La duranza y las estacas, espeques o virotes de cada lado [de la carreta] constituyen la baranda.",
+      "consolidated_definition": ". Cada uno de los maderos que se clavan verticalmente al borde de las carretas para contener la carga; adrales de coche.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14447579785230694,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.582",
+        "semantic_similarity_score": 0.582,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,6 +24,18 @@
         ],
         "sources": [
           {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -29,20 +44,8 @@
             "year": "1948"
           },
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1966"
-          },
-          {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -55,15 +58,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Chile y Perú).  Cada uno de los maderos que se clavan verticalmente al borde de las carretas para contener la carga; adrales de coche.",
-          "La duranza y las estacas, espeques o virotes de cada lado [de la carreta] constituyen la baranda.",
-          "Vigas para aguantar el piso [de la carreta de bueyes]. También largueros."
+          ". Cada uno de los maderos que se clavan verticalmente al borde de las carretas para contener la carga; adrales de coche.",
+          "La duranza y las estacas, espeques o virotes de cada lado constituyen la baranda.",
+          "Vigas para aguantar el piso . También largueros.",
+          "El conjunto de los varales .",
+          "Maderos colocados a los lados de las carretas de bueyes y camiones para proteger la carga.",
+          "Conjunto de maderos clavados verticalmente al borde de una carreta de bueyes para contener la carga."
         ]
       }
     }
   },
   "es_definitions": [
-    "La duranza y las estacas, espeques o virotes de cada lado [de la carreta] constituyen la baranda."
+    ". Cada uno de los maderos que se clavan verticalmente al borde de las carretas para contener la carga; adrales de coche."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

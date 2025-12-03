@@ -3,12 +3,15 @@
   "term": "rana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Colilla de cigarrillo [de marihuana].",
+      "consolidated_definition": "Colilla de cigarrillo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -31,17 +34,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Colilla de cigarrillo [de marihuana]."
+          "Colilla de cigarrillo ."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Gallo de pata corta.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Gallo de pata corta",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -69,12 +75,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Pez, de la familia Antennariidae.",
+      "consolidated_definition": "Pez",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -97,15 +106,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez, de la familia Antennariidae (peces ranas). Histrio histrio. También llamado sapo."
+          "Pez, de la familia Antennariidae . Histrio histrio. También llamado sapo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Colilla de cigarrillo [de marihuana].",
-    "Gallo de pata corta.",
-    "Pez, de la familia Antennariidae."
+    "Colilla de cigarrillo",
+    "Gallo de pata corta",
+    "Pez"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

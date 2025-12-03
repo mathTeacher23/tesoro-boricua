@@ -3,12 +3,15 @@
   "term": "outfielder",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol, jugador que tiene por misión atrapar la pelota que ha traspasado el diamante.",
+      "consolidated_definition": "dep",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1276595744680851,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6529",
+        "semantic_similarity_score": 0.6529,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -39,14 +42,14 @@
           "outfield"
         ],
         "reference_definitions": [
-          "dep. En el juego de béisbol, jugador que ocupa una posición en la zona exterior del terreno, en el outfield. Anglicismo crudo, frecuente.\nPor el contr...",
+          "dep. En el juego de béisbol, jugador que ocupa una posición en la zona exterior del terreno, en el outfield. Anglicismo crudo, frecuente. Por el contrario, el legendario outfielder dominicano, Luis Polonia, admitió que en efecto existe una ‘guerra beisbolera’ entre ambos países",
           "En el beisbol, jugador que tiene por misión atrapar la pelota que ha traspasado el diamante."
         ]
       }
     }
   },
   "es_definitions": [
-    "En el beisbol, jugador que tiene por misión atrapar la pelota que ha traspasado el diamante."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

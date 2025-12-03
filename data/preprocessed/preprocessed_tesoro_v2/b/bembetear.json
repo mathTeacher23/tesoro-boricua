@@ -3,12 +3,15 @@
   "term": "bembetear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Charlar mucho, chismear.",
+      "consolidated_definition": "Chismear",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02346938775510204,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4993",
+        "semantic_similarity_score": 0.4993,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -22,28 +25,28 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1961"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1961"
           }
         ],
         "years": [
@@ -61,15 +64,19 @@
           "bembetero, ra"
         ],
         "reference_definitions": [
-          "(popular)  Chismear, murmurar.",
+          "Chismear, murmurar.",
           "Charlar mucho, chismear.",
-          "Charlar, chismear."
+          "Charlar, chismear.",
+          "Comadrear. Chismorrear. Hablar por hablar.",
+          "coloq. Cuba y P. Rico. Chismorrear.",
+          "Charlas, chismorrear alguien.",
+          "Hablar alguien mucho."
         ]
       }
     }
   },
   "es_definitions": [
-    "Charlar mucho, chismear."
+    "Chismear"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

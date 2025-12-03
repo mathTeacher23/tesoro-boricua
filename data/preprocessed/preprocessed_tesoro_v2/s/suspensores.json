@@ -3,12 +3,15 @@
   "term": "suspensores",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tirantes.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Tirantes para suspender de los hombros el pantalón.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3847",
+        "semantic_similarity_score": 0.3847,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -37,14 +40,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg., Col. y Chile).  Tirantes para suspender de los hombros el pantalón.  (Nunca se usa en singlar como cree la Ac.)",
+          ". Tirantes para suspender de los hombros el pantalón.",
           "Tirantes."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tirantes."
+    ". Tirantes para suspender de los hombros el pantalón."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

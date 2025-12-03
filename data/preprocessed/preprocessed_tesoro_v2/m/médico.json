@@ -3,12 +3,15 @@
   "term": "médico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La administración de la medicina popular por los campos de Puerto Rico ha estado en el tiempo en manos de ciertos curanderos —conocidos con variedad de nombres de oficio que les ha dado el jíbaro: los criollismos santigüero, ra […] y yerbatero, ra […], el viejo vocablo español curioso, sa […] y por ampliación popular más bien moderna del nombre del facultativo de la medicina científica, también medico, ca — y quienes, sin tener formación profesional médica alguna, han ejercido o pretendido ejercer prácticas curativas fundamentadas en cierta mezcla de ritual supersticioso y empiricismo pseudocientífico.",
+      "consolidated_definition": "Curandero",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12617647058823528,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.43",
+        "semantic_similarity_score": 0.43,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -25,6 +28,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
@@ -35,10 +42,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -52,17 +55,22 @@
         "reference_definitions": [
           "Curandero. También yerbatero. Otros le llaman médico espiritista.",
           "Bohíque, augur, adivino, hechicero, maestro.",
+          "Curandero.",
+          "La administración de la medicina popular por los campos de Puerto Rico ha estado en el tiempo en manos de ciertos curanderos —conocidos con variedad de nombres de oficio que les ha dado el jíbaro: los criollismos santigüero, ra y yerbatero, ra , el viejo vocablo español curioso, sa y por ampliación popular más bien moderna del nombre del facultativo de la medicina científica, también medico, ca — y quienes, sin tener formación profesional médica alguna, han ejercido o pretendido ejercer prácticas curativas fundamentadas en cierta mezcla de ritual supersticioso y empiricismo pseudocientífico.",
           "Curandero."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pez de la familia Acanthuridae.",
+      "consolidated_definition": "Barbero",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0765038665038665,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.3485",
+        "semantic_similarity_score": 0.3485,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,16 +83,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "ERDMAN,",
             "year": "1974"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "MAULEÓN,",
@@ -93,10 +105,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -110,14 +118,17 @@
         "reference_definitions": [
           "Barbero, pez. Stahl, Catalog, 77.",
           "Pez.",
-          "Pez de la familia Acanthuridae (médicos). Acanthurus bahianus. También llamado cirujano."
+          "Pez de la familia Acanthuridae . Acanthurus bahianus. También llamado cirujano.",
+          "Teuthididae. Teuthis bahianus. “Peje negro”, también le llaman barbero.",
+          "Pez. También barbero.",
+          "Pez marino."
         ]
       }
     }
   },
   "es_definitions": [
-    "La administración de la medicina popular por los campos de Puerto Rico ha estado en el tiempo en manos de ciertos curanderos —conocidos con variedad de nombres de oficio que les ha dado el jíbaro: los criollismos santigüero, ra […] y yerbatero, ra […], el viejo vocablo español curioso, sa […] y por ampliación popular más bien moderna del nombre del facultativo de la medicina científica, también medico, ca — y quienes, sin tener formación profesional médica alguna, han ejercido o pretendido ejercer prácticas curativas fundamentadas en cierta mezcla de ritual supersticioso y empiricismo pseudocientífico.",
-    "Pez de la familia Acanthuridae."
+    "Curandero",
+    "Barbero"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

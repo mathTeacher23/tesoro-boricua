@@ -3,12 +3,15 @@
   "term": "aco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caco.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Caco",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.023255813953488372,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3455",
+        "semantic_similarity_score": 0.3455,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Caco. significa ojo. Según Rochefort, á kou, en lengua caribe insular, tiene la misma significación. Los hermanos Juan Augusto y Salvador Perea encuen...",
+          "Caco. significa ojo. Según Rochefort, á kou, en lengua caribe insular, tiene la misma significación. Los hermanos Juan Augusto y Salvador Perea encuentran concordancia de esta voz con otras parecidas de varias lenguas americanas. Actualmente, y en uso popular en Puerto Rico, figura la voz maco, para designar ‘ojo’.",
           "Ojo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Caco."
+    "Caco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

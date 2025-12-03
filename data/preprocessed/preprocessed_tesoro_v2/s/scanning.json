@@ -3,12 +3,15 @@
   "term": "scanning",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08695652173913043,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.538",
+        "semantic_similarity_score": 0.538,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -34,14 +37,14 @@
           "scanner"
         ],
         "reference_definitions": [
-          "inform. Estudio de imágenes. Proceso por el cual se digitaliza un texto o una imagen bidimensional o tridimensional para que pueda ser almacenada en u...",
-          "inform. electr. Examen cuidadoso y muy minucioso de un equipo, generalmente con programas especiales. Anglicismo crudo, frecuente\nBueno yo tengo el Av..."
+          "inform. Estudio de imágenes. Proceso por el cual se digitaliza un texto o una imagen bidimensional o tridimensional para que pueda ser almacenada en un medio electrónico. Anglicismo crudo, poco frecuente. Este trabajo consiste en realizar una búsqueda de 10 área recreativas que existen en Puerto Rico. Con fines de ahorrar recursos energéticos y de la naturaleza , se recomienda que el trabajo final se guarde en un disquette de computadora. Este proyecto se debe guardar en un floppy disk, libre de viruses",
+          "inform. electr. Examen cuidadoso y muy minucioso de un equipo, generalmente con programas especiales. Anglicismo crudo, frecuente Bueno yo tengo el Avira y entre de lo más bien y no ha detectado ningún virus. Incluso cada 24 hrs a las 6 am hace un scanning predeterminado y tampoco registró virus alguno. Ten cuidado entonces Alexis"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

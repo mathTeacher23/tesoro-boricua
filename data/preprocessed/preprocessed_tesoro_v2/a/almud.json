@@ -3,12 +3,15 @@
   "term": "almud",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Medida de granos específica y exclusivamente aplicada aquí en la medición y peso del café, por las regiones del interior occidental de la Isla, donde radica su cultivo y cosecha.",
+      "consolidated_definition": "Medida empleada en la industria del café",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15766146061402228,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.625",
+        "semantic_similarity_score": 0.625,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,24 +26,24 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -53,14 +56,16 @@
         "related_words": [],
         "reference_definitions": [
           "Medida empleada en la industria del café, equivalente a un decalitro.",
-          "Medida de granos específica y exclusivamente aplicada aquí en la medición y peso del café, por las regiones del interior occidental de la Isla, donde ...",
-          "Medida equivalente a veinte litros. El de café uva pesa 28 libras, y después de pelado, cinco libras."
+          "Medida de granos específica y exclusivamente aplicada aquí en la medición y peso del café, por las regiones del interior occidental de la Isla, donde radica su cultivo y cosecha.",
+          "Medida equivalente a veinte litros. El de café uva pesa 28 libras, y después de pelado, cinco libras.",
+          "Los granos de café que caben en un envase de latón con capacidad para cinco galones. Esta medida es para determinar y pagar la cantidad de granos recogidos por cada persona.",
+          "Unidad de medida que equivale a un decalitro empleada en la industria cafetalera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Medida de granos específica y exclusivamente aplicada aquí en la medición y peso del café, por las regiones del interior occidental de la Isla, donde radica su cultivo y cosecha."
+    "Medida empleada en la industria del café"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

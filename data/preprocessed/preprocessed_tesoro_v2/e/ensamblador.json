@@ -3,12 +3,15 @@
   "term": "ensamblador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Programa o lenguaje que se encarga de traducir un fichero fuente escrito en un lenguaje ensamblador a otro fichero que contiene el código del equipo para el que se ha generado.",
+      "consolidated_definition": "Programa o lenguaje que se encarga de traducir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Programa o lenguaje que se encarga de traducir un fichero fuente escrito en un lenguaje ensamblador a otro fichero que contiene el código del equipo p..."
+          "Programa o lenguaje que se encarga de traducir un fichero fuente escrito en un lenguaje ensamblador a otro fichero que contiene el código del equipo para el que se ha generado. La ventaja de un lenguaje ensamblador o ensamblador es que en él se puede realizar cualquier tipo de programa que en los lenguajes de alto nivel no se pueden realizar. Desvío semántico, poco frecuente. DRAE 2001: hombre que ensambla. El presente trabajo, tal y como lo indica su título, está enfocado en el lenguaje ensamblador de los microprocesadores Intel, particularmente los modelos 8088, 8086, 80186, 80188 y 80286. Sin embargo, todos los programas generados para estos procesadores correrán en un 80386 ó 80486"
         ]
       }
     }
   },
   "es_definitions": [
-    "Programa o lenguaje que se encarga de traducir un fichero fuente escrito en un lenguaje ensamblador a otro fichero que contiene el código del equipo para el que se ha generado."
+    "Programa o lenguaje que se encarga de traducir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "cuchifrito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fritura hecha con vísceras de cerdo o de res.",
+      "consolidated_definition": "Fritadas de lengua",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08477623825449912,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6064",
+        "semantic_similarity_score": 0.6064,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -47,14 +50,16 @@
         "related_words": [],
         "reference_definitions": [
           "Fritadas de lengua, hígado, etc. del cerdo. “Acaso encontrará en ellos cuchiflitos y frituras de berenjena cimarrona.”",
-          "Entresijos (tripas, riñones, bazo, etc.) del cerdo fritos.",
-          "Frituras o cosas fritas en general."
+          "Entresijos del cerdo fritos.",
+          "Frituras o cosas fritas en general.",
+          "Fritura hecha con vísceras de cerdo o de res.",
+          "Fritas de tripas, riñones, bazo, orejas del cerdo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fritura hecha con vísceras de cerdo o de res."
+    "Fritadas de lengua"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

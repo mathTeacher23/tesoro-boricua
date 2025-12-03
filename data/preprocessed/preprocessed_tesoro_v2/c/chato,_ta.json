@@ -3,12 +3,15 @@
   "term": "chato, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aplicado a persona, tiene el matiz de: bajito.",
+      "consolidated_definition": "Aplicado a persona",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.016666666666666666,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4281",
+        "semantic_similarity_score": 0.4281,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -39,19 +42,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Aplicado a persona, tiene el matiz de: bajito. Aplastado, rajao, enano (expresiones burlonas). De baja estatura.",
+          "Aplicado a persona, tiene el matiz de: bajito. Aplastado, rajao, enano . De baja estatura.",
           "Aplicado al animal, significa carirredondo.",
           "Enano."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En las peleas de gallos, gallo de poca calidad; se utiliza para que otros gallos se ejerciten en la pelea pegándole.",
+      "consolidated_definition": "En las peleas de gallos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -79,12 +85,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Entrenador de boxeadores.",
+      "consolidated_definition": "Entrenador de boxeadores",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -109,9 +118,9 @@
     }
   },
   "es_definitions": [
-    "Aplicado a persona, tiene el matiz de: bajito.",
-    "En las peleas de gallos, gallo de poca calidad; se utiliza para que otros gallos se ejerciten en la pelea pegándole.",
-    "Entrenador de boxeadores."
+    "Aplicado a persona",
+    "En las peleas de gallos",
+    "Entrenador de boxeadores"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

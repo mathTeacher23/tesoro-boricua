@@ -3,12 +3,15 @@
   "term": "garabatillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad venérea.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Enfermedad venérea",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -38,12 +41,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Arbusto espinoso, de hasta 3 m de altura, con flores fragantes de color rosa pálido o blanquecino y fruto en forma de legumbre aplanada y larga.",
+      "consolidated_definition": "Planta aromática y medicinal",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03571428571428571,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3132",
+        "semantic_similarity_score": 0.3132,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,12 +64,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -74,14 +80,14 @@
         "related_words": [],
         "reference_definitions": [
           "Planta aromática y medicinal.",
-          "Arbusto espinoso, de hasta 3 m de altura, con flores fragantes de color rosa pálido o blanquecino y fruto en forma de legumbre aplanada y larga. (Faba..."
+          "Arbusto espinoso, de hasta 3 m de altura, con flores fragantes de color rosa pálido o blanquecino y fruto en forma de legumbre aplanada y larga. ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enfermedad venérea.",
-    "Arbusto espinoso, de hasta 3 m de altura, con flores fragantes de color rosa pálido o blanquecino y fruto en forma de legumbre aplanada y larga."
+    "Enfermedad venérea",
+    "Planta aromática y medicinal"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

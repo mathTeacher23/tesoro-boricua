@@ -3,12 +3,15 @@
   "term": "esvanecido, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, orgullosa, vanidosa, soberbia.",
+      "consolidated_definition": "Orgulloso",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.7103",
+        "semantic_similarity_score": 0.7103,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,16 +25,20 @@
         ],
         "sources": [
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
+            "source": "ACEVEDO DE D’AURIA,",
+            "year": "1971"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "PAGÁN GONZÁLEZ,",
             "year": "1969"
           },
           {
-            "source": "ACEVEDO DE D’AURIA,",
-            "year": "1971"
+            "source": "PÉREZ SALA,",
+            "year": "1968"
           },
           {
             "source": "SANTIAGO,",
@@ -40,10 +47,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -59,17 +62,23 @@
         "reference_definitions": [
           "Orgulloso, vanidoso.",
           "Orgulloso, vanidoso.",
-          "Lucido, orondo, orgulloso."
+          "Lucido, orondo, orgulloso.",
+          "Lucido, orgulloso.",
+          "Envanecido. Con soberbia y orgullo.",
+          "Referido a persona, orgullosa, vanidosa, soberbia."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona, mareada.",
+      "consolidated_definition": "Mareado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6625",
+        "semantic_similarity_score": 0.6625,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -83,12 +92,12 @@
         ],
         "sources": [
           {
-            "source": "SOLER,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "SOLER,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -105,8 +114,8 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, orgullosa, vanidosa, soberbia.",
-    "Referido a persona, mareada."
+    "Orgulloso",
+    "Mareado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

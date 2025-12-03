@@ -3,12 +3,15 @@
   "term": "juquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Convencer a una persona para que use droga.",
+      "consolidated_definition": "Convencer a una persona para que use droga",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.2624",
+        "semantic_similarity_score": 0.2624,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,20 +27,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS, 1981B",
-            "year": ""
-          },
-          {
             "source": "ALTIERI DE BARRETO,",
             "year": "1973"
+          },
+          {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
+            "source": "WASHINGTON LLORENS, 1981B",
+            "year": ""
           }
         ],
         "years": [
@@ -53,13 +56,14 @@
         "reference_definitions": [
           "Convencer a una persona para que use droga.",
           "Inyectarse.",
-          "Engarfarse."
+          "Engarfarse.",
+          "Impresionar. “Eso me juquea.”"
         ]
       }
     }
   },
   "es_definitions": [
-    "Convencer a una persona para que use droga."
+    "Convencer a una persona para que use droga"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

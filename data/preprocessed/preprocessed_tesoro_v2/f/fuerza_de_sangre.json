@@ -3,12 +3,15 @@
   "term": "fuerza de sangre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salpullido que se manifiesta con “ronchas colorás, muy grandes”.",
+      "consolidated_definition": "Salpullido que se manifiesta con “ronchas colorás",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11666666666666667,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4396",
+        "semantic_similarity_score": 0.4396,
+        "cluster_count": null,
         "grammar": [
           "locución sustantiva",
           "femenina"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -53,13 +56,15 @@
         "reference_definitions": [
           "Salpullido que se manifiesta con “ronchas colorás, muy grandes”.",
           "Urticaria.",
-          "La alergia de la piel o urticaria."
+          "La alergia de la piel o urticaria.",
+          "Alta presión sanguínea.",
+          "Alta presión sanguínea."
         ]
       }
     }
   },
   "es_definitions": [
-    "Salpullido que se manifiesta con “ronchas colorás, muy grandes”."
+    "Salpullido que se manifiesta con “ronchas colorás"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

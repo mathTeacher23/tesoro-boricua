@@ -3,12 +3,15 @@
   "term": "swing",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estilo de una persona al hablar o al moverse.",
+      "consolidated_definition": "Estilo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4083",
+        "semantic_similarity_score": 0.4083,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,12 +49,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "En el beisbol, movimiento coordinado realizado con los brazos por un pelotero al intentar batear la pelota lanzada por el pícher.",
+      "consolidated_definition": "dep",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15492957746478872,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5707",
+        "semantic_similarity_score": 0.5707,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -64,12 +70,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -79,18 +85,21 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de béisbol y otros deportes, movimiento coordinado realizado con los brazos cuando el jugador intenta conectar la pelota. Anglicismo ...",
+          "dep. En el juego de béisbol y otros deportes, movimiento coordinado realizado con los brazos cuando el jugador intenta conectar la pelota. Anglicismo crudo, frecuente. “Es un deporte familiar que me gusta porque puedo compartir con papi. Viéndolo a él jugar fue que me dio curiosidad por agarrar un palo y el maestro dijo que tenía buen swing”, explica el golfista, quien dedica más de cuatro horas semanales a la práctica",
           "En el beisbol, movimiento coordinado realizado con los brazos por un pelotero al intentar batear la pelota lanzada por el pícher."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Ritmo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ritmo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -113,15 +122,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Ritmo. Cualidad musical inefable; también, estilo musical dentro de la evolución del jazz. Anglicismo crudo, poco frecuente. Frase: tener (un) swing.\n..."
+          "Ritmo. Cualidad musical inefable; también, estilo musical dentro de la evolución del jazz. Anglicismo crudo, poco frecuente. Frase: tener swing. Tan distante de aquel joven que quería explorar un tipo de música que permitiera la improvisación, el swing, pero no encajaba en el mundo del jazz y del hihop, en ese momento casi exclusivo de los músicos negros y drogadictos intravenosos"
         ]
       }
     }
   },
   "es_definitions": [
-    "Estilo de una persona al hablar o al moverse.",
-    "En el beisbol, movimiento coordinado realizado con los brazos por un pelotero al intentar batear la pelota lanzada por el pícher.",
-    "Ritmo."
+    "Estilo",
+    "dep",
+    "Ritmo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

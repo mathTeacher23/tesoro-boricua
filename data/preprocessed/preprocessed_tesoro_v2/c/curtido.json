@@ -3,12 +3,15 @@
   "term": "curtido",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vinagre con algo de azúcar y ajíes picantes que se usa para verter un poco sobre la comida y darle cierto gusto.",
+      "consolidated_definition": "Vinagre con algo de azúcar y ajíes picantes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4074074074074074,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7647",
+        "semantic_similarity_score": 0.7647,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Vinagre con algo de azúcar y ajíes picantes que se usa para verter un poco sobre la comida y darle cierto gusto."
+    "Vinagre con algo de azúcar y ajíes picantes"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

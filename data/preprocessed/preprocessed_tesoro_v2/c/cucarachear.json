@@ -3,12 +3,15 @@
   "term": "cucarachear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tratar alguien de conseguir las cosas con poco trabajo y esfuerzo, o a costa ajena.",
+      "consolidated_definition": "fest",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12846093088198351,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4671",
+        "semantic_similarity_score": 0.4671,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,19 +45,25 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "fest.  Tratar de conseguir las cosas con poco trabajo o a costa ajena. Úsase en infinitivo y en gerundio.",
+          "fest. Tratar de conseguir las cosas con poco trabajo o a costa ajena. Úsase en infinitivo y en gerundio.",
           "Eludir o huir la dificultad.",
-          "Hacer pequeños trabajos bien remunerados."
+          "Hacer pequeños trabajos bien remunerados.",
+          "Tratar alguien de conseguir las cosas con poco trabajo y esfuerzo, o a costa ajena.",
+          "Hacer alguien pequeños trabajos bien remunerados.",
+          "Registrar, revolver, revisar alguien papeles, ropas o baúles."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Andar un hombre a la conquista de mujeres.",
+      "consolidated_definition": "Andar un hombre a caza de mujeres",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.6,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8691",
+        "semantic_similarity_score": 0.8691,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -68,12 +77,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -90,8 +99,8 @@
     }
   },
   "es_definitions": [
-    "Tratar alguien de conseguir las cosas con poco trabajo y esfuerzo, o a costa ajena.",
-    "Andar un hombre a la conquista de mujeres."
+    "fest",
+    "Andar un hombre a caza de mujeres"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

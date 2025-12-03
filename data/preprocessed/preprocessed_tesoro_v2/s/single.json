@@ -3,12 +3,15 @@
   "term": "single",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sencillo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Sencillo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -30,17 +33,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Sencillo. Que viene sin pareja, que no es doble o múltiple. Término que aparece unido a distintos productos. Anglicismo crudo, poco frecuente.\nLos ble..."
+          "Sencillo. Que viene sin pareja, que no es doble o múltiple. Término que aparece unido a distintos productos. Anglicismo crudo, poco frecuente. Los blends mezclan whisky de malta y grano single, después de su maduración"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Soltero.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Soltero, relacionado con un grupo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -62,17 +68,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Soltero. Persona que no se ha casado. Anglicismo crudo, poco frecuente.\nLos singles constituyen un grupo social cada vez más identificado por sus gust..."
+          "Soltero. Persona que no se ha casado. Anglicismo crudo, poco frecuente. Los singles constituyen un grupo social cada vez más identificado por sus gustos, costumbres o aficiones: ¡hay hasta viajes organizados pensando en ellos!"
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Grabación musical.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Grabación musical",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -95,15 +104,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Grabación musical. Disco fonográfico corto, con una canción en cada cara. Anglicismo crudo, usual.\nEl “abayarde”, nombre con el que se le conoce en lo..."
+          "Grabación musical. Disco fonográfico corto, con una canción en cada cara. Anglicismo crudo, usual. El “abayarde”, nombre con el que se le conoce en los circuitos de música latina, viajará a España con su último single “Tradicional a lo bravo”, para dar tres conciertos en Madrid, y en las islas de Tenerife y Las Palmas los días 13, 14 y 15 de septiembre, respectivamente"
         ]
       }
     }
   },
   "es_definitions": [
-    "Sencillo.",
-    "Soltero.",
-    "Grabación musical."
+    "Sencillo",
+    "Soltero, relacionado con un grupo",
+    "Grabación musical"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

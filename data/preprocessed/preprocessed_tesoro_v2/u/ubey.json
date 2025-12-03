@@ -3,12 +3,15 @@
   "term": "ubey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abajo, de afuera.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Significa ‘abajo’, ‘de fuera’.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6462",
+        "semantic_similarity_score": 0.6462,
+        "cluster_count": null,
         "grammar": [
           "adverbio"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -35,14 +38,14 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "(Voz eyerí).  Significa ‘abajo’, ‘de fuera’.",
+          ". Significa ‘abajo’, ‘de fuera’.",
           "Abajo, de afuera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Abajo, de afuera."
+    ". Significa ‘abajo’, ‘de fuera’."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

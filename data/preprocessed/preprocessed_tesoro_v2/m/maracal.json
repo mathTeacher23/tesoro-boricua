@@ -3,12 +3,15 @@
   "term": "maracal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre de lugar; plantación de maracas.",
+      "consolidated_definition": "Nombre de lugar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2119047619047619,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7011",
+        "semantic_similarity_score": 0.7011,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -46,7 +49,7 @@
     }
   },
   "es_definitions": [
-    "Nombre de lugar; plantación de maracas."
+    "Nombre de lugar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

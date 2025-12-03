@@ -3,12 +3,15 @@
   "term": "roster",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Registro, lista.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Registro, relacionado con un grupo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07272727272727272,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.626",
+        "semantic_similarity_score": 0.626,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -37,13 +40,13 @@
         "related_words": [],
         "reference_definitions": [
           "Registro, lista. “En los rósters de los equipos de la liga profesional.”",
-          "dep. Registro, lista. Lista de personas que se turnan para ejercer una función. Anglicismo crudo, frecuente.\nFue un poco inesperada esa decisión de el..."
+          "dep. Registro, lista. Lista de personas que se turnan para ejercer una función. Anglicismo crudo, frecuente. Fue un poco inesperada esa decisión de ellos , pero por alguna razón pasan las cosas y hay que seguir para adelante. La explicación que me dieron fue que tenían que hacer espacio en el roster"
         ]
       }
     }
   },
   "es_definitions": [
-    "Registro, lista."
+    "Registro, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "pad",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Paquete de cigarrillos.",
+      "consolidated_definition": "Marihuana",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4803",
+        "semantic_similarity_score": 0.4803,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,12 +46,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Libretita, bloque.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Libretita",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5765",
+        "semantic_similarity_score": 0.5765,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -61,16 +67,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -82,18 +88,21 @@
         "related_words": [],
         "reference_definitions": [
           "Libretita.",
-          "Libretita, bloque. Conjunto de papeles unidos convenientemente por un extremo de modo que no se desprendan con facilidad; también planchas de papel de...",
+          "Libretita, bloque. Conjunto de papeles unidos convenientemente por un extremo de modo que no se desprendan con facilidad; también planchas de papel de embalaje. Anglicismo crudo, frecuente. Compuesto: notepad. O me detenía en la autopista y apuntaba algo. Con un pad de papel pegadito al cristal del carro",
           "Pequeña libreta."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Toallita de tinta.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Toallita de tinta",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7434",
+        "semantic_similarity_score": 0.7434,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -106,12 +115,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2001"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2001"
           }
         ],
         "years": [
@@ -128,12 +137,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Almohadilla, cojín, etc.",
+      "consolidated_definition": "Cojín de frenos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18297197250132205,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4926",
+        "semantic_similarity_score": 0.4926,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -148,16 +160,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -169,17 +181,17 @@
         "related_words": [],
         "reference_definitions": [
           "Cojín de frenos.",
-          "Almohadilla, cojín, etc. Pieza pequeña de material suave. Pad es una voz polisémica que se utiliza para nombrar una gran variedad de artículos, entre ...",
+          "Almohadilla, cojín, etc. Pieza pequeña de material suave. Pad es una voz polisémica que se utiliza para nombrar una gran variedad de artículos, entre ellos, almohadilla de protección, almohadilla de limpieza, cojín de absorción, almohadillas de gafas, etc. Anglicismo crudo, usual. Compuestos: pad de freno, heating pad, mouse pad, nose pad, scroll pad. Usa un pad caliente en temperatura baja antes de acostar al niño o cuando aparezca el dolor",
           "Zapata de frenos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Paquete de cigarrillos.",
-    "Libretita, bloque.",
-    "Toallita de tinta.",
-    "Almohadilla, cojín, etc."
+    "Marihuana",
+    "Libretita",
+    "Toallita de tinta",
+    "Cojín de frenos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "plumilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Insecto que se encuentra generalmente en los cafetales, de picadura dolorosa, la cual produce fiebre.",
+      "consolidated_definition": "Gusano blanco recubierto de pelos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05689066526535453,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4781",
+        "semantic_similarity_score": 0.4781,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,24 +28,24 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -53,19 +56,25 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Gusano blanco recubierto de pelos, parecido a una pluma.",
-          "Insecto que se encuentra generalmente en los cafetales, de picadura dolorosa, la cual produce fiebre. Habita también en los árboles de guamá y de moca...",
-          "Gusano blanco, con el aspecto de una pluma de ave pequeña. Habita en los arbustos de café y cuando se le arroja del sitio donde se encuentra pegado, d..."
+          "Gusano blanco recubierto de pelos, parecido a una pluma.",
+          "Insecto que se encuentra generalmente en los cafetales, de picadura dolorosa, la cual produce fiebre. Habita también en los árboles de guamá y de moca.",
+          "Gusano blanco, con el aspecto de una pluma de ave pequeña. Habita en los arbustos de café y cuando se le arroja del sitio donde se encuentra pegado, deja sobre la piel humana la sensación de una quemadura, por un líquido que suelta.",
+          "Gusanito que daña las hojas de varias plantas, especialmente de las cítricas.",
+          "Gusano de mariposa nocturna, peludo, blanco. Ataca a los árboles de acacia. Su contacto con la piel produce quemadura con efectos corrosivos.",
+          "Gusano."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Delincuente callejero.",
+      "consolidated_definition": "Delincuente callejero",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -78,12 +87,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -100,8 +109,8 @@
     }
   },
   "es_definitions": [
-    "Insecto que se encuentra generalmente en los cafetales, de picadura dolorosa, la cual produce fiebre.",
-    "Delincuente callejero."
+    "Gusano blanco recubierto de pelos",
+    "Delincuente callejero"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

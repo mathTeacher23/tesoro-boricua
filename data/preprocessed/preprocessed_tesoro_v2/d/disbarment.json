@@ -3,12 +3,15 @@
   "term": "disbarment",
   "superscripts": {
     "1": {
-      "consolidated_definition": "der.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "der",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "der. Desaforo. Privación del ejercicio de la abogacía. Anglicismo crudo, poco frecuente.\nEl indulto, o el pago de una multa, o el cumplimiento de una ..."
+          "der. Desaforo. Privación del ejercicio de la abogacía. Anglicismo crudo, poco frecuente. El indulto, o el pago de una multa, o el cumplimiento de una sentencia puede devolver a uno sus derechos civiles -puede borrar el delo cometido- pero no puede borrar el acto de que él fue declarado culpable, y es el acto lo que la corte considera en estos procedimientos de disbarment"
         ]
       }
     }
   },
   "es_definitions": [
-    "der."
+    "der"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

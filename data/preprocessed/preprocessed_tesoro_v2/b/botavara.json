@@ -3,12 +3,15 @@
   "term": "botavara",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Con el nombre de la botavara del barco se designa la lanza de la carreta en varios lugares de la isla.",
+      "consolidated_definition": "Lanza o palo de mano del molino de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15543076963220995,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.5604",
+        "semantic_similarity_score": 0.5604,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
-          },
-          {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
           },
           {
             "source": "VICENTE MAURA,",
@@ -57,13 +60,19 @@
         "reference_definitions": [
           "Lanza o palo de mano del molino de mano para triturar granos.",
           "Lanza de un carro o carreta.",
-          "El timón del arado recibió varias denominaciones repartidas con visible orden geográfico. [...] Algunas de estas variantes aparecen aisladamente fuera..."
+          "El timón del arado recibió varias denominaciones repartidas con visible orden geográfico. Algunas de estas variantes aparecen aisladamente fuera de las regiones señaladas: botavara, Comerío.",
+          "Con el nombre de la botavara del barco se designa la lanza de la carreta en varios lugares de la isla.",
+          "Lanza del carro de bueyes.",
+          "Pieza de madera acoplada a un carro de mano para conducirlo.",
+          "Lanza del carro de bueyes.",
+          "En la parte centro-oriental y sureste de la Isla, el timón del arado. También lanza.",
+          "La pieza que une al carro con los bueyes."
         ]
       }
     }
   },
   "es_definitions": [
-    "Con el nombre de la botavara del barco se designa la lanza de la carreta en varios lugares de la isla."
+    "Lanza o palo de mano del molino de"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

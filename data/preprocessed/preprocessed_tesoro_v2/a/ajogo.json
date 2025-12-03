@@ -3,12 +3,15 @@
   "term": "ajogo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad que se caracteriza por un estrechamiento de los bronquios y que se manifiesta con ataques de tos, sonidos silbantes, y dificultad respiratoria, asma.",
+      "consolidated_definition": "Ahogo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.047724867724867726,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.2738",
+        "semantic_similarity_score": 0.2738,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -37,14 +40,15 @@
         "related_words": [],
         "reference_definitions": [
           "Ahogo.",
-          "Enfermedad que se caracteriza por un estrechamiento de los bronquios y que se manifiesta con ataques de tos, sonidos silbantes, y dificultad respirato...",
-          "Síntoma de asma."
+          "Enfermedad que se caracteriza por un estrechamiento de los bronquios y que se manifiesta con ataques de tos, sonidos silbantes, y dificultad respiratoria, asma.",
+          "Síntoma de asma.",
+          "Punto de mayor intensidad de un ataque asmático"
         ]
       }
     }
   },
   "es_definitions": [
-    "Enfermedad que se caracteriza por un estrechamiento de los bronquios y que se manifiesta con ataques de tos, sonidos silbantes, y dificultad respiratoria, asma."
+    "Ahogo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

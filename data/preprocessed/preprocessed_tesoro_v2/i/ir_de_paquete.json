@@ -3,12 +3,15 @@
   "term": "ir de paquete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ir de tiros largos .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ir de tiros largos",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07407407407407407,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4476",
+        "semantic_similarity_score": 0.4476,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -39,14 +42,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ir de tiros largos (hombre que sigue rigurosamente la moda y va muy compuesto, dice Ac., pero en Puerto Rico lo mismo van de paquete hombres que mujer...",
+          "Ir de tiros largos .",
           "Ir muy elegante."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ir de tiros largos ."
+    "Ir de tiros largos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

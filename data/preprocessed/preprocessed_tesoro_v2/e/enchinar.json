@@ -3,12 +3,15 @@
   "term": "enchinar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fastidiar, molestar.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Fastidiar",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.125,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7676",
+        "semantic_similarity_score": 0.7676,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,12 +46,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Frotar con limón o naranja a un gallo por la pluma para facilitar su corte.",
+      "consolidated_definition": "Frotarle limón o china al gallo por la",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.27586206896551724,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6482",
+        "semantic_similarity_score": 0.6482,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -62,12 +68,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -77,15 +83,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Frotarle limón o china al gallo por la pluma para facilitar el recorte. “Después que se recortaba pluma por pluma se le enchinaba, se le pasaba alcoho...",
+          "Frotarle limón o china al gallo por la pluma para facilitar el recorte. “Después que se recortaba pluma por pluma se le enchinaba, se le pasaba alcohol, limón o china”.",
           "Frotar con limón o naranja a un gallo por la pluma para facilitar su corte."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fastidiar, molestar.",
-    "Frotar con limón o naranja a un gallo por la pluma para facilitar su corte."
+    "Fastidiar",
+    "Frotarle limón o china al gallo por la"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

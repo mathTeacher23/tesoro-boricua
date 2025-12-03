@@ -3,12 +3,15 @@
   "term": "pergamino",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Película muy frágil, cuando está seca que separa el grano de café de la pulpa, de color pajizo.",
+      "consolidated_definition": "Cascarilla que cubre el grano",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18210763578713504,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6309",
+        "semantic_similarity_score": 0.6309,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,16 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           },
           {
             "source": "VICENTE MAURA,",
@@ -37,10 +44,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -52,15 +55,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cascarilla que cubre el grano [de café].",
+          "Cascarilla que cubre el grano .",
           "Cascarilla blanca que cubre los granos de café después de secos.",
-          "Película muy frágil, cuando está seca que separa el grano de café de la pulpa, de color pajizo."
+          "Película muy frágil, cuando está seca que separa el grano de café de la pulpa, de color pajizo.",
+          "Especie de papiro que sale del interior de la yagua.",
+          "Cascarilla que recubre el grano de café.",
+          "Cascarilla delgada que envuelve el grano del café, la cual se halla inmediatamente debajo de la capa mucilaginosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Película muy frágil, cuando está seca que separa el grano de café de la pulpa, de color pajizo."
+    "Cascarilla que cubre el grano"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

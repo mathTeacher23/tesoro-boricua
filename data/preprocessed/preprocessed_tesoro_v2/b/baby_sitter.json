@@ -3,12 +3,15 @@
   "term": "baby sitter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer que cuida niños, especialmente en ausencia de los padres.",
+      "consolidated_definition": "Niñera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18564130633096151,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4172",
+        "semantic_similarity_score": 0.4172,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
           },
@@ -33,10 +40,6 @@
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -52,13 +55,14 @@
         "reference_definitions": [
           "Niñera.",
           "Niñera.",
-          "Niñera. Persona contratada para cuidar niños por unas horas en ausencia de los padres, generalmente una muchacha. Anglicismo crudo, usual. DRAE 2001, ..."
+          "Niñera. Persona contratada para cuidar niños por unas horas en ausencia de los padres, generalmente una muchacha. Anglicismo crudo, usual. DRAE 2001, voz inglesa. Para pagarse los estudios seguía trabajando: fue tutora y baby sitter de los hijos de los miembros de la facultad, anfitriona en las mesas del comedor, “fregatriz” como decía ella, tutora de otros estudiantes, ayudante en la oficina, ayudante en la granja avícola, lo que viniera",
+          "Mujer que cuida niños, especialmente en ausencia de los padres."
         ]
       }
     }
   },
   "es_definitions": [
-    "Mujer que cuida niños, especialmente en ausencia de los padres."
+    "Niñera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

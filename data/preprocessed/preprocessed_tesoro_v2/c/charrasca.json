@@ -3,12 +3,15 @@
   "term": "charrasca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hoz, en San Sebastián y Lares.",
+      "consolidated_definition": "Hoz",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.27777777777777773,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5594",
+        "semantic_similarity_score": 0.5594,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
+            "source": "BENNETT,",
+            "year": "1972"
           },
           {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "BENNETT,",
-            "year": "1972"
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -50,13 +53,14 @@
         "reference_definitions": [
           "Hoz, en San Sebastián y Lares.",
           "Hoz.",
-          "Hoz."
+          "Hoz.",
+          "Por San Sebastián y Lares, hoz."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hoz, en San Sebastián y Lares."
+    "Hoz"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

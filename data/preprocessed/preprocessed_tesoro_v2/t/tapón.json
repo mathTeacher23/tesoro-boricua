@@ -3,12 +3,15 @@
   "term": "tapón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El hombre o mujer de poca estatura.",
+      "consolidated_definition": "Persona bajita",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1897037900753071,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6645",
+        "semantic_similarity_score": 0.6645,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,16 @@
         ],
         "sources": [
           {
-            "source": "GOYCO,",
-            "year": "1964"
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "GOYCO,",
+            "year": "1964"
           },
           {
             "source": "LAUREANO ORTEGA,",
@@ -37,10 +44,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -59,18 +62,24 @@
         "related_words": [],
         "reference_definitions": [
           "Persona bajita. También guatapo, corrotoco, porrotoco.",
-          "(general)  Persona de baja estatura. Guatapo.",
-          "Persona de baja estatura. También potoco, enano, corrotoco, guajino, mediopollo, mediometro, pirraca, rebejío, barraco."
+          "Persona de baja estatura. Guatapo.",
+          "Persona de baja estatura. También potoco, enano, corrotoco, guajino, mediopollo, mediometro, pirraca, rebejío, barraco.",
+          "Dícese de la persona bajita.",
+          "Persona baja de estatura. Rechoncho.",
+          "El hombre o mujer de poca estatura."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En electricidad, fusible.",
+      "consolidated_definition": "Por fusible",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20833333333333334,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4032",
+        "semantic_similarity_score": 0.4032,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,16 +92,16 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -110,12 +119,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Acumulación de automóviles en una carretera, de modo que se paraliza o se dificulta el tráfico.",
+      "consolidated_definition": "Acumulación de automóviles en una carretera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10185185185185186,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4535",
+        "semantic_similarity_score": 0.4535,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -153,9 +165,9 @@
     }
   },
   "es_definitions": [
-    "El hombre o mujer de poca estatura.",
-    "En electricidad, fusible.",
-    "Acumulación de automóviles en una carretera, de modo que se paraliza o se dificulta el tráfico."
+    "Persona bajita",
+    "Por fusible",
+    "Acumulación de automóviles en una carretera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

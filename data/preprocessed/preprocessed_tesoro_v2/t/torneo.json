@@ -3,12 +3,15 @@
   "term": "torneo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hoy llamada [así] la reunión en un pueblo de los gallos más famosos de muchos de los circunvecinos, que se anuncian con grande anticipación, y se verifica en días señalados.",
+      "consolidated_definition": "Hoy llamada la reunión en un pueblo de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.25,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7743",
+        "semantic_similarity_score": 0.7743,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hoy llamada [así] la reunión en un pueblo de los gallos más famosos de muchos de los circunvecinos, que se anuncian con grande anticipación, y se veri...",
+          "Hoy llamada la reunión en un pueblo de los gallos más famosos de muchos de los circunvecinos, que se anuncian con grande anticipación, y se verifica en días señalados.",
           "Reunión de los gallos de pelea más famosos de los vecinos de un pueblo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hoy llamada [así] la reunión en un pueblo de los gallos más famosos de muchos de los circunvecinos, que se anuncian con grande anticipación, y se verifica en días señalados."
+    "Hoy llamada la reunión en un pueblo de"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

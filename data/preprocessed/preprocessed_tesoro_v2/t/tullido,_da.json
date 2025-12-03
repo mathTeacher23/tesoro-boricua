@@ -3,12 +3,15 @@
   "term": "tullido, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se aplica al que casi no puede andar o mover las manos o los brazos.",
+      "consolidated_definition": "La persona inválida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09346405228758169,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5183",
+        "semantic_similarity_score": 0.5183,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,12 @@
         ],
         "sources": [
           {
-            "source": "GOYCO,",
-            "year": "1964"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
-          },
-          {
-            "source": "CARRILLO,",
-            "year": "1974"
           },
           {
             "source": "CLAUDIO DE LA TORRE,",
@@ -42,6 +41,10 @@
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "GOYCO,",
+            "year": "1964"
           }
         ],
         "years": [
@@ -58,13 +61,16 @@
         "reference_definitions": [
           "La persona inválida, que no puede moverse.",
           "Defecto en las manos o en los pies.",
-          "Se aplica al que casi no puede andar o mover las manos o los brazos."
+          "Se aplica al que casi no puede andar o mover las manos o los brazos.",
+          "Amontonado.",
+          "Quebrado, corcovado.",
+          "Amontonado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se aplica al que casi no puede andar o mover las manos o los brazos."
+    "La persona inválida"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

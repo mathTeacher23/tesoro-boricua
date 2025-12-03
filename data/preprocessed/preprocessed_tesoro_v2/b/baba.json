@@ -3,12 +3,15 @@
   "term": "baba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jugo viscoso generado por la baya madura del café, que se encuentra entre la parte inferior de la corteza y el grano.",
+      "consolidated_definition": "Jugo viscoso que genera la baya del café",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15886157783403898,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.61",
+        "semantic_similarity_score": 0.61,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
+          },
+          {
             "source": "GONZÁLEZ MUÑIZ,",
             "year": "1988"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -54,17 +57,22 @@
         "reference_definitions": [
           "Jugo viscoso que genera la baya del café cuando está madura.",
           "Jugo viscoso generado por la baya madura del café, que se encuentra entre la parte inferior de la corteza y el grano.",
-          "Materia blanca y viscosa que segrega la fruta del café cuando se pasa por la despulpadora. La baba permanece sobre el pergamino que cubre los granos. ..."
+          "Materia blanca y viscosa que segrega la fruta del café cuando se pasa por la despulpadora. La baba permanece sobre el pergamino que cubre los granos. Luego de despulpados éstos, al día siguiente, cuando ya la baba está seca o cortada, se lavan y se ponen al sol. Estos granos ya secos son conocidos por café cáscara blanca.",
+          "Espuma sucia que se forma sobre el azúcar derretida.",
+          "Materia blanca y viscosa que segrega el fruto del café cuando pasa por la despulpadora."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que cansa mucho de tanto hablar; aburrida.",
+      "consolidated_definition": "Palabrería",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03142857142857143,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5594",
+        "semantic_similarity_score": 0.5594,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -81,20 +89,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -113,19 +121,25 @@
           "baboso, sa 1"
         ],
         "reference_definitions": [
-          "Palabrería, dicho insustancial (Ac.).",
+          "Palabrería, dicho insustancial .",
           "Palabrería.",
-          "Palabras sin sentido."
+          "Palabras sin sentido.",
+          "Persona que cansa mucho de tanto hablar; aburrida.",
+          "Cosas inútiles, que no valen la pena.",
+          "Palabrería, dicho insustancial."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Polvo húmedo y resbaladizo que cubre el pavimento.",
+      "consolidated_definition": "Barro",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23076923076923078,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8682",
+        "semantic_similarity_score": 0.8682,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -138,12 +152,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -160,9 +174,9 @@
     }
   },
   "es_definitions": [
-    "Jugo viscoso generado por la baya madura del café, que se encuentra entre la parte inferior de la corteza y el grano.",
-    "Persona que cansa mucho de tanto hablar; aburrida.",
-    "Polvo húmedo y resbaladizo que cubre el pavimento."
+    "Jugo viscoso que genera la baya del café",
+    "Palabrería",
+    "Barro"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

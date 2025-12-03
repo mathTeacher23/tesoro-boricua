@@ -3,12 +3,15 @@
   "term": "parquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se puede estacionar en cualquier lugar, pero parquear sólo en la acera.",
+      "consolidated_definition": "Alinear, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06525062223297157,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6609",
+        "semantic_similarity_score": 0.6609,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -26,12 +29,12 @@
             "year": "1971"
           },
           {
-            "source": "HUYKE,",
-            "year": "1973"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "HUYKE,",
+            "year": "1973"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -42,8 +45,8 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -63,13 +66,16 @@
         "reference_definitions": [
           "Alinear, estacionar el carro.",
           "Se puede estacionar en cualquier lugar, pero parquear sólo en la acera.",
-          "Estacionar."
+          "Estacionar.",
+          "Estacionar. Aparcar.",
+          "Estacionar. Dejar el vehículo que se conduce en un espacio no necesariamente acotado para ello. Usual. DRAE 2001 Ante la escasez de estacionamientos en el Distrito 4 de San Juan, que provocan que conductores recurran a parquear sus vehículos en las aceras, poniendo en peligro la seguridad de las personas que transitan o caminan por el área, la Comisión de Gobierno, que preside la representante Jenniffer González, comenzó hoy vistas públicas para estudiar la posibilidad de convertir propiedades del Gobierno sin usarse en bolsillos de estacionamientos",
+          "Estacionar un vehículo en un lugar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se puede estacionar en cualquier lugar, pero parquear sólo en la acera."
+    "Alinear, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

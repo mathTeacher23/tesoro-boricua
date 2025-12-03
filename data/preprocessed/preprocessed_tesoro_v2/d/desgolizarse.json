@@ -3,12 +3,15 @@
   "term": "desgolizarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermarse.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "pop",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3837",
+        "semantic_similarity_score": 0.3837,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -37,7 +40,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "pop.  Caerse inesperadamente; resbalar.",
+          "pop. Caerse inesperadamente; resbalar.",
           "Gotearse.",
           "Enfermarse."
         ]
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Enfermarse."
+    "pop"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

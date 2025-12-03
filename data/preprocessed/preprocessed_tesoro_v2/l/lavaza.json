@@ -3,12 +3,15 @@
   "term": "lavaza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Agua espumosa obtenida al lavar la ropa u otros enseres.",
+      "consolidated_definition": ". Espuma que forma el jabón en el agua.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.22008547008547008,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7213",
+        "semantic_similarity_score": 0.7213,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Perú). Espuma que forma el jabón en el agua.",
+          ". Espuma que forma el jabón en el agua.",
           "Espuma de agua jabonosa.",
-          "Agua espumosa obtenida al lavar la ropa u otros enseres."
+          "Agua espumosa obtenida al lavar la ropa u otros enseres.",
+          "Espuma de agua jabonosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Agua espumosa obtenida al lavar la ropa u otros enseres."
+    ". Espuma que forma el jabón en el agua."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

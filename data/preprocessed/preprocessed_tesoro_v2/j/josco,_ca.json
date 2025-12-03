@@ -3,12 +3,15 @@
   "term": "josco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un animal vacuno, de color oscuro.",
+      "consolidated_definition": "Color trigueño",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12904040404040404,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6157",
+        "semantic_similarity_score": 0.6157,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,6 +25,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
@@ -32,10 +39,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,13 +52,14 @@
         "reference_definitions": [
           "Color trigueño, oscuro.",
           "Hosco, oscuro de color.",
-          "De color moreno que tira a negro."
+          "De color moreno que tira a negro.",
+          "Referido a un animal vacuno, de color oscuro."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a un animal vacuno, de color oscuro."
+    "Color trigueño"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

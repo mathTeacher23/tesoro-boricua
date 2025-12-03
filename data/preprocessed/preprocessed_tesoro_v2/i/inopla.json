@@ -3,12 +3,15 @@
   "term": "inopla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indigencia, pobreza extrema, inopia.",
+      "consolidated_definition": "Inopia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.27052669552669556,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.8482",
+        "semantic_similarity_score": 0.8482,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,16 +28,16 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Inopia, pobreza extrema.",
+          "Inopia, pobreza extrema.",
           "Inopia. Indigencia. Pobreza extrema. “Fulano está en la inopla.”",
-          "Pobreza extrema, inopia."
+          "Pobreza extrema, inopia.",
+          "Indigencia, pobreza extrema, inopia."
         ]
       }
     }
   },
   "es_definitions": [
-    "Indigencia, pobreza extrema, inopia."
+    "Inopia"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

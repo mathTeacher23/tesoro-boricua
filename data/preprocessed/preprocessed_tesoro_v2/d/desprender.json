@@ -3,12 +3,15 @@
   "term": "desprender",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desabotonar.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Desabotonar",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1851851851851852,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6788",
+        "semantic_similarity_score": 0.6788,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -43,14 +46,15 @@
         "related_words": [],
         "reference_definitions": [
           "Desabotonar.",
-          "(De des- y prender).  Arg., Nic., Par., P. Rico, R. Dom. y Ur.  Desabrochar, desabotonar. Ú. t. c. prnl.",
-          "Desabrochar."
+          ". Arg., Nic., Par., P. Rico, R. Dom. y Ur. Desabrochar, desabotonar. Ú. t. c. prnl.",
+          "Desabrochar.",
+          "Desabotonar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Desabotonar."
+    "Desabotonar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

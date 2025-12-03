@@ -3,12 +3,15 @@
   "term": "comercial",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Anuncio, soporte visual o auditivo en el que se transmite un mensaje publicitario.",
+      "consolidated_definition": "Anuncios",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.041666666666666664,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4465",
+        "semantic_similarity_score": 0.4465,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,14 +45,14 @@
         "related_words": [],
         "reference_definitions": [
           "Anuncios.",
-          "tel. Anuncio. En la televisión y radio, mensaje publicitario con soporte visual o auditivo. Usual. DRAE 2001 (Am.)\nLa cadena Caribbean Cinemas estaría...",
+          "tel. Anuncio. En la televisión y radio, mensaje publicitario con soporte visual o auditivo. Usual. DRAE 2001 La cadena Caribbean Cinemas estaría presentando hasta el 2 de octubre un comercial cinematográfico del merenguero, producido por Futuroe.com, en las salas de Guayama, Humacao, Isabela, Plaza Caribe en Ponce, Yauco y San Germán",
           "Anuncio, soporte visual o auditivo en el que se transmite un mensaje publicitario."
         ]
       }
     }
   },
   "es_definitions": [
-    "Anuncio, soporte visual o auditivo en el que se transmite un mensaje publicitario."
+    "Anuncios"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

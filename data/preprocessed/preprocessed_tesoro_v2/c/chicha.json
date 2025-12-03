@@ -3,12 +3,15 @@
   "term": "chicha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bebida embriagante que usaban los indios, preparada a base de maíz, frutas y otros ingredientes.",
+      "consolidated_definition": "Bebida de la chicha",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1274481658692185,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3295",
+        "semantic_similarity_score": 0.3295,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,16 +28,16 @@
             "year": "1788"
           },
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -48,17 +51,22 @@
         "reference_definitions": [
           "Bebida de la chicha, que hacían las mujeres de maíz, frutas y otras cosas.",
           "Bebida embriagante que usaban los indios, preparada a base de maíz, frutas y otros ingredientes.",
-          "Xixá."
+          "Xixá.",
+          "Bebida embriagante hecha con ron y anís.",
+          "Licor embriagante a base de maíz, frutas y vegetales fermentados."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Vulva.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Vulva",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -93,8 +101,8 @@
     }
   },
   "es_definitions": [
-    "Bebida embriagante que usaban los indios, preparada a base de maíz, frutas y otros ingredientes.",
-    "Vulva."
+    "Bebida de la chicha",
+    "Vulva"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

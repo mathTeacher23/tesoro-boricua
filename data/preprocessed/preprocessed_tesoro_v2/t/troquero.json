@@ -3,12 +3,15 @@
   "term": "troquero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dueño de camión, que él mismo conduce, para transportación de carga de personas particulares.",
+      "consolidated_definition": "Dueño de camión, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14153992027555246,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6645",
+        "semantic_similarity_score": 0.6645,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,15 +48,15 @@
           "troc"
         ],
         "reference_definitions": [
-          "Dueño de camión, que él mismo conduce, para transportación de carga de personas particulares. (Esta voz se escucha en los muelles y grandes almacenes ...",
-          "Camionero. Conductor de un camión grande. Anglicismo adaptado, usual.\nEn el secuestro participaron tambien el troquero Reinaldo Rolon Rivera y el mecá...",
+          "Dueño de camión, que él mismo conduce, para transportación de carga de personas particulares.",
+          "Camionero. Conductor de un camión grande. Anglicismo adaptado, usual. En el secuestro participaron tambien el troquero Reinaldo Rolon Rivera y el mecánico Efrain Morales Class, todos pendientes del proceso judicial, tras su arresto el 28 de noviembre pasado",
           "Dueño y conductor de un camión que transporta carga y personas particulares."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dueño de camión, que él mismo conduce, para transportación de carga de personas particulares."
+    "Dueño de camión, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "trillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abrir vereda por el paso de personas o animales sobre terreno enyerbado.",
+      "consolidated_definition": ". Afirmar un camino., relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03634259259259259,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4718",
+        "semantic_similarity_score": 0.4718,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
           }
         ],
         "years": [
@@ -44,19 +47,23 @@
           "trilla 1"
         ],
         "reference_definitions": [
-          "(T. en Cuba).  Afirmar un camino.",
+          ". Afirmar un camino.",
           "Abrir vereda por el paso de personas o animales sobre terreno enyerbado.",
-          "Acción de correr, pasear, a otra persona."
+          "Acción de correr, pasear, a otra persona.",
+          "Montar en carro o en machina."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Separar el café de trilla.",
+      "consolidated_definition": "Separar el café de trilla",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -88,8 +95,8 @@
     }
   },
   "es_definitions": [
-    "Abrir vereda por el paso de personas o animales sobre terreno enyerbado.",
-    "Separar el café de trilla."
+    ". Afirmar un camino., relacionado con un grupo",
+    "Separar el café de trilla"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

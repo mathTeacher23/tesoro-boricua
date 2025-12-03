@@ -3,12 +3,15 @@
   "term": "estaqueado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Colocación de estacas en el suelo para cercar un terreno.",
+      "consolidated_definition": "Cerca de estacas en las colindancias y guardarrayas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10363247863247864,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3941",
+        "semantic_similarity_score": 0.3941,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -40,7 +43,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cerca de estacas en las colindancias y guardarrayas. Se hace un estaqueado también para proteger las hortalizas y en las playas para poner las redes a...",
+          "Cerca de estacas en las colindancias y guardarrayas. Se hace un estaqueado también para proteger las hortalizas y en las playas para poner las redes a secar.",
           "Conjunto de tablones clavados.",
           "Colocación de estacas en el suelo para cercar un terreno."
         ]
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "Colocación de estacas en el suelo para cercar un terreno."
+    "Cerca de estacas en las colindancias y guardarrayas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

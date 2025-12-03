@@ -3,12 +3,15 @@
   "term": "contador, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Profesional encargado de llevar la contabilidad de una oficina o establecimiento.",
+      "consolidated_definition": "No tiene que ser contable",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.014346764346764346,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3258",
+        "semantic_similarity_score": 0.3258,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HUYKE,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -39,14 +42,15 @@
         "related_words": [],
         "reference_definitions": [
           "No tiene que ser contable.",
-          "Contador es un C.P.A. (Contador Público Autorizado). Tiene una licencia adicional al bachillerato con especialidad en contabilidad.",
-          "Profesional encargado de llevar la contabilidad de una oficina o establecimiento."
+          "Contador es un C.P.A. . Tiene una licencia adicional al bachillerato con especialidad en contabilidad.",
+          "Profesional encargado de llevar la contabilidad de una oficina o establecimiento.",
+          "Prestamista."
         ]
       }
     }
   },
   "es_definitions": [
-    "Profesional encargado de llevar la contabilidad de una oficina o establecimiento."
+    "No tiene que ser contable"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "correr la máquina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para Marcelino Canino significa: ‘embromar a uno’.",
+      "consolidated_definition": "Ridiculizar a una persona, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12121861095612162,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.5195",
+        "semantic_similarity_score": 0.5195,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,16 +25,24 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           },
           {
             "source": "PAGÁN GONZÁLEZ,",
             "year": "1969"
+          },
+          {
+            "source": "PÉREZ SALA,",
+            "year": "1968"
           },
           {
             "source": "SOLER,",
@@ -40,14 +51,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
           }
         ],
         "years": [
@@ -64,13 +67,18 @@
         "reference_definitions": [
           "Ridiculizar a una persona.",
           "Poner en ridículo a una persona.",
-          "Poner en ridículo a alguien."
+          "Poner en ridículo a alguien.",
+          "Mentir a una persona.",
+          "Poner en ridículo.",
+          "Dar bromas. Coger de tonto.",
+          "Agitar a otro. Burlarse, seguirle la corriente, pero burlándolo. Coger de bobo. Decir cosas para molestar.",
+          "Para Marcelino Canino significa: ‘embromar a uno’. “Y pensó que su primo y novio estaba loco o quería correrle la máquina.” Juan Antonio Ramos, Démosle luz verde a la nostalgia, p. 50."
         ]
       }
     }
   },
   "es_definitions": [
-    "Para Marcelino Canino significa: ‘embromar a uno’."
+    "Ridiculizar a una persona, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

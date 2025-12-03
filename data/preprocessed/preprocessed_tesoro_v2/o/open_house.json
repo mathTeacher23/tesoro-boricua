@@ -3,12 +3,15 @@
   "term": "open house",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fiesta en una casa privada o en un comercio, que carece de horario predeterminado, generalmente para celebrar una inauguración.",
+      "consolidated_definition": "Casa abierta, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12219974854806388,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5745",
+        "semantic_similarity_score": 0.5745,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,18 +47,22 @@
         "related_words": [],
         "reference_definitions": [
           "Casa abierta. Fiesta en una casa privada o comercial por un largo período de tiempo, sin horas fijas.",
-          "Fiesta, recepción. Actividad social informal en una vivienda privada con amplia participación de amigos y conocidos. Anglicismo crudo, frecuente.\nOpen...",
-          "Reunión formal o informal que tiene el objeto de divulgar información sobre un proyecto o institución. Anglicismo crudo, frecuente.\nLa compañía, con m..."
+          "Fiesta, recepción. Actividad social informal en una vivienda privada con amplia participación de amigos y conocidos. Anglicismo crudo, frecuente. Open house, fiesta informal para la inauguracion de mi nuevo apartmento. Como todos saben, me mude hace poco y quiero hacer una fiesta informal para la inauguracion del lugar y para que todos conozcan mi nuevo hogar. Pueden ir tirao’s si quieren, no hay nada que llevar solo la boca pa’ comer y beber. Tengo mapita pa’ que no se me pierdan",
+          "Reunión formal o informal que tiene el objeto de divulgar información sobre un proyecto o institución. Anglicismo crudo, frecuente. La compañía, con más de 25 años de experiencia en la industria de la aviación, arribó oficialmente a la Ciudad Señorial el pasado 15 de septiembre con un singular open house, en el que los interesados pudieron conocer más sobre sus servicios",
+          "Fiesta en una casa privada o en un comercio, que carece de horario predeterminado, generalmente para celebrar una inauguración."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Período de tiempo en el que un apartamento o casa para la venta se mantiene abierto al público.",
+      "consolidated_definition": "Período de tiempo en el que un apartamento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -80,14 +87,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Período de tiempo en el que un apartamento o casa para la venta se mantiene abierto al público. Anglicismo crudo, poco frecuente.\nEl lujoso condominio..."
+          "Período de tiempo en el que un apartamento o casa para la venta se mantiene abierto al público. Anglicismo crudo, poco frecuente. El lujoso condominio Mont Blanc en Río Piedras abrirá sus puertas para llevar a cabo un open house, en el cual se estarán presentando los 5 apartamentos típicos, penthouse y grand penthouse que tiene disponibles para la venta"
         ]
       }
     }
   },
   "es_definitions": [
-    "Fiesta en una casa privada o en un comercio, que carece de horario predeterminado, generalmente para celebrar una inauguración.",
-    "Período de tiempo en el que un apartamento o casa para la venta se mantiene abierto al público."
+    "Casa abierta, relacionado con una organización",
+    "Período de tiempo en el que un apartamento"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

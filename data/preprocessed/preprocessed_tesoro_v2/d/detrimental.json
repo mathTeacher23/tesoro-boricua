@@ -3,12 +3,15 @@
   "term": "detrimental",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dañino, perjudicial, destructivo.",
+      "consolidated_definition": "Perjudicial",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06320754716981132,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4913",
+        "semantic_similarity_score": 0.4913,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,20 +23,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -47,13 +50,15 @@
         "reference_definitions": [
           "Perjudicial, desventajoso. “La falta de luz en el Escobar le fué favorable a la par que detrimental a los bateadores ponceños.”",
           "Perjudicial.",
-          "Perjudicial. Dañino."
+          "Perjudicial. Dañino.",
+          "Desmoralizador.",
+          "Dañino, perjudicial, destructivo. Que causa pérdida o daño. Anglicismo adaptado, frecuente. Nos inquieta grandemente el efecto detrimental que tendría el propuesto aumento en una industria de transportación que ya confronta una difícil situación de competitividad, así como en los consumidores que dependen de los bienes importados"
         ]
       }
     }
   },
   "es_definitions": [
-    "Dañino, perjudicial, destructivo."
+    "Perjudicial"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

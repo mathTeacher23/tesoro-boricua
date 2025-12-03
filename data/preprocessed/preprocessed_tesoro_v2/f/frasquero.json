@@ -3,12 +3,15 @@
   "term": "frasquero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio donde se amontonan frascos y botellas.",
+      "consolidated_definition": "Montón de frascos o botellas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2787878787878788,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7397",
+        "semantic_similarity_score": 0.7397,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -40,13 +43,14 @@
         "reference_definitions": [
           "Montón de frascos o botellas.",
           "El sitio donde se amontonan. También frasquería.",
-          "Montón de frascos o botellas."
+          "Montón de frascos o botellas.",
+          "Sitio donde se amontonan frascos y botellas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sitio donde se amontonan frascos y botellas."
+    "Montón de frascos o botellas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

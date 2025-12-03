@@ -1,9 +1,10 @@
 [project]
 name = "tesoro-boricua"
 version = "1.0.0"
-description = "Puerto Rican Cultural Learning Platform - React Version with FastAPI Backend"
+description = "Puerto Rican Cultural Learning Platform with pipeline and validation"
 requires-python = ">=3.9,<4.0"
 dependencies = [
+    # Backend / Frontend App
     "fastapi>=0.104.0",
     "uvicorn>=0.24.0",
     "pydantic>=2.10.0",
@@ -13,6 +14,16 @@ dependencies = [
     "langchain-openai>=0.0.0,<0.3.0",
     "langchain-core>=0.0.0,<0.3.0",
     "requests>=2.31.0",
+
+    # Pipeline & Validation (sentence-transformers is needed by both)
+    "Flask==2.3.3",
+    "Flask-CORS==4.0.0",
+    "Werkzeug==2.3.7",
+    "sentence-transformers>=2.2.0",
+    "scikit-learn>=1.3.0",
+
+    # For preprocess.py (consolidation with review)
+    "openai>=1.0.0",
 ]
 
 [tool.uv]

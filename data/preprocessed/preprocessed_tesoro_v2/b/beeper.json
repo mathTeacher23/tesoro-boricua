@@ -3,12 +3,15 @@
   "term": "beeper",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Buscapersonas.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Buscapersonas, relacionado con un grupo o un mecanismo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.025252525252525252,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4564",
+        "semantic_similarity_score": 0.4564,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -27,12 +30,12 @@
             "year": "2005"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -44,14 +47,15 @@
         "related_words": [],
         "reference_definitions": [
           "Buscapersonas.",
-          "telecom. Dispositivo que permite accionar las puertas de automóviles, casas, etc. a distancia. Anglicismo crudo, usual.\nEl dependiente de la droguería...",
-          "telecom. Busca personas. Pequeño dispositivo de comunicación que permite la recepción de mensajes escritos y transmite una señal periódica, se usa en ..."
+          "telecom. Dispositivo que permite accionar las puertas de automóviles, casas, etc. a distancia. Anglicismo crudo, usual. El dependiente de la droguería atendió a la pregunta y me pidió el beeper del carro",
+          "telecom. Busca personas. Pequeño dispositivo de comunicación que permite la recepción de mensajes escritos y transmite una señal periódica, se usa en hospitales o centros similares. Anglicismo crudo, usual. No lleve consigo beeper, celulares o cualquier otro accesorio personal por que no son permitidos",
+          "Buscador."
         ]
       }
     }
   },
   "es_definitions": [
-    "Buscapersonas."
+    "Buscapersonas, relacionado con un grupo o un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "formatear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.125,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6206",
+        "semantic_similarity_score": 0.6206,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -34,14 +37,14 @@
           "formato"
         ],
         "reference_definitions": [
-          "inform. Dar formato o presentación a una tabla numérica o documento. Usual. DRAE: desde 1992.\nNo es un manual, no me gustan los manuales porque tiende...",
-          "inform. Acción mediante la cual se asigna un sistema de archivos y sus características a un medio de almacenamiento; también, preparar un disquete o d..."
+          "inform. Dar formato o presentación a una tabla numérica o documento. Usual. DRAE: desde 1992. No es un manual, no me gustan los manuales porque tienden a formatear",
+          "inform. Acción mediante la cual se asigna un sistema de archivos y sus características a un medio de almacenamiento; también, preparar un disquete o disco para darle una estructura compatible con un ordenador. Usual. DRAE: desde 2001. Aprovechando que llega el fin de semana, una buena opción es poner al día nuestra computadora, formatear o darle cualquier otro mantenimiento que necesite algo de tiempo y conlleve algo de riesgo"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

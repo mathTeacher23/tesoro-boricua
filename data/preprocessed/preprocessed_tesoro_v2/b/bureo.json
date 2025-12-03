@@ -3,12 +3,15 @@
   "term": "bureo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bullicio, diversión, fiesta.",
+      "consolidated_definition": ". Bullicio, Fiesta.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06999999999999999,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4957",
+        "semantic_similarity_score": 0.4957,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -50,15 +53,17 @@
           "burileo"
         ],
         "reference_definitions": [
-          "(P. Rico, Pan. y And.).  Bullicio, Fiesta.",
+          ". Bullicio, Fiesta.",
           "Desorden. Riña. Trifulca. Burileo.",
-          "Desorden. Revuelta."
+          "Desorden. Revuelta.",
+          "Bullicio, diversión, fiesta.",
+          "Desorden, riña, revuelta."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bullicio, diversión, fiesta."
+    ". Bullicio, Fiesta."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "clerk",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Oficinista, secretario, ayudante, tenedor de libros, cajero.",
+      "consolidated_definition": "Escribiente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16046706684166542,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.489",
+        "semantic_similarity_score": 0.489,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "HUYKE,",
             "year": "1973"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -41,8 +40,12 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -58,13 +61,17 @@
         "reference_definitions": [
           "Escribiente, amanuense, empleado de oficina.",
           "Empleado de correos.",
-          "Empleado de oficina para trabajos secundarios."
+          "Empleado de oficina para trabajos secundarios.",
+          "Oficinista, secretario, ayudante, tenedor de libros, cajero.",
+          "Oficinista. Empleado que trabaja en una oficina. Anglicismo crudo, frecuente. En CT, hubiera buscado a como diera lugar esos 50 pesos aunque se los robara a la gasolina de los paseos a mi trabajo cerca del aeropuerto a dónde tenía que ir cada mañana para comenzar la jornada como clerk a las 5. Quizás me hubiera librado de la mente parlanchina o el mono loco",
+          "Empleado de oficina para trabajos secundarios, ayudante.",
+          "Secretario, tenedor de libros."
         ]
       }
     }
   },
   "es_definitions": [
-    "Oficinista, secretario, ayudante, tenedor de libros, cajero."
+    "Escribiente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "foetazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe dado con un fuete.",
+      "consolidated_definition": "Golpe dado con un fuete",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027777777777777776,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3038",
+        "semantic_similarity_score": 0.3038,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -37,13 +40,14 @@
         "reference_definitions": [
           "Golpe dado con un fuete.",
           "Golpe contundente.",
-          "Castigo."
+          "Castigo.",
+          "Hechizo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Golpe dado con un fuete."
+    "Golpe dado con un fuete"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

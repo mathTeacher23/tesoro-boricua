@@ -3,12 +3,15 @@
   "term": "campo corto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol, puesto del jugador que se sitúa entre la segunda y la tercera base, en el lugar más cercano al lanzador para atrapar la pelota si el bateador la lanza en esa dirección.",
+      "consolidated_definition": "dep",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.140625,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6664",
+        "semantic_similarity_score": 0.6664,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el béisbol, parte especial del campo que cubre el espacio entre la segunda y tercera base; por extensión, la persona que juega en ese espacio....",
-          "En el beisbol, puesto del jugador que se sitúa entre la segunda y la tercera base, en el lugar más cercano al lanzador para atrapar la pelota si el ba..."
+          "dep. En el béisbol, parte especial del campo que cubre el espacio entre la segunda y tercera base; por extensión, la persona que juega en ese espacio. Calco de estructura, frecuente. Sé que bateará un lineazo templado, de aquellos incogibles que pasaban “silbantes” —diría Héctor Rafael Vázquez— sobre el campo corto",
+          "En el beisbol, puesto del jugador que se sitúa entre la segunda y la tercera base, en el lugar más cercano al lanzador para atrapar la pelota si el bateador la lanza en esa dirección."
         ]
       }
     }
   },
   "es_definitions": [
-    "En el beisbol, puesto del jugador que se sitúa entre la segunda y la tercera base, en el lugar más cercano al lanzador para atrapar la pelota si el bateador la lanza en esa dirección."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

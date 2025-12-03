@@ -3,12 +3,15 @@
   "term": "aguacharse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Humedecérsele a uno los ojos por estar a punto de llorar.",
+      "consolidated_definition": "Abochornarse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06785714285714287,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4357",
+        "semantic_similarity_score": 0.4357,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -27,16 +30,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,13 +54,15 @@
         "reference_definitions": [
           "Abochornarse.",
           "Humedecérsele a uno los ojos por estar a punto de llorar. “Se le aguacharon los ojos.”",
-          "Ponerse un fruto aguachoso."
+          "Ponerse un fruto aguachoso.",
+          "Humedecerse los ojos antes de llorar.",
+          "Ponerse un fruto aguado, soso, desabrido."
         ]
       }
     }
   },
   "es_definitions": [
-    "Humedecérsele a uno los ojos por estar a punto de llorar."
+    "Abochornarse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

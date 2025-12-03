@@ -3,12 +3,15 @@
   "term": "jarana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Baile casero entre familiares y amigos.",
+      "consolidated_definition": ". Broma, chanza.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04181444023549286,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4537",
+        "semantic_similarity_score": 0.4537,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -26,24 +29,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -59,15 +62,18 @@
           "jaranista"
         ],
         "reference_definitions": [
-          "(T en Ant., Chile y Ven.).  Broma, chanza.",
-          "(T. en Ecuad., Méx., Perú y R. Dom.).  Baile de confianza, no de etiqueta.  “Para reyes, la había llevado Gaspar a una jarana, y... ella salió llorand...",
-          "Baile informal o familiar."
+          ". Broma, chanza.",
+          ". Baile de confianza, no de etiqueta. “Para reyes, la había llevado Gaspar a una jarana, y... ella salió llorando del baile.” Zeno Gandía, La charca, 1893, cap. IV.",
+          "Baile informal o familiar.",
+          "Baile familiar de confianza.",
+          "Actividad informal. Baile. Fiesta. Party.",
+          "Baile casero entre familiares y amigos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Baile casero entre familiares y amigos."
+    ". Broma, chanza."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

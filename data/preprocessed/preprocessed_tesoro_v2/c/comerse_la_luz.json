@@ -3,12 +3,15 @@
   "term": "comerse la luz",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Avanzar con el vehículo sin hacer caso a la señal del semáforo.",
+      "consolidated_definition": "No detenerse cuando la luz del semáforo está",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11428571428571428,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5616",
+        "semantic_similarity_score": 0.5616,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           }
         ],
         "years": [
@@ -37,14 +40,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "No detenerse cuando la luz del semáforo está roja. “Cómete la luz a la izquierda que a eso nadie le hace caso.” Juan Antonio Ramos, El manual del buen...",
+          "No detenerse cuando la luz del semáforo está roja. “Cómete la luz a la izquierda que a eso nadie le hace caso.” Juan Antonio Ramos, El manual del buen modal…, p. 70.",
           "Avanzar con el vehículo sin hacer caso a la señal del semáforo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Avanzar con el vehículo sin hacer caso a la señal del semáforo."
+    "No detenerse cuando la luz del semáforo está"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

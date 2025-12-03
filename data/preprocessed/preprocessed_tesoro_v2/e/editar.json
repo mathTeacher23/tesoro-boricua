@@ -3,12 +3,15 @@
   "term": "editar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "impr.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "impr",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -32,17 +35,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "impr. Corregir. Revisar un texto para eliminar las incorrecciones ortográficas, depurar el contenido, estructura, fondo y forma de una obra. Desvío se..."
+          "impr. Corregir. Revisar un texto para eliminar las incorrecciones ortográficas, depurar el contenido, estructura, fondo y forma de una obra. Desvío semántico, usual. DRAE 2001: publicar una obra, adaptar un texto a las normas de estilo de una publicación. En Manhattanville College estudié literatura inglesa y francesa. Una monja irlandesa, Mother O’Gorman, que era mi mentora, me enseñó a editar mis textos, a podar cada palabra como se poda una rama de hojas secas"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "tel.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "tel",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -64,14 +70,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "tel. Configurar de nuevo una película o video cortando algunas porciones y ensamblando las restantes. Desvío semántico, usual. DRAE 2001: organizar la..."
+          "tel. Configurar de nuevo una película o video cortando algunas porciones y ensamblando las restantes. Desvío semántico, usual. DRAE 2001: organizar las grabaciones originales para la emisión de un programa. La mujer, quien lleva seis años de unión con Ayala, en un momento se sacudió al observar en el televisor de la sala de emergencia imágenes sin editar del accidente, que fueron transmitidas por los noticiarios"
         ]
       }
     }
   },
   "es_definitions": [
-    "impr.",
-    "tel."
+    "impr",
+    "tel"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

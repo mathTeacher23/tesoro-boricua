@@ -3,12 +3,15 @@
   "term": "acartonado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, que está afectada de tuberculosis pero ha logrado detener el avance de la enfermedad.",
+      "consolidated_definition": "Se dice del tísico que parece no tener",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10994282990653226,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.594",
+        "semantic_similarity_score": 0.594,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,24 +25,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -52,19 +55,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice del tísico que parece no tener tal enfermedad. (En España se dice de los ancianos de fisonomía enjuta y aspecto sano; del que no aparenta los ...",
+          "Se dice del tísico que parece no tener tal enfermedad. .",
           "Se dice de una persona que tiene la tuberculosis detenida.",
-          "Persona que padece de tuberculosis estacionaria."
+          "Persona que padece de tuberculosis estacionaria.",
+          "Dícese del tuberculoso no contaminante. Encartonado.",
+          "Referido a persona, que está afectada de tuberculosis pero ha logrado detener el avance de la enfermedad."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona, vestida muy formal, con poca espontaneidad.",
+      "consolidated_definition": "Referido a persona",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [
           "CUALIDAD.",
@@ -92,8 +100,8 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, que está afectada de tuberculosis pero ha logrado detener el avance de la enfermedad.",
-    "Referido a persona, vestida muy formal, con poca espontaneidad."
+    "Se dice del tísico que parece no tener",
+    "Referido a persona"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

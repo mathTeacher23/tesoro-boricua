@@ -3,12 +3,15 @@
   "term": "gallo espuelero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hay gallos que no saben usar las espuelas en la pelea y solo atacan con las patas.",
+      "consolidated_definition": "Gallo o gallina que sabe usar sus espuelas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10138436393523091,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.6327",
+        "semantic_similarity_score": 0.6327,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -25,6 +28,10 @@
         ],
         "sources": [
           {
+            "source": "FIGUEROA,",
+            "year": "1996"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -39,10 +46,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1996"
           }
         ],
         "years": [
@@ -55,15 +58,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Gallo o gallina que sabe usar sus espuelas en la pelea. “Así mismo es necesario que el coleador  tenga lo que se llama buen ojo para calcular a la sim...",
+          "Gallo o gallina que sabe usar sus espuelas en la pelea. “Así mismo es necesario que el coleador tenga lo que se llama buen ojo para calcular a la simple vista el peso justo de un gallo...; si es espuelero y otros varios detalles.” Fernández Juncos, Tipos y.., 1882, p. 138.",
           "Se califica de espuelero al gallo que sabe usar los espolones.",
-          "Dícese del gallo de pelea que da mucho con las espuelas."
+          "Dícese del gallo de pelea que da mucho con las espuelas.",
+          "De la persona que es polemista hábil.",
+          "Fino de espuela.",
+          "Gallo certero en su tiro con las espuelas. Véase espueloso. Existen los derivados espuelero y espueloso aplicados al gallo que es diestro con las espuelas.",
+          "Hay gallos que no saben usar las espuelas en la pelea y solo atacan con las patas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hay gallos que no saben usar las espuelas en la pelea y solo atacan con las patas."
+    "Gallo o gallina que sabe usar sus espuelas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

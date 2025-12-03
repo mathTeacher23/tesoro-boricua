@@ -3,12 +3,15 @@
   "term": "closet",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Armario para guardar ropa, utensilios u otros objetos.",
+      "consolidated_definition": "Armario para guardar ropa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14855008126102995,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.6182",
+        "semantic_similarity_score": 0.6182,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,16 +36,8 @@
             "year": "1972"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "LÓPEZ MORALES,",
             "year": "1986"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -51,6 +46,14 @@
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -67,13 +70,17 @@
         "reference_definitions": [
           "Armario para guardar ropa, utensilios u otros objetos.",
           "Ropero.",
-          "Armario empotrado."
+          "Armario empotrado.",
+          "El armario empotrado.",
+          "Armario, ropero.",
+          "Armario, armario empotrado.",
+          "Armario, ropero. Espacio empotrado en una pared organizado para ropa y otros objetos, generalmente con puertas. Anglicismo crudo, usual. Claro, no es para meterla en el closet"
         ]
       }
     }
   },
   "es_definitions": [
-    "Armario para guardar ropa, utensilios u otros objetos."
+    "Armario para guardar ropa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

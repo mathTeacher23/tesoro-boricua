@@ -3,12 +3,15 @@
   "term": "jáquima",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cabezada de cordel, que suple por el cabestro, para atar las bestias y llevarlas.",
+      "consolidated_definition": "Cabezada de cordel como la define el Dicc",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10817933559869043,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6575",
+        "semantic_similarity_score": 0.6575,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -51,15 +54,16 @@
           "jaquimón"
         ],
         "reference_definitions": [
-          "Cabezada de cordel como la define el Dicc. Acad. El campesino explica que es una “brida de soga que sustituye al freno cuando las bestias van a comer”...",
+          "Cabezada de cordel como la define el Dicc. Acad. El campesino explica que es una “brida de soga que sustituye al freno cuando las bestias van a comer”. También, jaquimón.",
           "Cabezada de cordel. También jaquimón, ronzal.",
-          "Cabezal de soga que sirve de cabestro."
+          "Cabezal de soga que sirve de cabestro.",
+          "Cabezada de cordel, que suple por el cabestro, para atar las bestias y llevarlas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cabezada de cordel, que suple por el cabestro, para atar las bestias y llevarlas."
+    "Cabezada de cordel como la define el Dicc"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

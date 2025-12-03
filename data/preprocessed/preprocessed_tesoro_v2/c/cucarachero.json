@@ -3,12 +3,15 @@
   "term": "cucarachero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Habitación sucia.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Habitación sucia",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -38,12 +41,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Aglomeración de cucarachas en un lugar.",
+      "consolidated_definition": "Aglomeración de cucarachas en un lugar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08928571428571429,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7571",
+        "semantic_similarity_score": 0.7571,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,12 +64,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -80,12 +86,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Gallo que no tiene un tren de pelea ordenado.",
+      "consolidated_definition": "Gallo que no tiene un tren de pelea",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.125,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6994",
+        "semantic_similarity_score": 0.6994,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -98,12 +107,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "2003"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "2003"
           }
         ],
         "years": [
@@ -113,16 +122,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Gallo que no tiene un tren de pelea ordenado. Su tren de pelea es errático. Si se enfrenta a un gallo fino, que se caracteriza por su tren de pelea de...",
+          "Gallo que no tiene un tren de pelea ordenado. Su tren de pelea es errático. Si se enfrenta a un gallo fino, que se caracteriza por su tren de pelea definido, lo desluce. Caguas.",
           "Gallo que pelea ordenadamente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Habitación sucia.",
-    "Aglomeración de cucarachas en un lugar.",
-    "Gallo que no tiene un tren de pelea ordenado."
+    "Habitación sucia",
+    "Aglomeración de cucarachas en un lugar",
+    "Gallo que no tiene un tren de pelea"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

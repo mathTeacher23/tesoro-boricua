@@ -3,12 +3,15 @@
   "term": "caracol",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Juego de niños que consiste en tomarse de las manos en una gran cadena formando un caracol y caminando en círculos concéntricos.",
+      "consolidated_definition": "Juego de niños",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7246",
+        "semantic_similarity_score": 0.7246,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Variedad de guineo dátil en que los frutos no están en manos individuales y sí en una sola mano que va dándole la vuelta al marlote.",
+      "consolidated_definition": "Variedad de guineo dátil en que los frutos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11538461538461538,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3588",
+        "semantic_similarity_score": 0.3588,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -60,16 +66,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -88,8 +94,8 @@
     }
   },
   "es_definitions": [
-    "Juego de niños que consiste en tomarse de las manos en una gran cadena formando un caracol y caminando en círculos concéntricos.",
-    "Variedad de guineo dátil en que los frutos no están en manos individuales y sí en una sola mano que va dándole la vuelta al marlote."
+    "Juego de niños",
+    "Variedad de guineo dátil en que los frutos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "blackout",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Apagón eléctrico.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Apagón",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5308",
+        "semantic_similarity_score": 0.5308,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,18 +39,21 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Apagón. Momento en que un lugar queda sin servicio de electricidad por algún tiempo. Anglicismo crudo, frecuente.\nEl blackout era algo así como un sim...",
+          "Apagón. Momento en que un lugar queda sin servicio de electricidad por algún tiempo. Anglicismo crudo, frecuente. El blackout era algo así como un simulacro que hacían los americanos. Sonaba una sirena, se apagaban todas las luces del pueblo, y nos teníamos que quedar, quietecitos, quietecitos, casi sin respirar. Era una práctica que nos enseñaba qué hacer si un enemigo de los gringos atacaba la isla con aviones desde el cielo",
           "Apagón eléctrico."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Mantecado con coca-cola.",
+      "consolidated_definition": "Mantecado con coca-cola",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03225806451612903,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3913",
+        "semantic_similarity_score": 0.3913,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -60,12 +66,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -75,15 +81,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Mantecado con coca-cola. Bebida preparada con helado y refresco de cola. Según los entendidos, el refresco debe ser de la marca Coca Cola para que est...",
+          "Mantecado con coca-cola. Bebida preparada con helado y refresco de cola. Según los entendidos, el refresco debe ser de la marca Coca Cola para que esta bebida se llame blackout. Anglicismo crudo, poco frecuente.",
           "Bebida refrescante."
         ]
       }
     }
   },
   "es_definitions": [
-    "Apagón eléctrico.",
-    "Mantecado con coca-cola."
+    "Apagón",
+    "Mantecado con coca-cola"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

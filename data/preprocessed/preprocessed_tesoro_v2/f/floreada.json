@@ -3,12 +3,15 @@
   "term": "floreada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Período en que florecen algunas plantas, especialmente el café.",
+      "consolidated_definition": "Cafetos totalmente llenos de flores",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.059803921568627454,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6541",
+        "semantic_similarity_score": 0.6541,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FONFRÍAS, 1975B",
             "year": ""
           },
@@ -33,10 +40,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,13 +54,14 @@
         "reference_definitions": [
           "Cafetos totalmente llenos de flores.",
           "Período en que florecen algunas plantas, especialmente el café. Florecimiento.",
-          "El estado del cafeto totalmente lleno de flores."
+          "El estado del cafeto totalmente lleno de flores.",
+          "Floración."
         ]
       }
     }
   },
   "es_definitions": [
-    "Período en que florecen algunas plantas, especialmente el café."
+    "Cafetos totalmente llenos de flores"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "truck",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camión de carga.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Camión",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13621031746031745,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6613",
+        "semantic_similarity_score": 0.6613,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,12 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -41,8 +40,12 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -56,15 +59,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Camión (de carga).",
+          "Camión .",
           "Camión de carga. También dicen tros.",
-          "Camión. También troh."
+          "Camión. También troh.",
+          "Camión.",
+          "Camión. Vehículo de motor de grandes proporciones que transporta mercancías. Anglicismo crudo, usual. Para hacerte un cuento largo corto, un truck que venía por la avenida le voló la puerta",
+          "Camión."
         ]
       }
     }
   },
   "es_definitions": [
-    "Camión de carga."
+    "Camión"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

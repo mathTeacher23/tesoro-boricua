@@ -3,12 +3,15 @@
   "term": "ñoñería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Halago, mimo, carantoña.",
+      "consolidated_definition": ". Engreimiento, halago, mimo, carantoña.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0625,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.425",
+        "semantic_similarity_score": 0.425,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,15 +47,16 @@
           "ñoño, ña"
         ],
         "reference_definitions": [
-          "(T en R. Dom.).  Engreimiento, halago, mimo, carantoña.",
+          ". Engreimiento, halago, mimo, carantoña.",
           "Tontería. Chiquillada.",
-          "Mimo."
+          "Mimo.",
+          "Halago, mimo, carantoña."
         ]
       }
     }
   },
   "es_definitions": [
-    "Halago, mimo, carantoña."
+    ". Engreimiento, halago, mimo, carantoña."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

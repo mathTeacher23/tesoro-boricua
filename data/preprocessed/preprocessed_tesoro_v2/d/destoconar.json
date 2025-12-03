@@ -3,12 +3,15 @@
   "term": "destoconar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arrancar de cuajo los tocones en un predio de terreno.",
+      "consolidated_definition": "Arrancar de cuajo los tocones en un predio",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14346024346024347,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5557",
+        "semantic_similarity_score": 0.5557,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -40,14 +43,15 @@
         "related_words": [],
         "reference_definitions": [
           "Arrancar de cuajo los tocones en un predio de terreno.",
-          "Rasurar la barba bien a raíz.  Algunos dicen estoconar.",
-          "Arrancar de cuajo los tocones."
+          "Rasurar la barba bien a raíz. Algunos dicen estoconar.",
+          "Arrancar de cuajo los tocones.",
+          "Afeitar la barba de raíz."
         ]
       }
     }
   },
   "es_definitions": [
-    "Arrancar de cuajo los tocones en un predio de terreno."
+    "Arrancar de cuajo los tocones en un predio"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

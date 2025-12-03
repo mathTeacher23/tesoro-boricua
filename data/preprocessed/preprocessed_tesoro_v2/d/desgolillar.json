@@ -3,12 +3,15 @@
   "term": "desgolillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cortar alguien la golilla a los gallos de pelea.",
+      "consolidated_definition": "Cortar la golilla a las aves",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2657407407407407,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6432",
+        "semantic_similarity_score": 0.6432,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,13 +52,14 @@
         "reference_definitions": [
           "Cortar la golilla a las aves.",
           "Cortar la golilla a un gallo de pelea.",
-          "prnl.  Romperse la crisma."
+          "prnl. Romperse la crisma.",
+          "Cortar alguien la golilla a los gallos de pelea."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cortar alguien la golilla a los gallos de pelea."
+    "Cortar la golilla a las aves"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

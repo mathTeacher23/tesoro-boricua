@@ -3,21 +3,19 @@
   "term": "expreso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver café expreso .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver café expreso",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -27,12 +25,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Autovía.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Autovía",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -55,17 +56,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Autovía. Carretera de varios carriles en la que, a diferencia de las autopistas, no se paga peaje. Neologismo anglicado, usual.\nLa actividad tendrá lu..."
+          "Autovía. Carretera de varios carriles en la que, a diferencia de las autopistas, no se paga peaje. Neologismo anglicado, usual. La actividad tendrá lugar a las 7:00 de la noche del miércoles en el Auditorio de la Fundación, ubicada en la marginal del expreso de Río Piedras a Trujillo Alto"
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Rápido.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Rápido, relacionado con un grupo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -89,15 +93,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Rápido. Transporte o servicio que opera con rapidez. Anglicismo adaptado, frecuente.\nPor tal razón, esta Ley dispone que todas las agencias y corporac..."
+          "Rápido. Transporte o servicio que opera con rapidez. Anglicismo adaptado, frecuente. Por tal razón, esta Ley dispone que todas las agencias y corporaciones del Estado Libre Asociado de Puerto Rico habrán de proveer una fila de servicio expreso para aquellas personas con impedimentos debidamente certificadas por el Departamento de Salud y para las personas de edad avanzada debidamente identificadas con tarjeta o cualquier otra prueba de edad expedida por autoridad estatal"
         ]
       }
     }
   },
   "es_definitions": [
-    "Ver café expreso .",
-    "Autovía.",
-    "Rápido."
+    "Ver café expreso",
+    "Autovía",
+    "Rápido, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

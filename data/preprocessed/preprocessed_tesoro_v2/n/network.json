@@ -3,12 +3,15 @@
   "term": "network",
   "superscripts": {
     "1": {
-      "consolidated_definition": "telecom.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "telecom",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11363636363636363,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3436",
+        "semantic_similarity_score": 0.3436,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -35,14 +38,14 @@
           "networking"
         ],
         "reference_definitions": [
-          "telecom. Cadena. Sistema de comunicación que consiste en un conjunto de estaciones de televisión o radio que transmiten los mismos programas. Acompaña...",
-          "inform. Red. Conjunto de ordenadores o de equipos informáticos conectados entre sí. Anglicismo crudo, usual.\nOtra manera de tener rápido acceso a bitá..."
+          "telecom. Cadena. Sistema de comunicación que consiste en un conjunto de estaciones de televisión o radio que transmiten los mismos programas. Acompaña al nombre de la emisora. Anglicismo crudo, usual. Manzano fue parte del equipo de locutores en Braves International Radio Network de 1992 a 1995. De 1991 a 1995, Manzano trabajó para una unión entre los Bravos y CNN como locutor para el International Radio Network. Manzano transmite los juegos de los Braves desde 1991",
+          "inform. Red. Conjunto de ordenadores o de equipos informáticos conectados entre sí. Anglicismo crudo, usual. Otra manera de tener rápido acceso a bitácoras con diferentes temas de interés educativo es visitando las páginas de los networks como Weblogs. Inc."
         ]
       }
     }
   },
   "es_definitions": [
-    "telecom."
+    "telecom"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

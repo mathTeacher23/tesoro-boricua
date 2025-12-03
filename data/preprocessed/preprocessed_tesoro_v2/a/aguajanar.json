@@ -3,12 +3,15 @@
   "term": "aguajanar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Brotarle la guajana a la caña.",
+      "consolidated_definition": "Brotarle la guajana a la caña",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17083333333333336,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.617",
+        "semantic_similarity_score": 0.617,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "FIGUEROA,",
             "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -49,12 +52,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "fig.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "fig",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -78,14 +84,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "fig.  Acobardarse, caérsele a uno la guajana. “¿Qué es lo que le pasa, ño Juan...? Hoy está aguajanao.” Rafael Gatell, Flor del cafeto, 1936, p. 191."
+          "fig. Acobardarse, caérsele a uno la guajana. “¿Qué es lo que le pasa, ño Juan...? Hoy está aguajanao.” Rafael Gatell, Flor del cafeto, 1936, p. 191."
         ]
       }
     }
   },
   "es_definitions": [
-    "Brotarle la guajana a la caña.",
-    "fig."
+    "Brotarle la guajana a la caña",
+    "fig"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "piojo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Apelativo cariñoso y familiar a un niño.",
+      "consolidated_definition": "Persona relativamente bajita o poco crecida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07302188552188553,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5776",
+        "semantic_similarity_score": 0.5776,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -30,12 +33,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,19 +49,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Persona relativamente bajita o poco crecida.",
+          "Persona relativamente bajita o poco crecida.",
           "Apelativo cariñoso y familiar a un niño. Algunos dicen piojito.",
-          "Persona bajita e insignificante."
+          "Persona bajita e insignificante.",
+          "Persona de muy baja estatura."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Otro nombre para el pez llamado macabí.",
+      "consolidated_definition": "Otro nombre para el pez llamado macabí",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06060606060606061,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3477",
+        "semantic_similarity_score": 0.3477,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -71,16 +78,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "ERDMAN,",
             "year": "1974"
           },
           {
             "source": "MAULEÓN,",
             "year": "1974"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -97,21 +104,19 @@
       }
     },
     "3": {
-      "consolidated_definition": "Ver candelilla 1 .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver candelilla 1",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -122,9 +127,9 @@
     }
   },
   "es_definitions": [
-    "Apelativo cariñoso y familiar a un niño.",
-    "Otro nombre para el pez llamado macabí.",
-    "Ver candelilla 1 ."
+    "Persona relativamente bajita o poco crecida",
+    "Otro nombre para el pez llamado macabí",
+    "Ver candelilla 1"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

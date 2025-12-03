@@ -3,12 +3,15 @@
   "term": "piedra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona pesada en el trato.",
+      "consolidated_definition": "fig",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3766788766788767,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7233",
+        "semantic_similarity_score": 0.7233,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "ACAPLE,",
             "year": "2005"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -41,7 +44,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "fig. (T. en Cuba).  Plomo o persona majadera y pesada.",
+          "fig. . Plomo o persona majadera y pesada.",
           "Persona pesada en el trato. Sangrigordo.",
           "Persona pesada en el trato."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Persona pesada en el trato."
+    "fig"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

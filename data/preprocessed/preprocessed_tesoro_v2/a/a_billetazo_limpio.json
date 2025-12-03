@@ -3,12 +3,15 @@
   "term": "a billetazo limpio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lograr algo a base de mucho dinero.",
+      "consolidated_definition": "Lograr algo a base de mucho dinero",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14705882352941177,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4926",
+        "semantic_similarity_score": 0.4926,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           }
         ],
         "years": [
@@ -35,14 +38,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Lograr algo a base de mucho dinero. Implica que se paga en efectivo, aunque bien se puede usar en sentido figurado: lograr algo mediante favores o pre...",
+          "Lograr algo a base de mucho dinero. Implica que se paga en efectivo, aunque bien se puede usar en sentido figurado: lograr algo mediante favores o prebendas. “A pesar de los prejuicios, consiguió entrar a billetazo limpio en el exclusivo club.”",
           "A base de mucho dinero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Lograr algo a base de mucho dinero."
+    "Lograr algo a base de mucho dinero"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

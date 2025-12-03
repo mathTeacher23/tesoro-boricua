@@ -3,12 +3,15 @@
   "term": "biscuit",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bollo o panecillo hecho de harina de trigo y huevo batido.",
+      "consolidated_definition": "alim",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04838709677419355,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6006",
+        "semantic_similarity_score": 0.6006,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "alim. Pan, panecillo. Especie de pan hecho con leche y harina. Anglicismo crudo, frecuente.\nSi te apasionan los frutos secos, no puedes dejar de proba...",
+          "alim. Pan, panecillo. Especie de pan hecho con leche y harina. Anglicismo crudo, frecuente. Si te apasionan los frutos secos, no puedes dejar de probar este delicioso biscuit de nueces. Las nueces son perfectas para cuidar tu corazón ya que son ricas en ácido linoleico y omega 3, que cuida tu corazón y mantiene a raya tus niveles de colesterol",
           "Bollo o panecillo hecho de harina de trigo y huevo batido."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bollo o panecillo hecho de harina de trigo y huevo batido."
+    "alim"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

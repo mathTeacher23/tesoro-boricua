@@ -3,12 +3,15 @@
   "term": "coclillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pasto de mala calidad que crece en los jardines y en medio de la grama.",
+      "consolidated_definition": "El pasto malo que nace en las ramas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3025472334682861,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6258",
+        "semantic_similarity_score": 0.6258,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
             "year": "1974"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Pasto de mala calidad que crece en los jardines y en medio de la grama."
+    "El pasto malo que nace en las ramas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "carguero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El hombre que va por las casas de la finca comprando huevos que luego revende en el pueblo o a un negociante.",
+      "consolidated_definition": "El hombre que va por las casas de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.35714285714285715,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8648",
+        "semantic_similarity_score": 0.8648,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "El hombre que va por las casas de la finca comprando huevos que luego revende en el pueblo o a un negociante."
+    "El hombre que va por las casas de"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

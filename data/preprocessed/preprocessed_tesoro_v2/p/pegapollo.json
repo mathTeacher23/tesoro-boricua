@@ -3,12 +3,15 @@
   "term": "pegapollo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta herbácea de hasta 2 m de altura, con hojas opuestas, inflorescencia en umbela y flores blancas.",
+      "consolidated_definition": "Herbácea",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3063",
+        "semantic_similarity_score": 0.3063,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Herbácea. (Alsine antillana; Commicarpus scandens, L.) Cook.",
+          "Herbácea. Cook.",
           "Planta herbácea de hasta 2 m de altura, con hojas opuestas, inflorescencia en umbela y flores blancas. Nyctaginaceae, Commicarpus scandens."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta herbácea de hasta 2 m de altura, con hojas opuestas, inflorescencia en umbela y flores blancas."
+    "Herbácea"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

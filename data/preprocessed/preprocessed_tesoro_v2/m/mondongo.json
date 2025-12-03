@@ -3,12 +3,15 @@
   "term": "mondongo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guiso sustancioso que se prepara con patas de vacuno y cerdo cocinadas en una base refrita de manteca de color, cebolla blanca, ajo y especias, aderezado con maíz desgranado y cocido, maní tostado y molido; opcionalmente, se le añade leche.",
+      "consolidated_definition": ". Potaje de caldo cuyo principal alimento es el mondongo. Ac.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06733348144329013,
+        "num_cleaned_definitions": 10,
+        "definition_stability": "Stability: 0.4504",
+        "semantic_similarity_score": 0.4504,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "LÓPEZ MORALES,",
+            "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "SOLER,",
@@ -37,16 +48,8 @@
             "year": "1984"
           },
           {
-            "source": "LÓPEZ MORALES,",
-            "year": "1986"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -64,19 +67,29 @@
           "mondonguero, ra 1"
         ],
         "reference_definitions": [
-          "(T. en Hond.).  Potaje de caldo cuyo principal alimento es el mondongo. Ac.",
-          "(jíbaro)  Fuerza.",
-          "Plato hecho con las patas de res y cerdo."
+          ". Potaje de caldo cuyo principal alimento es el mondongo. Ac.",
+          "Fuerza.",
+          "Plato hecho con las patas de res y cerdo.",
+          "Plato hecho con la panza y la pata de la res, cocidas con viandas y ciertos condimentos, en forma caldosa.",
+          "Asaduras .",
+          "Cierto potaje. También fuerza.",
+          "Pedazos de estómago de cerdo, vacuno u ovino destinados al consumo humano.",
+          "Plato que se prepara con pedazos de estómago de cerdo, vacuno u ovino.",
+          "Plato hecho con patas de res y cerdo, a veces cocidas con viandas y ciertos condimentos.",
+          "Guiso sustancioso que se prepara con patas de vacuno y cerdo cocinadas en una base refrita de manteca de color, cebolla blanca, ajo y especias, aderezado con maíz desgranado y cocido, maní tostado y molido; opcionalmente, se le añade leche."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En ciertos pueblos de la Isla: prostituta.",
+      "consolidated_definition": ". Adefesio, traje o adorno ridículo. Ac.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.022222222222222223,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.35",
+        "semantic_similarity_score": 0.35,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -108,19 +121,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Guat.).  Adefesio, traje o adorno ridículo. Ac.",
+          ". Adefesio, traje o adorno ridículo. Ac.",
           "Persona mal vestida.",
           "En ciertos pueblos de la Isla: prostituta."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Alguien flojo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Alguien flojo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -148,9 +164,9 @@
     }
   },
   "es_definitions": [
-    "Guiso sustancioso que se prepara con patas de vacuno y cerdo cocinadas en una base refrita de manteca de color, cebolla blanca, ajo y especias, aderezado con maíz desgranado y cocido, maní tostado y molido; opcionalmente, se le añade leche.",
-    "En ciertos pueblos de la Isla: prostituta.",
-    "Alguien flojo."
+    ". Potaje de caldo cuyo principal alimento es el mondongo. Ac.",
+    ". Adefesio, traje o adorno ridículo. Ac.",
+    "Alguien flojo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

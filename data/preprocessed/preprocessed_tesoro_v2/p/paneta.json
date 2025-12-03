@@ -3,12 +3,15 @@
   "term": "paneta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pana: cada una de las tablas levadizas que se colocan en el fondo, como falso piso de una embarcación.",
+      "consolidated_definition": "Pana",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.8333333333333334,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.925",
+        "semantic_similarity_score": 0.925,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Pana: cada una de las tablas levadizas que se colocan en el fondo, como falso piso de una embarcación."
+    "Pana"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

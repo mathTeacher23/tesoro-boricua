@@ -3,12 +3,15 @@
   "term": "reportarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Presentarse.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "prnl",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.058823529411764705,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6081",
+        "semantic_similarity_score": 0.6081,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -36,13 +39,13 @@
         "related_words": [],
         "reference_definitions": [
           "prnl. Presentarse una persona a determinado sitio y día por obligación.",
-          "Presentarse. Personarse, rendir cuentas a un supervisor. Desvío semántico, frecuente. DRAE 2001: moderar una pasión de ánimo.\nEl 23 de diciembre de 20..."
+          "Presentarse. Personarse, rendir cuentas a un supervisor. Desvío semántico, frecuente. DRAE 2001: moderar una pasión de ánimo. El 23 de diciembre de 2002, se le notificó a la querellante su despido inmediato y definitivo porque, alegadamente, había transcurrido más de un año desde que la querellante se reportó a la Corporación del Fondo del Seguro del Estado para recibir tratamiento por una enfermedad ocupacional"
         ]
       }
     }
   },
   "es_definitions": [
-    "Presentarse."
+    "prnl"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

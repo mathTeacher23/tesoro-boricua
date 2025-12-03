@@ -3,12 +3,15 @@
   "term": "ganga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grupo de amigos que se reúnen para divertirse o andar juntos.",
+      "consolidated_definition": "Pandilla de jóvenes, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11652807431747175,
+        "num_cleaned_definitions": 11,
+        "definition_stability": "Stability: 0.5624",
+        "semantic_similarity_score": 0.5624,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -32,8 +35,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
           },
           {
             "source": "GAZTAMBIDE,",
@@ -44,16 +51,12 @@
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -69,19 +72,30 @@
           "ganguista"
         ],
         "reference_definitions": [
-          "(general)  Pandilla de jóvenes, generalmente delincuentes, o de maleantes.",
+          "Pandilla de jóvenes, generalmente delincuentes, o de maleantes.",
           "Grupo de amigos que se reúnen para divertirse o andar juntos.",
-          "Grupo de trabajadores de un turno o tanda."
+          "Grupo de trabajadores de un turno o tanda.",
+          "Grupo de maleantes.",
+          "Pandilla, grupo de trabajo, algo barato.",
+          "Grupo de maleantes jóvenes. Pandilla juvenil.",
+          "Pandilla callejera de mala reputación.",
+          "Pandilla, banda. Conjunto de personas delincuentes, que se comportan de modo violento y antisocial. Usual. DRAE 2001 La guerra resultante entre los dos bandos, con más de 50 muertes, llevó a la prensa a hablar de las gangas de Monacillos y Manuel A. Pérez",
+          "Pandilla. Grupo de amigos que se reúnen para divertirse o andar juntos. Anglicismo adaptado, poco frecuente. Allí le esperaba lista su agrupación –la ganga, como suele llamarle–, que de inmediato comenzó a tocar Hojas blancas, un himno que sirvió para realzar el cariño que le profesan sus allegados",
+          "Pandilla o banda con tendencia al comportamiento agresivo o la delincuencia.",
+          "Grupo de amigos que se reúnen para divertirse."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Mercadería rebajada de su precio original.",
+      "consolidated_definition": "Mercadería rebajada de su precio original",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.041666666666666664,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3591",
+        "semantic_similarity_score": 0.3591,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -94,16 +108,16 @@
         ],
         "sources": [
           {
+            "source": "MORALES DE WALTERS,",
+            "year": "2001"
+          },
+          {
             "source": "SOLER,",
             "year": "1973"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "MORALES DE WALTERS,",
-            "year": "2001"
           }
         ],
         "years": [
@@ -121,12 +135,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Ave de hasta 30 cm de longitud, de color castaño oscuro con manchas más claras, cuello delgado y pico amarillo con la punta negra; su carne es muy apreciada.",
+      "consolidated_definition": "Ave de hasta 30 cm de longitud",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -149,15 +166,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ave de hasta 30 cm de longitud, de color castaño oscuro con manchas más claras, cuello delgado y pico amarillo con la punta negra; su carne es muy apr..."
+          "Ave de hasta 30 cm de longitud, de color castaño oscuro con manchas más claras, cuello delgado y pico amarillo con la punta negra; su carne es muy apreciada. ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Grupo de amigos que se reúnen para divertirse o andar juntos.",
-    "Mercadería rebajada de su precio original.",
-    "Ave de hasta 30 cm de longitud, de color castaño oscuro con manchas más claras, cuello delgado y pico amarillo con la punta negra; su carne es muy apreciada."
+    "Pandilla de jóvenes, relacionado con un grupo",
+    "Mercadería rebajada de su precio original",
+    "Ave de hasta 30 cm de longitud"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

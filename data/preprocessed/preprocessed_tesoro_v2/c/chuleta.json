@@ -3,12 +3,15 @@
   "term": "chuleta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Obstáculo para hacer algo.",
+      "consolidated_definition": "Embuste",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5502",
+        "semantic_similarity_score": 0.5502,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,12 +48,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Marihuana.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Marihuana",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -85,8 +91,8 @@
     }
   },
   "es_definitions": [
-    "Obstáculo para hacer algo.",
-    "Marihuana."
+    "Embuste",
+    "Marihuana"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

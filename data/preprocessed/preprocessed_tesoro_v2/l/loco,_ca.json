@@ -3,12 +3,15 @@
   "term": "loco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, que se encuentra bajo los efectos del consumo de una droga.",
+      "consolidated_definition": "Adicto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05882352941176471,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4162",
+        "semantic_similarity_score": 0.4162,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, que se encuentra bajo los efectos del consumo de una droga."
+    "Adicto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

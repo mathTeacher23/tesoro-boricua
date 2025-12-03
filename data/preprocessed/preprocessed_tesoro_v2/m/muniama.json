@@ -3,12 +3,15 @@
   "term": "muniama",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de la familia Gerreidae.",
+      "consolidated_definition": "Pez de comida apreciada",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04847155655928977,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.3761",
+        "semantic_similarity_score": 0.3761,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "ERDMAN,",
+            "year": "1974"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
-            "source": "ERDMAN,",
-            "year": "1974"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "MAULEÓN,",
@@ -41,14 +52,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -62,15 +65,19 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Pez de comida apreciada. (Eneinostomus aprion). Stahl, Catalog. 163. “Allí nos pasábamos las horas... pescando muniamas.” Daubón, Cosas de Puerto Rico...",
-          "Pristopomoides macrophthalmus. Pez de carne apetecible, abundante en los mares de Puerto Rico, conocido también por el nombre de muniama de afuera. Ig...",
-          "Pez de la familia Gerreidae (morrajas). Gerres cinereus."
+          "Pez de comida apreciada. . Stahl, Catalog. 163. “Allí nos pasábamos las horas... pescando muniamas.” Daubón, Cosas de , p. 32.",
+          "Pristopomoides macrophthalmus. Pez de carne apetecible, abundante en los mares de Puerto Rico, conocido también por el nombre de muniama de afuera. Igualmente se le da el nombre de muniaba al pez mojarra blanquilla.",
+          "Pez de la familia Gerreidae . Gerres cinereus.",
+          "Gerridae. Xystaema cinereum. “Pejesito blanco, bueno para caldo blanco. También la llamamos pupila.”",
+          "Pez de mar, comestible. También llamado mujarra, mojarra.",
+          "Pristomoloides macrophtalmus. Mojarra, pez comestible.",
+          "Mojarra blanca."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pez de la familia Gerreidae."
+    "Pez de comida apreciada"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

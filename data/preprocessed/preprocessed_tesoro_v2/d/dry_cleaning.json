@@ -3,12 +3,15 @@
   "term": "dry cleaning",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lavado en seco.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Tintorería",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17575757575757575,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4392",
+        "semantic_similarity_score": 0.4392,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "LÓPEZ MORALES,",
             "year": "1986"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,14 +47,15 @@
         "related_words": [],
         "reference_definitions": [
           "Tintorería.",
-          "Lavado en seco. Proceso de limpieza sin mojar la ropa. Anglicismo crudo, usual. También dry clean.\nAunque muchos de los procesos que se utilizan para ...",
-          "Lavado en seco."
+          "Lavado en seco. Proceso de limpieza sin mojar la ropa. Anglicismo crudo, usual. También dry clean. Aunque muchos de los procesos que se utilizan para el lavado de ropa en seco han sido revisados para cumplir con reglamentaciones federales al respecto, todavía hay muchos lugares en los cuales no se toman las debidas precauciones los riesgos de lavado en seco son muchos",
+          "Lavado en seco.",
+          "Tintorería."
         ]
       }
     }
   },
   "es_definitions": [
-    "Lavado en seco."
+    "Tintorería"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

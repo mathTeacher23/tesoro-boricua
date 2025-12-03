@@ -3,12 +3,15 @@
   "term": "palma de sierra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Palma de hasta 6 m de altura, con tronco liso y delgado, erecto y cilíndrico, con anillos, copa rala, flores blancas y fruto redondo.",
+      "consolidated_definition": "Palma arecácea",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08226861840832429,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6527",
+        "semantic_similarity_score": 0.6527,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,6 +24,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -31,10 +38,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Palma arecácea. (Acrista monticola; Euterpe globosa). Otero, 128. “Cimbréase esbelta —en su largo talle —la palma de sierra.” J. Enamorado Cuesta, Gui...",
+          "Palma arecácea. . Otero, 128. “Cimbréase esbelta —en su largo talle —la palma de sierra.” J. Enamorado Cuesta, .",
           "Palma que erosiona el suelo; vive en las sierras, de ahí su nombre.",
-          "Por ser útil para la erosión del suelo en las laderas de la serranía. También palma manaca."
+          "Por ser útil para la erosión del suelo en las laderas de la serranía. También palma manaca.",
+          "Palma de hasta 6 m de altura, con tronco liso y delgado, erecto y cilíndrico, con anillos, copa rala, flores blancas y fruto redondo. Arecaceae; Euterpe globosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Palma de hasta 6 m de altura, con tronco liso y delgado, erecto y cilíndrico, con anillos, copa rala, flores blancas y fruto redondo."
+    "Palma arecácea"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

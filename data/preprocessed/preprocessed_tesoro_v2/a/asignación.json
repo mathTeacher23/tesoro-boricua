@@ -3,12 +3,15 @@
   "term": "asignación",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tarea, trabajo, deber de los escolares.",
+      "consolidated_definition": "Deber escolar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18237865194386935,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6237",
+        "semantic_similarity_score": 0.6237,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,28 +24,28 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "LÓPEZ MORALES,",
-            "year": "1986"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
+            "source": "LÓPEZ MORALES,",
+            "year": "1986"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VAQUERO,",
+            "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -58,13 +61,16 @@
         "reference_definitions": [
           "Deber escolar. Se usa generalmente. en plural.",
           "Tarea, deber escolar.",
-          "Tarea, deber escolar."
+          "Tarea, deber escolar.",
+          "Deber .",
+          "Deberes escolares. Tarea que se asigna a una persona, generalmente a un estudiante. Usual. DRAE 2001 Bueno no como otras, ¿verdad Andrés? nosotros hacemos las asignaciones en dos patás y todos tenemos Aes, no es difícil esa escuela",
+          "Tarea, trabajo, deber de los escolares."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tarea, trabajo, deber de los escolares."
+    "Deber escolar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "cod",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sistema de pago contra reembolso de una mercancía adquirida.",
+      "consolidated_definition": "transp",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.01818181818181818,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3952",
+        "semantic_similarity_score": 0.3952,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "transp. Compra a reembolso. Envío por correo que se cobra a la entrega. Sigla anglicada, poco frecuente.\nEl shipping de nuestras obras de arte tiene ...",
+          "transp. Compra a reembolso. Envío por correo que se cobra a la entrega. Sigla anglicada, poco frecuente. El shipping de nuestras obras de arte tiene un costo adicional. El costo de shipping se cobra al momento de la entrega . El cliente tiene varias opciones de shipping al comprar en Carolina’s Frames Online",
           "Sistema de pago contra reembolso de una mercancía adquirida."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sistema de pago contra reembolso de una mercancía adquirida."
+    "transp"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

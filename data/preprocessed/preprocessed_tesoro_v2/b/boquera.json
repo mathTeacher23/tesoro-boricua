@@ -3,12 +3,15 @@
   "term": "boquera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abertura que se hace en una prenda de vestir para facilitar su uso.",
+      "consolidated_definition": "Abertura posterior que se hace a las sayas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17354726068237789,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5971",
+        "semantic_similarity_score": 0.5971,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,8 +24,8 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CASIANO,",
+            "year": "1973"
           },
           {
             "source": "DEL ROSARIO,",
@@ -33,16 +36,16 @@
             "year": "1965"
           },
           {
-            "source": "CASIANO,",
-            "year": "1973"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -56,27 +59,29 @@
         "related_words": [],
         "reference_definitions": [
           "Abertura posterior que se hace a las sayas.",
-          "(general)  Abertura que se hace en una prenda de vestir para facilitar su uso.",
-          "Abertura de los pantalones generalmente conocida como bragueta."
+          "Abertura que se hace en una prenda de vestir para facilitar su uso.",
+          "Abertura de los pantalones generalmente conocida como bragueta.",
+          "Abertura que se hace en una prenda de vestir para facilitar su uso.",
+          "Abertura de las faldas.",
+          "Abertura que tienen algunas prendas de vestir.",
+          "Bragueta de pantalón de hombre."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver boquilla 1 .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver boquilla 1",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -87,8 +92,8 @@
     }
   },
   "es_definitions": [
-    "Abertura que se hace en una prenda de vestir para facilitar su uso.",
-    "Ver boquilla 1 ."
+    "Abertura posterior que se hace a las sayas",
+    "Ver boquilla 1"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

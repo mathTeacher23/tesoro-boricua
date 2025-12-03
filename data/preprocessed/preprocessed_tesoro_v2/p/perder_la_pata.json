@@ -3,12 +3,15 @@
   "term": "perder la pata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las peleas de gallos, perder un gallo la fuerza durante el combate.",
+      "consolidated_definition": "Durate el combate",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7178",
+        "semantic_similarity_score": 0.7178,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "2003"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "2003"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "En las peleas de gallos, perder un gallo la fuerza durante el combate."
+    "Durate el combate"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

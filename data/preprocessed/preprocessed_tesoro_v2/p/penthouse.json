@@ -3,12 +3,15 @@
   "term": "penthouse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Apartamento lujoso construido en el piso más alto de un edificio, generalmente con una terraza grande.",
+      "consolidated_definition": "Ático",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.01837107012545609,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4498",
+        "semantic_similarity_score": 0.4498,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,8 +28,8 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -37,8 +40,8 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -52,13 +55,16 @@
         "reference_definitions": [
           "Ático. Mirador.",
           "Entre delincuentes, cárcel, presidio.",
-          "Ático de cierto lujo."
+          "Ático de cierto lujo.",
+          "Apartamento lujoso construido en el último piso de un edificio, generalmente con terrazas. Anglicismo crudo, frecuente. El lujoso condominio Mont Blanc en Río Piedras abrirá sus puertas para llevar a cabo un open house, en el cual se estarán presentando los 5 apartamentos típicos, penthouse y grand penthouse que tiene disponibles para la venta",
+          "Apartamento lujoso construido en el piso más alto de un edificio, generalmente con una terraza grande.",
+          "Penitenciaría Estatal."
         ]
       }
     }
   },
   "es_definitions": [
-    "Apartamento lujoso construido en el piso más alto de un edificio, generalmente con una terraza grande."
+    "Ático"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

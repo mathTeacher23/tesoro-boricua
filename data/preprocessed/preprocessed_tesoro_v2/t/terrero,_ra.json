@@ -3,12 +3,15 @@
   "term": "terrero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El tipo de casa de un solo piso o planta.",
+      "consolidated_definition": "El tipo de casa de un solo piso",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.27194169134958607,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7827",
+        "semantic_similarity_score": 0.7827,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -49,13 +52,14 @@
         "reference_definitions": [
           "El tipo de casa de un solo piso o planta.",
           "Dícese de la casa de un solo piso.",
-          "(Del lat. terrarius).  Can., P. Rico. Dicho de una casa: De un solo piso."
+          ". Can., P. Rico. Dicho de una casa: De un solo piso.",
+          "Referido a una casa, de un solo piso."
         ]
       }
     }
   },
   "es_definitions": [
-    "El tipo de casa de un solo piso o planta."
+    "El tipo de casa de un solo piso"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

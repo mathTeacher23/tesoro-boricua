@@ -3,12 +3,15 @@
   "term": "putt",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de golf, golpe preciso en el que la bola no se levanta del suelo y debe llegar al hoyo. Anglicismo crudo, poco frecuente.\nEl ahora fl..."
+          "dep. En el juego de golf, golpe preciso en el que la bola no se levanta del suelo y debe llegar al hoyo. Anglicismo crudo, poco frecuente. El ahora flamante campeón tuvo en sus manos la oportunidad de sellar el triunfo en el último hoyo de la regular, pero su putt, de unos 15 pies se quedó a una pulgada de la copa"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

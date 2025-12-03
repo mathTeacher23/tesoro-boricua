@@ -3,12 +3,15 @@
   "term": "descasar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Romper el compromiso uno de los dueños de dos gallos que han sido concertados  oficialmente ante el juez de valla para reñir en una jugada formal.",
+      "consolidated_definition": "Deshacer lo pactado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.152803134232612,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6278",
+        "semantic_similarity_score": 0.6278,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -52,13 +55,16 @@
         "reference_definitions": [
           "Deshacer lo pactado. Ú. t. c. r. De una persona que se ha arrepentido de haber casado una pelea de gallos, decimos que la descasó.",
           "Echar atrás las apuestas hechas en una pelea de gallos.",
-          "No echar a pelear los gallos que se habían casado."
+          "No echar a pelear los gallos que se habían casado.",
+          "Romper el compromiso uno de los dueños de dos gallos que han sido concertados oficialmente ante el juez de valla para reñir en una jugada formal. Sólo se permitirá deshacer lo pactado en circunstancias muy especiales. Hacerlo sin justificación conlleva penalidad.",
+          "En las peleas de gallos, echar alguien atrás las apuestas hechas.",
+          "En las peleas de gallos, no echar alguien a pelear los gallos que habían sido acordados."
         ]
       }
     }
   },
   "es_definitions": [
-    "Romper el compromiso uno de los dueños de dos gallos que han sido concertados  oficialmente ante el juez de valla para reñir en una jugada formal."
+    "Deshacer lo pactado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

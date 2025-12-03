@@ -3,12 +3,15 @@
   "term": "fumazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alternan fumazo y jumazo, cigarro.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15061728395061727,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5369",
+        "semantic_similarity_score": 0.5369,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -49,15 +52,18 @@
           "fumadera"
         ],
         "reference_definitions": [
-          "vulg.  Jumazo, cigarro. “Escupió por el colmillo, prendió con calma el fumaso.” M. González García, “Manolito”, La Ilustración Puertorriqueña, núm. de...",
+          "vulg. Jumazo, cigarro. “Escupió por el colmillo, prendió con calma el fumaso.” M. González García, “Manolito”, La Ilustración Puertorriqueña, núm. del 25 de mayo de 1893.",
           "Fumada.",
-          "Alternan fumazo y jumazo, cigarro."
+          "Alternan fumazo y jumazo, cigarro.",
+          "Jumazo, tabaco de mala calidad.",
+          "Fumada.",
+          "Cigarro, fumada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Alternan fumazo y jumazo, cigarro."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

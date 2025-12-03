@@ -3,12 +3,15 @@
   "term": "habichuelas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Frijol, especialmente el de color rojo, básico en la dieta del puertorriqueño y del dominicano.",
+      "consolidated_definition": "Comida en sentido general",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.058823529411764705,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3154",
+        "semantic_similarity_score": 0.3154,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino",
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,7 +49,7 @@
     }
   },
   "es_definitions": [
-    "Frijol, especialmente el de color rojo, básico en la dieta del puertorriqueño y del dominicano."
+    "Comida en sentido general"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

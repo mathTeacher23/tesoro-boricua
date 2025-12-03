@@ -3,12 +3,15 @@
   "term": "estilladura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grieta fina que se produce en ciertos objetos frágiles como vasos, platos, botellas, etc.",
+      "consolidated_definition": "Hendidura",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5635",
+        "semantic_similarity_score": 0.5635,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,14 +52,15 @@
         ],
         "reference_definitions": [
           "Hendidura, cascadura.",
-          "(general)  Grieta fina que se produce en ciertos objetos frágiles como vasos, platos, botellas, etc.",
-          "Hendidura. Rajadura."
+          "Grieta fina que se produce en ciertos objetos frágiles como vasos, platos, botellas, etc.",
+          "Hendidura. Rajadura.",
+          "Hendidura, rajadura, cascadura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Grieta fina que se produce en ciertos objetos frágiles como vasos, platos, botellas, etc."
+    "Hendidura"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

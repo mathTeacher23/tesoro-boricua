@@ -3,12 +3,15 @@
   "term": "cogedor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Las personas que recogen las cosechas del café o del tabaco.",
+      "consolidated_definition": "Persona que recoge el café del arbusto, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1662087912087912,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7047",
+        "semantic_similarity_score": 0.7047,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -52,7 +55,7 @@
     }
   },
   "es_definitions": [
-    "Las personas que recogen las cosechas del café o del tabaco."
+    "Persona que recoge el café del arbusto, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

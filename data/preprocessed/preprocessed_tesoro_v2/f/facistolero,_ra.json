@@ -3,12 +3,15 @@
   "term": "facistolero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Facistol.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Facistol.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.25,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9653",
+        "semantic_similarity_score": 0.9653,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -37,14 +40,14 @@
           "facistolería"
         ],
         "reference_definitions": [
-          "(T. en Cuba).  Facistol.",
+          ". Facistol.",
           "Facistol."
         ]
       }
     }
   },
   "es_definitions": [
-    "Facistol."
+    ". Facistol."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

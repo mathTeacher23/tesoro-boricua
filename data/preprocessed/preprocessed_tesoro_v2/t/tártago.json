@@ -3,12 +3,15 @@
   "term": "tártago",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta medicinal […] que se usa para baños.",
+      "consolidated_definition": ". Mención de ciertas plantas herbáceas.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.021126730752270922,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4308",
+        "semantic_similarity_score": 0.4308,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,24 +26,24 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
           },
           {
-            "source": "MAULEÓN,",
-            "year": "1974"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MAULEÓN,",
+            "year": "1974"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -52,15 +55,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en algunas partes de Méx., R. Dom., Ven. y Can.). Mención de ciertas plantas herbáceas.",
-          "Planta medicinal […] que se usa para baños.",
-          "Euforbiaceas. Curcas curcas. “Es medicinal pero puede envenenar”. “Es un palo”."
+          ". Mención de ciertas plantas herbáceas.",
+          "Planta medicinal que se usa para baños.",
+          "Euforbiaceas. Curcas curcas. “Es medicinal pero puede envenenar”. “Es un palo”.",
+          "Jatropha cureas L. Árbol medicinal común en los campos de Puerto Rico usado como vomitivo; piñón.",
+          "Higuerilla, arbusto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta medicinal […] que se usa para baños."
+    ". Mención de ciertas plantas herbáceas."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

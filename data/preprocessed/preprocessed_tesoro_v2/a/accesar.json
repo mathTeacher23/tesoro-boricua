@@ -3,12 +3,15 @@
   "term": "accesar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tener alguien acceso a información o a datos contenidos en un sistema informático.",
+      "consolidated_definition": "inform",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0625,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5113",
+        "semantic_similarity_score": 0.5113,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -37,7 +40,7 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Acceder. Lograr la comunicación con un sistema informático. Anglicismo adaptado, usual.\nPuede accesar nuestro servicio de facturación en línea...",
+          "inform. Acceder. Lograr la comunicación con un sistema informático. Anglicismo adaptado, usual. Puede accesar nuestro servicio de facturación en línea",
           "Tener alguien acceso a información o a datos contenidos en un sistema informático.",
           "Acceder una persona a algo."
         ]
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Tener alguien acceso a información o a datos contenidos en un sistema informático."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

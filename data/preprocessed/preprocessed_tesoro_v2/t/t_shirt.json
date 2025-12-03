@@ -3,12 +3,15 @@
   "term": "t shirt",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camiseta.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Camiseta",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -33,13 +36,13 @@
           "t-shirt"
         ],
         "reference_definitions": [
-          "Camiseta. Camisa informal de punto con manga corta y sin cuello, que cuando se extiende tiene forma de T. Anglicismo crudo, usual.\nUna adolescente lo ..."
+          "Camiseta. Camisa informal de punto con manga corta y sin cuello, que cuando se extiende tiene forma de T. Anglicismo crudo, usual. Una adolescente lo asiste en el estante de helados, y tiene puesta una t shirt promocional color blanca que lee: Piensa posit-IVU-mente. Le sirve un mantecado de parcha a un alto joven de pelo largo y fino bigote"
         ]
       }
     }
   },
   "es_definitions": [
-    "Camiseta."
+    "Camiseta"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

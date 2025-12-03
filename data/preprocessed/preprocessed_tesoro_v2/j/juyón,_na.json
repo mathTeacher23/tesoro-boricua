@@ -3,12 +3,15 @@
   "term": "juyón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo que abandona el combate.",
+      "consolidated_definition": "Cobarde",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.005256410256410256,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3143",
+        "semantic_similarity_score": 0.3143,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "FIGUEROA,",
+            "year": "1996"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1996"
           }
         ],
         "years": [
@@ -46,13 +49,15 @@
         "reference_definitions": [
           "Cobarde.",
           "Huidizo. Aplícase especialmente al gallo de pelea. Generalmente dicen juyón, na.",
-          "Huidor."
+          "Huidor.",
+          "Que huye.",
+          "Gallo que abandona el combate. El juez de valla lo confirma enfrentándolo a otro gallo que no es el contrincante en presencia del público. Si huye también de este —conocido como el verdugo— procede a cortarle el vuelo y el rabo para evitar que participe en una jugada fraudulenta durante esa temporada. Se le denomina también marrueco. Algunos jueces dicen: “Perdieron por juyenda”."
         ]
       }
     }
   },
   "es_definitions": [
-    "Gallo que abandona el combate."
+    "Cobarde"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

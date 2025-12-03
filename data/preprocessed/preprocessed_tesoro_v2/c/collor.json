@@ -3,12 +3,15 @@
   "term": "collor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Palma parecida a la de yagua pero que tiene espinas en todo el tronco.",
+      "consolidated_definition": "Palma",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0967741935483871,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5326",
+        "semantic_similarity_score": 0.5326,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Grano inferior de café debido a que se seca con la cáscara sin pasarlo por la despulpadora porque muchos están aún verdes y son los últimos de la cosecha.",
+      "consolidated_definition": "Grano inferior de café debido a que se",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4827586206896552,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8816",
+        "semantic_similarity_score": 0.8816,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -60,12 +66,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -75,15 +81,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Grano inferior de café debido a que se seca con la cáscara sin pasarlo por la despulpadora porque muchos están aún verdes y son los últimos de la cose...",
+          "Grano inferior de café debido a que se seca con la cáscara sin pasarlo por la despulpadora porque muchos están aún verdes y son los últimos de la cosecha.",
           "Grano de café de inferior calidad debido a que se le seca la cáscara sin pasarlo por la despulpadora."
         ]
       }
     }
   },
   "es_definitions": [
-    "Palma parecida a la de yagua pero que tiene espinas en todo el tronco.",
-    "Grano inferior de café debido a que se seca con la cáscara sin pasarlo por la despulpadora porque muchos están aún verdes y son los últimos de la cosecha."
+    "Palma",
+    "Grano inferior de café debido a que se"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

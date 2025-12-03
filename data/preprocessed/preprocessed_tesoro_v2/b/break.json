@@ -3,12 +3,15 @@
   "term": "break",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Coger la droga prestada o quedar a deber dinero.",
+      "consolidated_definition": "Coger la droga prestada o quedar a deber",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0625,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6794",
+        "semantic_similarity_score": 0.6794,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,12 +42,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Descanso, breve intermedio de una actividad.",
+      "consolidated_definition": "Oportunidad",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.009939024390243903,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5131",
+        "semantic_similarity_score": 0.5131,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -59,20 +65,20 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -86,14 +92,16 @@
         "reference_definitions": [
           "Oportunidad. Chance. Pausa. Dicen breic.",
           "Oportunidad para hacer algo.",
-          "Receso, oportunidad, descanso, pausa. Pausa laboral o de otro tipo. Anglicismo crudo, usual. Compuestos: coffee break, spring break.\nAhí se entabla la..."
+          "Receso, oportunidad, descanso, pausa. Pausa laboral o de otro tipo. Anglicismo crudo, usual. Compuestos: coffee break, spring break. Ahí se entabla la discusión política, se reflexiona una situación privada, se asume el tiempo libre o el break en el trabajo...",
+          "Pausa, interrupción.",
+          "Descanso, breve intermedio de una actividad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Coger la droga prestada o quedar a deber dinero.",
-    "Descanso, breve intermedio de una actividad."
+    "Coger la droga prestada o quedar a deber",
+    "Oportunidad"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

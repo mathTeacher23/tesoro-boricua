@@ -3,12 +3,15 @@
   "term": "mirador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vivienda pequeña encima de un garage; habitación en la parte más alta de una casa.",
+      "consolidated_definition": "Vivienda pequeña encima de un garage",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1956160342925049,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5535",
+        "semantic_similarity_score": 0.5535,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,16 +28,16 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,15 +49,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Vivienda pequeña encima de un garage; habitación en la parte más alta de una casa.",
+          "Vivienda pequeña encima de un garage; habitación en la parte más alta de una casa.",
           "Ático.",
-          "Pequeña casa o apartamiento construída en la azotea de una mayor."
+          "Pequeña casa o apartamiento construída en la azotea de una mayor.",
+          "Vivienda pequeña encima de un garage o casa.",
+          "Ático, apartamento o casa construida en la azotea de una vivienda mayor.",
+          "Habitación en la parte más alta de una casa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Vivienda pequeña encima de un garage; habitación en la parte más alta de una casa."
+    "Vivienda pequeña encima de un garage"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

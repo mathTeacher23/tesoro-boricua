@@ -3,12 +3,15 @@
   "term": "bolillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Carrete con hilo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Carrete de hilo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4583333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.8111",
+        "semantic_similarity_score": 0.8111,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CABIYA SAN MIGUEL,",
+            "year": "1967"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "CABIYA SAN MIGUEL,",
-            "year": "1967"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "WASHINGTON LLORENS,",
@@ -47,18 +50,22 @@
         "related_words": [],
         "reference_definitions": [
           "Carrete de hilo.",
-          "(general) Carrete de hilo.",
-          "Palo de hilo."
+          "Carrete de hilo.",
+          "Palo de hilo.",
+          "Carrete con hilo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Instrumento para levantar pesos, sobre todo en las faenas marineras.",
+      "consolidated_definition": "Instrumento para levantar pesos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2857142857142857,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8277",
+        "semantic_similarity_score": 0.8277,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -73,12 +80,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -94,12 +101,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Automóvil pequeño.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Carro pequeño",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6366",
+        "semantic_similarity_score": 0.6366,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -134,9 +144,9 @@
     }
   },
   "es_definitions": [
-    "Carrete con hilo.",
-    "Instrumento para levantar pesos, sobre todo en las faenas marineras.",
-    "Automóvil pequeño."
+    "Carrete de hilo",
+    "Instrumento para levantar pesos",
+    "Carro pequeño"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

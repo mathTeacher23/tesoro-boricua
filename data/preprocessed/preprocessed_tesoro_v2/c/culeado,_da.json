@@ -3,12 +3,15 @@
   "term": "culeado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, reconciliada con alguien, tras un período de enemistad.",
+      "consolidated_definition": "Referido a persona",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.27657481407481405,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6586",
+        "semantic_similarity_score": 0.6586,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -37,13 +40,14 @@
         "reference_definitions": [
           "Referido a persona, calmada, amable, amistosa.",
           "Referido a persona, alejada de la droga, tranquila.",
-          "Referido a persona, escondida, tapada."
+          "Referido a persona, escondida, tapada.",
+          "Referido a persona, reconciliada con alguien, tras un período de enemistad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, reconciliada con alguien, tras un período de enemistad."
+    "Referido a persona"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

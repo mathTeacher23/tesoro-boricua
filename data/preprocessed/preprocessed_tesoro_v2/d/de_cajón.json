@@ -3,12 +3,15 @@
   "term": "de cajón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para expresar seguridad sobre una cosa que ha de suceder.",
+      "consolidated_definition": "Con toda seguridad",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08020050125313283,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4326",
+        "semantic_similarity_score": 0.4326,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -24,12 +27,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,13 +45,14 @@
         "reference_definitions": [
           "Con toda seguridad. “Eso es de cajón.”",
           "Con toda seguridad.",
-          "Para expresar seguridad sobre una cosa que ha de suceder. Equivalente a inevitablemente."
+          "Para expresar seguridad sobre una cosa que ha de suceder. Equivalente a inevitablemente.",
+          "‘Inevitablemente’. Maura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Para expresar seguridad sobre una cosa que ha de suceder."
+    "Con toda seguridad"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

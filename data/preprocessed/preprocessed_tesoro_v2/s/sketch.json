@@ -3,12 +3,15 @@
   "term": "sketch",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Boceto.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Boceto",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13559322033898305,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4978",
+        "semantic_similarity_score": 0.4978,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,14 +36,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Boceto. Dibujo o diseño preliminar de un trabajo posterior. Anglicismo crudo, frecuente.\nMuchas de las piezas ilustran proyectos realizados y otros si...",
-          "tel. Espectáculo corto de televisión o pieza corta de comedia. Anglicismo crudo, frecuente.\nOliveras escribe en su mayoría —con aportaciones de todos—..."
+          "Boceto. Dibujo o diseño preliminar de un trabajo posterior. Anglicismo crudo, frecuente. Muchas de las piezas ilustran proyectos realizados y otros sirven como sketch para proyectos futuros",
+          "tel. Espectáculo corto de televisión o pieza corta de comedia. Anglicismo crudo, frecuente. Oliveras escribe en su mayoría —con aportaciones de todos— los sketches de situación que cada semana agregan nuevos giros a sus respectivas historias"
         ]
       }
     }
   },
   "es_definitions": [
-    "Boceto."
+    "Boceto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

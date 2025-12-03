@@ -3,12 +3,15 @@
   "term": "pley",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plan de diversión entre varios amigos; brete, aventura amorosa.",
+      "consolidated_definition": "Plan de diversión entre varios amigos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07382055852644089,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4191",
+        "semantic_similarity_score": 0.4191,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -26,12 +29,12 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
@@ -46,15 +49,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "(general)  Plan de diversión entre varios amigos; brete, aventura amorosa.",
+          "Plan de diversión entre varios amigos; brete, aventura amorosa.",
           "Es el juego y también el parque de pelota.",
-          "Plan de diversión o juerga."
+          "Plan de diversión o juerga.",
+          "Cita amorosa.",
+          "Aventura amorosa.",
+          "Negocio o asunto conveniente por diversas razones."
         ]
       }
     }
   },
   "es_definitions": [
-    "Plan de diversión entre varios amigos; brete, aventura amorosa."
+    "Plan de diversión entre varios amigos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

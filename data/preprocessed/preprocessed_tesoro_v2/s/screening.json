@@ -3,12 +3,15 @@
   "term": "screening",
   "superscripts": {
     "1": {
-      "consolidated_definition": "med.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "med",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,17 +34,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "med. Exploración selectiva. Examen de pacientes para detectar la presencia de enfermedades; también, para detectar residuos en productos varios. Angli..."
+          "med. Exploración selectiva. Examen de pacientes para detectar la presencia de enfermedades; también, para detectar residuos en productos varios. Anglicismo crudo, poco frecuente. Y el Colegio Americano de Medicina del Deporte han desarrollado recomendaciones para la evaluación previa y cardiovascular del deportista y de la población en general que desea comenzar con una actividad física, como parte de un screening cardiovascular previo"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "cin.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "cin",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -66,14 +72,14 @@
           "screen"
         ],
         "reference_definitions": [
-          "cin. Proyección de una película. Anglicismo crudo, poco frecuente.\nLuego de mucha expectativa, los fans de Daddy Yankee van a tener la oportunidad de ..."
+          "cin. Proyección de una película. Anglicismo crudo, poco frecuente. Luego de mucha expectativa, los fans de Daddy Yankee van a tener la oportunidad de ver un screening de su película “Talento de Barrio” hoy en el Festival Internacional de Cine Latino de Nueva York"
         ]
       }
     }
   },
   "es_definitions": [
-    "med.",
-    "cin."
+    "med",
+    "cin"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "lotificar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dividir un terreno en partes menores o parcelas para urbanizar.",
+      "consolidated_definition": "Dividir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07745629919358733,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5388",
+        "semantic_similarity_score": 0.5388,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,20 +27,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -51,15 +54,17 @@
           "lotificación"
         ],
         "reference_definitions": [
-          "Dividir, asignar, repartir, distribuir en lotes (tratándose de terrenos).",
+          "Dividir, asignar, repartir, distribuir en lotes .",
           "Urbanizar un predio de finca rústica haciendo solares.",
-          "Dividir un terreno en partes menores o parcelas para urbanizar. Frecuente. DRAE 2001 (El Salv., Guat., Hond., Méx., Nic. y Pan.)\nAdemás, advertirá que..."
+          "Dividir un terreno en partes menores o parcelas para urbanizar. Frecuente. DRAE 2001 Además, advertirá que no podrá segregar, lotificar, marcar o de algún modo identificar su participación sobre dicho terreno sin el correspondiente permiso de la Junta de Planificación, la Administración de Reglamentos y Permisos o la agencia correspondiente",
+          "Dividir un terreno en lotes.",
+          "Urbanizar una finca distribuyendo su suelo en solares."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dividir un terreno en partes menores o parcelas para urbanizar."
+    "Dividir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

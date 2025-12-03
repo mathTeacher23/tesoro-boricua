@@ -3,12 +3,15 @@
   "term": "coger el monte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Irse de algún lugar rápidamente, huir, escabullirse.",
+      "consolidated_definition": "Escabullirse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.007575757575757576,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.48",
+        "semantic_similarity_score": 0.48,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,16 +23,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,13 +45,14 @@
         "reference_definitions": [
           "Escabullirse.",
           "Irse de algún lugar rápidamente, huir, escabullirse. “Cuando vio lo que se venía encima, cogió el monte y no lo volvimos a ver.”",
-          "Largarse."
+          "Largarse.",
+          "Irse, escabullirse, marcharse lejos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Irse de algún lugar rápidamente, huir, escabullirse."
+    "Escabullirse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

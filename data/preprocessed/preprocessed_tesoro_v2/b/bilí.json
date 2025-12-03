@@ -3,12 +3,15 @@
   "term": "bilí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bebida compuesta de ron, jugo de limón y azúcar.",
+      "consolidated_definition": "Bebida compuesta de ron",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3086002886002886,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6237",
+        "semantic_similarity_score": 0.6237,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "CASIANO,",
             "year": "1973"
           },
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -53,17 +56,22 @@
         "reference_definitions": [
           "Bebida compuesta de ron, jugo de limón y azúcar.",
           "Bebida compuesta de ron, zumo de limón y azúcar.",
-          "Rabo de gallo (coctel)."
+          "Rabo de gallo .",
+          "Bebida hecha con ron, zumo de limón y azúcar.",
+          "Bebida alcohólica hecha a base de quenepa y ron."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En algunos lugares equivale a algo fácil.",
+      "consolidated_definition": "Cosa fácil de hacer o conseguir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19085377585377586,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6167",
+        "semantic_similarity_score": 0.6167,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,12 +84,20 @@
         ],
         "sources": [
           {
+            "source": "CASIANO,",
+            "year": "1973"
+          },
+          {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "CASIANO,",
-            "year": "1973"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
@@ -90,14 +106,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -111,16 +119,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general) Cosa fácil de hacer o conseguir.",
+          "Cosa fácil de hacer o conseguir.",
           "En algunos lugares equivale a algo fácil.",
-          "Algo fácil de hacer."
+          "Algo fácil de hacer.",
+          "Cosa fácil de hacer. Guame. Bicoca. Mamey.",
+          "Algo fácil.",
+          "Cosa fácil de hacer o conseguir."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bebida compuesta de ron, jugo de limón y azúcar.",
-    "En algunos lugares equivale a algo fácil."
+    "Bebida compuesta de ron",
+    "Cosa fácil de hacer o conseguir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

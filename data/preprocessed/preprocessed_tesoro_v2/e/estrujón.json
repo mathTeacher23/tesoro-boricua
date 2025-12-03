@@ -3,12 +3,15 @@
   "term": "estrujón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Castigo físico leve dado en especial a un niño.",
+      "consolidated_definition": "Castigo físico leve",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.25,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6301",
+        "semantic_similarity_score": 0.6301,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -40,13 +43,14 @@
         "reference_definitions": [
           "Castigo físico leve, a un niño.",
           "Lavado rápido de una prenda de vestir.",
-          "Castigo físico leve dado en especial a un niño."
+          "Castigo físico leve dado en especial a un niño.",
+          "Lavado rápido de una prenda de vestir."
         ]
       }
     }
   },
   "es_definitions": [
-    "Castigo físico leve dado en especial a un niño."
+    "Castigo físico leve"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

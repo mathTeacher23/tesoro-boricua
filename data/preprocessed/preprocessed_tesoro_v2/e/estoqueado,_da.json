@@ -3,12 +3,15 @@
   "term": "estoqueado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, aburrida, que no hace nada.",
+      "consolidated_definition": "Aburrido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10111111111111111,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4948",
+        "semantic_similarity_score": 0.4948,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -44,13 +47,16 @@
         "reference_definitions": [
           "Aburrido.",
           "En estado de embriaguez.",
-          "Quedarse fijo en un sitio."
+          "Quedarse fijo en un sitio.",
+          "Referido a persona, fija en un sitio.",
+          "Referido a persona, aburrida, que no hace nada.",
+          "Referido a persona, borracha."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, aburrida, que no hace nada."
+    "Aburrido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

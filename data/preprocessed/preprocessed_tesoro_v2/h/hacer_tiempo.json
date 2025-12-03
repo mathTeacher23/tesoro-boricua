@@ -3,12 +3,15 @@
   "term": "hacer tiempo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cumplir una sentencia judicial.",
+      "consolidated_definition": "Cumplir sentencia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7142",
+        "semantic_similarity_score": 0.7142,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Cumplir una sentencia judicial."
+    "Cumplir sentencia"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

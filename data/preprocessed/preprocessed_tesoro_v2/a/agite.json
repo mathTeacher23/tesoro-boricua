@@ -3,12 +3,15 @@
   "term": "agite",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estado de alteración física o psíquica causado por algún esfuerzo o emoción.",
+      "consolidated_definition": "Acción y efecto de agitarse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07704365079365079,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5366",
+        "semantic_similarity_score": 0.5366,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -40,17 +43,22 @@
         "reference_definitions": [
           "Acción y efecto de agitarse. Agitación.",
           "Pérdida de la serenidad.",
-          "Actividad excesiva."
+          "Actividad excesiva.",
+          "Estado de alteración física o psíquica causado por algún esfuerzo o emoción.",
+          "Actividad excesiva de alguien."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Prisa, apremio.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Prisa",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -79,8 +87,8 @@
     }
   },
   "es_definitions": [
-    "Estado de alteración física o psíquica causado por algún esfuerzo o emoción.",
-    "Prisa, apremio."
+    "Acción y efecto de agitarse",
+    "Prisa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

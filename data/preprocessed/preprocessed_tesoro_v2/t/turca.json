@@ -3,12 +3,15 @@
   "term": "turca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Borrachera.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Borrachera",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.75,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.8922",
+        "semantic_similarity_score": 0.8922,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "FERNÁNDEZ,",
             "year": "1979"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Borrachera.",
           "Borrachera. Rajadura.",
+          "Borrachera.",
           "Borrachera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Borrachera."
+    "Borrachera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

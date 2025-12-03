@@ -3,12 +3,15 @@
   "term": "cotita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camisa de niño que cubre hasta la rodilla.",
+      "consolidated_definition": "Camisita de niño pequeño",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.28190476190476194,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.7216",
+        "semantic_similarity_score": 0.7216,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,10 +24,6 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "CABIYA SAN MIGUEL,",
             "year": "1967"
           },
@@ -33,16 +32,20 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -58,13 +61,16 @@
         "reference_definitions": [
           "Camisita de niño pequeño.",
           "Camisita.",
-          "Camisita de niño pequeño."
+          "Camisita de niño pequeño.",
+          "Camisa de niño que cubre hasta la rodilla.",
+          "Camisita de niño pequeño.",
+          "Camisa de recién nacido."
         ]
       }
     }
   },
   "es_definitions": [
-    "Camisa de niño que cubre hasta la rodilla."
+    "Camisita de niño pequeño"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

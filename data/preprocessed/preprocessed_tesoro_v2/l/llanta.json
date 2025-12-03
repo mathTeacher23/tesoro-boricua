@@ -3,12 +3,15 @@
   "term": "llanta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la rueda de un vehículo, parte externa de caucho que roza con el suelo.",
+      "consolidated_definition": "Rueda del automóvil",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14234848484848484,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5228",
+        "semantic_similarity_score": 0.5228,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "HUYKE,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
+            "source": "HUYKE,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -48,17 +51,22 @@
         "reference_definitions": [
           "Rueda del automóvil.",
           "Pieza de la rueda de la carreta.",
-          "La rueda [del automóvil]."
+          "La rueda .",
+          "Conjunto de la llanta y el neumático instalados sobre el rin de un automóvil.",
+          "En la rueda de un vehículo, parte externa de caucho que roza con el suelo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el lenguaje familiar de la isla el nombre de la llanta de la rueda suele servir para indicar la ostentosa sortija de recio aro de oro.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.27650793650793654,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6165",
+        "semantic_similarity_score": 0.6165,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -71,16 +79,16 @@
         ],
         "sources": [
           {
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
@@ -96,19 +104,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Sortija mucho más ancha que gruesa.",
+          "vulg. Sortija mucho más ancha que gruesa.",
           "En el lenguaje familiar de la isla el nombre de la llanta de la rueda suele servir para indicar la ostentosa sortija de recio aro de oro.",
+          "Sortija ancha y lisa como el aro de matrimonio.",
           "Sortija ancha y lisa como el aro de matrimonio."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Pliegue de gordura que se forma en el cuerpo de una persona, especialmente en el abdomen.",
+      "consolidated_definition": "Pliegue de gordura que se forma en el, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -137,9 +149,9 @@
     }
   },
   "es_definitions": [
-    "En la rueda de un vehículo, parte externa de caucho que roza con el suelo.",
-    "En el lenguaje familiar de la isla el nombre de la llanta de la rueda suele servir para indicar la ostentosa sortija de recio aro de oro.",
-    "Pliegue de gordura que se forma en el cuerpo de una persona, especialmente en el abdomen."
+    "Rueda del automóvil",
+    "vulg",
+    "Pliegue de gordura que se forma en el, relacionado con una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "ro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Amor, querer, querencia.",
+      "consolidated_definition": "Amor",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.925",
+        "semantic_similarity_score": 0.925,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Amor, querer, querencia."
+    "Amor"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "e-book",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Libro electrónico.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Libro electrónico",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Libro electrónico. Libro cuyo texto puede leerse en un formato electrónico, tanto si se digitaliza la forma impresa original, como si se escribe direc..."
+          "Libro electrónico. Libro cuyo texto puede leerse en un formato electrónico, tanto si se digitaliza la forma impresa original, como si se escribe directamente en un formato electrónico. Anglicismo crudo, poco frecuente. Véase libro electrónico. Ingresa a mi página, lee toda la información que allí tienes, solicita las instrucciones de la Etapa 1 y además no te pierdas el e-book que tenemos de regalo para ti"
         ]
       }
     }
   },
   "es_definitions": [
-    "Libro electrónico."
+    "Libro electrónico"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

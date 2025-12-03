@@ -3,12 +3,15 @@
   "term": "bodega",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pequeña tienda de comestibles de los hispanos en Nueva York.",
+      "consolidated_definition": "Pequeña tienda de comestibles de los hispanos en",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09090909090909091,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5336",
+        "semantic_similarity_score": 0.5336,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -39,13 +42,13 @@
         "related_words": [],
         "reference_definitions": [
           "Pequeña tienda de comestibles de los hispanos en Nueva York.",
-          "desus.  Tienda pequeña."
+          "desus. Tienda pequeña."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pequeña tienda de comestibles de los hispanos en Nueva York."
+    "Pequeña tienda de comestibles de los hispanos en"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "aguantar el pico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Disminuir la cantidad de comida que se ingiere.",
+      "consolidated_definition": "Disminuir la cantidad de comida que se ingiere",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4482",
+        "semantic_similarity_score": 0.4482,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Disminuir la cantidad de comida que se ingiere."
+    "Disminuir la cantidad de comida que se ingiere"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

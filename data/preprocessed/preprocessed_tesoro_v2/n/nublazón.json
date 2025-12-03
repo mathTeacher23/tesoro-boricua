@@ -3,12 +3,15 @@
   "term": "nublazón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cielo cubierto de nubes cargadas de lluvia.",
+      "consolidated_definition": ". Nublado, cerrazón.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5401",
+        "semantic_similarity_score": 0.5401,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,19 +46,22 @@
           "nublado"
         ],
         "reference_definitions": [
-          "(T. en Méx.).  Nublado, cerrazón.",
+          ". Nublado, cerrazón.",
           "Cielo cubierto de nubes cargadas de lluvia.",
           "Nubosidad."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Confusión en las ideas, en la memoria.",
+      "consolidated_definition": "Confusión en las ideas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.416",
+        "semantic_similarity_score": 0.416,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -89,8 +95,8 @@
     }
   },
   "es_definitions": [
-    "Cielo cubierto de nubes cargadas de lluvia.",
-    "Confusión en las ideas, en la memoria."
+    ". Nublado, cerrazón.",
+    "Confusión en las ideas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

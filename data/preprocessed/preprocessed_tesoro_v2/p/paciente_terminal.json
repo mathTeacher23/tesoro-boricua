@@ -3,12 +3,15 @@
   "term": "paciente terminal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "med.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "med",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino y femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "med. Paciente desahuciado. Enfermo que está en la etapa final de una enfermedad mortal. Usual. DRAE, desde 2001.\nLas Hijas de la Caridad sirven a nues..."
+          "med. Paciente desahuciado. Enfermo que está en la etapa final de una enfermedad mortal. Usual. DRAE, desde 2001. Las Hijas de la Caridad sirven a nuestros enfermos del Hospital Auxilio Mutuo desde 1884, un año después de su fundación. Se dedican al cuidado pastoral de los enfermos: visitan a los pacientes, los escuchan, les oran, le prestan pequeños servicios, les preparan para la recepción de los sacramentos y otros. A pacientes terminales les ayudan en su proceso de muerte con dignidad"
         ]
       }
     }
   },
   "es_definitions": [
-    "med."
+    "med"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

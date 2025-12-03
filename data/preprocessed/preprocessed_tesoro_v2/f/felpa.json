@@ -3,12 +3,15 @@
   "term": "felpa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Castigo corporal.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Zurra.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.041666666666666664,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5252",
+        "semantic_similarity_score": 0.5252,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "FIGUEROA,",
             "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -43,15 +46,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Ecuad.).  Zurra.",
+          ". Zurra.",
           "Castigo corporal. “¡Le dieron tamaña felpa!”",
-          "Trifulca."
+          "Trifulca.",
+          "Zurra."
         ]
       }
     }
   },
   "es_definitions": [
-    "Castigo corporal."
+    ". Zurra."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

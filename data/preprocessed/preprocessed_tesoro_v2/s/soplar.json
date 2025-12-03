@@ -3,12 +3,15 @@
   "term": "soplar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacerse sentir el viento.",
+      "consolidated_definition": "Hacerse sentir el viento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -35,12 +38,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Decir por lo bajo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Decir por lo bajo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -67,12 +73,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Sonarse la nariz.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Sonarse la nariz",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -102,9 +111,9 @@
     }
   },
   "es_definitions": [
-    "Hacerse sentir el viento.",
-    "Decir por lo bajo.",
-    "Sonarse la nariz."
+    "Hacerse sentir el viento",
+    "Decir por lo bajo",
+    "Sonarse la nariz"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

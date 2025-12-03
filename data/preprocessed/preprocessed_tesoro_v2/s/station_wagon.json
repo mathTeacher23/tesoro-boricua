@@ -3,12 +3,15 @@
   "term": "station wagon",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Automóvil familiar para varios pasajeros con puerta posterior y espacio de almacenaje detrás de los asientos posteriores.",
+      "consolidated_definition": "Autobús interurbano",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0317852507879462,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5139",
+        "semantic_similarity_score": 0.5139,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,6 +24,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
           },
@@ -31,10 +38,6 @@
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Autobús interurbano. También pisicorre, guagüita pisicorre, Volkswagen.",
           "Tipo de vehículo de motor. Guagua, guagüita.",
-          "Automóvil familiar para varios pasajeros con puerta posterior y espacio de almacenaje detrás de los asientos posteriores. Anglicismo crudo, usual.\nCon..."
+          "Automóvil familiar para varios pasajeros con puerta posterior y espacio de almacenaje detrás de los asientos posteriores. Anglicismo crudo, usual. Con la nueva guagua Freestyle, Ford entra en el interesante segmento crossover que combina las cualidades de un vehículo deportivo utilitario con las de una station wagon",
+          "Automóvil cuyos asientos traseros se pueden desmontar y permitir mayor espacio de carga."
         ]
       }
     }
   },
   "es_definitions": [
-    "Automóvil familiar para varios pasajeros con puerta posterior y espacio de almacenaje detrás de los asientos posteriores."
+    "Autobús interurbano"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

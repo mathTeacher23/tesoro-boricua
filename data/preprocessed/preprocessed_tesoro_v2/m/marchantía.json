@@ -3,12 +3,15 @@
   "term": "marchantía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Clientela.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Marchantería, clientela.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1726190476190476,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6068",
+        "semantic_similarity_score": 0.6068,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -41,15 +44,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Am. Cen. y Ven.).  Marchantería, clientela.",
-          "Am. Cen., P. Rico y Ven.  Clientela.",
+          ". Marchantería, clientela.",
+          "Am. Cen., P. Rico y Ven. Clientela.",
           "Clientela."
         ]
       }
     }
   },
   "es_definitions": [
-    "Clientela."
+    ". Marchantería, clientela."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

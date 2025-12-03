@@ -3,12 +3,15 @@
   "term": "leasing",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alquiler o arrendamiento.",
+      "consolidated_definition": "Alquiler o arrendamiento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0975609756097561,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6046",
+        "semantic_similarity_score": 0.6046,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Alquiler o arrendamiento. La palabra se ha hecho casi imprescindible para nombrar el alquiler de carros, que en este caso, son arrendamientos que pued...",
-          "Arrendamiento. Contrato de alquiler de una propiedad, un vehículo u otro para un período de tiempo determinado, con derecho a compra. Anglicismo crudo..."
+          "Alquiler o arrendamiento. La palabra se ha hecho casi imprescindible para nombrar el alquiler de carros, que en este caso, son arrendamientos que pueden durar varios años y que ofrecen ciertas condiciones de compra posterior.",
+          "Arrendamiento. Contrato de alquiler de una propiedad, un vehículo u otro para un período de tiempo determinado, con derecho a compra. Anglicismo crudo, frecuente. DRAE 2001, voz inglesa. También lease. El leasing consiste en un contrato entre el arrendatario y el arrendador, mediante el cual el arrendador se compromete a ceder el derecho al uso y disfrute de un bien mueble específico al arrendatario, quien a su vez, se compromete a entregarle unos pagos periódicos en efectivo"
         ]
       }
     }
   },
   "es_definitions": [
-    "Alquiler o arrendamiento."
+    "Alquiler o arrendamiento"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

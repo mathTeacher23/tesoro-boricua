@@ -3,12 +3,15 @@
   "term": "stop payment",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Suspensión de pagos.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Suspensión de pagos, relacionado con una organización",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11739214175654854,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6126",
+        "semantic_similarity_score": 0.6126,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,14 +47,14 @@
         "related_words": [],
         "reference_definitions": [
           "Suspensión de pagos. Acción de detener algún tipo de pago en un banco.",
-          "econ. Detención de pago. Instrucción que se da a un banco para que cancele el pago de un cheque. Anglicismo crudo, usual.\nUn agente de la Policía adsc...",
+          "econ. Detención de pago. Instrucción que se da a un banco para que cancele el pago de un cheque. Anglicismo crudo, usual. Un agente de la Policía adscrito al Cuerpo de Seguridad de Residenciales Públicos en Caguas fue arrestado hoy por apropiarse ilegalmente de $2,617 al cambiar un cheque de un préstamo que hizo a la Asociación de Empleados del Estado Libre Asociado y luego pedir un stop payment",
           "Suspensión de pagos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Suspensión de pagos."
+    "Suspensión de pagos, relacionado con una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "canelo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol de unos 40 pies de altura, de madera color oscura y algo dura.",
+      "consolidated_definition": "Árbol de unos 40 pies de altura",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3123",
+        "semantic_similarity_score": 0.3123,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,18 +39,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Árbol de unos 40 pies de altura, de madera color oscura y algo dura. (Persea krugii). Grosourdy, 2, 369. Cook.",
+          "Árbol de unos 40 pies de altura, de madera color oscura y algo dura. . Grosourdy, 2, 369. Cook.",
           "Barbasco."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a una mujer, mestiza, mulata.",
+      "consolidated_definition": "De color acanelado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3458",
+        "semantic_similarity_score": 0.3458,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -62,12 +68,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -84,8 +90,8 @@
     }
   },
   "es_definitions": [
-    "Árbol de unos 40 pies de altura, de madera color oscura y algo dura.",
-    "Referido a una mujer, mestiza, mulata."
+    "Árbol de unos 40 pies de altura",
+    "De color acanelado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

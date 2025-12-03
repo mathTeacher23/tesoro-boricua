@@ -3,12 +3,15 @@
   "term": "coco seco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Coco maduro, con poca agua y tela gruesa.",
+      "consolidated_definition": "Cuando la tela del coco está madura",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.31794871794871793,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.8222",
+        "semantic_similarity_score": 0.8222,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -25,12 +28,12 @@
             "year": "1966"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Coco maduro, con poca agua y tela gruesa."
+    "Cuando la tela del coco está madura"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

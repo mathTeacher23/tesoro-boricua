@@ -3,12 +3,15 @@
   "term": "restrillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dar chasquidos la madera, cuando se abre por variaciones del clima.",
+      "consolidated_definition": "Chasquear",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04816825503358011,
+        "num_cleaned_definitions": 10,
+        "definition_stability": "Stability: 0.4355",
+        "semantic_similarity_score": 0.4355,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,20 +27,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -52,14 +55,21 @@
         ],
         "reference_definitions": [
           "Chasquear, manejar el látigo haciéndole dar un chasquido.",
-          "Estrellar, arrojar con violencia una cosa contra otra, haciéndola pedazos. “Mira condenao, te voy a restriyal una oya en esa cara.” Meléndez Muñoz, Yu...",
-          "intr.  Crujir. La cama restrilla."
+          "Estrellar, arrojar con violencia una cosa contra otra, haciéndola pedazos. “Mira condenao, te voy a restriyal una oya en esa cara.” Meléndez Muñoz, , p. 96.",
+          "intr. Crujir. La cama restrilla.",
+          "Crujir la madera, a causa de las variaciones de temperatura.",
+          "Dar chasquidos la madera, cuando se abre por variaciones del clima. Crujir.",
+          "Chasquear el látigo.",
+          "Chasquear un foete o látigo.",
+          "Hacer sonar una traca fuertemente.",
+          "Crujir la madera al pisarla o al sufrir cambios de temperatura.",
+          "Sonar el zinc de un techo por cambios de temperatura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dar chasquidos la madera, cuando se abre por variaciones del clima."
+    "Chasquear"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

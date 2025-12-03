@@ -3,12 +3,15 @@
   "term": "julepear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tener concubina o concubino.",
+      "consolidated_definition": "Mortificar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0071428571428571435,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.2693",
+        "semantic_similarity_score": 0.2693,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -30,20 +33,20 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -61,13 +64,18 @@
         "reference_definitions": [
           "Mortificar.",
           "Buscar bulla.",
-          "Crear problemas."
+          "Crear problemas.",
+          "Embromar hasta molestar.",
+          "Tener concubina o concubino.",
+          "Causar líos, desordenar.",
+          "Jugar. Molestar. Vaguear.",
+          "Embromar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tener concubina o concubino."
+    "Mortificar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

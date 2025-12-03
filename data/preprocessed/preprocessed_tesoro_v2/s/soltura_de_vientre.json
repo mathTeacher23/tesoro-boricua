@@ -3,12 +3,15 @@
   "term": "soltura de vientre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Diarrea.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Flujo de vientre, diarrea.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5963",
+        "semantic_similarity_score": 0.5963,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Col., Hond. y Ven.).  Flujo de vientre, diarrea.",
+          ". Flujo de vientre, diarrea.",
           "Diarrea."
         ]
       }
     }
   },
   "es_definitions": [
-    "Diarrea."
+    ". Flujo de vientre, diarrea."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

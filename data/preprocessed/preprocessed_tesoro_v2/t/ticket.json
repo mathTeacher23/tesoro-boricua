@@ -3,12 +3,15 @@
   "term": "ticket",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Taquilla, entrada, boleto.",
+      "consolidated_definition": "Taquilla",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 13,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10771246381372059,
+        "num_cleaned_definitions": 13,
+        "definition_stability": "Stability: 0.4439",
+        "semantic_similarity_score": 0.4439,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -27,18 +30,6 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1966"
-          },
-          {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
-          },
-          {
-            "source": "PAGÁN GONZÁLEZ,",
-            "year": "1969"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
@@ -53,6 +44,18 @@
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "PAGÁN GONZÁLEZ,",
+            "year": "1969"
+          },
+          {
+            "source": "PÉREZ SALA,",
+            "year": "1968"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1966"
           }
         ],
         "years": [
@@ -69,17 +72,30 @@
         "reference_definitions": [
           "Taquilla, entrada, boleto.",
           "Boleto.",
-          "Boleto."
+          "Boleto.",
+          "Boleto.",
+          "Boleto.",
+          "Taquilla.",
+          "Pasaje, billete.",
+          "Multa.",
+          ". Boleto/a, recibo, entrada, multa.",
+          "Boleto, taquilla, entrada. Pequeña tarjeta que mediante pago permite el acceso a una actividad o transporte colectivo. Anglicismo crudo, usual. “Incluye tickets de palco. Ya lo que me queda es un solo ticket”, añadió Bravo, quien especificó que el paquete que tiene disponible tiene un costo de $1,199 por persona, incluyendo impuestos, con estadía en habitación de ocupación doble",
+          "Infracción, multa. Notificación oficial de una infracción de tránsito. Anglicismo crudo, usual. Yo no sé cantar, ni menos escribir canciones, pero a lo mejor, si me dedico a eso cada vez que me den un ticket de tránsito o me cojan con alguna sustancia controlada o un arma ilegal , ¡salga absuelto!",
+          "comer. Recibo. Hoja comprobante de pago por una mercancía. Anglicismo crudo, usual. Declararon también que el mesero es quien abre el ticket cuando toma la orden del cliente y es quién lo lleva a la cajera para que lo cierre una vez el cliente determina el método de pagó, ya sea en efectivo tarjeta de crédito o mediante cargo al cuarto",
+          "comer. Etiqueta. Pequeña tarjeta que identifica un artículo. Anglicismo crudo, frecuente. Pero que, a pesar de todo, pues yo poco a poco he ido aprendiendo y cuando hay mucho trabajo, pues si tengo que planchar, plancho y si tengo que... lo que llamamos sortear la ropa, luego de que está planchada se pone en un tubo, entonces en otro tubo tenemos organizados los tickets con los nombres..."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Regaño.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Regaño",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -108,8 +124,8 @@
     }
   },
   "es_definitions": [
-    "Taquilla, entrada, boleto.",
-    "Regaño."
+    "Taquilla",
+    "Regaño"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

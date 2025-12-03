@@ -3,12 +3,15 @@
   "term": "esmeril",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, torpe, bruta.",
+      "consolidated_definition": "Torpe",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.47",
+        "semantic_similarity_score": 0.47,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, torpe, bruta."
+    "Torpe"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "colgadizo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ampliación en la parte trasera de una casa de madera que consiste en una pieza con techo de una sola agua y que suele hacer de cocina.",
+      "consolidated_definition": "El local adyacente al bohío",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15203334080705996,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5665",
+        "semantic_similarity_score": 0.5665,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,20 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "VICENTE MAURA,",
@@ -41,10 +48,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -60,13 +63,16 @@
         "reference_definitions": [
           "El local adyacente al bohío, donde generalmente se cocina, lleva el nombre de colgadizo.",
           "Parte que se añade a la casa campesina en la parte posterior.",
-          "Edificación adyacente a la casa que sirve de cocina o para cualquier otro uso de acuerdo con las necesidades de la familia."
+          "Edificación adyacente a la casa que sirve de cocina o para cualquier otro uso de acuerdo con las necesidades de la familia.",
+          "Ampliación generalmente en la parte trasera de una casa de madera, consistente en una habitación con techo de una sola agua.",
+          "Cocina que se construía abajo, en el nivel de la tierra.",
+          "Ampliación en la parte trasera de una casa de madera que consiste en una pieza con techo de una sola agua y que suele hacer de cocina."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ampliación en la parte trasera de una casa de madera que consiste en una pieza con techo de una sola agua y que suele hacer de cocina."
+    "El local adyacente al bohío"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

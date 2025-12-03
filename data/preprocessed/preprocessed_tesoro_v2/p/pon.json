@@ -3,12 +3,15 @@
   "term": "pon",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Torta dulce, especie de pudín, a base de batatas, calabazas y yautías majadas y además harina de maíz y melaza.",
+      "consolidated_definition": "Torta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14869239068686033,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5519",
+        "semantic_similarity_score": 0.5519,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -53,19 +56,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Torta, especie de pudín. “Traían para vender tortas de pon, especie de pudín africano hecho con harina de maíz y melaza.” Fernández Juncos, La última ...",
+          "Torta, especie de pudín. “Traían para vender tortas de pon, especie de pudín africano hecho con harina de maíz y melaza.” Fernández Juncos, La última hornada, 1928, p. 46. Hoy se dice siempre pon de maíz.",
           "Dulce que se hace de harina de maíz, mantequilla, leche, anís, canela, pasa, huevos. Pon de maíz.",
-          "Cierto pudín hecho con harina de maíz y miel de caña de azúcar. También dicen pon de maíz."
+          "Cierto pudín hecho con harina de maíz y miel de caña de azúcar. También dicen pon de maíz.",
+          "Comida de maíz.",
+          "Torta dulce, especie de pudín, a base de batatas, calabazas y yautías majadas y además harina de maíz y melaza. También pon de maíz."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ofrecer asiento en un carro para llevar a la persona a determinado lugar.",
+      "consolidated_definition": "Acción de montar gratuitamente en un vehículo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23452882865926344,
+        "num_cleaned_definitions": 11,
+        "definition_stability": "Stability: 0.5316",
+        "semantic_similarity_score": 0.5316,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -77,14 +85,6 @@
           "TRANSPORTE."
         ],
         "sources": [
-          {
-            "source": "WASHINGTON LLORENS, 1981B",
-            "year": ""
-          },
-          {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
           {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
@@ -98,6 +98,26 @@
             "year": "1973"
           },
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "SANTIAGO,",
             "year": "1974"
           },
@@ -106,20 +126,8 @@
             "year": "1984"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS, 1981B",
+            "year": ""
           }
         ],
         "years": [
@@ -137,16 +145,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Acción de montar gratuitamente en un vehículo.",
+          "Acción de montar gratuitamente en un vehículo.",
           "Cachete, montar gratuitamente en un vehículo.",
-          "Acción de montar gratuitamente en un vehículo."
+          "Acción de montar gratuitamente en un vehículo.",
+          "Acción de montarse gratuitamente en un vehículo.",
+          "Acción de montarse gratuitamente en un vehículo.",
+          "Viaje de balde.",
+          "Transportación gratuita. Autoestop.",
+          "Montar gratis en un vehículo.",
+          "Ofrecer asiento en un carro para llevar a la persona a determinado lugar. Viajar de gratis con cualquier persona.",
+          "Autoestop.",
+          "Viaje gratuito en un vehículo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Torta dulce, especie de pudín, a base de batatas, calabazas y yautías majadas y además harina de maíz y melaza.",
-    "Ofrecer asiento en un carro para llevar a la persona a determinado lugar."
+    "Torta",
+    "Acción de montar gratuitamente en un vehículo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

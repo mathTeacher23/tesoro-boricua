@@ -3,12 +3,15 @@
   "term": "yautía viequera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de yautía blanca muy sabrosa y que casi está extinguida.",
+      "consolidated_definition": "Variedad de yautía comestible",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07142857142857142,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5536",
+        "semantic_similarity_score": 0.5536,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Variedad de yautía blanca muy sabrosa y que casi está extinguida."
+    "Variedad de yautía comestible"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "paisa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Amigo íntimo, compañero inseparable.",
+      "consolidated_definition": "Paisano",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06888888888888887,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5",
+        "semantic_similarity_score": 0.5,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -29,16 +32,16 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -52,13 +55,16 @@
         "reference_definitions": [
           "Paisano, amigo íntimo.",
           "Amigo íntimo.",
-          "Apócope de paisano."
+          "Apócope de paisano.",
+          "Cónsul.",
+          "Amigo.",
+          "Amigo íntimo, compañero inseparable."
         ]
       }
     }
   },
   "es_definitions": [
-    "Amigo íntimo, compañero inseparable."
+    "Paisano"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

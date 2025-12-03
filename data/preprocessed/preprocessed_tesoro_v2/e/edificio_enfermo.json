@@ -3,12 +3,15 @@
   "term": "edificio enfermo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "constr.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "constr",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "constr. Edificio cuyas paredes o techos están deteriorados por hongos u otros problemas. Calco de estructura, usual.\nTambién comentó sobre la asignaci..."
+          "constr. Edificio cuyas paredes o techos están deteriorados por hongos u otros problemas. Calco de estructura, usual. También comentó sobre la asignación de fondos para hacer reparaciones a los edificios enfermos como el de Física, Stefani y el Piñero"
         ]
       }
     }
   },
   "es_definitions": [
-    "constr."
+    "constr"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

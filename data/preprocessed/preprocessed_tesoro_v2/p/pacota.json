@@ -3,12 +3,15 @@
   "term": "pacota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comida mal confeccionada.",
+      "consolidated_definition": "Comida mala",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2261904761904762,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5937",
+        "semantic_similarity_score": 0.5937,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -27,12 +30,12 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -44,14 +47,14 @@
         "related_words": [],
         "reference_definitions": [
           "Comida mala.",
-          "Comida mal confeccionada.  Apócope de pacotilla.",
+          "Comida mal confeccionada. Apócope de pacotilla.",
           "Comida mal preparada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Comida mal confeccionada."
+    "Comida mala"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

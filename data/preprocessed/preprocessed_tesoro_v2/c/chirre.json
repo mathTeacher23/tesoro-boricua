@@ -3,12 +3,15 @@
   "term": "chirre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ave acuática, mediana, de plumaje blanco, pico corto y virado, con la cola en forma de tijera y las alas estrechas y puntiagudas.",
+      "consolidated_definition": "Ave acuática",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13576719576719576,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4587",
+        "semantic_similarity_score": 0.4587,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -33,10 +40,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,15 +51,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ave acuática. (Thalaseus acuflavidus, Cabot). Stahl, Catalog, 154.",
-          "Ave acuática, mediana, de plumaje blanco, pico corto y virado, con la cola en forma de tijera y las alas estrechas y puntiagudas. Hay en Puerto Rico v...",
-          "Cierta ave acuática."
+          "Ave acuática. . Stahl, Catalog, 154.",
+          "Ave acuática, mediana, de plumaje blanco, pico corto y virado, con la cola en forma de tijera y las alas estrechas y puntiagudas. Hay en Puerto Rico varias especies: chirre de pico colorao y chirre de altura.",
+          "Cierta ave acuática.",
+          "Ave acuática de tamaño mediano, plumaje blanco, pico corto y virado, con la cola en forma de tijeras y alas estrechas y puntiagudas. ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ave acuática, mediana, de plumaje blanco, pico corto y virado, con la cola en forma de tijera y las alas estrechas y puntiagudas."
+    "Ave acuática"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

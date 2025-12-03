@@ -3,12 +3,15 @@
   "term": "embargue",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Embargo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05263157894736842,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7818",
+        "semantic_similarity_score": 0.7818,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Embargo. (El cambio de -o en -e es frecuente en ciertas regiones españolas. Cante, por canto, es andaluz y madrileño).",
+          "vulg. Embargo. .",
           "Embargo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Embargo."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

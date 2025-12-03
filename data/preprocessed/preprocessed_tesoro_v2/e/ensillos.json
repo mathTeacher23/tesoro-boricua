@@ -3,12 +3,15 @@
   "term": "ensillos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Respecto al aparejo, designa el conjunto de los arreos de montar: ensillos en el oeste y avíos en el este.",
+      "consolidated_definition": "Arreos de montar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06693415783089696,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.5707",
+        "semantic_similarity_score": 0.5707,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -24,6 +27,26 @@
         ],
         "sources": [
           {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -32,28 +55,8 @@
             "year": "1948"
           },
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -70,14 +73,20 @@
         "related_words": [],
         "reference_definitions": [
           "Arreos de montar.",
-          "Respecto al aparejo, designa el conjunto de los arreos de montar: ensillos en el oeste y avíos en el este. [...] El oeste distingue entre los avíos de...",
-          "Arreos de la cabalgadura."
+          "Respecto al aparejo, designa el conjunto de los arreos de montar: ensillos en el oeste y avíos en el este. El oeste distingue entre los avíos de tiro y los ensillos de montar.",
+          "Arreos de la cabalgadura.",
+          "El aparejo.",
+          "Arneses. Aperos.",
+          "Arneses y avíos del caballo.",
+          "Arneses, aperos de montura.",
+          "Palabra que se refiere al avío, arneses o arreos de la bestia de montura y carga.",
+          "Arnés, apero, avío del animal de montura y carga."
         ]
       }
     }
   },
   "es_definitions": [
-    "Respecto al aparejo, designa el conjunto de los arreos de montar: ensillos en el oeste y avíos en el este."
+    "Arreos de montar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "fudge",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bizcocho blando y de forma cuadrada, hecho con leche, chocolate y azúcar.",
+      "consolidated_definition": ". Dulce blando, en forma de cuadrado, que se hace a base de leche, chocolate y azúcar.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.22568921422361102,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.753",
+        "semantic_similarity_score": 0.753,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "BENNETT,",
             "year": "1972"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "(general).  Dulce blando, en forma de cuadrado, que se hace a base de leche, chocolate y azúcar.",
+          ". Dulce blando, en forma de cuadrado, que se hace a base de leche, chocolate y azúcar.",
           "Dulce hecho con leche, chocolate y azúcar.",
-          "alim. Dulce cremoso de chocolate. Tipo especial de pasta de chocolate, hecha con mantequilla, leche, azúcar y chocolate. Anglicismo crudo, poco frecue..."
+          "alim. Dulce cremoso de chocolate. Tipo especial de pasta de chocolate, hecha con mantequilla, leche, azúcar y chocolate. Anglicismo crudo, poco frecuente. “También pie de manzana, hecho a la orden y cucharadas de fruta, de fudge, de nueces y chocolate, napoleón con guineos niños, manzanitas enanas y por supuesto, seguimos preparando el soufflé, que tanto nos piden”",
+          "Bizcocho blando y de forma cuadrada, hecho con leche, chocolate y azúcar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bizcocho blando y de forma cuadrada, hecho con leche, chocolate y azúcar."
+    ". Dulce blando, en forma de cuadrado, que se hace a base de leche, chocolate y azúcar."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

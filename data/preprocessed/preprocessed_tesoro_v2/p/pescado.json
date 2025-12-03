@@ -3,12 +3,15 @@
   "term": "pescado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona a quien se trata de convencer para que use droga.",
+      "consolidated_definition": "Persona a quien se trata de convencer para",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.31333943833943834,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6245",
+        "semantic_similarity_score": 0.6245,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,17 +43,21 @@
         "reference_definitions": [
           "Persona a quien se trata de convencer para que use droga.",
           "Cliente de la prostituta.",
-          "Persona a quien se trata de convencer para que use drogas."
+          "Persona a quien se trata de convencer para que use drogas.",
+          "Cliente de prostituta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pez, ya esté dentro o fuera del agua, sea comestible o no.",
+      "consolidated_definition": ". Se usa para referirse indistintamente, tanto al animal ya atrapado y muerto, destinado al uso culinario, como al vivo, aún en el agua. Se dice, por ejemplo, pescaítos a los pececillos de una pecera.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.022727272727272728,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5198",
+        "semantic_similarity_score": 0.5198,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -65,12 +72,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -80,15 +87,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Gran Can.).  Se usa para referirse indistintamente, tanto al animal ya atrapado y muerto, destinado al uso culinario, como al vivo, aún en el a...",
+          ". Se usa para referirse indistintamente, tanto al animal ya atrapado y muerto, destinado al uso culinario, como al vivo, aún en el agua. Se dice, por ejemplo, pescaítos a los pececillos de una pecera.",
           "Pez, ya esté dentro o fuera del agua, sea comestible o no."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona a quien se trata de convencer para que use droga.",
-    "Pez, ya esté dentro o fuera del agua, sea comestible o no."
+    "Persona a quien se trata de convencer para",
+    ". Se usa para referirse indistintamente, tanto al animal ya atrapado y muerto, destinado al uso culinario, como al vivo, aún en el agua. Se dice, por ejemplo, pescaítos a los pececillos de una pecera."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

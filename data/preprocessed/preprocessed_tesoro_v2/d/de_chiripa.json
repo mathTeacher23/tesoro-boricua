@@ -3,12 +3,15 @@
   "term": "de chiripa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De milagro, de ñapa.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "De milagro",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.27777777777777773,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6413",
+        "semantic_similarity_score": 0.6413,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -24,12 +27,12 @@
             "year": "1971"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "De milagro, de ñapa."
+    "De milagro"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

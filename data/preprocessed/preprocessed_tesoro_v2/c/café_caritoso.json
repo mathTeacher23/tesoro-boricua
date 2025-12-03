@@ -3,12 +3,15 @@
   "term": "café caritoso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grano de café cuya cáscara se seca por el lado que ha estado expuesto al sol.",
+      "consolidated_definition": "Grano de café de inferior calidad generalmente los",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2214871794871795,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6517",
+        "semantic_similarity_score": 0.6517,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1965"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           }
         ],
         "years": [
@@ -47,13 +50,15 @@
         "reference_definitions": [
           "Grano de café de inferior calidad generalmente los cosechados en las primeras graneras.",
           "Grano sin la propiedad reconocida en tamaño, clase y calidad.",
+          "Grano de café cuya cáscara se seca por el lado que ha estado expuesto al sol.",
+          "Grano de café de inferior calidad.",
           "Grano de café cuya cáscara se seca por el lado que ha estado expuesto al sol."
         ]
       }
     }
   },
   "es_definitions": [
-    "Grano de café cuya cáscara se seca por el lado que ha estado expuesto al sol."
+    "Grano de café de inferior calidad generalmente los"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

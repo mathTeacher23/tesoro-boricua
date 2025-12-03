@@ -3,12 +3,15 @@
   "term": "careto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Terreno que no es lo bastante fértil como para lograr buenas cosechas.",
+      "consolidated_definition": "Terreno que no es bastante fértil como para",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9487",
+        "semantic_similarity_score": 0.9487,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a animal vacuno o caballar, que tiene una mancha blanca en la frente.",
+      "consolidated_definition": "Animal que tiene un lunar blanco en la",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3520968195890797,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6995",
+        "semantic_similarity_score": 0.6995,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -62,16 +68,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -90,8 +96,8 @@
     }
   },
   "es_definitions": [
-    "Terreno que no es lo bastante fértil como para lograr buenas cosechas.",
-    "Referido a animal vacuno o caballar, que tiene una mancha blanca en la frente."
+    "Terreno que no es bastante fértil como para",
+    "Animal que tiene un lunar blanco en la"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

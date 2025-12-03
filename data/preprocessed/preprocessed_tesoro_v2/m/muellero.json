@@ -3,12 +3,15 @@
   "term": "muellero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajador que carga y descarga mercancías de los barcos, estibador.",
+      "consolidated_definition": "Obrero que trabaja en los muelles",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08095238095238096,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5091",
+        "semantic_similarity_score": 0.5091,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
             "source": "HUYKE,",
             "year": "1973"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Trabajador que carga y descarga mercancías de los barcos, estibador."
+    "Obrero que trabaja en los muelles"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

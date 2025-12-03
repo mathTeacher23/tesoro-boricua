@@ -3,12 +3,15 @@
   "term": "comedura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ración de alimento que se le da a una bestia durante el descanso en el trabajo.",
+      "consolidated_definition": "Porción de alimento que se da al ganado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10343325221500518,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5336",
+        "semantic_similarity_score": 0.5336,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -50,19 +53,26 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Porción de alimento que se da al ganado. “Cayósele de las manos el machete con que talaba las comeduras.” Fernández Juncos, Costumbres y ...,1883, p. ...",
+          "Porción de alimento que se da al ganado. “Cayósele de las manos el machete con que talaba las comeduras.” Fernández Juncos, Costumbres y ...,1883, p. 4.",
           "Comeúra. El sitio donde ponen la res o la bestia cuando la tienen amarrada.",
-          "Ración de alimento que se le da a una bestia durante el descanso en el trabajo."
+          "Ración de alimento que se le da a una bestia durante el descanso en el trabajo.",
+          "Área de pasto que puede alcanzar a comer una bestia amarrada.",
+          "Porción de alimento que se da al ganado.",
+          "Sitio donde acostumbran comer las reses.",
+          "El pasto donde pace el ganado."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Desgaste físico.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Desgaste físico",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -93,8 +103,8 @@
     }
   },
   "es_definitions": [
-    "Ración de alimento que se le da a una bestia durante el descanso en el trabajo.",
-    "Desgaste físico."
+    "Porción de alimento que se da al ganado",
+    "Desgaste físico"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

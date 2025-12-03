@@ -3,12 +3,15 @@
   "term": "cortejo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "“A los miembros de la pareja amancebada se les llama cortejo, ja.” Álvarez Nazario.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.017522594364699627,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4632",
+        "semantic_similarity_score": 0.4632,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -21,28 +24,28 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -58,19 +61,25 @@
           "acortejarse"
         ],
         "reference_definitions": [
-          "vulg.  Querido, amante. “Mi marido, debes decir. —Es... que es tu cortejo.” Zeno Gandía, La charca, 1893, cap. I. “La puerta se entreabrió, y la figur...",
+          "vulg. Querido, amante. “Mi marido, debes decir. —Es... que es tu cortejo.” Zeno Gandía, La charca, 1893, cap. I. “La puerta se entreabrió, y la figura de la mulatica Vicenta, corteja de don Goyo, enseñó su silueta.” Martínez Álvarez, El loco del .",
           "Querido, da, amante. Miembro de la pareja amancebada “Con la corteja de turno: con sus cortejas… él podría hacer un establo.”",
-          "Concubino, na."
+          "Concubino, na.",
+          "Mujer consensual. Marido consensual.",
+          "“A los miembros de la pareja amancebada se les llama cortejo, ja.” Álvarez Nazario. Luis Rafael Sánchez, La guaracha del Macho Camacho, p. 92.",
+          "Amante, querido."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Individuo que vive de la prostituta.",
+      "consolidated_definition": "Individuo que vive de la prostituta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.7142857142857143,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9654",
+        "semantic_similarity_score": 0.9654,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -105,8 +114,8 @@
     }
   },
   "es_definitions": [
-    "“A los miembros de la pareja amancebada se les llama cortejo, ja.” Álvarez Nazario.",
-    "Individuo que vive de la prostituta."
+    "vulg",
+    "Individuo que vive de la prostituta"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

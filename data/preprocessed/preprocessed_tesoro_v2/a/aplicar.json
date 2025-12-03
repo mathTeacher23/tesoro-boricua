@@ -3,12 +3,15 @@
   "term": "aplicar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Solicitar alguien algo a través de un formulario escrito.",
+      "consolidated_definition": "Solicitar, relacionado con un grupo o una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05723019670388091,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6263",
+        "semantic_similarity_score": 0.6263,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -39,7 +42,7 @@
           "aplicante"
         ],
         "reference_definitions": [
-          "Solicitar. Hacer una petición formal para que se haga algo; también, solicitar admisión en una institución. Desvío semántico, usual. DRAE 2001: poner ...",
+          "Solicitar. Hacer una petición formal para que se haga algo; también, solicitar admisión en una institución. Desvío semántico, usual. DRAE 2001: poner algo sobre otra cosa. Es decir, hoy día, si tú deseas aplicar para un trabajo de portero o de estas personas que suben y bajan elevadores, tienes que tener plena confianza",
           "Solicitar alguien algo a través de un formulario escrito.",
           "Llenar alguien una solicitud."
         ]
@@ -47,7 +50,7 @@
     }
   },
   "es_definitions": [
-    "Solicitar alguien algo a través de un formulario escrito."
+    "Solicitar, relacionado con un grupo o una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

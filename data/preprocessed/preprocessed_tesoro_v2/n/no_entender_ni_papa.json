@@ -3,12 +3,15 @@
   "term": "no entender ni papa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando uno no entiende nada.",
+      "consolidated_definition": "No comprender nada",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3594",
+        "semantic_similarity_score": 0.3594,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "FERNÁNDEZ,",
             "year": "1979"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Cuando uno no entiende nada."
+    "No comprender nada"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "baking powder",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Polvo de hornear, levadura.",
+      "consolidated_definition": "Polvo de hornear",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15550256257152809,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6911",
+        "semantic_similarity_score": 0.6911,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "BENNETT,",
             "year": "1972"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "(general) Polvo de hornear (mezcla de varias sustancias que sirve de levadura para la preparación rápida de bizcochos, galletas, etc.). En Cuba y Sant...",
+          "Polvo de hornear . En Cuba y Santo Domingo: royal.",
           "Polvo de hornear.",
-          "alim. Polvo de hornear. Mezcla de sustancias en polvo que sustituye la levadura. Anglicismo crudo, usual.\nLicúe la leche con los huevos, el baking pow..."
+          "alim. Polvo de hornear. Mezcla de sustancias en polvo que sustituye la levadura. Anglicismo crudo, usual. Licúe la leche con los huevos, el baking powder y sal y pimienta",
+          "Polvo de hornear, levadura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Polvo de hornear, levadura."
+    "Polvo de hornear"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

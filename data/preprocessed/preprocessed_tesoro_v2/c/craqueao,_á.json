@@ -3,12 +3,15 @@
   "term": "craqueao, á",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona loca.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Persona loca",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4515",
+        "semantic_similarity_score": 0.4515,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -39,7 +42,7 @@
     }
   },
   "es_definitions": [
-    "Persona loca."
+    "Persona loca"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

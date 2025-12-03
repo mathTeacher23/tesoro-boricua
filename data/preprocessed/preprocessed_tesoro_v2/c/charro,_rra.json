@@ -3,12 +3,15 @@
   "term": "charro, rra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de alguien vestido con mal gusto.",
+      "consolidated_definition": "Se dice de alguien vestido con mal gusto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.025,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3924",
+        "semantic_similarity_score": 0.3924,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -44,17 +47,22 @@
         "reference_definitions": [
           "Se dice de alguien vestido con mal gusto.",
           "Algo feo. Exagerado. Extravagante.",
-          "Antiguo."
+          "Antiguo.",
+          "Ajibarado. Jíbaro.",
+          "Referido a cosa, ridícula, de mal gusto."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a una cosa, aburrida o que no era la esperada.",
+      "consolidated_definition": "Referido a una cosa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.26666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6254",
+        "semantic_similarity_score": 0.6254,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -85,8 +93,8 @@
     }
   },
   "es_definitions": [
-    "Se dice de alguien vestido con mal gusto.",
-    "Referido a una cosa, aburrida o que no era la esperada."
+    "Se dice de alguien vestido con mal gusto",
+    "Referido a una cosa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

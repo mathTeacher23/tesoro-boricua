@@ -3,12 +3,15 @@
   "term": "cochar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "“Acto de conducir de un sitio a otro el ganado vacuno.",
+      "consolidated_definition": "Conducir de un sitio a otro el ganado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1547263212744521,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5885",
+        "semantic_similarity_score": 0.5885,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -36,10 +43,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -52,15 +55,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Conducir de un sitio a otro el ganado vacuno. “Y San Isidro, presuroso, desenyugó su yunta y cochó toro y bueyes para el cielo.” Cuentos criollos, 192...",
+          "Conducir de un sitio a otro el ganado vacuno. “Y San Isidro, presuroso, desenyugó su yunta y cochó toro y bueyes para el cielo.” Cuentos criollos, 1925, p. 180. .",
           "Echar los animales por delante.",
-          "Cochear. Conducir el ganado de un lugar a otro usando látigos o garrochas."
+          "Cochear. Conducir el ganado de un lugar a otro usando látigos o garrochas.",
+          "“Acto de conducir de un sitio a otro el ganado vacuno. “Coché las reses pal sercao.” Meléndez Muñoz.",
+          "Conducir alguien el ganado vacuno de un sitio a otro."
         ]
       }
     }
   },
   "es_definitions": [
-    "“Acto de conducir de un sitio a otro el ganado vacuno."
+    "Conducir de un sitio a otro el ganado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

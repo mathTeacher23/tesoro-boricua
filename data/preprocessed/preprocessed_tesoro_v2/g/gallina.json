@@ -3,12 +3,15 @@
   "term": "gallina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo que durante la pelea deja de atacar y canta en señal de cobardía, mientras el contrario se mantiene en pie.",
+      "consolidated_definition": "Gallo de plumaje no desarrollado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17081148988366318,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6385",
+        "semantic_similarity_score": 0.6385,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -27,16 +30,16 @@
             "year": ""
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "FIGUEROA,",
             "year": "2003"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,18 +51,23 @@
         "related_words": [],
         "reference_definitions": [
           "Gallo de plumaje no desarrollado, con la finura de apariencia de gallina.",
-          "Gallo de golilla corta cuyas plumas son muy parecidas a las de las gallina. Las espadas del rabo son más cortas que las del gallo común. También los l...",
-          "Gallo que durante la pelea deja de atacar y canta en señal de cobardía, mientras el contrario se mantiene en pie."
+          "Gallo de golilla corta cuyas plumas son muy parecidas a las de las gallina. Las espadas del rabo son más cortas que las del gallo común. También los llaman gallinos y aunque se considera inferior el color de su pluma, algunos resultan buenos peleadores.",
+          "Gallo que durante la pelea deja de atacar y canta en señal de cobardía, mientras el contrario se mantiene en pie.",
+          "Gallo de golilla corta con plumas muy semejantes a las de una gallina.",
+          "En las peleas de gallos, gallo que deja de atacar durante la pelea y canta en señal de cobardía."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pez marino de pequeño tamaño, con aletas radiadas, de forma casi redonda, aplastado y ancho de abdomen, cola larga en forma de brocha, escamas de color gris y castaño en hexágonos alternados e irregulares, cabeza y boca pequeñas, y ojos grandes, saltones, de color rojizo; su carne es apreciada.",
+      "consolidated_definition": "Nombre con el que se conoce el chapín",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02042483660130719,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3922",
+        "semantic_similarity_score": 0.3922,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -72,16 +80,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "ERDMAN,",
             "year": "1974"
           },
           {
             "source": "MAULEÓN,",
             "year": "1974"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -93,17 +101,20 @@
         "reference_definitions": [
           "Nombre con el que se conoce el chapín en Barceloneta.",
           "Chapín, pez. Ostraciidae. Lactophry striqueter. También la llaman gallina y caja.",
-          "Pez marino de pequeño tamaño, con aletas radiadas, de forma casi redonda, aplastado y ancho de abdomen, cola larga en forma de brocha, escamas de colo..."
+          "Pez marino de pequeño tamaño, con aletas radiadas, de forma casi redonda, aplastado y ancho de abdomen, cola larga en forma de brocha, escamas de color gris y castaño en hexágonos alternados e irregulares, cabeza y boca pequeñas, y ojos grandes, saltones, de color rojizo; su carne es apreciada. ."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Cobarde.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Cobarde",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -118,12 +129,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1995"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -140,9 +151,9 @@
     }
   },
   "es_definitions": [
-    "Gallo que durante la pelea deja de atacar y canta en señal de cobardía, mientras el contrario se mantiene en pie.",
-    "Pez marino de pequeño tamaño, con aletas radiadas, de forma casi redonda, aplastado y ancho de abdomen, cola larga en forma de brocha, escamas de color gris y castaño en hexágonos alternados e irregulares, cabeza y boca pequeñas, y ojos grandes, saltones, de color rojizo; su carne es apreciada.",
-    "Cobarde."
+    "Gallo de plumaje no desarrollado",
+    "Nombre con el que se conoce el chapín",
+    "Cobarde"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

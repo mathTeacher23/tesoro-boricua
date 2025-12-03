@@ -3,12 +3,15 @@
   "term": "enfollinarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Entusiasmarse súbitamente con algo.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04244196349459508,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5167",
+        "semantic_similarity_score": 0.5167,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -37,19 +40,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Enfadarse. (En Andalucía significa: amohinarse. Alcalá).",
-          "Enfollonarse.  Enfadarse. (En Gonzalo de Berceo encontramos el vocablo ‘enfellonarse’ equivalente a enfurecerse, enojarse. S. Lor., 45).",
-          "Enfogonarse. Enfadarse. Enfurecerse."
+          "vulg. Enfadarse. .",
+          "Enfollonarse. Enfadarse. .",
+          "Enfogonarse. Enfadarse. Enfurecerse.",
+          "Entusiasmarse súbitamente con algo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Emborracharse.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Emborracharse",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [
           "ALCOHOL.",
@@ -61,12 +68,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -83,8 +90,8 @@
     }
   },
   "es_definitions": [
-    "Entusiasmarse súbitamente con algo.",
-    "Emborracharse."
+    "vulg",
+    "Emborracharse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

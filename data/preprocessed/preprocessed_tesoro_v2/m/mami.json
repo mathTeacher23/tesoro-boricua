@@ -3,12 +3,15 @@
   "term": "mami",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se usa para dirigirse a la novia o a la esposa, o a una niña pequeña si el que habla es un adulto.",
+      "consolidated_definition": "Mamá",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.025641025641025644,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.2942",
+        "semantic_similarity_score": 0.2942,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,12 +50,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Mujer muy hermosa.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Bella muchacha",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3669",
+        "semantic_similarity_score": 0.3669,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -87,8 +93,8 @@
     }
   },
   "es_definitions": [
-    "Se usa para dirigirse a la novia o a la esposa, o a una niña pequeña si el que habla es un adulto.",
-    "Mujer muy hermosa."
+    "Mamá",
+    "Bella muchacha"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

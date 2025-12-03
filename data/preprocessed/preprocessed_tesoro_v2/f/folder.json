@@ -3,12 +3,15 @@
   "term": "folder",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Carpeta liviana de cartón, doblada en el medio, para archivar o llevar papeles o documentos.",
+      "consolidated_definition": "Carpeta liviana de cartón",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07481961737737068,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.5155",
+        "semantic_similarity_score": 0.5155,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,12 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
-            "source": "PAGÁN GONZÁLEZ,",
-            "year": "1969"
-          },
-          {
             "source": "BENNETT,",
             "year": "1972"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "LÓPEZ MORALES,",
@@ -47,6 +42,14 @@
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "PAGÁN GONZÁLEZ,",
+            "year": "1969"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -61,15 +64,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "(general)  Carpeta liviana de cartón, doblada en el medio, para archivar o llevar papeles o documentos.",
+          "Carpeta liviana de cartón, doblada en el medio, para archivar o llevar papeles o documentos.",
           "Cartapacio.",
-          "Carpeta liviana de cartón para archivar o llevar papeles o documentos."
+          "Carpeta liviana de cartón para archivar o llevar papeles o documentos.",
+          "Cubierta de cartulina para archivar papeles. Carpeta.",
+          "Carpeta.",
+          "Cartapacio, carpeta.",
+          "Carpeta, cartapacio. Cubierta de cartón. Anglicismo crudo, poco frecuente. Véase fólder. Por el momento estoy viviendo en Mayaguez y había escuchado que abrieron el Sony Store así que me dirigí hacia el Mayaguez Mall con un folder lleno de Resumés",
+          "inform. Representación gráfica del espacio de disco duro de un ordenador destinado a almacenar documentos. Anglicismo crudo, frecuente. Véase fólder. A continuación se presenta una breve descripción de los folders configurados bajo el correo electrónico"
         ]
       }
     }
   },
   "es_definitions": [
-    "Carpeta liviana de cartón, doblada en el medio, para archivar o llevar papeles o documentos."
+    "Carpeta liviana de cartón"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "brother",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se usa para no usar el nombre de la persona.",
+      "consolidated_definition": "Amigo íntimo, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04634920634920635,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.476",
+        "semantic_similarity_score": 0.476,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,12 +34,12 @@
             "year": "1989"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -50,13 +53,15 @@
         "reference_definitions": [
           "Amigo íntimo, confidente.",
           "Alguien conocido. Buen amigo, como hermano. Pana fuerte",
-          "Se usa para no usar el nombre de la persona. Refiriéndose a la persona que escucha: ‘chico’, ‘muchacho."
+          "Se usa para no usar el nombre de la persona. Refiriéndose a la persona que escucha: ‘chico’, ‘muchacho.",
+          "Hermano, compañero. Tratamiento de solidaridad usado entre personas del sexo masculino. Anglicismo crudo, poco frecuente. En esas dos calles, Gardenia y Amapola, se encuentra el corazón del mera mano, estoy bregando, es que ella es una chica craneo heavy, tú sabes brother, hay que bregar, es un proceso, nos estamos curando...",
+          "Amigo íntimo, compañero inseparable."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se usa para no usar el nombre de la persona."
+    "Amigo íntimo, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

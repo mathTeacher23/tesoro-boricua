@@ -3,12 +3,15 @@
   "term": "malpractice",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Impericia, práctica médica desafortunada.",
+      "consolidated_definition": "Impericia médica",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.014498757249378625,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6054",
+        "semantic_similarity_score": 0.6054,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,14 +45,14 @@
         "related_words": [],
         "reference_definitions": [
           "Impericia médica.",
-          "med. Impericia médica. Tratamiento profesional impropio o negligente. Anglicismo crudo, usual.\nPara enmendar el cuarto párrafo del Artículo 41.050 del...",
+          "med. Impericia médica. Tratamiento profesional impropio o negligente. Anglicismo crudo, usual. Para enmendar el cuarto párrafo del Artículo 41.050 del “Código de Seguros de Puerto Rico”, Ley Núm. 77 de 19 de junio de 1957, según enmendada, y para enmendar el inciso del Artículo 2 de la Ley Núm. 104 de 29 de junio de 1955, según enmendada, con el propósito de incluir a la Corporación del Centro Cardiovascular de Puerto Rico y del Caribe dentro de los límites de responsabilidad civil por mala práctica médicohospitalaria a que está sujeto el Estado Libre Asociado de Puerto Rico",
           "Impericia, práctica médica desafortunada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Impericia, práctica médica desafortunada."
+    "Impericia médica"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

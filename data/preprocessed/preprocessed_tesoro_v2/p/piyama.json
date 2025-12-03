@@ -3,12 +3,15 @@
   "term": "piyama",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prenda de dormir, generalmente compuesta de pantalón y chaqueta.",
+      "consolidated_definition": "Pijama",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.1975",
+        "semantic_similarity_score": 0.1975,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Prenda de dormir, generalmente compuesta de pantalón y chaqueta."
+    "Pijama"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

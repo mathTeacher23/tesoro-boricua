@@ -3,12 +3,15 @@
   "term": "ñangue",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tonto, bobo, necio, chango, burlador.",
+      "consolidated_definition": "Tonto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1626984126984127,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6467",
+        "semantic_similarity_score": 0.6467,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -26,12 +29,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -49,15 +52,16 @@
           "ñanguería"
         ],
         "reference_definitions": [
-          "(jíbaro)  Tonto, bobo.",
-          "Voz de origen africano.  Torpe. Estúpido. Ñango.",
-          "Tonto, bobo, necio, chango, burlador."
+          "Tonto, bobo.",
+          "Voz de origen africano. Torpe. Estúpido. Ñango.",
+          "Tonto, bobo, necio, chango, burlador.",
+          "Tonto, bobo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tonto, bobo, necio, chango, burlador."
+    "Tonto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

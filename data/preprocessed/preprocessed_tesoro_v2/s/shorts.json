@@ -3,12 +3,15 @@
   "term": "shorts",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pantalones cortos.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Pantalones cortos",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.017094017094017092,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7343",
+        "semantic_similarity_score": 0.7343,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
-            "source": "PAGÁN GONZÁLEZ,",
-            "year": "1969"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "PAGÁN GONZÁLEZ,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -44,13 +47,13 @@
         "reference_definitions": [
           "Pantalones cortos.",
           "Pantalón corto.",
-          "Pantalones cortos. Pantalones que llegan sólo a las rodillas o más arriba. Anglicismo crudo, usual. DRAE 2001, voz inglesa.\nTuve problemas con ponerme..."
+          "Pantalones cortos. Pantalones que llegan sólo a las rodillas o más arriba. Anglicismo crudo, usual. DRAE 2001, voz inglesa. Tuve problemas con ponerme los shorts en el vídeo porque no me siento bien con poca ropa"
         ]
       }
     }
   },
   "es_definitions": [
-    "Pantalones cortos."
+    "Pantalones cortos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "cherna",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez marino de hasta 3 m de longitud, con cabeza grande y aletas radiadas, su coloración oscila entre el pardo, el naranja y el rosado, con manchas y rayas de diferentes colores; es comestible.",
+      "consolidated_definition": ". Pez distinto del mero. .",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08407343253600542,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4204",
+        "semantic_similarity_score": 0.4204,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,19 +26,19 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "ERDMAN,",
+            "year": "1974"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "MAULEÓN,",
-            "year": "1974"
-          },
-          {
-            "source": "ERDMAN,",
             "year": "1974"
           },
           {
@@ -43,8 +46,8 @@
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -57,19 +60,25 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Cuba y Ven.).  Pez distinto del mero. (Serranus striatum; Epinephelus morio; striatus).",
-          "(Cuba, Ven. y Col.).  Pez. (Serranus striatum; Epinephelus morio; striatus).",
-          "Serranidae.  Epinephelus striatus. Se cría entre rocas y se pesca con cordel. “Tiene manchas como paño prietas y amariyosas.”"
+          ". Pez distinto del mero. .",
+          ". Pez. .",
+          "Serranidae. Epinephelus striatus. Se cría entre rocas y se pesca con cordel. “Tiene manchas como paño prietas y amariyosas.”",
+          "Pez, de la familia Seranidae . Epinephelus striatus.",
+          "Pez pequeño de mar que se usa para cebo de pescar. Pertenece a la familia de los meros. También dicen chesna.",
+          "Pez marino de hasta 3 m de longitud, con cabeza grande y aletas radiadas, su coloración oscila entre el pardo, el naranja y el rosado, con manchas y rayas de diferentes colores; es comestible. Serranidae; Epinephelus spp."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "El contrincante fácil de ganar o aquél que no es hábil en el juego.",
+      "consolidated_definition": "Pelele",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05263157894736842,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4306",
+        "semantic_similarity_score": 0.4306,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -86,12 +95,12 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "DE JESÚS MATEO,",
             "year": "1967"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
@@ -108,7 +117,7 @@
           "chernita"
         ],
         "reference_definitions": [
-          "(popular)  Pelele, individuo tonto, chehna.",
+          "Pelele, individuo tonto, chehna.",
           "El contrincante fácil de ganar o aquél que no es hábil en el juego.",
           "Persona fácil de vencer. También dicen chesnita o chejnita."
         ]
@@ -116,8 +125,8 @@
     }
   },
   "es_definitions": [
-    "Pez marino de hasta 3 m de longitud, con cabeza grande y aletas radiadas, su coloración oscila entre el pardo, el naranja y el rosado, con manchas y rayas de diferentes colores; es comestible.",
-    "El contrincante fácil de ganar o aquél que no es hábil en el juego."
+    ". Pez distinto del mero. .",
+    "Pelele"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

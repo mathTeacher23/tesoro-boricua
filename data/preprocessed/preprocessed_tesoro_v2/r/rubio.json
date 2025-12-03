@@ -3,12 +3,15 @@
   "term": "rubio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las peleas de gallos, gallo de color rojizo, que varía desde el rojo quemado hasta el rojo claro.",
+      "consolidated_definition": "Gallo de color rojizo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.25154715594223787,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7413",
+        "semantic_similarity_score": 0.7413,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1961"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1961"
           }
         ],
         "years": [
@@ -49,13 +52,14 @@
         "reference_definitions": [
           "Gallo de color rojizo, que varía desde el rojo quemado hasta el rojo claro.",
           "Dícese del gallo de pelea de color tabaco oscuro.",
-          "Gallo de plumas “color rojizo. Varía desde el rojo quemado oscuro hasta el rojo naranjo claro”. (CLJ, Memorias, p. 214). El rubio es gallo fino españo..."
+          "Gallo de plumas “color rojizo. Varía desde el rojo quemado oscuro hasta el rojo naranjo claro”. . El rubio es gallo fino español . El rubio es preferal, dice el informante de Trujillo Alto. Para otros es simplemente gallo de plumaje rojizo y negro.",
+          "En las peleas de gallos, gallo de color rojizo, que varía desde el rojo quemado hasta el rojo claro."
         ]
       }
     }
   },
   "es_definitions": [
-    "En las peleas de gallos, gallo de color rojizo, que varía desde el rojo quemado hasta el rojo claro."
+    "Gallo de color rojizo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

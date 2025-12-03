@@ -3,12 +3,15 @@
   "term": "nice",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona o cosa, bonita, buena, agradable.",
+      "consolidated_definition": "Se refiere a alguien que es agradable",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06859626088197517,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5571",
+        "semantic_similarity_score": 0.5571,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,16 @@
             "year": "1989"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -45,15 +48,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Se refiere a alguien que es agradable. Chévere. Lindo(a) Persona agradable.",
+          "Se refiere a alguien que es agradable. Chévere. Lindo Persona agradable.",
           "Agradable, amable, refinado, chévere.",
-          "Agradable, simpático. Se dice de la persona que tiene un comportamiento amable y educado. Anglicismo crudo, usual.\nEstoy contigo en tus comentarios, l..."
+          "Agradable, simpático. Se dice de la persona que tiene un comportamiento amable y educado. Anglicismo crudo, usual. Estoy contigo en tus comentarios, la mayoria de los fanaticos que seguimos a los Cariduros por todo Puerto Rico llevamos nuestras familias y tratamos de mantener un ambiente bien nice",
+          "Referido a persona o cosa, bonita, buena, agradable.",
+          "Referido a persona, simpática, amable."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona o cosa, bonita, buena, agradable."
+    "Se refiere a alguien que es agradable"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

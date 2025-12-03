@@ -3,12 +3,15 @@
   "term": "palaústre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Palustre.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Palustre",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6666666666666666,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -42,14 +45,14 @@
         "related_words": [],
         "reference_definitions": [
           "Palustre.",
-          "(general)  Palustre.",
+          "Palustre.",
           "Palustre."
         ]
       }
     }
   },
   "es_definitions": [
-    "Palustre."
+    "Palustre"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

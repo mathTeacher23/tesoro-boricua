@@ -3,12 +3,15 @@
   "term": "no dar un tajo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No trabajar, no dar un golpe.",
+      "consolidated_definition": "No trabajar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14374862909281486,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.5988",
+        "semantic_similarity_score": 0.5988,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -25,36 +28,36 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
+            "source": "CASIANO,",
+            "year": "1973"
           },
           {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "CASIANO,",
-            "year": "1973"
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
           }
         ],
         "years": [
@@ -70,15 +73,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "No trabajar, no dar un golpe. “¿Ese? Pero si ese no ha dado un tajo en su vida.” Pérez Lozada, La vida es ácida, 1925. (En Aragón, tajo significa trab...",
-          "(general)  No querer trabajar, holgazanear.",
-          "No hacer ningún trabajo."
+          "No trabajar, no dar un golpe. “¿Ese? Pero si ese no ha dado un tajo en su vida.” Pérez Lozada, La vida es ácida, 1925. .",
+          "No querer trabajar, holgazanear.",
+          "No hacer ningún trabajo.",
+          "No trabajar.",
+          "Holgazanear. No trabajar.",
+          "Ser vago consuetudinario. No trabajar.",
+          "Ser vago. No hacer nada, no servir para nada. Variante: no dar un tajo en defensa propia.",
+          "No trabajar, no dar un golpe.",
+          "‘Ser vago consuetudinario. No trabajar’, Maura. “¿Ése? Pero si ése no ha dado un tajo en su vida.” Pérez Lozada, La vida es ácida, 1925 ."
         ]
       }
     }
   },
   "es_definitions": [
-    "No trabajar, no dar un golpe."
+    "No trabajar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

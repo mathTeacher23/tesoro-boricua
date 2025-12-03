@@ -3,12 +3,15 @@
   "term": "vivir del mamey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vivir de buenas entradas o de un trabajo fácil.",
+      "consolidated_definition": "Vivir del presupuesto del Estado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19312770562770565,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6287",
+        "semantic_similarity_score": 0.6287,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "FERNÁNDEZ,",
+            "year": "1979"
           },
           {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
-            "source": "FERNÁNDEZ,",
-            "year": "1979"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -51,13 +54,14 @@
         "reference_definitions": [
           "Vivir del presupuesto del Estado.",
           "Vivir de un empleo público.",
-          "Vivir del cuento."
+          "Vivir del cuento.",
+          "Vivir de buenas entradas o de un trabajo fácil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Vivir de buenas entradas o de un trabajo fácil."
+    "Vivir del presupuesto del Estado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

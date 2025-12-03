@@ -3,12 +3,15 @@
   "term": "tubo de radio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por válvula, lámpara de radio.",
+      "consolidated_definition": "Por válvula",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4545454545454546,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7057",
+        "semantic_similarity_score": 0.7057,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Por válvula, lámpara de radio."
+    "Por válvula"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

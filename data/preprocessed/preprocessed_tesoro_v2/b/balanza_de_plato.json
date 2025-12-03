@@ -3,12 +3,15 @@
   "term": "balanza de plato",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una de las balanzas que se usan para pesar los gallos.",
+      "consolidated_definition": "Una de las balanzas que se usan para",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13793103448275862,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6971",
+        "semantic_similarity_score": 0.6971,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "2003"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "2003"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Una de las balanzas que se usan para pesar los gallos. Consiste de una esfera donde una aguja marca las unidades del peso del gallo colocado en un pla...",
+          "Una de las balanzas que se usan para pesar los gallos. Consiste de una esfera donde una aguja marca las unidades del peso del gallo colocado en un plato que pende de la esfera.",
           "Tipo de instrumento para pesar gallos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Una de las balanzas que se usan para pesar los gallos."
+    "Una de las balanzas que se usan para"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

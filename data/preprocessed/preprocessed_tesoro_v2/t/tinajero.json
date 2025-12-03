@@ -3,12 +3,15 @@
   "term": "tinajero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio donde se tienen las tinajas o cántaros, jarras y demás vasijas para servicio del agua potable.",
+      "consolidated_definition": ". Armario en que se pone la piedra de filtrar el agua potable, la tinaja que la recibe y el cántaro. Ac.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1664636365827264,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6668",
+        "semantic_similarity_score": 0.6668,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -31,16 +38,12 @@
             "year": "1948"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -53,15 +56,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba y Ven.).  Armario en que se pone la piedra de filtrar el agua potable, la tinaja que la recibe y el cántaro. Ac. (Úsase en Murcia. Ac.)",
+          ". Armario en que se pone la piedra de filtrar el agua potable, la tinaja que la recibe y el cántaro. Ac.",
           "Armario para las vasijas del agua.",
-          "(T. en Cuba, Ven. y Murcia).  Armario cuadrado, más alto que ancho, con paredes de rejilla, que tiene en su parte más alta una piedra de destilar sost..."
+          ". Armario cuadrado, más alto que ancho, con paredes de rejilla, que tiene en su parte más alta una piedra de destilar sostenida por sus bordes... debajo de ésta una vasija de barro, grande y de forma de tinaja achatada donde se recoge el agua destilada. Tanto en las islas como en Puerto Rico, la pila, destiladera o tinajero es cosa del pasado que va hoy desapareciendo.",
+          "Sitio donde se tienen las tinajas o cántaros, jarras y demás vasijas para servicio del agua potable.",
+          "Mur. Nic. y P. Rico. Sitio donde se tienen las tinajas, cántaros, jarras y demás vasijas para el servicio del agua potable."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sitio donde se tienen las tinajas o cántaros, jarras y demás vasijas para servicio del agua potable."
+    ". Armario en que se pone la piedra de filtrar el agua potable, la tinaja que la recibe y el cántaro. Ac."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

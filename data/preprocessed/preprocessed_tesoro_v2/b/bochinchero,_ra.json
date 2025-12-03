@@ -3,12 +3,15 @@
   "term": "bochinchero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, que promueve alborotos o participa en ellos.",
+      "consolidated_definition": "Alborotador",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02016088486676722,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.3801",
+        "semantic_similarity_score": 0.3801,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -49,13 +52,16 @@
         "reference_definitions": [
           "Alborotador, alterador del orden. Bochinchoso. Persona que arma escándalos o desórdenes; enredador.",
           "Que dice cosas que no debe decir.",
-          "Indiscreto, chismoso."
+          "Indiscreto, chismoso.",
+          "Referido a persona, que promueve alborotos o participa en ellos.",
+          "Persona chismosa.",
+          "Hablador."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, que promueve alborotos o participa en ellos."
+    "Alborotador"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

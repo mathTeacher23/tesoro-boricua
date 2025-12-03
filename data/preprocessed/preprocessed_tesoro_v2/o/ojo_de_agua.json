@@ -3,12 +3,15 @@
   "term": "ojo de agua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para la fuente natural en el campo se recogieron los nombres de manantial, nacimiento, ojo de agua, pozo.",
+      "consolidated_definition": "Para la fuente natural en el campo se",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13215488215488216,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6174",
+        "semantic_similarity_score": 0.6174,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -41,7 +44,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para la fuente natural en el campo se recogieron los nombres de manantial, nacimiento, ojo de agua, pozo. Otros como henchidero, furnia, ciénaga, no s...",
+          "Para la fuente natural en el campo se recogieron los nombres de manantial, nacimiento, ojo de agua, pozo. Otros como henchidero, furnia, ciénaga, no son necesariamente sinónimos.",
           "Manantial. Fuente natural de donde se abastecían los campesinos.",
           "Se llama por la ruralía al manantial con las voces nacimiento, pozo, ojo de agua."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Para la fuente natural en el campo se recogieron los nombres de manantial, nacimiento, ojo de agua, pozo."
+    "Para la fuente natural en el campo se"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

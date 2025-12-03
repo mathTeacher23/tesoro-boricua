@@ -3,12 +3,15 @@
   "term": "casquirroto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un gallo, que no tiene plumas en la cabeza por haber sufrido un golpe o una herida.",
+      "consolidated_definition": "Gallo que no tiene plumas en la cabeza",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.75,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9518",
+        "semantic_similarity_score": 0.9518,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Referido a un gallo, que no tiene plumas en la cabeza por haber sufrido un golpe o una herida."
+    "Gallo que no tiene plumas en la cabeza"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "trans fat",
   "superscripts": {
     "1": {
-      "consolidated_definition": "alim.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "alim",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "alim. Sustancia poco saludable que se produce por un proceso químico de hidrogenación de grasas. Anglicismo crudo, frecuente.\nLas fuentes comunes de t..."
+          "alim. Sustancia poco saludable que se produce por un proceso químico de hidrogenación de grasas. Anglicismo crudo, frecuente. Las fuentes comunes de trans fat en los establecimientos de comida son las siguientes: los alimentos fritos en aceite vegetal parcialmente hidrogenado, margarina y manteca vegetal, alimentos preparados tales como papas fritas, pollo frito, tacos y donas, pan de hamburger, masa de pizza, galletas y pies, e ingredientes pre-mixtos tales como las mezclas para pancakes y para el chocolate caliente"
         ]
       }
     }
   },
   "es_definitions": [
-    "alim."
+    "alim"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

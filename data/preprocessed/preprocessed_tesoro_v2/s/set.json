@@ -3,12 +3,15 @@
   "term": "set",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Batería de útiles o herramientas.",
+      "consolidated_definition": "Batería de útiles o herramientas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07318493863116289,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4792",
+        "semantic_similarity_score": 0.4792,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,19 +46,22 @@
           "setear"
         ],
         "reference_definitions": [
-          "Batería de útiles o herramientas.  Serie. Conjunto, juego.",
-          "Conjunto. Conjunto de elementos que comparten una propiedad o tienen un fin común. Anglicismo crudo, frecuente. DRAE 2001, del inglés.\nMi mai me consi...",
-          "dep. Conjunto de jugadas que componen cada una de las partes de un partido. Anglicismo crudo, frecuente. DRAE 2001: del inglés.\nAyer, en el primer set..."
+          "Batería de útiles o herramientas. Serie. Conjunto, juego.",
+          "Conjunto. Conjunto de elementos que comparten una propiedad o tienen un fin común. Anglicismo crudo, frecuente. DRAE 2001, del inglés. Mi mai me consiguió un set de comforter para la cama, tamaño king, bien suavecito/ sedosito, en $20",
+          "dep. Conjunto de jugadas que componen cada una de las partes de un partido. Anglicismo crudo, frecuente. DRAE 2001: del inglés. Ayer, en el primer set, Toa Baja estuvo batallando de cerca con las Indias, llegando a estar al frente 10-9 y a estar empate hasta 20-20 con un bloqueo de Brandy McGee"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "cin.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "cin",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -80,14 +86,14 @@
           "set visit"
         ],
         "reference_definitions": [
-          "cin. Plató. Escenario acondicionado para el rodaje de películas de cine o televisión. Anglicismo crudo, frecuente. DRAE 2001, del inglés.\n“Los últimos..."
+          "cin. Plató. Escenario acondicionado para el rodaje de películas de cine o televisión. Anglicismo crudo, frecuente. DRAE 2001, del inglés. “Los últimos 15 vuelos que he tomado han estado retrasados, pero una vez estoy en el set se me olvida todo”, comentó"
         ]
       }
     }
   },
   "es_definitions": [
-    "Batería de útiles o herramientas.",
-    "cin."
+    "Batería de útiles o herramientas",
+    "cin"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

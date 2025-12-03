@@ -3,12 +3,15 @@
   "term": "tocar el piano al revés",
   "superscripts": {
     "1": {
-      "consolidated_definition": "‘Sisar, hurtar.’ Malaret.",
+      "consolidated_definition": ". Sisar, hurtar.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16666666666666666,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5786",
+        "semantic_similarity_score": 0.5786,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,15 +50,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg. y Cuba).  Sisar, hurtar.",
+          ". Sisar, hurtar.",
           "Robar.",
-          "Robar."
+          "Robar.",
+          "‘Sisar, hurtar.’ Malaret."
         ]
       }
     }
   },
   "es_definitions": [
-    "‘Sisar, hurtar.’ Malaret."
+    ". Sisar, hurtar."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

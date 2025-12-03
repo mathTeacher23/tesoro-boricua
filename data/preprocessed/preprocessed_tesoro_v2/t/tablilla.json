@@ -3,12 +3,15 @@
   "term": "tablilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Matrícula de vehículo y chapa de metal que la exhibe.",
+      "consolidated_definition": "La placa con el número del vehículo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18745726495726495,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5939",
+        "semantic_similarity_score": 0.5939,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "HUYKE,",
+            "year": "1973"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,17 +51,22 @@
         "reference_definitions": [
           "La placa con el número del vehículo.",
           "Matrícula de vehículo y chapa de metal que la exhibe.",
-          "Matrícula (placa que llevan los vehículos)."
+          "Matrícula .",
+          "Matrícula de vehículo.",
+          "Chapa de metal que muestra la matrícula del vehículo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Anaquel de armario.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Anaquel de armario",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -87,8 +95,8 @@
     }
   },
   "es_definitions": [
-    "Matrícula de vehículo y chapa de metal que la exhibe.",
-    "Anaquel de armario."
+    "La placa con el número del vehículo",
+    "Anaquel de armario"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

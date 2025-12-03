@@ -3,12 +3,15 @@
   "term": "macetear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpear a alguien con una maceta o maza.",
+      "consolidated_definition": ". Golpear con la maceta o maza.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09202741702741703,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5193",
+        "semantic_similarity_score": 0.5193,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,19 +50,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg. y Col.).  Golpear con la maceta o maza.",
-          "Voz usada en otros países de Hispanoamérica.  Macanear.",
-          "Dar golpes a otro."
+          ". Golpear con la maceta o maza.",
+          "Voz usada en otros países de Hispanoamérica. Macanear.",
+          "Dar golpes a otro.",
+          "Golpear, dar una paliza a alguien.",
+          "Golpear a alguien con una maceta o maza."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Arreglar algún trabajo a conveniencia propia.",
+      "consolidated_definition": "Arreglar algún trabajo a conveniencia propia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.325,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5967",
+        "semantic_similarity_score": 0.5967,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -100,8 +108,8 @@
     }
   },
   "es_definitions": [
-    "Golpear a alguien con una maceta o maza.",
-    "Arreglar algún trabajo a conveniencia propia."
+    ". Golpear con la maceta o maza.",
+    "Arreglar algún trabajo a conveniencia propia"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

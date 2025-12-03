@@ -3,12 +3,15 @@
   "term": "esperma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vela de cera o de otra materia grasa.",
+      "consolidated_definition": "Cera líquida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5641",
+        "semantic_similarity_score": 0.5641,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Vela de cera o de otra materia grasa."
+    "Cera líquida"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

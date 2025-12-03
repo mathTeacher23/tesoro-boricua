@@ -3,12 +3,15 @@
   "term": "brochure",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Folleto o pequeña obra impresa de carácter informativo sobre un determinado tema.",
+      "consolidated_definition": "Catálogo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.043859649122807015,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5248",
+        "semantic_similarity_score": 0.5248,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,14 +45,14 @@
         "related_words": [],
         "reference_definitions": [
           "Catálogo, muestra, panfleto, folleto.",
-          "Folleto descriptivo. Breve publicación con fines publicitaros, o con información de carácter general. Anglicismo crudo, frecuente.\nHemos traído copias...",
+          "Folleto descriptivo. Breve publicación con fines publicitaros, o con información de carácter general. Anglicismo crudo, frecuente. Hemos traído copias de un brochure que resume las capacidades del prototipo",
           "Folleto o pequeña obra impresa de carácter informativo sobre un determinado tema."
         ]
       }
     }
   },
   "es_definitions": [
-    "Folleto o pequeña obra impresa de carácter informativo sobre un determinado tema."
+    "Catálogo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

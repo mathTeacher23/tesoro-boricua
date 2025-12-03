@@ -3,12 +3,15 @@
   "term": "viejera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosa vieja y en mal estado; escambray.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20712864251121044,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5747",
+        "semantic_similarity_score": 0.5747,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "PÉREZ SALA,",
@@ -35,14 +46,6 @@
           {
             "source": "SANTIAGO,",
             "year": "1974"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -56,15 +59,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (T. en Ven.).  Cualquier cosa despreciable por muy vieja. “Que eso es otro adefesio —y otra viejera.” Cintrón, Bombones de sal, 1910, p. 43.",
-          "(general)  Cosa vieja o en mal estado. También escambray.",
-          "Cosa vieja y en mal estado; escambray."
+          "vulg. . Cualquier cosa despreciable por muy vieja. “Que eso es otro adefesio —y otra viejera.” Cintrón, Bombones de sal, 1910, p. 43.",
+          "Cosa vieja o en mal estado. También escambray.",
+          "Cosa vieja y en mal estado; escambray.",
+          "Cosa vieja y en mal estado.",
+          "Ar. y Nav. P. Rico. Vejez, vejera.",
+          "Cosa vieja e inservible.",
+          "Cosa vieja e inservible."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cosa vieja y en mal estado; escambray."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

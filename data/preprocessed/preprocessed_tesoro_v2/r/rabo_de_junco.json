@@ -3,12 +3,15 @@
   "term": "rabo de junco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rabojunco.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Rabojunco",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -36,12 +39,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Se conserva el nombre de rabodejunco para la misma ave que Oviedo describía en los siguientes términos: “Unas aves hay blancas y muy grandes voladoras, y son mayores que palomas torcaces, y tienen la cola luenga y muy delgada, por lo cual se le dio el nombre que es dicho de rabo de junco.” Sumario, Rivadeneyra, XXII, 492.",
+      "consolidated_definition": "Se conserva el nombre de rabodejunco para la",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11826961728840057,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5856",
+        "semantic_similarity_score": 0.5856,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -54,16 +60,16 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "VICENTE MAURA,",
@@ -79,16 +85,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se conserva el nombre de rabodejunco para la misma ave que Oviedo describía en los siguientes términos: “Unas aves hay blancas y muy grandes voladoras...",
-          "Ave marina la cual en tiempo de barrunto vuela muy alto y sirve para anunciar las borrascas. Se conoce también como tijerilla. (Fregata magnificens ro...",
-          "Ave blanca, voladora, con patas largas y rabo delgado, que por lo regular aparece en tiempos de barrunto o de tormenta."
+          "Se conserva el nombre de rabodejunco para la misma ave que Oviedo describía en los siguientes términos: “Unas aves hay blancas y muy grandes voladoras, y son mayores que palomas torcaces, y tienen la cola luenga y muy delgada, por lo cual se le dio el nombre que es dicho de rabo de junco.” Sumario, Rivadeneyra, XXII, 492.",
+          "Ave marina la cual en tiempo de barrunto vuela muy alto y sirve para anunciar las borrascas. Se conoce también como tijerilla. .",
+          "Ave blanca, voladora, con patas largas y rabo delgado, que por lo regular aparece en tiempos de barrunto o de tormenta.",
+          "Ave marina, también llamada rabijunco, cuyo nombre es tijerilla. También rabo de ratón, tijereta."
         ]
       }
     }
   },
   "es_definitions": [
-    "Rabojunco.",
-    "Se conserva el nombre de rabodejunco para la misma ave que Oviedo describía en los siguientes términos: “Unas aves hay blancas y muy grandes voladoras, y son mayores que palomas torcaces, y tienen la cola luenga y muy delgada, por lo cual se le dio el nombre que es dicho de rabo de junco.” Sumario, Rivadeneyra, XXII, 492."
+    "Rabojunco",
+    "Se conserva el nombre de rabodejunco para la"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

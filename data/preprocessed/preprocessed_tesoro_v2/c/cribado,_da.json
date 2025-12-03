@@ -3,12 +3,15 @@
   "term": "cribado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, fastidiada.",
+      "consolidated_definition": "Jorobado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09999999999999999,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4988",
+        "semantic_similarity_score": 0.4988,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,13 +44,14 @@
         "reference_definitions": [
           "Jorobado.",
           "Fastidiado.",
-          "Referido a persona, fastidiada."
+          "Referido a persona, fastidiada.",
+          "Referido a persona, jorobada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, fastidiada."
+    "Jorobado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

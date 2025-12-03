@@ -3,12 +3,15 @@
   "term": "aburrición",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aburrimiento, tedio, fastidio.",
+      "consolidated_definition": "Aburrimiento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05833333333333333,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5477",
+        "semantic_similarity_score": 0.5477,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -53,13 +56,15 @@
         "reference_definitions": [
           "Aburrimiento. Aborrecimiento. Cansancio.",
           "Antipatía. Cierto odio.",
-          "Antipatía, cansancio."
+          "Antipatía, cansancio.",
+          "Aburrimiento.",
+          "Aburrimiento, tedio, fastidio."
         ]
       }
     }
   },
   "es_definitions": [
-    "Aburrimiento, tedio, fastidio."
+    "Aburrimiento"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

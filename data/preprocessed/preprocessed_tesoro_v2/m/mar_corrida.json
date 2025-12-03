@@ -3,12 +3,15 @@
   "term": "mar corrida",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las actividades marítimas, mar con olas muy seguidas.",
+      "consolidated_definition": "Olas muy seguidas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7325",
+        "semantic_similarity_score": 0.7325,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "En las actividades marítimas, mar con olas muy seguidas."
+    "Olas muy seguidas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

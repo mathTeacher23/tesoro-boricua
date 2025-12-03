@@ -3,12 +3,15 @@
   "term": "hato",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacienda de campo, generalmente destinada a la cría de toda clase de ganado, y principalmente del mayor.",
+      "consolidated_definition": "Criadero de ganado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20098039215686272,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.713",
+        "semantic_similarity_score": 0.713,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
             "year": "1788"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Hacienda de campo, generalmente destinada a la cría de toda clase de ganado, y principalmente del mayor."
+    "Criadero de ganado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

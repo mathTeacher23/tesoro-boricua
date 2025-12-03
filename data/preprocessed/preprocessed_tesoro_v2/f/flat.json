@@ -3,12 +3,15 @@
   "term": "flat",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a una superficie, plana, lisa.",
+      "consolidated_definition": "Plano",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03134191176470588,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5445",
+        "semantic_similarity_score": 0.5445,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,16 +23,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -41,14 +44,15 @@
         "related_words": [],
         "reference_definitions": [
           "Plano, liso. Relacionado con superficies.",
-          "Plano, llano. Sin depresiones o elevaciones. Aplicado a la ropa de cama, se dice de la sábana superior; también, a los zapatos sin tacón. Anglicismo c...",
-          "Sin crecimiento, plano. Cuenta o materia que no ha aumentado. Anglicismo crudo, poco frecuente.\nSi bien es cierto que en el año pasado, el crecimiento..."
+          "Plano, llano. Sin depresiones o elevaciones. Aplicado a la ropa de cama, se dice de la sábana superior; también, a los zapatos sin tacón. Anglicismo crudo, frecuente. Compuestos: flat panel, flat rate, flat screen, flat top, flatbed. Este televisor flat tiene una resolución de 1366 x 768 megapíxeles y un ángulo de visión de 178 grados, lo que le permite ser vista desde casi cualquier lugar que se mire",
+          "Sin crecimiento, plano. Cuenta o materia que no ha aumentado. Anglicismo crudo, poco frecuente. Si bien es cierto que en el año pasado, el crecimiento en la carga fue flat , la merma de 3.3% no es tan significativa",
+          "Referido a una superficie, plana, lisa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a una superficie, plana, lisa."
+    "Plano"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

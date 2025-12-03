@@ -3,12 +3,15 @@
   "term": "long distance",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llamada telefónica de larga distancia.",
+      "consolidated_definition": "Larga distancia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.4,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6612",
+        "semantic_similarity_score": 0.6612,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HUYKE,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Llamada telefónica de larga distancia."
+    "Larga distancia"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

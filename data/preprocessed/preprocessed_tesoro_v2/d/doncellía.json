@@ -3,12 +3,15 @@
   "term": "doncellía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Doncellería, doncellez.",
+      "consolidated_definition": "Doncellería",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06666666666666667,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5952",
+        "semantic_similarity_score": 0.5952,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Doncellería, doncellez."
+    "Doncellería"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

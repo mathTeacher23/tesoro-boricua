@@ -3,12 +3,15 @@
   "term": "junker",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio donde desguazan automóviles y otros vehículos para vender las piezas de recambio usadas.",
+      "consolidated_definition": "Sitio donde desguazan automóviles y otros vehículos para",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08097406169311143,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5725",
+        "semantic_similarity_score": 0.5725,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -41,8 +44,8 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -57,17 +60,22 @@
         "reference_definitions": [
           "Sitio donde desguazan automóviles y otros vehículos para vender las piezas de recambio usadas.",
           "Carro viejo.",
-          "El que vende piezas usadas de carros o chatarra."
+          "El que vende piezas usadas de carros o chatarra.",
+          "Lugar donde deshacen automóviles y otros vehículos para vender las piezas de recambio usadas. Neologismo anglicado, frecuente. Cerca había tres lugares que le fueron de gran utilidad: el junker de carros viejos , de donde poco a poco fue sacando las piezas con las que reconstruyó su motocicleta vieja; y el San Juan Intercontinental y el Holiday Inn, donde repartía periódicos en su motora",
+          "Vendedor de piezas usadas de vehículos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona en condiciones físicas y morales deplorables, drogadicto.",
+      "consolidated_definition": "Persona en condiciones físicas y morales deplorables",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1898148148148148,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.545",
+        "semantic_similarity_score": 0.545,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -105,8 +113,8 @@
     }
   },
   "es_definitions": [
-    "Sitio donde desguazan automóviles y otros vehículos para vender las piezas de recambio usadas.",
-    "Persona en condiciones físicas y morales deplorables, drogadicto."
+    "Sitio donde desguazan automóviles y otros vehículos para",
+    "Persona en condiciones físicas y morales deplorables"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

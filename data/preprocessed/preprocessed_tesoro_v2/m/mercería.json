@@ -3,12 +3,15 @@
   "term": "mercería",
   "superscripts": {
     "1": {
-      "consolidated_definition": ".",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Tienda donde solamente se venden paños, lienzos o tejidos.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -33,13 +36,13 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Perú).  Tienda donde solamente se venden paños, lienzos o tejidos."
+          ". Tienda donde solamente se venden paños, lienzos o tejidos."
         ]
       }
     }
   },
   "es_definitions": [
-    "."
+    ". Tienda donde solamente se venden paños, lienzos o tejidos."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

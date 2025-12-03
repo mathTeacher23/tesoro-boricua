@@ -3,12 +3,15 @@
   "term": "chorrero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La hilera de semillas, granos o cosas similares que va quedando en el suelo mientras son transportadas.",
+      "consolidated_definition": "La hilera de semillas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6842105263157895,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9299",
+        "semantic_similarity_score": 0.9299,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -44,12 +47,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Goteo, líquido que sale de una vasija.",
+      "consolidated_definition": "Líquido que sale de una vasija",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.75,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9692",
+        "semantic_similarity_score": 0.9692,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -62,12 +68,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -84,8 +90,8 @@
     }
   },
   "es_definitions": [
-    "La hilera de semillas, granos o cosas similares que va quedando en el suelo mientras son transportadas.",
-    "Goteo, líquido que sale de una vasija."
+    "La hilera de semillas",
+    "Líquido que sale de una vasija"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

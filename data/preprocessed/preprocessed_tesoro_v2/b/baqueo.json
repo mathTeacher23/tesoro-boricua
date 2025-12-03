@@ -3,12 +3,15 @@
   "term": "baqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Respaldo, garantía.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Respaldo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5999",
+        "semantic_similarity_score": 0.5999,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,14 +49,14 @@
         ],
         "reference_definitions": [
           "Respaldo. Garantía.",
-          "Apoyo. Respaldo económico o de otra naturaleza. Anglicismo adaptado, usual.\nSalgo a fiestas de vez en cuando, pero no estoy de party en party, ya que ...",
+          "Apoyo. Respaldo económico o de otra naturaleza. Anglicismo adaptado, usual. Salgo a fiestas de vez en cuando, pero no estoy de party en party, ya que se gasta en gasolina, comida, bebida y si no hay un baqueo a la hora de pagar me puedo descuadrar",
           "Respaldo, garantía."
         ]
       }
     }
   },
   "es_definitions": [
-    "Respaldo, garantía."
+    "Respaldo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "aviar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajo de cortar y mover de la finca a la hacienda sobre mulas, caballos o a hombros, los frutos de la finca .",
+      "consolidated_definition": "Recoger los frutos de una finca para llevarlos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20775315872896521,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5885",
+        "semantic_similarity_score": 0.5885,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -52,14 +55,16 @@
         ],
         "reference_definitions": [
           "Recoger los frutos de una finca para llevarlos al mercado.",
-          "Trabajo de cortar y mover de la finca a la hacienda sobre mulas, caballos o a hombros, los frutos de la finca (plátanos, y demás verduras o viandas).",
-          "Recoger los productos de la finca para uso de la casa."
+          "Trabajo de cortar y mover de la finca a la hacienda sobre mulas, caballos o a hombros, los frutos de la finca .",
+          "Recoger los productos de la finca para uso de la casa.",
+          "Aderezar, preparar, la comida. “Ahora avíale algo, que debe estar esmayaíto.” Agüero.",
+          "El acto de recoger los productos de la finca para el uso de la casa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Trabajo de cortar y mover de la finca a la hacienda sobre mulas, caballos o a hombros, los frutos de la finca ."
+    "Recoger los frutos de una finca para llevarlos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

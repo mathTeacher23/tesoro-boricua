@@ -3,12 +3,15 @@
   "term": "busconear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ganarse la vida con negocios pequeños o empleos de poca remuneración.",
+      "consolidated_definition": "Escudriñar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06084170172792464,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.4886",
+        "semantic_similarity_score": 0.4886,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -25,28 +28,28 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -61,17 +64,26 @@
         "reference_definitions": [
           "Escudriñar; huronear. “Los próceres del busconeo en vano intentarán dar sus picadas.” El Diluvio, núm. 687, p. 21, año 1936.",
           "Hacer dinero por arte de engaño, estafa o falsa mendicidad.",
-          "(general)  Ganarse la vida con negocios pequeños o empleos de poca remuneración."
+          "Ganarse la vida con negocios pequeños o empleos de poca remuneración.",
+          "Solicitar ocupaciones de poca monta.",
+          "Acción propia de buscones.",
+          "Ganarse la vida haciendo pequeños oficios o negocios.",
+          "Mendigar por vagancia.",
+          "Escudriñar alguien algo.",
+          "Ganarse alguien la vida con pequeños negocios de escasa remuneración."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Robar.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Robar",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -101,8 +113,8 @@
     }
   },
   "es_definitions": [
-    "Ganarse la vida con negocios pequeños o empleos de poca remuneración.",
-    "Robar."
+    "Escudriñar",
+    "Robar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

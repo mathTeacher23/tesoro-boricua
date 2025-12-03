@@ -3,12 +3,15 @@
   "term": "colegio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Centro o recinto universitario no autónomo.",
+      "consolidated_definition": "Centro o recinto universitario no autónomo, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.043069448132739274,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5384",
+        "semantic_similarity_score": 0.5384,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1995"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -42,14 +45,14 @@
         "related_words": [],
         "reference_definitions": [
           "Centro o recinto universitario no autónomo.",
-          "educ. Primer nivel de estudios universitarios de dos a cuatro años de duración. Desvío semántico, frecuente. DRAE 2001: establecimiento de enseñanza p...",
+          "educ. Primer nivel de estudios universitarios de dos a cuatro años de duración. Desvío semántico, frecuente. DRAE 2001: establecimiento de enseñanza para niños y jóvenes de uno u otro sexo. El Colegio Universitario de San Juan se creó con el propósito de ofrecer la oportunidad de obtener estudios postsecundarios a la población del área de San Juan, en especial, a aquellos en desventaja económica. El Colegio es una institución educativa que actualmente ofrece Bachilleratos y desde su fundación ha ofrecido Grados Asociados, Certificados y Cursos Cortos",
           "Universidad que no ofrece titulación superior."
         ]
       }
     }
   },
   "es_definitions": [
-    "Centro o recinto universitario no autónomo."
+    "Centro o recinto universitario no autónomo, relacionado con una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

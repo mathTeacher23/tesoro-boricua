@@ -3,12 +3,15 @@
   "term": "cotienero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alumno que falta a clase con mucha frecuencia.",
+      "consolidated_definition": "Persona que corta clase muy frecuentemente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6323",
+        "semantic_similarity_score": 0.6323,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Alumno que falta a clase con mucha frecuencia."
+    "Persona que corta clase muy frecuentemente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

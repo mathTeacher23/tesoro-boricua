@@ -3,12 +3,15 @@
   "term": "descarga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reprimenda, regaño.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Regaño",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8335",
+        "semantic_similarity_score": 0.8335,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,12 +47,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -74,14 +80,14 @@
           "descargar 2"
         ],
         "reference_definitions": [
-          "inform. Duplicación. Transferencia al ordenador personal de archivos electrónicos disponibles en un servidor de información. Desvío semántico, frecuen..."
+          "inform. Duplicación. Transferencia al ordenador personal de archivos electrónicos disponibles en un servidor de información. Desvío semántico, frecuente. DRAE 2001: acción y efecto de quitar la carga. Pero los estudios se están preparando para el día en que las mayores cadenas mayo download)ristas empiecen a ofrecer sus propios servicios de descarga de películas por internet"
         ]
       }
     }
   },
   "es_definitions": [
-    "Reprimenda, regaño.",
-    "inform."
+    "Regaño",
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

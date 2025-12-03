@@ -3,12 +3,15 @@
   "term": "macuquero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Taimado, zorrocloco, macuco.",
+      "consolidated_definition": "Taimado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5628",
+        "semantic_similarity_score": 0.5628,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,20 +23,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1961"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1961"
           }
         ],
         "years": [
@@ -47,13 +50,14 @@
         "reference_definitions": [
           "Taimado, zorrocloco, macuco.",
           "Zorrocloco, taimado.",
-          "Astuto. Ladino. Farfullero."
+          "Astuto. Ladino. Farfullero.",
+          "Ladino, astuto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Taimado, zorrocloco, macuco."
+    "Taimado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "dona",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pieza de repostería de masa esponjosa y frita, con forma de rosquilla y cubierta con azúcar glaseado o chocolate.",
+      "consolidated_definition": "Bollito o buñuelo en forma de rosca",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12847372082586445,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.5479",
+        "semantic_similarity_score": 0.5479,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,14 +24,6 @@
         ],
         "sources": [
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
-          },
-          {
-            "source": "PAGÁN GONZÁLEZ,",
-            "year": "1969"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
@@ -37,20 +32,28 @@
             "year": "1972"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "PAGÁN GONZÁLEZ,",
+            "year": "1969"
+          },
+          {
+            "source": "PÉREZ SALA,",
+            "year": "1968"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -68,13 +71,18 @@
         "reference_definitions": [
           "Bollito o buñuelo en forma de rosca.",
           "Buñuelo en forma de rosca.",
-          "Rosquitos dulces."
+          "Rosquitos dulces.",
+          "Buñuelo o bollito en forma de rosca.",
+          "Rosquillas de bizcocho.",
+          "Rosquilla.",
+          "alim. Pequeño bizcocho frito en forma de anilla. Desvío semántico, usual. DRAE 2001: mujer, regalo de bodas. El término productos de repostería significa cualquier confección o combinación de harina, azúcar u otros productos para producir, entre otros, bizcochos, pasteles, pastelillos dulces, donas, tartas, biscuits, bagels, croissants, danish y galletas, incluyendo galletas dulces y saladas",
+          "Pieza de repostería de masa esponjosa y frita, con forma de rosquilla y cubierta con azúcar glaseado o chocolate."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pieza de repostería de masa esponjosa y frita, con forma de rosquilla y cubierta con azúcar glaseado o chocolate."
+    "Bollito o buñuelo en forma de rosca"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "casar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acto de pactar las riñas y apuestas del deporte del gallo de pelea, según lo registra ya Alonso en su escena titulada La gallera, especie de manual del gallero insular.",
+      "consolidated_definition": ". Injertar.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07885501550457312,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.5118",
+        "semantic_similarity_score": 0.5118,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,12 +27,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -38,14 +49,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -61,15 +64,21 @@
           "descasar"
         ],
         "reference_definitions": [
-          "(T. en Ven.).  Injertar.",
-          "(T. en Cuba).  Convenir, pactar, apostar. “Y casamos la pelea —con cuatro pesos y medio.” Alonso, 1849, p. 90.",
-          "Concretar una pelea de gallos."
+          ". Injertar.",
+          ". Convenir, pactar, apostar. “Y casamos la pelea —con cuatro pesos y medio.” , p. 90.",
+          "Concretar una pelea de gallos.",
+          "Echar a pelear dos gallos con alguna apuesta de dinero o cosa de valor.",
+          "Determinar qué dos gallos han de pelear en su turno correspondiente.",
+          "Acto de pactar las riñas y apuestas del deporte del gallo de pelea, según lo registra ya Alonso en su escena titulada La gallera, especie de manual del gallero insular. También casar las postas.",
+          "Selección de dos gallos para concordancia de peso y otros acuerdos para que formen una pareja de contendientes.",
+          "En las peleas de gallos, seleccionar alguien dos gallos para formar una pareja de contendientes.",
+          "Entre galleros, pactar, convenir, concertar una pelea entre dos gallos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Acto de pactar las riñas y apuestas del deporte del gallo de pelea, según lo registra ya Alonso en su escena titulada La gallera, especie de manual del gallero insular."
+    ". Injertar."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "attachment",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Archivo que se envía a través del correo electrónico adjunto a un mensaje.",
+      "consolidated_definition": "inform",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12727272727272726,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5713",
+        "semantic_similarity_score": 0.5713,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
           "attach"
         ],
         "reference_definitions": [
-          "inform. Anejo, adjunto. Documento digitalizado o archivo que se añade a un correo electrónico u otro documento. Anglicismo crudo, usual.\nEsa página no...",
+          "inform. Anejo, adjunto. Documento digitalizado o archivo que se añade a un correo electrónico u otro documento. Anglicismo crudo, usual. Esa página no existe y en este e-mail hay un attachment ejecutable, o sea, el virus. Y como es de esperarse, penetra en Outlook y se riega como chisme usando su address book",
           "Archivo que se envía a través del correo electrónico adjunto a un mensaje."
         ]
       }
     }
   },
   "es_definitions": [
-    "Archivo que se envía a través del correo electrónico adjunto a un mensaje."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

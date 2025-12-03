@@ -3,12 +3,15 @@
   "term": "caja de agua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caja, por lo regular de cemento, donde se recoge el agua de lluvia en los campos.",
+      "consolidated_definition": "Caja",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3142857142857143,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8103",
+        "semantic_similarity_score": 0.8103,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Caja, por lo regular de cemento, donde se recoge el agua de lluvia en los campos. Puede estar bajo tierra al igual que el aljibe pero comúnmente está ...",
+          "Caja, por lo regular de cemento, donde se recoge el agua de lluvia en los campos. Puede estar bajo tierra al igual que el aljibe pero comúnmente está en una parte alta para que el agua baje por gravedad.",
           "Recipiente subterráneo, generalmente de cemento, donde se recoge el agua de lluvia en los campos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Caja, por lo regular de cemento, donde se recoge el agua de lluvia en los campos."
+    "Caja"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

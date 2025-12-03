@@ -3,12 +3,15 @@
   "term": "desconchuflado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fuera de orden.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Fuera de orden",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.401",
+        "semantic_similarity_score": 0.401,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -39,13 +42,14 @@
         "reference_definitions": [
           "Fuera de orden.",
           "Roto.",
-          "Estropeado."
+          "Estropeado.",
+          "Golpeado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fuera de orden."
+    "Fuera de orden"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

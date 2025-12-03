@@ -3,12 +3,15 @@
   "term": "cucurucú",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Canto del gallo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Onomatopeya",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.75,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8244",
+        "semantic_similarity_score": 0.8244,
+        "cluster_count": null,
         "grammar": [],
         "themes": [
           "GANADERÍA. ANIMALES DOMÉSTICOS."
@@ -18,12 +21,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -33,14 +36,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Onomatopeya.  Del canto del gallo.",
+          "Onomatopeya. Del canto del gallo.",
           "Canto del gallo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Canto del gallo."
+    "Onomatopeya"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

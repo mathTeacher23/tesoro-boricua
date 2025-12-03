@@ -3,12 +3,15 @@
   "term": "canallería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Canallada, perrería.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Canallada",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0474537037037037,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6311",
+        "semantic_similarity_score": 0.6311,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -41,7 +44,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Canallada, perrería. “Mire usted: En Paraíso pasaban muchas canallerías.” Zeno Gandía, Garduña, 1896, p. 133. “¡Qué canallería!” Rafael Gatell, Flor d...",
+          "Canallada, perrería. “Mire usted: En Paraíso pasaban muchas canallerías.” Zeno Gandía, , p. 133. “¡Qué canallería!” Rafael Gatell, Flor del cafeto, 1936, p. 231.",
           "Canayería. Voz usada en otros países de Hispanoamérica. Canallada.",
           "Canallada."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Canallada, perrería."
+    "Canallada"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

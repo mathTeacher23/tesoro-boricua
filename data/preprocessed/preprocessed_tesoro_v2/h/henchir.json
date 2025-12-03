@@ -3,12 +3,15 @@
   "term": "henchir",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llenar una vasija con agua u otro líquido.",
+      "consolidated_definition": "Llenar de agua",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.015580628803245436,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3581",
+        "semantic_similarity_score": 0.3581,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -20,16 +23,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -44,15 +47,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Llenar de agua. “ La joven campesina... que va a jenchil los calabazos al río.” Meléndez Muñoz, Lecturas, 1919, p. 24. Jenchir.",
-          "(jíbaro)  Henchir, llenar.",
-          "Llenar. Arcaísmo que sólo usan o recuerdan los sujetos muy ancianos. “Henchil el calabazo.”"
+          "Llenar de agua. “ La joven campesina... que va a jenchil los calabazos al río.” Meléndez Muñoz, , p. 24. Jenchir.",
+          "Henchir, llenar.",
+          "Llenar. Arcaísmo que sólo usan o recuerdan los sujetos muy ancianos. “Henchil el calabazo.”",
+          "Llenar una vasija con agua u otro líquido.",
+          "Fastidiar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Llenar una vasija con agua u otro líquido."
+    "Llenar de agua"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

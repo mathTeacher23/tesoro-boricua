@@ -3,12 +3,15 @@
   "term": "cosecho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosecha.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Cosecha",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.041666666666666664,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.528",
+        "semantic_similarity_score": 0.528,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cosecha. “Pero... ¡sembró! Su germen será fruto, —Y las flores que anuncian el cosecho —Servirán al tribuno de corona.” José G. Padilla, ¡Hasta mañana...",
+          "Cosecha. “Pero... ¡sembró! Su germen será fruto, —Y las flores que anuncian el cosecho —Servirán al tribuno de corona.” José G. Padilla, ¡Hasta mañana!",
           "Cosecha."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cosecha."
+    "Cosecha"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

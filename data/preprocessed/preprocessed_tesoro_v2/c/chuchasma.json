@@ -3,12 +3,15 @@
   "term": "chuchasma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Chusma o gentualla.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Chusma o gentualla",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6325",
+        "semantic_similarity_score": 0.6325,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Guasa, burla.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Guasa",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2113",
+        "semantic_similarity_score": 0.2113,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -75,15 +81,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Guasa, burla. “Conmigo no hay chuchasma.” González García, Carmela, 1925, p. 27.",
+          "Guasa, burla. “Conmigo no hay chuchasma.” González García, , p. 27.",
           "Mofa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Chusma o gentualla.",
-    "Guasa, burla."
+    "Chusma o gentualla",
+    "Guasa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

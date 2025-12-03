@@ -3,12 +3,15 @@
   "term": "enrubio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol de madera dura con la albura blanca y el corazón rojizo.",
+      "consolidated_definition": "Árbol de madera muy dura que tiene el",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14206349206349206,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3612",
+        "semantic_similarity_score": 0.3612,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Árbol de madera muy dura que tiene el corazón colorado. (Zantholylon lanceolatum; clavaherculis). Grosourdy, 2, 382.",
+          "Árbol de madera muy dura que tiene el corazón colorado. . Grosourdy, 2, 382.",
           "Árbol de madera dura con la albura blanca y el corazón rojizo. También dicen palo rubio, espino y mapurito.",
-          "Árbol de madera muy dura, de albura blanca y corazón rojizo."
+          "Árbol de madera muy dura, de albura blanca y corazón rojizo.",
+          "."
         ]
       }
     }
   },
   "es_definitions": [
-    "Árbol de madera dura con la albura blanca y el corazón rojizo."
+    "Árbol de madera muy dura que tiene el"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

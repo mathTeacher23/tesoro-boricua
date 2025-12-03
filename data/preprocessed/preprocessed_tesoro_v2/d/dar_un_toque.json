@@ -3,12 +3,15 @@
   "term": "dar un toque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dar un recordatorio para que la persona cumpla con un compromiso.",
+      "consolidated_definition": "Recordarle un asunto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14305555555555555,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6576",
+        "semantic_similarity_score": 0.6576,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -26,12 +29,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Recordarle un asunto, recomendarle algo.",
+          "Recordarle un asunto, recomendarle algo.",
           "Dar un recordatorio para que la persona cumpla con un compromiso.",
           "‘Recordarle un asunto, recomendarle algo.’ Del Rosario."
         ]
@@ -50,7 +53,7 @@
     }
   },
   "es_definitions": [
-    "Dar un recordatorio para que la persona cumpla con un compromiso."
+    "Recordarle un asunto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

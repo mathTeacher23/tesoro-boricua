@@ -3,12 +3,15 @@
   "term": "capitán",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez comestible, de mar, de carne muy apreciada aunque algo espinosa; de cuerpo ancho y plano, cabeza alargada de línea horizontal por debajo, y línea de 45 [grados] en la parte superior; de ojo pequeño y rojo; de escamas rojizas amarillentas pero más claras en el abdomen; con aleta dorsal larga y estrecha con mechones de espinas fuertes en los extremos, siendo más largo el anterior; de cola en C con picos largos.",
+      "consolidated_definition": "Pescado comestible de las costas de Puerto Rico, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.061004190739005044,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4139",
+        "semantic_similarity_score": 0.4139,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,15 +26,19 @@
         ],
         "sources": [
           {
+            "source": "CARRILLO,",
+            "year": "1974"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "ERDMAN,",
-            "year": "1974"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "CARRILLO,",
+            "source": "ERDMAN,",
             "year": "1974"
           },
           {
@@ -41,10 +48,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -56,19 +59,25 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Pescado comestible de las costas de Puerto Rico. Catalog, 52.",
-          "Existe un pez grande, de la familia Labridae, al que se le llama capitán (Lachnolaimus maximus).",
-          "Pez."
+          "Pescado comestible de las costas de Puerto Rico. Catalog, 52.",
+          "Existe un pez grande, de la familia Labridae, al que se le llama capitán .",
+          "Pez.",
+          "Pez. Labridae. Lachnolaimus maximus.",
+          "Pez comestible, de mar, de carne muy apreciada aunque algo espinosa; de cuerpo ancho y plano, cabeza alargada de línea horizontal por debajo, y línea de 45 en la parte superior; de ojo pequeño y rojo; de escamas rojizas amarillentas pero más claras en el abdomen; con aleta dorsal larga y estrecha con mechones de espinas fuertes en los extremos, siendo más largo el anterior; de cola en C con picos largos.",
+          "Pez de mar, de cuerpo ancho y plano, cabeza alargada de línea horizontal por debajo, ojo pequeño y rojo, escamas rojizas amarillentas, más claras en el abdomen, aleta dorsal larga y estrecha, con espinas fuertes en los extremos; su carne es muy apreciada. Labridae; Lachnolaimus maximus."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Jefe de camareros en un restaurante.",
+      "consolidated_definition": "Jefe de camareros en un restaurante",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -97,8 +106,8 @@
     }
   },
   "es_definitions": [
-    "Pez comestible, de mar, de carne muy apreciada aunque algo espinosa; de cuerpo ancho y plano, cabeza alargada de línea horizontal por debajo, y línea de 45 [grados] en la parte superior; de ojo pequeño y rojo; de escamas rojizas amarillentas pero más claras en el abdomen; con aleta dorsal larga y estrecha con mechones de espinas fuertes en los extremos, siendo más largo el anterior; de cola en C con picos largos.",
-    "Jefe de camareros en un restaurante."
+    "Pescado comestible de las costas de Puerto Rico, relacionado con una organización",
+    "Jefe de camareros en un restaurante"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

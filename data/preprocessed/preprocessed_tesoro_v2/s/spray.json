@@ -3,12 +3,15 @@
   "term": "spray",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Atomizador, aerosol.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Laca, relacionado con un mecanismo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.006897577081218534,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.2911",
+        "semantic_similarity_score": 0.2911,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -27,20 +30,20 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -54,14 +57,16 @@
         "related_words": [],
         "reference_definitions": [
           "Laca.",
-          "Atomizador.  Rociador a presión.",
-          "Laca para el pelo."
+          "Atomizador. Rociador a presión.",
+          "Laca para el pelo.",
+          "Rociador, aerosol.",
+          "Atomizador, aerosol. Envase con un dispositivo especial para pulverizar los líquidos; también, líquido contenido en él. Anglicismo crudo, usual. DRAE 2001, voz inglesa. Te aconsejo que cojas un cleaner de estos de spray y limpies el tuyo bien antes de comprar uno nuevo a ver si te resuelve...si no pues cámbialo"
         ]
       }
     }
   },
   "es_definitions": [
-    "Atomizador, aerosol."
+    "Laca, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "web editor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Editor de página. Programa diseñado para facilitar la creación de páginas de Internet. Anglicismo crudo, poco frecuente.\nEl usuario que instal..."
+          "inform. Editor de página. Programa diseñado para facilitar la creación de páginas de Internet. Anglicismo crudo, poco frecuente. El usuario que instale un lector de RSS podrá recibir directamente en él las noticias o cambios de aquellas webs que haya elegido para incluir en sus “feeds” con la ventaja de que será él el que controle totalmente la comunicación, es decir: no tiene que facilitar sus datos ni e-mail a nadie"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

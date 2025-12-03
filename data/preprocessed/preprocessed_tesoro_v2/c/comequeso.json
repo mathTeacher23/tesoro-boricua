@@ -3,12 +3,15 @@
   "term": "comequeso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alcahuete, tercero de una pareja de novios.",
+      "consolidated_definition": "Alcahuete",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07733516483516484,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5056",
+        "semantic_similarity_score": 0.5056,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -29,12 +32,12 @@
             "year": "1989"
           },
           {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
           }
         ],
         "years": [
@@ -49,13 +52,15 @@
         "reference_definitions": [
           "Alcahuete. Tercero entre una pareja de novios.",
           "Miedoso.",
-          "‘Alguien que está sobrando’. Claudio de la Torre."
+          "‘Alguien que está sobrando’. Claudio de la Torre.",
+          "Alcahuete, tercero de una pareja de novios.",
+          "Persona miedosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Alcahuete, tercero de una pareja de novios."
+    "Alcahuete"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

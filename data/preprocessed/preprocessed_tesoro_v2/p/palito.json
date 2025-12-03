@@ -3,12 +3,15 @@
   "term": "palito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trago de bebida alcohólica, especialmente de ron.",
+      "consolidated_definition": "Trago de licor",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2571428571428571,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4447",
+        "semantic_similarity_score": 0.4447,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -48,12 +51,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Para referirse a árboles todavía pequeños o arbustos de más reducida elevación.",
+      "consolidated_definition": "Para referirse a árboles todavía pequeños o arbustos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1875,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8212",
+        "semantic_similarity_score": 0.8212,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -68,12 +74,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -89,12 +95,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Cigarrillo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Cigarrillo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -124,12 +133,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Guardia universitaria.",
+      "consolidated_definition": "Guardia universitaria",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -157,12 +169,15 @@
       }
     },
     "5": {
-      "consolidated_definition": "En las peleas de gallos, cuña de madera para abrir la boca del gallo.",
+      "consolidated_definition": "Cuña de madera que se usa para abrir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.42857142857142855,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7099",
+        "semantic_similarity_score": 0.7099,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -178,12 +193,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -200,11 +215,11 @@
     }
   },
   "es_definitions": [
-    "Trago de bebida alcohólica, especialmente de ron.",
-    "Para referirse a árboles todavía pequeños o arbustos de más reducida elevación.",
-    "Cigarrillo.",
-    "Guardia universitaria.",
-    "En las peleas de gallos, cuña de madera para abrir la boca del gallo."
+    "Trago de licor",
+    "Para referirse a árboles todavía pequeños o arbustos",
+    "Cigarrillo",
+    "Guardia universitaria",
+    "Cuña de madera que se usa para abrir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

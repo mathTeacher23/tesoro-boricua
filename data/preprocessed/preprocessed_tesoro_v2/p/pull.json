@@ -3,12 +3,15 @@
   "term": "pull",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grupo de influencia.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Grupo de influencia, relacionado con un grupo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12903225806451613,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5123",
+        "semantic_similarity_score": 0.5123,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,14 +36,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Grupo de influencia. Medio de ejercer influencia y ventaja o personas que la ejercen. Anglicismo crudo, poco frecuente.\nAhora dos marcas gigantes —Sam...",
-          "Empuje. Situación o acto que propicia la ejecución o desarrollo de otros. Anglicismo crudo, frecuente.\nDijo que pensó que siendo senador tendría “sufi..."
+          "Grupo de influencia. Medio de ejercer influencia y ventaja o personas que la ejercen. Anglicismo crudo, poco frecuente. Ahora dos marcas gigantes —Samsung y Adidas— subieron la apuesta y crearon un pull de productos ad hoc",
+          "Empuje. Situación o acto que propicia la ejecución o desarrollo de otros. Anglicismo crudo, frecuente. Dijo que pensó que siendo senador tendría “suficiente pull” para ayudar a un joven que quería dejar las drogas"
         ]
       }
     }
   },
   "es_definitions": [
-    "Grupo de influencia."
+    "Grupo de influencia, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

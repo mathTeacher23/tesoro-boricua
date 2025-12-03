@@ -3,12 +3,15 @@
   "term": "cara de lechuga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que no tiene vergüenza.",
+      "consolidated_definition": "Carifresco",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18793650793650793,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4946",
+        "semantic_similarity_score": 0.4946,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,13 +48,16 @@
         "reference_definitions": [
           "Carifresco.",
           "Persona irresponsable.",
-          "Persona que no tiene vergüenza."
+          "Persona que no tiene vergüenza.",
+          "Persona descarada, atrevida.",
+          "Persona irresponsable.",
+          "Persona irreverente, desvergonzada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que no tiene vergüenza."
+    "Carifresco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

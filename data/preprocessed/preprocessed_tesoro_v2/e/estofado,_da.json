@@ -3,12 +3,15 @@
   "term": "estofado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, agotada por trabajo excesivo.",
+      "consolidated_definition": "Deshilachado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5467",
+        "semantic_similarity_score": 0.5467,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -46,13 +49,14 @@
         "reference_definitions": [
           "Deshilachado. Véase Dicc. Acad. estopa.",
           "Estar agotado por el trabajo excesivo.",
-          "Referido a persona, agotada por trabajo excesivo."
+          "Referido a persona, agotada por trabajo excesivo.",
+          "Referido a una tela, deshilachada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, agotada por trabajo excesivo."
+    "Deshilachado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

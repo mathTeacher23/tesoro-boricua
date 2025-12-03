@@ -3,12 +3,15 @@
   "term": "dar save",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -32,13 +35,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Guardar, almacenar. Mantener un documento para uso futuro marcando la función correspondiente de la computadora. Anglicismo híbrido, frecuente..."
+          "inform. Guardar, almacenar. Mantener un documento para uso futuro marcando la función correspondiente de la computadora. Anglicismo híbrido, frecuente. Gracias por la ayuda rompe, no necesito dar save solo abrir un doc cambiar unos detalles e imprimir; tengo una situación - me sale algo raro"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

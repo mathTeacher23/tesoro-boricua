@@ -3,12 +3,15 @@
   "term": "rosita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de mangó que se produce abundantemente en la zona oeste.",
+      "consolidated_definition": "Variedad de mangó que se produce abundantemente en",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6518",
+        "semantic_similarity_score": 0.6518,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "En las peleas de gallos, cresta del animal cuando se parece a un pequeño tomate.",
+      "consolidated_definition": "Cresta del gallo cuando es “como un tomatito”",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7689",
+        "semantic_similarity_score": 0.7689,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -60,12 +66,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -75,15 +81,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cresta del gallo cuando es “como un tomatito” (Coamo).",
+          "Cresta del gallo cuando es “como un tomatito” .",
           "En las peleas de gallos, cresta del animal cuando se parece a un pequeño tomate."
         ]
       }
     }
   },
   "es_definitions": [
-    "Variedad de mangó que se produce abundantemente en la zona oeste.",
-    "En las peleas de gallos, cresta del animal cuando se parece a un pequeño tomate."
+    "Variedad de mangó que se produce abundantemente en",
+    "Cresta del gallo cuando es “como un tomatito”"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "guayado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Borracho, rajao, bebido.",
+      "consolidated_definition": "Muy borracho",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.075,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6883",
+        "semantic_similarity_score": 0.6883,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -26,12 +29,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,15 +45,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Muy borracho.",
-          "(popular)  Borracho, rajao.",
-          "Borracho. Rayado."
+          "Muy borracho.",
+          "Borracho, rajao.",
+          "Borracho. Rayado.",
+          "Borracho, rajao, bebido."
         ]
       }
     }
   },
   "es_definitions": [
-    "Borracho, rajao, bebido."
+    "Muy borracho"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "dentistería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Consultorio del dentista.",
+      "consolidated_definition": "Cirujía dental",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11322580645161288,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5499",
+        "semantic_similarity_score": 0.5499,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -42,13 +45,15 @@
         "reference_definitions": [
           "Cirujía dental.",
           "Prótesis dental.",
-          "Clínica dental. “Si de ebanista se ha formado la voz ebanistería, ¿qué razón hay para que la profesión y el taller del dentista no puedan llamarse den..."
+          "Clínica dental. “Si de ebanista se ha formado la voz ebanistería, ¿qué razón hay para que la profesión y el taller del dentista no puedan llamarse dentistería?” - Roberto Restrepo.",
+          "Consultorio del dentista.",
+          "Cirugía dental."
         ]
       }
     }
   },
   "es_definitions": [
-    "Consultorio del dentista."
+    "Cirujía dental"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

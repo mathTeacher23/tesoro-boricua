@@ -3,12 +3,15 @@
   "term": "cuca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Galleta dulce y redonda que se elabora con harina de trigo y panela.",
+      "consolidated_definition": "Dulce de harina",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1884779730816316,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6163",
+        "semantic_similarity_score": 0.6163,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -47,14 +50,16 @@
         "related_words": [],
         "reference_definitions": [
           "Dulce de harina, huevo y azúcar.",
-          "(T. en Ven.).  Cierto bizcocho tostado. “Un secreto deseo hízola, desde entonces, despreciar los sabrosos besitos de coco y las cucas que tanto le gus...",
-          "Galleta dulce hecha con harina de trigo, azúcar y jenjibre."
+          ". Cierto bizcocho tostado. “Un secreto deseo hízola, desde entonces, despreciar los sabrosos besitos de coco y las cucas que tanto le gustaban.” Cadilla, Cuentos a , p. 62.",
+          "Galleta dulce hecha con harina de trigo, azúcar y jenjibre.",
+          "Galleta de harina, canela, huevos y azúcar.",
+          "Galleta dulce y redonda que se elabora con harina de trigo y panela."
         ]
       }
     }
   },
   "es_definitions": [
-    "Galleta dulce y redonda que se elabora con harina de trigo y panela."
+    "Dulce de harina"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

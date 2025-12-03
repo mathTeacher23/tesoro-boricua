@@ -3,12 +3,15 @@
   "term": "chivito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, encolerizada.",
+      "consolidated_definition": "Hombre colérico",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5095",
+        "semantic_similarity_score": 0.5095,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,19 +50,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Hombre colérico.",
+          "Hombre colérico.",
           "Con coraje.",
-          "Encolerizado."
+          "Encolerizado.",
+          "Referido a persona, encolerizada."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Enredo amoroso, secreto de mujeres.",
+      "consolidated_definition": "Trabajo corto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.512",
+        "semantic_similarity_score": 0.512,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -90,12 +97,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Cordero de menos de un año.",
+      "consolidated_definition": "Cordero de menos de un año",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -124,9 +134,9 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, encolerizada.",
-    "Enredo amoroso, secreto de mujeres.",
-    "Cordero de menos de un año."
+    "Hombre colérico",
+    "Trabajo corto",
+    "Cordero de menos de un año"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

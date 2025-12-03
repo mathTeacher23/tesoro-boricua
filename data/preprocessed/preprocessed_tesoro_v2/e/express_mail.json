@@ -3,12 +3,15 @@
   "term": "express mail",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Correo rápido o envío urgente.",
+      "consolidated_definition": "Correo rápido o envío urgente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14959349593495935,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5228",
+        "semantic_similarity_score": 0.5228,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,14 +47,14 @@
         "related_words": [],
         "reference_definitions": [
           "Correo rápido o envío urgente.",
-          "transp. Correo rápido, correo expreso. Servicio especial de correos más rápido que el usual. Anglicismo crudo, frecuente.\nDichas invitaciones fueron e...",
+          "transp. Correo rápido, correo expreso. Servicio especial de correos más rápido que el usual. Anglicismo crudo, frecuente. Dichas invitaciones fueron enviadas el 14 de febrero de 1995 por la Junta de Subastas de la Corporación a seis posibles proveedores por correo express mail",
           "Envío urgente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Correo rápido o envío urgente."
+    "Correo rápido o envío urgente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "maneco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Maneto.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Maneto",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.028999999999999998,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5476",
+        "semantic_similarity_score": 0.5476,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -26,12 +29,12 @@
             "year": "1937"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1961"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1961"
           }
         ],
         "years": [
@@ -43,14 +46,16 @@
         "related_words": [],
         "reference_definitions": [
           "Maneto.",
-          "vulg.  Maneco, ñoco.",
-          "(T. en Arg., Col. y Hond.).  Deforme de una o ambas manos. Ac."
+          "vulg. Maneco, ñoco.",
+          ". Deforme de una o ambas manos. Ac.",
+          "Ñoco. Derivado sinónimo de ñoco, por evidente cruce de “mano + ñoco”, mañeco, maneto, deforme de una o ambas manos.",
+          "Mañeto. Tuñeco."
         ]
       }
     }
   },
   "es_definitions": [
-    "Maneto."
+    "Maneto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "flamable",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inflamable.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Inflamable",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.012658227848101266,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5046",
+        "semantic_similarity_score": 0.5046,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -35,14 +38,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Inflamable. Que coge fuego con facilidad. En inglés americano se prefiere flammable a inflamable, porque el prefijo negativo puede causar confusión (O...",
+          "Inflamable. Que coge fuego con facilidad. En inglés americano se prefiere flammable a inflamable, porque el prefijo negativo puede causar confusión . Anglicismo adaptado, frecuente. La multa que hace varios meses se anunció como la más alta que impondría el gobierno de Puerto Rico por violación a sus normas ambientales, podría terminar mañana con un acuerdo entre la Junta de Calidad Ambiental y la empresa Millipore de Cidra, a la que se le imputa disponer durante 10 años como desperdicio no peligroso un material supuestamente flamable",
           "Inflamable."
         ]
       }
     }
   },
   "es_definitions": [
-    "Inflamable."
+    "Inflamable"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

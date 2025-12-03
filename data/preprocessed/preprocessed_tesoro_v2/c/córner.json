@@ -3,12 +3,15 @@
   "term": "córner",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. Saque de esquina. Lance del juego de fútbol en el que sale el balón del campo tras haber sido tocado en último lugar por un jugador del bando def..."
+          "dep. Saque de esquina. Lance del juego de fútbol en el que sale el balón del campo tras haber sido tocado en último lugar por un jugador del bando defensor. Anglicismo adaptado, poco frecuente. DRAE 2001, del inglés. El partido comenzó de cara para la visita cuando en el minuto 10 Nieves ejecuta un córner desde la banda izquierda y el defensor Pujols salta con las manos arriba y desvía el balón"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

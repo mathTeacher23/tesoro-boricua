@@ -3,12 +3,15 @@
   "term": "embuchado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indisposición intestinal acompañada de molestias estomacales.",
+      "consolidated_definition": ". Indisposición de vientre.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.327",
+        "semantic_similarity_score": 0.327,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -39,19 +42,22 @@
           "embuche"
         ],
         "reference_definitions": [
-          "(Cuba).  Indisposición de vientre.",
+          ". Indisposición de vientre.",
           "Ahitamiento, indigestión.",
           "Indisposición intestinal acompañada de molestias estomacales."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Se dice del gallo que no puede digerir sus alimentos y el buche permanece lleno.",
+      "consolidated_definition": "Se dice del gallo que no puede digerir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21165704410667296,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7486",
+        "semantic_similarity_score": 0.7486,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -65,16 +71,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -86,15 +92,15 @@
         "related_words": [],
         "reference_definitions": [
           "Se dice del gallo que no puede digerir sus alimentos y el buche permanece lleno.",
-          "Gallo que tiene dificultad para digerir los alimentos y los retiene en el buche. Para aliviarlo, hay que sacarle todo el maíz, pero es una operación m...",
+          "Gallo que tiene dificultad para digerir los alimentos y los retiene en el buche. Para aliviarlo, hay que sacarle todo el maíz, pero es una operación muy difícil pues se puede ahogar. Cuando sufre esta condición, se dice que tiene un embuche.",
           "Referido a un gallo, que no puede digerir nuevos alimentos porque su buche está lleno."
         ]
       }
     }
   },
   "es_definitions": [
-    "Indisposición intestinal acompañada de molestias estomacales.",
-    "Se dice del gallo que no puede digerir sus alimentos y el buche permanece lleno."
+    ". Indisposición de vientre.",
+    "Se dice del gallo que no puede digerir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "movida",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estrategia o maniobra que se realiza para llevar a cabo un asunto.",
+      "consolidated_definition": "Negocio o asunto ilícito",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04617272347535505,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5526",
+        "semantic_similarity_score": 0.5526,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -26,16 +29,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Negocio o asunto ilícito. Plan.",
           "Baile. Fiesta. Tipo de acción para conseguir algo.",
-          "Proyecto o asechanza artificiosa y oculta, dirigida regularmente a mal fin."
+          "Proyecto o asechanza artificiosa y oculta, dirigida regularmente a mal fin.",
+          "Estrategia o maniobra que se realiza para llevar a cabo un asunto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estrategia o maniobra que se realiza para llevar a cabo un asunto."
+    "Negocio o asunto ilícito"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

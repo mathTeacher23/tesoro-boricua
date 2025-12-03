@@ -3,12 +3,15 @@
   "term": "antiques",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Antigüedades.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dec",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4997",
+        "semantic_similarity_score": 0.4997,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino",
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -37,14 +40,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dec. Antigüedad. Objetos cuyo valor reside en haber sido hechos hace muchos años; también, color que los imita. En plural se usa como nombre de tienda...",
+          "dec. Antigüedad. Objetos cuyo valor reside en haber sido hechos hace muchos años; también, color que los imita. En plural se usa como nombre de tienda. Anglicismo crudo, frecuente. Este diseño de la casa Fossil combina el elemento de un metal antique en la cerradura con un estilo ultramoderno en el bolso",
           "Antigüedades."
         ]
       }
     }
   },
   "es_definitions": [
-    "Antigüedades."
+    "dec"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

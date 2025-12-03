@@ -3,12 +3,15 @@
   "term": "chillada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fricción causada entre las gomas de un automóvil y la brea de la carretera al dar una aceleración brusca.",
+      "consolidated_definition": "Salida repentina",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11614331723027375,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4647",
+        "semantic_similarity_score": 0.4647,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,13 +43,14 @@
         "reference_definitions": [
           "Salida repentina.",
           "Fricción causada entre la goma de un auto y la brea, al darse una fuerte aceleración.",
-          "Fricción causada entre las gomas de un automóvil y la brea de la carretera al dar una aceleración brusca."
+          "Fricción causada entre las gomas de un automóvil y la brea de la carretera al dar una aceleración brusca.",
+          "Salida repentina de alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fricción causada entre las gomas de un automóvil y la brea de la carretera al dar una aceleración brusca."
+    "Salida repentina"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "aventado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un alimento, próximo a pudrirse o podrido, maloliente.",
+      "consolidated_definition": "Podrido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.056666666666666664,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4103",
+        "semantic_similarity_score": 0.4103,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,6 +25,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
@@ -32,10 +39,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,17 +54,22 @@
         "reference_definitions": [
           "Podrido.",
           "Dícese de la carne próxima a pudrirse.",
-          "Inflado."
+          "Inflado.",
+          "Apestoso, podrido.",
+          "Referido a un alimento, próximo a pudrirse o podrido, maloliente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "El que se hace notar por ser muy hablador a destiempo, que tiene viento colao.",
+      "consolidated_definition": "Dícese de la persona presuntuosa, relacionado con una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11081402257872845,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5678",
+        "semantic_similarity_score": 0.5678,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -77,16 +85,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -99,14 +107,15 @@
         "reference_definitions": [
           "Dícese de la persona presuntuosa.",
           "El que se hace notar por ser muy hablador a destiempo, que tiene viento colao.",
-          "Referido a persona, entrometida."
+          "Referido a persona, entrometida.",
+          "Referido a persona, que se hace notar por hablar a destiempo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a un alimento, próximo a pudrirse o podrido, maloliente.",
-    "El que se hace notar por ser muy hablador a destiempo, que tiene viento colao."
+    "Podrido",
+    "Dícese de la persona presuntuosa, relacionado con una calificación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

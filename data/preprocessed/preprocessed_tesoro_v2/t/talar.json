@@ -3,12 +3,15 @@
   "term": "talar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dedicar un pedazo de tierra a la siembra y cultivo de frutos menores y hortalizas; hacer talas o huertos.",
+      "consolidated_definition": "Dedicar un pedazo de tierra a la siembra",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11013666146307532,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4687",
+        "semantic_similarity_score": 0.4687,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           },
           {
             "source": "VICENTE MAURA,",
@@ -36,14 +47,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -61,17 +64,24 @@
         "reference_definitions": [
           "Dedicar un pedazo de tierra a la siembra y cultivo de frutos menores y hortalizas; hacer talas o huertos.",
           "Desyerbar con el machete para luego de eliminada la basura proceder a arar el terreno.",
-          "Desyerbar con machete y garabato."
+          "Desyerbar con machete y garabato.",
+          "Desyerbar con el machete en preparación de la tierra para el arado y la siembra.",
+          "Rozar. También arar, limpiar, desyerbar.",
+          "Desyerbar.",
+          "Dedicar alguien un pedazo de tierra a la siembra y cultivo de frutos menores y hortalizas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dominar o vencer aplastantemente una persona a alguien.",
+      "consolidated_definition": "Terminar un asunto abruptamente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.040079365079365076,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4499",
+        "semantic_similarity_score": 0.4499,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -83,16 +93,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -107,14 +117,17 @@
         "reference_definitions": [
           "Terminar un asunto abruptamente.",
           "Realizar algo descuidadamente.",
-          "Dominar o vencer apabulladamente."
+          "Dominar o vencer apabulladamente.",
+          "Hacer algo bien. Hacer algo rápido y fácil.",
+          "Salir bien.",
+          "Dominar o vencer aplastantemente una persona a alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dedicar un pedazo de tierra a la siembra y cultivo de frutos menores y hortalizas; hacer talas o huertos.",
-    "Dominar o vencer aplastantemente una persona a alguien."
+    "Dedicar un pedazo de tierra a la siembra",
+    "Terminar un asunto abruptamente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

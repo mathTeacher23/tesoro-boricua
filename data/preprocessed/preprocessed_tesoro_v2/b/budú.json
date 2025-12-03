@@ -3,12 +3,15 @@
   "term": "budú",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fiesta o ritos religiosos de los negros.",
+      "consolidated_definition": "Fiesta o ritos religiosos de los negros",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09722222222222221,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5324",
+        "semantic_similarity_score": 0.5324,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -38,13 +41,14 @@
         "reference_definitions": [
           "Fiesta o ritos religiosos de los negros.",
           "Magia negra.",
-          "Brujería."
+          "Brujería.",
+          "Magia negra, brujería."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fiesta o ritos religiosos de los negros."
+    "Fiesta o ritos religiosos de los negros"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

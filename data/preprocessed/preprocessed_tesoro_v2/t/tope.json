@@ -3,12 +3,15 @@
   "term": "tope",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Superficie superior generalmente plana de un mueble, cima o parte superior de cualquier cosa.",
+      "consolidated_definition": "Superficie de una mesa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1721174875021138,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5777",
+        "semantic_similarity_score": 0.5777,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,8 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -39,8 +38,12 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VAQUERO,",
+            "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -55,13 +58,17 @@
         "reference_definitions": [
           "Superficie de una mesa.",
           "Parte superior de la mesa.",
-          "Mostrador, tapa. Tope de la cocina, tope de mármol."
+          "Mostrador, tapa. Tope de la cocina, tope de mármol.",
+          "Cima. Tope de la mesa, tope de la montaña.",
+          "Superficie superior generalmente plana de un mueble, cima o parte superior de cualquier cosa. Desvío semántico, usual. DRAE 2001: extremo o límite al que puede llegar algo . Le sigue una mesa rectangular con mantel de seda brocado con hilos dorados, tope en espejo, rosas en diferentes degradaciones de rosado, mientras que las otomanas están vestidas con flecos y borlas",
+          "Superficie de algo, especialmente de una mesa.",
+          "Cima de una montaña."
         ]
       }
     }
   },
   "es_definitions": [
-    "Superficie superior generalmente plana de un mueble, cima o parte superior de cualquier cosa."
+    "Superficie de una mesa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

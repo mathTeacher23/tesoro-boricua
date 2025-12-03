@@ -3,12 +3,15 @@
   "term": "moto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona adicta a los cigarrillos de marihuana.",
+      "consolidated_definition": "El fumador de cigarrillos de marihuana",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.26413308913308914,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.8556",
+        "semantic_similarity_score": 0.8556,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "El fumador de cigarrillos de marihuana.",
           "Persona adicta a los cigarrillos de marihuana.",
-          "Cigarrillo de marihuana. Marihuana. Otro tipo de sustancia usada por los delincuentes."
+          "Cigarrillo de marihuana. Marihuana. Otro tipo de sustancia usada por los delincuentes.",
+          "Cigarrillo de marihuana."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona adicta a los cigarrillos de marihuana."
+    "El fumador de cigarrillos de marihuana"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

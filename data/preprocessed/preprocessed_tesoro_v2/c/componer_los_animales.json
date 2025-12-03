@@ -3,12 +3,15 @@
   "term": "componer los animales",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Al oscurecer, amarrar los animales que están a soga en una comedura donde abunde el pasto para que coman durante la noche.",
+      "consolidated_definition": "Al oscurecer",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2903225806451613,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7662",
+        "semantic_similarity_score": 0.7662,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Al oscurecer, amarrar los animales que están a soga en una comedura donde abunde el pasto para que coman durante la noche."
+    "Al oscurecer"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

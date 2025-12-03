@@ -3,12 +3,15 @@
   "term": "rajarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -32,17 +35,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (T. en C. Rica).  Gastar uno mucho dinero, especialmente en fiestas y obsequios. “Yo voy a regalarle la invitación, pero mire que va a tener qu..."
+          "vulg. . Gastar uno mucho dinero, especialmente en fiestas y obsequios. “Yo voy a regalarle la invitación, pero mire que va a tener que romperse. —¿Romperme yo? eso es poco; yo me rajo como un forro de catre.” Pérez Lozada, La vida es ácida, 1925, Acto 2., esc. . ."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Emborracharse, jenderse.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1179443173150267,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6423",
+        "semantic_similarity_score": 0.6423,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -56,20 +62,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "ACEVEDO DE D’AURIA,",
+            "year": "1971"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "ACEVEDO DE D’AURIA,",
-            "year": "1971"
-          },
-          {
             "source": "FERNÁNDEZ,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -86,19 +92,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Emborracharse.",
-          "(general) Emborracharse. También guayarse, jenderse.",
-          "Emborracharse, jenderse."
+          "vulg. Emborracharse.",
+          "Emborracharse. También guayarse, jenderse.",
+          "Emborracharse, jenderse.",
+          "Emborracharse.",
+          "Emborracharse. Sinónimos guarapearse, jenderse, rascarse, montarse en la burra, coger una turca, tener el coco prendío, rajarse como una patilla."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Quedarse sin trabajo.",
+      "consolidated_definition": "Quedarse sin trabajo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -127,12 +138,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Desistir de hacer algo ya convenido con un grupo de amigos.",
+      "consolidated_definition": "Desistir de hacer algo ya convenido con un, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.043478260869565216,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3343",
+        "semantic_similarity_score": 0.3343,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -148,12 +162,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -171,10 +185,10 @@
     }
   },
   "es_definitions": [
-    "vulg.",
-    "Emborracharse, jenderse.",
-    "Quedarse sin trabajo.",
-    "Desistir de hacer algo ya convenido con un grupo de amigos."
+    "vulg",
+    "vulg",
+    "Quedarse sin trabajo",
+    "Desistir de hacer algo ya convenido con un, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

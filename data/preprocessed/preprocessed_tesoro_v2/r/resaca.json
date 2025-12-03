@@ -3,12 +3,15 @@
   "term": "resaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Recogida de los últimos frutos de una cosecha.",
+      "consolidated_definition": "Recogida de los últimos frutos de una cosecha",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4545454545454546,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7601",
+        "semantic_similarity_score": 0.7601,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -40,17 +43,21 @@
         "reference_definitions": [
           "Recogida de los últimos frutos de una cosecha.",
           "Selección de frutos por su calidad.",
-          "Recogida de los últimos frutos de una cosecha."
+          "Recogida de los últimos frutos de una cosecha.",
+          "Selección de frutos por su calidad."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ir y venir de las olas en la orilla.",
+      "consolidated_definition": "Ir y venir de las olas en la",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07142857142857142,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6112",
+        "semantic_similarity_score": 0.6112,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -84,12 +91,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Paliza grande.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Paliza grande",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -118,9 +128,9 @@
     }
   },
   "es_definitions": [
-    "Recogida de los últimos frutos de una cosecha.",
-    "Ir y venir de las olas en la orilla.",
-    "Paliza grande."
+    "Recogida de los últimos frutos de una cosecha",
+    "Ir y venir de las olas en la",
+    "Paliza grande"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

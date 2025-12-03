@@ -3,12 +3,15 @@
   "term": "cojo, ja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de la persona que tiene una pierna más larga que la otra, o del que por alguna razón tiene movimiento dsesacompasado de piernas, o del que sólo tiene una.",
+      "consolidated_definition": "Se llama cojo al que tiene alguna pierna",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12351133500558788,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6171",
+        "semantic_similarity_score": 0.6171,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,6 +25,18 @@
         ],
         "sources": [
           {
+            "source": "CARRILLO,",
+            "year": "1974"
+          },
+          {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
+          },
+          {
+            "source": "DE JESÚS MATEO,",
+            "year": "1967"
+          },
+          {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
           },
@@ -30,20 +45,8 @@
             "year": "1964"
           },
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1966"
-          },
-          {
-            "source": "DE JESÚS MATEO,",
-            "year": "1967"
-          },
-          {
-            "source": "CARRILLO,",
-            "year": "1974"
           }
         ],
         "years": [
@@ -57,14 +60,17 @@
         "related_words": [],
         "reference_definitions": [
           "Se llama cojo al que tiene alguna pierna defectuosa.",
-          "Persona que cojea […] si le falta una pierna o “una pieza de la pierna”. También ñoco, broco, tuco, soco, manco de pierna.",
-          "El que padece cierto defecto físico."
+          "Persona que cojea si le falta una pierna o “una pieza de la pierna”. También ñoco, broco, tuco, soco, manco de pierna.",
+          "El que padece cierto defecto físico.",
+          "Todo el que cojea teniendo las dos piernas.",
+          "Se dice de la persona que tiene una pierna más larga que la otra, o del que por alguna razón tiene movimiento dsesacompasado de piernas, o del que sólo tiene una.",
+          "Se dice del que no tiene una pierna o la tiene inútil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se dice de la persona que tiene una pierna más larga que la otra, o del que por alguna razón tiene movimiento dsesacompasado de piernas, o del que sólo tiene una."
+    "Se llama cojo al que tiene alguna pierna"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

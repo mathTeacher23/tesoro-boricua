@@ -3,12 +3,15 @@
   "term": "abacorar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arrinconar una persona a alguien en un sitio del que no tiene escapatoria.",
+      "consolidated_definition": "Acosar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08827526332170295,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5103",
+        "semantic_similarity_score": 0.5103,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,13 +46,16 @@
         "reference_definitions": [
           "Acosar.",
           "Atosigar de trabajo.",
-          "Mortificar a alguien por insistencia en un asunto."
+          "Mortificar a alguien por insistencia en un asunto.",
+          "Acosar, hostigar, importunar una persona a alguien por un asunto determinado.",
+          "Arrinconar una persona a alguien en un sitio del que no tiene escapatoria.",
+          "Agobiar de trabajo una persona a alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Arrinconar una persona a alguien en un sitio del que no tiene escapatoria."
+    "Acosar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

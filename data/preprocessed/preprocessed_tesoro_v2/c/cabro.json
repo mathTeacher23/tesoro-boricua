@@ -3,12 +3,15 @@
   "term": "cabro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombre sensual, ágil, listo, astuto.",
+      "consolidated_definition": "Astuto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027777777777777776,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3856",
+        "semantic_similarity_score": 0.3856,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
           }
         ],
         "years": [
@@ -42,19 +45,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Astuto, listo.",
+          "Astuto, listo.",
           "Hombre sensual.",
-          "Hombre sensual, ágil, listo, astuto."
+          "Hombre sensual, ágil, listo, astuto.",
+          "Impertinente. Chavón."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Macho cabrío.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Cabrón, cabrío. Cabro, por macho cabrío, lo usó Lope de Vega.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10526315789473684,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7548",
+        "semantic_similarity_score": 0.7548,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,18 +89,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Am. Cen., Col., Chile y Ven.).  Cabrón, cabrío. Cabro, por macho cabrío, lo usó Lope de Vega.",
+          ". Cabrón, cabrío. Cabro, por macho cabrío, lo usó Lope de Vega.",
           "Macho cabrío."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Limón agrio, con la cáscara muy arrugada y de mayor tamaño que el común.",
+      "consolidated_definition": "Limón agrio más grande que el común y",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3684210526315789,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9011",
+        "semantic_similarity_score": 0.9011,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -108,12 +118,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -129,12 +139,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Homosexual.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Homosexual",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "masculino"
         ],
@@ -162,10 +175,10 @@
     }
   },
   "es_definitions": [
-    "Hombre sensual, ágil, listo, astuto.",
-    "Macho cabrío.",
-    "Limón agrio, con la cáscara muy arrugada y de mayor tamaño que el común.",
-    "Homosexual."
+    "Astuto",
+    ". Cabrón, cabrío. Cabro, por macho cabrío, lo usó Lope de Vega.",
+    "Limón agrio más grande que el común y",
+    "Homosexual"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

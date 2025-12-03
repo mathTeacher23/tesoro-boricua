@@ -3,12 +3,15 @@
   "term": "ñeñe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, retardada mental.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027777777777777776,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3985",
+        "semantic_similarity_score": 0.3985,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,19 +47,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Mongo, bobo.",
+          "vulg. Mongo, bobo.",
           "Retardado mental.",
-          "Torpe, de poca inteligencia."
+          "Torpe, de poca inteligencia.",
+          "Referido a persona, retardada mental."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona, aniñada.",
+      "consolidated_definition": "Referido a persona",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -84,8 +91,8 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, retardada mental.",
-    "Referido a persona, aniñada."
+    "vulg",
+    "Referido a persona"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

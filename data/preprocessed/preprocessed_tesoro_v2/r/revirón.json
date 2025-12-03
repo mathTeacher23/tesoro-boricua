@@ -3,12 +3,15 @@
   "term": "revirón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3448275862068966,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6074",
+        "semantic_similarity_score": 0.6074,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -38,14 +41,14 @@
           "revirar"
         ],
         "reference_definitions": [
-          "vulg.  (T. en Am. Cen. y Cuba).  Acción y efecto de revirarse. Ac. “Han visto que en la jugada —no hay lugar a un revirón.” Cintrón, Bombones de sal, ...",
-          "(T. en Am. Cen. y Cuba).  Acción y efecto de revirarse."
+          "vulg. . Acción y efecto de revirarse. Ac. “Han visto que en la jugada —no hay lugar a un revirón.” Cintrón, Bombones de sal, 1910, p. 76.",
+          ". Acción y efecto de revirarse."
         ]
       }
     }
   },
   "es_definitions": [
-    "vulg."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

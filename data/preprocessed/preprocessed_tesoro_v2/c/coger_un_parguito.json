@@ -3,12 +3,15 @@
   "term": "coger un parguito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Las prostitutas le llaman al acto de salir a la caza del cliente.",
+      "consolidated_definition": "Las prostitutas le llaman al acto de salir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11764705882352941,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6749",
+        "semantic_similarity_score": 0.6749,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Las prostitutas le llaman al acto de salir a la caza del cliente."
+    "Las prostitutas le llaman al acto de salir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

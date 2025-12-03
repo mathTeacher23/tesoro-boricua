@@ -3,12 +3,15 @@
   "term": "perder la soga y la cabra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Perder alguien todo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Dicho",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.686",
+        "semantic_similarity_score": 0.686,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "SOLER,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "SOLER,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -35,14 +38,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dicho.  Perderlo todo.",
+          "Dicho. Perderlo todo.",
           "Perder alguien todo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Perder alguien todo."
+    "Dicho"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

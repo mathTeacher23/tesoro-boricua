@@ -3,12 +3,15 @@
   "term": "banano",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Banana. Ac. “Y en medio de su imperio soberano, —el rústico banano —pródigo en fruto su abanico tiende.” J. E. Comas Pagán, . .",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3414",
+        "semantic_similarity_score": 0.3414,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
           "bananero"
         ],
         "reference_definitions": [
-          "(Am.).  Banana. Ac. “Y en medio de  su imperio soberano, —el rústico banano —pródigo en fruto su abanico tiende.” J. E. Comas Pagán, Puerto Rico, 1904...",
+          ". Banana. Ac. “Y en medio de su imperio soberano, —el rústico banano —pródigo en fruto su abanico tiende.” J. E. Comas Pagán, . .",
           "Planta."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta."
+    ". Banana. Ac. “Y en medio de su imperio soberano, —el rústico banano —pródigo en fruto su abanico tiende.” J. E. Comas Pagán, . ."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

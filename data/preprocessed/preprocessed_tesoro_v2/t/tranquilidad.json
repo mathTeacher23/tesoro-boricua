@@ -3,12 +3,15 @@
   "term": "tranquilidad",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Amistad.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0625,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5436",
+        "semantic_similarity_score": 0.5436,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Amistad. Úsase en forma negativa. “No tener tranquilidad con una persona.”",
-          "(jíbaro)  Amistad. Poco usada hoy."
+          "vulg. Amistad. Úsase en forma negativa. “No tener tranquilidad con una persona.”",
+          "Amistad. Poco usada hoy."
         ]
       }
     }
   },
   "es_definitions": [
-    "Amistad."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

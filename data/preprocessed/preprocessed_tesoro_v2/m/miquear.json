@@ -3,12 +3,15 @@
   "term": "miquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Perder el tiempo en el trabajo por vagancia.",
+      "consolidated_definition": "No estudiar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02208994708994709,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.3513",
+        "semantic_similarity_score": 0.3513,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -27,20 +30,20 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -52,15 +55,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  No estudiar, vaguear.  (Voz de estudiantes.)",
+          "No estudiar, vaguear.",
           "Dar mico.",
-          "Copiarse en un examen."
+          "Copiarse en un examen.",
+          "Tontear.",
+          "Consumir y no pagar.",
+          "Perder el tiempo en el trabajo por vagancia.",
+          "Actitud de ocio. Algo fácil de hacer. Coger todo a vacilón. Coger las cosas con calma. Vacilar. Vaguear.",
+          "Perder alguien el tiempo.",
+          "No estudiar alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Perder el tiempo en el trabajo por vagancia."
+    "No estudiar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "corteza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El sujeto de Tomás de Castro dió el nombre de corteza, insistiendo conscientemente en que se refería a “lo de entro e la piña”.",
+      "consolidated_definition": "La corteza recia y fibrosa que envuelve a",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18757767432277236,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6515",
+        "semantic_similarity_score": 0.6515,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1966"
-          },
-          {
-            "source": "LAUREANO ORTEGA,",
-            "year": "1969"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "LAUREANO ORTEGA,",
+            "year": "1969"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1966"
           }
         ],
         "years": [
@@ -51,15 +54,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "La corteza recia y fibrosa que envuelve a la nuez del coco [...]  corteza, Magueyes.",
+          "La corteza recia y fibrosa que envuelve a la nuez del coco corteza, Magueyes.",
           "El sujeto de Tomás de Castro dió el nombre de corteza, insistiendo conscientemente en que se refería a “lo de entro e la piña”.",
-          "La envoltura del coco. También casco, cachaza, gaspacho."
+          "La envoltura del coco. También casco, cachaza, gaspacho.",
+          "Envoltura del coco. También cachipa, gaspacho, pelusa, cascara, pajuncia.",
+          "La envoltura del coco. También casco.",
+          "Cáscara recia y fibrosa que envuelve la nuez del coco."
         ]
       }
     }
   },
   "es_definitions": [
-    "El sujeto de Tomás de Castro dió el nombre de corteza, insistiendo conscientemente en que se refería a “lo de entro e la piña”."
+    "La corteza recia y fibrosa que envuelve a"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

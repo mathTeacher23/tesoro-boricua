@@ -3,12 +3,15 @@
   "term": "d",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Calificación académica que corresponde a desaprobado o suspenso.",
+      "consolidated_definition": "educ, relacionado con un símbolo o una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.057527527527527524,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4906",
+        "semantic_similarity_score": 0.4906,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,15 +39,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "educ. Símbolo de la calificación recibida en un curso, examen o cualquier otro tipo de trabajo cuyo valor en términos numéricos oscila entre 0.5 y 1.4...",
+          "educ. Símbolo de la calificación recibida en un curso, examen o cualquier otro tipo de trabajo cuyo valor en términos numéricos oscila entre 0.5 y 1.4, o entre 60 y 69. Siempre pronunciado en español. Anglicismo adaptado, usual. Pero en esta nueva ronda, a los encuestados solo se les preguntó sobre la lucha de Calderón contra la corrupción, y esta vez, la gobernadora apenas logró una C y un 41 por ciento de los encuestados dijeron que ella obtenía una D o una F por su esfuerzos contra la corrupción",
           "Calificación académica que corresponde a desaprobado o suspenso.",
-          "Desaprobado o suspenso cerca del aprobado."
+          "Desaprobado o suspenso cerca del aprobado.",
+          "Desaprobado, suspenso."
         ]
       }
     }
   },
   "es_definitions": [
-    "Calificación académica que corresponde a desaprobado o suspenso."
+    "educ, relacionado con un símbolo o una calificación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

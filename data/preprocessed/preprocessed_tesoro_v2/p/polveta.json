@@ -3,12 +3,15 @@
   "term": "polveta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gamucila redonda que usan las mujeres para empolvarse.",
+      "consolidated_definition": "Polvera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15581188997338064,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.6143",
+        "semantic_similarity_score": 0.6143,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1965"
+            "source": "BENNETT,",
+            "year": "1972"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "BENNETT,",
-            "year": "1972"
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "VICENTE MAURA,",
@@ -62,13 +65,17 @@
         "reference_definitions": [
           "Polvera.",
           "Polvera.",
-          "Gamucila redonda que usan las mujeres para empolvarse. El término de uso general para este objeto es mota."
+          "Gamucila redonda que usan las mujeres para empolvarse. El término de uso general para este objeto es mota.",
+          "Polvera de mujer.",
+          "Polvera.",
+          "Polvera, vasija para echar polvos. También polvorera.",
+          "Borla para aplicar el polvo facial."
         ]
       }
     }
   },
   "es_definitions": [
-    "Gamucila redonda que usan las mujeres para empolvarse."
+    "Polvera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

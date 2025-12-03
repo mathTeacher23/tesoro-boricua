@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './ValidationApp.css';
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'http://localhost:5001/api';
 
 export default function ValidationApp() {
   const [letters, setLetters] = useState([]);

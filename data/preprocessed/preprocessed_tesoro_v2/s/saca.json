@@ -3,12 +3,15 @@
   "term": "saca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cada una de las veces que produce la gallina su pollada, y asimismo denomina esta palabra el conjunto de pollos nacidos.",
+      "consolidated_definition": "Conjunto de pollos que saca una gallina en",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.30732943810948926,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.7316",
+        "semantic_similarity_score": 0.7316,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -27,24 +30,24 @@
             "year": "1965"
           },
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -61,19 +64,25 @@
           "sacar 1"
         ],
         "reference_definitions": [
-          "(jíbaro)  Conjunto de pollos que saca una gallina en una echadura.",
+          "Conjunto de pollos que saca una gallina en una echadura.",
           "Cada una de las veces que la gallina produce su pollada.",
-          "Incubación de polluelos que nacen de una vez."
+          "Incubación de polluelos que nacen de una vez.",
+          "Pollos que incuba una gallina de una vez.",
+          "Cada una de las veces que produce la gallina su pollada, y asimismo denomina esta palabra el conjunto de pollos nacidos.",
+          "Conjunto de pollos que tiene una gallina en una puesta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Funda de papel, por lo regular llamada en el pueblo cartucho en la que los colmados entregan los artículos comprados.",
+      "consolidated_definition": "Funda de papel",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.25,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5779",
+        "semantic_similarity_score": 0.5779,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -88,12 +97,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -110,8 +119,8 @@
     }
   },
   "es_definitions": [
-    "Cada una de las veces que produce la gallina su pollada, y asimismo denomina esta palabra el conjunto de pollos nacidos.",
-    "Funda de papel, por lo regular llamada en el pueblo cartucho en la que los colmados entregan los artículos comprados."
+    "Conjunto de pollos que saca una gallina en",
+    "Funda de papel"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

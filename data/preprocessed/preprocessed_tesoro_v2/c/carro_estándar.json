@@ -3,12 +3,15 @@
   "term": "carro estándar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Automóvil manual, de marchas no automáticas.",
+      "consolidated_definition": "Automóvil de cambios",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09523809523809523,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.274",
+        "semantic_similarity_score": 0.274,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HUYKE,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Automóvil manual, de marchas no automáticas."
+    "Automóvil de cambios"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

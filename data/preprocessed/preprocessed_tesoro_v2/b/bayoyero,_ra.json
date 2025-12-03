@@ -3,12 +3,15 @@
   "term": "bayoyero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, que se dedica a la bayoya, broma, bulla, fiesta.",
+      "consolidated_definition": "Amigo de bayoyas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10766718031423914,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6616",
+        "semantic_similarity_score": 0.6616,
+        "cluster_count": null,
         "grammar": [
           "sustantivo"
         ],
@@ -22,24 +25,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -56,14 +59,17 @@
         ],
         "reference_definitions": [
           "Amigo de bayoyas.",
-          "(popular)  Persona bromista y desordenada.",
-          "Persona que se dedica a la bayoya y actúa sin seriedad."
+          "Persona bromista y desordenada.",
+          "Persona que se dedica a la bayoya y actúa sin seriedad.",
+          "Dícese de la persona que gusta de la bayoya. Bromista, relajón.",
+          "Referido a persona, que se dedica a la bayoya, broma, bulla, fiesta.",
+          "Referido a persona, bromista y desordenada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, que se dedica a la bayoya, broma, bulla, fiesta."
+    "Amigo de bayoyas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

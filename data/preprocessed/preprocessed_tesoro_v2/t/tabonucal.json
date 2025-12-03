@@ -3,12 +3,15 @@
   "term": "tabonucal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio abundante en árboles de tabonuco.",
+      "consolidated_definition": "Sitio abundante en árboles de tabonuco",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.375,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7851",
+        "semantic_similarity_score": 0.7851,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -47,7 +50,7 @@
     }
   },
   "es_definitions": [
-    "Sitio abundante en árboles de tabonuco."
+    "Sitio abundante en árboles de tabonuco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

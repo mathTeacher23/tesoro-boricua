@@ -3,12 +3,15 @@
   "term": "brincacharco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pantalón más corto de lo usual que baja algo de la rodilla.",
+      "consolidated_definition": "Pantalón que le queda corto al que lo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18897184514831572,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6843",
+        "semantic_similarity_score": 0.6843,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -51,15 +54,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Pantalón que le queda corto al que lo lleva. También brincapozo.",
+          "Pantalón que le queda corto al que lo lleva. También brincapozo.",
           "Pantalón brincapozo. Muy corto de piernas. También dicen saltacharco.",
-          "Pantalón muy corto."
+          "Pantalón muy corto.",
+          "Pantalón que queda corto.",
+          "Pantalón más corto de lo usual que baja algo de la rodilla."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pantalón más corto de lo usual que baja algo de la rodilla."
+    "Pantalón que le queda corto al que lo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

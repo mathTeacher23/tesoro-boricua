@@ -3,12 +3,15 @@
   "term": "chavear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajar con escasos recursos, especialmente en el comercio.",
+      "consolidated_definition": "Trabajar con escasos recursos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12777777777777777,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6157",
+        "semantic_similarity_score": 0.6157,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -54,7 +57,7 @@
     }
   },
   "es_definitions": [
-    "Trabajar con escasos recursos, especialmente en el comercio."
+    "Trabajar con escasos recursos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

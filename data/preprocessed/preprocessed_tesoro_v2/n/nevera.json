@@ -3,12 +3,15 @@
   "term": "nevera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cárcel de la Parada 8 en Santurce.",
+      "consolidated_definition": "Cárcel de la Parada 8 en Santurce",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5078",
+        "semantic_similarity_score": 0.5078,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,8 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS, 1981B",
-            "year": ""
-          },
-          {
             "source": "ALTIERI DE BARRETO,",
             "year": "1973"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
           },
           {
             "source": "CLAUDIO DE LA TORRE,",
@@ -39,6 +34,14 @@
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS, 1981B",
+            "year": ""
           }
         ],
         "years": [
@@ -52,13 +55,15 @@
         "reference_definitions": [
           "Cárcel de la Parada 8 en Santurce.",
           "Cárcel.",
-          "Cárcel."
+          "Cárcel.",
+          "Prisión.",
+          "Cárcel, prisión."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cárcel de la Parada 8 en Santurce."
+    "Cárcel de la Parada 8 en Santurce"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

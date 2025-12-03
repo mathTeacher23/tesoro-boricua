@@ -3,12 +3,15 @@
   "term": "manco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tratándose de las manos se dice manco del que tiene alguna mano inútil, y zoco, broco, ñoco y también manco del que carece de alguno de los miembros.",
+      "consolidated_definition": "Tratándose de las manos se dice manco del, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06451595097753314,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.5905",
+        "semantic_similarity_score": 0.5905,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,6 +25,22 @@
         ],
         "sources": [
           {
+            "source": "CABIYA SAN MIGUEL,",
+            "year": "1967"
+          },
+          {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
+          },
+          {
+            "source": "DE JESÚS MATEO,",
+            "year": "1967"
+          },
+          {
+            "source": "LAUREANO ORTEGA,",
+            "year": "1969"
+          },
+          {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
           },
@@ -30,24 +49,8 @@
             "year": "1964"
           },
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1966"
-          },
-          {
-            "source": "DE JESÚS MATEO,",
-            "year": "1967"
-          },
-          {
-            "source": "CABIYA SAN MIGUEL,",
-            "year": "1967"
-          },
-          {
-            "source": "LAUREANO ORTEGA,",
-            "year": "1969"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -67,17 +70,26 @@
         "reference_definitions": [
           "Tratándose de las manos se dice manco del que tiene alguna mano inútil, y zoco, broco, ñoco y también manco del que carece de alguno de los miembros.",
           "La persona de brazo inútil. También tuñeco, tuyido, paralítico, ñoco.",
-          "Al que le “falta una pieza”."
+          "Al que le “falta una pieza”.",
+          "Defecto en las manos.",
+          "Individuo que le falta una mano.",
+          "La persona que tiene una mano inútil. También gambo.",
+          "Que está inútil del órgano .",
+          "Inmovilidad de algún miembro del cuerpo.",
+          "Persona a quien le falta un dedo, una mano o un brazo. También ñoco, soco, broco."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Bonito.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Bonito",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -105,8 +117,8 @@
     }
   },
   "es_definitions": [
-    "Tratándose de las manos se dice manco del que tiene alguna mano inútil, y zoco, broco, ñoco y también manco del que carece de alguno de los miembros.",
-    "Bonito."
+    "Tratándose de las manos se dice manco del, relacionado con una organización",
+    "Bonito"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

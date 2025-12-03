@@ -3,12 +3,15 @@
   "term": "enzoque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Procedimiento consistente en poner zocos a una casa de madera.",
+      "consolidated_definition": "Acción y efecto de enzocar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3317821067821068,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6658",
+        "semantic_similarity_score": 0.6658,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,13 +44,14 @@
         "reference_definitions": [
           "Acción y efecto de enzocar.",
           "El conjunto de zocos de una casa de madera.",
-          "Procedimiento consistente en poner zocos a una casa de madera."
+          "Procedimiento consistente en poner zocos a una casa de madera.",
+          "Conjunto de zocos de una casa de madera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Procedimiento consistente en poner zocos a una casa de madera."
+    "Acción y efecto de enzocar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

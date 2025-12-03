@@ -3,12 +3,15 @@
   "term": "enchivarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Encolerizarse.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Encolerizarse",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8188",
+        "semantic_similarity_score": 0.8188,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -40,13 +43,13 @@
         ],
         "reference_definitions": [
           "Encolerizarse.",
-          "(De en- y chivo).  Emberrincharse, encolerizarse."
+          ". Emberrincharse, encolerizarse."
         ]
       }
     }
   },
   "es_definitions": [
-    "Encolerizarse."
+    "Encolerizarse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

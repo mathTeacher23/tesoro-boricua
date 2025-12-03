@@ -3,12 +3,15 @@
   "term": "anidarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Irse a la cama a dormir.",
+      "consolidated_definition": "Meterse en la cama",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21726190476190477,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6546",
+        "semantic_similarity_score": 0.6546,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,13 +47,14 @@
         "reference_definitions": [
           "Meterse en la cama.",
           "Irse a la cama a dormir.",
-          "Meterse en la cama plácidamente."
+          "Meterse en la cama plácidamente.",
+          "Quedarse en casa plácidamente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Irse a la cama a dormir."
+    "Meterse en la cama"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

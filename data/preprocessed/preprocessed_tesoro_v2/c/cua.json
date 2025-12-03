@@ -3,12 +3,15 @@
   "term": "cua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tambor pequeño de una sola membrana que se usa en los bailes de bombas y en fiestas de personas de raza negra.",
+      "consolidated_definition": "Nombre de tambor pequeño, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12498341441839893,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4697",
+        "semantic_similarity_score": 0.4697,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1961"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1961"
           }
         ],
         "years": [
@@ -41,27 +44,26 @@
         "related_words": [],
         "reference_definitions": [
           "Nombre de tambor pequeño, de una sola membrana, que se usa en los bailes de bombas y otras fiestas de negros. Coa.",
-          "pl.  Palillos o paletas delgadas de madera para acompañar, como medio productor de rimo adicional, a la bomba.",
-          "Tambor pequeño de una sola membrana que se usa en los bailes de bombas y en fiestas de personas de raza negra."
+          "pl. Palillos o paletas delgadas de madera para acompañar, como medio productor de rimo adicional, a la bomba.",
+          "Tambor pequeño de una sola membrana que se usa en los bailes de bombas y en fiestas de personas de raza negra.",
+          "Instrumento de labranza."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver coa 1 .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver coa 1",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -72,8 +74,8 @@
     }
   },
   "es_definitions": [
-    "Tambor pequeño de una sola membrana que se usa en los bailes de bombas y en fiestas de personas de raza negra.",
-    "Ver coa 1 ."
+    "Nombre de tambor pequeño, relacionado con un grupo",
+    "Ver coa 1"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "conteo regresivo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuenta atrás.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Cuenta atrás",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03389830508474576,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3354",
+        "semantic_similarity_score": 0.3354,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Cuenta atrás. Enumeración de números en sentido descendente hasta llegar al cero. Se utiliza especialmente en las botaduras de buques o exhibiciones d...",
+          "Cuenta atrás. Enumeración de números en sentido descendente hasta llegar al cero. Se utiliza especialmente en las botaduras de buques o exhibiciones de equipos similares. Calco de estructura, usual. También cuenta regresiva. En tanto la mujer nace con un número determinado de óvulos, el hombre sigue constantemente produciendo espermatozoides casi hasta su muerte. Por ello siempre se hablaba de un reloj reproductivo femenino, el cual va en conteo regresivo",
           "Cuenta atrás."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cuenta atrás."
+    "Cuenta atrás"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

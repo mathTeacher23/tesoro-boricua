@@ -3,12 +3,15 @@
   "term": "atrampillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Engañar en un negocio.",
+      "consolidated_definition": ". Coger o pillar a uno entre dos o más y atropellarle.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0391156462585034,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.403",
+        "semantic_similarity_score": 0.403,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -44,15 +47,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(De atrampar). Coger o pillar a uno entre dos o más y atropellarle.",
+          ". Coger o pillar a uno entre dos o más y atropellarle.",
           "Acorralar.",
-          "(general) Atrapar."
+          "Atrapar.",
+          "Sorprender a alguien.",
+          "Descubrir un engaño.",
+          "Acorralar. Atrapar. Pillar.",
+          "Engañar en un negocio."
         ]
       }
     }
   },
   "es_definitions": [
-    "Engañar en un negocio."
+    ". Coger o pillar a uno entre dos o más y atropellarle."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

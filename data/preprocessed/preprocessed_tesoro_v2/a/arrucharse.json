@@ -3,12 +3,15 @@
   "term": "arrucharse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dejar sin dinero en el juego.",
+      "consolidated_definition": "tr",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15158730158730158,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6339",
+        "semantic_similarity_score": 0.6339,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "MAULEÓN,",
             "year": "1974"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -47,7 +50,7 @@
           "rucho, cha"
         ],
         "reference_definitions": [
-          "tr.  Llevarse todo sin escrúpulo. Va perdiendo vitalidad en la Isla.",
+          "tr. Llevarse todo sin escrúpulo. Va perdiendo vitalidad en la Isla.",
           "Dejar sin dinero en el juego.",
           "Pelar, dejar sin dinero."
         ]
@@ -55,7 +58,7 @@
     }
   },
   "es_definitions": [
-    "Dejar sin dinero en el juego."
+    "tr"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

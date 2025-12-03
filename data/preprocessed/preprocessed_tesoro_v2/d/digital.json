@@ -3,12 +3,15 @@
   "term": "digital",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -36,13 +39,13 @@
           "digitalizar"
         ],
         "reference_definitions": [
-          "inform. Que graba o transmite información codificada en bits, es decir, representada por dígitos binarios. Frecuente. DRAE: desde 1984.\nSeis estudios ..."
+          "inform. Que graba o transmite información codificada en bits, es decir, representada por dígitos binarios. Frecuente. DRAE: desde 1984. Seis estudios cinematográficos de Hollywood anunciaron el lunes que empezarán a vender esta semana por primera vez a través de internet las versiones digitales de Brokeback Mountain y King Kong"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

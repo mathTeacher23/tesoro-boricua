@@ -3,12 +3,15 @@
   "term": "colgarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ir mal un estudiante en una asignatura.",
+      "consolidated_definition": "Desaprobar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.023809523809523808,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3781",
+        "semantic_similarity_score": 0.3781,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "LÓPEZ MORALES,",
-            "year": "1986"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "LÓPEZ MORALES,",
+            "year": "1986"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -51,13 +54,14 @@
         "reference_definitions": [
           "Desaprobar, suspender.",
           "Fracasar. Fracasar en la asignatura, en una clase, en el examen.",
-          "Suspender, desaprobar."
+          "Suspender, desaprobar.",
+          "Ir mal un estudiante en una asignatura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ir mal un estudiante en una asignatura."
+    "Desaprobar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "gabán",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Chaqueta de hombre o saco.",
+      "consolidated_definition": "Saco",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09410052910052909,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6433",
+        "semantic_similarity_score": 0.6433,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,20 @@
         ],
         "sources": [
           {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
+            "source": "VAQUERO,",
+            "year": "1995"
           },
           {
             "source": "VICENTE MAURA,",
@@ -35,14 +46,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
           }
         ],
         "years": [
@@ -57,14 +60,17 @@
         "related_words": [],
         "reference_definitions": [
           "Saco, americana o chaqueta.",
-          "(general)  Chaqueta de hombre o saco.",
-          "Saco. Chaqueta. Americana. Chaquetón."
+          "Chaqueta de hombre o saco.",
+          "Saco. Chaqueta. Americana. Chaquetón.",
+          "Chaqueta .",
+          "Chaqueta de hombre.",
+          "P. Rico. Americana de caballero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Chaqueta de hombre o saco."
+    "Saco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

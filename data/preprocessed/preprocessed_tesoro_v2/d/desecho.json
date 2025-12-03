@@ -3,12 +3,15 @@
   "term": "desecho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Atajo, senda por donde se abrevia el camino.",
+      "consolidated_definition": ". Atajo, vereda.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.058823529411764705,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4493",
+        "semantic_similarity_score": 0.4493,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Am. Cen., Bol., Col., Cuba, Ecuad. y Ven.).  Atajo, vereda.",
+          ". Atajo, vereda.",
           "Atajo, senda por donde se abrevia el camino."
         ]
       }
     }
   },
   "es_definitions": [
-    "Atajo, senda por donde se abrevia el camino."
+    ". Atajo, vereda."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

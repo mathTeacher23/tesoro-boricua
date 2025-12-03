@@ -3,12 +3,15 @@
   "term": "breiquecito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Oportunidad, ayuda.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Descanso",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2536",
+        "semantic_similarity_score": 0.2536,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Descanso, receso. Pausa laboral o de otro tipo de breve duración. Neologismo anglicado, usual.\nMuchas cosas pasaron durante mi ausencia en Puerto Rico...",
+          "Descanso, receso. Pausa laboral o de otro tipo de breve duración. Neologismo anglicado, usual. Muchas cosas pasaron durante mi ausencia en Puerto Rico y me alegra haberme perdido todas y cada una de ellas pues necesitaba un breiquecito",
           "Oportunidad, ayuda."
         ]
       }
     }
   },
   "es_definitions": [
-    "Oportunidad, ayuda."
+    "Descanso"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

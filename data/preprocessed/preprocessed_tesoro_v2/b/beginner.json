@@ -3,12 +3,15 @@
   "term": "beginner",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona a la que se convence para que use droga.",
+      "consolidated_definition": "Persona a la que se convence para que",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6363636363636364,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9303",
+        "semantic_similarity_score": 0.9303,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Persona a la que se convence para que use droga."
+    "Persona a la que se convence para que"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

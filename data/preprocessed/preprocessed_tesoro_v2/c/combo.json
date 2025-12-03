@@ -3,12 +3,15 @@
   "term": "combo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Entre estudiantes, grupo que se pone de acuerdo para copiarse en los exámenes y protegerse unos a otros.",
+      "consolidated_definition": "Grupo de estudiantes combinados para copiarse en un, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16658670996015718,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.6077",
+        "semantic_similarity_score": 0.6077,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,12 +34,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,17 +52,25 @@
         "reference_definitions": [
           "Grupo de estudiantes combinados para copiarse en un examen.",
           "Pequeño grupo musical.",
-          "Voz usada entre delincuentes.  Grupo de maleantes que hacen fechorías menores."
+          "Voz usada entre delincuentes. Grupo de maleantes que hacen fechorías menores.",
+          "Entre estudiantes, grupo que se pone de acuerdo para copiarse en los exámenes y protegerse unos a otros.",
+          "Grupo musical que interpreta ritmos populares.",
+          "Grupo de personas que se juntan para un propósito festivo.",
+          "Grupo de delincuentes que se hacen fechorías menores.",
+          "Grupo de estudiantes combinados para copiar en los exámenes."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En un restaurante de comidas rápidas, conjunto de alimentos ofrecidos a un precio menor del que cuestan todos ellos si se compran individualmente.",
+      "consolidated_definition": "En un restaurante de comidas rápidas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -90,8 +101,8 @@
     }
   },
   "es_definitions": [
-    "Entre estudiantes, grupo que se pone de acuerdo para copiarse en los exámenes y protegerse unos a otros.",
-    "En un restaurante de comidas rápidas, conjunto de alimentos ofrecidos a un precio menor del que cuestan todos ellos si se compran individualmente."
+    "Grupo de estudiantes combinados para copiarse en un, relacionado con un grupo",
+    "En un restaurante de comidas rápidas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

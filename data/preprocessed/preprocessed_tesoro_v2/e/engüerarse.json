@@ -3,12 +3,15 @@
   "term": "engüerarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Quedarse una persona en la casa sin querer salir a ninguna parte y fastidiar a los demás.",
+      "consolidated_definition": "Quedarse una persona en la casa sin querer",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2333333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4362",
+        "semantic_similarity_score": 0.4362,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,13 +44,14 @@
         "reference_definitions": [
           "Quedarse una persona en la casa sin querer salir a ninguna parte y fastidiar a los demás. Fastidiar gratuitamente a los de su propia casa.",
           "Enfermarse.",
-          "Fastidiar gratuitamente alguien a su propia familia por no querer salir de la casa."
+          "Fastidiar gratuitamente alguien a su propia familia por no querer salir de la casa.",
+          "Enfermarse."
         ]
       }
     }
   },
   "es_definitions": [
-    "Quedarse una persona en la casa sin querer salir a ninguna parte y fastidiar a los demás."
+    "Quedarse una persona en la casa sin querer"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

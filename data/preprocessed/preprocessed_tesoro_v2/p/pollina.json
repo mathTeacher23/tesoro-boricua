@@ -3,12 +3,15 @@
   "term": "pollina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Flequillo, porción de cabello recortado que cae sobre la frente de una persona o de un animal.",
+      "consolidated_definition": "Flequillo del cabello",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027777777777777776,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6735",
+        "semantic_similarity_score": 0.6735,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,13 +53,14 @@
         "reference_definitions": [
           "Flequillo del cabello.",
           "Flequillo, cerquillo, mechón sobre la frente.",
-          "(De pollino). Flequillo."
+          ". Flequillo.",
+          "Flequillo, porción de cabello recortado que cae sobre la frente de una persona o de un animal."
         ]
       }
     }
   },
   "es_definitions": [
-    "Flequillo, porción de cabello recortado que cae sobre la frente de una persona o de un animal."
+    "Flequillo del cabello"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

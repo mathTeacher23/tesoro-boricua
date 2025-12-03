@@ -3,12 +3,15 @@
   "term": "guayamés, sa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Natural de Guayama; perteneciente a esta ciudad.",
+      "consolidated_definition": "De Guayama",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0823546611627107,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.633",
+        "semantic_similarity_score": 0.633,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -26,16 +29,16 @@
             "year": "1965"
           },
           {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
           }
         ],
         "years": [
@@ -47,15 +50,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  De Guayama.",
+          "De Guayama.",
           "Natural de Guayama; perteneciente a esta ciudad.",
-          "Guayameño."
+          "Guayameño.",
+          "Natural de Guayama. U. t. c. s.",
+          ". Perteneciente o relativo a este municipio de Puerto Rico y a su cabeza."
         ]
       }
     }
   },
   "es_definitions": [
-    "Natural de Guayama; perteneciente a esta ciudad."
+    "De Guayama"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "rastrillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Artefacto de madera con pernos de hierro, el cual, tirado por bueyes o más modernamente, por el tractor, sirve para desbaratar los terrones y emparejar el terreno.",
+      "consolidated_definition": "Tenedor de labranza",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09567901234567901,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.443",
+        "semantic_similarity_score": 0.443,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "CARRILLO,",
+            "year": "1974"
+          },
+          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
             "source": "VAQUERO,",
             "year": "1966"
-          },
-          {
-            "source": "CARRILLO,",
-            "year": "1974"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -51,17 +54,21 @@
         "reference_definitions": [
           "Tenedor de labranza.",
           "Instrumento de labranza.",
-          "Implemento [de labor]."
+          "Implemento .",
+          "Artefacto de madera con pernos de hierro, el cual, tirado por bueyes o más modernamente, por el tractor, sirve para desbaratar los terrones y emparejar el terreno. También rasqueta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el baile de sonduro o matatoros, según Alonso, zapateado [que] sólo lo realizaba el varón, con un paso de mudanza particular que llamaban el rastrillo.",
+      "consolidated_definition": "En el baile de sonduro o matatoros",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -84,14 +91,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En el baile de sonduro o matatoros, según Alonso, zapateado [que] sólo lo realizaba el varón, con un paso de mudanza particular que llamaban el rastri..."
+          "En el baile de sonduro o matatoros, según Alonso, zapateado sólo lo realizaba el varón, con un paso de mudanza particular que llamaban el rastrillo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Artefacto de madera con pernos de hierro, el cual, tirado por bueyes o más modernamente, por el tractor, sirve para desbaratar los terrones y emparejar el terreno.",
-    "En el baile de sonduro o matatoros, según Alonso, zapateado [que] sólo lo realizaba el varón, con un paso de mudanza particular que llamaban el rastrillo."
+    "Tenedor de labranza",
+    "En el baile de sonduro o matatoros"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

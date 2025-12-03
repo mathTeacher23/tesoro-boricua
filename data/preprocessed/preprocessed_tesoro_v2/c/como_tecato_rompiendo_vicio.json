@@ -3,12 +3,15 @@
   "term": "como tecato rompiendo vicio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En mal estado.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "En mal estado",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14285714285714285,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5572",
+        "semantic_similarity_score": 0.5572,
+        "cluster_count": null,
         "grammar": [
           "locución adjetiva"
         ],
@@ -37,7 +40,7 @@
     }
   },
   "es_definitions": [
-    "En mal estado."
+    "En mal estado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

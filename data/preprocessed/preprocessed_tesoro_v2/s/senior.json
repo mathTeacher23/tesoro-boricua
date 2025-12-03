@@ -3,12 +3,15 @@
   "term": "senior",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estudiante que cursa el último año universitario o de escuela superior.",
+      "consolidated_definition": "Estudiante de último año de carrera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07994424745328277,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5118",
+        "semantic_similarity_score": 0.5118,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -26,16 +29,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,13 +53,16 @@
         "reference_definitions": [
           "Estudiante de último año de carrera.",
           "Persona de edad. Anciano, viejo.",
-          "Anciano. Persona de edad avanzada. El término, originario del latín, se divulgó por su uso en inglés. Anglicismo crudo, usual. Compuesto: senior manag..."
+          "Anciano. Persona de edad avanzada. El término, originario del latín, se divulgó por su uso en inglés. Anglicismo crudo, usual. Compuesto: senior manager. También es que en estos tiempos del I.U. he desarrollado un gusto perverso por sacar a relucir mi I.D. de senior",
+          "El de mayor tiempo en un cargo. El término se pospone al cargo ocupado. Anglicismo crudo, frecuente. Al presente, es el director senior de mercadeo global. Además de presidente de Bacardi Corporation, ocupará el puesto de principal oficial ejecutivo, ambos cargos comenzando el 1 de abril",
+          "Estudiante que cursa el último año universitario o de escuela superior. Anglicismo crudo, usual. Compuestos: senior prom, senior trip. Felicito a todos los senior por su espectacular entrada. Eso quedo de “show”",
+          "Padre. Que es mayor que otra persona, generalmente su hijo, y tiene el mismo nombre. El término se coloca a la derecha del nombre. Anglicismo crudo, poco frecuente. Todo eso se lo debes decir al padre de Oscar Medina, es decir, a Oscar Medina senior."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estudiante que cursa el último año universitario o de escuela superior."
+    "Estudiante de último año de carrera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

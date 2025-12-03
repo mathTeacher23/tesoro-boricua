@@ -3,12 +3,15 @@
   "term": "caobana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre con el que se conocía antiguamente el árbol y la madera de la caoba.",
+      "consolidated_definition": "b",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1336098541980895,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5796",
+        "semantic_similarity_score": 0.5796,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -41,7 +44,7 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "b.  (T. en Am.)  Nombre anticuado de la caoba. Ac. “En los bosques de esta isla hay mucha y buena madera... úcar, ausubo, caobana.” O’Reilly, Memoria....",
+          "b. Nombre anticuado de la caoba. Ac. “En los bosques de esta isla hay mucha y buena madera... úcar, ausubo, caobana.” O’Reilly, Memoria..., 1765. “Y si se recuerda que caobana... es otro nombre con que se designa un árbol corpulento.” Brau, Puerto Rico y su historia, 1894, p. 65.",
           "Nombre con el que se conocía antiguamente el árbol y la madera de la caoba.",
           "Podocarpus coriaceus L. Equivalente del árbol de caoba."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Nombre con el que se conocía antiguamente el árbol y la madera de la caoba."
+    "b"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

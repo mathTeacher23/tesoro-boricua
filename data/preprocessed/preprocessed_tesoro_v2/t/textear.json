@@ -3,12 +3,15 @@
   "term": "textear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "telecom.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "telecom, relacionado con un grupo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -34,13 +37,13 @@
           "texteo"
         ],
         "reference_definitions": [
-          "telecom. Enviar mensajes de texto por el celular. Anglicismo adaptado, frecuente.\n“Entre el 60 y el 70% de los usuarios (de celulares) utiliza la mens..."
+          "telecom. Enviar mensajes de texto por el celular. Anglicismo adaptado, frecuente. “Entre el 60 y el 70% de los usuarios utiliza la mensajería de texto”, expresa Melchor al explicar cómo se ha desarrollado su uso en los últimos años permitiendo la creación del sublenguaje o lenguaje paralelo entre algunas de las personas que acostumbran textear y chatear"
         ]
       }
     }
   },
   "es_definitions": [
-    "telecom."
+    "telecom, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

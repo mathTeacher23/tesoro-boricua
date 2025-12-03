@@ -3,12 +3,15 @@
   "term": "banasta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Armazón de paja tejida que se usa para llevar cargas a lomo de las bestias.",
+      "consolidated_definition": "Por antonomasia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14530975963023476,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5103",
+        "semantic_similarity_score": 0.5103,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           },
           {
             "source": "VICENTE MAURA,",
@@ -41,14 +52,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -65,19 +68,26 @@
           "banastilla"
         ],
         "reference_definitions": [
-          "Por antonomasia, aguadera. “Las cómodas y económicas banastas reemplazan a la silla.” Alonso, 1849, p. 170.",
-          "(jíbaro)  Cesta que se pone sobre el caballo para llevar objetos.",
-          "Armazón de paja tejida que se usa para llevar cargas a lomo de las bestias."
+          "Por antonomasia, aguadera. “Las cómodas y económicas banastas reemplazan a la silla.” , p. 170.",
+          "Cesta que se pone sobre el caballo para llevar objetos.",
+          "Armazón de paja tejida que se usa para llevar cargas a lomo de las bestias.",
+          "Apero de carga en caballerías, en forma de canasta ancha. Generalmente se usa el plural, banastas, ya que siempre son dos sobre la bestia.",
+          "Armazón de paja tejida que se emplea para llevar cargas a lomo de bestias.",
+          "Capacho.",
+          "Cesta de paja tejida que se pone sobre el caballo para llevar objetos diversos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Zapato extremadamente grande.",
+      "consolidated_definition": "Zapato grande",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4138888888888889,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6608",
+        "semantic_similarity_score": 0.6608,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -92,20 +102,20 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "CABIYA SAN MIGUEL,",
             "year": "1967"
           },
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "PÉREZ SALA,",
+            "year": "1968"
           }
         ],
         "years": [
@@ -117,16 +127,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Zapato grande.",
           "Zapato grande.",
-          "Zapato extremadamente grande."
+          "Zapato grande.",
+          "Zapato extremadamente grande.",
+          "Cosa muy grande."
         ]
       }
     }
   },
   "es_definitions": [
-    "Armazón de paja tejida que se usa para llevar cargas a lomo de las bestias.",
-    "Zapato extremadamente grande."
+    "Por antonomasia",
+    "Zapato grande"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

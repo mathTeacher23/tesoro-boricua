@@ -3,12 +3,15 @@
   "term": "no comer cuentos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Del Rosario lo define como: ‘estar en disposición de actuar enérgicamente, sin rodeos ni componendas’.",
+      "consolidated_definition": "Estar en disposición de actuar enérgicamente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09343406593406593,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3858",
+        "semantic_similarity_score": 0.3858,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,20 +23,20 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1968"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1968"
           }
         ],
         "years": [
@@ -47,13 +50,15 @@
         "reference_definitions": [
           "Estar en disposición de actuar enérgicamente; sin rodeos ni componendas.",
           "Atreverse a cualquier cosa.",
-          "No le temer a nada."
+          "No le temer a nada.",
+          "Del Rosario lo define como: ‘estar en disposición de actuar enérgicamente, sin rodeos ni componendas’. “Ya mismo le dan una cogía’e cuello porque el director no come cuentos.” Juan Antonio Ramos, Vive y vacila, p. 79.",
+          "No tenerle temor a nada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Del Rosario lo define como: ‘estar en disposición de actuar enérgicamente, sin rodeos ni componendas’."
+    "Estar en disposición de actuar enérgicamente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

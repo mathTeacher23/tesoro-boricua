@@ -3,12 +3,15 @@
   "term": "hamburguesa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "alim.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "alim",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "alim. Tortita de carne molida. Anglicismo adaptado, frecuente. DRAE 2001, del inglés. Véase hamburger.\nEl Departamento de Salud señaló que los cliente..."
+          "alim. Tortita de carne molida. Anglicismo adaptado, frecuente. DRAE 2001, del inglés. Véase hamburger. El Departamento de Salud señaló que los clientes de la cadena deberían tirar o devolver cualquier hamburguesa American Chefs Selection Angus Beef adquirida en las tiendas Sam’s Club desde el 26 de agosto"
         ]
       }
     }
   },
   "es_definitions": [
-    "alim."
+    "alim"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "traspasado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hambriento.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Hambriento",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16666666666666666,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4774",
+        "semantic_similarity_score": 0.4774,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -44,7 +47,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Hambriento.",
+          "Hambriento.",
           "Hambriento.",
           "Desesperado. “Los puercos… están traspasaos.” Agüero."
         ]
@@ -52,7 +55,7 @@
     }
   },
   "es_definitions": [
-    "Hambriento."
+    "Hambriento"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

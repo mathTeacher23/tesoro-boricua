@@ -3,12 +3,15 @@
   "term": "en dos patadas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rápidamente.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". En un santiamén.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05555555555555555,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5107",
+        "semantic_similarity_score": 0.5107,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -24,12 +27,12 @@
             "year": "1937"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -40,15 +43,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Am. Cen., Col., Cuba y Méx.).  En un santiamén.",
-          "(T. en Gran Can.).  Rápidamente, en seguida, en poco tiempo. En un santiamén. “Había redactado en dos patás la denuncia.” Meléndez Muñoz.",
+          ". En un santiamén.",
+          ". Rápidamente, en seguida, en poco tiempo. En un santiamén. “Había redactado en dos patás la denuncia.” Meléndez Muñoz.",
           "Rápidamente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Rápidamente."
+    ". En un santiamén."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

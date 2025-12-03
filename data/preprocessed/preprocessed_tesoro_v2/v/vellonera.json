@@ -3,12 +3,15 @@
   "term": "vellonera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Máquina tocadiscos de lugares públicos que funciona con monedas.",
+      "consolidated_definition": "Caja de música, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20814354727398207,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5857",
+        "semantic_similarity_score": 0.5857,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -49,14 +52,15 @@
         "related_words": [],
         "reference_definitions": [
           "Caja de música. Fonógrafo automático. “Al final del callejón de la izquierda hay un cafetín con vellonera.”",
-          "(general)  Tocadiscos automático que funciona echándole una moneda.",
-          "Tocadiscos automático que funciona con monedas."
+          "Tocadiscos automático que funciona echándole una moneda.",
+          "Tocadiscos automático que funciona con monedas.",
+          "Máquina tocadiscos de lugares públicos que funciona con monedas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Máquina tocadiscos de lugares públicos que funciona con monedas."
+    "Caja de música, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

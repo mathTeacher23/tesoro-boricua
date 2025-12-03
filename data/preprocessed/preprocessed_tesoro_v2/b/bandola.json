@@ -3,12 +3,15 @@
   "term": "bandola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Armazón de ramas del árbol de café, que se entremezclan unas a otras cuando están muy cargadas de granos.",
+      "consolidated_definition": "Armazón de ramas del árbol de café",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.34782608695652173,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8222",
+        "semantic_similarity_score": 0.8222,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Armazón de ramas del árbol de café, que se entremezclan unas a otras cuando están muy cargadas de granos."
+    "Armazón de ramas del árbol de café"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "chágara",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camarón de color aceitunado y sin palancas.",
+      "consolidated_definition": "Camarón de color aceitunado y sin palancas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1609164748496047,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6253",
+        "semantic_similarity_score": 0.6253,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -27,20 +30,20 @@
             "year": "1965"
           },
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -53,19 +56,24 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "(jíbaro)  Camarón de color aceitunado y sin palancas.",
-          "Atya scabra. Crustáceo pequeño, comestible, de pulgada y media o dos pulgadas de largo, de color negro, a modo de camarón, pero sin palancas y sí con ...",
-          "Camarón sin palancas."
+          "Camarón de color aceitunado y sin palancas.",
+          "Atya scabra. Crustáceo pequeño, comestible, de pulgada y media o dos pulgadas de largo, de color negro, a modo de camarón, pero sin palancas y sí con antenas, que se produce en agua dulce. Cuando lleva a manera de unas pequeñas excrecencias que hincan, en las patas, se le da el nombre popular de gata. Abunda en los ríos y quebradas.",
+          "Camarón sin palancas.",
+          "Camarón pequeño de río. Guábara.",
+          "Atya scabra. Guábara, chábara, crustáceo comestible de agua dulce. Camarón aceitunado sin palancas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Mujerzuela.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Mujerzuela",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -78,12 +86,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -99,12 +107,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "En las peleas de gallos, gallo con pocas plumas en la cola, que crecen hacia abajo.",
+      "consolidated_definition": "Gallo con pocas plumas en el rabo que",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21879863056333645,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7027",
+        "semantic_similarity_score": 0.7027,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -117,12 +128,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -140,9 +151,9 @@
     }
   },
   "es_definitions": [
-    "Camarón de color aceitunado y sin palancas.",
-    "Mujerzuela.",
-    "En las peleas de gallos, gallo con pocas plumas en la cola, que crecen hacia abajo."
+    "Camarón de color aceitunado y sin palancas",
+    "Mujerzuela",
+    "Gallo con pocas plumas en el rabo que"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

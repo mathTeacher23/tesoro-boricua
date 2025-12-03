@@ -3,12 +3,15 @@
   "term": "bravata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Borrasca, o tormenta del mar.",
+      "consolidated_definition": "Borrasca",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09090136054421769,
+        "num_cleaned_definitions": 8,
+        "definition_stability": "Stability: 0.4981",
+        "semantic_similarity_score": 0.4981,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,6 +26,14 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -33,14 +44,6 @@
           {
             "source": "VAQUERO,",
             "year": "1986"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -55,13 +58,18 @@
         "reference_definitions": [
           "Borrasca, o tormenta del mar.",
           "El mar picado.",
-          "Mar agitada."
+          "Mar agitada.",
+          "Hacer mar.",
+          "Olas muy seguidas.",
+          "Se refiere al mar ‘picado’.",
+          "Tormenta en el mar.",
+          "Mar picado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Borrasca, o tormenta del mar."
+    "Borrasca"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

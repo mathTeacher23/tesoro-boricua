@@ -3,12 +3,15 @@
   "term": "losa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Zona metropolitana de San Juan, capital de Puerto Rico.",
+      "consolidated_definition": "San Juan",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3076923076923077,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8915",
+        "semantic_similarity_score": 0.8915,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "San Juan (capital de Puerto Rico). La zona metropolitana.",
+          "San Juan . La zona metropolitana.",
           "Zona metropolitana de San Juan, capital de Puerto Rico."
         ]
       }
     }
   },
   "es_definitions": [
-    "Zona metropolitana de San Juan, capital de Puerto Rico."
+    "San Juan"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

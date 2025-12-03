@@ -3,12 +3,15 @@
   "term": "panty hose",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prenda interior femenina que consiste en dos medias altas de tejido fino y elástico que suben hasta la cintura a modo de pantalón ajustado.",
+      "consolidated_definition": "Media pantalón",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.014492753623188406,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5248",
+        "semantic_similarity_score": 0.5248,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "LÓPEZ MORALES,",
             "year": "1986"
           },
           {
             "source": "VAQUERO,",
             "year": "1995"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Prenda interior femenina que consiste en dos medias altas de tejido fino y elástico que suben hasta la cintura a modo de pantalón ajustado."
+    "Media pantalón"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

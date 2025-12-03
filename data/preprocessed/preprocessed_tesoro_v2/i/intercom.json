@@ -3,12 +3,15 @@
   "term": "intercom",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Portero automático, mecanismo electrónico para abrir la puerta de la calle.",
+      "consolidated_definition": "Intercomunicación, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04118068279943556,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4882",
+        "semantic_similarity_score": 0.4882,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
           },
@@ -33,10 +40,6 @@
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,14 +52,17 @@
         "related_words": [],
         "reference_definitions": [
           "Intercomunicación.",
-          "Portero automático (mecanismo eléctrico para abrir una puerta desde cada una de las viviendas de la casa).",
-          "Intercomunicador."
+          "Portero automático .",
+          "Intercomunicador.",
+          "Intercomunicador. Sistema de intercomunicación por radio o teléfono entre oficinas, aviones, apartamentos de edificios, etc. Anglicismo crudo, usual. Este último equipo consiste en monitores e intercom instalados en los salones de clases conectados a máquinas de VHS, Laserdisc, CD-ROM, DVD ubicados en el Centro",
+          "Portero automático, mecanismo electrónico para abrir la puerta de la calle.",
+          "Aparato para la comunicación interna en un lugar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Portero automático, mecanismo electrónico para abrir la puerta de la calle."
+    "Intercomunicación, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

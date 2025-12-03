@@ -3,12 +3,15 @@
   "term": "cafetalero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dueño de un cafetal.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Dueño de un cafetal.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.33888888888888885,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7373",
+        "semantic_similarity_score": 0.7373,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FONFRÍAS, 1975B",
             "year": ""
           },
@@ -33,10 +40,6 @@
           {
             "source": "WASHINGTON LLORENS,",
             "year": "1975"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -47,19 +50,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en C. Rica).  Dueño de un cafetal.",
+          ". Dueño de un cafetal.",
           "Agricultor de café.",
-          "Agricultor de café."
+          "Agricultor de café.",
+          "Dueño de un cafetal."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Perteneciente o relativo al café.",
+      "consolidated_definition": "Perteneciente o relativo al café",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11538461538461539,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7048",
+        "semantic_similarity_score": 0.7048,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -71,12 +78,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -86,15 +93,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Perteneciente o relativo al café. “‘La situación de los cafetaleros’ se titula un artículo donde se habla de las Secciones cafetaleras de la isla.” La...",
+          "Perteneciente o relativo al café. “‘La situación de los cafetaleros’ se titula un artículo donde se habla de las Secciones cafetaleras de la isla.” La Correspondencia, octubre, núm. 27, 1936.",
           "Relativo al café."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dueño de un cafetal.",
-    "Perteneciente o relativo al café."
+    ". Dueño de un cafetal.",
+    "Perteneciente o relativo al café"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

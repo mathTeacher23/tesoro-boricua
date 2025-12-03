@@ -3,12 +3,15 @@
   "term": "catálogo en línea",
   "superscripts": {
     "1": {
-      "consolidated_definition": "bibl.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "bibl",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "bibl. Fichero electrónico que contiene el acervo de una biblioteca o centro de información, al que se puede acceder desde una red local o por Internet..."
+          "bibl. Fichero electrónico que contiene el acervo de una biblioteca o centro de información, al que se puede acceder desde una red local o por Internet. Calco de estructura, frecuente. Como parte de un plan de automatización de todas las bibliotecas de la Universidad de Puerto Rico, la Biblioteca de Derecho comenzó a integrar su colección a un catálogo en línea... La ventaja principal del catálogo en línea es que no limita la búsqueda a sólo autores, títulos y temas"
         ]
       }
     }
   },
   "es_definitions": [
-    "bibl."
+    "bibl"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "desafío",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Otro término para lidia, riña, pelea con sentido más genérico.",
+      "consolidated_definition": "Otro término para lidia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03968253968253968,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4074",
+        "semantic_similarity_score": 0.4074,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -46,7 +49,7 @@
     }
   },
   "es_definitions": [
-    "Otro término para lidia, riña, pelea con sentido más genérico."
+    "Otro término para lidia"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

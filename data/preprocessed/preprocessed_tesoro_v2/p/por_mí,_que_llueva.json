@@ -3,12 +3,15 @@
   "term": "por mí, que llueva",
   "superscripts": {
     "1": {
-      "consolidated_definition": "A mí no me importa lo que digan de mí.",
+      "consolidated_definition": "A mí no me importa lo que digan",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0625,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.59",
+        "semantic_similarity_score": 0.59,
+        "cluster_count": null,
         "grammar": [
           "expresión"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "A mí no me importa lo que digan de mí."
+    "A mí no me importa lo que digan"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

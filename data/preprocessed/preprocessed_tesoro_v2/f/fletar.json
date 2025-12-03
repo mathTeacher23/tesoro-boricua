@@ -3,12 +3,15 @@
   "term": "fletar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Frotar, friccionar o masajar con ciertos líquidos o ungüentos.",
+      "consolidated_definition": ". Frotar, friccionar. Ac.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07722832722832723,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.736",
+        "semantic_similarity_score": 0.736,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -20,16 +23,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,19 +45,22 @@
           "fleta"
         ],
         "reference_definitions": [
-          "(Ant., Guat. y Chile).  Frotar, friccionar. Ac.",
+          ". Frotar, friccionar. Ac.",
           "Frotar, friccionar o masajar con ciertos líquidos o ungüentos.",
           "Frotar, friccionar, dar masaje a alguien."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cargar un camión u otro tipo de transportador de carga al máximo.",
+      "consolidated_definition": "Cargar un camión u otro tipo de transportador",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1189083820662768,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.518",
+        "semantic_similarity_score": 0.518,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -70,12 +76,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -90,14 +96,15 @@
         "reference_definitions": [
           "Cargar un camión u otro tipo de transportador de carga al máximo.",
           "Contratar el servicio de un vehículo de transporte en forma exclusiva.",
-          "Voz usada por prostitutas: conseguir cliente una prostituta, para toda la noche."
+          "Voz usada por prostitutas: conseguir cliente una prostituta, para toda la noche.",
+          "Conseguir una prostituta un cliente para toda la noche."
         ]
       }
     }
   },
   "es_definitions": [
-    "Frotar, friccionar o masajar con ciertos líquidos o ungüentos.",
-    "Cargar un camión u otro tipo de transportador de carga al máximo."
+    ". Frotar, friccionar. Ac.",
+    "Cargar un camión u otro tipo de transportador"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "putuca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fajo o paca de billetes de banco.",
+      "consolidated_definition": "Fajo o paca de billetes de banco",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.1669",
+        "semantic_similarity_score": 0.1669,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Fajo o paca de billetes de banco."
+    "Fajo o paca de billetes de banco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

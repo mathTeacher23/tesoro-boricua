@@ -3,12 +3,15 @@
   "term": "enjergarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vestirse con ropa de paseo.",
+      "consolidated_definition": "Ataviarse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1590909090909091,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6448",
+        "semantic_similarity_score": 0.6448,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,24 +25,24 @@
         ],
         "sources": [
           {
+            "source": "CASIANO,",
+            "year": "1973"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "PÉREZ SALA,",
             "year": "1968"
           },
           {
-            "source": "CASIANO,",
-            "year": "1973"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -57,13 +60,15 @@
         "reference_definitions": [
           "Ataviarse, endomingarse.",
           "Ataviarse, endomingarse.",
-          "Ataviarse."
+          "Ataviarse.",
+          "Vestirse con ropa de paseo. Ataviarse más de lo usual.",
+          "Ataviarse, vestirse elegantemente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Vestirse con ropa de paseo."
+    "Ataviarse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

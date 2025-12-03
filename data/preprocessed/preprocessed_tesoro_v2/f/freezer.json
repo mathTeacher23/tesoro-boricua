@@ -3,12 +3,15 @@
   "term": "freezer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Compartimento de un refrigerador donde se produce hielo y se guardan los alimentos cuya conservación requiere temperatura más baja.",
+      "consolidated_definition": "Congelador de la nevera, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 12,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23619960117387218,
+        "num_cleaned_definitions": 12,
+        "definition_stability": "Stability: 0.5909",
+        "semantic_similarity_score": 0.5909,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,22 +26,6 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1966"
-          },
-          {
-            "source": "CABIYA SAN MIGUEL,",
-            "year": "1967"
-          },
-          {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
-          },
-          {
-            "source": "PAGÁN GONZÁLEZ,",
-            "year": "1969"
-          },
-          {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
@@ -47,12 +34,12 @@
             "year": "1972"
           },
           {
-            "source": "SOLER,",
-            "year": "1973"
+            "source": "CABIYA SAN MIGUEL,",
+            "year": "1967"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -63,8 +50,24 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "PAGÁN GONZÁLEZ,",
+            "year": "1969"
+          },
+          {
+            "source": "PÉREZ SALA,",
+            "year": "1968"
+          },
+          {
+            "source": "SOLER,",
+            "year": "1973"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1966"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -85,13 +88,22 @@
         "reference_definitions": [
           "Congelador de la nevera.",
           "Congelador.",
-          "Congelador."
+          "Congelador.",
+          "Congelador.",
+          "Congelador.",
+          "Congelador.",
+          "La sección del refrigerador que sirve para congelar.",
+          "Congelador.",
+          "Congelador, refrigerador.",
+          "Refrigerador eléctrico en el cual la comida se almacena congelada. Anglicismo crudo, usual. Se envía un mensaje contundente al PPD de que las finanzas de los partidos políticos no se pueden manejar como las finanzas del anciano que guardaba miles de dólares en un freezer",
+          "Compartimento de un refrigerador donde se produce hielo y se guardan los alimentos cuya conservación requiere temperatura más baja.",
+          "Congelador, aparato para conservar productos a baja temperatura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Compartimento de un refrigerador donde se produce hielo y se guardan los alimentos cuya conservación requiere temperatura más baja."
+    "Congelador de la nevera, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

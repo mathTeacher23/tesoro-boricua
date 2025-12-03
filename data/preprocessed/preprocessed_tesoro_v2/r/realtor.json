@@ -3,12 +3,15 @@
   "term": "realtor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Corredor, agente de bienes raíces.",
+      "consolidated_definition": "Corredor de bienes raíces",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.37414965986394555,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7152",
+        "semantic_similarity_score": 0.7152,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,13 +46,13 @@
         "reference_definitions": [
           "Corredor de bienes raíces.",
           "Corredor de bienes raíces.",
-          "Corredor, agente de bienes raíces. Persona que trabaja en el negocio de bienes raíces, vendiendo o alquilando propiedades. En Estados Unidos el Realto..."
+          "Corredor, agente de bienes raíces. Persona que trabaja en el negocio de bienes raíces, vendiendo o alquilando propiedades. En Estados Unidos el Realtor pertenece a la Junta de la Asociación Nacional de Bienes Raíces. Anglicismo crudo, frecuente. Asimismo, el ex gobernador aceptó que pidió infructuosamente a los desarrolladores de Paseo Caribe poder servir de realtor de los espacios comerciales que tendrá el proyecto"
         ]
       }
     }
   },
   "es_definitions": [
-    "Corredor, agente de bienes raíces."
+    "Corredor de bienes raíces"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

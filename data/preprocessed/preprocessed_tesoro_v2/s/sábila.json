@@ -3,12 +3,15 @@
   "term": "sábila",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta medicinal […] de la que se prepara el cordial de sávila o ron con sávila que es bueno para la gripe.",
+      "consolidated_definition": "Planta medicinal o para otros usos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07252972857676106,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4511",
+        "semantic_similarity_score": 0.4511,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,14 +52,15 @@
         "related_words": [],
         "reference_definitions": [
           "Planta medicinal o para otros usos.",
-          "Planta medicinal […] de la que se prepara el cordial de sávila o ron con sávila que es bueno para la gripe.",
-          "Voz usada en otros países de Hispanoamérica. Zábila. Planta medicinal de hoja larga, como una espada, muy carnosa, con espinas en los bordes, bastante..."
+          "Planta medicinal de la que se prepara el cordial de sávila o ron con sávila que es bueno para la gripe.",
+          "Voz usada en otros países de Hispanoamérica. Zábila. Planta medicinal de hoja larga, como una espada, muy carnosa, con espinas en los bordes, bastante babosa. Pertenece a la familia de los cactus. Algo parecida a la maya. Su nombre es áloe.",
+          "Áloe."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta medicinal […] de la que se prepara el cordial de sávila o ron con sávila que es bueno para la gripe."
+    "Planta medicinal o para otros usos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

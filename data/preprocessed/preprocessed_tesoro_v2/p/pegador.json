@@ -3,12 +3,15 @@
   "term": "pegador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Echeneis naucrates.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Echeneis naucrates",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2085",
+        "semantic_similarity_score": 0.2085,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "ERDMAN,",
-            "year": "1974"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ERDMAN,",
+            "year": "1974"
           }
         ],
         "years": [
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a un futbolista, que golpea fuerte al balón.",
+      "consolidated_definition": "Boxeador que pega fuertemente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12354081104081104,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3875",
+        "semantic_similarity_score": 0.3875,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -64,12 +70,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -81,14 +87,15 @@
         "reference_definitions": [
           "Boxeador que pega fuertemente.",
           "Padre que pega mucho a sus hijos.",
-          "Policía que le gusta macanear."
+          "Policía que le gusta macanear.",
+          "Referido a un futbolista, que golpea fuerte al balón."
         ]
       }
     }
   },
   "es_definitions": [
-    "Echeneis naucrates.",
-    "Referido a un futbolista, que golpea fuerte al balón."
+    "Echeneis naucrates",
+    "Boxeador que pega fuertemente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

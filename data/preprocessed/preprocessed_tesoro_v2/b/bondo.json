@@ -3,12 +3,15 @@
   "term": "bondo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Base que se aplica antes de pintar un automóvil.",
+      "consolidated_definition": "Base que se aplica antes de pintar un",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027777777777777776,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5593",
+        "semantic_similarity_score": 0.5593,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,7 +44,7 @@
     }
   },
   "es_definitions": [
-    "Base que se aplica antes de pintar un automóvil."
+    "Base que se aplica antes de pintar un"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

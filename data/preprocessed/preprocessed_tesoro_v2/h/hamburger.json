@@ -3,12 +3,15 @@
   "term": "hamburger",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hamburguesa.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Hamburguesa",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.24057971014492754,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7216",
+        "semantic_similarity_score": 0.7216,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,8 +24,8 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -33,8 +36,8 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "Hamburguesa. Emparedado de carne molida.",
           "Hamburguesa.",
-          "alim. Tortita de carne molida, frita o asada, servida con ensalada y aderezos en un panecillo. El término procede del nombre de la ciudad Hamburg. Ang..."
+          "alim. Tortita de carne molida, frita o asada, servida con ensalada y aderezos en un panecillo. El término procede del nombre de la ciudad Hamburg. Anglicismo crudo, usual. Lo que significa que sale más barato comprarte un hamburger en un fast food que prepararlo en tu casa",
+          "Hamburguesa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hamburguesa."
+    "Hamburguesa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

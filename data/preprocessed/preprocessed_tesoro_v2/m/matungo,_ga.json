@@ -3,12 +3,15 @@
   "term": "matungo, ga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Al caballo, res, cerdo, etc.",
+      "consolidated_definition": ". Desmedrado, flaco.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11462196787274186,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5011",
+        "semantic_similarity_score": 0.5011,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1961"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,15 +47,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg. y Cuba).  Desmedrado, flaco.",
-          "(T. en Ur.).  Matalón, rocín. Ac.",
-          "(T. en Arg. y Cuba).  Desmedrado, flacucho."
+          ". Desmedrado, flaco.",
+          ". Matalón, rocín. Ac.",
+          ". Desmedrado, flacucho.",
+          ". Hablando de animales, generalmente de caballos, desmedrado, flacucho, flojo, y que rara vez se halla libre de mataduras; matalón. Es vocablo hoy decadente en el habla popular puertorriqueña. También chalungo.",
+          "Al caballo, res, cerdo, etc. que se ve desmedrado, flaco, débil se le puede calificar también de macuenco o matungo, con vocablos de posible terminación afronegroide, ya hoy decadentes, asimismo conocidos en oros países hispanoamericanos.",
+          "Referido a caballo, desmedrado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Al caballo, res, cerdo, etc."
+    ". Desmedrado, flaco."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

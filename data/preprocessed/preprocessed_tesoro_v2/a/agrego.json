@@ -3,12 +3,15 @@
   "term": "agrego",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Convenio de trabajo entre el propietario y el agregado.",
+      "consolidated_definition": "Sitio en la finca para un nuevo agregado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15445665445665446,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5283",
+        "semantic_similarity_score": 0.5283,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,7 +43,7 @@
           "agregado, da"
         ],
         "reference_definitions": [
-          "Sitio  en la finca para un nuevo agregado. Un sitio para vivir y tierras para sembrar.",
+          "Sitio en la finca para un nuevo agregado. Un sitio para vivir y tierras para sembrar.",
           "Sitio de un jornalero agregado.",
           "Convenio de trabajo entre el propietario y el agregado. La parte de la propiedad del dueño que se cede para el cuidado y trabajo del agregado."
         ]
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "Convenio de trabajo entre el propietario y el agregado."
+    "Sitio en la finca para un nuevo agregado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

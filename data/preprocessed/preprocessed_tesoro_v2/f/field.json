@@ -3,12 +3,15 @@
   "term": "field",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En un estadio de beisbol, zona de hierba comprendida entre las bases y las gradas.",
+      "consolidated_definition": "dep",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0849678899025601,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4381",
+        "semantic_similarity_score": 0.4381,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -44,15 +47,17 @@
           "outfield"
         ],
         "reference_definitions": [
-          "dep. Campo de juego. Terreno en el que se desarrollan competencias deportivas; en el béisbol, terreno donde se efectúa el juego. Anglicismo crudo, fre...",
-          "Zona exterior. Lugar de trabajo fuera de la empresa o industria. Anglicismo crudo, frecuente.\nMi práctica era cuatro días en el field como le llamas y...",
-          "En un estadio de beisbol, zona de hierba comprendida entre las bases y las gradas."
+          "dep. Campo de juego. Terreno en el que se desarrollan competencias deportivas; en el béisbol, terreno donde se efectúa el juego. Anglicismo crudo, frecuente. Compuestos: fielder, infield, outfield, left field, right field, center field. Pero a cualquiera que se gradúe con cuatro puntos, yo estoy seguro que van al field y ese lo aventaja definitivamente, porque ¡es que tiene una habilidad!",
+          "Zona exterior. Lugar de trabajo fuera de la empresa o industria. Anglicismo crudo, frecuente. Mi práctica era cuatro días en el field como le llamas y un día en la oficina, sacándole copias",
+          "En un estadio de beisbol, zona de hierba comprendida entre las bases y las gradas.",
+          "En algunos deportes, cancha de juego.",
+          "Zona de trabajo."
         ]
       }
     }
   },
   "es_definitions": [
-    "En un estadio de beisbol, zona de hierba comprendida entre las bases y las gradas."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "tunal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio abundante en plantas de tuna.",
+      "consolidated_definition": "Sitio abundante en plantas de tuna",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8059",
+        "semantic_similarity_score": 0.8059,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Sitio abundante en plantas de tuna."
+    "Sitio abundante en plantas de tuna"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

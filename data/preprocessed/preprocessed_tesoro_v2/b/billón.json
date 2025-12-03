@@ -3,12 +3,15 @@
   "term": "billón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "econ.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "econ",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "econ. Mil millones, millardo. El anglicismo consiste en asignar la cantidad del inglés al español. Un billón en Europa es un millón de millones, es de..."
+          "econ. Mil millones, millardo. El anglicismo consiste en asignar la cantidad del inglés al español. Un billón en Europa es un millón de millones, es decir va seguido de doce ceros, no nueve. Desvío semántico, usual. DRAE 2001: un millón de millones. El déficit en los Estados Unidos sobrepasa $1 billón al día. Así lo afirmó el contralor de Puerto Rico, Manuel Díaz Saldaña, en entrevista exclusiva con El Visitante. El Contralor aseguró que el país se encuentra en una situación crítica, no sólo por Puerto Rico, sino por el déficit en los Estados Unidos"
         ]
       }
     }
   },
   "es_definitions": [
-    "econ."
+    "econ"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

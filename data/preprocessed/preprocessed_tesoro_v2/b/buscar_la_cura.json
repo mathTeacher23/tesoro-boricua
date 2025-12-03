@@ -3,12 +3,15 @@
   "term": "buscar la cura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Buscar droga para consumirla de inmediato.",
+      "consolidated_definition": "Buscar la droga",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2222222222222222,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7728",
+        "semantic_similarity_score": 0.7728,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -37,14 +40,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Buscar la droga [para usarla].",
+          "Buscar la droga .",
           "Buscar droga para consumirla de inmediato."
         ]
       }
     }
   },
   "es_definitions": [
-    "Buscar droga para consumirla de inmediato."
+    "Buscar la droga"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

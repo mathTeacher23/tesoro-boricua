@@ -3,12 +3,15 @@
   "term": "yoghourt",
   "superscripts": {
     "1": {
-      "consolidated_definition": "alim.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "alim",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "alim. Comida similar al flan en consistencia hecha con variedad de leche fermentada, que se prepara reduciéndola por evaporación a la mitad de su volu..."
+          "alim. Comida similar al flan en consistencia hecha con variedad de leche fermentada, que se prepara reduciéndola por evaporación a la mitad de su volumen y sometiéndola después a la acción de un fermento. Se escribe de cualquiera de las formas presentadas. Su étimo inmediato es del inglés. Anglicismo crudo, usual. DRAE 2001 Pues es una buena idea pero ¿el 70% del que hablan es respecto a un yogourt azucarado o a uno natural? si le quitan el 70 a uno natural estamos hablando de menos de dos gramos por cada cien"
         ]
       }
     }
   },
   "es_definitions": [
-    "alim."
+    "alim"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

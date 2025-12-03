@@ -3,12 +3,15 @@
   "term": "schedule",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Programa, agenda de trabajo, calendario de actividades.",
+      "consolidated_definition": "Programa o esquema de trabajo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05654529413780107,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6258",
+        "semantic_similarity_score": 0.6258,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,8 +26,8 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -35,8 +38,8 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,13 +53,14 @@
         "reference_definitions": [
           "Programa o esquema de trabajo.",
           "Agenda, plan, programa, horario.",
-          "Programa de trabajo, horario. Plan de trabajo con lista de acciones o eventos. Anglicismo crudo, frecuente.\n“Es mucho sacrificio. Hay mucho voleibol y..."
+          "Programa de trabajo, horario. Plan de trabajo con lista de acciones o eventos. Anglicismo crudo, frecuente. “Es mucho sacrificio. Hay mucho voleibol y un schedule cargado. Dos prácticas al día es un poco difícil. Pero nos toca enfrentar esto con el profesionalismo”, afirmó Rivera",
+          "Programa, agenda de trabajo, calendario de actividades."
         ]
       }
     }
   },
   "es_definitions": [
-    "Programa, agenda de trabajo, calendario de actividades."
+    "Programa o esquema de trabajo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

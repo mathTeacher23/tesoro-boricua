@@ -3,12 +3,15 @@
   "term": "mimero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar donde abundan los mimes o gran conjunto de mimes .",
+      "consolidated_definition": "Lugar donde abundan los mimes o gran conjunto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18434065934065935,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7225",
+        "semantic_similarity_score": 0.7225,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,15 +46,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Lugar donde abundan los mimes o gran conjunto de mimes (mosquitos diminutos).",
+          "Lugar donde abundan los mimes o gran conjunto de mimes .",
           "Enjambre de mimes.",
-          "Lugar donde abundan los mimes, insectos."
+          "Lugar donde abundan los mimes, insectos.",
+          "Enjambre de mimes, insectos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Lugar donde abundan los mimes o gran conjunto de mimes ."
+    "Lugar donde abundan los mimes o gran conjunto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

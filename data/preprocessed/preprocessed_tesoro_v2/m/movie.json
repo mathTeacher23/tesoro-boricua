@@ -3,12 +3,15 @@
   "term": "movie",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Película.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Película",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Película. Conjunto de escenas reproducidas por fotografía que generalmente se exhibe en un cine. Anglicismo crudo, poco frecuente.\nSoy una persona ver..."
+          "Película. Conjunto de escenas reproducidas por fotografía que generalmente se exhibe en un cine. Anglicismo crudo, poco frecuente. Soy una persona versatil en el aspecto musical, no me gusta la monotomia, me gusta hacer vida sociable , soy apasionado, espontaneo, romantico, alegre"
         ]
       }
     }
   },
   "es_definitions": [
-    "Película."
+    "Película"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

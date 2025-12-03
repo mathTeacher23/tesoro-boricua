@@ -3,12 +3,15 @@
   "term": "sinservir",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que no ayuda a nadie.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.22871572871572873,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5245",
+        "semantic_similarity_score": 0.5245,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -47,13 +50,14 @@
         "reference_definitions": [
           "vulg. Incivil. “Eso me trae susbana. Ese no es más que un sinserbil.” Timothée, Celos campestres, 1932.",
           "Persona que no ayuda a nadie.",
-          "Dícese de la persona indeseable. Servil."
+          "Dícese de la persona indeseable. Servil.",
+          "Persona que no ayuda a nadie."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que no ayuda a nadie."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

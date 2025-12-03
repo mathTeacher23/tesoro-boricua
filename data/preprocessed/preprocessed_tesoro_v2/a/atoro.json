@@ -3,12 +3,15 @@
   "term": "atoro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Atoramiento, impedimento.",
+      "consolidated_definition": ". Atoramiento. Ac.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7053",
+        "semantic_similarity_score": 0.7053,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
           "atorar"
         ],
         "reference_definitions": [
-          "(T. en Col., Chile y Perú).  Atoramiento. Ac.",
+          ". Atoramiento. Ac.",
           "Atoramiento, impedimento.",
           "Atoramiento, atasco."
         ]
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Atoramiento, impedimento."
+    ". Atoramiento. Ac."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

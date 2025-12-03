@@ -3,12 +3,15 @@
   "term": "templero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un gallo de pelea, que no enfrenta el combate y huye.",
+      "consolidated_definition": "Gallo que huye y no enfrenta el combate",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18181818181818182,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7245",
+        "semantic_similarity_score": 0.7245,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -37,14 +40,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Gallo que huye y no enfrenta el combate. Véase gallo huido. En el argot gallístico, se escuchan también otros adjetivos para señalar este gallo: topet...",
+          "Gallo que huye y no enfrenta el combate. Véase gallo huido. En el argot gallístico, se escuchan también otros adjetivos para señalar este gallo: topetón, juyón, juyilón y juyía.",
           "Referido a un gallo de pelea, que no enfrenta el combate y huye."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a un gallo de pelea, que no enfrenta el combate y huye."
+    "Gallo que huye y no enfrenta el combate"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

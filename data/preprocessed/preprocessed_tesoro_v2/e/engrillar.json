@@ -3,12 +3,15 @@
   "term": "engrillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacer que un caballo baje la cabeza mucho, arrimando la boca al pecho.",
+      "consolidated_definition": ". Embaucar, engañar.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06666666666666667,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4796",
+        "semantic_similarity_score": 0.4796,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -44,19 +47,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Col.).  Embaucar, engañar.",
-          "P. Rico y Ven.  Dicho de una caballería: encapotarse.",
-          "Embaucar, engañar."
+          ". Embaucar, engañar.",
+          "P. Rico y Ven. Dicho de una caballería: encapotarse.",
+          "Embaucar, engañar.",
+          "Hacer que un caballo baje la cabeza mucho, arrimando la boca al pecho."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Deslumbrar con una grilla.",
+      "consolidated_definition": "Deslumbrar con una grilla",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -83,12 +90,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Arrestar a alguien.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Arrestar.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7034",
+        "semantic_similarity_score": 0.7034,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -102,12 +112,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -117,18 +127,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(De grillo, ‘grillete’).  Arrestar.",
+          ". Arrestar.",
           "Arrestar a alguien."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "Llenarse un sitio de grillos.",
+      "consolidated_definition": "Llenarse un sitio de grillos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -158,10 +171,10 @@
     }
   },
   "es_definitions": [
-    "Hacer que un caballo baje la cabeza mucho, arrimando la boca al pecho.",
-    "Deslumbrar con una grilla.",
-    "Arrestar a alguien.",
-    "Llenarse un sitio de grillos."
+    ". Embaucar, engañar.",
+    "Deslumbrar con una grilla",
+    ". Arrestar.",
+    "Llenarse un sitio de grillos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "ratonera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tienda de central azucarera o de hacienda, donde los obreros hacen sus compras y pagan con vales que les dan en pago de los salarios.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14434488251692554,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.438",
+        "semantic_similarity_score": 0.438,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,19 +46,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (T. en Ven.).  Ventorrillo, tenducho.",
+          "vulg. . Ventorrillo, tenducho.",
           "Tienda de una hacienda donde se obliga a los peones a gastar su jornal.",
-          "Tienda de central azucarera o de hacienda, donde los obreros hacen sus compras y pagan con vales que les dan en pago de los salarios."
+          "Tienda de central azucarera o de hacienda, donde los obreros hacen sus compras y pagan con vales que les dan en pago de los salarios.",
+          "Tienda de una central azucarera o hacienda donde los obreros hacen sus compras."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Institución de rehabilitación [para delincuentes].",
+      "consolidated_definition": "Institución de rehabilitación, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.907",
+        "semantic_similarity_score": 0.907,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -83,18 +90,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Institución de rehabilitación [para delincuentes].",
+          "Institución de rehabilitación .",
           "Institución de rehabilitación de delincuentes."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Lugar bien protegido, vigilado o con alarmas, difícil de robar.",
+      "consolidated_definition": "Lugar bien protegido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -125,9 +135,9 @@
     }
   },
   "es_definitions": [
-    "Tienda de central azucarera o de hacienda, donde los obreros hacen sus compras y pagan con vales que les dan en pago de los salarios.",
-    "Institución de rehabilitación [para delincuentes].",
-    "Lugar bien protegido, vigilado o con alarmas, difícil de robar."
+    "vulg",
+    "Institución de rehabilitación, relacionado con una organización",
+    "Lugar bien protegido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

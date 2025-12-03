@@ -3,12 +3,15 @@
   "term": "petty cash",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cantidad pequeña de dinero disponible.",
+      "consolidated_definition": "Voz de origen francés",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08975143903715331,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4983",
+        "semantic_similarity_score": 0.4983,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,8 +24,8 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -33,8 +36,8 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,15 +49,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Voz de origen francés.  Caja menuda.",
+          "Voz de origen francés. Caja menuda.",
           "Fondo para gastos menores.",
-          "[Dinero] menudo y suelto."
+          "menudo y suelto.",
+          "Dinero, suelto. Cantidad de dinero designada para gastos menores. Anglicismo crudo, frecuente. En este caso, los hechos que dan lugar a la querella se circunscriben a que el querellante fue objeto de una auditoría por lo que se le privó de su petty cash en medio de la investigación",
+          "Fondo para gastos menores.",
+          "Cantidad pequeña de dinero disponible."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cantidad pequeña de dinero disponible."
+    "Voz de origen francés"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

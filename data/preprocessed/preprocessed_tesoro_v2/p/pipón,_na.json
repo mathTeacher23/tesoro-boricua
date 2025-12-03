@@ -3,12 +3,15 @@
   "term": "pipón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, que tiene gran barriga.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4107",
+        "semantic_similarity_score": 0.4107,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,6 +25,14 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -30,16 +41,8 @@
             "year": "1984"
           },
           {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
-          },
-          {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -52,19 +55,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (T. en Bol., Col., Cuba, Ecuad. y Pan.).  Barrigón.",
+          "vulg. . Barrigón.",
           "Barrigudo. También pansú, súa.",
-          "Lleno."
+          "Lleno.",
+          "Barrigón, na.",
+          "Referido a persona, que tiene gran barriga."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Tanto barrigón como pipón adquieren en el habla cotidiana el significado de ‘hijo pequeño’.",
+      "consolidated_definition": "Chiquillo de corta edad",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02631578947368421,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4945",
+        "semantic_similarity_score": 0.4945,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -95,14 +103,14 @@
         "related_words": [],
         "reference_definitions": [
           "Chiquillo de corta edad; mamoncito. “Porque ese trabajo representaba la menestra de los pipones.” Timothée, Cuentos populares, 1917, p. 150.",
-          "Tanto barrigón como pipón adquieren en el habla cotidiana el significado de ‘hijo pequeño’. “Tiene ocho barrigones (o pipones) que alimentar.”"
+          "Tanto barrigón como pipón adquieren en el habla cotidiana el significado de ‘hijo pequeño’. “Tiene ocho barrigones que alimentar.”"
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, que tiene gran barriga.",
-    "Tanto barrigón como pipón adquieren en el habla cotidiana el significado de ‘hijo pequeño’."
+    "vulg",
+    "Chiquillo de corta edad"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

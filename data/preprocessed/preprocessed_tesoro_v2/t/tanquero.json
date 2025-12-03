@@ -3,12 +3,15 @@
   "term": "tanquero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Barco cisterna que se emplea para el transporte de petróleo y otras sustancias.",
+      "consolidated_definition": "Barco tanque",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07408865248226951,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4473",
+        "semantic_similarity_score": 0.4473,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -45,13 +48,15 @@
         "reference_definitions": [
           "Barco tanque.",
           "Buque tanque.",
-          "Barco, avión o camión que transporta líquidos o combustible. Anglicismo adaptado, frecuente.\nSegún se informó en un noticiaro televisivo (Noticentro 4..."
+          "Barco, avión o camión que transporta líquidos o combustible. Anglicismo adaptado, frecuente. Según se informó en un noticiaro televisivo , a eso de las 6:00 p.m. de ayer, un tanquero que descargaba el combustible sufrió un desperfecto mecánico que provocó el desastre ambiental",
+          "Miembro de la tripulación de un tanque. Anglicismo adaptado, poco frecuente. La mentalidad de este entrenamiento es convertir a todo soldado reservista en un infantero no importa el área de concentración de la persona. Es decir que el artillero, tanquero, piloto, policía militar… están juntos entrenando con el médico durante 15 días",
+          "Barco cisterna que se emplea para el transporte de petróleo y otras sustancias."
         ]
       }
     }
   },
   "es_definitions": [
-    "Barco cisterna que se emplea para el transporte de petróleo y otras sustancias."
+    "Barco tanque"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

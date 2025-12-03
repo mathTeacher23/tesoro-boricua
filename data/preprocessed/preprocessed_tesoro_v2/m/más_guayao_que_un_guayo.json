@@ -3,12 +3,15 @@
   "term": "más guayao que un guayo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Con una borrachera grande.",
+      "consolidated_definition": "Con una borrachera grande",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4606",
+        "semantic_similarity_score": 0.4606,
+        "cluster_count": null,
         "grammar": [
           "locución adjetiva"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "FERNÁNDEZ,",
             "year": "1979"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Con una borrachera grande."
+    "Con una borrachera grande"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

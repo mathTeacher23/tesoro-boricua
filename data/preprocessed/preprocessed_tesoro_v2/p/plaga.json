@@ -3,12 +3,15 @@
   "term": "plaga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se emplea en sentido limitado para referirse a los mosquitos, especialmente la variedad conocida como mimes.",
+      "consolidated_definition": "Se emplea en sentido limitado para referirse a",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09393155410312275,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4907",
+        "semantic_similarity_score": 0.4907,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "BENNETT,",
             "year": "1972"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           },
           {
             "source": "VAQUERO,",
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Se emplea en sentido limitado para referirse a los mosquitos, especialmente la variedad conocida como mimes."
+    "Se emplea en sentido limitado para referirse a"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

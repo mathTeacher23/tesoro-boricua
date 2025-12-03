@@ -3,12 +3,15 @@
   "term": "atusarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfadarse, enojarse.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Enfadarse, atufarse.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13888888888888887,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.8621",
+        "semantic_similarity_score": 0.8621,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,6 +25,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -32,10 +39,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -47,15 +50,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg.).  Enfadarse, atufarse.",
+          ". Enfadarse, atufarse.",
           "Enfadarse. Atufarse.",
-          "Enfadarse."
+          "Enfadarse.",
+          "Enfadarse, enojarse."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enfadarse, enojarse."
+    ". Enfadarse, atufarse."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

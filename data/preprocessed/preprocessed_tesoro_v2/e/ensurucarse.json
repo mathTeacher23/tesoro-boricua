@@ -3,12 +3,15 @@
   "term": "ensurucarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Armar alguien una pelea debido a su estado de embriaguez.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08952380952380952,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5685",
+        "semantic_similarity_score": 0.5685,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -24,6 +27,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -34,10 +41,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -53,15 +56,18 @@
           "suruco, ca 1"
         ],
         "reference_definitions": [
-          "vulg.  Ponerse suruco, emborracharse.",
+          "vulg. Ponerse suruco, emborracharse.",
           "Meterse en riñas, surucas.",
-          "Emborracharse y formar surucas."
+          "Emborracharse y formar surucas.",
+          "Ponerse suruco, emborracharse.",
+          "Ponerse alguien borracho.",
+          "Armar alguien una pelea debido a su estado de embriaguez."
         ]
       }
     }
   },
   "es_definitions": [
-    "Armar alguien una pelea debido a su estado de embriaguez."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

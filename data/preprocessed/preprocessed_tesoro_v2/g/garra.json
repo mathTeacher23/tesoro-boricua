@@ -3,12 +3,15 @@
   "term": "garra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pedazo de cuero endurecido y encartuchado.",
+      "consolidated_definition": "Pedazo de cuero endurecido y encartuchado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8436",
+        "semantic_similarity_score": 0.8436,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "En las peleas de gallos, tronco artificial que se le fabrica al gallo broco para colocarle las espuelas.",
+      "consolidated_definition": "Tronco artificial que se le fabrica al gallo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.39285714285714285,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8153",
+        "semantic_similarity_score": 0.8153,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -62,12 +68,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -84,8 +90,8 @@
     }
   },
   "es_definitions": [
-    "Pedazo de cuero endurecido y encartuchado.",
-    "En las peleas de gallos, tronco artificial que se le fabrica al gallo broco para colocarle las espuelas."
+    "Pedazo de cuero endurecido y encartuchado",
+    "Tronco artificial que se le fabrica al gallo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

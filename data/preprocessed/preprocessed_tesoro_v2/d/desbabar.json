@@ -3,12 +3,15 @@
   "term": "desbabar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cortar la baba.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Quitar la baba a ciertos frutos como el café.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09999999999999999,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5959",
+        "semantic_similarity_score": 0.5959,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
           }
         ],
         "years": [
@@ -42,15 +45,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Am.).  Quitar la baba a ciertos frutos como el café.",
+          ". Quitar la baba a ciertos frutos como el café.",
           "Cortar la baba.",
-          "Méx., Perú y P. Rico.  Quitar la baba al fruto del café y del cacao."
+          "Méx., Perú y P. Rico. Quitar la baba al fruto del café y del cacao."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cortar la baba."
+    ". Quitar la baba a ciertos frutos como el café."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

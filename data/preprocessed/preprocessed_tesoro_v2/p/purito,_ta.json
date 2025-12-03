@@ -3,12 +3,15 @@
   "term": "purito, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de las personas que se parecen entre sí en el físico o en las maneras.",
+      "consolidated_definition": "Parecido, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12736872048700007,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6236",
+        "semantic_similarity_score": 0.6236,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,6 +23,10 @@
         ],
         "sources": [
           {
+            "source": "BENNETT,",
+            "year": "1972"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
@@ -28,16 +35,12 @@
             "year": "1965"
           },
           {
-            "source": "BENNETT,",
-            "year": "1972"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -54,15 +57,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(jíbaro)  Parecido.",
+          "Parecido.",
           "Igual, parecido. “Un nombre purito así.” “Purito al padre.”",
-          "Parecido."
+          "Parecido.",
+          "Dícese de las personas que se parecen entre sí en el físico o en las maneras. “Pepito salió purito a su padre.”",
+          "Muy parecido.",
+          "Semejante, con diminutivo intensificador: “¿No se fija que es purito al pai?” Figueroa Berríos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dícese de las personas que se parecen entre sí en el físico o en las maneras."
+    "Parecido, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

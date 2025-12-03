@@ -3,12 +3,15 @@
   "term": "guinda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Barranco, cuesta empinada.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.40888888888888886,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.7791",
+        "semantic_similarity_score": 0.7791,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,10 +24,6 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
@@ -33,12 +32,16 @@
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -56,19 +59,25 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Cuesta empinada.",
-          "(jíbaro)  Barranco, cuesta empinada.",
-          "Cuesta empinada."
+          "vulg. Cuesta empinada.",
+          "Barranco, cuesta empinada.",
+          "Cuesta empinada.",
+          "Cuesta empinada.",
+          "Barranco, cuesta, jalda.",
+          "Barranca, cuesta empinada."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Legenaria vulgaris.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Planta ornamental",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4555",
+        "semantic_similarity_score": 0.4555,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -81,16 +90,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -109,8 +118,8 @@
     }
   },
   "es_definitions": [
-    "Barranco, cuesta empinada.",
-    "Legenaria vulgaris."
+    "vulg",
+    "Planta ornamental"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

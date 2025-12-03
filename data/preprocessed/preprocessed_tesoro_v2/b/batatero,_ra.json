@@ -3,12 +3,15 @@
   "term": "batatero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona a la que le gustan mucho las batatas.",
+      "consolidated_definition": "Que gusta de la batata",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.27236652236652237,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7365",
+        "semantic_similarity_score": 0.7365,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -45,17 +48,21 @@
         "reference_definitions": [
           "Que gusta de la batata.",
           "Vendedor de batatas.",
-          "Vendedor de batatas."
+          "Vendedor de batatas.",
+          "Persona a la que le gustan mucho las batatas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dícese del empleado de gobierno que no rinde servicio público y recibe un sueldo.",
+      "consolidated_definition": "Papanatas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02200757575757576,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4065",
+        "semantic_similarity_score": 0.4065,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -71,20 +78,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -96,16 +103,18 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Papanatas. “Y luego habrá quien diga que nuestros jíbaros son holgazanes, anémicos y batateros.” Daubón, Casos de Puerto Rico, 1904, p. 255.",
-          "Atontado, simple, papanatas, el zoquete, el torpe (especialmente en los estudios).",
-          "Dícese del empleado de gobierno que no rinde servicio público y recibe un sueldo."
+          "Papanatas. “Y luego habrá quien diga que nuestros jíbaros son holgazanes, anémicos y batateros.” Daubón, Casos de , p. 255.",
+          "Atontado, simple, papanatas, el zoquete, el torpe .",
+          "Dícese del empleado de gobierno que no rinde servicio público y recibe un sueldo.",
+          "Empleado incompetente.",
+          "Referido a persona, papanatas, pusilánime, atontada, simple."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona a la que le gustan mucho las batatas.",
-    "Dícese del empleado de gobierno que no rinde servicio público y recibe un sueldo."
+    "Que gusta de la batata",
+    "Papanatas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

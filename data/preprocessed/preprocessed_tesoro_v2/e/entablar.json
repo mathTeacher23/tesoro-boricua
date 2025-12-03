@@ -3,12 +3,15 @@
   "term": "entablar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacer tablas en un partido, por ejemplo, de ajedrez.",
+      "consolidated_definition": ". Presentar una acción judicial.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0715510999721526,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4741",
+        "semantic_similarity_score": 0.4741,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -25,20 +28,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,19 +53,25 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Ecuad.).  Presentar una acción judicial.",
-          "(T. en Am. Cen, Col. y Ven.).  Haber empate en algo. “Llegando muchas veces a quedar... sin que ninguno de los dos haya vencido: a esto se llama entab...",
-          "Hacer tablas en un partido, por ejemplo, de ajedrez."
+          ". Presentar una acción judicial.",
+          ". Haber empate en algo. “Llegando muchas veces a quedar... sin que ninguno de los dos haya vencido: a esto se llama entablar la pelea.” , p. 83.",
+          "Hacer tablas en un partido, por ejemplo, de ajedrez.",
+          "Iniciar pleito en corte.",
+          "Declarar la pelea empatada. El juez de valla proclama el empate gritando “¡Tabla!”",
+          "Presentar una acción judicial."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Construir una embarcación.",
+      "consolidated_definition": "Construir una embarcación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -76,12 +85,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -100,8 +109,8 @@
     }
   },
   "es_definitions": [
-    "Hacer tablas en un partido, por ejemplo, de ajedrez.",
-    "Construir una embarcación."
+    ". Presentar una acción judicial.",
+    "Construir una embarcación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

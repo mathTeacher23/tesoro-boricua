@@ -3,12 +3,15 @@
   "term": "carro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Automóvil.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Automóvil",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6777777777777777,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.8422",
+        "semantic_similarity_score": 0.8422,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,28 +24,28 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "HUYKE,",
+            "year": "1973"
           },
           {
             "source": "LÓPEZ MORALES,",
             "year": "1986"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -58,13 +61,16 @@
         "reference_definitions": [
           "Automóvil.",
           "Automóvil.",
+          "Automóvil.",
+          "Automóvil.",
+          "autom. Automóvil. Vehículo para uso personal o familiar que tiene un motor de combustión interno. Usual. DRAE 2001 Estacionaron el carro en el parking, debajo de unos tintillos enormes",
           "Automóvil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Automóvil."
+    "Automóvil"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

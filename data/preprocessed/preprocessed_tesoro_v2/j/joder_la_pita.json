@@ -3,12 +3,15 @@
   "term": "joder la pita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La acción de incomodar o molestar a otra persona.",
+      "consolidated_definition": "Molestar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6311",
+        "semantic_similarity_score": 0.6311,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -26,6 +29,10 @@
             "year": "1966"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
@@ -36,10 +43,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -54,13 +57,15 @@
         "reference_definitions": [
           "Molestar.",
           "Molestar.",
-          "Molestar. Perturbar."
+          "Molestar. Perturbar.",
+          "La acción de incomodar o molestar a otra persona. También dar catey, enredar la pita.",
+          "Molestar, fastidiar."
         ]
       }
     }
   },
   "es_definitions": [
-    "La acción de incomodar o molestar a otra persona."
+    "Molestar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

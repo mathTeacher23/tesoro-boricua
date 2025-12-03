@@ -3,12 +3,15 @@
   "term": "yerba buena",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta medicinal que de acuerdo con los curanderos sirve para hacer tisanas y también para condimentos.",
+      "consolidated_definition": "Planta medicinal o para otros usos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16517190538929669,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6405",
+        "semantic_similarity_score": 0.6405,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
           },
           {
-            "source": "MAULEÓN,",
-            "year": "1974"
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MAULEÓN,",
+            "year": "1974"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -53,14 +56,16 @@
         "related_words": [],
         "reference_definitions": [
           "Planta medicinal o para otros usos.",
-          "Planta medicinal […] para tisanas.",
-          "Lamiaceas. Mentha nemorosa. Planta medicinal."
+          "Planta medicinal para tisanas.",
+          "Lamiaceas. Mentha nemorosa. Planta medicinal.",
+          "Planta medicinal que de acuerdo con los curanderos sirve para hacer tisanas y también para condimentos. La recomiendan para enfermedades del estómago.",
+          "Planta medicinal."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta medicinal que de acuerdo con los curanderos sirve para hacer tisanas y también para condimentos."
+    "Planta medicinal o para otros usos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

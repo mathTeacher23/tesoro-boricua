@@ -3,12 +3,15 @@
   "term": "güincha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camioneta vieja y destartalada, generalmente usada para carga.",
+      "consolidated_definition": "Camión pequeño",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.018518518518518517,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5607",
+        "semantic_similarity_score": 0.5607,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,17 +51,21 @@
         "reference_definitions": [
           "Camión pequeño. Pick-up.",
           "Camioneta vieja.",
-          "Camioneta."
+          "Camioneta.",
+          "Camioneta vieja y destartalada, generalmente usada para carga."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cárcel de estación de policía.",
+      "consolidated_definition": "Cárcel",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19999999999999998,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5181",
+        "semantic_similarity_score": 0.5181,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -77,12 +84,12 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -101,8 +108,8 @@
     }
   },
   "es_definitions": [
-    "Camioneta vieja y destartalada, generalmente usada para carga.",
-    "Cárcel de estación de policía."
+    "Camión pequeño",
+    "Cárcel"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

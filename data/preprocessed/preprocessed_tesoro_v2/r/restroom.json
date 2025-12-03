@@ -3,12 +3,15 @@
   "term": "restroom",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lavabo, urinario.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Lavabo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Lavabo, urinario. Cuarto de aseo público en un restaurante o edificio. Generalmente aparece en lengua escrita identificando los aseos en lugares públi..."
+          "Lavabo, urinario. Cuarto de aseo público en un restaurante o edificio. Generalmente aparece en lengua escrita identificando los aseos en lugares públicos y establecimientos. Anglicismo crudo, poco frecuente. El cuarto multipropósito se utiliza para el propósito social de la reunión o del negocio. Puedes relajar en el restroom del hotel. Del masaje de la sala las ofertas también tú una estancia exuberante en el hotel"
         ]
       }
     }
   },
   "es_definitions": [
-    "Lavabo, urinario."
+    "Lavabo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

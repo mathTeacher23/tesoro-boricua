@@ -3,12 +3,15 @@
   "term": "darling",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Querido, querida.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Querido",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5876",
+        "semantic_similarity_score": 0.5876,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -37,13 +40,13 @@
         "related_words": [],
         "reference_definitions": [
           "Querido.",
-          "Querido, querida. Persona amada, persona encantadora. Anglicismo crudo, poco frecuente.\nSí, ella es mi darling, darling es mi baby, la que se menea co..."
+          "Querido, querida. Persona amada, persona encantadora. Anglicismo crudo, poco frecuente. Sí, ella es mi darling, darling es mi baby, la que se menea con esa figura sexy, si...ella es mi mami"
         ]
       }
     }
   },
   "es_definitions": [
-    "Querido, querida."
+    "Querido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

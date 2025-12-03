@@ -3,12 +3,15 @@
   "term": "calentón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, que se enoja con facilidad.",
+      "consolidated_definition": "Enojado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.017543859649122806,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5413",
+        "semantic_similarity_score": 0.5413,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -51,12 +54,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Dícese del individuo que usa drogas.",
+      "consolidated_definition": "Drogado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4913",
+        "semantic_similarity_score": 0.4913,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -87,8 +93,8 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, que se enoja con facilidad.",
-    "Dícese del individuo que usa drogas."
+    "Enojado",
+    "Drogado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

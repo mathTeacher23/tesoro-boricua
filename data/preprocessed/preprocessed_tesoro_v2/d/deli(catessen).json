@@ -3,12 +3,15 @@
   "term": "deli(catessen)",
   "superscripts": {
     "1": {
-      "consolidated_definition": "alim.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "alim",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "alim. Tienda de fiambres, charcutería. Establecimiento donde se venden alimentos selectos, también los comestibles vendidos en ella. Anglicismo crudo,..."
+          "alim. Tienda de fiambres, charcutería. Establecimiento donde se venden alimentos selectos, también los comestibles vendidos en ella. Anglicismo crudo, poco frecuente. DRAE 2001, voz inglesa. Dichos vegetales y frutas no se considerarán alimentos preparados solo por el hecho de que la sección del deli de dicho supermercado tenga utensilios disponibles para el uso de los consumidores"
         ]
       }
     }
   },
   "es_definitions": [
-    "alim."
+    "alim"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

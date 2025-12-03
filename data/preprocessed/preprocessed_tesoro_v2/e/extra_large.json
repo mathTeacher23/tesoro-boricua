@@ -3,12 +3,15 @@
   "term": "extra large",
   "superscripts": {
     "1": {
-      "consolidated_definition": "comer.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "comer",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "locución adjetiva"
         ],
@@ -32,13 +35,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "comer. Muy grande. Talla de ropa o artículo extraordinariamente grande. Anglicismo crudo, usual.\nTenemos un programa extra large esta vez, comenzando ..."
+          "comer. Muy grande. Talla de ropa o artículo extraordinariamente grande. Anglicismo crudo, usual. Tenemos un programa extra large esta vez, comenzando con el promotor Ricardo Carrión, que nos va a hablar de sus eventos Pop Culture Expo"
         ]
       }
     }
   },
   "es_definitions": [
-    "comer."
+    "comer"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

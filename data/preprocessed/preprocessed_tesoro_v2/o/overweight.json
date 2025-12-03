@@ -3,12 +3,15 @@
   "term": "overweight",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, gorda, gruesa.",
+      "consolidated_definition": "Grueso",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.005747126436781609,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4162",
+        "semantic_similarity_score": 0.4162,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -37,7 +40,7 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Grueso, pesado. Referente a la persona o animal que tiene un peso excesivo, también el equipaje que excede el peso permitido. Anglicismo crudo, poco f...",
+          "Grueso, pesado. Referente a la persona o animal que tiene un peso excesivo, también el equipaje que excede el peso permitido. Anglicismo crudo, poco frecuente. Me puede imaginar re.ICC heavy tú estás pensando en ti. Pues todo el mundo que está overweight debe dar un par de vueltas en la pista de Sabana Seca cada dia sin usar el go-kart",
           "Referido a persona, gorda, gruesa.",
           "Sobrepeso."
         ]
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, gorda, gruesa."
+    "Grueso"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

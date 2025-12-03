@@ -3,12 +3,15 @@
   "term": "fiebre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deseo vehemente de realizar una actividad por la que se siente mucha afición.",
+      "consolidated_definition": "Afición excesiva a un deporte",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08393719806763285,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4894",
+        "semantic_similarity_score": 0.4894,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -51,15 +54,16 @@
           "fiebrú, brúa"
         ],
         "reference_definitions": [
-          "(popular)  Afición excesiva a un deporte, a una actividad o a un objeto. También follón.",
+          "Afición excesiva a un deporte, a una actividad o a un objeto. También follón.",
           "Actividad momentánea que entusiasma a una persona. Follón.",
-          "Entusiasmo."
+          "Entusiasmo.",
+          "Deseo vehemente de realizar una actividad por la que se siente mucha afición."
         ]
       }
     }
   },
   "es_definitions": [
-    "Deseo vehemente de realizar una actividad por la que se siente mucha afición."
+    "Afición excesiva a un deporte"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

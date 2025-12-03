@@ -3,12 +3,15 @@
   "term": "cantar alto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pedir alguien un precio excesivo por algo.",
+      "consolidated_definition": ". Pedir un precio subido por una cosa.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3076923076923077,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7394",
+        "semantic_similarity_score": 0.7394,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -37,14 +40,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg.). Pedir un precio subido por una cosa.",
+          ". Pedir un precio subido por una cosa.",
           "Pedir alguien un precio excesivo por algo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pedir alguien un precio excesivo por algo."
+    ". Pedir un precio subido por una cosa."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

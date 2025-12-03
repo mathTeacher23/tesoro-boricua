@@ -3,12 +3,15 @@
   "term": "cuádruple",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuatrillizos.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Cuatrillizos",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9545",
+        "semantic_similarity_score": 0.9545,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "LÓPEZ MORALES,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "LÓPEZ MORALES,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -43,12 +46,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "En la industria de la caña, equipo que consta de cuatro cuerpos a los que pasa el líquido que sale de los clarificadores.",
+      "consolidated_definition": "En la industria de la caña, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -74,14 +80,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En la industria de la caña, equipo que consta de cuatro cuerpos a los que pasa el líquido que sale de los clarificadores. El líquido se concentra por ..."
+          "En la industria de la caña, equipo que consta de cuatro cuerpos a los que pasa el líquido que sale de los clarificadores. El líquido se concentra por medio del proceso de evaporación. También evaporador, triple."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cuatrillizos.",
-    "En la industria de la caña, equipo que consta de cuatro cuerpos a los que pasa el líquido que sale de los clarificadores."
+    "Cuatrillizos",
+    "En la industria de la caña, relacionado con una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

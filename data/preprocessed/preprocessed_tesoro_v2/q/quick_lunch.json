@@ -3,12 +3,15 @@
   "term": "quick lunch",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Almuerzo rápido.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Almuerzo rápido",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Almuerzo rápido. Comida corta que se toma al mediodía, de uso en oficinas y sesiones de trabajo. Anglicismo crudo, poco frecuente.\nSan Juan de Puerto ..."
+          "Almuerzo rápido. Comida corta que se toma al mediodía, de uso en oficinas y sesiones de trabajo. Anglicismo crudo, poco frecuente. San Juan de Puerto Rico. Highways, y quick lunch en restaurantes de plástico. Distribuidores automáticos de coke, cigarros y gas. Shopping centers y edificios lujosos con nombre de bancos extranjeros"
         ]
       }
     }
   },
   "es_definitions": [
-    "Almuerzo rápido."
+    "Almuerzo rápido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

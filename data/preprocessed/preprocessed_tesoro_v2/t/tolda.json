@@ -3,12 +3,15 @@
   "term": "tolda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La pieza de tela burda del saco una vez que se le deshacen las costuras; usada generalmente para recoger hojas secas y otras basuras livianas, y para poner granos al sol.",
+      "consolidated_definition": "Saca o costal grande de tela para liar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07363388244896972,
+        "num_cleaned_definitions": 10,
+        "definition_stability": "Stability: 0.5092",
+        "semantic_similarity_score": 0.5092,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -26,16 +29,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -58,19 +61,29 @@
           "toldero"
         ],
         "reference_definitions": [
-          "Saca o costal grande de tela para liar granos o ponerlos a secar al sol.  “Como el almacén de las escogedoras quedaba enfrente de la Oficina, y Lupe i...",
-          "(T. en Col. y Ecuad.).  Tela para hacer toldos o cabañas.",
-          "Manta que se tiende para secar granos de café, habichuelas, achiote, maíz, cacao. Se hace de cuatro sacos abiertos y cosidos unos a otros."
+          "Saca o costal grande de tela para liar granos o ponerlos a secar al sol. “Como el almacén de las escogedoras quedaba enfrente de la Oficina, y Lupe intencionalmente tendía su tolda junto a la puerta...” Zeno Gandía, , cap. 3.",
+          ". Tela para hacer toldos o cabañas.",
+          "Manta que se tiende para secar granos de café, habichuelas, achiote, maíz, cacao. Se hace de cuatro sacos abiertos y cosidos unos a otros.",
+          "Tela de saco o más de un saco unidos en que se envuelven las hojas de tabaco para llevarlas desde la tala hasta el rancho o donde están las cosedoras. También se usa para cubrir los lados del camión que lleva cañas a la central para evitar que las puntas de las cañas pudieran golpear algún peatón y que los muchachos sacaran trozos mientras el camión estaba en marcha.",
+          "Toldo.",
+          "La pieza de tela burda del saco una vez que se le deshacen las costuras; usada generalmente para recoger hojas secas y otras basuras livianas, y para poner granos al sol.",
+          "La tela del saco de henequén.",
+          "Pedazo ancho de tela.",
+          "Cierta saca o costal grande de tela para liar granos o ponerlos a secar al sol.",
+          "Se pone el grano al sol sobre toldas o lonas hechas de sacos unidos por costura ."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En otras poblaciones, una tolda es una nube de agua.",
+      "consolidated_definition": "En otras poblaciones",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -99,8 +112,8 @@
     }
   },
   "es_definitions": [
-    "La pieza de tela burda del saco una vez que se le deshacen las costuras; usada generalmente para recoger hojas secas y otras basuras livianas, y para poner granos al sol.",
-    "En otras poblaciones, una tolda es una nube de agua."
+    "Saca o costal grande de tela para liar",
+    "En otras poblaciones"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

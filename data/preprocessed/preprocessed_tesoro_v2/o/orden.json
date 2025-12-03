@@ -3,12 +3,15 @@
   "term": "orden",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pedido hecho en un restaurante o tienda al solicitar la mercancía o el menú.",
+      "consolidated_definition": "En comercio",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12377699968876439,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5729",
+        "semantic_similarity_score": 0.5729,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,8 +26,8 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
@@ -35,8 +38,8 @@
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -52,13 +55,16 @@
         "reference_definitions": [
           "En comercio, pedido. “Orden de compra.”",
           "Pedido hecho en un restaurante o tienda al solicitar la mercancía o el menú.",
-          "alim. Servicio. Pedido de la selección de alimentos que se van a consumir en un restaurante o lugar de comida. Usual. DRAE 2001 (Cuba y Méx.) Compuest..."
+          "alim. Servicio. Pedido de la selección de alimentos que se van a consumir en un restaurante o lugar de comida. Usual. DRAE 2001 Compuestos: orden de compra, orden de mercado. El mozo trajo la orden. Al colocar la taza y el platillo sobre la mesa, su vista tropezó de pronto con algo",
+          "Relación de lo que se va a consumir en una cafetería o restaurante.",
+          "Alimento o bebida que se pide en un bar, restaurante o establecimiento similar.",
+          "Pedido de compra en un comercio."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pedido hecho en un restaurante o tienda al solicitar la mercancía o el menú."
+    "En comercio"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

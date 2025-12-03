@@ -3,12 +3,15 @@
   "term": "a jilo de",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En dirección a, en busca de.",
+      "consolidated_definition": "En dirección a",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2409621578099839,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.624",
+        "semantic_similarity_score": 0.624,
+        "cluster_count": null,
         "grammar": [
           "locución preposicional"
         ],
@@ -20,20 +23,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,15 +48,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En dirección a, en busca de. “Pa dil agora mesmo donde el Comisario, a jilo de la levita.” Fernández Juncos, Costumbres y tradiciones, 1883, p. 21. (E...",
-          "(jíbaro)  Ir en busca de.",
-          "Ir en busca de."
+          "En dirección a, en busca de. “Pa dil agora mesmo donde el Comisario, a jilo de la levita.” Fernández Juncos, Costumbres y tradiciones, 1883, p. 21. .",
+          "Ir en busca de.",
+          "Ir en busca de.",
+          "‘Ir en busca de.’ Del Rosario."
         ]
       }
     }
   },
   "es_definitions": [
-    "En dirección a, en busca de."
+    "En dirección a"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "bill",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Proyecto de ley.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Proyecto de ley",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5182926829268293,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7896",
+        "semantic_similarity_score": 0.7896,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -48,17 +51,21 @@
         "reference_definitions": [
           "Proyecto de ley.",
           "Proyecto de ley.",
-          "der. Proyecto de ley. Medida legislativa que se pretende convertir en ley luego de su discusión por los representantes legislativos. Anglicismo crudo,..."
+          "der. Proyecto de ley. Medida legislativa que se pretende convertir en ley luego de su discusión por los representantes legislativos. Anglicismo crudo, frecuente. El Consejo, es decir, la Cámara Alta, es a la par legislativa y ejecutiva. Y basta que los seis americanos que en ella figuran se opongan a un bill votado por los treinta y cinco representantes que autorizan este mensaje, y aún por los cinco puertorriqueños del Consejo mismo, para que el bill no llegue a convertirse en ley, quedando un millón de habitantes, en sus asuntos domésticos, sometidos al criterio de seis hombres que, amando mucho a Puerto Rico, no le amarán desde luego tanto como los hijos de Puerto Rico...",
+          "Proyecto de ley."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Factura.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "comer",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.043703703703703696,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3693",
+        "semantic_similarity_score": 0.3693,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -73,12 +80,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -88,16 +95,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "comer. Factura. Cuenta que debe pagarse por algún servicio. Anglicismo crudo, usual.\nDe los siete días de la semana, hay agua uno o dos, explicó Eugen...",
-          "comer. Vale. Papel a favor de alguien con obligación de pago de corta duración. Anglicismo crudo, poco frecuente.\nLos bills suelen ser los de más cort...",
+          "comer. Factura. Cuenta que debe pagarse por algún servicio. Anglicismo crudo, usual. De los siete días de la semana, hay agua uno o dos, explicó Eugenio Rodríguez, residente del barrio Río Grande y quien sostuvo que han pasado hasta 22 días sin agua. Pero el bill viene completito eso sí",
+          "comer. Vale. Papel a favor de alguien con obligación de pago de corta duración. Anglicismo crudo, poco frecuente. Los bills suelen ser los de más corta duración, y los que se llaman bills regulares son de noventiún días, nada más noventiún días, y se ofrecen al mejor postor por parte de la tesorería cada semana. He aquí uno de esos términos que, debido a sus peculiaridades, no admite una traducción fiel. Es preferible ahí decir sencillamente bill de tesorería. No es una traducción exacta del vale español, hay ciertas diferencias que debido a lo escaso del tiempo no podemos profundizar sobre ellas",
           "Factura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Proyecto de ley.",
-    "Factura."
+    "Proyecto de ley",
+    "comer"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

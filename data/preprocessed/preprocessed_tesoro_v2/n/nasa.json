@@ -3,12 +3,15 @@
   "term": "nasa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arte de pesca en forma de cajón hecho con un armazón de palos y cubierta con alambre de malla; con una puerta que permite la entrada de los peces, pero no la salida.",
+      "consolidated_definition": "Naso",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10068946075322446,
+        "num_cleaned_definitions": 10,
+        "definition_stability": "Stability: 0.5622",
+        "semantic_similarity_score": 0.5622,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,6 +26,18 @@
         ],
         "sources": [
           {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -31,23 +46,11 @@
             "year": "1948"
           },
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "PAGÁN GONZÁLEZ,",
             "year": "1969"
           },
           {
             "source": "SUÁREZ,",
-            "year": "1979"
-          },
-          {
-            "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
@@ -71,19 +74,29 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Naso. Nasa, red de pescar. “Y les ponen nasos y tarrayas.” Meléndez Muñoz, Yuyo, 1913, p. 10.",
+          "Naso. Nasa, red de pescar. “Y les ponen nasos y tarrayas.” Meléndez Muñoz, , p. 10.",
           "El cambio de género es usual en naso, por nasa, red de pescar.",
-          "(general)  Red algo menor que el chinchorro, usada en la pesca."
+          "Red algo menor que el chinchorro, usada en la pesca.",
+          "Arte de pesca en forma de jaula hecha de tela metálica y madera de mangle. Naso.",
+          "Red menor que el chinchorro usada en la pesca.",
+          "Trampa para pescar.",
+          "Red de cordón que usan los pescadores para atrapar peces o crustáceos.",
+          "Arte de pesca en forma de cajón hecho con un armazón de palos y cubierta con alambre de malla; con una puerta que permite la entrada de los peces, pero no la salida. También llamado trampa de pescar.",
+          "Red de pesca en forma de saco con el borde de la boca reforzado con un bejuco, que lo mantiene abierto; usado para pescar en las corrientes del río. También lo hacen con trozos de bambú, astillándolo para formar un cono, sujetas las varillas del bambú con bejucos. Naso.",
+          "Naso, red de pescar. También nasillo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Vara larga con un recipiente en la punta que se usa para tumbar aguacates y otras frutas.",
+      "consolidated_definition": "Vara larga con un recipiente en la punta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6842105263157895,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9041",
+        "semantic_similarity_score": 0.9041,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -98,12 +111,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -120,8 +133,8 @@
     }
   },
   "es_definitions": [
-    "Arte de pesca en forma de cajón hecho con un armazón de palos y cubierta con alambre de malla; con una puerta que permite la entrada de los peces, pero no la salida.",
-    "Vara larga con un recipiente en la punta que se usa para tumbar aguacates y otras frutas."
+    "Naso",
+    "Vara larga con un recipiente en la punta"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

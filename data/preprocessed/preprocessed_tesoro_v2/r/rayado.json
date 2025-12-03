@@ -3,12 +3,15 @@
   "term": "rayado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arrayado, pez.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Arrayado",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0496031746031746,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.481",
+        "semantic_similarity_score": 0.481,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "ERDMAN,",
             "year": "1974"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -47,18 +50,22 @@
         "related_words": [],
         "reference_definitions": [
           "Arrayado, pez.",
-          "(Costa del sur).  Pez de la familia Lutjanidea (pargos). Lutjanus synagris. También llamado arrayado y manchego (en la costa norte).",
-          "Manchego."
+          ". Pez de la familia Lutjanidea . Lutjanus synagris. También llamado arrayado y manchego .",
+          "Manchego.",
+          "Pez. También arrayado."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cerdo que tiene una raya blanca alrededor del pecho, de la raza Hampshire.",
+      "consolidated_definition": "Cerdo que tiene una raya blanca alrededor del",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -81,14 +88,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cerdo que tiene una raya blanca alrededor del pecho, de la raza Hampshire.  Arrayao."
+          "Cerdo que tiene una raya blanca alrededor del pecho, de la raza Hampshire. Arrayao."
         ]
       }
     }
   },
   "es_definitions": [
-    "Arrayado, pez.",
-    "Cerdo que tiene una raya blanca alrededor del pecho, de la raza Hampshire."
+    "Arrayado",
+    "Cerdo que tiene una raya blanca alrededor del"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

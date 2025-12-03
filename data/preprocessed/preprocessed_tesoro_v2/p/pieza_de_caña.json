@@ -3,12 +3,15 @@
   "term": "pieza de caña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cañaveral.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Cañaveral. Cierta porción del terreno sembrado sin definición de unas determinadas medidas exactas. .",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.041666666666666664,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.413",
+        "semantic_similarity_score": 0.413,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Can.).  Cañaveral. Cierta porción del terreno sembrado sin definición de unas determinadas medidas exactas. (Así, por ejemplo, “pieza  de cañas...",
+          ". Cañaveral. Cierta porción del terreno sembrado sin definición de unas determinadas medidas exactas. .",
           "Cañaveral."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cañaveral."
+    ". Cañaveral. Cierta porción del terreno sembrado sin definición de unas determinadas medidas exactas. ."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

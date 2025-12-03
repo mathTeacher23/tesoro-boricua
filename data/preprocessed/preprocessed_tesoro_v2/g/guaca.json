@@ -3,12 +3,15 @@
   "term": "guaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Templo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Templo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2153",
+        "semantic_similarity_score": 0.2153,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -38,14 +41,14 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Templo. “Pero estos [taínos] no tenían edificios de mucha duración, ni pensaron inmortalizar la memoria de sus héroes y caciques erigiendo pirámides, ...",
+          "Templo. “Pero estos no tenían edificios de mucha duración, ni pensaron inmortalizar la memoria de sus héroes y caciques erigiendo pirámides, como los egipcios, o guacas como los del Perú.",
           "Cueva."
         ]
       }
     }
   },
   "es_definitions": [
-    "Templo."
+    "Templo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

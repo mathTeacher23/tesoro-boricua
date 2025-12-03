@@ -3,12 +3,15 @@
   "term": "windshield",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parabrisas.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "autom",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.014925373134328358,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4761",
+        "semantic_similarity_score": 0.4761,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "autom. Parabrisas. Cristal delantero que protege del viento en los vehículos de motor. Anglicismo crudo, usual.\nPor favor no me hagan pensar que los f...",
+          "autom. Parabrisas. Cristal delantero que protege del viento en los vehículos de motor. Anglicismo crudo, usual. Por favor no me hagan pensar que los forums sirven para bochinches nada mas. Por si a caso, tengo un STI 06 100% stock",
           "Parabrisas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Parabrisas."
+    "autom"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

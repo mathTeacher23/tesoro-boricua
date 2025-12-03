@@ -3,12 +3,15 @@
   "term": "film",
   "superscripts": {
     "1": {
-      "consolidated_definition": "cin.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "cin",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -34,13 +37,13 @@
           "fílmico"
         ],
         "reference_definitions": [
-          "cin. Película. Rollo de celulosa con imágenes y sonido que se proyecta en cines, en la televisión o en otros. Anglicismo crudo, frecuente. Compuesto: ..."
+          "cin. Película. Rollo de celulosa con imágenes y sonido que se proyecta en cines, en la televisión o en otros. Anglicismo crudo, frecuente. Compuesto: film scoring. Conoció y trabajó con el director del film Bruno Barreto"
         ]
       }
     }
   },
   "es_definitions": [
-    "cin."
+    "cin"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "dengue",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad epidémica que se dice propia de los países cálidos, también conocida en el habla popular y familiar por monga y trancazo, y como denominaciones más pulidas, por gripe o influenza.",
+      "consolidated_definition": "Enfermedad epidémica que se dice propia de los",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.011798941798941798,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.2922",
+        "semantic_similarity_score": 0.2922,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1961"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "LAUREANO ORTEGA,",
@@ -37,8 +40,8 @@
             "year": "1974"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1961"
           }
         ],
         "years": [
@@ -53,15 +56,18 @@
           "dengoso, sa"
         ],
         "reference_definitions": [
-          "Enfermedad epidémica que se dice propia de los países cálidos, también conocida en el habla popular y familiar por monga y trancazo, y como denominaci...",
+          "Enfermedad epidémica que se dice propia de los países cálidos, también conocida en el habla popular y familiar por monga y trancazo, y como denominaciones más pulidas, por gripe o influenza.",
           "Influenza.",
-          "“Más peligrosa [que la monga] y se presenta en epidemias.”"
+          "“Más peligrosa y se presenta en epidemias.”",
+          "“El dengue es el que anda tumbando a medio mundo.”",
+          "Gripe.",
+          "Gripe, catarro muy fuerte."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enfermedad epidémica que se dice propia de los países cálidos, también conocida en el habla popular y familiar por monga y trancazo, y como denominaciones más pulidas, por gripe o influenza."
+    "Enfermedad epidémica que se dice propia de los"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "corbata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La parte del cuello de un gallo comprendida entre la parte baja del pico y el tramo superior de la pechuga.",
+      "consolidated_definition": "La parte del cuello de un gallo comprendida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2681847015463314,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6949",
+        "semantic_similarity_score": 0.6949,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -43,13 +46,14 @@
         "reference_definitions": [
           "La parte del cuello de un gallo comprendida entre la parte baja del pico y el tramo superior de la pechuga.",
           "Plumas en el cuello del gallo entre la parte baja del pico y el extremo superior de la pechuga.",
-          "El Lcdo. Severo R. Torruellas, Jr., la define como ‘parte central del cuello que va hasta el principio del esternón’. Caguas."
+          "El Lcdo. Severo R. Torruellas, Jr., la define como ‘parte central del cuello que va hasta el principio del esternón’. Caguas.",
+          "Apéndice que tiene el gallo en la parte anterior del cuello."
         ]
       }
     }
   },
   "es_definitions": [
-    "La parte del cuello de un gallo comprendida entre la parte baja del pico y el tramo superior de la pechuga."
+    "La parte del cuello de un gallo comprendida"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

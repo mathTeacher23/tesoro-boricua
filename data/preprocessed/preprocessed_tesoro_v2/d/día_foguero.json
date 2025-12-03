@@ -3,12 +3,15 @@
   "term": "día foguero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Día de sol muy intenso.",
+      "consolidated_definition": "De mucha agitación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19642857142857142,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6463",
+        "semantic_similarity_score": 0.6463,
+        "cluster_count": null,
         "grammar": [
           "locución sustantiva",
           "masculina"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           }
         ],
         "years": [
@@ -39,13 +42,14 @@
         "reference_definitions": [
           "De mucha agitación.",
           "Con mucho sol.",
-          "Día de mucha agitación."
+          "Día de mucha agitación.",
+          "Día de sol muy intenso."
         ]
       }
     }
   },
   "es_definitions": [
-    "Día de sol muy intenso."
+    "De mucha agitación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

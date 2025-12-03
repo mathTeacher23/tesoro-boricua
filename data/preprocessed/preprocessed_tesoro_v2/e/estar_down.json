@@ -3,12 +3,15 @@
   "term": "estar down",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar deprimido.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Estar deprimido",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06896551724137931,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5206",
+        "semantic_similarity_score": 0.5206,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -38,13 +41,13 @@
         "related_words": [],
         "reference_definitions": [
           "Estar deprimido. Triste.",
-          "Estar deprimido. Anglicismo híbrido, usual. Véase down.\nPorque mi caso es bien difícil, porque no hay cómo entenderme. A veces estoy high y a veces es..."
+          "Estar deprimido. Anglicismo híbrido, usual. Véase down. Porque mi caso es bien difícil, porque no hay cómo entenderme. A veces estoy high y a veces estoy down"
         ]
       }
     }
   },
   "es_definitions": [
-    "Estar deprimido."
+    "Estar deprimido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

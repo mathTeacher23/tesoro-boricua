@@ -3,12 +3,15 @@
   "term": "torreja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El bacalao frito se llama torrejas de bacalao, arepa de bacalao o torta de bacalao.",
+      "consolidated_definition": "Se hace de harina de trigo con bacalao",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15789473684210525,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7765",
+        "semantic_similarity_score": 0.7765,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "El bacalao frito se llama torrejas de bacalao, arepa de bacalao o torta de bacalao."
+    "Se hace de harina de trigo con bacalao"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "tuhonoko",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Significa casa de vivienda.",
+      "consolidated_definition": "Significa casa de vivienda",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.8333333333333334,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9052",
+        "semantic_similarity_score": 0.9052,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "(Voz eyerí.) Significa casa de vivienda.",
-          "(Voz eyerí.) Casa de vivienda."
+          "Significa casa de vivienda.",
+          "Casa de vivienda."
         ]
       }
     }
   },
   "es_definitions": [
-    "Significa casa de vivienda."
+    "Significa casa de vivienda"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

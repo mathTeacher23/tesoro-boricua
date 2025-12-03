@@ -3,12 +3,15 @@
   "term": "pánico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada por drogadictos.",
+      "consolidated_definition": "Escacez de droga",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18005291005291008,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6555",
+        "semantic_similarity_score": 0.6555,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,16 +28,16 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,14 +50,17 @@
         "related_words": [],
         "reference_definitions": [
           "Escacez de droga.",
-          "Voz usada por drogadictos.  Escasez de droga.",
-          "Cuando no hay marihuana."
+          "Voz usada por drogadictos. Escasez de droga.",
+          "Cuando no hay marihuana.",
+          "Redadas de drogas.",
+          "Escasez de droga.",
+          "Redada de drogas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Voz usada por drogadictos."
+    "Escacez de droga"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

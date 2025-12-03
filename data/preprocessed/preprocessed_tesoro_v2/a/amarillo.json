@@ -3,12 +3,15 @@
   "term": "amarillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plátano maduro troceado y cocido, ya sea frito, hervido o horneado.",
+      "consolidated_definition": "Plátano maduro",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21375155727646755,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.6847",
+        "semantic_similarity_score": 0.6847,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,20 +28,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "MORALES DE WALTERS,",
-            "year": "1969"
+            "source": "ACAPLE,",
+            "year": "2022"
           },
           {
             "source": "ACEVEDO DE D’AURIA,",
             "year": "1971"
           },
           {
-            "source": "SANTIAGO,",
-            "year": "1974"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
           },
           {
             "source": "DÍAZ MONTERO,",
@@ -49,16 +52,16 @@
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "MORALES DE WALTERS,",
+            "year": "1969"
           },
           {
-            "source": "ACAPLE,",
-            "year": "2022"
+            "source": "SANTIAGO,",
+            "year": "1974"
           }
         ],
         "years": [
@@ -75,28 +78,32 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Plátano maduro. (Musa). “Verde fue mi nacimiento —amarilla mi vejez, —cuando me vine a morir —sequesito me quedé”. ‘Adivinanza del amarillo’. (Ramírez...",
+          "Plátano maduro. . “Verde fue mi nacimiento —amarilla mi vejez, —cuando me vine a morir —sequesito me quedé”. ‘Adivinanza del amarillo’. .",
           "Plátano maduro.",
-          "Plátano maduro."
+          "Plátano maduro.",
+          "Plátano maduro.",
+          "Plátano maduro.",
+          "Plátano maduro, usado para freír y dulces.",
+          ". Col., Nic., P. Rico y R. Dom. Dicho del plátano grande: Que está maduro.",
+          "Fruto maduro de la planta de plátano.",
+          "Plátano maduro troceado y cocido, ya sea frito, hervido o horneado. Y como gusta al paladar boricua, los platos se sirven bien acompañados con arroz blanco y habichuelas guisadas en calderitos, arroz mamposteado, tostones, amarillos y mofongo, entre otros complementos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver abey .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver abey",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -107,8 +114,8 @@
     }
   },
   "es_definitions": [
-    "Plátano maduro troceado y cocido, ya sea frito, hervido o horneado.",
-    "Ver abey ."
+    "Plátano maduro",
+    "Ver abey"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

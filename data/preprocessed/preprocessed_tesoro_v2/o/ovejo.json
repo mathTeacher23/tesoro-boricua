@@ -3,12 +3,15 @@
   "term": "ovejo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Carnero, macho de la oveja.",
+      "consolidated_definition": ". Macho de la oveja, carnero o morueco.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19607843137254902,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.762",
+        "semantic_similarity_score": 0.762,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VAQUERO,",
             "year": "1995"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -46,19 +49,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg., Col., R. Dom. y Ven.).  Macho de la oveja, carnero o morueco.",
+          ". Macho de la oveja, carnero o morueco.",
           "Carnero.",
-          "Carnero."
+          "Carnero.",
+          "Carnero, macho de la oveja."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dícese del hombre o la mujer que necesita de un corte de cabello.",
+      "consolidated_definition": "Ovejuno",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09682539682539683,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4867",
+        "semantic_similarity_score": 0.4867,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -73,24 +80,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -104,14 +111,16 @@
         "reference_definitions": [
           "Ovejuno.",
           "Peludo. Se dice de la persona que necesita un recorte de pelo.",
-          "(popular)  Peludo, sin recortar."
+          "Peludo, sin recortar.",
+          "Dícese del hombre o la mujer que necesita de un corte de cabello.",
+          "Persona que necesita un corte de pelo, peluda."
         ]
       }
     }
   },
   "es_definitions": [
-    "Carnero, macho de la oveja.",
-    "Dícese del hombre o la mujer que necesita de un corte de cabello."
+    ". Macho de la oveja, carnero o morueco.",
+    "Ovejuno"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "condenado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mala persona, sinvergüenza.",
+      "consolidated_definition": "Mala persona",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4059",
+        "semantic_similarity_score": 0.4059,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -31,17 +34,20 @@
         "related_words": [],
         "reference_definitions": [
           "Mala persona, sinvergüenza",
-          "Maldito, a. “Ese condenao  hombre.”"
+          "Maldito, a. “Ese condenao hombre.”"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pez marino de hasta 30 cm de longitud, con aletas radiadas, de color amarillo, con líneas claras longitudinales en la parte superior, y diagonales en la inferior, las escamas inferiores están dispuestas en finas líneas diagonales y son más grandes que las escamas superiores.",
+      "consolidated_definition": "Pez de la familia Pomadasyidae",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1282051282051282,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4406",
+        "semantic_similarity_score": 0.4406,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -54,12 +60,12 @@
         ],
         "sources": [
           {
-            "source": "ERDMAN,",
-            "year": "1974"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ERDMAN,",
+            "year": "1974"
           }
         ],
         "years": [
@@ -69,15 +75,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez de la familia Pomadasyidae (roncos). Haemulon flavolineatum.",
-          "Pez marino de hasta 30 cm de longitud, con aletas radiadas, de color amarillo, con líneas claras longitudinales en la parte superior, y diagonales en ..."
+          "Pez de la familia Pomadasyidae . Haemulon flavolineatum.",
+          "Pez marino de hasta 30 cm de longitud, con aletas radiadas, de color amarillo, con líneas claras longitudinales en la parte superior, y diagonales en la inferior, las escamas inferiores están dispuestas en finas líneas diagonales y son más grandes que las escamas superiores. Haemulidae; Haemulon flavolineatum."
         ]
       }
     }
   },
   "es_definitions": [
-    "Mala persona, sinvergüenza.",
-    "Pez marino de hasta 30 cm de longitud, con aletas radiadas, de color amarillo, con líneas claras longitudinales en la parte superior, y diagonales en la inferior, las escamas inferiores están dispuestas en finas líneas diagonales y son más grandes que las escamas superiores."
+    "Mala persona",
+    "Pez de la familia Pomadasyidae"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

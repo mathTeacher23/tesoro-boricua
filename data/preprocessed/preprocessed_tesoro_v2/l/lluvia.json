@@ -3,12 +3,15 @@
   "term": "lluvia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto erecto con hojas de color verde brillante, vistosas flores azules y fruto amarillo en forma de drupa.",
+      "consolidated_definition": "Arbusto de flores azules y drupa de un",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2692307692307692,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7233",
+        "semantic_similarity_score": 0.7233,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Arbusto de flores azules y drupa de un centímetro, color amarillo anaranjado. (Duranta plumieri).",
+          "Arbusto de flores azules y drupa de un centímetro, color amarillo anaranjado. .",
           "Arbusto erecto con hojas de color verde brillante, vistosas flores azules y fruto amarillo en forma de drupa. Verbenaceae, Duranta plumieri."
         ]
       }
     }
   },
   "es_definitions": [
-    "Arbusto erecto con hojas de color verde brillante, vistosas flores azules y fruto amarillo en forma de drupa."
+    "Arbusto de flores azules y drupa de un"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

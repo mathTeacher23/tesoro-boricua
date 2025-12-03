@@ -3,12 +3,15 @@
   "term": "carapacho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Envoltura del coco.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Envoltura del coco",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.42857142857142855,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8033",
+        "semantic_similarity_score": 0.8033,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "SOLER,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "SOLER,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Apariencia, fachada.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Apariencia",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -60,12 +66,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -81,12 +87,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Guisado con la carne de juey servido en la concha del mismo juey.",
+      "consolidated_definition": "Guisado con la carne de juey servido en",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -115,9 +124,9 @@
     }
   },
   "es_definitions": [
-    "Envoltura del coco.",
-    "Apariencia, fachada.",
-    "Guisado con la carne de juey servido en la concha del mismo juey."
+    "Envoltura del coco",
+    "Apariencia",
+    "Guisado con la carne de juey servido en"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

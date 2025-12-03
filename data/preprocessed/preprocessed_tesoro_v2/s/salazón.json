@@ -3,12 +3,15 @@
   "term": "salazón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada en otros países de Hispanoamérica.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12222222222222223,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5349",
+        "semantic_similarity_score": 0.5349,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,15 +51,16 @@
           "salarse"
         ],
         "reference_definitions": [
-          "vulg.  (T. en Cuba y Pan.). Mala suerte.",
+          "vulg. . Mala suerte.",
           "Voz usada en otros países de Hispanoamérica. Mala suerte. Mala racha.",
-          "Escasez de dinero."
+          "Escasez de dinero.",
+          "Mala suerte."
         ]
       }
     }
   },
   "es_definitions": [
-    "Voz usada en otros países de Hispanoamérica."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

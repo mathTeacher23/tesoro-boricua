@@ -3,12 +3,15 @@
   "term": "gaveta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En un vehículo, receptáculo pequeño situado a la derecha del volante, que sirve para guardar documentos y otros objetos, guantera.",
+      "consolidated_definition": "Guantera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.014492753623188406,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3644",
+        "semantic_similarity_score": 0.3644,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HUYKE,",
             "year": "1973"
           },
           {
             "source": "LÓPEZ MORALES,",
             "year": "1991"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "En un vehículo, receptáculo pequeño situado a la derecha del volante, que sirve para guardar documentos y otros objetos, guantera."
+    "Guantera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

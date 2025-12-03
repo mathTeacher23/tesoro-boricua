@@ -3,12 +3,15 @@
   "term": "date",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona con la que se tiene una cita, posible novio o novia.",
+      "consolidated_definition": "Cita, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04710144927536231,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4285",
+        "semantic_similarity_score": 0.4285,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -40,15 +43,15 @@
           "dating"
         ],
         "reference_definitions": [
-          "Cita, compromiso. Acuerdo entre dos personas o más para encontrarse en un sitio a determinada hora y fecha. Anglicismo crudo, frecuente. Compuestos: c...",
-          "Persona con la que se tiene una cita, posible novio o novia. Anglicismo crudo, usual.\nYa estaba sentada en la mesa, cuando me llama por celular “Orlan...",
+          "Cita, compromiso. Acuerdo entre dos personas o más para encontrarse en un sitio a determinada hora y fecha. Anglicismo crudo, frecuente. Compuestos: closing date, blind date. Ya llevábamos cuatro dates cuando por fin se me dio, acabé quedándome en su apartamento overnight por primera vez el fin de semana pasado",
+          "Persona con la que se tiene una cita, posible novio o novia. Anglicismo crudo, usual. Ya estaba sentada en la mesa, cuando me llama por celular “Orlando” . Llegó bien lindo sonriendo mucho traia un maletin. Me dió la impresión de que habia bebido un poco",
           "Cita amorosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona con la que se tiene una cita, posible novio o novia."
+    "Cita, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

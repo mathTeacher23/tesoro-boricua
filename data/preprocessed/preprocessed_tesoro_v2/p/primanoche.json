@@ -3,12 +3,15 @@
   "term": "primanoche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Período de tiempo que va desde las siete a las nueve de la noche.",
+      "consolidated_definition": "Período de tiempo de las siete a las",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.75,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9691",
+        "semantic_similarity_score": 0.9691,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Período de tiempo que va desde las siete a las nueve de la noche."
+    "Período de tiempo de las siete a las"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

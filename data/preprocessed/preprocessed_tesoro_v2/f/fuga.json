@@ -3,12 +3,15 @@
   "term": "fuga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Manía.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Manía",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -36,12 +39,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Acción o entusiasmo fugaz.",
+      "consolidated_definition": "Acción o entusiasmo fugaz",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -69,12 +75,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Cuando un grupo completo no asiste a clases para irse a algún sitio en celebración de algo, se dice: día de fuga.",
+      "consolidated_definition": "Cuando un grupo completo no asiste a clases, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08695652173913043,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.57",
+        "semantic_similarity_score": 0.57,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -106,9 +115,9 @@
     }
   },
   "es_definitions": [
-    "Manía.",
-    "Acción o entusiasmo fugaz.",
-    "Cuando un grupo completo no asiste a clases para irse a algún sitio en celebración de algo, se dice: día de fuga."
+    "Manía",
+    "Acción o entusiasmo fugaz",
+    "Cuando un grupo completo no asiste a clases, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

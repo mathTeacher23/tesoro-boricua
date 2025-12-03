@@ -3,12 +3,15 @@
   "term": "divariar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Actuar alguien con inseguridad a la hora de tomar una decisión.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0544086015127971,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4314",
+        "semantic_similarity_score": 0.4314,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,15 +47,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Entre campesinos, cambiar, variar. “Polque díbanos a divarial (cambiar, variar).” Meléndez Muñoz, Cuentos del cedro, 1936, p. 69.",
+          "vulg. Entre campesinos, cambiar, variar. “Polque díbanos a divarial .” Meléndez Muñoz, Cuentos del cedro, 1936, p. 69.",
           "Hablar sin precisión en el uso de los vocablos.",
-          "Inseguridad en la acción a tomar en un asunto. Desvariar."
+          "Inseguridad en la acción a tomar en un asunto. Desvariar.",
+          "Actuar alguien con inseguridad a la hora de tomar una decisión.",
+          "Desvariar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Actuar alguien con inseguridad a la hora de tomar una decisión."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

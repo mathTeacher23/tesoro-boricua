@@ -3,12 +3,15 @@
   "term": "matahambre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de galleta corriente de tamaño mayor que se hace en las panaderías.",
+      "consolidated_definition": "Especie de galleta corriente de tamaño mayor que",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18915343915343916,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5685",
+        "semantic_similarity_score": 0.5685,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,12 +28,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,7 +44,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Especie de galleta corriente de tamaño mayor que se hace en las panaderías.",
+          "Especie de galleta corriente de tamaño mayor que se hace en las panaderías.",
           "Pudín hecho con harina de maíz. Pudín de maíz.",
           "Galleta de mayor tamaño que las corrientes."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Especie de galleta corriente de tamaño mayor que se hace en las panaderías."
+    "Especie de galleta corriente de tamaño mayor que"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

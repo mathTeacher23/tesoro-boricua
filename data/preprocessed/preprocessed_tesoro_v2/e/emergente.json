@@ -3,12 +3,15 @@
   "term": "emergente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, sustituta.",
+      "consolidated_definition": "Por sustituto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4058",
+        "semantic_similarity_score": 0.4058,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -41,12 +44,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "En el beisbol, jugador que sustituye a otro en el campo de juego.",
+      "consolidated_definition": "Bateador suplente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.34",
+        "semantic_similarity_score": 0.34,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -58,12 +64,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -80,8 +86,8 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, sustituta.",
-    "En el beisbol, jugador que sustituye a otro en el campo de juego."
+    "Por sustituto",
+    "Bateador suplente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

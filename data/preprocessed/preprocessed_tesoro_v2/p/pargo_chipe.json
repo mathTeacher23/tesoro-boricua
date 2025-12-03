@@ -3,12 +3,15 @@
   "term": "pargo chipe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cliente que no paga bien los servicios de la prostituta.",
+      "consolidated_definition": "Cliente que no paga bien los servicios de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8855",
+        "semantic_similarity_score": 0.8855,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Del inglés cheap)  Cliente que no paga bien los servicios de la prostituta.",
+          "Cliente que no paga bien los servicios de la prostituta.",
           "Cliente de prostituta que no paga bien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cliente que no paga bien los servicios de la prostituta."
+    "Cliente que no paga bien los servicios de"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

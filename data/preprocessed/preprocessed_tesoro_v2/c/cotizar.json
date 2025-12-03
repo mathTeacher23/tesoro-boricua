@@ -3,12 +3,15 @@
   "term": "cotizar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Escotar, pagar alguien la cuota correspondiente, contribuir a escote.",
+      "consolidated_definition": ". Escotar, o pagar la cuota correspondiente.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04801948051948052,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5062",
+        "semantic_similarity_score": 0.5062,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "WASHINGTON LLORENS,",
             "year": "1957"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,15 +45,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Col. y Chile).  Escotar, o pagar la cuota correspondiente.",
+          ". Escotar, o pagar la cuota correspondiente.",
           "Vender. “En este sitio no se cotiza mucho.”",
-          "Galicismo por pagar una cuota, contribuir a escote. “De acuerdo con esta ley los peones camineros quedaron huérfanos de todo género de ayuda... pues h..."
+          "Galicismo por pagar una cuota, contribuir a escote. “De acuerdo con esta ley los peones camineros quedaron huérfanos de todo género de ayuda... pues habían comenzado a cotizar desde el año 1947.”",
+          "Escotar, pagar alguien la cuota correspondiente, contribuir a escote.",
+          "Vener alguien algo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Escotar, pagar alguien la cuota correspondiente, contribuir a escote."
+    ". Escotar, o pagar la cuota correspondiente."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

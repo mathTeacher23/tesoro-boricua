@@ -3,12 +3,15 @@
   "term": "capá blanco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Varronia alba; Cordia gerascanthus; gerascanthoides.",
+      "consolidated_definition": "Varronia alba",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.125,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3228",
+        "semantic_similarity_score": 0.3228,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Varronia alba; Cordia gerascanthus; gerascanthoides."
+    "Varronia alba"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

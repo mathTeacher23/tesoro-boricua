@@ -3,12 +3,15 @@
   "term": "zafarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": ".",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Faltar a otro, no guardándole en los actos o palabras el respeto debido.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.40350877192982454,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6332",
+        "semantic_similarity_score": 0.6332,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -35,19 +38,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg.).  Faltar a otro, no guardándole en los actos o palabras el respeto debido.",
-          "(T. en Col.).  Incurrir en un desliz.",
-          "(T. en Arg.).  Faltar a otro, no guardándole en los actos o palabras el respeto debido."
+          ". Faltar a otro, no guardándole en los actos o palabras el respeto debido.",
+          ". Incurrir en un desliz.",
+          ". Faltar a otro, no guardándole en los actos o palabras el respeto debido."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Caerse.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Caerse",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -74,12 +80,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Soltarse una cosa, dejar de estar sujeta.",
+      "consolidated_definition": "Soltarse una cosa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10818181818181818,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5149",
+        "semantic_similarity_score": 0.5149,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -105,15 +114,17 @@
         "reference_definitions": [
           "Soltarse una cosa, dejar de estar sujeta.",
           "Desentenderse alguien de una situación o compromiso.",
-          "Escapársele a alguien una cosa."
+          "Escapársele a alguien una cosa.",
+          "Dislocarse una coyuntura o articulación.",
+          "Librarse de algo."
         ]
       }
     }
   },
   "es_definitions": [
-    ".",
-    "Caerse.",
-    "Soltarse una cosa, dejar de estar sujeta."
+    ". Faltar a otro, no guardándole en los actos o palabras el respeto debido.",
+    "Caerse",
+    "Soltarse una cosa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

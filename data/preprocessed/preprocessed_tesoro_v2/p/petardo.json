@@ -3,12 +3,15 @@
   "term": "petardo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asunto público que provoca escándalo.",
+      "consolidated_definition": "Borrachera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.011904761904761904,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.3651",
+        "semantic_similarity_score": 0.3651,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -29,16 +32,16 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,19 +53,26 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Borrachera. También guayao.",
+          "Borrachera. También guayao.",
           "Ron de mala calidad.",
-          "Borrachera."
+          "Borrachera.",
+          "Asunto público que provoca escándalo.",
+          "Peo estruendodo o apestoso.",
+          "Borrachera, guayo.",
+          "Bebida."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona desagradable.",
+      "consolidated_definition": "Persona desagradable",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -90,21 +100,19 @@
       }
     },
     "3": {
-      "consolidated_definition": "Ver rabo de gallo .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver rabo de gallo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -115,9 +123,9 @@
     }
   },
   "es_definitions": [
-    "Asunto público que provoca escándalo.",
-    "Persona desagradable.",
-    "Ver rabo de gallo ."
+    "Borrachera",
+    "Persona desagradable",
+    "Ver rabo de gallo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

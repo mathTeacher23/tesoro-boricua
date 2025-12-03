@@ -3,12 +3,15 @@
   "term": "sobraja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Residuo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.015873015873015872,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3113",
+        "semantic_similarity_score": 0.3113,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -43,15 +46,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg. Sobra  (Ant. en España, según la ed. XIV del Dicc. Académico.)",
+          "vulg. Sobra",
           "Residuo.",
-          "Sobras.  A la comida sobrante al levantarse la mesa dicen sobrajas."
+          "Sobras. A la comida sobrante al levantarse la mesa dicen sobrajas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Residuo."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

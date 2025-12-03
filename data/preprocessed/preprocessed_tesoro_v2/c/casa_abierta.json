@@ -3,12 +3,15 @@
   "term": "casa abierta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Open house.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Recepción, relacionado con una organización",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04081632653061224,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2132",
+        "semantic_similarity_score": 0.2132,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -25,12 +28,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -40,14 +43,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Recepción. Actividad en la que se planifica el recorrido de unos invitados por las facilidades de una institución –educativa, comercial, etc. -con el ...",
+          "Recepción. Actividad en la que se planifica el recorrido de unos invitados por las facilidades de una institución –educativa, comercial, etc. -con el objetivo de que conozcan sus ofertas. Calco de estructura, poco frecuente. Véase open house. La gira de la placa terminará el jueves en Ciudad Deportiva, en donde habrá una casa abierta desde las 9:00 de la mañana",
           "Open house."
         ]
       }
     }
   },
   "es_definitions": [
-    "Open house."
+    "Recepción, relacionado con una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

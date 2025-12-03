@@ -3,12 +3,15 @@
   "term": "barbas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estigmas rojizos de la flor femenina de la mazorca de maíz.",
+      "consolidated_definition": "Pelos de la mazorca",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5835",
+        "semantic_similarity_score": 0.5835,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino",
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Estigmas rojizos de la flor femenina de la mazorca de maíz."
+    "Pelos de la mazorca"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

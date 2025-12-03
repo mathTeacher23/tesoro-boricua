@@ -3,12 +3,15 @@
   "term": "fondear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tirar el ancla en un sitio.",
+      "consolidated_definition": "Tirar el ancla en un sitio",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4301",
+        "semantic_similarity_score": 0.4301,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -43,12 +46,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Capacidad del gallo de pelear agresiva y sostenidamente sin atisbo de flaqueza durante todo el enfrentamiento con su rival.",
+      "consolidated_definition": "Capacidad del gallo de pelear agresiva y sostenidamente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.24444444444444444,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7769",
+        "semantic_similarity_score": 0.7769,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -62,12 +68,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "2003"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "2003"
           }
         ],
         "years": [
@@ -77,15 +83,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Capacidad del gallo de pelear agresiva y sostenidamente sin atisbo de flaqueza durante todo el enfrentamiento con su rival. Un gallo con buen entrenam...",
+          "Capacidad del gallo de pelear agresiva y sostenidamente sin atisbo de flaqueza durante todo el enfrentamiento con su rival. Un gallo con buen entrenamiento debe estar preparado para el momento de fondear, cuando la pelea entra en su punto más álgido, de modo que no pierda fuerzas. Caguas.",
           "En las peleas de gallos, pelear un gallo agresiva y sostenidamente durante todo el encuentro."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tirar el ancla en un sitio.",
-    "Capacidad del gallo de pelear agresiva y sostenidamente sin atisbo de flaqueza durante todo el enfrentamiento con su rival."
+    "Tirar el ancla en un sitio",
+    "Capacidad del gallo de pelear agresiva y sostenidamente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

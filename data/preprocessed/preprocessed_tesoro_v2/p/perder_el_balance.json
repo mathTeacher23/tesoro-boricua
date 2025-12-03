@@ -3,12 +3,15 @@
   "term": "perder el balance",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Perder alguien el equilibrio.",
+      "consolidated_definition": "Perder el equilibrio",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.75,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8964",
+        "semantic_similarity_score": 0.8964,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Perder alguien el equilibrio."
+    "Perder el equilibrio"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

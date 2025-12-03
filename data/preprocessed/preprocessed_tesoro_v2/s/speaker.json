@@ -3,12 +3,15 @@
   "term": "speaker",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Portavoz de la Cámara de Representantes de la Legislatura de Estados Unidos y Puerto Rico.",
+      "consolidated_definition": "Por Presidente de la Cámara de Representantes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1084119496855346,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6498",
+        "semantic_similarity_score": 0.6498,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -43,17 +46,20 @@
         "reference_definitions": [
           "Por Presidente de la Cámara de Representantes. “Sendos sonetos dedicados al Presidente del Senado y al Speaker de la Cámara.”",
           "Presidente de la Cámara.",
-          "Portavoz de la Cámara de Representantes de la Legislatura de Estados Unidos y Puerto Rico. Anglicismo crudo, usual.\nMe crié escuchando chistes sobre l..."
+          "Portavoz de la Cámara de Representantes de la Legislatura de Estados Unidos y Puerto Rico. Anglicismo crudo, usual. Me crié escuchando chistes sobre la negritud de don Ernesto Ramos Antonini; de cómo, por sus pantalones, el entonces speaker de la Cámara de Representantes, ocupaba palcos de gente blanca en los juegos de pelota y luego se desmayaba, blanco como un papel"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Conferenciante.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Locutor",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.1674",
+        "semantic_similarity_score": 0.1674,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -66,12 +72,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -87,12 +93,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Bocina del equipo electrónico de reproducir sonido.",
+      "consolidated_definition": "Bocina del equipo electrónico de reproducir sonido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.043478260869565216,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5147",
+        "semantic_similarity_score": 0.5147,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -123,15 +132,15 @@
         "related_words": [],
         "reference_definitions": [
           "Bocina del equipo electrónico de reproducir sonido.",
-          "telecom. Bocina. Aditamento del teléfono que permite oír la voz sin tener el auricular en el oído. Anglicismo crudo, poco frecuente.\nOtro atractivo es..."
+          "telecom. Bocina. Aditamento del teléfono que permite oír la voz sin tener el auricular en el oído. Anglicismo crudo, poco frecuente. Otro atractivo es que al estar conectado a la línea telefónica, el sistema de monitoreo funciona como speaker o alta voz"
         ]
       }
     }
   },
   "es_definitions": [
-    "Portavoz de la Cámara de Representantes de la Legislatura de Estados Unidos y Puerto Rico.",
-    "Conferenciante.",
-    "Bocina del equipo electrónico de reproducir sonido."
+    "Por Presidente de la Cámara de Representantes",
+    "Locutor",
+    "Bocina del equipo electrónico de reproducir sonido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "encuevarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No querer salir una persona de su casa.",
+      "consolidated_definition": "Meterse una persona en la cama",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07323232323232322,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5224",
+        "semantic_similarity_score": 0.5224,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,13 +44,14 @@
         "reference_definitions": [
           "Meterse una persona en la cama.",
           "No querer salir una persona de su casa.",
-          "Aislarse rehuyendo el trato social."
+          "Aislarse rehuyendo el trato social.",
+          "Pasar alguien mucho tiempo metido en la cama."
         ]
       }
     }
   },
   "es_definitions": [
-    "No querer salir una persona de su casa."
+    "Meterse una persona en la cama"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "estación de limpieza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar destinado a la limpieza de los gallos de pelea.",
+      "consolidated_definition": "Lugar destinado a la limpieza de los gallos, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.25,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6438",
+        "semantic_similarity_score": 0.6438,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "2003"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "2003"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Lugar destinado a la limpieza de los gallos. Está equipado con los siguientes materiales: máquina de limpieza, placas de prueba, solvente núm. 1 y núm...",
+          "Lugar destinado a la limpieza de los gallos. Está equipado con los siguientes materiales: máquina de limpieza, placas de prueba, solvente núm. 1 y núm. 2, químicos, piedra pomez y algodón.",
           "Lugar destinado a la limpieza de los gallos de pelea."
         ]
       }
     }
   },
   "es_definitions": [
-    "Lugar destinado a la limpieza de los gallos de pelea."
+    "Lugar destinado a la limpieza de los gallos, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

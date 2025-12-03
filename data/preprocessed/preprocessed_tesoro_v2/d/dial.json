@@ -3,12 +3,15 @@
   "term": "dial",
   "superscripts": {
     "1": {
-      "consolidated_definition": "telecom.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "telecom",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2108907649286751,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6603",
+        "semantic_similarity_score": 0.6603,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,15 +34,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "telecom. Plato, disco. Pieza redonda de un teléfono o cualquier otro instrumento de conexión, en la que se oprimen los dígitos correspondientes hacien...",
-          "telecom. Botón u otro indicador que marca la banda de frecuencia radial. Anglicismo crudo, poco frecuente. DRAE 2001, del inglés.\nLa señora Leverett e...",
-          "telecom. Conjunto de las emisoras de radio que se captan en un determinado territorio. Anglicismo crudo, poco frecuente. DRAE 2001, del inglés.\nPrácti..."
+          "telecom. Plato, disco. Pieza redonda de un teléfono o cualquier otro instrumento de conexión, en la que se oprimen los dígitos correspondientes haciendo girar el plato. Anglicismo crudo, poco frecuente. DRAE 2001, del inglés. El cuentakilómetros ha sido sustituido por un dial digital ultramoderno dotado de nuevas funciones y permitiendo un mejor control del automóvil",
+          "telecom. Botón u otro indicador que marca la banda de frecuencia radial. Anglicismo crudo, poco frecuente. DRAE 2001, del inglés. La señora Leverett enciende la radio, repasa el dial hasta que encuentra una estación latina",
+          "telecom. Conjunto de las emisoras de radio que se captan en un determinado territorio. Anglicismo crudo, poco frecuente. DRAE 2001, del inglés. Prácticamente, el otro 50% de las frecuencias de Puerto Rico se las reparten otros dos estilos de hacer radio: las emisoras religiosas y las generalistas, con mayor número de puntos en el dial para las primeras, aunque pueda sorprender a muchos"
         ]
       }
     }
   },
   "es_definitions": [
-    "telecom."
+    "telecom"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

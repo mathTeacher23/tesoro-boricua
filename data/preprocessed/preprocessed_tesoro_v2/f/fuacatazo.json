@@ -3,12 +3,15 @@
   "term": "fuacatazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe que se recibe accidentalmente.",
+      "consolidated_definition": ". Batacazo.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.041666666666666664,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3511",
+        "semantic_similarity_score": 0.3511,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,15 +47,16 @@
           "¡fuacatá!"
         ],
         "reference_definitions": [
-          "(T. en Cuba).  Batacazo.",
+          ". Batacazo.",
           "Batacazo.",
-          "Caída."
+          "Caída.",
+          "Golpe que se recibe accidentalmente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Golpe que se recibe accidentalmente."
+    ". Batacazo."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

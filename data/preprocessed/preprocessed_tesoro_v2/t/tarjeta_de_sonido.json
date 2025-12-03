@@ -3,12 +3,15 @@
   "term": "tarjeta de sonido",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Pieza del soporte físico del ordenador que convierte audio digital en sonido audible a través de las bocinas del equipo. Calco de estructura, ..."
+          "inform. Pieza del soporte físico del ordenador que convierte audio digital en sonido audible a través de las bocinas del equipo. Calco de estructura, frecuente. Esto se puede hacer siempre y cuando las computadoras conectadas para este propósito cuenten con el hardware necesario , al igual que las aplicaciones"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

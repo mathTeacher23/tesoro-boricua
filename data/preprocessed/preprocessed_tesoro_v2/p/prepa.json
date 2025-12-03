@@ -3,12 +3,15 @@
   "term": "prepa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El estudiante de primer año universitario .",
+      "consolidated_definition": "El estudiante de primer año universitario, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13175061185067818,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5441",
+        "semantic_similarity_score": 0.5441,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -27,24 +30,24 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "VAQUERO,",
-            "year": "1995"
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
+            "source": "VAQUERO,",
+            "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -58,15 +61,19 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "(general) El estudiante de primer año universitario (voz de estudiantes).",
+          "El estudiante de primer año universitario .",
           "Estudiante de primer año. Fresco, ca. Primate.",
-          "Bisoño. Aprendiz."
+          "Bisoño. Aprendiz.",
+          "Estudiante de primer año en la universidad. Estudiante que entra a primer año a una institución de educación superior. Estudiante universitario de primer año.",
+          "El estudiante que empieza. También novato.",
+          "Estudiante universitario de primer año.",
+          "educ. Estudiante de nuevo ingreso, especialmente el universitario. Anglicismo adaptado, usual. Con la misma ansiedad con la que llega un prepa a su universidad así llegamos nosotros"
         ]
       }
     }
   },
   "es_definitions": [
-    "El estudiante de primer año universitario ."
+    "El estudiante de primer año universitario, relacionado con una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

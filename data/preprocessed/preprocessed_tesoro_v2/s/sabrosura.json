@@ -3,12 +3,15 @@
   "term": "sabrosura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada en otros países de Hispanoamérica.",
+      "consolidated_definition": "fam",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07324735449735449,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6606",
+        "semantic_similarity_score": 0.6606,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,15 +47,16 @@
           "sabrosero, ra"
         ],
         "reference_definitions": [
-          "fam.  (T. en Am. Cen. y Col.).  Dulzura, fruición, deleite.",
+          "fam. . Dulzura, fruición, deleite.",
           "Voz usada en otros países de Hispanoamérica. Dulzura, fruición, deleite. Calidad de sabroso.",
-          "Cualidad de sabroso, delicia, exquisitez."
+          "Cualidad de sabroso, delicia, exquisitez.",
+          "Dulzura, deleite, fruición."
         ]
       }
     }
   },
   "es_definitions": [
-    "Voz usada en otros países de Hispanoamérica."
+    "fam"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

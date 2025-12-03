@@ -3,12 +3,15 @@
   "term": "coyure",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Coyor, palma.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Palma coyor",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06432748538011696,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5672",
+        "semantic_similarity_score": 0.5672,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Palma coyor. Cook. “Las palmas que llaman coyures son más altas que las de grana.” Abbad, 1788, cap. XL.",
-          "V. coyor.",
-          "Coyor, palma."
+          "Palma coyor. Cook. “Las palmas que llaman coyures son más altas que las de grana.” , cap. XL.",
+          ". coyor.",
+          "Coyor, palma.",
+          "Coyor, fruto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Coyor, palma."
+    "Palma coyor"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

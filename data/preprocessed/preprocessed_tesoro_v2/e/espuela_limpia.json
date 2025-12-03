@@ -3,12 +3,15 @@
   "term": "espuela limpia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Espuelas sin la protección de botas o guantes.",
+      "consolidated_definition": "Espuelas sin la protección de botas o guantes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21052631578947367,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6597",
+        "semantic_similarity_score": 0.6597,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Espuelas sin la protección de botas o guantes."
+    "Espuelas sin la protección de botas o guantes"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

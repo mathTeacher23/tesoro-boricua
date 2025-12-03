@@ -3,12 +3,15 @@
   "term": "blower",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte de la cortadora de caña que limpia la caña antes de echarla al carretón.",
+      "consolidated_definition": "Parte de la cortadora de caña que limpia",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -38,12 +41,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Peinado, hecho en la peluquería, utilizando el secador de pelo del mismo nombre.",
+      "consolidated_definition": "Secador, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06475882083833705,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5112",
+        "semantic_similarity_score": 0.5112,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,12 +64,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -73,16 +79,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Secador. Máquina eléctrica que crea una corriente de aire usada con fines diversos. Anglicismo crudo, usual.\nY es que su gusto por la ropa negra, su p...",
-          "Peinado, hecho en la peluquería, utilizando el secador de pelo del mismo nombre.\nEl rizo se reduce hasta un 80%, lo que ayudará a que el blower dure m...",
+          "Secador. Máquina eléctrica que crea una corriente de aire usada con fines diversos. Anglicismo crudo, usual. Y es que su gusto por la ropa negra, su pelo rubio estilizado con blower y su espíritu romántico provocan que, con frecuencia, el público lo identifique como baladista, rockero o, incluso, reguetonero",
+          "Peinado, hecho en la peluquería, utilizando el secador de pelo del mismo nombre. El rizo se reduce hasta un 80%, lo que ayudará a que el blower dure más",
           "Secador de pelo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Parte de la cortadora de caña que limpia la caña antes de echarla al carretón.",
-    "Peinado, hecho en la peluquería, utilizando el secador de pelo del mismo nombre."
+    "Parte de la cortadora de caña que limpia",
+    "Secador, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

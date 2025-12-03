@@ -3,12 +3,15 @@
   "term": "corte de izquierda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llevar la tabla de surfin hacia el lado izquierdo.",
+      "consolidated_definition": "Llevar la tabla de surfin hacia el lado",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23076923076923078,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7778",
+        "semantic_similarity_score": 0.7778,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Llevar la tabla de surfin hacia el lado izquierdo."
+    "Llevar la tabla de surfin hacia el lado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

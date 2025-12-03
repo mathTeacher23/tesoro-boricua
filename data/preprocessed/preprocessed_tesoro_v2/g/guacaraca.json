@@ -3,12 +3,15 @@
   "term": "guacaraca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una de las varias especies de batata, de piel blanca y pulpa morada, que cultivaban los indios.",
+      "consolidated_definition": "Una de las varias especies de batata",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14047619047619048,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.65",
+        "semantic_similarity_score": 0.65,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Una de las varias especies de batata, de piel blanca y pulpa morada, que cultivaban los indios."
+    "Una de las varias especies de batata"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

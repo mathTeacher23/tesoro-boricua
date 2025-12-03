@@ -3,12 +3,15 @@
   "term": "appliances",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enseres eléctricos.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Electrodomésticos",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5456",
+        "semantic_similarity_score": 0.5456,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino",
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -39,14 +42,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Electrodomésticos. Utensilios, piezas o equipos utilizados para distintas funciones, especialmente las relacionadas con labores domésticas. Anglicismo...",
+          "Electrodomésticos. Utensilios, piezas o equipos utilizados para distintas funciones, especialmente las relacionadas con labores domésticas. Anglicismo crudo, poco frecuente. Sé que tengo que adquirir dos major appliances en el 2007; los voy a comprar antes del 15 de noviembre",
           "Enseres eléctricos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enseres eléctricos."
+    "Electrodomésticos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

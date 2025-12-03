@@ -3,12 +3,15 @@
   "term": "tunero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Buscador de tunas, plantas.",
+      "consolidated_definition": ". Buscador de tunas; vendedor de tunas.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3481481481481481,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.8984",
+        "semantic_similarity_score": 0.8984,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -39,7 +42,7 @@
           "tuna 1"
         ],
         "reference_definitions": [
-          "(Der. de tuna). Buscador de tunas; vendedor de tunas.",
+          ". Buscador de tunas; vendedor de tunas.",
           "Buscador de tunas, plantas.",
           "Vendedor de tunas, plantas."
         ]
@@ -47,7 +50,7 @@
     }
   },
   "es_definitions": [
-    "Buscador de tunas, plantas."
+    ". Buscador de tunas; vendedor de tunas."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

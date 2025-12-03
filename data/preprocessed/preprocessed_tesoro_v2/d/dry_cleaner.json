@@ -3,12 +3,15 @@
   "term": "dry cleaner",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tintorería.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Tintorería",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -35,13 +38,13 @@
           "dry clean"
         ],
         "reference_definitions": [
-          "Tintorería. Establecimiento que realiza la limpieza de ropa o la tiñe. Anglicismo crudo, frecuente.\nEsta es una excelente alternativa de inversión par..."
+          "Tintorería. Establecimiento que realiza la limpieza de ropa o la tiñe. Anglicismo crudo, frecuente. Esta es una excelente alternativa de inversión para los que buscan mayor rendimiento de su dinero. “Ya tengo XX años y he tenido que bajar la velocidad; aunque no lo quiero admitir, ya no tengo las energías que requiere un dry cleaner como éste”, esto es una planta industrial a pequeña escala con gran futuro”"
         ]
       }
     }
   },
   "es_definitions": [
-    "Tintorería."
+    "Tintorería"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

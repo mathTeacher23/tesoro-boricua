@@ -3,12 +3,15 @@
   "term": "metido, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, ligeramente borracha.",
+      "consolidated_definition": "Borracho",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.014309764309764309,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5884",
+        "semantic_similarity_score": 0.5884,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FERNÁNDEZ,",
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,17 +52,21 @@
         "reference_definitions": [
           "Borracho. Calamocano. “¿Borracho yo? —Sí. —El que está metido eres tú.” Zeno Gandía, La charca, 1893, cap. X.",
           "Borracho.",
-          "Metío, ‘entremetido’. El término se aplica más en el sentido de borrachera. Metido en palos, ‘un poco borracho’."
+          "Metío, ‘entremetido’. El término se aplica más en el sentido de borrachera. Metido en palos, ‘un poco borracho’.",
+          "Referido a persona, ligeramente borracha."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona, entremetida, que se mete donde no la llaman.",
+      "consolidated_definition": ". Entremetido. Ac.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.00625,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5203",
+        "semantic_similarity_score": 0.5203,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -71,24 +78,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -101,16 +108,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Am. Cen., Arg., Chile y Cuba). Entremetido. Ac.",
+          ". Entremetido. Ac.",
           "Entremetío.",
-          "Persona que trata de enterarse de todo."
+          "Persona que trata de enterarse de todo.",
+          "‘Entrometido.’ Malaret.",
+          "Referido a persona, entremetida, que se mete donde no la llaman."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, ligeramente borracha.",
-    "Referido a persona, entremetida, que se mete donde no la llaman."
+    "Borracho",
+    ". Entremetido. Ac."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

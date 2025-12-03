@@ -3,12 +3,15 @@
   "term": "cosquilleo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comezón, inquietud.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Comezón",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06666666666666667,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4783",
+        "semantic_similarity_score": 0.4783,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,15 +39,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Comezón, inquietud. También carcomillo.",
+          "Comezón, inquietud. También carcomillo.",
           "Comezón.",
-          "Inquietud."
+          "Inquietud.",
+          "Carcomillo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Comezón, inquietud."
+    "Comezón"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

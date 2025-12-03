@@ -3,12 +3,15 @@
   "term": "rascarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Emborracharse, ajumarse, empinar, jalarse, jenderse, matracarse, picarse, templarse.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.03333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6614",
+        "semantic_similarity_score": 0.6614,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "FERNÁNDEZ,",
+            "year": "1979"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1972"
-          },
-          {
-            "source": "FERNÁNDEZ,",
-            "year": "1979"
           }
         ],
         "years": [
@@ -45,7 +48,7 @@
           "rascado, da"
         ],
         "reference_definitions": [
-          "vulg. (T. en Am. Cen., Chile, Col. y Ven.).  Emborracharse.",
+          "vulg. . Emborracharse.",
           "Emborracharse, ajumarse, empinar, jalarse, jenderse, matracarse, picarse, templarse.",
           "Emborracharse."
         ]
@@ -53,7 +56,7 @@
     }
   },
   "es_definitions": [
-    "Emborracharse, ajumarse, empinar, jalarse, jenderse, matracarse, picarse, templarse."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

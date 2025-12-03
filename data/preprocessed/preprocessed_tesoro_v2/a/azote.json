@@ -3,12 +3,15 @@
   "term": "azote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hechizo o castigo de los espíritus.",
+      "consolidated_definition": "Mala racha",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2079",
+        "semantic_similarity_score": 0.2079,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -37,12 +40,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Golpe causado por una caída o propinado por alguien.",
+      "consolidated_definition": "Golpe causado por una caída o propinado por",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -71,8 +77,8 @@
     }
   },
   "es_definitions": [
-    "Hechizo o castigo de los espíritus.",
-    "Golpe causado por una caída o propinado por alguien."
+    "Mala racha",
+    "Golpe causado por una caída o propinado por"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

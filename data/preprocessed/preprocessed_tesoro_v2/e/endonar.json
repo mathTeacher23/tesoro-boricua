@@ -3,12 +3,15 @@
   "term": "endonar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacer que uno cargue con una persona o asunto que no es de su agrado.",
+      "consolidated_definition": "hacer que uno cargue con algo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.022988505747126436,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4475",
+        "semantic_similarity_score": 0.4475,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -20,16 +23,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "Hacer que uno cargue con una persona o asunto que no es de su agrado."
+    "hacer que uno cargue con algo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

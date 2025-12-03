@@ -3,12 +3,15 @@
   "term": "culequera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enamoramiento ciego de alguien.",
+      "consolidated_definition": "fest",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.024761812261812264,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.4582",
+        "semantic_similarity_score": 0.4582,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -26,6 +29,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -36,10 +43,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -53,15 +56,21 @@
           "culeco, ca"
         ],
         "reference_definitions": [
-          "fest.  (T. en Méx., Col. y Perú).  Calidad de clueco.",
+          "fest. . Calidad de clueco.",
           "Enamoramiento. “No le durará a usté mucho —con ella la culequera.” León Noel, “Compae...”, La Correspondencia, 7 de diciembre de 1934.",
-          "Cloquera."
+          "Cloquera.",
+          "Enamoramiento ciego.",
+          "Euforia.",
+          "Cloquera",
+          "fig. Enamoramiento",
+          "Euforia, alegría.",
+          "Enamoramiento ciego de alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enamoramiento ciego de alguien."
+    "fest"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

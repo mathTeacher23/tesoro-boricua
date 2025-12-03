@@ -3,12 +3,15 @@
   "term": "espiche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salidero de una vasija, agujero.",
+      "consolidated_definition": "Agujero",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.42857142857142855,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9634",
+        "semantic_similarity_score": 0.9634,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,12 +45,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Gorgojo que vive en el bejuco de la batata y que se introduce después en el tubérculo.",
+      "consolidated_definition": "Gorgojo que vive en el bejuco de la",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -79,8 +85,8 @@
     }
   },
   "es_definitions": [
-    "Salidero de una vasija, agujero.",
-    "Gorgojo que vive en el bejuco de la batata y que se introduce después en el tubérculo."
+    "Agujero",
+    "Gorgojo que vive en el bejuco de la"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

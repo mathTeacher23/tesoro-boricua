@@ -3,12 +3,15 @@
   "term": "guillarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abrazarse y besarse los novios de manera prolongada y lasciva.",
+      "consolidated_definition": "En el argot estudiantil",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09170489641077877,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5501",
+        "semantic_similarity_score": 0.5501,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -44,17 +47,23 @@
         "reference_definitions": [
           "En el argot estudiantil, apestillarse, estar juntos los novios.",
           "Abrazarse los novios.",
-          "Hacer el amor."
+          "Hacer el amor.",
+          "Simular alguien que desconoce algo.",
+          "Abrazarse y besarse los novios de manera prolongada y lasciva.",
+          "Realizar el coito los novios."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ufanarse, hacer alguien gala de algo.",
+      "consolidated_definition": "Drogarse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16666666666666666,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5693",
+        "semantic_similarity_score": 0.5693,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -70,12 +79,12 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS, 1981B",
-            "year": ""
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "WASHINGTON LLORENS, 1981B",
+            "year": ""
           }
         ],
         "years": [
@@ -91,12 +100,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Huir, grillarse.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Huir",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -124,9 +136,9 @@
     }
   },
   "es_definitions": [
-    "Abrazarse y besarse los novios de manera prolongada y lasciva.",
-    "Ufanarse, hacer alguien gala de algo.",
-    "Huir, grillarse."
+    "En el argot estudiantil",
+    "Drogarse",
+    "Huir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

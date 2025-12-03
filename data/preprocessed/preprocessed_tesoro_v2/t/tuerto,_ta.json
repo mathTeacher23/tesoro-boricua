@@ -3,12 +3,15 @@
   "term": "tuerto, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona [a la] que le falta un ojo.",
+      "consolidated_definition": "Persona que le falta un ojo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.45454545454545453,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7399",
+        "semantic_similarity_score": 0.7399,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1966"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1966"
           }
         ],
         "years": [
@@ -37,18 +40,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Persona [a la] que le falta un ojo. También esojao.",
+          "Persona que le falta un ojo. También esojao.",
           "Al que le falta un ojo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "De cualquier pieza de madera o de metal que esté combada o torcida.",
+      "consolidated_definition": "Dícese de la cosa que no está en",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1753422016579911,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4624",
+        "semantic_similarity_score": 0.4624,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -80,8 +86,8 @@
     }
   },
   "es_definitions": [
-    "Persona [a la] que le falta un ojo.",
-    "De cualquier pieza de madera o de metal que esté combada o torcida."
+    "Persona que le falta un ojo",
+    "Dícese de la cosa que no está en"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

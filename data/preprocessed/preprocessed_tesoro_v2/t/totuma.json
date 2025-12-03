@@ -3,12 +3,15 @@
   "term": "totuma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fruto del totumo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Árbol más generalmente conocido por higüero, y fruto del mismo, más generalmente llamada higüera.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.041666666666666664,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5022",
+        "semantic_similarity_score": 0.5022,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -41,19 +44,22 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "(T. en Am.).  Árbol más generalmente conocido por higüero, y fruto del mismo, más generalmente llamada higüera.",
+          ". Árbol más generalmente conocido por higüero, y fruto del mismo, más generalmente llamada higüera.",
           "Fruto del totumo.",
           "Higüero."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Vasija hecha de la totuma o jigüera pequeña, partiéndola por la mitad.",
+      "consolidated_definition": "Vasija hecha del fruto del totumo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19134294068504595,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.6447",
+        "semantic_similarity_score": 0.6447,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -68,20 +74,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           },
           {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
-            "source": "MAULEÓN,",
-            "year": "1974"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
+            "source": "MAULEÓN,",
+            "year": "1974"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -98,16 +104,19 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Vasija hecha del fruto del totumo. “Apuraba a sorbos en una dita o totuma.” Tapia, Cofresí, 1875.",
+          "Vasija hecha del fruto del totumo. “Apuraba a sorbos en una dita o totuma.” Tapia, .",
           "Vasija hecha de la totuma o jigüera pequeña, partiéndola por la mitad.",
-          "Fruto del totumo."
+          "Fruto del totumo.",
+          "Vasija de higüera.",
+          "Vasija hecha de la higüera.",
+          "Vasija hecha de la fruta del higüero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fruto del totumo.",
-    "Vasija hecha de la totuma o jigüera pequeña, partiéndola por la mitad."
+    ". Árbol más generalmente conocido por higüero, y fruto del mismo, más generalmente llamada higüera.",
+    "Vasija hecha del fruto del totumo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "cleaner",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Limpiador.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Limpiador",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.021739130434782608,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6178",
+        "semantic_similarity_score": 0.6178,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,18 +39,21 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Limpiador. Producto detergente especial que se utiliza para limpieza. Anglicismo crudo, poco frecuente.\nTe aconsejo (me lo dijeron despues de comprarl...",
+          "Limpiador. Producto detergente especial que se utiliza para limpieza. Anglicismo crudo, poco frecuente. Te aconsejo que cojas un cleaner de estos de spray y limpies el tuyo bien antes de comprar uno nuevo a ver si te resuelve...si no pues cámbialo",
           "Limpiador."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Borrador de las computadoras.",
+      "consolidated_definition": "Borrador de las computadoras",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,8 +82,8 @@
     }
   },
   "es_definitions": [
-    "Limpiador.",
-    "Borrador de las computadoras."
+    "Limpiador",
+    "Borrador de las computadoras"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

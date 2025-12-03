@@ -3,12 +3,15 @@
   "term": "pasota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona que lo soporta todo.",
+      "consolidated_definition": "Persona anticuada",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1111111111111111,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4207",
+        "semantic_similarity_score": 0.4207,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -37,12 +40,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Muchacha bonita.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Muchacha bonita",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -71,8 +77,8 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona que lo soporta todo.",
-    "Muchacha bonita."
+    "Persona anticuada",
+    "Muchacha bonita"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

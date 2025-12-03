@@ -3,12 +3,15 @@
   "term": "pendencia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estado de atención a lo que está por resolverse o terminarse.",
+      "consolidated_definition": "Preocupación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0411620959319169,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4777",
+        "semantic_similarity_score": 0.4777,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
@@ -50,13 +53,16 @@
         "reference_definitions": [
           "Preocupación. Asunto sin resolver. “Mientras tenga esa pendencia no tendrá sosiego.”",
           "Estar en la pendencia. Estar alerta en la atención de algo: un negocio, una finca, la familia, etc.",
-          "Preocupación."
+          "Preocupación.",
+          "Dolencia. Punzada de dolor.",
+          "Estado de atención a lo que está por resolverse o terminarse.",
+          "Calidad de estar pendiente de algo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estado de atención a lo que está por resolverse o terminarse."
+    "Preocupación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

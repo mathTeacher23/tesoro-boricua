@@ -3,12 +3,15 @@
   "term": "gallo pava",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo de cresta de escaso crecimiento.",
+      "consolidated_definition": "Gallo de cresta de escaso crecimiento",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -36,12 +39,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "com.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "com",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -64,14 +70,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "com.  Se dice de la persona que sobresale en algo. “Ese sí que es orador... -No, don Gaspar... porque ¿adónde me deja el pitirre de Ponce y el gallo p..."
+          "com. Se dice de la persona que sobresale en algo. “Ese sí que es orador... -No, don Gaspar... porque ¿adónde me deja el pitirre de Ponce y el gallo pava?” Meléndez Muñoz, Lecturas..., 1919, p. 159."
         ]
       }
     }
   },
   "es_definitions": [
-    "Gallo de cresta de escaso crecimiento.",
-    "com."
+    "Gallo de cresta de escaso crecimiento",
+    "com"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

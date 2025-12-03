@@ -3,12 +3,15 @@
   "term": "covacha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuarto pequeño de la casa en que se guardan las cosas que se usan poco.",
+      "consolidated_definition": ". Trastera, o pieza de la casa destinada para trastos inútiles.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2031017266486374,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.6253",
+        "semantic_similarity_score": 0.6253,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "CASIANO,",
+            "year": "1973"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "CASIANO,",
-            "year": "1973"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,19 +54,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Perú).  Trastera, o pieza de la casa destinada para trastos inútiles.",
+          ". Trastera, o pieza de la casa destinada para trastos inútiles.",
           "Cuarto pequeño de la casa en que se guardan las cosas que se usan poco.",
-          "Cuarto pequeño de la casa donde se guardan las cosas que se usan poco."
+          "Cuarto pequeño de la casa donde se guardan las cosas que se usan poco.",
+          "Closet debajo de una escalera destinado a guardar cachivaches.",
+          "Trastero o pieza de la casa destinada a guardar productos y objetos de limpieza."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Perrera.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Perrera",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -76,12 +84,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -98,8 +106,8 @@
     }
   },
   "es_definitions": [
-    "Cuarto pequeño de la casa en que se guardan las cosas que se usan poco.",
-    "Perrera."
+    ". Trastera, o pieza de la casa destinada para trastos inútiles.",
+    "Perrera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

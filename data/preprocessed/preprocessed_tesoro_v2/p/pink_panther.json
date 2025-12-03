@@ -3,12 +3,15 @@
   "term": "pink panther",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Homosexual.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Homosexual, relacionado con un grupo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027777777777777776,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5279",
+        "semantic_similarity_score": 0.5279,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -37,13 +40,13 @@
         "related_words": [],
         "reference_definitions": [
           "Homosexual.",
-          "Homosexual. Persona que se inclina a la relación sexual con personas del mismo sexo, también heterosexual que imita ese comportamiento. Anglicismo cru..."
+          "Homosexual. Persona que se inclina a la relación sexual con personas del mismo sexo, también heterosexual que imita ese comportamiento. Anglicismo crudo, poco frecuente. Él ocultaba su homosexualidad pero todos sabían que era un pink panther"
         ]
       }
     }
   },
   "es_definitions": [
-    "Homosexual."
+    "Homosexual, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

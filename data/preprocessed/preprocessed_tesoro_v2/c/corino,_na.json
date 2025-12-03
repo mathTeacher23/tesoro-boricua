@@ -3,12 +3,15 @@
   "term": "corino, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Las personas con defectos en los pies, tales como un pie o ambos virados para adentro.",
+      "consolidated_definition": "Escaro, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 12,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16311228128854005,
+        "num_cleaned_definitions": 12,
+        "definition_stability": "Stability: 0.604",
+        "semantic_similarity_score": 0.604,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,16 +27,8 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "GOYCO,",
-            "year": "1964"
-          },
-          {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "CEREZO DE PONCE,",
@@ -44,28 +39,36 @@
             "year": "1967"
           },
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1996"
           },
           {
+            "source": "GOYCO,",
+            "year": "1964"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "PÉREZ SALA,",
+            "year": "1968"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -86,13 +89,22 @@
         "reference_definitions": [
           "Escaro, o que tiene los brazos o los pies y tobillos torcidos.",
           "Las personas con defectos en los pies, tales como un pie o ambos virados para adentro.",
-          "Persona que tiene los pies torcidos."
+          "Persona que tiene los pies torcidos.",
+          "defecto físico.",
+          "El que tiene los pies virados.",
+          "Persona de pies torcidos.",
+          "El que tiene los pies torcidos.",
+          "Zambo. Estevado",
+          "Gallo que ha nacido con uno o más dedos de sus patas virados, metidos para dentro.",
+          "‘Persona que tiene los pies torcidos’ Del Rosario.",
+          "Gallo que ha nacido con uno o más dedos de sus patas virados, metidos para dentro.",
+          "Persona que tiene torcidos los brazos o los pies y los tobillos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Las personas con defectos en los pies, tales como un pie o ambos virados para adentro."
+    "Escaro, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

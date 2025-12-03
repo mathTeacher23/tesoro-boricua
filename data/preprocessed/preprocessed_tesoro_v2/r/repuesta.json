@@ -3,12 +3,15 @@
   "term": "repuesta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llanta adicional que llevan los vehículos para uso de emergencia.",
+      "consolidated_definition": "La rueda de reserva",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.058823529411764705,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4562",
+        "semantic_similarity_score": 0.4562,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HUYKE,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Llanta adicional que llevan los vehículos para uso de emergencia."
+    "La rueda de reserva"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

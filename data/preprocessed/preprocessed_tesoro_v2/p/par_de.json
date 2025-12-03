@@ -3,12 +3,15 @@
   "term": "par de",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muy, mucho.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Muy",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "locución preposicional"
         ],
@@ -30,13 +33,13 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Muy, mucho.\nEl trámite de traspaso del carro está par de complicado, no importa con cuantos documentos llegues a la oficina, siempre te van a pedir un..."
+          "Muy, mucho. El trámite de traspaso del carro está par de complicado, no importa con cuantos documentos llegues a la oficina, siempre te van a pedir uno más."
         ]
       }
     }
   },
   "es_definitions": [
-    "Muy, mucho."
+    "Muy"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

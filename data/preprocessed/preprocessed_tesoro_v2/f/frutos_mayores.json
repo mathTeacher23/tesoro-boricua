@@ -3,12 +3,15 @@
   "term": "frutos mayores",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cultivo que se hace a gran escala, como el del café, el cacao y la caña de azúcar.",
+      "consolidated_definition": "En nuestra agricultura llamamos frutos mayores a la",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2401572493105674,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7448",
+        "semantic_similarity_score": 0.7448,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino",
@@ -26,16 +29,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -47,14 +50,14 @@
         "related_words": [],
         "reference_definitions": [
           "En nuestra agricultura llamamos frutos mayores a la caña de azúcar, el café y el tabaco.",
-          "La caña de azúcar […] junto al café y al tabaco.",
+          "La caña de azúcar junto al café y al tabaco.",
           "Cultivo que se hace a gran escala, como el del café, el cacao y la caña de azúcar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cultivo que se hace a gran escala, como el del café, el cacao y la caña de azúcar."
+    "En nuestra agricultura llamamos frutos mayores a la"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "reconocer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Honrar, homenajear.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Honrar",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -32,13 +35,13 @@
           "reconocimiento"
         ],
         "reference_definitions": [
-          "Honrar, homenajear. Mostrar apreciación o dar una distinción o premio; por extensión, mencionar el nombre de una persona importante que está presente ..."
+          "Honrar, homenajear. Mostrar apreciación o dar una distinción o premio; por extensión, mencionar el nombre de una persona importante que está presente en un acto público o cuando entra a este. Desvío semántico, frecuente. DRAE 2001: examinar algo o a alguien, registrar, admitir cierto hecho. El Teatro de la Universidad, que este año cumple su Septuagésimo Aniversario, fue el escenario de la importante ceremonia de Distinciones Académicas de la Universidad de Puerto Rico, en la cual se reconocieron a cuatro destacados profesores universitarios por sus aportaciones a la cultura, la academia, el derecho y la comunicación"
         ]
       }
     }
   },
   "es_definitions": [
-    "Honrar, homenajear."
+    "Honrar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

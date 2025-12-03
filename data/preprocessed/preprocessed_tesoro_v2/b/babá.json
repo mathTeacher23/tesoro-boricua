@@ -3,12 +3,15 @@
   "term": "babá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Genitor o padre, según la lengua eyerí.",
+      "consolidated_definition": "Genitor o padre",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07692307692307693,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4254",
+        "semantic_similarity_score": 0.4254,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Genitor o padre, según la lengua eyerí."
+    "Genitor o padre"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

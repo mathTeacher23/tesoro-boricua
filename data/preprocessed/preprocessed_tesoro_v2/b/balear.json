@@ -3,12 +3,15 @@
   "term": "balear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Herir o matar una persona a alguien a balazos.",
+      "consolidated_definition": "Quejarse violentamente como un animal herido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0692022792022792,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4429",
+        "semantic_similarity_score": 0.4429,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -29,16 +32,16 @@
             "year": "1965"
           },
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "PAGÁN GONZÁLEZ,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -52,15 +55,18 @@
           "baleado, da"
         ],
         "reference_definitions": [
-          "(general) Quejarse violentamente como un animal herido. Compara con balar.",
+          "Quejarse violentamente como un animal herido. Compara con balar.",
           "Quejarse violentamente como un animal herido.",
-          "Balar. Dar balidos."
+          "Balar. Dar balidos.",
+          "Dar balidos un animal.",
+          "Herir o matar una persona a alguien a balazos.",
+          "Disparar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Herir o matar una persona a alguien a balazos."
+    "Quejarse violentamente como un animal herido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

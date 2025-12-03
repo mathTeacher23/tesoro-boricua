@@ -3,12 +3,15 @@
   "term": "costillado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las actividades marítimas, tablazón de una embarcación.",
+      "consolidated_definition": "Tablazón de la embarcación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6291",
+        "semantic_similarity_score": 0.6291,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "En las actividades marítimas, tablazón de una embarcación."
+    "Tablazón de la embarcación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

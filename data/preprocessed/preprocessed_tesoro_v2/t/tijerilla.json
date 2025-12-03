@@ -3,12 +3,15 @@
   "term": "tijerilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ave marina grande de plumaje negro, alas grandes y rabo largo con la punta curva, uñas largas, patas membranosas.",
+      "consolidated_definition": "Tijereta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02180839375961327,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3648",
+        "semantic_similarity_score": 0.3648,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "FIGUEROA,",
             "year": "1965"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -35,10 +42,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,19 +54,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tijereta, ave.  Stahl, Catalog, 57, 155.",
-          "Otro nombre para el rabijunco (ave).",
-          "Ave marina grande de plumaje negro, alas grandes y rabo largo con la punta curva, uñas largas, patas membranosas. Vuela continuamente pescando. T. tij..."
+          "Tijereta, ave. Stahl, Catalog, 57, 155.",
+          "Otro nombre para el rabijunco .",
+          "Ave marina grande de plumaje negro, alas grandes y rabo largo con la punta curva, uñas largas, patas membranosas. Vuela continuamente pescando. T. tijereta, rabojunco, rabijunco, pájaro fragata y pirata de los mares. En España lo llaman rabihorcado.",
+          "Ave.",
+          "Ave marina."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona astuta y maliciosa; lija, jaiba.",
+      "consolidated_definition": "Persona astuta y maliciosa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3352",
+        "semantic_similarity_score": 0.3352,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -78,12 +86,12 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
+          },
+          {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -93,18 +101,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Persona astuta y maliciosa; lija, jaiba.",
+          "Persona astuta y maliciosa; lija, jaiba.",
           "Ladrón. Pillo."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Insecto primitivo que se alimenta de papel.",
+      "consolidated_definition": "Polilla que destruye la ropa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07692307692307693,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4073",
+        "semantic_similarity_score": 0.4073,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -135,15 +146,15 @@
         "related_words": [],
         "reference_definitions": [
           "Polilla que destruye la ropa.",
-          "Insecto primitivo que se alimenta de papel.  Es de color plateado, que al tocarlo suelta una especie de polvillo aceitoso y cenizoso. También llamado ..."
+          "Insecto primitivo que se alimenta de papel. Es de color plateado, que al tocarlo suelta una especie de polvillo aceitoso y cenizoso. También llamado polilla de biblioteca."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ave marina grande de plumaje negro, alas grandes y rabo largo con la punta curva, uñas largas, patas membranosas.",
-    "Persona astuta y maliciosa; lija, jaiba.",
-    "Insecto primitivo que se alimenta de papel."
+    "Tijereta",
+    "Persona astuta y maliciosa",
+    "Polilla que destruye la ropa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

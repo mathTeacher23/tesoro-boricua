@@ -3,12 +3,15 @@
   "term": "achocado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese del que ha recibido un fuerte golpe en la cabeza y está inconsciente.",
+      "consolidated_definition": "Tener mucho dolor de cabeza",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15461335448177554,
+        "num_cleaned_definitions": 11,
+        "definition_stability": "Stability: 0.605",
+        "semantic_similarity_score": 0.605,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -26,12 +29,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "PÉREZ SALA,",
@@ -44,10 +51,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -64,18 +67,29 @@
         ],
         "reference_definitions": [
           "Tener mucho dolor de cabeza. Estar achocado de la cabeza.",
-          "(general) Con mucho dolor de cabeza.",
-          "Con fuerte dolor de la cabeza."
+          "Con mucho dolor de cabeza.",
+          "Con fuerte dolor de la cabeza.",
+          "Dícese de la persona que tiene mucho dolor de cabeza.",
+          "Dícese del que ha recibido un fuerte golpe en la cabeza y está inconsciente.",
+          "Dícese del endrogado.",
+          "Estar sin sentido por efecto de un golpe recibido en la cabeza.",
+          "Referido a persona, drogada.",
+          "Referido a persona, que tiene mucho dolor de cabeza.",
+          "Referido a persona, que está en cama por enfermedad pasajera.",
+          "Referido a persona, inconsciente por haber recibido un fuerte golpe en la cabeza."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona, que tiene mucho sueño.",
+      "consolidated_definition": "Referido a persona",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6522",
+        "semantic_similarity_score": 0.6522,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -106,8 +120,8 @@
     }
   },
   "es_definitions": [
-    "Dícese del que ha recibido un fuerte golpe en la cabeza y está inconsciente.",
-    "Referido a persona, que tiene mucho sueño."
+    "Tener mucho dolor de cabeza",
+    "Referido a persona"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

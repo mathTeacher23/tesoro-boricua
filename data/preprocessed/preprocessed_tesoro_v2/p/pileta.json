@@ -3,12 +3,15 @@
   "term": "pileta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pieza de cemento en la casa, donde cae o se echa el agua, más generalmente usada para el lavado de la ropa y de los paños con que se friegan los pisos.",
+      "consolidated_definition": "Pieza de cemento en la casa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.037951076982517144,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4016",
+        "semantic_similarity_score": 0.4016,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,24 +28,24 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1995"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -55,15 +58,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pieza de cemento en la casa, donde cae o se echa el agua, más generalmente usada para el lavado de la ropa y de los paños con que se friegan los pisos...",
+          "Pieza de cemento en la casa, donde cae o se echa el agua, más generalmente usada para el lavado de la ropa y de los paños con que se friegan los pisos.",
           "Recipiente grande donde beben los animales.",
-          "Abrevadero de animales."
+          "Abrevadero de animales.",
+          "Palangana más pesada, sólida.",
+          "Pila con patas y un plano inclinado con ondulaciones para lavar la ropa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pieza de cemento en la casa, donde cae o se echa el agua, más generalmente usada para el lavado de la ropa y de los paños con que se friegan los pisos."
+    "Pieza de cemento en la casa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

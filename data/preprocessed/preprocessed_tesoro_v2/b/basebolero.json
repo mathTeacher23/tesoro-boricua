@@ -3,12 +3,15 @@
   "term": "basebolero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Perteneciente o relativo al juego de pelota.",
+      "consolidated_definition": "Pelotari o jugador de pelota",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.15151515151515152,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6575",
+        "semantic_similarity_score": 0.6575,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -37,14 +40,14 @@
         "related_words": [],
         "reference_definitions": [
           "Pelotari o jugador de pelota.",
-          "Perteneciente o relativo al juego de pelota. “Y nueve jugadores mediocres, bien coordinados, pueden constituir un buen equipo basebolero.” José Padín,...",
+          "Perteneciente o relativo al juego de pelota. “Y nueve jugadores mediocres, bien coordinados, pueden constituir un buen equipo basebolero.” José Padín, “Caracteres y ciudadanía”, El Mundo, núm. del 2 de noviembre de 1934.",
           "Jugador de beisbol."
         ]
       }
     }
   },
   "es_definitions": [
-    "Perteneciente o relativo al juego de pelota."
+    "Pelotari o jugador de pelota"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

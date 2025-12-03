@@ -3,12 +3,15 @@
   "term": "derby",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13559322033898305,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6431",
+        "semantic_similarity_score": 0.6431,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,14 +34,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. Clásico. Competición hípica, especialmente aquella que se celebra anualmente y en la que corren ejemplares de pura sangre de tres años de edad (l...",
-          "dep. Encuentro deportivo importante entre dos equipos de una misma región o entre los que existe gran rivalidad. Anglicismo crudo, poco frecuente.\nEst..."
+          "dep. Clásico. Competición hípica, especialmente aquella que se celebra anualmente y en la que corren ejemplares de pura sangre de tres años de edad . Anglicismo crudo, poco frecuente. El jinete John Velázquez, que montará Saarland este sábado en la carrera 128 del Derby, forma parte de otra orgullosa tradición. El residente de Nueva York, Velázquez, representará a Puerto Rico en su larga historia de caballos campeones, entrenadores y jinetes, al tratar de ganar por primera vez el Kentucky Derby",
+          "dep. Encuentro deportivo importante entre dos equipos de una misma región o entre los que existe gran rivalidad. Anglicismo crudo, poco frecuente. Este año, la tradicional competencia de jonrones que se realiza en el marco del Juego de las Estrellas tendrá un toque especial. Para coincidir con el próximo Mundial de Béisbol, el derby no distinguirá a los peloteros según la liga en la que jueguen, sino por el país que representen"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

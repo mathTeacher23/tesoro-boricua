@@ -3,12 +3,15 @@
   "term": "deslechado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, débil, carente de fuerzas, flaca.",
+      "consolidated_definition": "Débil",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09090909090909091,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6685",
+        "semantic_similarity_score": 0.6685,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -41,12 +44,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a un hombre, que ya ha eyaculado.",
+      "consolidated_definition": "Referido a un hombre",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4444444444444444,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8074",
+        "semantic_similarity_score": 0.8074,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -79,8 +85,8 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, débil, carente de fuerzas, flaca.",
-    "Referido a un hombre, que ya ha eyaculado."
+    "Débil",
+    "Referido a un hombre"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

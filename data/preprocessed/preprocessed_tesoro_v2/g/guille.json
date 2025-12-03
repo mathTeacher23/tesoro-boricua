@@ -3,12 +3,15 @@
   "term": "guille",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un aquel, un trasunto, un parecido.",
+      "consolidated_definition": "Un aquel",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3629",
+        "semantic_similarity_score": 0.3629,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,13 +50,14 @@
         "reference_definitions": [
           "Un aquel, un trasunto, un parecido.",
           "Aire de grandeza. Aire de superioridad. Altanería. Ínfulas. Vanidad.",
-          "Amorío."
+          "Amorío.",
+          "Presunción, actitud arrogante."
         ]
       }
     }
   },
   "es_definitions": [
-    "Un aquel, un trasunto, un parecido."
+    "Un aquel"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

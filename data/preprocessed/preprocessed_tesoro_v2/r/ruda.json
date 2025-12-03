@@ -3,12 +3,15 @@
   "term": "ruda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta medicinal [que se usa] como abortivo.",
+      "consolidated_definition": "Planta medicinal o para otros usos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12465834818775995,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5891",
+        "semantic_similarity_score": 0.5891,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
           },
           {
             "source": "MAULEÓN,",
@@ -43,14 +46,14 @@
         "related_words": [],
         "reference_definitions": [
           "Planta medicinal o para otros usos.",
-          "Planta medicinal [que se usa] como abortivo.",
+          "Planta medicinal como abortivo.",
           "Rutaceas. Ruta de chalapensis. “Es planta delicá.” “Se usa para baños.”"
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta medicinal [que se usa] como abortivo."
+    "Planta medicinal o para otros usos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

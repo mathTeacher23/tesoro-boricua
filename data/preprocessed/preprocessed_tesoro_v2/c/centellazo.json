@@ -3,12 +3,15 @@
   "term": "centellazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe rápido y contundente, golpe fuerte.",
+      "consolidated_definition": "Golpe contundente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18155295272230754,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6244",
+        "semantic_similarity_score": 0.6244,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Golpe contundente. “Lo tumbo de un centellazo.” Cestero, El Jíbaro del Dorao, “No me diga eso, compae”, La Correspondencia, núm. del 28 de octubre de ...",
-          "(popular)  Golpe rápido y contundente, golpe fuerte.",
-          "Golpe fuerte, contundente."
+          "Golpe contundente. “Lo tumbo de un centellazo.” Cestero, El Jíbaro del Dorao, “No me diga eso, compae”, La Correspondencia, núm. del 28 de octubre de 1936. .",
+          "Golpe rápido y contundente, golpe fuerte.",
+          "Golpe fuerte, contundente.",
+          "Golpe contundente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Golpe rápido y contundente, golpe fuerte."
+    "Golpe contundente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

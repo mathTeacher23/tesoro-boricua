@@ -3,12 +3,15 @@
   "term": "guagua pública",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Autobús interurbano.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Autobús interurbano",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.335",
+        "semantic_similarity_score": 0.335,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -20,10 +23,6 @@
           "TRANSPORTE."
         ],
         "sources": [
-          {
-            "source": "",
-            "year": ""
-          },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
@@ -42,7 +41,7 @@
     }
   },
   "es_definitions": [
-    "Autobús interurbano."
+    "Autobús interurbano"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

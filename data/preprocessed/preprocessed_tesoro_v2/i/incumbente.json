@@ -3,12 +3,15 @@
   "term": "incumbente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que está en posesión de algún empleo público de relevancia.",
+      "consolidated_definition": "Persona que está en posesión de algún empleo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16240768736057468,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5929",
+        "semantic_similarity_score": 0.5929,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -50,13 +53,14 @@
         "reference_definitions": [
           "Persona que está en posesión de algún empleo público. “Cuando el Dr. Chardón era incumbente.”",
           "Mandatario público de relevancia. Jefe.",
-          "En política, la persona que controla una oficina del gobierno. Anglicismo adaptado, usual.\nEste problema, que podríamos llamar la “ventaja injusta del..."
+          "En política, la persona que controla una oficina del gobierno. Anglicismo adaptado, usual. Este problema, que podríamos llamar la “ventaja injusta del incumbente”, permite que el gobernante de turno utilice fondos públicos con el fin de resaltar su imagen y la de su gobierno ante la opinión pública",
+          "Persona que está en posesión de algún empleo público de relevancia."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que está en posesión de algún empleo público de relevancia."
+    "Persona que está en posesión de algún empleo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

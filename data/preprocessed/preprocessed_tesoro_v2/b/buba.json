@@ -3,12 +3,15 @@
   "term": "buba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad producida por ciertos hongos que dañan por completo la mazorca de maíz.",
+      "consolidated_definition": "Enfermedad producida por ciertos hongos que dañan por",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.4,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7401",
+        "semantic_similarity_score": 0.7401,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Enfermedad producida por ciertos hongos que dañan por completo la mazorca de maíz."
+    "Enfermedad producida por ciertos hongos que dañan por"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

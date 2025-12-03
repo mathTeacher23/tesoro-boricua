@@ -3,12 +3,15 @@
   "term": "baboso, sa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Individuo latoso, que habla mucho y sin sustancia.",
+      "consolidated_definition": "Individuo latoso",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04588744588744589,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.3783",
+        "semantic_similarity_score": 0.3783,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,20 +25,20 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1975"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1975"
           }
         ],
         "years": [
@@ -54,19 +57,26 @@
           "babosería"
         ],
         "reference_definitions": [
-          "(popular) Individuo latoso, que habla mucho y sin sustancia.",
+          "Individuo latoso, que habla mucho y sin sustancia.",
           "Bobo, simple.",
-          "Persona que habla estupideces."
+          "Persona que habla estupideces.",
+          "Persona que habla mucho.",
+          "Zángano.",
+          "Aburrido.",
+          "Referido a persona, de conversación empalagosa."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a una pared o al suelo, húmedo, resbaladizo.",
+      "consolidated_definition": "Referido a una pared o al suelo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -94,8 +104,8 @@
     }
   },
   "es_definitions": [
-    "Individuo latoso, que habla mucho y sin sustancia.",
-    "Referido a una pared o al suelo, húmedo, resbaladizo."
+    "Individuo latoso",
+    "Referido a una pared o al suelo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

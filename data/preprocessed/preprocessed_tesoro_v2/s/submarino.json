@@ -3,12 +3,15 @@
   "term": "submarino",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Agente de Rentas Internas, inspector de Hacienda.",
+      "consolidated_definition": "Agente de Rentas Internas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10476190476190476,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5144",
+        "semantic_similarity_score": 0.5144,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -27,12 +30,12 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,13 +48,14 @@
         "reference_definitions": [
           "Agente de Rentas Internas.",
           "Voz usada por drogadictos. Policía encubierto. También dicen hombre rana.",
-          "Agente de Rentas Internas, inspector de Hacienda."
+          "Agente de Rentas Internas, inspector de Hacienda.",
+          "Policía encubierto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Agente de Rentas Internas, inspector de Hacienda."
+    "Agente de Rentas Internas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

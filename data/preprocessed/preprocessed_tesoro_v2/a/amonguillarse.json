@@ -3,12 +3,15 @@
   "term": "amonguillarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tener pereza, flojera.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02222222222222222,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.4532",
+        "semantic_similarity_score": 0.4532,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -45,15 +48,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Desmonguillarse.",
+          "vulg. Desmonguillarse.",
           "Debilitarse.",
-          "Acobardarse. Desmayarse. Desmoñingarse."
+          "Acobardarse. Desmayarse. Desmoñingarse.",
+          "Acobardarse.",
+          "Padecer de monguera.",
+          "Tener pereza, flojera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tener pereza, flojera."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

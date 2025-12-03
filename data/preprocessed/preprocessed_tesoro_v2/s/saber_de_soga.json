@@ -3,12 +3,15 @@
   "term": "saber de soga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de un animal que no extraña que lo amarren porque ya “sabe de soga”: ‘está acostumbrado a estar amarrado’.",
+      "consolidated_definition": "Se dice de un animal que no extraña",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19232348111658457,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6433",
+        "semantic_similarity_score": 0.6433,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice de un animal que no extraña que lo amarren porque ya “sabe de soga”: ‘está acostumbrado a estar amarrado’. Los que se amarran por primera vez ...",
+          "Se dice de un animal que no extraña que lo amarren porque ya “sabe de soga”: ‘está acostumbrado a estar amarrado’. Los que se amarran por primera vez por lo regular se resisten.",
           "Se dice del animal que no extraña que lo amarren, acostumbrado ya a ello.",
           "Estar alguien acostumbrado a algo."
         ]
@@ -50,7 +53,7 @@
     }
   },
   "es_definitions": [
-    "Se dice de un animal que no extraña que lo amarren porque ya “sabe de soga”: ‘está acostumbrado a estar amarrado’."
+    "Se dice de un animal que no extraña"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

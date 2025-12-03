@@ -3,12 +3,15 @@
   "term": "plantilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bizcocho delgado, elaborado a base de harina y huevos, y espolvoreado con azúcar.",
+      "consolidated_definition": ". Especie de bizcocho delgado.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.43333333333333335,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.8276",
+        "semantic_similarity_score": 0.8276,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -38,19 +41,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg., Bol., Cuba y Ven.).  Especie de bizcocho delgado.",
+          ". Especie de bizcocho delgado.",
           "Bizcocho delgado, elaborado a base de harina y huevos, y espolvoreado con azúcar.",
           "Bizcocho delgado, elaborado a base de harina y huevos, y espolvoreado con azúcar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "El pie de caña nueva que no se ha cortado aún.",
+      "consolidated_definition": ". Pies de cañas que nacen después de la primera cosecha.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2998972184394179,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7487",
+        "semantic_similarity_score": 0.7487,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -63,16 +69,16 @@
         ],
         "sources": [
           {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1972"
-          },
-          {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -88,16 +94,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba y Ven.).  Pies de cañas que nacen después de la primera cosecha.",
-          "(T. en Cuba y Ven.).  Pie de caña que nace después de la primera cosecha.",
-          "Caña nueva que no se ha cortado aún."
+          ". Pies de cañas que nacen después de la primera cosecha.",
+          ". Pie de caña que nace después de la primera cosecha.",
+          "Caña nueva que no se ha cortado aún.",
+          "El pie de caña nueva que no se ha cortado aún."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bizcocho delgado, elaborado a base de harina y huevos, y espolvoreado con azúcar.",
-    "El pie de caña nueva que no se ha cortado aún."
+    ". Especie de bizcocho delgado.",
+    ". Pies de cañas que nacen después de la primera cosecha."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

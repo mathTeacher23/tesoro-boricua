@@ -3,12 +3,15 @@
   "term": "espadín",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Los nombres usados para designar la referida herramienta [machete] fueron machete, perrillo y espadín [...] espadín tiene su propio campo en el este.",
+      "consolidated_definition": "Los nombres usados para designar la referida herramienta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04154442665705626,
+        "num_cleaned_definitions": 11,
+        "definition_stability": "Stability: 0.4335",
+        "semantic_similarity_score": 0.4335,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,6 +24,26 @@
         ],
         "sources": [
           {
+            "source": "CABIYA SAN MIGUEL,",
+            "year": "1967"
+          },
+          {
+            "source": "CARRILLO,",
+            "year": "1974"
+          },
+          {
+            "source": "DE JESÚS MATEO,",
+            "year": "1967"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MAULEÓN,",
+            "year": "1974"
+          },
+          {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
           },
@@ -29,32 +52,12 @@
             "year": "1964"
           },
           {
-            "source": "DE JESÚS MATEO,",
-            "year": "1967"
-          },
-          {
-            "source": "CABIYA SAN MIGUEL,",
-            "year": "1967"
-          },
-          {
-            "source": "MAULEÓN,",
-            "year": "1974"
-          },
-          {
-            "source": "CARRILLO,",
-            "year": "1974"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -69,15 +72,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Los nombres usados para designar la referida herramienta [machete] fueron machete, perrillo y espadín [...] espadín tiene su propio campo en el este.",
+          "Los nombres usados para designar la referida herramienta fueron machete, perrillo y espadín espadín tiene su propio campo en el este.",
           "Ya se ha visto que la herramienta más usada por el campesino es el machete o espadín.",
-          "Instrumento."
+          "Instrumento.",
+          "Instrumento de corte. También perrillo, machete.",
+          "Instrumento de trabajo.",
+          "Más largo y más estrecho que el machete.",
+          "Malambo.",
+          "Es de 28 pulgadas de largo, y angosto.",
+          "Machete largo y fino usado para talar pastos. También dicen perrillo.",
+          "Por el sur central de la Isla y por todo el territorio interior hasta el litoral oriental, machete, perrillo.",
+          "Machete."
         ]
       }
     }
   },
   "es_definitions": [
-    "Los nombres usados para designar la referida herramienta [machete] fueron machete, perrillo y espadín [...] espadín tiene su propio campo en el este."
+    "Los nombres usados para designar la referida herramienta"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

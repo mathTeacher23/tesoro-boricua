@@ -3,12 +3,15 @@
   "term": "cachucho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de mar, comestible, aunque no muy apreciado.",
+      "consolidated_definition": ". Pez grande, de carne agradable. . Ac.; Evermann, p. 163.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10896769665434869,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.48",
+        "semantic_similarity_score": 0.48,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
+          },
+          {
+            "source": "ERDMAN,",
+            "year": "1974"
           },
           {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
-            "source": "ERDMAN,",
-            "year": "1974"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -53,15 +56,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba).  Pez grande, de carne agradable. (Serranus oculatus). Ac.; Evermann, p. 163.",
+          ". Pez grande, de carne agradable. . Ac.; Evermann, p. 163.",
           "Pez “colorao, de ojo grande”.",
-          "Etelis oculatus. Pez bastante grande, de carne comestible muy estimada. Mide tres pies, es color carmín, y puede llegar a un peso de diez libras o más..."
+          "Etelis oculatus. Pez bastante grande, de carne comestible muy estimada. Mide tres pies, es color carmín, y puede llegar a un peso de diez libras o más.",
+          "Pez de la familia Lutjanidae . Etelis oculatus. También llamado cartucho.",
+          "Pez de mar, comestible, aunque no muy apreciado. Variante: cachuco."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pez de mar, comestible, aunque no muy apreciado."
+    ". Pez grande, de carne agradable. . Ac.; Evermann, p. 163."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

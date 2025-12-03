@@ -3,12 +3,15 @@
   "term": "gente de papeles",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El hombre de campo llama gente de papeles […] a los profesionales de la ciudad con quienes a veces trata.",
+      "consolidated_definition": "El hombre de campo llama gente de papeles",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10526315789473684,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7074",
+        "semantic_similarity_score": 0.7074,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El hombre de campo llama gente de papeles […] a los profesionales de la ciudad con quienes a veces trata.",
+          "El hombre de campo llama gente de papeles a los profesionales de la ciudad con quienes a veces trata.",
           "Profesional de la ciudad."
         ]
       }
     }
   },
   "es_definitions": [
-    "El hombre de campo llama gente de papeles […] a los profesionales de la ciudad con quienes a veces trata."
+    "El hombre de campo llama gente de papeles"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

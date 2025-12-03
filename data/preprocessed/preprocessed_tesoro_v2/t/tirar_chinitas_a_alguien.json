@@ -3,12 +3,15 @@
   "term": "tirar chinitas a alguien",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tirar sátiras.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Tirar sátiras",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2565",
+        "semantic_similarity_score": 0.2565,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -33,13 +36,13 @@
         "related_words": [],
         "reference_definitions": [
           "Tirar sátiras.",
-          "Provocar (con indirectas)."
+          "Provocar ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tirar sátiras."
+    "Tirar sátiras"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

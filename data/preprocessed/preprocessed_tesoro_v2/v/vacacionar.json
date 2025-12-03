@@ -3,12 +3,15 @@
   "term": "vacacionar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Disfrutar de las vacaciones en un lugar diferente del domicilio habitual.",
+      "consolidated_definition": "tur",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6354",
+        "semantic_similarity_score": 0.6354,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -39,14 +42,14 @@
           "vacacionista"
         ],
         "reference_definitions": [
-          "tur. Estar de vacaciones y dedicarse al descanso y disfrute. Anglicismo adaptado, frecuente.\nSólo hay algo peor que vacacionar con un niño de 2 años, ...",
+          "tur. Estar de vacaciones y dedicarse al descanso y disfrute. Anglicismo adaptado, frecuente. Sólo hay algo peor que vacacionar con un niño de 2 años, cansado y aburrido: vacacionar con adolescentes aburridos y malhumorados. He descubierto que mis hijos, de entre 10 y 17 años, se vuelven excelentes compañeros de vacaciones si los dejo dormir tarde y los llevo a un centro comercial",
           "Disfrutar de las vacaciones en un lugar diferente del domicilio habitual."
         ]
       }
     }
   },
   "es_definitions": [
-    "Disfrutar de las vacaciones en un lugar diferente del domicilio habitual."
+    "tur"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

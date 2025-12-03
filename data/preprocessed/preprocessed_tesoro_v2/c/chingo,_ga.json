@@ -3,12 +3,15 @@
   "term": "chingo, ga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese del animal sin cola o rabicorto.",
+      "consolidated_definition": "Dícese del animal sin cola o rabicorto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13055555555555556,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5797",
+        "semantic_similarity_score": 0.5797,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,7 +53,7 @@
     }
   },
   "es_definitions": [
-    "Dícese del animal sin cola o rabicorto."
+    "Dícese del animal sin cola o rabicorto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

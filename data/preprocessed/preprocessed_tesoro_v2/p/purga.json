@@ -3,12 +3,15 @@
   "term": "purga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta perenne, con la base de los tallos engrosada, hojas cordado-ovadas, inflorescencia axilar y fruto carnoso, oblongo, de color verde.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.013532000407000408,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.3383",
+        "semantic_similarity_score": 0.3383,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -26,16 +29,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1972"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,15 +52,17 @@
           "purguero"
         ],
         "reference_definitions": [
-          "vulg.  Miel.",
-          "Bejuco medicinal carnudo y blando que produce agua cristalina amarguísima. (Doyerea emeto catartica). Grosourdy, 3:289.",
-          "(T. en Méx.).  Miel, en lenguaje de azucareros."
+          "vulg. Miel.",
+          "Bejuco medicinal carnudo y blando que produce agua cristalina amarguísima. . Grosourdy, 3:289.",
+          ". Miel, en lenguaje de azucareros.",
+          "pl. Medicinas que se toman por la boca para descargar el vientre.",
+          "Planta perenne, con la base de los tallos engrosada, hojas cordado-ovadas, inflorescencia axilar y fruto carnoso, oblongo, de color verde. CucurbitaceaeDoyerea emetocathartica."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta perenne, con la base de los tallos engrosada, hojas cordado-ovadas, inflorescencia axilar y fruto carnoso, oblongo, de color verde."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

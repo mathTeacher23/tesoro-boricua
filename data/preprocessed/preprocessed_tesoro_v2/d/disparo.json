@@ -3,12 +3,15 @@
   "term": "disparo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol, lanzamiento que hace un jugador defensivo a otro.",
+      "consolidated_definition": "dep",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.125,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6097",
+        "semantic_similarity_score": 0.6097,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
           "disparar 2"
         ],
         "reference_definitions": [
-          "dep. En los juegos de béisbol, fútbol, etc. lanzamiento de la bola o pelota que hace el jugador defensivo. Usual. DRAE: desde 1992.\nRamírez fue transf...",
+          "dep. En los juegos de béisbol, fútbol, etc. lanzamiento de la bola o pelota que hace el jugador defensivo. Usual. DRAE: desde 1992. Ramírez fue transferido, pasó a la segunda cuando Saunders realizó un mal tiro al intentar sorprenderlo y anotó cuando David Justice se apuntó un indiscutible dentro del cuadro al roletear a manos del torpedero Edgar Rentería, cuyo disparo fue a caer al dugout de Florida",
           "En el beisbol, lanzamiento que hace un jugador defensivo a otro."
         ]
       }
     }
   },
   "es_definitions": [
-    "En el beisbol, lanzamiento que hace un jugador defensivo a otro."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

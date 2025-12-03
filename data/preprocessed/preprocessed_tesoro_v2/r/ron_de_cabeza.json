@@ -3,12 +3,15 @@
   "term": "ron de cabeza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El primer ron que sale.",
+      "consolidated_definition": "Aguardiente de 40 grados",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08823529411764706,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4526",
+        "semantic_similarity_score": 0.4526,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -38,14 +41,14 @@
           "descabezar"
         ],
         "reference_definitions": [
-          "Aguardiente de 40 grados. “Con el enjuagatorio de ron de cabeza que acaba de darle al gañote.” Brau, La pecadora, 1888. (En España, cabecear el vino n...",
+          "Aguardiente de 40 grados. “Con el enjuagatorio de ron de cabeza que acaba de darle al gañote.” Brau, La pecadora, 1888. .",
           "El primer ron que sale."
         ]
       }
     }
   },
   "es_definitions": [
-    "El primer ron que sale."
+    "Aguardiente de 40 grados"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "mamadera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tetilla del biberón.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Tetilla del biberón",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09722222222222222,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4028",
+        "semantic_similarity_score": 0.4028,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,17 +48,21 @@
         "reference_definitions": [
           "Tetilla del biberón.",
           "Chupeta.",
-          "(De mamar). Cuba, Hond. y P. Rico.  Tetilla (del biberón)."
+          ". Cuba, Hond. y P. Rico. Tetilla .",
+          "Tetina del biberón."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Empleo por razones político-partidistas.",
+      "consolidated_definition": "Empleo por razones político-partidistas",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -86,8 +93,8 @@
     }
   },
   "es_definitions": [
-    "Tetilla del biberón.",
-    "Empleo por razones político-partidistas."
+    "Tetilla del biberón",
+    "Empleo por razones político-partidistas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

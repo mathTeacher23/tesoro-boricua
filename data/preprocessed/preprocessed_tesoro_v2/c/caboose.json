@@ -3,12 +3,15 @@
   "term": "caboose",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Furgón de carga.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Furgón de carga",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04878048780487805,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.3546",
+        "semantic_similarity_score": 0.3546,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -37,13 +40,13 @@
         "related_words": [],
         "reference_definitions": [
           "Furgón de carga.",
-          "transp. Furgón de cola. La desaparición del ferrocarril en Puerto Rico puede explicar la paulatina retirada de este anglicismo en el país. Anglicismo ..."
+          "transp. Furgón de cola. La desaparición del ferrocarril en Puerto Rico puede explicar la paulatina retirada de este anglicismo en el país. Anglicismo crudo, poco frecuente. Locomotora GP 38 de Life Like incluye un caboose. Verdaderamente rápida, con potente luz, completamente nueva"
         ]
       }
     }
   },
   "es_definitions": [
-    "Furgón de carga."
+    "Furgón de carga"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

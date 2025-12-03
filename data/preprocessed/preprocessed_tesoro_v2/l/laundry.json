@@ -3,12 +3,15 @@
   "term": "laundry",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Proceso de lavado de la ropa, por extensión la misma ropa sucia.",
+      "consolidated_definition": "Lavadero, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08182804471270926,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5915",
+        "semantic_similarity_score": 0.5915,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,14 +28,6 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "LÓPEZ MORALES,",
             "year": "1986"
           },
@@ -43,6 +38,14 @@
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -57,13 +60,17 @@
         "reference_definitions": [
           "Lavadero. Tren de lavado. Lavado. “Esto nada más requiere que el músico gaste más en ropa y en laundry.”",
           "Tintorería. Lavandería.",
-          "Lavandería."
+          "Lavandería.",
+          "Lavandería, tintorería.",
+          "Lavandería, tintorería. Establecimiento que lava y plancha ropa personal o de casa. El lavado se puede hacer en seco. Anglicismo crudo, usual. Las señoras que van al beauty parlor a lavarse la cabeza todos los viernes van a recibir un ciento veinticinco por ciento de aumento. Y así sucesivamente los que van al laundry y los que van al laundromat",
+          "Cuarto de lavado. Habitación especial de una vivienda donde están las máquinas de lavar y de secar la ropa. Anglicismo crudo, frecuente. Ten cremas a la mano en lugares como el baño, la cocina y el laundry",
+          "Proceso de lavado de la ropa, por extensión la misma ropa sucia. Anglicismo crudo, usual. Iba a visitarla todas las mañanas a su pequeño departamento de recién casada, a llevarle tal florero que se le había quedado olvidado en el cuarto, o la ropa de cama y el laundry que Matilde seguía lavándole y planchándole"
         ]
       }
     }
   },
   "es_definitions": [
-    "Proceso de lavado de la ropa, por extensión la misma ropa sucia."
+    "Lavadero, relacionado con un mecanismo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "fanega",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la cogida de café, el equivalente a doce almudes.",
+      "consolidated_definition": "Medida de peso equivalente a 12 almudes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2986111111111111,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6229",
+        "semantic_similarity_score": 0.6229,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "FONFRÍAS, 1975B",
-            "year": ""
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FONFRÍAS, 1975B",
+            "year": ""
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -40,15 +43,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Medida de peso equivalente a 12 almudes (336 libras).",
+          "Medida de peso equivalente a 12 almudes .",
           "En la cogida de café, el equivalente a doce almudes.",
-          "Equivalente en la cogida [de café] a doce almudes."
+          "Equivalente en la cogida a doce almudes."
         ]
       }
     }
   },
   "es_definitions": [
-    "En la cogida de café, el equivalente a doce almudes."
+    "Medida de peso equivalente a 12 almudes"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

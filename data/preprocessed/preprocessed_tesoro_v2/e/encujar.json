@@ -3,12 +3,15 @@
   "term": "encujar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajar con bejucos y varas, cujes.",
+      "consolidated_definition": ". Trabajar con cujes.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3968253968253968,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.8862",
+        "semantic_similarity_score": 0.8862,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
           "encujado"
         ],
         "reference_definitions": [
-          "(Cuba).  Trabajar con cujes.",
+          ". Trabajar con cujes.",
           "Trabajar con bejucos y varas, cujes.",
           "Trabajar con bejucos, varas o cujes."
         ]
@@ -52,7 +55,7 @@
     }
   },
   "es_definitions": [
-    "Trabajar con bejucos y varas, cujes."
+    ". Trabajar con cujes."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

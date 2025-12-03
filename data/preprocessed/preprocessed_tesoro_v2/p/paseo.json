@@ -3,12 +3,15 @@
   "term": "paseo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosa fácil de hacer o de conseguir.",
+      "consolidated_definition": "Trabajo o cosa fácil",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.048484848484848485,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4744",
+        "semantic_similarity_score": 0.4744,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "CLAUDIO DE LA TORRE,",
+            "year": "1989"
+          },
+          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "CLAUDIO DE LA TORRE,",
-            "year": "1989"
           }
         ],
         "years": [
@@ -41,19 +44,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Trabajo o cosa fácil. También asopao, bilí, bofe, guame.",
+          "Trabajo o cosa fácil. También asopao, bilí, bofe, guame.",
           "Cosa fácil de hacer o de conseguir. Guame. Ñame.",
-          "Ganar en una competición con facilidad."
+          "Ganar en una competición con facilidad.",
+          "Algo fácil."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En algunas danzas, recorrido corto que se ejecuta antes de iniciar los pasos de baile correspondientes.",
+      "consolidated_definition": "Parte de la danza",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08647213826241958,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5294",
+        "semantic_similarity_score": 0.5294,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -66,16 +73,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -86,7 +93,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Parte de la danza, sin cadencia bailable. “Su melodía era insulsa, circunscrita a una frase repetida de 8 compases, sin pensamiento determinado, a lo ...",
+          "Parte de la danza, sin cadencia bailable. “Su melodía era insulsa, circunscrita a una frase repetida de 8 compases, sin pensamiento determinado, a lo que daban el nombre de paseo.” Callejo, Música y..., 1915, p. 279. .",
           "Primera parte de la danza puertorriqueña, que no es bailable.",
           "En algunas danzas, recorrido corto que se ejecuta antes de iniciar los pasos de baile correspondientes."
         ]
@@ -94,8 +101,8 @@
     }
   },
   "es_definitions": [
-    "Cosa fácil de hacer o de conseguir.",
-    "En algunas danzas, recorrido corto que se ejecuta antes de iniciar los pasos de baile correspondientes."
+    "Trabajo o cosa fácil",
+    "Parte de la danza"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

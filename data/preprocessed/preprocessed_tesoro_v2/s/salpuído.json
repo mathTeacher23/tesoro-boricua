@@ -3,12 +3,15 @@
   "term": "salpuído",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salpullido, erupción de la piel.",
+      "consolidated_definition": "Salpullido",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.8448",
+        "semantic_similarity_score": 0.8448,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -47,14 +50,15 @@
         "related_words": [],
         "reference_definitions": [
           "Salpullido.",
-          "(popular)  Salpullido.",
-          "Salpullido."
+          "Salpullido.",
+          "Salpullido.",
+          "Salpullido, erupción de la piel."
         ]
       }
     }
   },
   "es_definitions": [
-    "Salpullido, erupción de la piel."
+    "Salpullido"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

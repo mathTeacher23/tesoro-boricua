@@ -3,12 +3,15 @@
   "term": "conga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Danza popular de origen africano, que se ejecuta por grupos colocados en fila doble y al compás de un tambor.",
+      "consolidated_definition": "Baile de origen afrocubano, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06101190476190476,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4034",
+        "semantic_similarity_score": 0.4034,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1961"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "SOLER,",
             "year": "1973"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1961"
           }
         ],
         "years": [
@@ -48,12 +51,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Instrumento musical parecido al tambor.",
+      "consolidated_definition": "Instrumento musical parecido al tambor",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11428571428571428,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5005",
+        "semantic_similarity_score": 0.5005,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -70,12 +76,12 @@
             "year": "1973"
           },
           {
-            "source": "SOLER,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "SOLER,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -93,8 +99,8 @@
     }
   },
   "es_definitions": [
-    "Danza popular de origen africano, que se ejecuta por grupos colocados en fila doble y al compás de un tambor.",
-    "Instrumento musical parecido al tambor."
+    "Baile de origen afrocubano, relacionado con un grupo",
+    "Instrumento musical parecido al tambor"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

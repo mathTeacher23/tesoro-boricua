@@ -3,12 +3,15 @@
   "term": "sabrosear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -33,13 +36,13 @@
           "sabrosura"
         ],
         "reference_definitions": [
-          "vulg. Saborear. Ú. t. c. prnl. (Antic. en España. “Sabroseándome con ellas, he leído las sanas y sólidas reflecsiones que V. haze.” [sic]  (Una colecc..."
+          "vulg. Saborear. Ú. t. c. prnl. ."
         ]
       }
     }
   },
   "es_definitions": [
-    "vulg."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

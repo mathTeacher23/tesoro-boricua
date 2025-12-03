@@ -3,12 +3,15 @@
   "term": "fashion show",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desfile de modas.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Desfile de modas",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Desfile de modas. Espectáculo en el que se presentan los últimos modelos y arreglos de ropa. Anglicismo crudo, frecuente.\nPero, esta vez, dentro de la..."
+          "Desfile de modas. Espectáculo en el que se presentan los últimos modelos y arreglos de ropa. Anglicismo crudo, frecuente. Pero, esta vez, dentro de las carpas —y con una temperatura más calientita—, empezamos nuestro cuarto día de fashion shows"
         ]
       }
     }
   },
   "es_definitions": [
-    "Desfile de modas."
+    "Desfile de modas"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

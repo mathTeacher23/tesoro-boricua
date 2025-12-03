@@ -3,12 +3,15 @@
   "term": "encastador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Experto que se dedica a seleccionar los gallos y las gallinas de raza para aparearlos.",
+      "consolidated_definition": "Experto que se dedica a seleccionar los gallos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5217391304347826,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.9362",
+        "semantic_similarity_score": 0.9362,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1996"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1996"
           }
         ],
         "years": [
@@ -41,14 +44,14 @@
           "criador, ra"
         ],
         "reference_definitions": [
-          "Experto que se dedica a seleccionar los gallos y las gallinas de raza para aparearlos (Trujillo Alto). También se conoce como castador y criador.",
+          "Experto que se dedica a seleccionar los gallos y las gallinas de raza para aparearlos . También se conoce como castador y criador.",
           "Experto que se dedica a seleccionar gallos y gallinas de raza para aparearlos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Experto que se dedica a seleccionar los gallos y las gallinas de raza para aparearlos."
+    "Experto que se dedica a seleccionar los gallos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

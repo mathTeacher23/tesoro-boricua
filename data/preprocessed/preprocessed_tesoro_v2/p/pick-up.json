@@ -3,12 +3,15 @@
   "term": "pick-up",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Recoger alguien una cosa o a una persona.",
+      "consolidated_definition": "Recoger algo o a alguien",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7446",
+        "semantic_similarity_score": 0.7446,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2001"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2001"
           }
         ],
         "years": [
@@ -43,12 +46,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Camioneta en cuya parte delantera van el conductor y sus acompañantes y en la trasera tiene una caja descubierta destinada a la carga.",
+      "consolidated_definition": "Camioneta o furgoneta abierta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08704177323103153,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5605",
+        "semantic_similarity_score": 0.5605,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -61,16 +67,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -88,12 +94,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Tocadiscos.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Tocadiscos",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2729",
+        "semantic_similarity_score": 0.2729,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -108,12 +117,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -124,17 +133,20 @@
         "related_words": [],
         "reference_definitions": [
           "Tocadiscos.",
-          "Gramófono (en desuso)."
+          "Gramófono ."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "Uso metafórico de ‘hacer un levante’ .",
+      "consolidated_definition": "Levante",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.014492753623188406,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4299",
+        "semantic_similarity_score": 0.4299,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -149,12 +161,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2001"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -165,17 +177,17 @@
         "related_words": [],
         "reference_definitions": [
           "Levante.",
-          "Voz usada por prostitutas.  Mujer que, desde un lugar estratégico, espera que algún hombre la invite.",
-          "Uso metafórico de ‘hacer un levante’ (conquista amorosa)."
+          "Voz usada por prostitutas. Mujer que, desde un lugar estratégico, espera que algún hombre la invite.",
+          "Uso metafórico de ‘hacer un levante’ ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Recoger alguien una cosa o a una persona.",
-    "Camioneta en cuya parte delantera van el conductor y sus acompañantes y en la trasera tiene una caja descubierta destinada a la carga.",
-    "Tocadiscos.",
-    "Uso metafórico de ‘hacer un levante’ ."
+    "Recoger algo o a alguien",
+    "Camioneta o furgoneta abierta",
+    "Tocadiscos",
+    "Levante"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

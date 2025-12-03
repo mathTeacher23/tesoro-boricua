@@ -3,12 +3,15 @@
   "term": "sirop",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jarabe hecho con zumo de frutas y azúcar usado para preparar refrescos.",
+      "consolidated_definition": "Jarabe para endulzar bebidas refrescantes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.34990253411306044,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6961",
+        "semantic_similarity_score": 0.6961,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Jarabe hecho con zumo de frutas y azúcar usado para preparar refrescos."
+    "Jarabe para endulzar bebidas refrescantes"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

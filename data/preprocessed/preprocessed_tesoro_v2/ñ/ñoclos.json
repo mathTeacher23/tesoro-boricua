@@ -3,12 +3,15 @@
   "term": "ñoclos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nudillo del dedo.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Nudillos",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5623",
+        "semantic_similarity_score": 0.5623,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -44,7 +47,7 @@
     }
   },
   "es_definitions": [
-    "Nudillo del dedo."
+    "Nudillos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

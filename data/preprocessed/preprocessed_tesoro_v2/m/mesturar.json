@@ -3,12 +3,15 @@
   "term": "mesturar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mezclar algo, incorporarlo o fundirlo con otra cosa.",
+      "consolidated_definition": "Mezclar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5511",
+        "semantic_similarity_score": 0.5511,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "MAULEÓN,",
-            "year": "1974"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MAULEÓN,",
+            "year": "1974"
           }
         ],
         "years": [
@@ -35,14 +38,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Mezclar. “Lo mestura todo” […]",
+          "Mezclar. “Lo mestura todo”",
           "Mezclar algo, incorporarlo o fundirlo con otra cosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Mezclar algo, incorporarlo o fundirlo con otra cosa."
+    "Mezclar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

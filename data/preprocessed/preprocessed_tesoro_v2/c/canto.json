@@ -3,12 +3,15 @@
   "term": "canto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En Puerto Rico, palabra para denotar la idea de ‘pedazo desprendible o separable de cualquier cosa, dura o blanda’.",
+      "consolidated_definition": "vulg, relacionado con una calificación",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13535148705090824,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5828",
+        "semantic_similarity_score": 0.5828,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -37,10 +44,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -55,15 +58,19 @@
           "cantito"
         ],
         "reference_definitions": [
-          "vulg.  Pedazo de cualquier cosa. “Un canto de pan.”",
-          "(popular)  Pedazo de algo, trozo.",
-          "Pedazo de cualquier cosa."
+          "vulg. Pedazo de cualquier cosa. “Un canto de pan.”",
+          "Pedazo de algo, trozo.",
+          "Pedazo de cualquier cosa.",
+          "En Puerto Rico, palabra para denotar la idea de ‘pedazo desprendible o separable de cualquier cosa, dura o blanda’.",
+          "La literatura costumbrista moderna registra su uso entre campesinos aplicado a sitios: “No quié uhté dehpegarse de ehte canto.” . “Tú teníah un canto e tierra.” . Marqués.",
+          "Pedazo, porción de algo.",
+          "Sitio, pedazo de tierra."
         ]
       }
     }
   },
   "es_definitions": [
-    "En Puerto Rico, palabra para denotar la idea de ‘pedazo desprendible o separable de cualquier cosa, dura o blanda’."
+    "vulg, relacionado con una calificación"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

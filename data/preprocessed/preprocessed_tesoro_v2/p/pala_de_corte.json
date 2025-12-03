@@ -3,12 +3,15 @@
   "term": "pala de corte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pala larga con un filo al frente que sirve para hacer zanjas y hoyos.",
+      "consolidated_definition": "A la pala de boca cuadrada se le",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05447984509769407,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4591",
+        "semantic_similarity_score": 0.4591,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "A la pala de boca cuadrada se le llama pala de corte.",
           "Pala larga con un filo al frente que sirve para hacer zanjas y hoyos.",
-          "Implemento [de labor]."
+          "Implemento .",
+          "De boca cuadrada. También pala de cortar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pala larga con un filo al frente que sirve para hacer zanjas y hoyos."
+    "A la pala de boca cuadrada se le"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

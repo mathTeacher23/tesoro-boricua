@@ -3,12 +3,15 @@
   "term": "avíos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Respecto al aparejo, los nombres empleados para designar el conjunto de los arreos de montar fueron ensillos en el oeste y avíos en el este.",
+      "consolidated_definition": "Respecto al aparejo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18254918403770626,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5555",
+        "semantic_similarity_score": 0.5555,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -27,12 +30,12 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
@@ -47,15 +50,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Respecto al aparejo, los nombres empleados para designar el conjunto de los arreos de montar fueron ensillos en el oeste y avíos en el este. El vocabl...",
+          "Respecto al aparejo, los nombres empleados para designar el conjunto de los arreos de montar fueron ensillos en el oeste y avíos en el este. El vocablo avíos se aplica en el este tanto a los arreos de montar como a cualquier otro aparejo. El oeste distingue entre los avíos de tiro y los ensillos de montar.",
           "Arreos para montar.",
-          "Productos que se recogen en la finca para llevarlos a la casa."
+          "Productos que se recogen en la finca para llevarlos a la casa.",
+          "Productos que se recogen para llevar a la casa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Respecto al aparejo, los nombres empleados para designar el conjunto de los arreos de montar fueron ensillos en el oeste y avíos en el este."
+    "Respecto al aparejo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "mora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de mar, comestible, de la familia del mero.",
+      "consolidated_definition": "Pez de mar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -38,12 +41,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Árbol de hasta 25 m de altura, de tronco recto y cilíndrico con raíces superficiales extendidas en la base, follaje fino, flores pequeñas, amarillo verdosas, y fruto de color gris, globoso y carnoso; su madera se usa en ebanistería.",
+      "consolidated_definition": "f",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10880566801619433,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5077",
+        "semantic_similarity_score": 0.5077,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -56,16 +62,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -76,16 +82,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "f.  (T. en Arg. y C. Rica).  Árbol de preciosa madera llamado también fustete. Grosourdy, 2, 383; Murphy, 8; Otero, 323.",
+          "f. . Árbol de preciosa madera llamado también fustete. Grosourdy, 2, 383; Murphy, 8; Otero, 323.",
           "Árbol de madera dura de color amarillenta.",
-          "Árbol de hasta 25 m de altura, de tronco recto y cilíndrico con raíces superficiales extendidas en la base, follaje fino, flores pequeñas, amarillo ve..."
+          "Árbol de hasta 25 m de altura, de tronco recto y cilíndrico con raíces superficiales extendidas en la base, follaje fino, flores pequeñas, amarillo verdosas, y fruto de color gris, globoso y carnoso; su madera se usa en ebanistería. ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pez de mar, comestible, de la familia del mero.",
-    "Árbol de hasta 25 m de altura, de tronco recto y cilíndrico con raíces superficiales extendidas en la base, follaje fino, flores pequeñas, amarillo verdosas, y fruto de color gris, globoso y carnoso; su madera se usa en ebanistería."
+    "Pez de mar",
+    "f"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

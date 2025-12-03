@@ -3,12 +3,15 @@
   "term": "acomodar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Colocar una persona a alguien en un cargo o destino por influencia.",
+      "consolidated_definition": "Adular",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09362816764132553,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4505",
+        "semantic_similarity_score": 0.4505,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -29,12 +32,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -45,19 +48,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Adular. Lograr que una persona simpatice con uno.",
+          "Adular. Lograr que una persona simpatice con uno.",
           "Adular.",
-          "Procurar la simpatía o favor de una persona con halagos."
+          "Procurar la simpatía o favor de una persona con halagos.",
+          "Colocar una persona a alguien en un cargo o destino por influencia."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Promover alguien el interés amoroso entre dos personas.",
+      "consolidated_definition": "Promover alguien el interés amoroso entre dos personas, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -86,12 +93,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "En el voleibol, dirigir el balón mediante un pase a una posición favorable en el aire para que otro jugador efectúe el remate.",
+      "consolidated_definition": "En el voleibol",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -118,15 +128,15 @@
           "acomodo"
         ],
         "reference_definitions": [
-          "En el voleibol, dirigir el balón mediante un pase a una posición favorable en el aire para que otro jugador efectúe el remate.\nEn la foto, Ángel Pérez..."
+          "En el voleibol, dirigir el balón mediante un pase a una posición favorable en el aire para que otro jugador efectúe el remate. En la foto, Ángel Pérez se apresta a acomodar el balón a Enrique Escalante de los Mets de Guaynabo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Colocar una persona a alguien en un cargo o destino por influencia.",
-    "Promover alguien el interés amoroso entre dos personas.",
-    "En el voleibol, dirigir el balón mediante un pase a una posición favorable en el aire para que otro jugador efectúe el remate."
+    "Adular",
+    "Promover alguien el interés amoroso entre dos personas, relacionado con un grupo",
+    "En el voleibol"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

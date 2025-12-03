@@ -3,12 +3,15 @@
   "term": "empiparse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hartarse, comer o beber en exceso, llenarse la barriga como quien llena una pipa; empajarse; apimparse.",
+      "consolidated_definition": "Hartarse",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05661584792019575,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.379",
+        "semantic_similarity_score": 0.379,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -22,24 +25,24 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -56,13 +59,17 @@
         "reference_definitions": [
           "Hartarse, comer o beber en exceso, llenarse la barriga como quien llena una pipa; empajarse; apimparse.",
           "Apiparse. Ahitarse.",
-          "Ponerse flatulento por haber comido en demasía."
+          "Ponerse flatulento por haber comido en demasía.",
+          "Hartarse.",
+          ". Chile, Ecuad., Perú y P. Rico. Apiparse, ahitarse.",
+          "Ingerir alimentos o bebidas en exceso.",
+          "Ponerse alguien flatulento por haber comido en exceso."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hartarse, comer o beber en exceso, llenarse la barriga como quien llena una pipa; empajarse; apimparse."
+    "Hartarse"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

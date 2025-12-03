@@ -3,12 +3,15 @@
   "term": "desempatar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Separar dos objetos que se encuentran unidos entre sí.",
+      "consolidated_definition": ". Desamarrar.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.02,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.406",
+        "semantic_similarity_score": 0.406,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -44,15 +47,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Col. y Cuba).  Desamarrar.",
+          ". Desamarrar.",
           "Soltar amarras.",
-          "Separar dos objetos que se encuentran unidos entre sí."
+          "Separar dos objetos que se encuentran unidos entre sí.",
+          "Desamarrar, desatar alguien a un animal.",
+          "Soltar amarras una embarcación."
         ]
       }
     }
   },
   "es_definitions": [
-    "Separar dos objetos que se encuentran unidos entre sí."
+    ". Desamarrar."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

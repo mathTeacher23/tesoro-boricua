@@ -3,12 +3,15 @@
   "term": "bembería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Diversión.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Vacilón",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.2809",
+        "semantic_similarity_score": 0.2809,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -38,13 +41,14 @@
         "reference_definitions": [
           "Vacilón.",
           "Juerga.",
-          "Jolgorio."
+          "Jolgorio.",
+          "Diversión."
         ]
       }
     }
   },
   "es_definitions": [
-    "Diversión."
+    "Vacilón"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

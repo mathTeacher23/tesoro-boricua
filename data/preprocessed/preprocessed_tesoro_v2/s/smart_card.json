@@ -3,12 +3,15 @@
   "term": "smart card",
   "superscripts": {
     "1": {
-      "consolidated_definition": "electr.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "electr",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "electr. Tarjeta que tiene un chip o circuito integrado que le permite procesar información. Anglicismo crudo, poco frecuente.\nUna smart card puede usa..."
+          "electr. Tarjeta que tiene un chip o circuito integrado que le permite procesar información. Anglicismo crudo, poco frecuente. Una smart card puede usarse para múltiples aplicaciones, en la misma por ejemplo podría almacenarse el perfil del usuario, lo datos de su monedero electrónico y la habilitación a acceder a determinadas actividades recreativas, de consumo o vinculadas”"
         ]
       }
     }
   },
   "es_definitions": [
-    "electr."
+    "electr"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

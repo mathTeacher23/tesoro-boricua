@@ -3,12 +3,15 @@
   "term": "cuartilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La fracción de un almud de café que corresponde en capacidad y peso a un cuarto de la medida completa.",
+      "consolidated_definition": "Fracción de un almud de café que equivale",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.16145039887299947,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6475",
+        "semantic_similarity_score": 0.6475,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -45,13 +48,14 @@
         "reference_definitions": [
           "Fracción de un almud de café que equivale a un cuarto.",
           "La fracción de un almud de café que corresponde en capacidad y peso a un cuarto de la medida completa.",
-          "Diminutivo de cuarta: “una cualtiya e queso”. Méndez Quiñones."
+          "Diminutivo de cuarta: “una cualtiya e queso”. Méndez Quiñones.",
+          "Cuarta parte de un almud de café."
         ]
       }
     }
   },
   "es_definitions": [
-    "La fracción de un almud de café que corresponde en capacidad y peso a un cuarto de la medida completa."
+    "Fracción de un almud de café que equivale"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

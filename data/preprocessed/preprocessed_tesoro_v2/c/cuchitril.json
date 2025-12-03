@@ -3,12 +3,15 @@
   "term": "cuchitril",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pequeña tienda, cafetín o taller.",
+      "consolidated_definition": "Pequeña tienda",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20833333333333334,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5551",
+        "semantic_similarity_score": 0.5551,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -40,13 +43,14 @@
         "reference_definitions": [
           "Pequeña tienda, cafetín o taller.",
           "Casucha. También dicen timbiriche.",
-          "Casucha."
+          "Casucha.",
+          "Pequeña tienda, cafetín o taller."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pequeña tienda, cafetín o taller."
+    "Pequeña tienda"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

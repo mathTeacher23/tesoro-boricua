@@ -3,12 +3,15 @@
   "term": "chavo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Centavo, moneda de cobre que vale un céntimo de dólar.",
+      "consolidated_definition": "Centavo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04788705738705738,
+        "num_cleaned_definitions": 11,
+        "definition_stability": "Stability: 0.5252",
+        "semantic_similarity_score": 0.5252,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -22,36 +25,36 @@
         ],
         "sources": [
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "CABIYA SAN MIGUEL,",
             "year": "1967"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DEL ROSARIO,",
+            "year": "1965"
           },
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
             "year": "2001"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -70,19 +73,30 @@
           "chavería"
         ],
         "reference_definitions": [
-          "(general)  Centavo, moneda de cobre que vale un céntimo de dólar. En Santo Domingo: chele; en Cuba: kilo.",
-          "pl.  Dinero, riqueza.",
-          "Centavo."
+          "Centavo, moneda de cobre que vale un céntimo de dólar. En Santo Domingo: chele; en Cuba: kilo.",
+          "pl. Dinero, riqueza.",
+          "Centavo.",
+          "Centavo, moneda. Voz usada en otros países de Hispanoamérica. Dinero. “No tengo chavos”, ‘no tengo dinero’.",
+          "Ochavo, céntimo, ochavo moruno.",
+          "Centavo.",
+          "pl. Dinero. Marqués: “¿De onde quiere que saquemoh loh chavoh?”",
+          "pl. Dinero.",
+          ". coloq. Centavo de dólar.",
+          "pl. Dinero .",
+          "Dinero, moneda corriente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Muchacho pequeño.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Bajo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5164",
+        "semantic_similarity_score": 0.5164,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -114,8 +128,8 @@
     }
   },
   "es_definitions": [
-    "Centavo, moneda de cobre que vale un céntimo de dólar.",
-    "Muchacho pequeño."
+    "Centavo",
+    "Bajo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

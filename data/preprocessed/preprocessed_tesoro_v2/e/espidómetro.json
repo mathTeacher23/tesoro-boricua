@@ -3,12 +3,15 @@
   "term": "espidómetro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Instrumento que sirve para medir la velocidad de los vehículos, especialmente de los automóviles.",
+      "consolidated_definition": "Instrumento que sirve para medir la velocidad de",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06000000000000001,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4161",
+        "semantic_similarity_score": 0.4161,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "WASHINGTON LLORENS,",
-            "year": "1957"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "WASHINGTON LLORENS,",
+            "year": "1957"
           }
         ],
         "years": [
@@ -45,13 +48,15 @@
         "reference_definitions": [
           "Instrumento que sirve para medir la velocidad de los vehículos, especialmente de los automóviles.",
           "Odómetro. Cuenta millas o cuenta kilómetros.",
-          "Instrumento destinado a medir la velocidad de los vehículos."
+          "Instrumento destinado a medir la velocidad de los vehículos.",
+          "Odómetro.",
+          "Cuentakilómetros."
         ]
       }
     }
   },
   "es_definitions": [
-    "Instrumento que sirve para medir la velocidad de los vehículos, especialmente de los automóviles."
+    "Instrumento que sirve para medir la velocidad de"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

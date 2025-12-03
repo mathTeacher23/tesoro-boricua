@@ -3,12 +3,15 @@
   "term": "revirar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Virar.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Volver a virar; virar; voltear.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05787037037037037,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4671",
+        "semantic_similarity_score": 0.4671,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -39,15 +42,15 @@
           "revirón"
         ],
         "reference_definitions": [
-          "(T. en Cuba). Volver a virar; virar; voltear.",
-          "prnl.  fig.  Rebelarse, tornarse en contra de algo o alguien.",
+          ". Volver a virar; virar; voltear.",
+          "prnl. fig. Rebelarse, tornarse en contra de algo o alguien.",
           "Virar. Volver atrás."
         ]
       }
     }
   },
   "es_definitions": [
-    "Virar."
+    ". Volver a virar; virar; voltear."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

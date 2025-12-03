@@ -1,4 +1,4 @@
-.PHONY: help install setup start stop backend frontend dev build clean logs
+.PHONY: help install setup start stop backend frontend dev build clean logs validation validation-up validation-down
 
 # Color output
 BLUE := \033[0;34m
@@ -22,8 +22,11 @@ help: ## Show this help message
 	@echo "  $(YELLOW)make dev$(NC)         - Start in development mode with live reload"
 	@echo ""
 	@echo "$(GREEN)🔧 Individual Commands:$(NC)"
-	@echo "  $(YELLOW)make backend$(NC)     - Start only the backend server"
-	@echo "  $(YELLOW)make frontend$(NC)    - Start only the React frontend"
+	@echo "  $(YELLOW)make backend$(NC)        - Start only the backend server"
+	@echo "  $(YELLOW)make frontend$(NC)       - Start only the React frontend"
+	@echo "  $(YELLOW)make validation$(NC)     - Start the TESORO validation app (background)"
+	@echo "  $(YELLOW)make validation-up$(NC)  - Start the TESORO validation app (background)"
+	@echo "  $(YELLOW)make validation-down$(NC)- Stop the TESORO validation app"
 	@echo ""
 	@echo "$(GREEN)📦 Setup & Installation:$(NC)"
 	@echo "  $(YELLOW)make install$(NC)     - Install all dependencies (backend + frontend)"
@@ -113,6 +116,32 @@ frontend: ## Start only the React frontend
 	@echo "$(GREEN)Press Ctrl+C to stop$(NC)"
 	@echo ""
 	@cd $(REACT_UI_DIR) && npm start
+
+validation: validation-up ## Start the TESORO validation app (alias for validation-up)
+
+validation-up: ## Start the TESORO validation app in background
+	@echo "$(BLUE)╔════════════════════════════════════════════════════════════╗$(NC)"
+	@echo "$(BLUE)║  📋 Starting TESORO Validation App                         ║$(NC)"
+	@echo "$(BLUE)╚════════════════════════════════════════════════════════════╝$(NC)"
+	@echo ""
+	@echo "$(YELLOW)Backend: http://localhost:5001$(NC)"
+	@echo "$(YELLOW)Frontend: http://localhost:8000$(NC)"
+	@echo ""
+	@echo "$(GREEN)Starting Flask backend and static file server...$(NC)"
+	@echo ""
+	@uv run python src/tesoro_pipeline_v2/validation/app.py > /tmp/validation_backend.log 2>&1 & \
+	sleep 2 && \
+	cd src/tesoro_pipeline_v2/validation && python -m http.server 8000 > /tmp/validation_frontend.log 2>&1 &
+	@echo "$(GREEN)✓ Validation backend running on http://localhost:5001$(NC)"
+	@echo "$(GREEN)✓ Validation frontend running on http://localhost:8000$(NC)"
+	@echo "$(GREEN)Run 'make validation-down' to stop$(NC)"
+
+validation-down: ## Stop the TESORO validation app
+	@echo "$(YELLOW)Stopping validation app...$(NC)"
+	@pkill -f "python.*validation/app.py" || true
+	@pkill -f "http.server.*8000" || true
+	@sleep 1
+	@echo "$(GREEN)✓ Validation app stopped$(NC)"
 
 stop: ## Stop all running services
 	@echo "$(YELLOW)Stopping all services...$(NC)"

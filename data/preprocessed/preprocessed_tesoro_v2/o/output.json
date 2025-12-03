@@ -3,12 +3,15 @@
   "term": "output",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "inform",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -33,13 +36,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Elemento de salida. Datos o resultados de un trabajo presentados en una impresora, pantalla, etc. Anglicismo crudo, frecuente.\nOutput impreso ..."
+          "inform. Elemento de salida. Datos o resultados de un trabajo presentados en una impresora, pantalla, etc. Anglicismo crudo, frecuente. Output impreso es el output en papel. La tecnología ha mejorado las impresoras, por lo tanto la calidad del output. Mucha gente prefiere trabajar con papeles y no con un documento en pantalla"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform."
+    "inform"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

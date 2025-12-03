@@ -3,12 +3,15 @@
   "term": "white horse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Marihuana y heroína.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Marihuana y heroína",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7645",
+        "semantic_similarity_score": 0.7645,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Marihuana y heroína."
+    "Marihuana y heroína"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

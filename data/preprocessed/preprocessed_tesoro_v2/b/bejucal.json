@@ -3,12 +3,15 @@
   "term": "bejucal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar donde abunda el crecimiento natural de bejucos.",
+      "consolidated_definition": "Sitio abundante en bejucos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.14273310023310024,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5729",
+        "semantic_similarity_score": 0.5729,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1977"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -47,13 +50,15 @@
         "reference_definitions": [
           "Sitio abundante en bejucos.",
           "Lugar donde abunda el crecimiento natural de bejucos.",
-          "Terreno lleno de malezas, arbustos y bejucos."
+          "Terreno lleno de malezas, arbustos y bejucos.",
+          "Lugar lleno de malezas y arbustos.",
+          "Lugar donde abundan los bejucos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Lugar donde abunda el crecimiento natural de bejucos."
+    "Sitio abundante en bejucos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

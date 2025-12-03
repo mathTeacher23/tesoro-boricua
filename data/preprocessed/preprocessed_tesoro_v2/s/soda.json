@@ -3,12 +3,15 @@
   "term": "soda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Refresco, gaseosa.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Refresco",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08196721311475409,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4705",
+        "semantic_similarity_score": 0.4705,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -37,13 +40,13 @@
         "related_words": [],
         "reference_definitions": [
           "Refresco. El DRAE 92 lo recoge como procedente del italiano. López Morales, Pratt y Lorenzo lo dan como anglicismo.",
-          "Refresco, gaseosa. Bebida carbonatada dulce. Soda con el significado de soda (water) procede del inglés. Anglicismo adaptado, frecuente. DRAE 2001, de..."
+          "Refresco, gaseosa. Bebida carbonatada dulce. Soda con el significado de soda procede del inglés. Anglicismo adaptado, frecuente. DRAE 2001, del italiano. Las empresas Coca-Cola, Pepsico y Cadbury Schweppes accedieron a restringir la venta de sodas en las escuelas desde kindergarten hasta cuarto año con el propósito de reducir la obesidad en los niños"
         ]
       }
     }
   },
   "es_definitions": [
-    "Refresco, gaseosa."
+    "Refresco"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

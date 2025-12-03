@@ -3,12 +3,15 @@
   "term": "inmortal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fueron igualmente abundantes las denominaciones recogidas para la margarita de botón amarillo y hojas blancas [...] inmortal, Naranjito.",
+      "consolidated_definition": "Fueron igualmente abundantes las denominaciones recogidas para la",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3536872484240905,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7562",
+        "semantic_similarity_score": 0.7562,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -41,19 +44,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Fueron igualmente abundantes las denominaciones recogidas para la margarita de botón amarillo y hojas blancas [...] inmortal, Naranjito.",
+          "Fueron igualmente abundantes las denominaciones recogidas para la margarita de botón amarillo y hojas blancas inmortal, Naranjito.",
           "La margarita de botón amarillo y hojas blancas.",
           "Margarita común, de botón amarillo y pétalos blancos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Flor de siempreviva.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Siempreviva, planta de bellas flores. . .",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07692307692307693,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.677",
+        "semantic_similarity_score": 0.677,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -81,18 +87,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Ecuad.).  Siempreviva, planta de bellas flores. (Celosia). Otero, 1994.",
+          ". Siempreviva, planta de bellas flores. . .",
           "Flor de siempreviva."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Árbol de hasta 7 m de altura, de tronco espinoso, hojas trifolioladas y alternas, flores tubulares rojas y frutos leguminosos, rojos o negros cuando están maduros.",
+      "consolidated_definition": "Árbol",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.034482758620689655,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.2533",
+        "semantic_similarity_score": 0.2533,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -105,12 +114,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -121,15 +130,15 @@
         "related_words": [],
         "reference_definitions": [
           "Árbol. Variedad de bucaré.",
-          "Árbol de hasta 7 m de altura, de tronco espinoso, hojas trifolioladas y alternas, flores tubulares rojas y frutos leguminosos, rojos o negros cuando e..."
+          "Árbol de hasta 7 m de altura, de tronco espinoso, hojas trifolioladas y alternas, flores tubulares rojas y frutos leguminosos, rojos o negros cuando están maduros. Fabaceae, Erythrina spp."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fueron igualmente abundantes las denominaciones recogidas para la margarita de botón amarillo y hojas blancas [...] inmortal, Naranjito.",
-    "Flor de siempreviva.",
-    "Árbol de hasta 7 m de altura, de tronco espinoso, hojas trifolioladas y alternas, flores tubulares rojas y frutos leguminosos, rojos o negros cuando están maduros."
+    "Fueron igualmente abundantes las denominaciones recogidas para la",
+    ". Siempreviva, planta de bellas flores. . .",
+    "Árbol"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "búcaro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que suelen dar los campesinos al árbol de húcar prieto o negro, que también denominan júcaro.",
+      "consolidated_definition": "Nombre que suelen dar los campesinos al árbol",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09897292250233426,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5529",
+        "semantic_similarity_score": 0.5529,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1977"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Nombre que suelen dar los campesinos al árbol de húcar prieto o negro, que también denominan júcaro."
+    "Nombre que suelen dar los campesinos al árbol"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

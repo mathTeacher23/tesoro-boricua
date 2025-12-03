@@ -3,12 +3,15 @@
   "term": "barraca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El corral en que se almacenan trastos y maderos es designado con los términos de barraca y patio [...].",
+      "consolidated_definition": ". Especie de corral grande para almacenar maderas, cueros, cereales u otros efectos. Ac.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1380952380952381,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5645",
+        "semantic_similarity_score": 0.5645,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -41,19 +44,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg., Bol., Chile, Méx. y Perú).  Especie de corral grande para almacenar maderas, cueros, cereales u otros efectos. Ac.",
-          "El corral en que se almacenan trastos y maderos es designado con los términos de barraca y patio [...]",
+          ". Especie de corral grande para almacenar maderas, cueros, cereales u otros efectos. Ac.",
+          "El corral en que se almacenan trastos y maderos es designado con los términos de barraca y patio",
           "Edificio en que se depositan cueros, lanas, maderas, cereales u otros efectos destinados al comercio."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cobertizo que se hace en los sembrados para guarecerse de la lluvia.",
+      "consolidated_definition": "Tormentera",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.061507936507936505,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4677",
+        "semantic_similarity_score": 0.4677,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -70,12 +76,12 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           }
         ],
         "years": [
@@ -93,8 +99,8 @@
     }
   },
   "es_definitions": [
-    "El corral en que se almacenan trastos y maderos es designado con los términos de barraca y patio [...].",
-    "Cobertizo que se hace en los sembrados para guarecerse de la lluvia."
+    ". Especie de corral grande para almacenar maderas, cueros, cereales u otros efectos. Ac.",
+    "Tormentera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

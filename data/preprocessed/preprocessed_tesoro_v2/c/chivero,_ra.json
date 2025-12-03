@@ -3,12 +3,15 @@
   "term": "chivero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, que no tiene trabajo ni sueldo fijos y se dedica a realizar tareas de forma eventual que le reportan lo necesario para vivir.",
+      "consolidated_definition": "Dícese de la persona que se dedica a",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09162393621487604,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5112",
+        "semantic_similarity_score": 0.5112,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,19 +51,25 @@
           "de chivo"
         ],
         "reference_definitions": [
-          "Dícese de la persona que se dedica a hacer chivos, trabajos de poca monta. Ej.: “carpintero chivero”,  albañil chivero.",
+          "Dícese de la persona que se dedica a hacer chivos, trabajos de poca monta. Ej.: “carpintero chivero”, albañil chivero.",
           "De la persona que hace trabajos clandestinamente.",
-          "Chapucear algún trabajo."
+          "Chapucear algún trabajo.",
+          "Referido a persona, que no tiene trabajo ni sueldo fijos y se dedica a realizar tareas de forma eventual que le reportan lo necesario para vivir.",
+          "Hombre que se dedica a hacer mejoras y modificaciones en residencias.",
+          "Referido a persona, que comete chivos, errores."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona con suerte.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Persona con suerte",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -90,8 +99,8 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, que no tiene trabajo ni sueldo fijos y se dedica a realizar tareas de forma eventual que le reportan lo necesario para vivir.",
-    "Persona con suerte."
+    "Dícese de la persona que se dedica a",
+    "Persona con suerte"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

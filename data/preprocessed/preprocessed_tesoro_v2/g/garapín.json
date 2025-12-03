@@ -3,12 +3,15 @@
   "term": "garapín",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las actividades marítimas, ancla de pequeño tamaño que se usa para fondear o enganchar nasas perdidas.",
+      "consolidated_definition": "Ancla pequeña que se usa para fondearse o",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.21891685736079328,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6393",
+        "semantic_similarity_score": 0.6393,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "SUÁREZ,",
             "year": "1979"
           },
           {
             "source": "VAQUERO,",
             "year": "1986"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "En las actividades marítimas, ancla de pequeño tamaño que se usa para fondear o enganchar nasas perdidas."
+    "Ancla pequeña que se usa para fondearse o"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

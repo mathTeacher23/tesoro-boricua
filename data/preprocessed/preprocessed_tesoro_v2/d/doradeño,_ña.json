@@ -3,12 +3,15 @@
   "term": "doradeño, ña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De Dorado.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "De Dorado",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.6666666666666666,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.8309",
+        "semantic_similarity_score": 0.8309,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -36,13 +39,13 @@
         "related_words": [],
         "reference_definitions": [
           "De Dorado.",
-          "Gentilicio.  De Dorado."
+          "Gentilicio. De Dorado."
         ]
       }
     }
   },
   "es_definitions": [
-    "De Dorado."
+    "De Dorado"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

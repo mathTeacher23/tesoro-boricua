@@ -3,12 +3,15 @@
   "term": "escambray",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosa inservible por vieja o por deteriorada.",
+      "consolidated_definition": "Cosa inservible por vieja o por deteriorada",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.26071428571428573,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5865",
+        "semantic_similarity_score": 0.5865,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,16 +28,16 @@
             "year": "1965"
           },
           {
-            "source": "PÉREZ SALA,",
-            "year": "1968"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "PAGÁN GONZÁLEZ,",
             "year": "1969"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "PÉREZ SALA,",
+            "year": "1968"
           }
         ],
         "years": [
@@ -46,15 +49,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general)  Cosa inservible por vieja o por deteriorada.",
+          "Cosa inservible por vieja o por deteriorada.",
           "Garrancho.",
-          "Cosa inservible por vieja y por deteriorada."
+          "Cosa inservible por vieja y por deteriorada.",
+          "Cosa inservible por vieja o deteriorada.",
+          "Cosa inservible."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cosa inservible por vieja o por deteriorada."
+    "Cosa inservible por vieja o por deteriorada"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

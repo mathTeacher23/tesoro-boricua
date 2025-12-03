@@ -3,12 +3,15 @@
   "term": "pipo, pa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, repleta, harta de comida.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5737",
+        "semantic_similarity_score": 0.5737,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,16 +25,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (T. en Ven.).  Repleto, harto. (En salmantino se dice del que bebe con exceso. Lamano).",
+          "vulg. . Repleto, harto. .",
           "Harto. Repleto de comida. Pimpo.",
           "Referido a persona, repleta, harta de comida."
         ]
@@ -50,7 +53,7 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, repleta, harta de comida."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

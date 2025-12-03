@@ -3,12 +3,15 @@
   "term": "sajar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacer cortaduras en la carne para salarla.",
+      "consolidated_definition": "hacer cortaduras en la carne algo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.009259259259259259,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3785",
+        "semantic_similarity_score": 0.3785,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -29,12 +32,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,13 +53,14 @@
         "reference_definitions": [
           "Hacer cortaduras en la carne para salarla.",
           "Rebanar. Cortar en rodajas ciertas cosas como el queso, el pan o el salchichón.",
-          "Herir."
+          "Herir.",
+          "Castrar por herida abierta."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hacer cortaduras en la carne para salarla."
+    "hacer cortaduras en la carne algo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

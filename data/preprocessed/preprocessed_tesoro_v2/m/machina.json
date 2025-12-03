@@ -3,12 +3,15 @@
   "term": "machina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Autobús que hace un recorrido corto, ida y vuelta, con o sin pago de pasaje.",
+      "consolidated_definition": "Guagua para trayectos cortos y gratuitos o semi-gratuitos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07341269841269842,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4326",
+        "semantic_similarity_score": 0.4326,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,12 +28,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -48,12 +51,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Máquina de cualquier tipo de un parque de diversiones o una feria.",
+      "consolidated_definition": ". Tiovivo. “Al llegar a la machina, ví una mulata que se balanceaba.” Luis Bonafoux, Esbozos novelescos, 1894, p. 384. “De mozo voy a comprar —un potro de raza fina —para montarlo y creerme —que aun estoy en la machina.” Luis Rechani, La machina, 1932. ., relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09903909798986474,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.5813",
+        "semantic_similarity_score": 0.5813,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -66,6 +72,18 @@
         ],
         "sources": [
           {
+            "source": "DEL ROSARIO,",
+            "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -74,20 +92,8 @@
             "year": "1948"
           },
           {
-            "source": "DEL ROSARIO,",
-            "year": "1965"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -103,19 +109,26 @@
           "machinero"
         ],
         "reference_definitions": [
-          "(Del francés).  Tiovivo. “Al llegar a la machina, ví una mulata que se balanceaba.” Luis Bonafoux, Esbozos novelescos, 1894, p. 384. “De mozo voy a co...",
+          ". Tiovivo. “Al llegar a la machina, ví una mulata que se balanceaba.” Luis Bonafoux, Esbozos novelescos, 1894, p. 384. “De mozo voy a comprar —un potro de raza fina —para montarlo y creerme —que aun estoy en la machina.” Luis Rechani, La machina, 1932. .",
           "Tiovivo.",
-          "(general)  Caballitos, tiovivo."
+          "Caballitos, tiovivo.",
+          "Tiovivo.",
+          ". Tiovivo.",
+          "Tiovivo, caballitos.",
+          "Máquina de cualquier tipo de un parque de diversiones o una feria."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Persona que da vueltas en un mismo sitio.",
+      "consolidated_definition": "Persona que da vueltas en un mismo sitio",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -150,9 +163,9 @@
     }
   },
   "es_definitions": [
-    "Autobús que hace un recorrido corto, ida y vuelta, con o sin pago de pasaje.",
-    "Máquina de cualquier tipo de un parque de diversiones o una feria.",
-    "Persona que da vueltas en un mismo sitio."
+    "Guagua para trayectos cortos y gratuitos o semi-gratuitos",
+    ". Tiovivo. “Al llegar a la machina, ví una mulata que se balanceaba.” Luis Bonafoux, Esbozos novelescos, 1894, p. 384. “De mozo voy a comprar —un potro de raza fina —para montarlo y creerme —que aun estoy en la machina.” Luis Rechani, La machina, 1932. ., relacionado con un mecanismo",
+    "Persona que da vueltas en un mismo sitio"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

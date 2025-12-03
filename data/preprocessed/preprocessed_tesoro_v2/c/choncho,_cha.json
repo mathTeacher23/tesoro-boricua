@@ -3,12 +3,15 @@
   "term": "choncho, cha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, gorda y de poca altura.",
+      "consolidated_definition": "Al ruin",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.015151515151515152,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3783",
+        "semantic_similarity_score": 0.3783,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,6 +27,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "NAVARRO TOMÁS,",
             "year": "1948"
           },
@@ -34,10 +41,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,19 +52,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Al [caballo] ruin, flocho, choncho.",
+          "Al ruin, flocho, choncho.",
           "Persona gruesa y bajita.",
-          "Chalungo."
+          "Chalungo.",
+          "Referido a persona, gorda y de poca altura."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el juego del billar, jugador poco hábil, torpe.",
+      "consolidated_definition": "En el juego del billar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -92,8 +99,8 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, gorda y de poca altura.",
-    "En el juego del billar, jugador poco hábil, torpe."
+    "Al ruin",
+    "En el juego del billar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

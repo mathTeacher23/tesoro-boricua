@@ -3,12 +3,15 @@
   "term": "sardo, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a una res, de pelaje negro, blanco y rojo.",
+      "consolidated_definition": "Res de pelaje negro",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.31004273504273505,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6502",
+        "semantic_similarity_score": 0.6502,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -22,6 +25,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
@@ -32,10 +39,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,13 +52,14 @@
         "reference_definitions": [
           "Res de pelaje negro, blanco y colorado.",
           "De varios colores mezclados.",
-          "De pelaje manchado de negro, blanco y colorado."
+          "De pelaje manchado de negro, blanco y colorado.",
+          "Referido a una res, de pelaje negro, blanco y rojo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a una res, de pelaje negro, blanco y rojo."
+    "Res de pelaje negro"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

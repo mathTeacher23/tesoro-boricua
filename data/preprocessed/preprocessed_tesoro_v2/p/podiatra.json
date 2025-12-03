@@ -3,12 +3,15 @@
   "term": "podiatra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especialización médica.",
+      "consolidated_definition": "Especialización médica",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.025641025641025644,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3409",
+        "semantic_similarity_score": 0.3409,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "HUYKE,",
-            "year": "1973"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HUYKE,",
+            "year": "1973"
           }
         ],
         "years": [
@@ -46,7 +49,7 @@
     }
   },
   "es_definitions": [
-    "Especialización médica."
+    "Especialización médica"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

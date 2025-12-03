@@ -3,12 +3,15 @@
   "term": "pezuña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En casi todos los pueblos el pie del caballo fue denominado uña y el del buey pezuña.",
+      "consolidated_definition": "En casi todos los pueblos el pie del",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1684302537431203,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.6796",
+        "semantic_similarity_score": 0.6796,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,24 +24,24 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
-            "source": "GOYCO,",
-            "year": "1964"
-          },
-          {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
             "source": "CABIYA SAN MIGUEL,",
             "year": "1967"
           },
           {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
+          },
+          {
+            "source": "GOYCO,",
+            "year": "1964"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "VAQUERO,",
@@ -58,13 +61,17 @@
         "reference_definitions": [
           "En casi todos los pueblos el pie del caballo fue denominado uña y el del buey pezuña.",
           "Pie del caballo. También uña, casco.",
-          "Pie del caballo. También uña, casco, pata."
+          "Pie del caballo. También uña, casco, pata.",
+          "Pie del caballo.",
+          "Pie de la vaca. También uña, casco, pata.",
+          "A la parte final de la pata del caballo o el buey.",
+          "El casco."
         ]
       }
     }
   },
   "es_definitions": [
-    "En casi todos los pueblos el pie del caballo fue denominado uña y el del buey pezuña."
+    "En casi todos los pueblos el pie del"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

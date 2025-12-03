@@ -3,12 +3,15 @@
   "term": "dorado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez marino de hasta 1 m de longitud, con la parte frontal alta y redondeada, cuerpo comprimido, aleta caudal surcada y cabeza con cresta, y una coloración vistosa que oscila entre los tonos azul, amarillo, blanco y verde; es comestible.",
+      "consolidated_definition": "Pez de la familia Coryphaenidae, relacionado con una organización",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06717894766690939,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3373",
+        "semantic_similarity_score": 0.3373,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,6 +26,10 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "ERDMAN,",
             "year": "1974"
           },
@@ -33,10 +40,6 @@
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,13 +52,14 @@
         "reference_definitions": [
           "Pez de la familia Coryphaenidae. Coryphaena hippurus.",
           "Thunnus thynnus. Peje de mar afuera.",
-          "Pez comestible de mar, con el cuerpo abultado sobre la cabeza. Puede crecer hasta más de un metro de largo. Su cabeza es roma con la boca pequeña y el..."
+          "Pez comestible de mar, con el cuerpo abultado sobre la cabeza. Puede crecer hasta más de un metro de largo. Su cabeza es roma con la boca pequeña y el ojo pequeño y amarillo con el centro negro. La aleta dorsal va desde la cabeza a la cola, la que es vertical en forma de . Sus escamas son amarillas en el vientre y castaño oscuro en el lomo. Casi no tiene aleta abdominal. También llamado dolfín.",
+          "Pez marino de hasta 1 m de longitud, con la parte frontal alta y redondeada, cuerpo comprimido, aleta caudal surcada y cabeza con cresta, y una coloración vistosa que oscila entre los tonos azul, amarillo, blanco y verde; es comestible. ."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pez marino de hasta 1 m de longitud, con la parte frontal alta y redondeada, cuerpo comprimido, aleta caudal surcada y cabeza con cresta, y una coloración vistosa que oscila entre los tonos azul, amarillo, blanco y verde; es comestible."
+    "Pez de la familia Coryphaenidae, relacionado con una organización"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

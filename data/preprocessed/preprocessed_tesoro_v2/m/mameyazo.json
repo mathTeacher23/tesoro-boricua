@@ -3,12 +3,15 @@
   "term": "mameyazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe dado con la fruta del mamey.",
+      "consolidated_definition": "Golpe dado con la fruta del mamey",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3055555555555555,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.637",
+        "semantic_similarity_score": 0.637,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -38,13 +41,14 @@
         "reference_definitions": [
           "Golpe dado con la fruta del mamey.",
           "Golpe fuerte.",
-          "Golpe violento."
+          "Golpe violento.",
+          "Golpe dado con la fruta del mamey."
         ]
       }
     }
   },
   "es_definitions": [
-    "Golpe dado con la fruta del mamey."
+    "Golpe dado con la fruta del mamey"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

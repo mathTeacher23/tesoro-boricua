@@ -3,12 +3,15 @@
   "term": "motorista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Policía de circulación que se desplaza en motocicleta.",
+      "consolidated_definition": "Policía de circulación que se desplaza en motocicleta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.576",
+        "semantic_similarity_score": 0.576,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -40,7 +43,7 @@
     }
   },
   "es_definitions": [
-    "Policía de circulación que se desplaza en motocicleta."
+    "Policía de circulación que se desplaza en motocicleta"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

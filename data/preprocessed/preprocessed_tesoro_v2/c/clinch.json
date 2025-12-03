@@ -3,12 +3,15 @@
   "term": "clinch",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "dep",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. Agarre. Abrazo fuerte en una pelea de boxeo. Anglicismo crudo, poco frecuente.\nEl caso es que las autoridades se percataron de la movida y tuvier..."
+          "dep. Agarre. Abrazo fuerte en una pelea de boxeo. Anglicismo crudo, poco frecuente. El caso es que las autoridades se percataron de la movida y tuvieron que separarlos , con el saldo de que ya él no podrá recibir visitas privadas"
         ]
       }
     }
   },
   "es_definitions": [
-    "dep."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

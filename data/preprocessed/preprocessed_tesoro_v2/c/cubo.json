@@ -3,12 +3,15 @@
   "term": "cubo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La pieza central de la rueda sólo fue llamada cubo por el sujeto de San Juan.",
+      "consolidated_definition": "La pieza central de la rueda sólo fue",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.28635531135531134,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6784",
+        "semantic_similarity_score": 0.6784,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -37,18 +40,22 @@
         "related_words": [],
         "reference_definitions": [
           "La pieza central de la rueda sólo fue llamada cubo por el sujeto de San Juan.",
-          "El centro de la rueda [...]",
-          "[...] cubo de la rueda [...]"
+          "El centro de la rueda",
+          "cubo de la rueda",
+          "El centro de la rueda. También campana, manzana, maza, piña."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cilindro metálico o de material plástico en el que se encaja la bombilla eléctrica.",
+      "consolidated_definition": "Cilindro metálico o de material plástico en el",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,21 +83,19 @@
       }
     },
     "3": {
-      "consolidated_definition": "Ver sentadera .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver sentadera",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -101,9 +106,9 @@
     }
   },
   "es_definitions": [
-    "La pieza central de la rueda sólo fue llamada cubo por el sujeto de San Juan.",
-    "Cilindro metálico o de material plástico en el que se encaja la bombilla eléctrica.",
-    "Ver sentadera ."
+    "La pieza central de la rueda sólo fue",
+    "Cilindro metálico o de material plástico en el",
+    "Ver sentadera"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

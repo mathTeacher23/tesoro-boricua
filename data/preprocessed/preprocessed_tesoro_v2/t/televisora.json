@@ -3,12 +3,15 @@
   "term": "televisora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "tel.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "tel",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "tel. Televisión. Emisora que transmite imágenes a distancia por ondas de radio o por redes especializadas de televisión por cable. Anglicismo adaptado..."
+          "tel. Televisión. Emisora que transmite imágenes a distancia por ondas de radio o por redes especializadas de televisión por cable. Anglicismo adaptado, usual. La revocación de la televisora RCTV fue dentro de la ley capitalista tradicional"
         ]
       }
     }
   },
   "es_definitions": [
-    "tel."
+    "tel"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

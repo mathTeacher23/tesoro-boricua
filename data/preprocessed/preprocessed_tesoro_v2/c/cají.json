@@ -3,12 +3,15 @@
   "term": "cají",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de mar, comestible, más conocido como pargo rubio.",
+      "consolidated_definition": "Lutjanus apodus",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18382352941176472,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5994",
+        "semantic_similarity_score": 0.5994,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "ERDMAN,",
             "year": "1974"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Pez de mar, comestible, más conocido como pargo rubio."
+    "Lutjanus apodus"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

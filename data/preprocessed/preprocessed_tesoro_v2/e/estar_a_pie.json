@@ -3,12 +3,15 @@
   "term": "estar a pie",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Encontrarse alguien sin un automóvil disponible.",
+      "consolidated_definition": "Sin automóvil disponible",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.624",
+        "semantic_similarity_score": 0.624,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "VAQUERO,",
-            "year": "1995"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VAQUERO,",
+            "year": "1995"
           }
         ],
         "years": [
@@ -42,7 +45,7 @@
     }
   },
   "es_definitions": [
-    "Encontrarse alguien sin un automóvil disponible."
+    "Sin automóvil disponible"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

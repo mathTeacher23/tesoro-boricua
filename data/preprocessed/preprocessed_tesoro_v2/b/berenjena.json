@@ -3,12 +3,15 @@
   "term": "berenjena",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La vena .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "La vena",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7863",
+        "semantic_similarity_score": 0.7863,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -38,14 +41,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "La vena (se relaciona con las drogas).",
+          "La vena .",
           "Vena."
         ]
       }
     }
   },
   "es_definitions": [
-    "La vena ."
+    "La vena"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

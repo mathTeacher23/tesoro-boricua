@@ -3,12 +3,15 @@
   "term": "martinete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El carpintero, de quien decía Fernández de Oviedo que “pica los árboles con el pico,” fue registrado siempre con el nombre de martinete.",
+      "consolidated_definition": "El carpintero",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.006944444444444444,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4995",
+        "semantic_similarity_score": 0.4995,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "VAQUERO,",
@@ -48,13 +51,14 @@
         "reference_definitions": [
           "El carpintero, de quien decía Fernández de Oviedo que “pica los árboles con el pico,” fue registrado siempre con el nombre de martinete.",
           "Pájaro.",
-          "Ave de patas, pico y pescuezo largos."
+          "Ave de patas, pico y pescuezo largos.",
+          "Ave. Pájaro carpintero."
         ]
       }
     }
   },
   "es_definitions": [
-    "El carpintero, de quien decía Fernández de Oviedo que “pica los árboles con el pico,” fue registrado siempre con el nombre de martinete."
+    "El carpintero"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

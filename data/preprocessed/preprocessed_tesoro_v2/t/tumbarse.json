@@ -3,12 +3,15 @@
   "term": "tumbarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Echarse en la cama por agotamiento o enfermedad.",
+      "consolidated_definition": "Echarse en la cama por agotamiento o enfermedad",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.019675925925925927,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.3358",
+        "semantic_similarity_score": 0.3358,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -24,16 +27,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1972"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -45,14 +48,15 @@
         "related_words": [],
         "reference_definitions": [
           "Echarse en la cama por agotamiento o enfermedad.",
-          "(T. en varios países de Am.).  Echarse, acostarse especialmente a dormir.",
-          "Acostarse."
+          ". Echarse, acostarse especialmente a dormir.",
+          "Acostarse.",
+          "Callarse, dejar de hablar de algún tema."
         ]
       }
     }
   },
   "es_definitions": [
-    "Echarse en la cama por agotamiento o enfermedad."
+    "Echarse en la cama por agotamiento o enfermedad"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

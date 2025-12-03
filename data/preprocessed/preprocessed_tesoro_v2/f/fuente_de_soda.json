@@ -3,12 +3,15 @@
   "term": "fuente de soda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "alim.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "alim",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -31,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "alim. Heladería, cafetería. Mostrador con equipo para hacer y servir bebidas suaves y helados. Calco de estructura, poco frecuente.\nEn esta industria ..."
+          "alim. Heladería, cafetería. Mostrador con equipo para hacer y servir bebidas suaves y helados. Calco de estructura, poco frecuente. En esta industria puede darse el caso de un negocio mixto, o sea, de un establecimiento que además de operar una fuente de soda, se dedique a explotar a la vez otro negocio como por ejemplo, una farmacia"
         ]
       }
     }
   },
   "es_definitions": [
-    "alim."
+    "alim"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

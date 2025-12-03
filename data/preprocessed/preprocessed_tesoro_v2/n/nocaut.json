@@ -3,12 +3,15 @@
   "term": "nocaut",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caída de un boxeador.",
+      "consolidated_definition": "dep",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06278460101989514,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4173",
+        "semantic_similarity_score": 0.4173,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -38,15 +41,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el boxeo, golpe que deja fuera de combate a uno de los oponentes; también, regla por la que el árbitro detiene la pelea y declara vencedor al ...",
-          "dep. En el juego de béisbol, cuando uno de los equipos alcanza una delantera de diez carreras sobre el equipo contrario. Válido en toda la FIBA, excep...",
+          "dep. En el boxeo, golpe que deja fuera de combate a uno de los oponentes; también, regla por la que el árbitro detiene la pelea y declara vencedor al oponente después de contar hasta diez sin que el boxeador derribado se pueda incorporar. Anglicismo semiadaptado, usual. Entre sus peleas más conocidas encontramos en mayo de 1958 ganó por nocaut en el primer asalto ante Gene Hamilton, en 1961 nuevamente pelea ante Gene Hamilton dándole otro nocaut",
+          "dep. En el juego de béisbol, cuando uno de los equipos alcanza una delantera de diez carreras sobre el equipo contrario. Válido en toda la FIBA, excepto en Estados Unidos. Anglicismo semiadaptado, frecuente. Puerto Rico venció por nocaut a Estados Unidos. Los boricuas marcaron cuatro veces en la séptima entrada, incluyendo un cuadrangular solitario de Beltrán, para completar el triunfo por la regla del nocaut",
           "Caída de un boxeador."
         ]
       }
     }
   },
   "es_definitions": [
-    "Caída de un boxeador."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

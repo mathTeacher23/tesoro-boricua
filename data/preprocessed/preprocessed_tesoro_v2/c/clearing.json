@@ -3,12 +3,15 @@
   "term": "clearing",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Liquidación de un negocio entre varias personas.",
+      "consolidated_definition": "comer, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08677083980399171,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4007",
+        "semantic_similarity_score": 0.4007,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,15 +39,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "comer. Proceso de pagos. En los bancos o compañías financieras, actividades realizadas desde que se establece un acuerdo de transacción hasta que se l...",
+          "comer. Proceso de pagos. En los bancos o compañías financieras, actividades realizadas desde que se establece un acuerdo de transacción hasta que se liquida. Anglicismo crudo, frecuente. Podrá ver los cheques que llegan por clearing y que entrarán en la cuenta durante la noche",
           "Corroboración de pagos.",
-          "Revisión de cuentas o de mercancías."
+          "Revisión de cuentas o de mercancías.",
+          "Abono de cheques sin fondos.",
+          "Liquidación de un negocio entre varias personas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Liquidación de un negocio entre varias personas."
+    "comer, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

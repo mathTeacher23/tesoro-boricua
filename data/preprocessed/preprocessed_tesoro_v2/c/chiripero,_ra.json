@@ -3,12 +3,15 @@
   "term": "chiripero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, que no tiene trabajo ni sueldo fijos y se dedica a realizar tareas de forma eventual que le reportan lo necesario para vivir.",
+      "consolidated_definition": "Persona que se dedica a negocios que dejan",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1472607343145791,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.5288",
+        "semantic_similarity_score": 0.5288,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -21,12 +24,16 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DEL ROSARIO,",
             "year": "1965"
+          },
+          {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -35,10 +42,6 @@
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -55,14 +58,16 @@
         ],
         "reference_definitions": [
           "Persona que se dedica a negocios que dejan poca utilidad. “Disfrazado de industrial chiripero.” Fernández Juncos, Tipos y tradiciones, 1882, p. 8.",
-          "(general)  Obrero que se dedica a chiripear.",
-          "Dícese de la persona que hace chiripas."
+          "Obrero que se dedica a chiripear.",
+          "Dícese de la persona que hace chiripas.",
+          "Persona que se dedica a negocios de poca utilidad. “Ni que yo sea chiripera, / pero no soy bandolera.” Méndez Quiñones.",
+          "Referido a persona, que no tiene trabajo ni sueldo fijos y se dedica a realizar tareas de forma eventual que le reportan lo necesario para vivir."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a persona, que no tiene trabajo ni sueldo fijos y se dedica a realizar tareas de forma eventual que le reportan lo necesario para vivir."
+    "Persona que se dedica a negocios que dejan"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "salón de belleza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Peluquería de señoras.",
+      "consolidated_definition": "Peluquería de señoras",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.18087457205104263,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6536",
+        "semantic_similarity_score": 0.6536,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -27,16 +30,16 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           },
           {
             "source": "VAQUERO,",
             "year": "1995"
           },
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,14 +52,15 @@
         "related_words": [],
         "reference_definitions": [
           "Peluquería de señoras.",
-          "Peluquería de mujeres. Calco. Traducción literal del inglés beauty parlor.  También dicen biutiparlor.",
-          "Peluquería de señoras. También beauty parlor."
+          "Peluquería de mujeres. Calco. Traducción literal del inglés beauty parlor. También dicen biutiparlor.",
+          "Peluquería de señoras. También beauty parlor.",
+          "Peluquería. Lugar donde se ofrecen servicios para el arreglo del cabello, de las uñas y otros relacionados. Frecuente. DRAE: desde 1992. A los 17 años tenía la ilusión de ser madre, una profesional y tener una cadena de salones de belleza"
         ]
       }
     }
   },
   "es_definitions": [
-    "Peluquería de señoras."
+    "Peluquería de señoras"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

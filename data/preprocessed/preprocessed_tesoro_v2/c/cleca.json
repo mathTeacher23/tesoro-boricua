@@ -3,12 +3,15 @@
   "term": "cleca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona deficiente.",
+      "consolidated_definition": "Dícese de la persona deficiente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.027777777777777776,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.3163",
+        "semantic_similarity_score": 0.3163,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona deficiente."
+    "Dícese de la persona deficiente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

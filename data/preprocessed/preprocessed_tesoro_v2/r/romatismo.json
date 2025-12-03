@@ -3,12 +3,15 @@
   "term": "romatismo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dolor e hinchazón de las coyunturas.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.11952380952380953,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5027",
+        "semantic_similarity_score": 0.5027,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "GOYCO,",
             "year": "1964"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "RAMÍREZ DE ARELLANO,",
@@ -55,15 +58,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (T. en Chile). Reumatismo. “Es el maldito romatismo.” Rafael Gatell, Flor del cafeto, 1936, p. 282.",
+          "vulg. . Reumatismo. “Es el maldito romatismo.” Rafael Gatell, Flor del cafeto, 1936, p. 282.",
           "Dolor e hinchazón de las coyunturas. También artritis, reuma, roma, romatismo, rioma.",
-          "Artritis. También reuma."
+          "Artritis. También reuma.",
+          "Reuma. También artritis.",
+          "Voz campesina, romatismo.",
+          "También roma, rioma."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dolor e hinchazón de las coyunturas."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

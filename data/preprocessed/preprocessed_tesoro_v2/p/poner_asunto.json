@@ -3,12 +3,15 @@
   "term": "poner asunto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Poner atención.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "poner atención. algo",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.4666666666666666,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6514",
+        "semantic_similarity_score": 0.6514,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -50,7 +53,7 @@
     }
   },
   "es_definitions": [
-    "Poner atención."
+    "poner atención. algo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

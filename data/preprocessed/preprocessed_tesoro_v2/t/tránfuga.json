@@ -3,12 +3,15 @@
   "term": "tránfuga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona, mal vestida.",
+      "consolidated_definition": "Persona mal vestida",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2619047619047619,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.774",
+        "semantic_similarity_score": 0.774,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -45,7 +48,7 @@
     }
   },
   "es_definitions": [
-    "Referido a persona, mal vestida."
+    "Persona mal vestida"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

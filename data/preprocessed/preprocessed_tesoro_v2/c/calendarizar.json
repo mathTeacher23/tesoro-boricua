@@ -3,12 +3,15 @@
   "term": "calendarizar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fijar anticipadamente las fechas de ciertas actividades a lo largo de un período.",
+      "consolidated_definition": "Registrar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.19642857142857142,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4751",
+        "semantic_similarity_score": 0.4751,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -39,14 +42,14 @@
           "calendarización"
         ],
         "reference_definitions": [
-          "Registrar, programar. Registrar en un calendario, fijar anticipadamente las fechas de determinadas actividades a lo largo de un período. Poco frecuent...",
+          "Registrar, programar. Registrar en un calendario, fijar anticipadamente las fechas de determinadas actividades a lo largo de un período. Poco frecuente. DRAE 2001 Los abogados de las partes informaron que sus respectivos clientes no estaban conformes con el acuerdo de transacción. Se dejaron sin efecto los acuerdos y se volvió a calendarizar el caso",
           "Fijar anticipadamente las fechas de ciertas actividades a lo largo de un período."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fijar anticipadamente las fechas de ciertas actividades a lo largo de un período."
+    "Registrar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

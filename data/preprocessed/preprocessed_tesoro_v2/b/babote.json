@@ -3,12 +3,15 @@
   "term": "babote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de laxante o purgante que dan a las reses.",
+      "consolidated_definition": "Especie de laxante o purgante que dan a",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1724137931034483,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5886",
+        "semantic_similarity_score": 0.5886,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -38,18 +41,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Especie de laxante o purgante que dan a las reses.  A veces se prepara con agua de tocino, otras se machaca e hierven plantas tales como la malva o la...",
+          "Especie de laxante o purgante que dan a las reses. A veces se prepara con agua de tocino, otras se machaca e hierven plantas tales como la malva o la tuna.",
           "Determinado laxante que se da a las vacas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Fango fino, poco profundo y muy resbaladizo.",
+      "consolidated_definition": "Tierra cenagosa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.22558922558922556,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6727",
+        "semantic_similarity_score": 0.6727,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -62,12 +68,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -84,12 +90,15 @@
       }
     },
     "3": {
-      "consolidated_definition": "Residuo del cascajo de los graveros, relleno.",
+      "consolidated_definition": "Residuo del cascajo de los graveros",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -102,12 +111,12 @@
         ],
         "sources": [
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -124,9 +133,9 @@
     }
   },
   "es_definitions": [
-    "Especie de laxante o purgante que dan a las reses.",
-    "Fango fino, poco profundo y muy resbaladizo.",
-    "Residuo del cascajo de los graveros, relleno."
+    "Especie de laxante o purgante que dan a",
+    "Tierra cenagosa",
+    "Residuo del cascajo de los graveros"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "desasosirío",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Intranquilidad.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.1788",
+        "semantic_similarity_score": 0.1788,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -38,15 +41,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  Desasosiego. Variante vulg. desosirio. “Como ya se quejaba de un desasosilio en el pecho.” Brau, La pecadora, 1888.",
+          "vulg. Desasosiego. Variante vulg. desosirio. “Como ya se quejaba de un desasosilio en el pecho.” Brau, La pecadora, 1888.",
           "Malestar.",
-          "Picor."
+          "Picor.",
+          "Intranquilidad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Intranquilidad."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

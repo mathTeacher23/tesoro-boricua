@@ -3,12 +3,15 @@
   "term": "feúra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fealdad.",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Sinónimo festivo de fealdad.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09090909090909091,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.5392",
+        "semantic_similarity_score": 0.5392,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Col., Cuba, Chile y Ven.).  Sinónimo festivo de fealdad.",
+          ". Sinónimo festivo de fealdad.",
           "Fealdad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fealdad."
+    ". Sinónimo festivo de fealdad."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

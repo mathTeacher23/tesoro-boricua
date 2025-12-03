@@ -3,12 +3,15 @@
   "term": "ahoguillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ahogo o jipío relacionado con un catarro fuerte o asma.",
+      "consolidated_definition": "Ahogo o jipío relacionado con un catarro fuerte",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 12,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10386658795749705,
+        "num_cleaned_definitions": 12,
+        "definition_stability": "Stability: 0.33",
+        "semantic_similarity_score": 0.33,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,40 +24,40 @@
         ],
         "sources": [
           {
-            "source": "GOYCO,",
-            "year": "1964"
+            "source": "CEREZO DE PONCE,",
+            "year": "1966"
           },
           {
             "source": "DEL ROSARIO,",
             "year": "1965"
           },
           {
-            "source": "CEREZO DE PONCE,",
-            "year": "1966"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1966"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "DÍAZ MONTERO,",
             "year": "1979"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "GOYCO,",
+            "year": "1964"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VAQUERO,",
+            "year": "1966"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -75,14 +78,23 @@
         ],
         "reference_definitions": [
           "Ahogo o jipío relacionado con un catarro fuerte o asma.",
-          "(popular)  Ahogo frecuente, ahoguío.",
-          "Asma."
+          "Ahogo frecuente, ahoguío.",
+          "Asma.",
+          "El “ajoguillo le da a los nenes”.",
+          "Asma.",
+          "Dificultad en respirar.",
+          "Angina. Asma. Ahogo.",
+          "Ahogo.",
+          "Dificultad en la respiración.",
+          "Asma.",
+          "Dificultad en la respiración.",
+          "Hipío producido por asma o por un catarro fuerte."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ahogo o jipío relacionado con un catarro fuerte o asma."
+    "Ahogo o jipío relacionado con un catarro fuerte"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

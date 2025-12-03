@@ -3,12 +3,15 @@
   "term": "felony",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Delito grave .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Delito grave",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.04580896686159844,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.7681",
+        "semantic_similarity_score": 0.7681,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -25,12 +28,12 @@
             "year": "1965"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,15 +44,15 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "(general)  Delito grave (en lenguaje jurídico y periodístico).",
+          "Delito grave .",
           "Delito grave.",
-          "der. Delito. Falta mayor grave. Anglicismo crudo, frecuente.\nExcepto los casos en que se prescriba otra pena por este Código, toda delincuencia declar..."
+          "der. Delito. Falta mayor grave. Anglicismo crudo, frecuente. Excepto los casos en que se prescriba otra pena por este Código, toda delincuencia declarada felony apareja pena de presidio por un término máximo de cinco años"
         ]
       }
     }
   },
   "es_definitions": [
-    "Delito grave ."
+    "Delito grave"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

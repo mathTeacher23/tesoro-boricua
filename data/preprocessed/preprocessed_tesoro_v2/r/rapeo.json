@@ -3,12 +3,15 @@
   "term": "rapeo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enamoramiento.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Enamoramiento",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10289855072463767,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.4295",
+        "semantic_similarity_score": 0.4295,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,16 +28,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "MORALES DE WALTERS,",
             "year": "2009"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -50,17 +53,22 @@
         "reference_definitions": [
           "Enamoramiento.",
           "Requiebro.",
-          "Secreteo."
+          "Secreteo.",
+          "Enamoramiento.",
+          "Enamoramiento. Intento de conquistar a alguien. Anglicismo adaptado, frecuente. La otra, la más jovencita de las tres, sus nalgudos pantaloncitos azul eléctrico a punto de reventar, me lanza una miradita con el rabillo del ojo... Juega, oficial, saludo de chóquela allá entre los dos salseros mulatos. Y éstos les caen acá, ya empezó el rapeo, y, por supuesto, casi sin aviso y dilación, uno de ellos, el más fresco, el del sombrero panamá, comienza a darle un chinito a una de las mamises"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "mús.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "mús",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,14 +91,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "mús. Baile, acción de rapear. Neologismo anglicado, frecuente.\nEn un lenguaje inclusivo, rítmico, revelador, callejero y sublime, conjuró un rapeo pre..."
+          "mús. Baile, acción de rapear. Neologismo anglicado, frecuente. En un lenguaje inclusivo, rítmico, revelador, callejero y sublime, conjuró un rapeo precursor de Calle 13"
         ]
       }
     }
   },
   "es_definitions": [
-    "Enamoramiento.",
-    "mús."
+    "Enamoramiento",
+    "mús"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "plenero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un músico o a un conjunto musical, especializado en tocar plenas.",
+      "consolidated_definition": "Músico o conjunto musical",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2414556032203091,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.6578",
+        "semantic_similarity_score": 0.6578,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -20,12 +23,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -37,13 +40,14 @@
         "reference_definitions": [
           "Músico o conjunto musical, especializado en tocar plenas.",
           "Dícese de la persona que canta plenas.",
-          "Referido a un músico o a un conjunto musical, especializado en tocar plenas."
+          "Referido a un músico o a un conjunto musical, especializado en tocar plenas.",
+          "Referido a persona, que canta plenas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a un músico o a un conjunto musical, especializado en tocar plenas."
+    "Músico o conjunto musical"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

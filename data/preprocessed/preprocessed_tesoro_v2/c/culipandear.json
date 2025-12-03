@@ -3,12 +3,15 @@
   "term": "culipandear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Buscar excusas y evasivas injustificadas para no cumplir con un compromiso o deber.",
+      "consolidated_definition": "En la región significa no tener palabra cierta",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.08466819221967962,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5307",
+        "semantic_similarity_score": 0.5307,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -20,16 +23,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "MAULEÓN,",
             "year": "1974"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -49,12 +52,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Mover una mujer rítmicamente el trasero al caminar.",
+      "consolidated_definition": "Mover una mujer rítmicamente el trasero al caminar",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -86,8 +92,8 @@
     }
   },
   "es_definitions": [
-    "Buscar excusas y evasivas injustificadas para no cumplir con un compromiso o deber.",
-    "Mover una mujer rítmicamente el trasero al caminar."
+    "En la región significa no tener palabra cierta",
+    "Mover una mujer rítmicamente el trasero al caminar"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

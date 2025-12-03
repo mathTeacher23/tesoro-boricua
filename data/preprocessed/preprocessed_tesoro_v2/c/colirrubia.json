@@ -3,12 +3,15 @@
   "term": "colirrubia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez comestible de mar, de medio metro, de color según la zona de pesca.",
+      "consolidated_definition": "Pez",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10553833879916223,
+        "num_cleaned_definitions": 9,
+        "definition_stability": "Stability: 0.4002",
+        "semantic_similarity_score": 0.4002,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,40 +26,40 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
-            "source": "NAVARRO TOMÁS,",
-            "year": "1948"
+            "source": "CARRILLO,",
+            "year": "1974"
           },
           {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
+            "source": "ERDMAN,",
+            "year": "1974"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
-            "source": "CARRILLO,",
-            "year": "1974"
-          },
-          {
-            "source": "ERDMAN,",
-            "year": "1974"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "MAULEÓN,",
             "year": "1974"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "NAVARRO TOMÁS,",
+            "year": "1948"
           },
           {
             "source": "VAQUERO,",
             "year": "1995"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -71,15 +74,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez. (Serranus punctatus). Evermann, 180. Stahl, Catalog, 76.",
+          "Pez. . Evermann, 180. Stahl, Catalog, 76.",
           "Pez.",
-          "Pez."
+          "Pez.",
+          "Guatívere.",
+          "Pez.",
+          "Pez de la familia Lutjanidae . Ocyurus chrysurus. También llamado rabirrubia.",
+          "Lutianidae. Coyrus chrysarus. “Se pesca con cordel y chinchorro. Es casi igual que el pargo pero más pálida: colorao y amariyón del rabo para atrás.”",
+          "Pez comestible de mar, de medio metro, de color según la zona de pesca. Pertenece a la familia del pargo. Tiene rayas y la cola es en , bien abierta. Su nombre taíno es guatíbere o guatívere.",
+          "Pez de mar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pez comestible de mar, de medio metro, de color según la zona de pesca."
+    "Pez"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

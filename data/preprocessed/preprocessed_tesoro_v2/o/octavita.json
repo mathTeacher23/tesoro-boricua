@@ -3,12 +3,15 @@
   "term": "octavita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando las fiestas [de octava] se prolongan más allá del día de Reyes, el campesino dice que se está celebrando la octavita.",
+      "consolidated_definition": "Octavo día de la fiesta de los Reyes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20512820512820515,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.8205",
+        "semantic_similarity_score": 0.8205,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -46,14 +49,14 @@
         ],
         "reference_definitions": [
           "Octavo día de la fiesta de los Reyes Magos.",
-          "Cuando las fiestas [de octava] se prolongan más allá del día de Reyes, el campesino dice que se está celebrando la octavita.",
+          "Cuando las fiestas se prolongan más allá del día de Reyes, el campesino dice que se está celebrando la octavita.",
           "Tiempo de las fiestas navideñas cuando estas se prolongan más allá del día de Reyes."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cuando las fiestas [de octava] se prolongan más allá del día de Reyes, el campesino dice que se está celebrando la octavita."
+    "Octavo día de la fiesta de los Reyes"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

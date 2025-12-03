@@ -3,12 +3,15 @@
   "term": "caracaracoles",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombres tiñosos, trogloditas, de los que quedaban algunos en Puerto Rico al conquistarlo.",
+      "consolidated_definition": "Hombres tiñosos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.093823901446406,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6504",
+        "semantic_similarity_score": 0.6504,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
+          },
+          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
-          },
-          {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
           }
         ],
         "years": [
@@ -41,7 +44,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hombres tiñosos, de manos ásperas y callosas. Fray Román Pane los menciona como partícipes en la teogonía taína de las Antillas Mayores. Etnólogos y a...",
+          "Hombres tiñosos, de manos ásperas y callosas. Fray Román Pane los menciona como partícipes en la teogonía taína de las Antillas Mayores. Etnólogos y antropólogos modernos los consideran trogloditas que ocuparon la parte occidental de Cuba y el sudeste de Haití. Se cree, y se da como probable, que en Puerto Rico quedase algún resto de estos primitivos trogloditas antes de llegar los españoles. Pericot, La América indígena, pág. 787.",
           "Hombre tiñoso, de manos ásperas y callosas.",
           "Hombres tiñosos, trogloditas, de los que quedaban algunos en Puerto Rico al conquistarlo."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Hombres tiñosos, trogloditas, de los que quedaban algunos en Puerto Rico al conquistarlo."
+    "Hombres tiñosos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

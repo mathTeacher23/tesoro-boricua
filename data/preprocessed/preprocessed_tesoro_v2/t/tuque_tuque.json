@@ -3,12 +3,15 @@
   "term": "tuque tuque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nerviosismo por presentir algo malo.",
+      "consolidated_definition": "Nerviosidad por susto",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.07936507936507936,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5919",
+        "semantic_similarity_score": 0.5919,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -40,13 +43,14 @@
         "reference_definitions": [
           "Nerviosidad por susto.",
           "Palpitación acelerada del corazón.",
-          "Nerviosismo por presentir algo malo."
+          "Nerviosismo por presentir algo malo.",
+          "Latido fuerte del corazón."
         ]
       }
     }
   },
   "es_definitions": [
-    "Nerviosismo por presentir algo malo."
+    "Nerviosidad por susto"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

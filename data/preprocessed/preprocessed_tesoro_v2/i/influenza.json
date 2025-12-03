@@ -3,12 +3,15 @@
   "term": "influenza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Italianismo por trancazo o gripe.",
+      "consolidated_definition": "Italianismo por trancazo o gripe",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.047619047619047616,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.248",
+        "semantic_similarity_score": 0.248,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
+            "source": "VAQUERO,",
+            "year": "1995"
+          },
+          {
             "source": "WASHINGTON LLORENS,",
             "year": "1957"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1961"
-          },
-          {
-            "source": "VAQUERO,",
-            "year": "1995"
           }
         ],
         "years": [
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Italianismo por trancazo o gripe."
+    "Italianismo por trancazo o gripe"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

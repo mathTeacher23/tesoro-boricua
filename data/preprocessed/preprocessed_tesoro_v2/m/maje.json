@@ -3,12 +3,15 @@
   "term": "maje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jején, insecto.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Acarus spp",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4244",
+        "semantic_similarity_score": 0.4244,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "GAZTAMBIDE,",
-            "year": "1986"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "GAZTAMBIDE,",
+            "year": "1986"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Jején, insecto."
+    "Acarus spp"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

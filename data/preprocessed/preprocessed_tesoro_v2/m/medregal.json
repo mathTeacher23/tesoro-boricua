@@ -3,12 +3,15 @@
   "term": "medregal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que en la parte oeste de la Isla le dan al pez cojinúa.",
+      "consolidated_definition": "Cojinúa",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.09207161125319692,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5469",
+        "semantic_similarity_score": 0.5469,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "ERDMAN,",
             "year": "1974"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           },
           {
             "source": "VICENTE MAURA,",
@@ -48,21 +51,19 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver cueriduro .",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Ver cueriduro",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
-        "sources": [
-          {
-            "source": "",
-            "year": ""
-          }
-        ],
+        "sources": [],
         "years": [],
         "origin": null,
         "related_words": [],
@@ -73,8 +74,8 @@
     }
   },
   "es_definitions": [
-    "Nombre que en la parte oeste de la Isla le dan al pez cojinúa.",
-    "Ver cueriduro ."
+    "Cojinúa",
+    "Ver cueriduro"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

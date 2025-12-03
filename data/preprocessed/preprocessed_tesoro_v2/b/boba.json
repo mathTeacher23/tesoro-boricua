@@ -3,12 +3,15 @@
   "term": "boba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Serpiente que era común en la Isla.",
+      "consolidated_definition": "Serpiente que era común en la Isla",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.17647058823529413,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4104",
+        "semantic_similarity_score": 0.4104,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "HERNÁNDEZ AQUINO,",
-            "year": "1969"
-          },
-          {
             "source": "GAZTAMBIDE,",
             "year": "1986"
+          },
+          {
+            "source": "HERNÁNDEZ AQUINO,",
+            "year": "1969"
           }
         ],
         "years": [
@@ -44,12 +47,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Otra ave marina parecida a la anterior, con el plumaje oscuro en la parte superior y blanco en el vientre y el pecho, sin bolsa gular, con el pico grueso y corto, con las patas amarillas.",
+      "consolidated_definition": "Ave marítima",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1774193548387097,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6656",
+        "semantic_similarity_score": 0.6656,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -72,15 +78,15 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ave marítima, grande, que vive en los cayos. Zambullidora. Tiene el pico grueso y largo, puntiagudo, con bolsa gular pequeña. Su plumaje es blanco, el...",
-          "Otra ave marina parecida a la anterior, con el plumaje oscuro en la parte superior y blanco en el vientre y el pecho, sin bolsa gular, con el pico gru..."
+          "Ave marítima, grande, que vive en los cayos. Zambullidora. Tiene el pico grueso y largo, puntiagudo, con bolsa gular pequeña. Su plumaje es blanco, el rabo rojo negruzco, la cara lampiña. Hay una variedad llamada boba de cara azul.",
+          "Otra ave marina parecida a la anterior, con el plumaje oscuro en la parte superior y blanco en el vientre y el pecho, sin bolsa gular, con el pico grueso y corto, con las patas amarillas. También dicen boba prieta, pájaro bobo, pájaro bobo del mar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Serpiente que era común en la Isla.",
-    "Otra ave marina parecida a la anterior, con el plumaje oscuro en la parte superior y blanco en el vientre y el pecho, sin bolsa gular, con el pico grueso y corto, con las patas amarillas."
+    "Serpiente que era común en la Isla",
+    "Ave marítima"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

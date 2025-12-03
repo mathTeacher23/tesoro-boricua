@@ -3,12 +3,15 @@
   "term": "estaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por varios puntos del este, sureste y sur de Puerto Rico, los palos laterales en la llamada carreta de estacas.",
+      "consolidated_definition": ". Los estaquines o barandillas del carro.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.06898550724637681,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6268",
+        "semantic_similarity_score": 0.6268,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -38,19 +41,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Can.).  Los estaquines o barandillas del carro.",
+          ". Los estaquines o barandillas del carro.",
           "Por varios puntos del este, sureste y sur de Puerto Rico, los palos laterales en la llamada carreta de estacas.",
           "Palo lateral de una carreta de bueyes."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pene.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Pene",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -63,16 +69,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -91,8 +97,8 @@
     }
   },
   "es_definitions": [
-    "Por varios puntos del este, sureste y sur de Puerto Rico, los palos laterales en la llamada carreta de estacas.",
-    "Pene."
+    ". Los estaquines o barandillas del carro.",
+    "Pene"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

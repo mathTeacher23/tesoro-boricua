@@ -3,12 +3,15 @@
   "term": "dar un piquete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Echar alguien una cana al aire.",
+      "consolidated_definition": "Echar una cana al aire",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1388888888888889,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4953",
+        "semantic_similarity_score": 0.4953,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -24,12 +27,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -41,13 +44,14 @@
         "reference_definitions": [
           "Echar una cana al aire.",
           "Farolear, fachendear.",
-          "Farolear."
+          "Farolear.",
+          "Echar alguien una cana al aire."
         ]
       }
     }
   },
   "es_definitions": [
-    "Echar alguien una cana al aire."
+    "Echar una cana al aire"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

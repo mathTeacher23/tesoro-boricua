@@ -3,12 +3,15 @@
   "term": "capacho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pájaro autóctono de Puerto Rico, más conocido por el nombre de comeñame.",
+      "consolidated_definition": "Ave crepuscular que se alimenta de mosquitos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10164962671228335,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.4867",
+        "semantic_similarity_score": 0.4867,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "HERNÁNDEZ AQUINO,",
             "year": "1969"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
@@ -41,7 +44,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ave crepuscular que se alimenta de mosquitos. (Chordeiles minor; virginianus). Danforth, 93. “Sólo se oye el capacho —oculto entre las maleza, —y del ...",
+          "Ave crepuscular que se alimenta de mosquitos. . Danforth, 93. “Sólo se oye el capacho —oculto entre las maleza, —y del soñoliento múcaro —la cántiga lastimera.” Brau, El fantasma del puente.",
           "Con este nombre se conoce el querequeté, pájaro de hábitos crepusculares.",
           "Pájaro autóctono de Puerto Rico, más conocido por el nombre de comeñame. También dicen querequeté. Es pequeño con plumaje negro y rojo."
         ]
@@ -49,7 +52,7 @@
     }
   },
   "es_definitions": [
-    "Pájaro autóctono de Puerto Rico, más conocido por el nombre de comeñame."
+    "Ave crepuscular que se alimenta de mosquitos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

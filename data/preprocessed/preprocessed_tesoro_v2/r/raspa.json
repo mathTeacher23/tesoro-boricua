@@ -3,12 +3,15 @@
   "term": "raspa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Zurrapa del azúcar cristalizada.",
+      "consolidated_definition": "vulg",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.10850900307422047,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5716",
+        "semantic_similarity_score": 0.5716,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,20 +26,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -48,19 +51,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg.  (T. en Cuba). Raspadura o azúcar moreno.",
-          "(T. en Cuba y Méx.). Raspadura o azúcar moreno que se va quedando pegado a la paila en los trapiches. También raspadura.",
-          "Zurrapa del azúcar cristalizada."
+          "vulg. . Raspadura o azúcar moreno.",
+          ". Raspadura o azúcar moreno que se va quedando pegado a la paila en los trapiches. También raspadura.",
+          "Zurrapa del azúcar cristalizada.",
+          "Azúcar sin refinar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ".",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Reprimenda.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -85,17 +92,20 @@
           "raspar"
         ],
         "reference_definitions": [
-          "(T. en Arg., Chile, Col., Ecuad., Pan. y Perú). Reprimenda."
+          ". Reprimenda."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Arroz pegado a la olla; raspa de pegao.",
+      "consolidated_definition": "Arroz pegado a la olla",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -123,12 +133,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Recogida de todos los aguacates después de la primera madurá.",
+      "consolidated_definition": "Recogida de café al final de la cosecha",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.23076923076923078,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.4135",
+        "semantic_similarity_score": 0.4135,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -161,12 +174,15 @@
       }
     },
     "5": {
-      "consolidated_definition": "Herramienta de carpintería hecha de metal, plana y con el filo en forma de chaflán cortante.",
+      "consolidated_definition": "Herramienta de carpintería hecha de metal",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -195,11 +211,11 @@
     }
   },
   "es_definitions": [
-    "Zurrapa del azúcar cristalizada.",
-    ".",
-    "Arroz pegado a la olla; raspa de pegao.",
-    "Recogida de todos los aguacates después de la primera madurá.",
-    "Herramienta de carpintería hecha de metal, plana y con el filo en forma de chaflán cortante."
+    "vulg",
+    ". Reprimenda.",
+    "Arroz pegado a la olla",
+    "Recogida de café al final de la cosecha",
+    "Herramienta de carpintería hecha de metal"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

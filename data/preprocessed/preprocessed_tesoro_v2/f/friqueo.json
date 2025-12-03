@@ -3,12 +3,15 @@
   "term": "friqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indecisión, preocupación, turbación.",
+      "consolidated_definition": "Indecisión",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05555555555555555,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4697",
+        "semantic_similarity_score": 0.4697,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,13 +46,14 @@
         "reference_definitions": [
           "Indecisión.",
           "Preocupación.",
-          "Turbación."
+          "Turbación.",
+          "Indecisión, preocupación, turbación."
         ]
       }
     }
   },
   "es_definitions": [
-    "Indecisión, preocupación, turbación."
+    "Indecisión"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

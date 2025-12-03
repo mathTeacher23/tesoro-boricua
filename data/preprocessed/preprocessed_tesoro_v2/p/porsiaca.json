@@ -3,12 +3,15 @@
   "term": "porsiaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por si acaso.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Por si acaso",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.7333333333333334,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.8998",
+        "semantic_similarity_score": 0.8998,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -20,16 +23,16 @@
         ],
         "sources": [
           {
+            "source": "NÚÑEZ Y DELGADO,",
+            "year": "2000"
+          },
+          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "NÚÑEZ Y DELGADO,",
-            "year": "2000"
           }
         ],
         "years": [
@@ -48,7 +51,7 @@
     }
   },
   "es_definitions": [
-    "Por si acaso."
+    "Por si acaso"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

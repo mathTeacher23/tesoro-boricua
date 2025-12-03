@@ -3,12 +3,15 @@
   "term": "ambidiestro, tra",
   "superscripts": {
     "1": {
-      "consolidated_definition": ".",
-      "could_not_consolidate": true,
+      "consolidated_definition": ". Ambidextro.",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -32,17 +35,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg., Col., Cuba y Méx.).  Ambidextro."
+          ". Ambidextro."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el beisbol, jugador capaz de batear de ambos lados del plato, tanto a la izquierda como a la derecha.",
+      "consolidated_definition": "En el beisbol",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -72,8 +78,8 @@
     }
   },
   "es_definitions": [
-    ".",
-    "En el beisbol, jugador capaz de batear de ambos lados del plato, tanto a la izquierda como a la derecha."
+    ". Ambidextro.",
+    "En el beisbol"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

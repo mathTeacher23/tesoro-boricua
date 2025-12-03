@@ -3,12 +3,15 @@
   "term": "sacho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ancla de fabricación doméstica, que consta de un tubo lleno de cemento en el que se insertan cuatro varillas de hierro a manera de ganchos.",
+      "consolidated_definition": "Ancla rústica de cuatro garfios",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1481988821141261,
+        "num_cleaned_definitions": 6,
+        "definition_stability": "Stability: 0.5529",
+        "semantic_similarity_score": 0.5529,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
-            "source": "FIGUEROA,",
-            "year": "1965"
-          },
-          {
             "source": "CEREZO DE PONCE,",
             "year": "1966"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "FIGUEROA,",
+            "year": "1965"
           },
           {
             "source": "SUÁREZ,",
@@ -43,8 +46,8 @@
             "year": "1986"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -60,13 +63,16 @@
         "reference_definitions": [
           "Ancla rústica de cuatro garfios.",
           "El ancla que usan los pescadores, hecha de un tubo de hierro.",
-          "En Puerto Rico, entre pescadores de Ponce y Aguadilla, nombre de ancla rústica de cuatro garfios."
+          "En Puerto Rico, entre pescadores de Ponce y Aguadilla, nombre de ancla rústica de cuatro garfios.",
+          "Instrumento pesado que se emplea como ancla para asegurar las embarcaciones pequeñas.",
+          "Ancla casera. Pedazo de tubo y varillas, que usan los pescadores para anclar la embarcación.",
+          "Ancla de fabricación doméstica, que consta de un tubo lleno de cemento en el que se insertan cuatro varillas de hierro a manera de ganchos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ancla de fabricación doméstica, que consta de un tubo lleno de cemento en el que se insertan cuatro varillas de hierro a manera de ganchos."
+    "Ancla rústica de cuatro garfios"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

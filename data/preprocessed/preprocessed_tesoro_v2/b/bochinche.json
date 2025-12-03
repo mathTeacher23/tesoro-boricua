@@ -3,12 +3,15 @@
   "term": "bochinche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reunión de personas improvisada, ruidosa y desordenada.",
+      "consolidated_definition": "Chisme, relacionado con un grupo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.031166405956321926,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.4293",
+        "semantic_similarity_score": 0.4293,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -25,20 +28,20 @@
         ],
         "sources": [
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1972"
-          },
-          {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "CLAUDIO DE LA TORRE,",
             "year": "1989"
           },
           {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1972"
           }
         ],
         "years": [
@@ -56,13 +59,17 @@
         "reference_definitions": [
           "Chisme, enredo. Escándalo, tumulto, pelotera, desorden. “No paresen gente ‘e bochinche.” Meléndez Muñoz.",
           "Chisme. Enredo. Discusión desordenada. Escándalo.",
-          "Chisme."
+          "Chisme.",
+          "Problema, enredo.",
+          "Chisme, rumor, murmuración.",
+          "Diversión, especialmente una fiesta o reunión.",
+          "Reunión de personas improvisada, ruidosa y desordenada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Reunión de personas improvisada, ruidosa y desordenada."
+    "Chisme, relacionado con un grupo"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

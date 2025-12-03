@@ -3,12 +3,15 @@
   "term": "inmaterial",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un suceso, que resulta indiferente.",
+      "consolidated_definition": "Indiferente",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1041396103896104,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.5896",
+        "semantic_similarity_score": 0.5896,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -24,12 +27,12 @@
             "year": "1974"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -41,14 +44,15 @@
         "related_words": [],
         "reference_definitions": [
           "Indiferente, lo que da lo mismo.",
-          "Irrelevante.  Ajeno al asunto principal o al tema que se trata.",
-          "Referido a un suceso, que resulta indiferente."
+          "Irrelevante. Ajeno al asunto principal o al tema que se trata.",
+          "Referido a un suceso, que resulta indiferente.",
+          "Referido a un suceso, irrelevante, sin importancia."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a un suceso, que resulta indiferente."
+    "Indiferente"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

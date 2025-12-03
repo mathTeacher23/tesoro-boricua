@@ -3,12 +3,15 @@
   "term": "darse una carta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el juego de naipes, ganar una misma carta varias veces seguidas.",
+      "consolidated_definition": ". En el juego, ganar siempre una carta, sin interrupción.",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.2222222222222222,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.7955",
+        "semantic_similarity_score": 0.7955,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -22,12 +25,12 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MALARET,",
+            "year": "1937"
           }
         ],
         "years": [
@@ -37,14 +40,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(Cuba).  En el juego, ganar siempre una carta, sin interrupción.",
+          ". En el juego, ganar siempre una carta, sin interrupción.",
           "En el juego de naipes, ganar una misma carta varias veces seguidas."
         ]
       }
     }
   },
   "es_definitions": [
-    "En el juego de naipes, ganar una misma carta varias veces seguidas."
+    ". En el juego, ganar siempre una carta, sin interrupción."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

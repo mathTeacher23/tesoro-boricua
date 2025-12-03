@@ -3,12 +3,15 @@
   "term": "cantío",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice por los campos del canto del gallo y de otras aves.",
+      "consolidated_definition": "El canto de las aves",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.13370788045858073,
+        "num_cleaned_definitions": 7,
+        "definition_stability": "Stability: 0.6053",
+        "semantic_similarity_score": 0.6053,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -26,6 +29,14 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
+            "source": "DÍAZ MONTERO,",
+            "year": "1979"
+          },
+          {
             "source": "MALARET,",
             "year": "1937"
           },
@@ -34,20 +45,12 @@
             "year": "1948"
           },
           {
-            "source": "DÍAZ MONTERO,",
-            "year": "1979"
-          },
-          {
             "source": "VICENTE MAURA,",
             "year": "1984"
           },
           {
             "source": "ÁLVAREZ NAZARIO,",
             "year": "1990"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -61,15 +64,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El canto de las aves. “Aleteó, echó un cantío —Y a escalbay se puso luego.” Alonso, 1849, p. 91.",
+          "El canto de las aves. “Aleteó, echó un cantío —Y a escalbay se puso luego.” , p. 91.",
           "Canto.",
-          "El cantar de las aves."
+          "El cantar de las aves.",
+          "Canto de las aves de corral.",
+          "Canto de los campesinos mientras trabajan la tierra.",
+          "Se dice por los campos del canto del gallo y de otras aves.",
+          "Canto de las avez."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se dice por los campos del canto del gallo y de otras aves."
+    "El canto de las aves"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

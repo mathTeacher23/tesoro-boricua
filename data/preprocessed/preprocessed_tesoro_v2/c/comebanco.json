@@ -3,12 +3,15 @@
   "term": "comebanco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En deportes, el jugador suplente que se queda sentado en los bancos.",
+      "consolidated_definition": "En deportes",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.20020424836601305,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.7075",
+        "semantic_similarity_score": 0.7075,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -21,16 +24,16 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
           },
           {
             "source": "NÚÑEZ Y DELGADO,",
             "year": "2000"
           },
           {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -43,13 +46,14 @@
         "reference_definitions": [
           "En deportes, el jugador suplente que se queda sentado en los bancos.",
           "Jugador de un equipo que se queda sin participar en un partido.",
-          "Jugador que no tiene oportunidad de jugar (deportes)."
+          "Jugador que no tiene oportunidad de jugar .",
+          "Jugador que no participa en el juego y está en el banco."
         ]
       }
     }
   },
   "es_definitions": [
-    "En deportes, el jugador suplente que se queda sentado en los bancos."
+    "En deportes"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "pararse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Detenerse, ponerse de pie.",
+      "consolidated_definition": "Ponerse de pie",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
-        "semantic_similarity_score": 0.875,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.9463",
+        "semantic_similarity_score": 0.9463,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -26,12 +29,12 @@
             "year": "1948"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
-          },
-          {
             "source": "VAQUERO,",
             "year": "1995"
+          },
+          {
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -44,13 +47,14 @@
         "reference_definitions": [
           "Ponerse de pie.",
           "Ponerse de pie.",
-          "Detenerse, ponerse de pie."
+          "Detenerse, ponerse de pie.",
+          "Ponerse de pie."
         ]
       }
     }
   },
   "es_definitions": [
-    "Detenerse, ponerse de pie."
+    "Ponerse de pie"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

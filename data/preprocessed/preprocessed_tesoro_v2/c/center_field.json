@@ -3,12 +3,15 @@
   "term": "center field",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol, jugador que se sitúa en la zona central del diamante para capturar la bola lanzada por el bateador.",
+      "consolidated_definition": "dep",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.1016949152542373,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.56",
+        "semantic_similarity_score": 0.56,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "MORALES DE WALTERS,",
-            "year": "2009"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "MORALES DE WALTERS,",
+            "year": "2009"
           }
         ],
         "years": [
@@ -36,14 +39,14 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de béisbol, parte del terreno de juego ubicado directamente frente al receptor; también, jugador que defiende esta posición. Anglicis...",
+          "dep. En el juego de béisbol, parte del terreno de juego ubicado directamente frente al receptor; también, jugador que defiende esta posición. Anglicismo crudo, frecuente. Ya tú verás que ya mismo va a ser tremendo batazo por el center field como Babe Ruth en sus mejores tiempos",
           "En el beisbol, jugador que se sitúa en la zona central del diamante para capturar la bola lanzada por el bateador."
         ]
       }
     }
   },
   "es_definitions": [
-    "En el beisbol, jugador que se sitúa en la zona central del diamante para capturar la bola lanzada por el bateador."
+    "dep"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

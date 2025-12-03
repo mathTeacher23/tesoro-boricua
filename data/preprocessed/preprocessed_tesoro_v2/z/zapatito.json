@@ -3,12 +3,15 @@
   "term": "zapatito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta ornamental.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Flor y mata",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.0,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.279",
+        "semantic_similarity_score": 0.279,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -21,12 +24,12 @@
         ],
         "sources": [
           {
-            "source": "GOYCO,",
-            "year": "1964"
-          },
-          {
             "source": "CARRILLO,",
             "year": "1974"
+          },
+          {
+            "source": "GOYCO,",
+            "year": "1964"
           }
         ],
         "years": [
@@ -43,7 +46,7 @@
     }
   },
   "es_definitions": [
-    "Planta ornamental."
+    "Flor y mata"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

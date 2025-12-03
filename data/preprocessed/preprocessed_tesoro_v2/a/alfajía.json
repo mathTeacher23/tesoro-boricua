@@ -3,12 +3,15 @@
   "term": "alfajía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Listón de madera que se emplea para recubrir junturas de paredes o para enmarcar el hueco de las ventanas y las puertas.",
+      "consolidated_definition": "Listón de madera que se emplea para recubrir",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3227667984189723,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.6456",
+        "semantic_similarity_score": 0.6456,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -23,16 +26,16 @@
         ],
         "sources": [
           {
+            "source": "DICCIONARIO DE AMERICANISMOS,",
+            "year": "2010"
+          },
+          {
             "source": "FIGUEROA,",
             "year": "1965"
           },
           {
             "source": "VAQUERO,",
             "year": "1995"
-          },
-          {
-            "source": "DICCIONARIO DE AMERICANISMOS,",
-            "year": "2010"
           }
         ],
         "years": [
@@ -51,7 +54,7 @@
     }
   },
   "es_definitions": [
-    "Listón de madera que se emplea para recubrir junturas de paredes o para enmarcar el hueco de las ventanas y las puertas."
+    "Listón de madera que se emplea para recubrir"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,12 +3,15 @@
   "term": "cuadre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Carrera clandestina.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Carrera clandestina",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "High (≥0.6) - Strong semantic consistency",
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -44,12 +47,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Balance que realiza el cajero para comprobar si coincide el debe con el haber.",
+      "consolidated_definition": "Balance que realiza el cajero para comprobar si",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -78,8 +84,8 @@
     }
   },
   "es_definitions": [
-    "Carrera clandestina.",
-    "Balance que realiza el cajero para comprobar si coincide el debe con el haber."
+    "Carrera clandestina",
+    "Balance que realiza el cajero para comprobar si"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

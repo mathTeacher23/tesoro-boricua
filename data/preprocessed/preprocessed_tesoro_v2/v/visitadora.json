@@ -3,12 +3,15 @@
   "term": "visitadora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ayuda, lavativa.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "vulg",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.05947197197197198,
+        "num_cleaned_definitions": 4,
+        "definition_stability": "Stability: 0.4188",
+        "semantic_similarity_score": 0.4188,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -21,20 +24,20 @@
         ],
         "sources": [
           {
-            "source": "MALARET,",
-            "year": "1937"
+            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
+            "year": "2001"
           },
           {
             "source": "GAZTAMBIDE,",
             "year": "1986"
           },
           {
-            "source": "ÁLVAREZ NAZARIO,",
-            "year": "1990"
+            "source": "MALARET,",
+            "year": "1937"
           },
           {
-            "source": "DICCIONARIO DE LA LENGUA ESPAÑOLA,",
-            "year": "2001"
+            "source": "ÁLVAREZ NAZARIO,",
+            "year": "1990"
           }
         ],
         "years": [
@@ -46,15 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg. (T. en Hond., Méx. y Ven.).  Lavativa. Ac. “¿Pasará en todas partes lo que aquí pasa ahora, —y por eso la llaman también visitadora?” Virgilio D...",
+          "vulg. . Lavativa. Ac. “¿Pasará en todas partes lo que aquí pasa ahora, —y por eso la llaman también visitadora?” Virgilio Dávila, “La jeringa de Minga”, Pueblito de antes, 1917, p. 65.",
           "Ayuda, lavativa.",
-          "Enema, lavativa. También visita."
+          "Enema, lavativa. También visita.",
+          "Hond., P. Rico, R. Dom. y Ven. Enema."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ayuda, lavativa."
+    "vulg"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

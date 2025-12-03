@@ -3,12 +3,15 @@
   "term": "machucador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombre que monta por primera vez los caballos que van a ser domados para acostumbrarlos a soportar un jinete sobre el lomo.",
+      "consolidated_definition": "Aprendiz de domador de caballos",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.37,
+        "num_cleaned_definitions": 5,
+        "definition_stability": "Stability: 0.7657",
+        "semantic_similarity_score": 0.7657,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -23,12 +26,12 @@
         ],
         "sources": [
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -42,13 +45,15 @@
         "reference_definitions": [
           "Aprendiz de domador de caballos.",
           "Hombre que monta por primera vez los caballos que van a ser domados para acostumbrarlos a soportar un jinete sobre el lomo.",
-          "Domador deficiente de caballos."
+          "Domador deficiente de caballos.",
+          "Aprendiz de domador de caballos.",
+          "Domador poco diestro de caballos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hombre que monta por primera vez los caballos que van a ser domados para acostumbrarlos a soportar un jinete sobre el lomo."
+    "Aprendiz de domador de caballos"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

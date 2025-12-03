@@ -3,12 +3,15 @@
   "term": "araña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En San Lorenzo, la roja y vistosa amapola de jardín.",
+      "consolidated_definition": "En San Lorenzo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
-        "definition_stability": "Single definition (no comparison)",
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -36,12 +39,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Designa dos tipos de máquina pero en los dos está presente la imagen del movimiento articulado de las extremidades del arácnido cuando captura su presa.",
+      "consolidated_definition": "La máquina que llena los carretones en el, relacionado con un mecanismo",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.12962962962962962,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.6066",
+        "semantic_similarity_score": 0.6066,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -72,17 +78,20 @@
         "related_words": [],
         "reference_definitions": [
           "La máquina que llena los carretones en el cultivo de la caña. También grilla.",
-          "Designa dos tipos de máquina pero en los dos está presente la imagen del movimiento articulado de las extremidades del arácnido cuando captura su pres..."
+          "Designa dos tipos de máquina pero en los dos está presente la imagen del movimiento articulado de las extremidades del arácnido cuando captura su presa. En ambos casos se comparan las extremidades con los ganchos mecánicos: a) Tiene 12 ganchos mecánicos que abren y cierran para agarrar la caña; b) Máquina que recoge la caña cuando el corte se hace a mano."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Órgano sexual femenino.",
+      "consolidated_definition": "Órgano sexual femenino",
       "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "definition_stability": "Low (<0.4) - Significant semantic variation",
-        "semantic_similarity_score": 0.3333333333333333,
+        "num_cleaned_definitions": 3,
+        "definition_stability": "Stability: 0.5699",
+        "semantic_similarity_score": 0.5699,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -99,12 +108,12 @@
             "year": "1973"
           },
           {
-            "source": "VICENTE MAURA,",
-            "year": "1984"
-          },
-          {
             "source": "DICCIONARIO DE AMERICANISMOS,",
             "year": "2010"
+          },
+          {
+            "source": "VICENTE MAURA,",
+            "year": "1984"
           }
         ],
         "years": [
@@ -123,9 +132,9 @@
     }
   },
   "es_definitions": [
-    "En San Lorenzo, la roja y vistosa amapola de jardín.",
-    "Designa dos tipos de máquina pero en los dos está presente la imagen del movimiento articulado de las extremidades del arácnido cuando captura su presa.",
-    "Órgano sexual femenino."
+    "En San Lorenzo",
+    "La máquina que llena los carretones en el, relacionado con un mecanismo",
+    "Órgano sexual femenino"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

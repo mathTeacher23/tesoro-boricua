@@ -3,12 +3,15 @@
   "term": "tinaja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una planta venenosa.",
-      "could_not_consolidate": true,
+      "consolidated_definition": "Una planta venenosa",
+      "could_not_consolidate": false,
+      "consolidation_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "definition_stability": "Medium (0.4-0.6) - Moderate variation in expression",
-        "semantic_similarity_score": 0.5,
+        "num_cleaned_definitions": 2,
+        "definition_stability": "Stability: 0.866",
+        "semantic_similarity_score": 0.866,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -36,14 +39,14 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular)  Una planta venenosa.",
+          "Una planta venenosa.",
           "Planta venenosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Una planta venenosa."
+    "Una planta venenosa"
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"
