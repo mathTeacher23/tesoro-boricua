@@ -3,7 +3,7 @@
   "term": "cobre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez",
+      "consolidated_definition": "Pez. Es un animal acuático que pertenece a la clase de los peces, caracterizado por tener aletas y escamas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -11,7 +11,7 @@
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,7 +39,7 @@
       }
     },
     "2": {
-      "consolidated_definition": "Dinero",
+      "consolidated_definition": "Dinero: unidad monetaria utilizada para realizar transacciones y medir el valor de bienes y servicios.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -47,7 +47,7 @@
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,8 +82,8 @@
     }
   },
   "es_definitions": [
-    "Pez",
-    "Dinero"
+    "Pez. Es un animal acuático que pertenece a la clase de los peces, caracterizado por tener aletas y escamas.",
+    "Dinero: unidad monetaria utilizada para realizar transacciones y medir el valor de bienes y servicios."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

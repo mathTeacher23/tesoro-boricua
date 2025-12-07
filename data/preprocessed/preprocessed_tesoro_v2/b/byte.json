@@ -3,7 +3,7 @@
   "term": "byte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform",
+      "consolidated_definition": "Octeto: unidad de información o capacidad de almacenamiento de datos que consiste en un conjunto de ocho bits.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -11,7 +11,7 @@
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -34,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Octeto. Unidad de información o capacidad de almacenaje de datos que consiste de un conjunto de ocho bits que representan un carácter alfanumérico. Anglicismo crudo, frecuente. Piensas que 512 kbps te debe dar 64 KB/s segundo verdad? Lo sacaste multiplicando 512x1024 que te da 524,288 bits por segundo. Luego lo dividiste por 8 y te dió exactamente 65,536 bytes por segundo que entre 1024 te da 64 KB/s. No es así de simple"
+          "inform. Octeto. Unidad de información o capacidad de almacenaje de datos que consiste de un conjunto de ocho bits que representan un carácter alfanumérico. Anglicismo crudo, frecuente. Piensas que 512 kbps te debe dar 64 KB/s segundo verdad? Lo sacaste multiplicando 512x1024 que te da 524,288 bits por segundo. Luego lo dividiste por 8 (claro! 8 bits en un byte) y te dió exactamente 65,536 bytes por segundo que entre 1024 te da 64 KB/s. No es así de simple (DSLLibre.org, 21-11-03)"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform"
+    "Octeto: unidad de información o capacidad de almacenamiento de datos que consiste en un conjunto de ocho bits."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

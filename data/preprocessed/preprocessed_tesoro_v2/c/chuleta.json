@@ -3,7 +3,7 @@
   "term": "chuleta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Embuste",
+      "consolidated_definition": "\"Embuste\": mentira o información falsa, especialmente utilizada para engañar o manipular a alguien.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -11,7 +11,7 @@
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5502",
         "semantic_similarity_score": 0.5502,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,7 +48,7 @@
       }
     },
     "2": {
-      "consolidated_definition": "Marihuana",
+      "consolidated_definition": "Marihuana es un tipo de planta psicoactiva.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -56,7 +56,7 @@
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -91,8 +91,8 @@
     }
   },
   "es_definitions": [
-    "Embuste",
-    "Marihuana"
+    "\"Embuste\": mentira o información falsa, especialmente utilizada para engañar o manipular a alguien.",
+    "Marihuana es un tipo de planta psicoactiva."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

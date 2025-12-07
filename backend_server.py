@@ -182,13 +182,225 @@ async def supported_languages():
         ]
     }
 
+# ============================================================================
+# DICTIONARY DATA ENDPOINTS (New Structure)
+# ============================================================================
+
+import json
+from pathlib import Path
+
+# Data directories
+BASE_DIR = Path(__file__).parent
+PREPROCESSED_DIR = BASE_DIR / "data" / "preprocessed" / "preprocessed_tesoro_v2"
+TRANSLATED_DIR = BASE_DIR / "data" / "translated" / "translated_tesoro_v2"
+DIALECTO_DIR = BASE_DIR / "data" / "translated" / "translated_dialecto"
+
+@app.get("/api/dictionary/letters")
+async def get_available_letters():
+    """Get list of available letters that have dictionary data."""
+    try:
+        letters = set()
+
+        # Check preprocessed directory
+        if PREPROCESSED_DIR.exists():
+            for letter_dir in PREPROCESSED_DIR.iterdir():
+                if letter_dir.is_dir() and letter_dir.name.isalpha():
+                    letters.add(letter_dir.name.upper())
+
+        return {
+            "letters": sorted(list(letters)),
+            "status": "success"
+        }
+    except Exception as e:
+        logger.error(f"Error getting available letters: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/dictionary/letter/{letter}")
+async def get_words_by_letter(letter: str):
+    """
+    Get all words for a specific letter.
+    Tries translated first (for a,b,c), falls back to preprocessed.
+    """
+    try:
+        letter = letter.lower()
+        if not letter.isalpha() or len(letter) != 1:
+            raise HTTPException(status_code=400, detail="Invalid letter")
+
+        words = []
+
+        # Try translated first (for letters a, b, c)
+        translated_letter_dir = TRANSLATED_DIR / letter
+        if translated_letter_dir.exists():
+            for word_file in sorted(translated_letter_dir.glob("*.json")):
+                try:
+                    with open(word_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        data['file_source'] = 'Tesoro'
+                        data['data_version'] = 'V2'
+                        data['has_translations'] = True
+                        words.append(data)
+                except Exception as e:
+                    logger.error(f"Error loading {word_file}: {e}")
+        else:
+            # Fall back to preprocessed (for other letters)
+            preprocessed_letter_dir = PREPROCESSED_DIR / letter
+            if preprocessed_letter_dir.exists():
+                for word_file in sorted(preprocessed_letter_dir.glob("*.json")):
+                    try:
+                        with open(word_file, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                            data['file_source'] = 'Tesoro'
+                            data['data_version'] = 'V2'
+                            data['has_translations'] = False
+                            words.append(data)
+                    except Exception as e:
+                        logger.error(f"Error loading {word_file}: {e}")
+
+        return {
+            "letter": letter.upper(),
+            "words": words,
+            "count": len(words),
+            "status": "success"
+        }
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Error getting words for letter {letter}: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/dictionary/word/{word}")
+async def get_word_details(word: str):
+    """
+    Get detailed information for a specific word.
+    Tries translated first, falls back to preprocessed.
+    """
+    try:
+        word = word.lower().replace(' ', '_')
+        letter = word[0]
+
+        # Try translated first
+        translated_file = TRANSLATED_DIR / letter / f"{word}.json"
+        if translated_file.exists():
+            with open(translated_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                data['file_source'] = 'Tesoro'
+                data['data_version'] = 'V2'
+                data['has_translations'] = True
+                return data
+
+        # Fall back to preprocessed
+        preprocessed_file = PREPROCESSED_DIR / letter / f"{word}.json"
+        if preprocessed_file.exists():
+            with open(preprocessed_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                data['file_source'] = 'Tesoro'
+                data['data_version'] = 'V2'
+                data['has_translations'] = False
+                return data
+
+        raise HTTPException(status_code=404, detail="Word not found")
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Error getting word details for {word}: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/dictionary/search")
+async def search_words(query: str, search_type: str = "partial"):
+    """
+    Search for words across all letters.
+    search_type: exact, partial, or contains
+    """
+    try:
+        if not query or not query.strip():
+            raise HTTPException(status_code=400, detail="Empty search query")
+
+        query = query.lower().strip()
+        results = []
+
+        # Search in all letter directories
+        for letter_dir in sorted(TRANSLATED_DIR.glob("*")):
+            if letter_dir.is_dir() and letter_dir.name.isalpha():
+                for word_file in letter_dir.glob("*.json"):
+                    try:
+                        with open(word_file, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                            term = data.get('term', '').lower()
+
+                            # Check if it matches search criteria
+                            matches = False
+                            if search_type == "exact":
+                                matches = term == query
+                            elif search_type == "partial":
+                                matches = query in term
+                            elif search_type == "contains":
+                                # Search in term and definitions
+                                es_defs = ' '.join(data.get('es_definitions', [])).lower()
+                                en_defs = ' '.join(data.get('en_definitions', [])).lower()
+                                matches = query in term or query in es_defs or query in en_defs
+
+                            if matches:
+                                data['file_source'] = 'Tesoro'
+                                data['data_version'] = 'V2'
+                                data['has_translations'] = True
+                                results.append(data)
+                    except Exception as e:
+                        logger.error(f"Error searching in {word_file}: {e}")
+
+        # Also search preprocessed (for letters not yet translated)
+        for letter_dir in sorted(PREPROCESSED_DIR.glob("*")):
+            if letter_dir.is_dir() and letter_dir.name.isalpha():
+                # Skip if already searched in translated
+                if (TRANSLATED_DIR / letter_dir.name).exists():
+                    continue
+
+                for word_file in letter_dir.glob("*.json"):
+                    try:
+                        with open(word_file, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                            term = data.get('term', '').lower()
+
+                            matches = False
+                            if search_type == "exact":
+                                matches = term == query
+                            elif search_type == "partial":
+                                matches = query in term
+                            elif search_type == "contains":
+                                es_defs = ' '.join(data.get('es_definitions', [])).lower()
+                                matches = query in term or query in es_defs
+
+                            if matches:
+                                data['file_source'] = 'Tesoro'
+                                data['data_version'] = 'V2'
+                                data['has_translations'] = False
+                                results.append(data)
+                    except Exception as e:
+                        logger.error(f"Error searching in {word_file}: {e}")
+
+        return {
+            "query": query,
+            "search_type": search_type,
+            "results": results,
+            "count": len(results),
+            "status": "success"
+        }
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Error searching for '{query}': {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
 if __name__ == "__main__":
     import uvicorn
 
-    print("🇵🇷 Starting Tesoro Boricua Translation API...")
-    print("📍 Server will run on http://localhost:8000")
-    print("🔗 Translation endpoint: POST /api/translate")
-    print("📚 API docs: http://localhost:8000/docs")
+    print("🇵🇷 Starting Tesoro Boricua API Server...")
+    print("📍 Server: http://localhost:8000")
+    print("🔗 Translation: POST /api/translate")
+    print("📚 Dictionary: GET /api/dictionary/letter/{letter}")
+    print("🔍 Search: GET /api/dictionary/search?query={word}")
+    print("📖 API docs: http://localhost:8000/docs")
     print("💡 Required packages: pip install fastapi uvicorn translate")
 
     uvicorn.run(

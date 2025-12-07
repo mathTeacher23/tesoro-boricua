@@ -3,7 +3,7 @@
   "term": "argolla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol, relacionado con una calificación",
+      "consolidated_definition": "En béisbol, un cero anotado en una entrada se refiere a la situación en que un equipo no permite que el otro equipo marque ningún punto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -11,7 +11,7 @@
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,7 +39,7 @@
       }
     },
     "2": {
-      "consolidated_definition": "Brazalete",
+      "consolidated_definition": "Un brazalete es un anillo o adorno que se coloca alrededor del brazo, generalmente hecho de metal, cuero o material similar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -47,7 +47,7 @@
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.3616",
         "semantic_similarity_score": 0.3616,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -85,8 +85,8 @@
     }
   },
   "es_definitions": [
-    "En béisbol, relacionado con una calificación",
-    "Brazalete"
+    "En béisbol, un cero anotado en una entrada se refiere a la situación en que un equipo no permite que el otro equipo marque ningún punto.",
+    "Un brazalete es un anillo o adorno que se coloca alrededor del brazo, generalmente hecho de metal, cuero o material similar."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

@@ -3,7 +3,7 @@
   "term": "cuartel",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Oficina de la policía",
+      "consolidated_definition": "Oficina de la policía, comisaría.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -11,7 +11,7 @@
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.8897",
         "semantic_similarity_score": 0.8897,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -57,7 +57,7 @@
       }
     },
     "2": {
-      "consolidated_definition": "Caserón donde viven muchas familias pobres",
+      "consolidated_definition": "Un caserón es un edificio grande que alberga a varias familias, especialmente aquellas con recursos económicos limitados.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -65,7 +65,7 @@
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -100,8 +100,8 @@
     }
   },
   "es_definitions": [
-    "Oficina de la policía",
-    "Caserón donde viven muchas familias pobres"
+    "Oficina de la policía, comisaría.",
+    "Un caserón es un edificio grande que alberga a varias familias, especialmente aquellas con recursos económicos limitados."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

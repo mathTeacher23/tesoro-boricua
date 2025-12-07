@@ -3,7 +3,7 @@
   "term": "bios",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform",
+      "consolidated_definition": "BIOS (Basic Input/Output System): sistema básico de entrada y salida en los sistemas compatibles con PC que gestiona las funciones necesarias para inicializar el hardware.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
       "consolidation_metadata": {
@@ -11,7 +11,7 @@
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -34,13 +34,13 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Sistema básico de entrada y salida. En los sistemas compatibles con PC, sistema utilizado para realizar todas las funciones necesarias que permitan colocar en estado inicial el hardware. Sigla anglicada, poco frecuente. Tuve una vez un problema similar y lo que hice fue que desensambleé mi PC compleamente y le di un clear al BIOS, no sin antes formatear el disco duro con Linux... el problema con esto es que, si formateas con Windows, hay una posibilidad de que haya un copia de trojano en el boot sector y se reinfecte la PC"
+          "inform. Sistema básico de entrada y salida. En los sistemas compatibles con PC, sistema utilizado para realizar todas las funciones necesarias que permitan colocar en estado inicial el hardware. Sigla anglicada, poco frecuente. Tuve una vez un problema similar y lo que hice fue que desensambleé mi PC compleamente y le di un clear al BIOS, no sin antes formatear el disco duro con Linux... el problema con esto es que, si formateas con Windows, hay una posibilidad de que haya un copia de trojano en el boot sector y se reinfecte la PC (Juventud Boricua, foro, 11-10-07)"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform"
+    "BIOS (Basic Input/Output System): sistema básico de entrada y salida en los sistemas compatibles con PC que gestiona las funciones necesarias para inicializar el hardware."
   ],
   "en_definitions": [],
   "source": "https://tesoro.pr"

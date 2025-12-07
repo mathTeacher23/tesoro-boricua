@@ -19,46 +19,36 @@ const LanguagePage = () => {
   const [chatSidebarOpen, setChatSidebarOpen] = useState(false);
   const [firstSidebarOpened, setFirstSidebarOpened] = useState(null); // 'translation' or 'chat'
 
-  // Load data from translated JSON files (they have English definitions)
+  // Load data from API (new structure: letter/word.json)
   const loadDataForLetter = async (letter) => {
     try {
-      const tesoroResponse = await fetch(`/data/translated_tesoro/transformed_tesoro_letter_${letter.toLowerCase()}.json`);
-      const dialectoResponse = await fetch(`/data/translated_dialecto/dialecto_letter_${letter.toUpperCase()}.json`);
-      const tesoroV2Response = await fetch(`/data/translated_tesoro_v2/transformed_tesoro_v2_${letter.toLowerCase()}.json`);
+      // Fetch from new API endpoint
+      const response = await fetch(`http://localhost:8000/api/dictionary/letter/${letter.toLowerCase()}`);
 
-      const data = [];
-
-      if (tesoroResponse.ok) {
-        const tesoroData = await tesoroResponse.json();
-        const tesoroEntries = tesoroData.map(item => ({
-          ...item,
-          file_source: 'Tesoro',
-          data_version: 'V1',
-          has_overlap: false
-        }));
-        data.push(...tesoroEntries);
+      if (!response.ok) {
+        console.error(`Failed to load data for letter ${letter}`);
+        return [];
       }
 
-      if (dialectoResponse.ok) {
-        const dialectoData = await dialectoResponse.json();
-        const dialectoEntries = dialectoData.map(item => ({
-          ...item,
-          file_source: 'Dialecto',
-          data_version: 'V1',
-          has_overlap: false
-        }));
-        data.push(...dialectoEntries);
-      }
+      const result = await response.json();
+      const data = result.words || [];
 
-      if (tesoroV2Response.ok) {
-        const tesoroV2Data = await tesoroV2Response.json();
-        const tesoroV2Entries = tesoroV2Data.map(item => ({
-          ...item,
-          file_source: 'Tesoro',
-          data_version: 'V2',
-          has_overlap: false
-        }));
-        data.push(...tesoroV2Entries);
+      // Also load dialecto data if available (keep old structure for now)
+      try {
+        const dialectoResponse = await fetch(`/data/translated_dialecto/dialecto_letter_${letter.toUpperCase()}.json`);
+        if (dialectoResponse.ok) {
+          const dialectoData = await dialectoResponse.json();
+          const dialectoEntries = dialectoData.map(item => ({
+            ...item,
+            file_source: 'Dialecto',
+            data_version: 'V1',
+            has_overlap: false
+          }));
+          data.push(...dialectoEntries);
+        }
+      } catch (dialectoError) {
+        // Dialecto data is optional
+        console.log(`No dialecto data for letter ${letter}`);
       }
 
       return data;
@@ -70,25 +60,20 @@ const LanguagePage = () => {
 
   useEffect(() => {
     const checkAvailableLetters = async () => {
-      // Only check available letters, don't load any data initially
-      const alphabet = 'ABCDEFGHIJKLMNÑOPQRSTUVWXYZ'.split('');
-      const lettersWithData = [];
-
-      for (const letter of alphabet) {
-        try {
-          const tesoroResponse = await fetch(`/data/translated_tesoro/transformed_tesoro_letter_${letter.toLowerCase()}.json`, { method: 'HEAD' });
-          const dialectoResponse = await fetch(`/data/translated_dialecto/dialecto_letter_${letter.toUpperCase()}.json`, { method: 'HEAD' });
-          const tesoroV2Response = await fetch(`/data/translated_tesoro_v2/transformed_tesoro_v2_${letter.toLowerCase()}.json`, { method: 'HEAD' });
-
-          if (tesoroResponse.ok || dialectoResponse.ok || tesoroV2Response.ok) {
-            lettersWithData.push(letter);
-          }
-        } catch (error) {
-          // File doesn't exist, continue
+      try {
+        // Fetch available letters from API
+        const response = await fetch('http://localhost:8000/api/dictionary/letters');
+        if (response.ok) {
+          const data = await response.json();
+          setAvailableLetters(data.letters || []);
+        } else {
+          console.error('Failed to fetch available letters');
+          setAvailableLetters([]);
         }
+      } catch (error) {
+        console.error('Error fetching available letters:', error);
+        setAvailableLetters([]);
       }
-
-      setAvailableLetters(lettersWithData);
     };
 
     checkAvailableLetters();
@@ -160,36 +145,28 @@ const LanguagePage = () => {
     setSelectedLetter(null);
     navigate('/language');
 
-    // Search across all available letters
-    const searchResults = [];
-    for (const searchLetter of availableLetters) {
-      const letterData = await loadDataForLetter(searchLetter);
-      searchResults.push(...letterData);
+    try {
+      // Use API search endpoint
+      const response = await fetch(
+        `http://localhost:8000/api/dictionary/search?query=${encodeURIComponent(searchQuery)}&search_type=${searchType}`
+      );
+
+      if (response.ok) {
+        const data = await response.json();
+        let searchResults = data.results || [];
+
+        // Apply source filter
+        const filteredResults = applySourceFilter(searchResults);
+        setResults(filteredResults);
+      } else {
+        console.error('Search failed');
+        setResults([]);
+      }
+    } catch (error) {
+      console.error('Error searching:', error);
+      setResults([]);
     }
 
-    // Apply source filter first
-    let filteredResults = applySourceFilter(searchResults);
-
-    // Apply search query
-    const query = searchQuery.toLowerCase();
-    filteredResults = filteredResults.filter(item => {
-      const term = item.term.toLowerCase();
-      const esText = item.es_definitions.join(' ').toLowerCase();
-      const enText = item.en_definitions.join(' ').toLowerCase();
-
-      switch (searchType) {
-        case 'exact':
-          return term === query;
-        case 'partial':
-          return term.includes(query);
-        case 'contains':
-          return term.includes(query) || esText.includes(query) || enText.includes(query);
-        default:
-          return term.includes(query);
-      }
-    });
-
-    setResults(filteredResults);
     setLoading(false);
   };
 
