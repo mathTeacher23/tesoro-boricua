@@ -3,9 +3,12 @@
   "term": "rehusa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Negativa",
+      "consolidated_definition": "Negativa. “Me han dado con su tácita rehusa más de cien puntapiés.”",
+      "en_consolidated_definition": "Rejection. \"They have given me more than a hundred kicks with their tacit refusal.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Negativa"
+    "Negativa. “Me han dado con su tácita rehusa más de cien puntapiés.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rejection. \"They have given me more than a hundred kicks with their tacit refusal.\""
+  ],
   "source": "https://tesoro.pr"
 }

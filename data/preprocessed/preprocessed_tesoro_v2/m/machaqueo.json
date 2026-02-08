@@ -3,9 +3,12 @@
   "term": "machaqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cantaleta",
+      "consolidated_definition": "Cantaleta. Insistencia.",
+      "en_consolidated_definition": "Monologue. Persistence.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cantaleta"
+    "Cantaleta. Insistencia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Monologue. Persistence."
+  ],
   "source": "https://tesoro.pr"
 }

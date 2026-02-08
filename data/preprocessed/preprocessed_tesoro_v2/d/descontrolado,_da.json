@@ -3,9 +3,12 @@
   "term": "descontrolado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un pícher",
+      "consolidated_definition": "Referido a un pícher, que no tiene dominio sobre sus lanzamientos.",
+      "en_consolidated_definition": "Referido a un pitcher que no tiene control sobre sus lanzamientos.\n\nNota: En este contexto, \"pícher\" se refiere a un lanzador de béisbol en español puertorriqueño.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Referido a un pícher"
+    "Referido a un pícher, que no tiene dominio sobre sus lanzamientos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a un pitcher que no tiene control sobre sus lanzamientos.\n\nNota: En este contexto, \"pícher\" se refiere a un lanzador de béisbol en español puertorriqueño."
+  ],
   "source": "https://tesoro.pr"
 }

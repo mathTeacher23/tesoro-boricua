@@ -3,9 +3,12 @@
   "term": "bambúa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bambú: nombre común para la Guadua, una caña de bambú perteneciente a la familia de las gramíneas.",
+      "consolidated_definition": "Bambú: nombre común para la Guadua, una caña de bambú arbórea perteneciente a la familia de las gramíneas.",
+      "en_consolidated_definition": "Bambú: common name for Guadua, a woody bamboo cane belonging to the family of grasses.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
         "num_cleaned_definitions": 7,
@@ -78,15 +81,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La cárcel es un establecimiento penitenciario donde se encierran a personas condenadas por delitos o infracciones penales.",
+      "consolidated_definition": "La cárcel.",
+      "en_consolidated_definition": "Jail \n\nNote: En este caso, la palabra \"cárcel\" se refiere a un lugar de detención o encarcelamiento, por lo que la traducción más adecuada es \"jail\". Sin embargo, en algunos contextos, también podría referirse a una prisión o penitenciaría.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -117,9 +123,12 @@
     }
   },
   "es_definitions": [
-    "Bambú: nombre común para la Guadua, una caña de bambú perteneciente a la familia de las gramíneas.",
-    "La cárcel es un establecimiento penitenciario donde se encierran a personas condenadas por delitos o infracciones penales."
+    "Bambú: nombre común para la Guadua, una caña de bambú arbórea perteneciente a la familia de las gramíneas.",
+    "La cárcel."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bambú: common name for Guadua, a woody bamboo cane belonging to the family of grasses.",
+    "Jail \n\nNote: En este caso, la palabra \"cárcel\" se refiere a un lugar de detención o encarcelamiento, por lo que la traducción más adecuada es \"jail\". Sin embargo, en algunos contextos, también podría referirse a una prisión o penitenciaría."
+  ],
   "source": "https://tesoro.pr"
 }

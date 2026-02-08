@@ -3,9 +3,12 @@
   "term": "despechar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Destetar",
+      "consolidated_definition": "Destetar, dejar de dar el pecho a un niño.",
+      "en_consolidated_definition": "Wean, to stop nursing a child.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Destetar"
+    "Destetar, dejar de dar el pecho a un niño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wean, to stop nursing a child."
+  ],
   "source": "https://tesoro.pr"
 }

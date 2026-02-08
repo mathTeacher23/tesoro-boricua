@@ -3,9 +3,12 @@
   "term": "ventajero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo que pica arriba",
+      "consolidated_definition": "Gallo que pica arriba, a la cabeza.",
+      "en_consolidated_definition": "Rooster that pecks upwards, at the head.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "m",
+      "consolidated_definition": "m. Vendedor del dulce llamado ventaja.",
+      "en_consolidated_definition": "Seller of the sweet called advantage.\n\nNota: La expresión \"ventaja\" se refiere a una ventaja o beneficio, pero en este contexto específico de Puerto Rico, es posible que esté haciendo referencia a un tipo de dulce tradicional llamado \"ventaja\", que no es común en otros lugares.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -80,9 +86,12 @@
     }
   },
   "es_definitions": [
-    "Gallo que pica arriba",
-    "m"
+    "Gallo que pica arriba, a la cabeza.",
+    "m. Vendedor del dulce llamado ventaja."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rooster that pecks upwards, at the head.",
+    "Seller of the sweet called advantage.\n\nNota: La expresión \"ventaja\" se refiere a una ventaja o beneficio, pero en este contexto específico de Puerto Rico, es posible que esté haciendo referencia a un tipo de dulce tradicional llamado \"ventaja\", que no es común en otros lugares."
+  ],
   "source": "https://tesoro.pr"
 }

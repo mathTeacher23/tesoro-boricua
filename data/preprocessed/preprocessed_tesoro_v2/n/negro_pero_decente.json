@@ -3,9 +3,12 @@
   "term": "negro pero decente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, honrada, a pesar de que algunas características externas parezcan decir lo contrario.",
+      "en_consolidated_definition": "Referido a persona, dignified, despite certain external characteristics that may suggest otherwise.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona"
+    "Referido a persona, honrada, a pesar de que algunas características externas parezcan decir lo contrario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a persona, dignified, despite certain external characteristics that may suggest otherwise."
+  ],
   "source": "https://tesoro.pr"
 }

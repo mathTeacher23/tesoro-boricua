@@ -3,9 +3,12 @@
   "term": "matón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pistolero",
+      "consolidated_definition": "Pistolero, capaz de matar o que ya ha matado a alguna persona.",
+      "en_consolidated_definition": "Gunman, capable of killing or having already killed someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "A pesar del parecido español que tenga esta",
+      "consolidated_definition": "Palabra considerada aumentativa de 'mato', nombre de algunas plantas, probablemente de raíz indígena, y que también aparece como topónimo en la geografía puertorriqueña.",
+      "en_consolidated_definition": "Word considered an intensifier of 'mato', a name for certain plants, possibly of indigenous origin, and also appearing as a toponym in Puerto Rican geography.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4352",
         "semantic_similarity_score": 0.4352,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "Pistolero",
-    "A pesar del parecido español que tenga esta"
+    "Pistolero, capaz de matar o que ya ha matado a alguna persona.",
+    "Palabra considerada aumentativa de 'mato', nombre de algunas plantas, probablemente de raíz indígena, y que también aparece como topónimo en la geografía puertorriqueña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gunman, capable of killing or having already killed someone.",
+    "Word considered an intensifier of 'mato', a name for certain plants, possibly of indigenous origin, and also appearing as a toponym in Puerto Rican geography."
+  ],
   "source": "https://tesoro.pr"
 }

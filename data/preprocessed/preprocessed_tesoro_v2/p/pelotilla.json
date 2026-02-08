@@ -3,9 +3,12 @@
   "term": "pelotilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Discusión o riña entre marido y mujer",
+      "consolidated_definition": "Discusión o riña entre marido y mujer.",
+      "en_consolidated_definition": "Spousal altercation or quarrel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Discusión o riña entre marido y mujer"
+    "Discusión o riña entre marido y mujer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Spousal altercation or quarrel."
+  ],
   "source": "https://tesoro.pr"
 }

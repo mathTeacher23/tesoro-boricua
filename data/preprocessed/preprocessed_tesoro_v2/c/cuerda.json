@@ -3,15 +3,18 @@
   "term": "cuerda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Área de una cuerda\": medida superficial equivalente a 39 áreas y 29 centiáreas.",
+      "consolidated_definition": "Medida agraria de superficie equivalente a 4000 m².",
+      "en_consolidated_definition": "Agrarian measurement of surface area equivalent to 4000 m².",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.598",
-        "semantic_similarity_score": 0.598,
-        "cluster_count": 8,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -71,27 +74,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Medida superficial de 75 varas castellanas por cada lado, o 39 áreas y 29 centiáreas. Ac. “Así, pues, tomaresmos por tipo... en una área de tierra de una cuerda (75 varas por cada lado).” Aguayo, Manual para el cultivo del tabaco, 1884, p. 75.",
-          "Medida agraria puertorriqueña equivalente a 4000 metros cuadrados.",
-          "Medida de terreno que tiene una cabida de 3,929 metros cuadrados.",
-          "Medida agraria equivalente a 3,929 metros cuadrados.",
-          "Medida de terreno que equivale a 42,306 pies cuadrados de tierra.",
-          "Medida de la extensión de las fincas con cabida de 3,929 metros cuadrados.",
-          ". En Puerto Rico, medida superficial equivalente a 3929 centiáreas.",
           "Medida agraria de superficie equivalente a 4000 m²."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Afición peculiar de una persona.",
+      "en_consolidated_definition": "Peculiar fondness or predilection of a person.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9407",
-        "semantic_similarity_score": 0.9407,
-        "cluster_count": 1,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -119,16 +118,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Afición o especialidad peculiar de una persona.",
           "Afición peculiar de una persona."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Área de una cuerda\": medida superficial equivalente a 39 áreas y 29 centiáreas.",
+    "Medida agraria de superficie equivalente a 4000 m².",
     "Afición peculiar de una persona."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Agrarian measurement of surface area equivalent to 4000 m².",
+    "Peculiar fondness or predilection of a person.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

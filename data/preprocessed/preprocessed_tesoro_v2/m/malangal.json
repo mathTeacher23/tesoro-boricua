@@ -3,9 +3,12 @@
   "term": "malangal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio poblado de malangas",
+      "consolidated_definition": "Sitio poblado de malangas.",
+      "en_consolidated_definition": "Area inhabited by sapodilla trees.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Sitio poblado de malangas"
+    "Sitio poblado de malangas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area inhabited by sapodilla trees."
+  ],
   "source": "https://tesoro.pr"
 }

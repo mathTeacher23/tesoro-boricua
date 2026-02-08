@@ -3,9 +3,12 @@
   "term": "rolear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Correr carros",
+      "consolidated_definition": "Correr carros.",
+      "en_consolidated_definition": "Ride go-karts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Correr carros"
+    "Correr carros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ride go-karts."
+  ],
   "source": "https://tesoro.pr"
 }

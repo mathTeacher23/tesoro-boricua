@@ -3,9 +3,12 @@
   "term": "en el field",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la calle",
+      "consolidated_definition": "En la calle, fuera de la empresa.",
+      "en_consolidated_definition": "Outside the workplace or on the street.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "En la calle"
+    "En la calle, fuera de la empresa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Outside the workplace or on the street."
+  ],
   "source": "https://tesoro.pr"
 }

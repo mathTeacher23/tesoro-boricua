@@ -3,9 +3,12 @@
   "term": "ñu",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver ñudo",
+      "consolidated_definition": "Ver ñudo .",
+      "en_consolidated_definition": "See ñudo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver ñudo"
+    "Ver ñudo ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See ñudo."
+  ],
   "source": "https://tesoro.pr"
 }

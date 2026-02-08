@@ -3,9 +3,12 @@
   "term": "trincar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Beber licor",
+      "consolidated_definition": "Beber licor. Emborracharse.",
+      "en_consolidated_definition": "To drink liquor; to become intoxicated.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,9 +47,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Apretar",
+      "consolidated_definition": "Apretar, oprimir.",
+      "en_consolidated_definition": "Press or compress.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -80,9 +86,12 @@
     }
   },
   "es_definitions": [
-    "Beber licor",
-    "Apretar"
+    "Beber licor. Emborracharse.",
+    "Apretar, oprimir."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To drink liquor; to become intoxicated.",
+    "Press or compress."
+  ],
   "source": "https://tesoro.pr"
 }

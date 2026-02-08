@@ -3,9 +3,12 @@
   "term": "flagrante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de algo que se hace sin",
+      "consolidated_definition": "Se dice de algo que se hace sin reparos, sin inhibiciones.",
+      "en_consolidated_definition": "Something done without restraint or inhibition.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Se dice de algo que se hace sin"
+    "Se dice de algo que se hace sin reparos, sin inhibiciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Something done without restraint or inhibition."
+  ],
   "source": "https://tesoro.pr"
 }

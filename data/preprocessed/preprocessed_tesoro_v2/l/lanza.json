@@ -3,15 +3,18 @@
   "term": "lanza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El timón del arado recibió varias denominaciones repartidas",
+      "consolidated_definition": "El timón del arado es un dispositivo que recibió diversas denominaciones en diferentes regiones geográficas, como lanza, adjuntas, ciales, naranjito, vaga baja, caguas, vegas y Vieques.",
+      "en_consolidated_definition": "The plow's tiller is a device that has been referred to by various names in different geographical regions, such as lanza, adjuntas, ciales, naranjito, vega baja, caguas, vegas, and Vieques.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5302",
-        "semantic_similarity_score": 0.5302,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.547",
+        "semantic_similarity_score": 0.547,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,23 +47,26 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El timón del arado recibió varias denominaciones repartidas con visible orden geográfico lanza, Adjuntas, Ciales, Naranjito, Vaga Baja, Caguas, Vegas y Vieques.",
+          "El timón del arado recibió varias denominaciones repartidas con visible orden geográfico ... lanza, Adjuntas, Ciales, Naranjito, Vaga Baja, Caguas, Vegas y Vieques.",
           "El tipo de carro más corriente suele ser el de yunta, con una sola lanza. El nombre de esta misma pieza fue lanza en la mayor parte de los lugares recorridos.",
           "“Una pieza larga pegada al yugo.” También pértiga.",
-          "El timón del arado también presenta diversidad de menciones repartidas por la Isla: con mayor número de casos, lanza .",
+          "El timón del arado también presenta diversidad de menciones repartidas por la Isla: con mayor número de casos, lanza (centro occidental, norte central e interior del noroeste y Vieques).",
           "La pieza que une el carro con los bueyes se denomina lanza más generalmente a través del país."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Extremo agudo de la espuela del gallo",
+      "consolidated_definition": "En las peleas de gallos, extremo agudo de la espuela del gallo de pelea.",
+      "en_consolidated_definition": "In cockfighting, the sharp tip of the spur of a fighting rooster.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.759",
-        "semantic_similarity_score": 0.759,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -91,16 +97,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Extremo agudo de la espuela del gallo, conocido también como espiga. La parte interior de la lanza es blanca.",
           "En las peleas de gallos, extremo agudo de la espuela del gallo de pelea."
         ]
       }
     }
   },
   "es_definitions": [
-    "El timón del arado recibió varias denominaciones repartidas",
-    "Extremo agudo de la espuela del gallo"
+    "El timón del arado es un dispositivo que recibió diversas denominaciones en diferentes regiones geográficas, como lanza, adjuntas, ciales, naranjito, vaga baja, caguas, vegas y Vieques.",
+    "En las peleas de gallos, extremo agudo de la espuela del gallo de pelea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The plow's tiller is a device that has been referred to by various names in different geographical regions, such as lanza, adjuntas, ciales, naranjito, vega baja, caguas, vegas, and Vieques.",
+    "In cockfighting, the sharp tip of the spur of a fighting rooster."
+  ],
   "source": "https://tesoro.pr"
 }

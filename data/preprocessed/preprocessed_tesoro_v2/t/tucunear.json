@@ -3,9 +3,12 @@
   "term": "tucunear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Andar con dificultad",
+      "consolidated_definition": "Andar con dificultad.",
+      "en_consolidated_definition": "To move with difficulty.\n\nNota: Esta expresión es común en Puerto Rico y puede referirse a caminar con dificultad debido a una condición física o un obstáculo en el camino.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Andar con dificultad"
+    "Andar con dificultad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To move with difficulty.\n\nNota: Esta expresión es común en Puerto Rico y puede referirse a caminar con dificultad debido a una condición física o un obstáculo en el camino."
+  ],
   "source": "https://tesoro.pr"
 }

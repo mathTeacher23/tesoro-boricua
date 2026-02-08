@@ -3,9 +3,12 @@
   "term": "sororita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer que pertenece a una sororidad",
+      "consolidated_definition": "Mujer que pertenece a una sororidad.",
+      "en_consolidated_definition": "Member of a sorority.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Mujer que pertenece a una sororidad"
+    "Mujer que pertenece a una sororidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Member of a sorority."
+  ],
   "source": "https://tesoro.pr"
 }

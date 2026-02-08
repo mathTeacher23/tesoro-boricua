@@ -3,9 +3,12 @@
   "term": "santisabelino, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Santisabeleño",
+      "consolidated_definition": "Santisabeleño, gentilicio.",
+      "en_consolidated_definition": "San Sebastiánite, gentilicio.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Santisabeleño"
+    "Santisabeleño, gentilicio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "San Sebastiánite, gentilicio."
+  ],
   "source": "https://tesoro.pr"
 }

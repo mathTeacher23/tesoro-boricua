@@ -3,14 +3,17 @@
   "term": "stop payment",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Suspensión de pagos, relacionado con una organización",
+      "consolidated_definition": "Suspensión de pagos.",
+      "en_consolidated_definition": "Suspension of payments.\n\nNota: En algunos contextos, esta expresión puede referirse a la \"Declaración de Incapacidad para Pagar\" o \"Petición de Suspensión de Pagos\", que es un procedimiento legal utilizado en Puerto Rico y otros países hispanohablantes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6126",
-        "semantic_similarity_score": 0.6126,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -46,16 +49,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Suspensión de pagos. Acción de detener algún tipo de pago en un banco.",
-          "econ. Detención de pago. Instrucción que se da a un banco para que cancele el pago de un cheque. Anglicismo crudo, usual. Un agente de la Policía adscrito al Cuerpo de Seguridad de Residenciales Públicos en Caguas fue arrestado hoy por apropiarse ilegalmente de $2,617 al cambiar un cheque de un préstamo que hizo a la Asociación de Empleados del Estado Libre Asociado y luego pedir un stop payment",
           "Suspensión de pagos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Suspensión de pagos, relacionado con una organización"
+    "Suspensión de pagos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Suspension of payments.\n\nNota: En algunos contextos, esta expresión puede referirse a la \"Declaración de Incapacidad para Pagar\" o \"Petición de Suspensión de Pagos\", que es un procedimiento legal utilizado en Puerto Rico y otros países hispanohablantes."
+  ],
   "source": "https://tesoro.pr"
 }

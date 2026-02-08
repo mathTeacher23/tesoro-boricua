@@ -3,9 +3,12 @@
   "term": "tueste",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tostación",
+      "consolidated_definition": "Tostación. Acción y efecto de tostar.",
+      "en_consolidated_definition": "Toasting. Action and effect of toasting.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tostación"
+    "Tostación. Acción y efecto de tostar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Toasting. Action and effect of toasting."
+  ],
   "source": "https://tesoro.pr"
 }

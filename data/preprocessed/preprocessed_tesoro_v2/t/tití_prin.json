@@ -3,9 +3,12 @@
   "term": "tití prin",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Director de escuela",
+      "consolidated_definition": "Director de escuela.",
+      "en_consolidated_definition": "School Principal",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Director de escuela"
+    "Director de escuela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "School Principal"
+  ],
   "source": "https://tesoro.pr"
 }

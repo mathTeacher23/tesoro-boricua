@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Clavos para fijar el cabo del machete.",
+      "en_consolidated_definition": "Machete handle fasteners.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Enfermedad del café\": trastorno provocado por el parásito broca.",
+      "consolidated_definition": "Enfermedad del café provocada por el parásito broca.",
+      "en_consolidated_definition": "Coffee disease caused by the broca parasite.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -83,15 +89,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "El insecto coleóptero Hypothenemus hampei (Scolytinae) es un escarabajo pequeño de hasta 2 mm de longitud, con mandíbulas fuertes y color café oscuro o negro, cuyas larvas tienen la cabeza café y el cuerpo blanco cremoso.",
+      "consolidated_definition": "Insecto coleóptero de hasta 2 mm de longitud, con mandíbulas fuertes prolongadas hacia delante, de color café oscuro o negro, cuyas larvas son de color blanco cremoso con la cabeza café, y sin patas. Scolytinae Hypothenemus hampei.",
+      "en_consolidated_definition": "Coleopteran insect of up to 2 mm in length, with strong mandibles extended forward, dark brown or black in color, whose larvae are creamy white in color with a dark brown head, and without legs. Scolytinae Hypothenemus hampei.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -121,9 +130,13 @@
   },
   "es_definitions": [
     "Clavos para fijar el cabo del machete.",
-    "\"Enfermedad del café\": trastorno provocado por el parásito broca.",
-    "El insecto coleóptero Hypothenemus hampei (Scolytinae) es un escarabajo pequeño de hasta 2 mm de longitud, con mandíbulas fuertes y color café oscuro o negro, cuyas larvas tienen la cabeza café y el cuerpo blanco cremoso."
+    "Enfermedad del café provocada por el parásito broca.",
+    "Insecto coleóptero de hasta 2 mm de longitud, con mandíbulas fuertes prolongadas hacia delante, de color café oscuro o negro, cuyas larvas son de color blanco cremoso con la cabeza café, y sin patas. Scolytinae Hypothenemus hampei."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Machete handle fasteners.",
+    "Coffee disease caused by the broca parasite.",
+    "Coleopteran insect of up to 2 mm in length, with strong mandibles extended forward, dark brown or black in color, whose larvae are creamy white in color with a dark brown head, and without legs. Scolytinae Hypothenemus hampei."
+  ],
   "source": "https://tesoro.pr"
 }

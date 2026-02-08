@@ -3,9 +3,12 @@
   "term": "ser de la palma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser muchacha hermosa",
+      "consolidated_definition": "Ser muchacha hermosa.",
+      "en_consolidated_definition": "To be a beautiful young woman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Ser muchacha hermosa"
+    "Ser muchacha hermosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be a beautiful young woman."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "express mail",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Correo rápido o envío urgente",
+      "consolidated_definition": "Envío urgente.",
+      "en_consolidated_definition": "Express Mail \n\nNota: En algunos contextos, \"envío urgente\" puede referirse a un servicio de mensajería o correo que prioriza el envío rápido y seguro de paquetes o cartas en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5228",
-        "semantic_similarity_score": 0.5228,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -46,16 +49,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Correo rápido o envío urgente.",
-          "transp. Correo rápido, correo expreso. Servicio especial de correos más rápido que el usual. Anglicismo crudo, frecuente. Dichas invitaciones fueron enviadas el 14 de febrero de 1995 por la Junta de Subastas de la Corporación a seis posibles proveedores por correo express mail",
           "Envío urgente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Correo rápido o envío urgente"
+    "Envío urgente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Express Mail \n\nNota: En algunos contextos, \"envío urgente\" puede referirse a un servicio de mensajería o correo que prioriza el envío rápido y seguro de paquetes o cartas en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

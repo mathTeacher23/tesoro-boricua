@@ -3,9 +3,12 @@
   "term": "loseta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Losa de piso",
+      "consolidated_definition": "Losa de piso, hecha con arena fina, cemento y colorante.",
+      "en_consolidated_definition": "Flooring made with fine sand, cement, and coloring agent.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Losa de piso"
+    "Losa de piso, hecha con arena fina, cemento y colorante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flooring made with fine sand, cement, and coloring agent."
+  ],
   "source": "https://tesoro.pr"
 }

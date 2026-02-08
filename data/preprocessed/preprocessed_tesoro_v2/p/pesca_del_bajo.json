@@ -3,9 +3,12 @@
   "term": "pesca del bajo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pesca que se realiza hasta 40 o 50",
+      "consolidated_definition": "Pesca que se realiza hasta 40 o 50 brazas a partir de la costa.",
+      "en_consolidated_definition": "Fishing that is carried out up to 40 or 50 fathoms from the coast.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pesca que se realiza hasta 40 o 50"
+    "Pesca que se realiza hasta 40 o 50 brazas a partir de la costa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fishing that is carried out up to 40 or 50 fathoms from the coast."
+  ],
   "source": "https://tesoro.pr"
 }

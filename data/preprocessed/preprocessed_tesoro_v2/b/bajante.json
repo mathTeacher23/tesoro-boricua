@@ -3,15 +3,18 @@
   "term": "bajante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Copa de licor consumida después de la comida y acompañada de café.",
+      "consolidated_definition": "Copa de licor después de la comida y el café. Plus café.",
+      "en_consolidated_definition": "Digestif after meal and coffee; plus café.\n\nNota: En este contexto, \"plus café\" se refiere a una taza adicional de café que se sirve después de la comida y el digestif. Esta expresión es específica de la cultura puertorriqueña y se utiliza comúnmente en los restaurantes y bares del país.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Copa de licor consumida después de la comida y acompañada de café."
+    "Copa de licor después de la comida y el café. Plus café."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Digestif after meal and coffee; plus café.\n\nNota: En este contexto, \"plus café\" se refiere a una taza adicional de café que se sirve después de la comida y el digestif. Esta expresión es específica de la cultura puertorriqueña y se utiliza comúnmente en los restaurantes y bares del país."
+  ],
   "source": "https://tesoro.pr"
 }

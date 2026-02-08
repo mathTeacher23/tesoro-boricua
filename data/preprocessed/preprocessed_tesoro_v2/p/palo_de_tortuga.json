@@ -3,9 +3,12 @@
   "term": "palo de tortuga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que algunos le dan al árbol llamado",
+      "consolidated_definition": "Nombre que algunos le dan al árbol llamado violeta.",
+      "en_consolidated_definition": "Name given by some to the tree known as violeta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Nombre que algunos le dan al árbol llamado"
+    "Nombre que algunos le dan al árbol llamado violeta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Name given by some to the tree known as violeta."
+  ],
   "source": "https://tesoro.pr"
 }

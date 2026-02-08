@@ -3,9 +3,12 @@
   "term": "sumariado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona que está en prisión",
+      "consolidated_definition": "Dícese de la persona que está en prisión por no poder prestar fianza por causa que se le imputa, pero aún no ha sido convicta.",
+      "en_consolidated_definition": "This is referred to as a person who is in prison due to being unable to post bail because of the charges against them, but who has not yet been convicted.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona que está en prisión"
+    "Dícese de la persona que está en prisión por no poder prestar fianza por causa que se le imputa, pero aún no ha sido convicta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This is referred to as a person who is in prison due to being unable to post bail because of the charges against them, but who has not yet been convicted."
+  ],
   "source": "https://tesoro.pr"
 }

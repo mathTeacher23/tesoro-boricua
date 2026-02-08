@@ -3,9 +3,12 @@
   "term": "pluma del agua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grifo o llave de la cañería del agua",
+      "consolidated_definition": "Grifo o llave de la cañería del agua. También pluma.",
+      "en_consolidated_definition": "Faucet or water pipe valve. Also pen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Grifo o llave de la cañería del agua"
+    "Grifo o llave de la cañería del agua. También pluma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Faucet or water pipe valve. Also pen."
+  ],
   "source": "https://tesoro.pr"
 }

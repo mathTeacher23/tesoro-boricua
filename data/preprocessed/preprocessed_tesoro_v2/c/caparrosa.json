@@ -3,15 +3,18 @@
   "term": "caparrosa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La planta en cuestión es una especie arbórea que pertenece a la familia Verbenaceae.",
+      "consolidated_definition": "Callocarpa ampla. Pertenece a la familia de las verbenáceas.",
+      "en_consolidated_definition": "Callocarpa ampla. Belongs to the family of Verbenaceae.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La planta en cuestión es una especie arbórea que pertenece a la familia Verbenaceae."
+    "Callocarpa ampla. Pertenece a la familia de las verbenáceas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Callocarpa ampla. Belongs to the family of Verbenaceae."
+  ],
   "source": "https://tesoro.pr"
 }

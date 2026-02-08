@@ -4,14 +4,17 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Juego de niños que consiste en tomarse de las manos en una gran cadena formando un caracol y caminando en círculos concéntricos.",
+      "en_consolidated_definition": "Children's game in which children take hands to form a large chain in the shape of a spiral and walk in concentric circles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7246",
-        "semantic_similarity_score": 0.7246,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Juego de niños.",
           "Juego de niños que consiste en tomarse de las manos en una gran cadena formando un caracol y caminando en círculos concéntricos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Variedad de guineo dátil en la que los frutos crecen juntos en una sola mano del tallo.",
+      "consolidated_definition": "Variedad de guineo caracterizada porque los frutos no están en manos individuales.",
+      "en_consolidated_definition": "Variety of banana characterized by fruits not being in individual hands.\n\nNota: En este caso, \"guineo\" se refiere a una variedad de plátano, que es un término común en Puerto Rico y otros países hispanohablantes. La traducción mantiene el contexto cultural y la precisión del significado original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3588",
-        "semantic_similarity_score": 0.3588,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -86,8 +91,6 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Variedad de guineo dátil en que los frutos no están en manos individuales y sí en una sola mano que va dándole la vuelta al marlote.",
-          "Caracola.",
           "Variedad de guineo caracterizada porque los frutos no están en manos individuales."
         ]
       }
@@ -95,8 +98,11 @@
   },
   "es_definitions": [
     "Juego de niños que consiste en tomarse de las manos en una gran cadena formando un caracol y caminando en círculos concéntricos.",
-    "Variedad de guineo dátil en la que los frutos crecen juntos en una sola mano del tallo."
+    "Variedad de guineo caracterizada porque los frutos no están en manos individuales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Children's game in which children take hands to form a large chain in the shape of a spiral and walk in concentric circles.",
+    "Variety of banana characterized by fruits not being in individual hands.\n\nNota: En este caso, \"guineo\" se refiere a una variedad de plátano, que es un término común en Puerto Rico y otros países hispanohablantes. La traducción mantiene el contexto cultural y la precisión del significado original."
+  ],
   "source": "https://tesoro.pr"
 }

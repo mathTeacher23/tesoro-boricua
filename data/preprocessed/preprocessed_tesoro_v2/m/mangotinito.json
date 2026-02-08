@@ -3,9 +3,12 @@
   "term": "mangotinito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que le dan en Ponce al mangó",
+      "consolidated_definition": "Nombre que le dan en Ponce al mangó de Mayagüez.",
+      "en_consolidated_definition": "Name given in Ponce to the mango from Mayagüez.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Nombre que le dan en Ponce al mangó"
+    "Nombre que le dan en Ponce al mangó de Mayagüez."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Name given in Ponce to the mango from Mayagüez."
+  ],
   "source": "https://tesoro.pr"
 }

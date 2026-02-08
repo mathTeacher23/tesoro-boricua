@@ -3,9 +3,12 @@
   "term": "parda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Momento crepuscular cuando el cielo adquiere un color",
+      "consolidated_definition": "Momento crepuscular cuando el cielo adquiere un color parduzco. Por extensión cualquier oscurecimiento parcial del sol durante el día debido a nubosidad en la atmósfera.",
+      "en_consolidated_definition": "Twilight moment when the sky assumes a tawny hue. By extension, any partial darkening of the sun during the day due to cloud cover in the atmosphere.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Momento crepuscular cuando el cielo adquiere un color"
+    "Momento crepuscular cuando el cielo adquiere un color parduzco. Por extensión cualquier oscurecimiento parcial del sol durante el día debido a nubosidad en la atmósfera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Twilight moment when the sky assumes a tawny hue. By extension, any partial darkening of the sun during the day due to cloud cover in the atmosphere."
+  ],
   "source": "https://tesoro.pr"
 }

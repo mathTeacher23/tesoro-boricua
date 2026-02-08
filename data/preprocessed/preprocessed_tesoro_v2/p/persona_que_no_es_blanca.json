@@ -3,9 +3,12 @@
   "term": "persona que no es blanca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión eufemística para negro o prieto",
+      "consolidated_definition": "Expresión eufemística para negro o prieto.",
+      "en_consolidated_definition": "Eufemistic expression for black or dark-skinned person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Expresión eufemística para negro o prieto"
+    "Expresión eufemística para negro o prieto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Eufemistic expression for black or dark-skinned person."
+  ],
   "source": "https://tesoro.pr"
 }

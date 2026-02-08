@@ -3,9 +3,12 @@
   "term": "pay-per-view",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver pay per view",
+      "consolidated_definition": "Ver pay per view .",
+      "en_consolidated_definition": "Pay-per-view event.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver pay per view"
+    "Ver pay per view ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pay-per-view event."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "bateador, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Dep\": en el juego de béisbol, jugador que está en el turno de batear y toma posición en el área de bateo durante la ofensiva.",
+      "consolidated_definition": "En el beisbol, jugador que está en el turno de batear.",
+      "en_consolidated_definition": "Bateador en turno \n\nIn baseball, the player whose turn it is to bat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6738",
-        "semantic_similarity_score": 0.6738,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -42,15 +45,16 @@
           "bateo"
         ],
         "reference_definitions": [
-          "dep. En el juego de béisbol, jugador que está en la ofensiva y toma posición en el área de bateo. Frecuente. DRAE 2001. Compuestos: bateador designado, bateador emergente. También bate. Parece que se encontró como bateador, pues no ha parado de darle con fuerza a la bola",
           "En el beisbol, jugador que está en el turno de batear."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Dep\": en el juego de béisbol, jugador que está en el turno de batear y toma posición en el área de bateo durante la ofensiva."
+    "En el beisbol, jugador que está en el turno de batear."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bateador en turno \n\nIn baseball, the player whose turn it is to bat."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "sancochar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salcochar",
+      "consolidated_definition": "Cocer, especialmente verduras y carnes, con sal en agua hirviendo.",
+      "en_consolidated_definition": "To cook, especially vegetables and meats, in boiling salt water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4349",
-        "semantic_similarity_score": 0.4349,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -55,24 +58,22 @@
           "sancocho 1"
         ],
         "reference_definitions": [
-          "Salcochar, o cocer carnes, legumbres o viandas sólo con agua y sal. . “Y un día está el compae Conejillo sancochando unos huevos.” Ramírez, Folklore, 161.",
-          "Cocer total y plenamente alimentos, especialmente patatas y batatas.",
-          "prnl. Abrasarse de calor.",
-          "Voz usada en otros países de Hispanoamérica. Cocer un alimento con sólo hervirlo.",
-          "Escocerse. Irritarse la piel por el calor y la humedad.",
           "Cocer, especialmente verduras y carnes, con sal en agua hirviendo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Preparar la droga químicamente",
+      "consolidated_definition": "Preparar alguien droga por procedimientos químicos.",
+      "en_consolidated_definition": "To prepare someone a drug through chemical procedures.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.711",
-        "semantic_similarity_score": 0.711,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -102,16 +103,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Preparar la droga químicamente.",
           "Preparar alguien droga por procedimientos químicos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Salcochar",
-    "Preparar la droga químicamente"
+    "Cocer, especialmente verduras y carnes, con sal en agua hirviendo.",
+    "Preparar alguien droga por procedimientos químicos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To cook, especially vegetables and meats, in boiling salt water.",
+    "To prepare someone a drug through chemical procedures."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "zarcilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto silvestre de tronco y ramas frágiles",
+      "consolidated_definition": "Arbusto silvestre de tronco y ramas frágiles, de hojas menudas que echa una vaina con múltiples semillas. En terrenos no cultivados estos arbustos forman prontamente una maleza.",
+      "en_consolidated_definition": "Wild shrub with a fragile trunk and branches, bearing small leaves that enclose multiple seeds in a pod. In uncultivated areas, these shrubs quickly form a thicket or weed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Arbusto silvestre de tronco y ramas frágiles"
+    "Arbusto silvestre de tronco y ramas frágiles, de hojas menudas que echa una vaina con múltiples semillas. En terrenos no cultivados estos arbustos forman prontamente una maleza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wild shrub with a fragile trunk and branches, bearing small leaves that enclose multiple seeds in a pod. In uncultivated areas, these shrubs quickly form a thicket or weed."
+  ],
   "source": "https://tesoro.pr"
 }

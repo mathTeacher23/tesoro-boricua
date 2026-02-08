@@ -3,15 +3,18 @@
   "term": "acomodador, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jugador que acomoda la pelota en posición adecuada para realizar el remate en el voleibol.",
+      "consolidated_definition": "En el voleibol, jugador que acomoda la pelota para realizar el remate.",
+      "en_consolidated_definition": "Setter (volleyball): A player who sets the ball for a spike or attack.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Jugador que acomoda la pelota en posición adecuada para realizar el remate en el voleibol."
+    "En el voleibol, jugador que acomoda la pelota para realizar el remate."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Setter (volleyball): A player who sets the ball for a spike or attack."
+  ],
   "source": "https://tesoro.pr"
 }

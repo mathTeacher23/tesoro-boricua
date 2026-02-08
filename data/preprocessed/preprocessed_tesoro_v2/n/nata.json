@@ -3,9 +3,12 @@
   "term": "nata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De la leche del coco",
+      "consolidated_definition": "De la leche del coco, la grasa espesa que se recoge y de la cual se saca la manteca.",
+      "en_consolidated_definition": "The thick fat extracted from coconut milk, which is skimmed off and from which coconut butter is obtained.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Dícese de la cosa que es excelente",
+      "consolidated_definition": "Dícese de la cosa que es excelente.",
+      "en_consolidated_definition": "Something that is excellent.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "De la leche del coco",
-    "Dícese de la cosa que es excelente"
+    "De la leche del coco, la grasa espesa que se recoge y de la cual se saca la manteca.",
+    "Dícese de la cosa que es excelente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The thick fat extracted from coconut milk, which is skimmed off and from which coconut butter is obtained.",
+    "Something that is excellent."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "puerco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona desaseada",
+      "consolidated_definition": "Persona desaseada. “So puerco.” Agüero.",
+      "en_consolidated_definition": "Person of poor hygiene. \"So filthy.\" Agüero.\n\nNota: En este contexto, \"Agüero\" se refiere a una persona que es considerada desagradable o repulsiva debido a su apariencia o comportamiento.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pez",
+      "consolidated_definition": "Pez de la familia Balistidae (puercos). Balistes vetula. También llamado peje puerco.",
+      "en_consolidated_definition": "Fish of the family Balistidae (porkfish). Balistes vetula. Also known as peje puerco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3558",
-        "semantic_similarity_score": 0.3558,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.3545",
+        "semantic_similarity_score": 0.3545,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,14 +81,17 @@
         "related_words": [],
         "reference_definitions": [
           "Pez.",
-          "Pez de la familia Balistidae . Balistes vetuda. También llamado peje puerco."
+          "Pez de la familia Balistidae (puercos). Balistes vetuda. También llamado peje puerco."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Agente de la policía",
+      "consolidated_definition": "Agente de la policía. Detective. Policía encubierto.",
+      "en_consolidated_definition": "Law enforcement agent. Detective. Undercover police officer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -119,10 +128,14 @@
     }
   },
   "es_definitions": [
-    "Persona desaseada",
-    "Pez",
-    "Agente de la policía"
+    "Persona desaseada. “So puerco.” Agüero.",
+    "Pez de la familia Balistidae (puercos). Balistes vetula. También llamado peje puerco.",
+    "Agente de la policía. Detective. Policía encubierto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person of poor hygiene. \"So filthy.\" Agüero.\n\nNota: En este contexto, \"Agüero\" se refiere a una persona que es considerada desagradable o repulsiva debido a su apariencia o comportamiento.",
+    "Fish of the family Balistidae (porkfish). Balistes vetula. Also known as peje puerco.",
+    "Law enforcement agent. Detective. Undercover police officer."
+  ],
   "source": "https://tesoro.pr"
 }

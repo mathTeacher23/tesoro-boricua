@@ -3,14 +3,17 @@
   "term": "santería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Imaginería",
+      "consolidated_definition": "Artesanía de hacer imágenes de santos en madera.",
+      "en_consolidated_definition": "Woodcarving of images of saints.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.649",
-        "semantic_similarity_score": 0.649,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -43,21 +46,22 @@
           "santero, ra"
         ],
         "reference_definitions": [
-          "Imaginería. Artesanía de hacer santos de madera.",
-          "Tienda donde venden santos de todas clases.",
           "Artesanía de hacer imágenes de santos en madera."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Sistema de cultos que tiene como elemento esencial",
+      "consolidated_definition": "Sistema de cultos que tiene como elemento esencial la adoración de deidades surgidas del sincretismo entre creencias africanas y la religión católica.",
+      "en_consolidated_definition": "System of cults that has as its essential element the worship of deities arising from syncretism between African beliefs and Catholicism.\n\nNota: En este contexto, \"cultos\" se refiere a sistemas religiosos o prácticas espirituales no tradicionales, y \"sincretismo\" se utiliza para describir la fusión de creencias y prácticas diferentes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3348",
-        "semantic_similarity_score": 0.3348,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -81,16 +85,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Sistema de cultos que tiene como elemento esencial la adoración de deidades surgidas del sincretismo entre creencias africanas y la religión católica.",
-          "Conjunto de creencias en los poderes de los santos y en el de su intermediario o santero."
+          "Sistema de cultos que tiene como elemento esencial la adoración de deidades surgidas del sincretismo entre creencias africanas y la religión católica."
         ]
       }
     }
   },
   "es_definitions": [
-    "Imaginería",
-    "Sistema de cultos que tiene como elemento esencial"
+    "Artesanía de hacer imágenes de santos en madera.",
+    "Sistema de cultos que tiene como elemento esencial la adoración de deidades surgidas del sincretismo entre creencias africanas y la religión católica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Woodcarving of images of saints.",
+    "System of cults that has as its essential element the worship of deities arising from syncretism between African beliefs and Catholicism.\n\nNota: En este contexto, \"cultos\" se refiere a sistemas religiosos o prácticas espirituales no tradicionales, y \"sincretismo\" se utiliza para describir la fusión de creencias y prácticas diferentes."
+  ],
   "source": "https://tesoro.pr"
 }

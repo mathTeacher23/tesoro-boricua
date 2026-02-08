@@ -3,15 +3,18 @@
   "term": "pila",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Excremento",
+      "consolidated_definition": "Desecho humano que se elimina a través del proceso digestivo.",
+      "en_consolidated_definition": "Human waste eliminated through the digestive process.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4553",
-        "semantic_similarity_score": 0.4553,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4005",
+        "semantic_similarity_score": 0.4005,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -41,7 +44,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Excremento.",
+          "(popular) Excremento.",
           "Individuo sin capacidad, que no vale nada.",
           "Excremento apilado."
         ]
@@ -49,8 +52,10 @@
     }
   },
   "es_definitions": [
-    "Excremento"
+    "Desecho humano que se elimina a través del proceso digestivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Human waste eliminated through the digestive process."
+  ],
   "source": "https://tesoro.pr"
 }

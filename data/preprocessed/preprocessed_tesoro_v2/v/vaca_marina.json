@@ -3,9 +3,12 @@
   "term": "vaca marina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Manatus americanus",
+      "consolidated_definition": "Manatus americanus. Manatí, mamífero marino del trópico; comestible.",
+      "en_consolidated_definition": "West Indian manatee. A marine mammal of the tropics; edible.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Manatus americanus"
+    "Manatus americanus. Manatí, mamífero marino del trópico; comestible."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "West Indian manatee. A marine mammal of the tropics; edible."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "en compaña de",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Con",
+      "consolidated_definition": "Con. “En compaña de esa endina.” Méndez Quiñones.",
+      "en_consolidated_definition": "In company with that endina. Méndez Quiñones.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Con"
+    "Con. “En compaña de esa endina.” Méndez Quiñones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In company with that endina. Méndez Quiñones."
+  ],
   "source": "https://tesoro.pr"
 }

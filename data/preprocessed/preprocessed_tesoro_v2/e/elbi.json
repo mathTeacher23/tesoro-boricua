@@ -3,9 +3,12 @@
   "term": "elbi",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Órgano sexual masculino",
+      "consolidated_definition": "Órgano sexual masculino.",
+      "en_consolidated_definition": "Male reproductive organ.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Órgano sexual masculino"
+    "Órgano sexual masculino."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Male reproductive organ."
+  ],
   "source": "https://tesoro.pr"
 }

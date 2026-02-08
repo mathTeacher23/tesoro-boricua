@@ -3,9 +3,12 @@
   "term": "recogedor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver ranchador",
+      "consolidated_definition": "Ver ranchador .",
+      "en_consolidated_definition": "See ranchador.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,9 +28,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "El tiempo de recolección de las hojas del",
+      "consolidated_definition": "El tiempo de recolección de las hojas del tabaco ya plenamente desarrolladas; es tarea a cargo de los obreros llamados recogedores.",
+      "en_consolidated_definition": "The time of leaf collection from fully developed tobacco leaves; it is a task assigned to the workers known as recogedores.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -58,15 +64,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El tiempo de recolección de las hojas del tabaco ya plenamente desarrolladas; tarea a cargo de los obreros llamados recogedores."
+          "El tiempo de recolección de las hojas del tabaco ya plenamente desarrolladas; es tarea a cargo de los obreros llamados recogedores."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ver ranchador",
-    "El tiempo de recolección de las hojas del"
+    "Ver ranchador .",
+    "El tiempo de recolección de las hojas del tabaco ya plenamente desarrolladas; es tarea a cargo de los obreros llamados recogedores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See ranchador.",
+    "The time of leaf collection from fully developed tobacco leaves; it is a task assigned to the workers known as recogedores."
+  ],
   "source": "https://tesoro.pr"
 }

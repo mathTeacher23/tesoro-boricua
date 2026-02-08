@@ -3,9 +3,12 @@
   "term": "fabricar un caso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el argot policíaco",
+      "consolidated_definition": "En el argot policíaco, reunir falsas pruebas para involucrar a un inocente en un delito.",
+      "en_consolidated_definition": "To fabricate false evidence to implicate an innocent person in a crime, particularly within the context of police jargon.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En el argot policíaco"
+    "En el argot policíaco, reunir falsas pruebas para involucrar a un inocente en un delito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To fabricate false evidence to implicate an innocent person in a crime, particularly within the context of police jargon."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "hacha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Diente incisivo muy grande",
+      "consolidated_definition": "Diente incisivo notablemente grande, también conocido como 'jacha' en algunas regiones.",
+      "en_consolidated_definition": "Notablely large incisor tooth, also known as 'jacha' in some regions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6964",
         "semantic_similarity_score": 0.6964,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Diente incisivo muy grande"
+    "Diente incisivo notablemente grande, también conocido como 'jacha' en algunas regiones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Notablely large incisor tooth, also known as 'jacha' in some regions."
+  ],
   "source": "https://tesoro.pr"
 }

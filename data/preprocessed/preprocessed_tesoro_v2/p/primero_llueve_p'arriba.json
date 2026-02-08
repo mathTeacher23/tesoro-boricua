@@ -3,9 +3,12 @@
   "term": "primero llueve p'arriba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Significa ‘eso no ocurrirá jamás’",
+      "consolidated_definition": "Significa ‘eso no ocurrirá jamás’.",
+      "en_consolidated_definition": "That will never happen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Significa ‘eso no ocurrirá jamás’"
+    "Significa ‘eso no ocurrirá jamás’."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "That will never happen."
+  ],
   "source": "https://tesoro.pr"
 }

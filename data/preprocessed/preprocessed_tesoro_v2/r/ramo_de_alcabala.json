@@ -3,9 +3,12 @@
   "term": "ramo de alcabala",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Todas las rentas reales",
+      "consolidated_definition": "Todas las rentas reales, además de los diezmos que hoy corren por cuenta del Rey … consisten en el ramo de alcabala, que paga el dos y medio por ciento de las compras y ventas que se hacen en la Isla…",
+      "en_consolidated_definition": "All real revenues, in addition to the tithes currently borne by the King ..., consist of the alcabala branch, which pays a 2.5 percent tax on purchases and sales made on the Island...",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Todas las rentas reales, además de los diezmos que hoy corren por cuenta del Rey consisten en el ramo de alcabala, que paga el dos y medio por ciento de las compras y ventas que se hacen en la Isla…"
+          "Todas las rentas reales, además de los diezmos que hoy corren por cuenta del Rey … consisten en el ramo de alcabala, que paga el dos y medio por ciento de las compras y ventas que se hacen en la Isla…"
         ]
       }
     }
   },
   "es_definitions": [
-    "Todas las rentas reales"
+    "Todas las rentas reales, además de los diezmos que hoy corren por cuenta del Rey … consisten en el ramo de alcabala, que paga el dos y medio por ciento de las compras y ventas que se hacen en la Isla…"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "All real revenues, in addition to the tithes currently borne by the King ..., consist of the alcabala branch, which pays a 2.5 percent tax on purchases and sales made on the Island..."
+  ],
   "source": "https://tesoro.pr"
 }

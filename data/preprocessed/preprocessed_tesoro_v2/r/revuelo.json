@@ -3,15 +3,18 @@
   "term": "revuelo",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Golpe que da el gallo a su adversario en un brinco, sin asegurar el pico. Ac. .",
+      "consolidated_definition": "Golpe dado por un gallo en un brinco, sin asegurar su pico, comúnmente utilizado como táctica en las peleas entre gallitos.",
+      "en_consolidated_definition": "Peck given by a rooster in a jump, without securing its beak, commonly used as a tactic in fights between gamecocks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.783",
-        "semantic_similarity_score": 0.783,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.8578",
+        "semantic_similarity_score": 0.8578,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Golpe que da el gallo a su adversario en un brinco, sin asegurar el pico. Ac. .",
-          ". La primera acometida del gallo de pelea hecha aún sin trabar el pico, saltando en el aire."
+          "(T. en Arg., Chile, Cuba, Ecuad. y Perú). Golpe que da el gallo a su adversario en un brinco, sin asegurar el pico. Ac. (Así en Andalucía. Alcalá).",
+          "(T. en Arg., Chile, Cuba, Ecuad., Méx., Perú, Can. y And.). La primera acometida del gallo de pelea hecha aún sin trabar el pico, saltando en el aire."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Congestión estomacal que produce vómitos",
+      "consolidated_definition": "Congestión estomacal que produce vómitos.",
+      "en_consolidated_definition": "Gastric congestion that produces vomiting.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    ". Golpe que da el gallo a su adversario en un brinco, sin asegurar el pico. Ac. .",
-    "Congestión estomacal que produce vómitos"
+    "Golpe dado por un gallo en un brinco, sin asegurar su pico, comúnmente utilizado como táctica en las peleas entre gallitos.",
+    "Congestión estomacal que produce vómitos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Peck given by a rooster in a jump, without securing its beak, commonly used as a tactic in fights between gamecocks.",
+    "Gastric congestion that produces vomiting."
+  ],
   "source": "https://tesoro.pr"
 }

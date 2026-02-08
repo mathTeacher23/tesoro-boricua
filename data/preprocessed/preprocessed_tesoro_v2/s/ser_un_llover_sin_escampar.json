@@ -3,9 +3,12 @@
   "term": "ser un llover sin escampar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sucesión ininterrumpida de hechos",
+      "consolidated_definition": "Sucesión ininterrumpida de hechos, gastos, pérdidas, malos ratos, enfermedades, etc.",
+      "en_consolidated_definition": "Un continuo y incesante sucesión de eventos desafortunados, gastos, pérdidas, malos momentos, enfermedades, etc.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Sucesión ininterrumpida de hechos"
+    "Sucesión ininterrumpida de hechos, gastos, pérdidas, malos ratos, enfermedades, etc."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Un continuo y incesante sucesión de eventos desafortunados, gastos, pérdidas, malos momentos, enfermedades, etc."
+  ],
   "source": "https://tesoro.pr"
 }

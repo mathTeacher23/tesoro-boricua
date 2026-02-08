@@ -3,15 +3,18 @@
   "term": "cadena",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El fandango es un baile tradicional español derivado de las seguidillas.",
+      "consolidated_definition": "Baile de influencia española que consiste en entrelazar las manos de los bailarines para crear figuras.",
+      "en_consolidated_definition": "Dance of Spanish influence characterized by the interlacing of dancers' hands to create figures.\n\nNota: No se especifica que el baile sea de influencia española en particular, pero dado que es una definición del español puertorriqueño, asumiré que se refiere a un estilo de baile tradicional de la región.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.723",
-        "semantic_similarity_score": 0.723,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -53,24 +56,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Baile derivado de las seguidillas.",
-          "Baile de garabato. “Las cadenas, derivado de las seguidillas... es el baile más animado y vistoso de cuantos pertenecen a esta clase. Toman parte de él uno o varios grupos de cuatro parejas, las cuales hacen un número convenido de figuras hermosísimas, y ejecutadas con tal precisión y soltura que nadie conocería allí a los envarados y fríos danzantes del fandanguillo.” , p. 64. “Yo bailo el seis y la cadena —como en la tierra macarena —puede bailar un zapateo el más donoso bailarín.” Virgilio Dávila, Aromas del terruño, 1916, p. 50.",
-          "Baile de garabato, derivado de las seguidillas.",
-          "Antiguo baile derivado de la seguidilla y española.",
           "Baile de influencia española que consiste en entrelazar las manos de los bailarines para crear figuras."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "\"Romancero\": conjunto de coplas tradicionales cantadas por carreteros durante viajes largos para mantenerse despiertos y combatir el miedo a la soledad en los caminos.",
+      "consolidated_definition": "Copla derivada de las seguidillas que cantaban los jíbaros en los viajes largos para mantenerse despiertos.",
+      "en_consolidated_definition": "Seguidilla jíbara: a copla derived from seguidillas sung by jíbaros on long journeys to stay awake.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6745",
-        "semantic_similarity_score": 0.6745,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -98,21 +100,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Conjunto de coplas que cantaban los carreteros durante los viajes largos para mantenerse despiertos y alejar el miedo que les provocaba la soledad de los caminos.",
           "Copla derivada de las seguidillas que cantaban los jíbaros en los viajes largos para mantenerse despiertos."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Comunicado en cadena: sustantivo que designa un mensaje escrito enviado por una persona a varias, que deben reenviarlo a otras personas distintas.",
+      "consolidated_definition": "Oración escrita que una persona envía a varias personas y cada una de éstas debe enviar, a su vez, a otras diferentes, así sucesivamente.",
+      "en_consolidated_definition": "Chain letter written by an individual that is sent to multiple people, each of whom is expected to forward it to different recipients in a successive manner.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -143,8 +147,11 @@
     },
     "4": {
       "consolidated_definition": "El abrazo masónico es un gesto ritual que implica el abrazo fraternal entre iniciados en la masonería durante ciertas ceremonias y rituales.",
+      "en_consolidated_definition": "The Masonic Embrace is a ritual gesture that involves fraternal hugging between initiates of Freemasonry during certain ceremonies and rituals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -180,11 +187,16 @@
     }
   },
   "es_definitions": [
-    "El fandango es un baile tradicional español derivado de las seguidillas.",
-    "\"Romancero\": conjunto de coplas tradicionales cantadas por carreteros durante viajes largos para mantenerse despiertos y combatir el miedo a la soledad en los caminos.",
-    "Comunicado en cadena: sustantivo que designa un mensaje escrito enviado por una persona a varias, que deben reenviarlo a otras personas distintas.",
+    "Baile de influencia española que consiste en entrelazar las manos de los bailarines para crear figuras.",
+    "Copla derivada de las seguidillas que cantaban los jíbaros en los viajes largos para mantenerse despiertos.",
+    "Oración escrita que una persona envía a varias personas y cada una de éstas debe enviar, a su vez, a otras diferentes, así sucesivamente.",
     "El abrazo masónico es un gesto ritual que implica el abrazo fraternal entre iniciados en la masonería durante ciertas ceremonias y rituales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dance of Spanish influence characterized by the interlacing of dancers' hands to create figures.\n\nNota: No se especifica que el baile sea de influencia española en particular, pero dado que es una definición del español puertorriqueño, asumiré que se refiere a un estilo de baile tradicional de la región.",
+    "Seguidilla jíbara: a copla derived from seguidillas sung by jíbaros on long journeys to stay awake.",
+    "Chain letter written by an individual that is sent to multiple people, each of whom is expected to forward it to different recipients in a successive manner.",
+    "The Masonic Embrace is a ritual gesture that involves fraternal hugging between initiates of Freemasonry during certain ceremonies and rituals."
+  ],
   "source": "https://tesoro.pr"
 }

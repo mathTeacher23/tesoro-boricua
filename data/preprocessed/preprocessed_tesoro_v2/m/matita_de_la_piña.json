@@ -3,9 +3,12 @@
   "term": "matita de la piña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver mata de la piña",
+      "consolidated_definition": "Ver mata de la piña .",
+      "en_consolidated_definition": "See the pineapple plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver mata de la piña"
+    "Ver mata de la piña ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See the pineapple plant."
+  ],
   "source": "https://tesoro.pr"
 }

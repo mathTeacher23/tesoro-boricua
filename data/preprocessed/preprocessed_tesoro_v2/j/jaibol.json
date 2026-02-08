@@ -3,9 +3,12 @@
   "term": "jaibol",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bebida compuesta de un licor combinado con hielo",
+      "consolidated_definition": "Bebida compuesta de un licor combinado con hielo y agua con algún refresco.",
+      "en_consolidated_definition": "Mixed drink composed of a liquor combined with ice and water and some type of soda or tonic.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bebida compuesta de un licor combinado con hielo"
+    "Bebida compuesta de un licor combinado con hielo y agua con algún refresco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mixed drink composed of a liquor combined with ice and water and some type of soda or tonic."
+  ],
   "source": "https://tesoro.pr"
 }

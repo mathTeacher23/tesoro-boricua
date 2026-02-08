@@ -3,15 +3,18 @@
   "term": "calabazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una vasija hecha principalmente de la higüera, que se utiliza para almacenar agua en las viviendas rurales.",
+      "consolidated_definition": "Vasija hecha con la fruta de la higüera.",
+      "en_consolidated_definition": "Higuerilla container made from the fruit of the fig tree.\n\nNota: La \"higüera\" se refiere a un árbol de la familia de las caprifoliáceas que produce frutos comestibles, conocidos como higos o higuerillas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "num_cleaned_definitions": 11,
-        "definition_stability": "Stability: 0.5392",
-        "semantic_similarity_score": 0.5392,
-        "cluster_count": 11,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -81,30 +84,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Vasija hecha principalmente de la higüera. “Y tienes siempre en tu bohío —un calabazo de agua pura.” Llorens Torres, Campesina criolla.",
-          "Al calabacín largo y curvo producido por la planta llamada güiro se le dió alguna vez el mismo nombre de dicha planta, pero más frecuentemente fue denominado marimbo, calabazo y candungo. ... Al este, Trujillo Alto, Loíza y Medianía coincidieron en el nombre calabazo, recogido también aisladamente en Barros.",
-          "El calabacín. También carracho, carrache, carrach.",
-          "Recipiente hecho de higüera.",
-          "Higüera para cargar agua.",
-          "Una vasija que se hace con la higüera que los campesinos utilizan para cargar o conservar el agua.",
-          "Es de la higüera y se usa para llevar agua.",
-          "Vasija hecha de una güira que en Puerto Rico llamamos higüera.",
-          "Vasija hecha con la higüera llamada de Castilla. La usaban los campesinos para cargar agua.",
-          "Por ciertas localidades más bien interiores del país, candungo.",
           "Vasija hecha con la fruta de la higüera."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Güiro: instrumento musical tradicional hecho a partir de un calabacín largo, utilizado en rituales y bailes.",
+      "consolidated_definition": "m. Güiro o instrumento músico hecho de un calabacín largo. Ac. “Para dar principio al baile, los convidados se ponen al pie de la escalera, con las sonajas, calabazos, maracas y algún guitarrillo.” , cap. XXXI.",
+      "en_consolidated_definition": "Long calabash or musical instrument made from a long squash. \n\nNote: Para dar principio al baile, los convidados se ponen al pie de la escalera, con las sonajas, calabazos, maracas y algún guitarrillo.\n\nTranslation:\nTo give the start to the dance, the guests stand at the foot of the stairs, with the sleigh bells, long squash instruments, maracas and some small guitar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -132,15 +128,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "El gallo mamey se identifica por el color anaranjado de su plumaje.",
+      "consolidated_definition": "Identificación del gallo por el color anaranjado de su plumaje. Es el mismo gallo mamey.",
+      "en_consolidated_definition": "Identification of the rooster by its orange-colored plumage. It is the same as the mamey rooster.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -169,10 +168,14 @@
     }
   },
   "es_definitions": [
-    "Una vasija hecha principalmente de la higüera, que se utiliza para almacenar agua en las viviendas rurales.",
-    "Güiro: instrumento musical tradicional hecho a partir de un calabacín largo, utilizado en rituales y bailes.",
-    "El gallo mamey se identifica por el color anaranjado de su plumaje."
+    "Vasija hecha con la fruta de la higüera.",
+    "m. Güiro o instrumento músico hecho de un calabacín largo. Ac. “Para dar principio al baile, los convidados se ponen al pie de la escalera, con las sonajas, calabazos, maracas y algún guitarrillo.” , cap. XXXI.",
+    "Identificación del gallo por el color anaranjado de su plumaje. Es el mismo gallo mamey."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Higuerilla container made from the fruit of the fig tree.\n\nNota: La \"higüera\" se refiere a un árbol de la familia de las caprifoliáceas que produce frutos comestibles, conocidos como higos o higuerillas.",
+    "Long calabash or musical instrument made from a long squash. \n\nNote: Para dar principio al baile, los convidados se ponen al pie de la escalera, con las sonajas, calabazos, maracas y algún guitarrillo.\n\nTranslation:\nTo give the start to the dance, the guests stand at the foot of the stairs, with the sleigh bells, long squash instruments, maracas and some small guitar.",
+    "Identification of the rooster by its orange-colored plumage. It is the same as the mamey rooster."
+  ],
   "source": "https://tesoro.pr"
 }

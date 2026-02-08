@@ -3,9 +3,12 @@
   "term": "praletaria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver peletaria",
+      "consolidated_definition": "Ver peletaria .",
+      "en_consolidated_definition": "Ver peletaria.\n\nSeems like the definition is referring to \"ver peletería\", which means to see a fur shop or a store that sells furs and pelts. \n\nSee a fur shop.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver peletaria"
+    "Ver peletaria ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ver peletaria.\n\nSeems like the definition is referring to \"ver peletería\", which means to see a fur shop or a store that sells furs and pelts. \n\nSee a fur shop."
+  ],
   "source": "https://tesoro.pr"
 }

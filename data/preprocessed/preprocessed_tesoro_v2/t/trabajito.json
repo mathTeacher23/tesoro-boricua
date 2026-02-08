@@ -3,9 +3,12 @@
   "term": "trabajito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Maleficio",
+      "consolidated_definition": "(popular) Maleficio, brujo. También fufú, yacó.",
+      "en_consolidated_definition": "Maleficio, sorcerer (popular). Also fufú, yacó.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,20 +37,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Maleficio, brujo. También fufú, yacó."
+          "(popular) Maleficio, brujo. También fufú, yacó."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Nombre para el acto de robar",
+      "consolidated_definition": "El término se refiere a un sustantivo que designa el acto de tomar algo a alguien sin su consentimiento con la intención de apropiárselo.",
+      "en_consolidated_definition": "The term refers to a noun that designates the act of taking something from someone without their consent with the intention of appropriating it.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si necesitas traducir otros términos, por favor házmelo saber.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5783",
         "semantic_similarity_score": 0.5783,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -79,9 +85,12 @@
     }
   },
   "es_definitions": [
-    "Maleficio",
-    "Nombre para el acto de robar"
+    "(popular) Maleficio, brujo. También fufú, yacó.",
+    "El término se refiere a un sustantivo que designa el acto de tomar algo a alguien sin su consentimiento con la intención de apropiárselo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maleficio, sorcerer (popular). Also fufú, yacó.",
+    "The term refers to a noun that designates the act of taking something from someone without their consent with the intention of appropriating it.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si necesitas traducir otros términos, por favor házmelo saber."
+  ],
   "source": "https://tesoro.pr"
 }

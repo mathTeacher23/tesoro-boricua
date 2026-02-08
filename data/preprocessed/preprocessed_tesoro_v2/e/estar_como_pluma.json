@@ -3,9 +3,12 @@
   "term": "estar como pluma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar con diarreas",
+      "consolidated_definition": "Estar con diarreas. Estar muy débil por convalecer de una enfermedad o por estar muy flaco.",
+      "en_consolidated_definition": "To be suffering from diarrhea. To be extremely weak due to recovering from an illness or being very thin.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Estar con diarreas"
+    "Estar con diarreas. Estar muy débil por convalecer de una enfermedad o por estar muy flaco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be suffering from diarrhea. To be extremely weak due to recovering from an illness or being very thin."
+  ],
   "source": "https://tesoro.pr"
 }

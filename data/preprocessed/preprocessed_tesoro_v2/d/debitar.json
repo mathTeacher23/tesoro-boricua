@@ -3,9 +3,12 @@
   "term": "debitar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cargar una cantidad de dinero en el debe",
+      "consolidated_definition": "Cargar una cantidad de dinero en el debe de una cuenta.",
+      "en_consolidated_definition": "To deposit a sum of money into the debit side of an account.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Cargar una cantidad de dinero en el debe"
+    "Cargar una cantidad de dinero en el debe de una cuenta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To deposit a sum of money into the debit side of an account."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "marcador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rotulador",
+      "consolidated_definition": "Rotulador, instrumento semejante al bolígrafo que escribe o dibuja con un trazo ancho mediante una punta gruesa de fieltro u otro material.",
+      "en_consolidated_definition": "Marker, an instrument similar to a ballpoint pen that writes or draws with a broad stroke using a thick felt tip or other material.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Rotulador"
+    "Rotulador, instrumento semejante al bolígrafo que escribe o dibuja con un trazo ancho mediante una punta gruesa de fieltro u otro material."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marker, an instrument similar to a ballpoint pen that writes or draws with a broad stroke using a thick felt tip or other material."
+  ],
   "source": "https://tesoro.pr"
 }

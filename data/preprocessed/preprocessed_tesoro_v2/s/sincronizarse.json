@@ -3,9 +3,12 @@
   "term": "sincronizarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar al tanto",
+      "consolidated_definition": "Estar al tanto. Ubicarse.",
+      "en_consolidated_definition": "To be informed. To be located or situated.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Estar al tanto"
+    "Estar al tanto. Ubicarse."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be informed. To be located or situated."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "andullo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Zorullo de tamarindo\": preparado de frutas de tamarindo sin cáscara envuelto en hoja de plátano.",
+      "consolidated_definition": "\"Zorullo de tamarindo\": preparado de frutas de tamarindo sin cáscara envuelto en hoja seca de plátano.",
+      "en_consolidated_definition": "Tamarind tamarillo wrap: preparation of skinless tamarind fruits wrapped in dry banana leaf.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
         "num_cleaned_definitions": 11,
@@ -103,8 +106,11 @@
     },
     "2": {
       "consolidated_definition": "Traje mal confeccionado: Vestimenta que no se ajusta adecuadamente al cuerpo del portador debido a un proceso de confección defectuoso o inadecuado.",
+      "en_consolidated_definition": "Poorly tailored garment: Attire that does not fit the wearer's body properly due to a defective or inadequate manufacturing process.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -139,15 +145,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Cilindro de pasta de tabaco enrollado, a veces con aditivos edulcorantes, que se masca o se fuma en pipa.",
+      "consolidated_definition": "Cilindro largo de pasta de tabaco enrollada, en ocasiones con una sustancia edulcorante, que se masca o se fuma en pipa.",
+      "en_consolidated_definition": "Long cylindrical roll of tobacco paste, sometimes with a sweetening substance, that is chewed or smoked in a pipe.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -176,10 +185,14 @@
     }
   },
   "es_definitions": [
-    "\"Zorullo de tamarindo\": preparado de frutas de tamarindo sin cáscara envuelto en hoja de plátano.",
+    "\"Zorullo de tamarindo\": preparado de frutas de tamarindo sin cáscara envuelto en hoja seca de plátano.",
     "Traje mal confeccionado: Vestimenta que no se ajusta adecuadamente al cuerpo del portador debido a un proceso de confección defectuoso o inadecuado.",
-    "Cilindro de pasta de tabaco enrollado, a veces con aditivos edulcorantes, que se masca o se fuma en pipa."
+    "Cilindro largo de pasta de tabaco enrollada, en ocasiones con una sustancia edulcorante, que se masca o se fuma en pipa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tamarind tamarillo wrap: preparation of skinless tamarind fruits wrapped in dry banana leaf.",
+    "Poorly tailored garment: Attire that does not fit the wearer's body properly due to a defective or inadequate manufacturing process.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada.",
+    "Long cylindrical roll of tobacco paste, sometimes with a sweetening substance, that is chewed or smoked in a pipe."
+  ],
   "source": "https://tesoro.pr"
 }

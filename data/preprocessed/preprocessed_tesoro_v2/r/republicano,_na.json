@@ -3,14 +3,17 @@
   "term": "republicano, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estadista",
+      "consolidated_definition": "Referido a persona, estadista, partidaria de la anexión de Puerto Rico a los Estados Unidos en calidad de Estado federal.",
+      "en_consolidated_definition": "Referent to a person or statesman in favor of the annexation of Puerto Rico as a federal state of the United States.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.706",
-        "semantic_similarity_score": 0.706,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -52,17 +55,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Estadista, partidario de la anexión de la Isla de Puerto Rico a los Estados Unidos como estado federal.",
-          "Persona que cree y propugna por la anexión de Puerto Rico a los Estados Unidos como estado.",
-          "Miembro del partido republicano de los Estados Unidos. Desvío semántico, usual. DRAE 2001: partidario o perteneciente a una república. Cuando me preguntan por qué soy republicano, contesto que los valores de mi familia son los valores del partido republicano",
           "Referido a persona, estadista, partidaria de la anexión de Puerto Rico a los Estados Unidos en calidad de Estado federal."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estadista"
+    "Referido a persona, estadista, partidaria de la anexión de Puerto Rico a los Estados Unidos en calidad de Estado federal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referent to a person or statesman in favor of the annexation of Puerto Rico as a federal state of the United States."
+  ],
   "source": "https://tesoro.pr"
 }

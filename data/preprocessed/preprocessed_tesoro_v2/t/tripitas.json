@@ -3,9 +3,12 @@
   "term": "tripitas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fruta de sartén hecha con tripas de cerdo",
+      "consolidated_definition": "Fruta de sartén hecha con tripas de cerdo bien tostadas.",
+      "en_consolidated_definition": "Sarteneada de tripa de cerdo: a type of fried dish made with well-toasted pig intestines.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Fruta de sartén hecha con tripas de cerdo"
+    "Fruta de sartén hecha con tripas de cerdo bien tostadas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sarteneada de tripa de cerdo: a type of fried dish made with well-toasted pig intestines."
+  ],
   "source": "https://tesoro.pr"
 }

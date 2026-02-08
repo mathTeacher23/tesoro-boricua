@@ -3,9 +3,12 @@
   "term": "gajo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Racimo de frutas",
+      "consolidated_definition": "Racimo de frutas.",
+      "en_consolidated_definition": "Cluster of fruits.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Racimo de frutas"
+    "Racimo de frutas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cluster of fruits."
+  ],
   "source": "https://tesoro.pr"
 }

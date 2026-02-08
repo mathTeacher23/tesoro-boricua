@@ -3,9 +3,12 @@
   "term": "eflecar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pegar",
+      "consolidated_definition": "Pegar. Castigar a alguien propinándole azotes.",
+      "en_consolidated_definition": "Flogear. To flog or whip someone as a form of punishment.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Pegar"
+    "Pegar. Castigar a alguien propinándole azotes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flogear. To flog or whip someone as a form of punishment."
+  ],
   "source": "https://tesoro.pr"
 }

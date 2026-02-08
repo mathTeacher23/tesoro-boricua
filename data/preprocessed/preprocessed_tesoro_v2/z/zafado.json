@@ -3,9 +3,12 @@
   "term": "zafado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se aplica al gallo que pica sin fuerza",
+      "consolidated_definition": "Se aplica al gallo que pica sin fuerza “a medio pie”, “a punta de pico”.",
+      "en_consolidated_definition": "This term applies to a rooster that pecks weakly \"on tiptoe\", \"at the tip of its beak\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Se aplica al gallo que pica sin fuerza"
+    "Se aplica al gallo que pica sin fuerza “a medio pie”, “a punta de pico”."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This term applies to a rooster that pecks weakly \"on tiptoe\", \"at the tip of its beak\"."
+  ],
   "source": "https://tesoro.pr"
 }

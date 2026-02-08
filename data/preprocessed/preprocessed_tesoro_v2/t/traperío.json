@@ -3,9 +3,12 @@
   "term": "traperío",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trapería",
+      "consolidated_definition": "Trapería. Conjunto de ropa en mal estado, vieja o pasada de moda.",
+      "en_consolidated_definition": "Second-hand clothing or outdated attire in poor condition.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Trapería"
+    "Trapería. Conjunto de ropa en mal estado, vieja o pasada de moda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Second-hand clothing or outdated attire in poor condition."
+  ],
   "source": "https://tesoro.pr"
 }

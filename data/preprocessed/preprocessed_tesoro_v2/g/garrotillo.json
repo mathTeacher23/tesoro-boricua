@@ -3,9 +3,12 @@
   "term": "garrotillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Difteria grave u otra forma de angina maligna",
+      "consolidated_definition": "Difteria grave u otra forma de angina maligna que solía producir la muerte por sofocación.",
+      "en_consolidated_definition": "Diphtheritic angina or other malignant form of angina that formerly caused death by asphyxiation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Difteria grave u otra forma de angina maligna"
+    "Difteria grave u otra forma de angina maligna que solía producir la muerte por sofocación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Diphtheritic angina or other malignant form of angina that formerly caused death by asphyxiation."
+  ],
   "source": "https://tesoro.pr"
 }

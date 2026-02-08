@@ -3,14 +3,17 @@
   "term": "freezer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Congelador de la nevera, relacionado con un mecanismo",
+      "consolidated_definition": "Compartimento de un refrigerador donde se produce hielo y se guardan los alimentos cuya conservación requiere temperatura más baja.",
+      "en_consolidated_definition": "Freezer compartment of a refrigerator where ice is produced and perishable foods requiring lower temperatures are stored.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 12,
-        "num_cleaned_definitions": 12,
-        "definition_stability": "Stability: 0.5909",
-        "semantic_similarity_score": 0.5909,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -86,25 +89,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Congelador de la nevera.",
-          "Congelador.",
-          "Congelador.",
-          "Congelador.",
-          "Congelador.",
-          "Congelador.",
-          "La sección del refrigerador que sirve para congelar.",
-          "Congelador.",
-          "Congelador, refrigerador.",
-          "Refrigerador eléctrico en el cual la comida se almacena congelada. Anglicismo crudo, usual. Se envía un mensaje contundente al PPD de que las finanzas de los partidos políticos no se pueden manejar como las finanzas del anciano que guardaba miles de dólares en un freezer",
-          "Compartimento de un refrigerador donde se produce hielo y se guardan los alimentos cuya conservación requiere temperatura más baja.",
-          "Congelador, aparato para conservar productos a baja temperatura."
+          "Compartimento de un refrigerador donde se produce hielo y se guardan los alimentos cuya conservación requiere temperatura más baja."
         ]
       }
     }
   },
   "es_definitions": [
-    "Congelador de la nevera, relacionado con un mecanismo"
+    "Compartimento de un refrigerador donde se produce hielo y se guardan los alimentos cuya conservación requiere temperatura más baja."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Freezer compartment of a refrigerator where ice is produced and perishable foods requiring lower temperatures are stored."
+  ],
   "source": "https://tesoro.pr"
 }

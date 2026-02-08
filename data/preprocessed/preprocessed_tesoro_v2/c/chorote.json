@@ -3,15 +3,18 @@
   "term": "chorote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gofio: Bebida tradicional hecha a partir del gofio, un tipo de harina fina y tostada.",
+      "consolidated_definition": "Café hecho con maíz, palmiche, gandules u otros granos.",
+      "en_consolidated_definition": "Corn coffee made with maize, palmiche, pigeon peas or other grains.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 17,
-        "num_cleaned_definitions": 17,
-        "definition_stability": "Stability: 0.5173",
-        "semantic_similarity_score": 0.5173,
-        "cluster_count": 15,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,36 +85,23 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Café que se hace de maíz, palmiche, gandules u otros granos.",
-          ". Cualquier bebida sin fuerza ni sustancia; aguachirle, achicoria. “Vi la olla de chocolate que hervía... Cuando salí ya el jíbaro tenía en el estómago el enorme jicarazo de chorote.’ Daubón, Cosas de , p. 249.",
-          "(general) Bebida que se hace con gofio y leche.",
-          "Café preparado a base de maíz tostado y molido; “un traguito de chorote”. Malaret da esta misma acepción, Vocabulario, 142. También llaman chorote los campesinos de la región de Ponce al café prieto en general o al chocolate de cacao.",
-          "Bebida que se hace con gofio y leche.",
-          "Bebida campesina, hecha a base de maíz, gandules y la semilla seca de la planta de hedionda. Se utilizaba como sustituto del café.",
-          "Café ralo o con hedionda.",
-          "Café mezclado y molido junto con maíz para que rinda más.",
-          "Maíz tostado, molido, hervido y colado que sustituye al café. Lo llaman también “pingolo”.",
-          "Bebida sustituta del café, hecha con harina de maíz, garbanzos o semillas de hedionda.",
-          "Bebida a base de maíz, gandules y hedionda, sustituto del café.",
-          "Bebida de ajonjolí tostado y luego hervido, tomada caliente con azúcar.",
-          "Cierta imitación de harina de café que se hace a base de moler determinada mezcla de granos tostados: de maíz, palmiche, gandules y otros. También pingolo.",
-          "Café hecho con maíz, palmiche, gandules u otros granos.",
-          "Bebida de cualquier tipo sin sustancia ni fuerza.",
-          "Bebida que se hace con gofio y leche.",
-          "Ajonjolí tostado y hervido en leche."
+          "Café hecho con maíz, palmiche, gandules u otros granos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "\"Chorote\": término regional que se refiere a un frío intenso.",
+      "consolidated_definition": "Otros llaman chorote al frío intenso.",
+      "en_consolidated_definition": "Others refer to intense cold as chorote.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -139,15 +129,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Foete de montar: Látigo utilizado en el ámbito ecuestre para dar impulsos al caballo.",
+      "consolidated_definition": "Látigo.",
+      "en_consolidated_definition": "Whip \n\nNota: En algunos contextos culturales de Puerto Rico, \"látigo\" puede referirse a un tipo de instrumento musical tradicional, pero en su sentido más general, se refiere a una herramienta utilizada para azotar o castigar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4013",
-        "semantic_similarity_score": 0.4013,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -175,22 +168,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Foete de montar.",
-          "Un foete que recibe el nombre de chicote.",
           "Látigo."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "Cera endurecida con pez griega que se utiliza para preparar un hilo resistente empleado por los zapateros para coser las suelas. Cerote.",
+      "consolidated_definition": "Cera endurecida con pez griega para preparar el hilo que usan los zapateros para coser las suelas. Cerote.",
+      "en_consolidated_definition": "Hardened wax with Greek pitch to prepare the thread used by shoemakers to sew soles. Cerote.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -219,11 +213,16 @@
     }
   },
   "es_definitions": [
-    "Gofio: Bebida tradicional hecha a partir del gofio, un tipo de harina fina y tostada.",
-    "\"Chorote\": término regional que se refiere a un frío intenso.",
-    "Foete de montar: Látigo utilizado en el ámbito ecuestre para dar impulsos al caballo.",
-    "Cera endurecida con pez griega que se utiliza para preparar un hilo resistente empleado por los zapateros para coser las suelas. Cerote."
+    "Café hecho con maíz, palmiche, gandules u otros granos.",
+    "Otros llaman chorote al frío intenso.",
+    "Látigo.",
+    "Cera endurecida con pez griega para preparar el hilo que usan los zapateros para coser las suelas. Cerote."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Corn coffee made with maize, palmiche, pigeon peas or other grains.",
+    "Others refer to intense cold as chorote.",
+    "Whip \n\nNota: En algunos contextos culturales de Puerto Rico, \"látigo\" puede referirse a un tipo de instrumento musical tradicional, pero en su sentido más general, se refiere a una herramienta utilizada para azotar o castigar.",
+    "Hardened wax with Greek pitch to prepare the thread used by shoemakers to sew soles. Cerote."
+  ],
   "source": "https://tesoro.pr"
 }

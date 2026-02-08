@@ -3,9 +3,12 @@
   "term": "invasión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ocupación ilegal de un terreno para construir en",
+      "consolidated_definition": "Ocupación ilegal de un terreno para construir en él infraviviendas.",
+      "en_consolidated_definition": "Illicit occupation of a plot of land for the construction of informal dwellings.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Ocupación ilegal de un terreno para construir en"
+    "Ocupación ilegal de un terreno para construir en él infraviviendas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Illicit occupation of a plot of land for the construction of informal dwellings."
+  ],
   "source": "https://tesoro.pr"
 }

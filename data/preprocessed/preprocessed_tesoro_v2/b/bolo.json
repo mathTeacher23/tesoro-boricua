@@ -3,15 +3,18 @@
   "term": "bolo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre festivo para referirse al dólar o a otras monedas, similar a expresiones como 'coco' o 'machacante'.",
+      "consolidated_definition": ". Nombre festivo del dólar, al igual que coco, machacante y otros. Ac.",
+      "en_consolidated_definition": "Festive name for the dollar, similar to coco, machacante and others. Ac.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Un estaca es un pedazo de madera utilizado en la agrimensura para marcar puntos y referencias precisas.",
+      "consolidated_definition": "Pedazo de madera que sirve para marcar puntos en la agrimensura.",
+      "en_consolidated_definition": "Wooden marker used in surveying to mark points.\n\nNota: En este caso, \"pedazo de madera\" se traduce directamente a \"wooden\", ya que el término es genérico y no específico de Puerto Rico. Si hubiera sido un término cultural o geográficamente específico, habría sido necesario preservar el contexto en la traducción.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,15 +81,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Píldora medicinal utilizada para tratar la infestación intestinal en ganado.",
+      "consolidated_definition": "Píldora que se da a las reses para combatir los parásitos intestinales.",
+      "en_consolidated_definition": "Anthelmintic tablet administered to cattle to combat intestinal parasites.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8906",
-        "semantic_similarity_score": 0.8906,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -113,21 +122,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Píldora medicinal que se da a las reses por lo regular para combatir los parásitos intestinales.",
           "Píldora que se da a las reses para combatir los parásitos intestinales."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "\"Número de lotería\": entero aleatorio asignado a un boleto o participante en un sorteo de lotería.",
+      "consolidated_definition": "Número de lotería.",
+      "en_consolidated_definition": "Lottery number",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -158,11 +169,16 @@
     }
   },
   "es_definitions": [
-    "Nombre festivo para referirse al dólar o a otras monedas, similar a expresiones como 'coco' o 'machacante'.",
-    "Un estaca es un pedazo de madera utilizado en la agrimensura para marcar puntos y referencias precisas.",
-    "Píldora medicinal utilizada para tratar la infestación intestinal en ganado.",
-    "\"Número de lotería\": entero aleatorio asignado a un boleto o participante en un sorteo de lotería."
+    ". Nombre festivo del dólar, al igual que coco, machacante y otros. Ac.",
+    "Pedazo de madera que sirve para marcar puntos en la agrimensura.",
+    "Píldora que se da a las reses para combatir los parásitos intestinales.",
+    "Número de lotería."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Festive name for the dollar, similar to coco, machacante and others. Ac.",
+    "Wooden marker used in surveying to mark points.\n\nNota: En este caso, \"pedazo de madera\" se traduce directamente a \"wooden\", ya que el término es genérico y no específico de Puerto Rico. Si hubiera sido un término cultural o geográficamente específico, habría sido necesario preservar el contexto en la traducción.",
+    "Anthelmintic tablet administered to cattle to combat intestinal parasites.",
+    "Lottery number"
+  ],
   "source": "https://tesoro.pr"
 }

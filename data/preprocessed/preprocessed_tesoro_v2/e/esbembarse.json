@@ -3,9 +3,12 @@
   "term": "esbembarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caer una prenda de vestir de manera irregular",
+      "consolidated_definition": "Caer una prenda de vestir de manera irregular, quedando un lado más largo que otro.",
+      "en_consolidated_definition": "To fall out of a garment in an irregular manner, resulting in one side being longer than the other.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Caer una prenda de vestir de manera irregular"
+    "Caer una prenda de vestir de manera irregular, quedando un lado más largo que otro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To fall out of a garment in an irregular manner, resulting in one side being longer than the other."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "boto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un gallo que no es hábil en el tiro de la espuela, también conocido como macetero, palero o marrullero.",
+      "consolidated_definition": "Gallo poco diestro en el tiro de la espuela.",
+      "en_consolidated_definition": "Inexperienced rooster in the spur shot.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8349",
-        "semantic_similarity_score": 0.8349,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Gallo poco diestro en el tiro de la espuela. También se le llama macetero, palero y marrullero. Prefiere atacar con las patas.",
           "Gallo poco diestro en el tiro de la espuela."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "El lomo del machete se refiere a la parte no cortante de la hoja.",
+      "consolidated_definition": "Lomo o filo no cortante de la hoja de un machete.",
+      "en_consolidated_definition": "Blunt edge or uncut bevel of a machete blade.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6974",
-        "semantic_similarity_score": 0.6974,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -91,18 +96,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El lomo del machete.",
-          "Lado contrario al filo del machete. También lomo o romo.",
-          "El lomo no cortante de la hoja.",
           "Lomo o filo no cortante de la hoja de un machete."
         ]
       }
     }
   },
   "es_definitions": [
-    "Un gallo que no es hábil en el tiro de la espuela, también conocido como macetero, palero o marrullero.",
-    "El lomo del machete se refiere a la parte no cortante de la hoja."
+    "Gallo poco diestro en el tiro de la espuela.",
+    "Lomo o filo no cortante de la hoja de un machete."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Inexperienced rooster in the spur shot.",
+    "Blunt edge or uncut bevel of a machete blade."
+  ],
   "source": "https://tesoro.pr"
 }

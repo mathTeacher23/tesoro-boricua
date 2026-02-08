@@ -3,15 +3,18 @@
   "term": "caballito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Heroína: sustancia química derivada del opio.",
+      "consolidated_definition": "Heroína.",
+      "en_consolidated_definition": "Heroine (n.) \n\nA female given name derived from the Greek word for \"heroine\" or \"daughter of an hero\". In Puerto Rico, it can also refer to a woman who is considered a heroine or a legendary figure in the island's history and culture.\n\nNote: La definición original en español incluye el término \"Heroína\", que puede referirse tanto al medicamento como a la mujer considerada una heroína. Sin embargo, para mantener la precisión y claridad, se ha optado por traducirlo como \"heroine\" (n.) y agregar una nota explicativa sobre su posible referencia en el contexto de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Heroína.",
           "Heroína."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Tiovivo: dispositivo de diversión mecánico que consiste en un carrusel con figuras o caballitos girando alrededor de un eje central.",
+      "en_consolidated_definition": "Merry-go-round: mechanical amusement device consisting of a carousel with figures or horseback riders rotating around a central axis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -89,9 +94,12 @@
     }
   },
   "es_definitions": [
-    "Heroína: sustancia química derivada del opio.",
+    "Heroína.",
     "Tiovivo: dispositivo de diversión mecánico que consiste en un carrusel con figuras o caballitos girando alrededor de un eje central."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Heroine (n.) \n\nA female given name derived from the Greek word for \"heroine\" or \"daughter of an hero\". In Puerto Rico, it can also refer to a woman who is considered a heroine or a legendary figure in the island's history and culture.\n\nNote: La definición original en español incluye el término \"Heroína\", que puede referirse tanto al medicamento como a la mujer considerada una heroína. Sin embargo, para mantener la precisión y claridad, se ha optado por traducirlo como \"heroine\" (n.) y agregar una nota explicativa sobre su posible referencia en el contexto de Puerto Rico.",
+    "Merry-go-round: mechanical amusement device consisting of a carousel with figures or horseback riders rotating around a central axis."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "jornal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Material compuesto de 300 mazos de paja seca",
+      "consolidated_definition": "Material compuesto de 300 mazos de paja seca de caña, yerba inea, etc., que se usaban para techar bohíos, ranchos, y cualquier otra estructura.",
+      "en_consolidated_definition": "Material composed of 300 bundles of dry cane straw, inea grass, etc., used for thatching bohíos, ranches, and any other structure.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Material compuesto de 300 mazos de paja seca"
+    "Material compuesto de 300 mazos de paja seca de caña, yerba inea, etc., que se usaban para techar bohíos, ranchos, y cualquier otra estructura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Material composed of 300 bundles of dry cane straw, inea grass, etc., used for thatching bohíos, ranches, and any other structure."
+  ],
   "source": "https://tesoro.pr"
 }

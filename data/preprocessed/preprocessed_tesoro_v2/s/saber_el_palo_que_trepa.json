@@ -3,9 +3,12 @@
   "term": "saber el palo que trepa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Saber con quién se mete uno",
+      "consolidated_definition": "Saber con quién se mete uno.",
+      "en_consolidated_definition": "Conocer a quién se mete uno.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Saber con quién se mete uno"
+    "Saber con quién se mete uno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conocer a quién se mete uno."
+  ],
   "source": "https://tesoro.pr"
 }

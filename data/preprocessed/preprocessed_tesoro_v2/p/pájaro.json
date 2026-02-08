@@ -3,9 +3,12 @@
   "term": "pájaro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona importante",
+      "consolidated_definition": "Persona importante.",
+      "en_consolidated_definition": "Person of prominence.\n\nNota: En este contexto, \"person of prominence\" se refiere a una persona importante o destacada en su campo o comunidad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Por razones eufemísticas",
+      "consolidated_definition": "Denominación eufemística para un pájaro y pajarito.",
+      "en_consolidated_definition": "Euphemistic designation for a bird and its young.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.2913",
-        "semantic_similarity_score": 0.2913,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.2898",
+        "semantic_similarity_score": 0.2898,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -80,16 +86,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Por razones eufemísticas, pájaro y pajarito se usan en vez de bicho y bichito como nombres genéricos , ya que bicho es palabra obscena en toda la isla.",
+          "Por razones eufemísticas, pájaro y pajarito se usan en vez de bicho y bichito como nombres genéricos …, ya que bicho es palabra obscena en toda la isla.",
           "Órgano sexual masculino.",
           "Pene. Falo."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Homosexual",
+      "consolidated_definition": "Homosexual.",
+      "en_consolidated_definition": "Homosexual individual or person who experiences romantic or sexual attraction to members of the same sex.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -124,10 +133,14 @@
     }
   },
   "es_definitions": [
-    "Persona importante",
-    "Por razones eufemísticas",
-    "Homosexual"
+    "Persona importante.",
+    "Denominación eufemística para un pájaro y pajarito.",
+    "Homosexual."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person of prominence.\n\nNota: En este contexto, \"person of prominence\" se refiere a una persona importante o destacada en su campo o comunidad.",
+    "Euphemistic designation for a bird and its young.",
+    "Homosexual individual or person who experiences romantic or sexual attraction to members of the same sex."
+  ],
   "source": "https://tesoro.pr"
 }

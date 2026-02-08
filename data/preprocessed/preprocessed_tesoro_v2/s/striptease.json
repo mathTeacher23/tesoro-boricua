@@ -3,9 +3,12 @@
   "term": "striptease",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver strip tease",
+      "consolidated_definition": "Ver strip tease .",
+      "en_consolidated_definition": "Perform a striptease.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver strip tease"
+    "Ver strip tease ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Perform a striptease."
+  ],
   "source": "https://tesoro.pr"
 }

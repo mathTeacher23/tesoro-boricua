@@ -3,9 +3,12 @@
   "term": "hetiquencia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tuberculosis",
+      "consolidated_definition": "Tuberculosis.",
+      "en_consolidated_definition": "Tuberculosis.\n\nPulmonary tuberculosis is a bacterial infection caused by Mycobacterium tuberculosis that primarily affects the lungs but can also affect other parts of the body.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Tuberculosis"
+    "Tuberculosis."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tuberculosis.\n\nPulmonary tuberculosis is a bacterial infection caused by Mycobacterium tuberculosis that primarily affects the lungs but can also affect other parts of the body."
+  ],
   "source": "https://tesoro.pr"
 }

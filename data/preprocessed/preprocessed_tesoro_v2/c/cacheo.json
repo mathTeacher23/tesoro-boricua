@@ -3,15 +3,18 @@
   "term": "cacheo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bebida de palma: líquido extraído del fruto de una variedad de palma, utilizado como fuente de energía y alimento en algunas regiones; tiene propiedades diuréticas.",
+      "consolidated_definition": "Bebida refrescante fermentada que se prepara con la médula de una variedad de palma del mismo nombre; tiene propiedades diuréticas.",
+      "en_consolidated_definition": "Fermented refreshing beverage prepared with the sap of a palm tree variety of the same name; possesses diuretic properties.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5554",
-        "semantic_similarity_score": 0.5554,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,21 +46,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bebida de palma.",
           "Bebida refrescante fermentada que se prepara con la médula de una variedad de palma del mismo nombre; tiene propiedades diuréticas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Árbol de la familia Arecaceae, caracterizado por un tronco abultado y hojas colgantes, que contiene un líquido azucarado en su médula; en la médula del tronco contiene un líquido azucarado que, después de fermentado, constituye el guarapo cacheo. Arecaceae, Pseudophoenix vinifera.",
+      "consolidated_definition": "Palma de hasta 25 m, con el tronco abultado hacia el centro, largas hojas colgantes e inflorescencia corta y compacta; en la médula del tronco contiene un líquido azucarado que, después de fermentado, constituye el guarapo cacheo. Arecaceae, Pseudophoenix vinifera.",
+      "en_consolidated_definition": "Palm tree up to 25 m in height, with swollen trunk towards the center, long hanging leaves and short and compact inflorescence; within the pith of the trunk contains a sweet liquid that, after fermentation, constitutes cachazo juice. Arecaceae, Pseudophoenix vinifera.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -85,15 +90,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Cacheo: acción de realizar un registro personal por parte de autoridades penitenciarias o policía.",
+      "consolidated_definition": "Registro policíaco. Acción de registrar a una persona o una vivienda por la policía. Anglicismo adaptado, usual. Ayer, la Administradora de Corrección explicó que el motín del jueves se originó cuando un confinado estaba siendo intervenido por un guardia penal, haciéndole un cacheo (registro personal) para llevarlo de la población al área administrativa (El Nuevo Día, 10-06-90)",
+      "en_consolidated_definition": "Police record. Act of registering a person or residence by the police. Adapted anglicism, commonly used.\n\nAction taken by law enforcement to search and document an individual's personal belongings or to transfer them from one area to another within a correctional facility.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -124,10 +132,14 @@
     }
   },
   "es_definitions": [
-    "Bebida de palma: líquido extraído del fruto de una variedad de palma, utilizado como fuente de energía y alimento en algunas regiones; tiene propiedades diuréticas.",
-    "Árbol de la familia Arecaceae, caracterizado por un tronco abultado y hojas colgantes, que contiene un líquido azucarado en su médula; en la médula del tronco contiene un líquido azucarado que, después de fermentado, constituye el guarapo cacheo. Arecaceae, Pseudophoenix vinifera.",
-    "Cacheo: acción de realizar un registro personal por parte de autoridades penitenciarias o policía."
+    "Bebida refrescante fermentada que se prepara con la médula de una variedad de palma del mismo nombre; tiene propiedades diuréticas.",
+    "Palma de hasta 25 m, con el tronco abultado hacia el centro, largas hojas colgantes e inflorescencia corta y compacta; en la médula del tronco contiene un líquido azucarado que, después de fermentado, constituye el guarapo cacheo. Arecaceae, Pseudophoenix vinifera.",
+    "Registro policíaco. Acción de registrar a una persona o una vivienda por la policía. Anglicismo adaptado, usual. Ayer, la Administradora de Corrección explicó que el motín del jueves se originó cuando un confinado estaba siendo intervenido por un guardia penal, haciéndole un cacheo (registro personal) para llevarlo de la población al área administrativa (El Nuevo Día, 10-06-90)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fermented refreshing beverage prepared with the sap of a palm tree variety of the same name; possesses diuretic properties.",
+    "Palm tree up to 25 m in height, with swollen trunk towards the center, long hanging leaves and short and compact inflorescence; within the pith of the trunk contains a sweet liquid that, after fermentation, constitutes cachazo juice. Arecaceae, Pseudophoenix vinifera.",
+    "Police record. Act of registering a person or residence by the police. Adapted anglicism, commonly used.\n\nAction taken by law enforcement to search and document an individual's personal belongings or to transfer them from one area to another within a correctional facility."
+  ],
   "source": "https://tesoro.pr"
 }

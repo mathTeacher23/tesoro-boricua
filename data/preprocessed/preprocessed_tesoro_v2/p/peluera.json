@@ -3,9 +3,12 @@
   "term": "peluera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vellosidad en las axilas o en el pubis",
+      "consolidated_definition": "Vellosidad en las axilas o en el pubis.",
+      "en_consolidated_definition": "Axillary or pubic pilosity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Vellosidad en las axilas o en el pubis"
+    "Vellosidad en las axilas o en el pubis."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Axillary or pubic pilosity."
+  ],
   "source": "https://tesoro.pr"
 }

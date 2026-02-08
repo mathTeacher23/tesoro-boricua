@@ -3,9 +3,12 @@
   "term": "llave",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grifo",
+      "consolidated_definition": "Grifo.",
+      "en_consolidated_definition": "Faucet \n\nNota: En algunos contextos, \"grifo\" puede referirse a un tipo de grifo utilizado en Puerto Rico para conectar y desconectar el agua, pero en general, se refiere a una instalación que controla el flujo del agua.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Grifo"
+    "Grifo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Faucet \n\nNota: En algunos contextos, \"grifo\" puede referirse a un tipo de grifo utilizado en Puerto Rico para conectar y desconectar el agua, pero en general, se refiere a una instalación que controla el flujo del agua."
+  ],
   "source": "https://tesoro.pr"
 }

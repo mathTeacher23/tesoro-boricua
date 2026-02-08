@@ -3,9 +3,12 @@
   "term": "pasquinada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pega múltiple de pasquines",
+      "consolidated_definition": "Pega múltiple de pasquines.",
+      "en_consolidated_definition": "Multiple paste-up of posters or handbills.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Pega múltiple de pasquines"
+    "Pega múltiple de pasquines."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Multiple paste-up of posters or handbills."
+  ],
   "source": "https://tesoro.pr"
 }

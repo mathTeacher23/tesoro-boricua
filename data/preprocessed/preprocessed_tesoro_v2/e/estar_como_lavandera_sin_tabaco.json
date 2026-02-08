@@ -3,9 +3,12 @@
   "term": "estar como lavandera sin tabaco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablar uno a más y mejor",
+      "consolidated_definition": "Hablar uno a más y mejor.",
+      "en_consolidated_definition": "Speak one to more and better.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Hablar uno a más y mejor"
+    "Hablar uno a más y mejor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Speak one to more and better."
+  ],
   "source": "https://tesoro.pr"
 }

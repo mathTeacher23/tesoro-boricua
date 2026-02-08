@@ -3,9 +3,12 @@
   "term": "guardar el bate",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se le dice a un varón cuando está",
+      "consolidated_definition": "Se le dice a un varón cuando está excitado.",
+      "en_consolidated_definition": "A man is said to be excited when he is sexually aroused.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Se le dice a un varón cuando está"
+    "Se le dice a un varón cuando está excitado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A man is said to be excited when he is sexually aroused."
+  ],
   "source": "https://tesoro.pr"
 }

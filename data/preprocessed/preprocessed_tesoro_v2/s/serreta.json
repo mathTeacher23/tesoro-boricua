@@ -3,14 +3,17 @@
   "term": "serreta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Instrumento que se usa en los establos",
+      "consolidated_definition": "Instrumento que se usa en los establos y que consiste en una hoz a la que se une un tronco fino en forma de cruz.",
+      "en_consolidated_definition": "Tool used in stables consisting of a sickle to which a slender trunk in the shape of a cross is attached.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.3889",
-        "semantic_similarity_score": 0.3889,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -66,20 +69,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Instrumento que se usa en los establos. Consta éste de dos partes: la antigua hoz, y un tronco fino, al que se une en forma de cruz por lo que era el mango. Sirve para acercar al ganado la hierba que se quedó hacia arriba o en el fondo del establo mientras el animal comía la que tenía cerca. Se coge por el tronco, a manera de gancho.",
-          "Hoz. También sehgueta, segueta, sierra.",
-          "Hoz. También sierra, pico-cotorra, curva, pico-paloma, gulbia.",
-          "Hoz.",
-          "Instrumento cortante de metal usado en el freno para domar y educar potros indómitos.",
-          "Por confusión, se oyó nombrar así a la hoz por Mayagüez. También segueta.",
           "Instrumento que se usa en los establos y que consiste en una hoz a la que se une un tronco fino en forma de cruz."
         ]
       }
     }
   },
   "es_definitions": [
-    "Instrumento que se usa en los establos"
+    "Instrumento que se usa en los establos y que consiste en una hoz a la que se une un tronco fino en forma de cruz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tool used in stables consisting of a sickle to which a slender trunk in the shape of a cross is attached."
+  ],
   "source": "https://tesoro.pr"
 }

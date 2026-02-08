@@ -3,9 +3,12 @@
   "term": "despurgador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Operario que se ocupa de la operación del",
+      "consolidated_definition": "Operario que se ocupa de la operación del purgado.",
+      "en_consolidated_definition": "Operator responsible for the operation of the purged system.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Operario que se ocupa de la operación del"
+    "Operario que se ocupa de la operación del purgado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Operator responsible for the operation of the purged system."
+  ],
   "source": "https://tesoro.pr"
 }

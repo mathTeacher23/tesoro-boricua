@@ -3,14 +3,17 @@
   "term": "zorzal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de mirlo con costumbres análogas a las",
+      "consolidated_definition": "Ave.",
+      "en_consolidated_definition": "Bird.\n\nNota: La palabra \"ave\" en español es un término general que se refiere a cualquier tipo de ave, por lo que no hay necesidad de agregar explicaciones culturales específicas de Puerto Rico. Sin embargo, si el contexto fuera más específico (por ejemplo, una especie de ave endémica de Puerto Rico), sería importante incluir esa información en la traducción.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1995",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.1867",
-        "semantic_similarity_score": 0.1867,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Especie de mirlo con costumbres análogas a las del zorzal europeo. . Stahl, Catalog, 51; 58. “Cantan en el bosque umbrío —El zorzal y el colibrí.” Manuel Padilla Dávila, , p. 50.",
           "Ave."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Hay una especie de verdalón",
+      "consolidated_definition": "Hay una especie de verdalón, de pequeño tamaño .... Nombre aislado fue zorzal, en Naranjito.",
+      "en_consolidated_definition": "There is a species of verdalón, of small size .... The isolated name was zorzal, in Naranjito.\n\nNota: \"verdalón\" y \"zorzal\" pueden ser términos específicos de la ornitología puertorriqueña. \n\nTraducción más precisa:\nThere is a species of verdalón, of small size.... The isolated name was zorzal, found in Naranjito.\n\nNota: La palabra \"Naranjito\" se refiere a un municipio en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,15 +81,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hay una especie de verdalón, de pequeño tamaño . Nombre aislado fue zorzal, en Naranjito."
+          "Hay una especie de verdalón, de pequeño tamaño .... Nombre aislado fue zorzal, en Naranjito."
         ]
       }
     }
   },
   "es_definitions": [
-    "Especie de mirlo con costumbres análogas a las",
-    "Hay una especie de verdalón"
+    "Ave.",
+    "Hay una especie de verdalón, de pequeño tamaño .... Nombre aislado fue zorzal, en Naranjito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bird.\n\nNota: La palabra \"ave\" en español es un término general que se refiere a cualquier tipo de ave, por lo que no hay necesidad de agregar explicaciones culturales específicas de Puerto Rico. Sin embargo, si el contexto fuera más específico (por ejemplo, una especie de ave endémica de Puerto Rico), sería importante incluir esa información en la traducción.",
+    "There is a species of verdalón, of small size .... The isolated name was zorzal, in Naranjito.\n\nNota: \"verdalón\" y \"zorzal\" pueden ser términos específicos de la ornitología puertorriqueña. \n\nTraducción más precisa:\nThere is a species of verdalón, of small size.... The isolated name was zorzal, found in Naranjito.\n\nNota: La palabra \"Naranjito\" se refiere a un municipio en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

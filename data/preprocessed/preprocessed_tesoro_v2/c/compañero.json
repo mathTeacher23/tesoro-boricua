@@ -3,15 +3,18 @@
   "term": "compañero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Testículo. Es un órgano sexual masculino que se encuentra fuera del abdomen y pertenece al grupo de los órganos reproductores, involucrado en la producción de esperma y hormonas sexuales.",
+      "consolidated_definition": "Testículo.",
+      "en_consolidated_definition": "Testicle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -40,15 +43,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Testículo.",
           "Testículo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Testículo. Es un órgano sexual masculino que se encuentra fuera del abdomen y pertenece al grupo de los órganos reproductores, involucrado en la producción de esperma y hormonas sexuales."
+    "Testículo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Testicle."
+  ],
   "source": "https://tesoro.pr"
 }

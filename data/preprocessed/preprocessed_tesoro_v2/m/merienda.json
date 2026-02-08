@@ -3,9 +3,12 @@
   "term": "merienda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comida muy ligera a media mañana o a",
+      "consolidated_definition": "Comida muy ligera a media mañana o a media tarde.",
+      "en_consolidated_definition": "Mid-morning or mid-afternoon light repast.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Comida muy ligera a media mañana o a"
+    "Comida muy ligera a media mañana o a media tarde."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mid-morning or mid-afternoon light repast."
+  ],
   "source": "https://tesoro.pr"
 }

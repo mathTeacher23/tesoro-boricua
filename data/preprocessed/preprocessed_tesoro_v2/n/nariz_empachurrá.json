@@ -3,9 +3,12 @@
   "term": "nariz empachurrá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nariz chata",
+      "consolidated_definition": "Nariz chata.",
+      "en_consolidated_definition": "Flat nose.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Nariz chata"
+    "Nariz chata."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flat nose."
+  ],
   "source": "https://tesoro.pr"
 }

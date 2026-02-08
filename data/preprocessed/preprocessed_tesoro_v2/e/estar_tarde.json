@@ -3,9 +3,12 @@
   "term": "estar tarde",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llegar tarde",
+      "consolidated_definition": "Llegar tarde, atrasarse. Calco de estructura, usual. Apúrate que estamos tarde -le dice",
+      "en_consolidated_definition": "To arrive late, to be delayed. Calque of structure, common usage. Hurry up, we are running late -he says.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Llegar tarde"
+    "Llegar tarde, atrasarse. Calco de estructura, usual. Apúrate que estamos tarde -le dice"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To arrive late, to be delayed. Calque of structure, common usage. Hurry up, we are running late -he says."
+  ],
   "source": "https://tesoro.pr"
 }

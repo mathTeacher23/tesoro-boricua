@@ -3,9 +3,12 @@
   "term": "nuevo de paquete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Recién fabricado",
+      "consolidated_definition": "Recién fabricado.",
+      "en_consolidated_definition": "Recently manufactured.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Recién fabricado"
+    "Recién fabricado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Recently manufactured."
+  ],
   "source": "https://tesoro.pr"
 }

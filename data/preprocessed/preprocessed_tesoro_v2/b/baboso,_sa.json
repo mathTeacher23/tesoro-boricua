@@ -3,15 +3,18 @@
   "term": "baboso, sa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que habla excesivamente y sin contenido significativo.",
+      "consolidated_definition": "Referido a persona, de conversación empalagosa.",
+      "en_consolidated_definition": "Referring to a person with overly garrulous conversation.\n\nNota: En este caso, \"garruloso\" se refiere a alguien que habla demasiado y con exceso de detalles innecesarios, lo que puede ser considerado empalagoso o fastidioso. La traducción busca mantener el significado exacto del término original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.3795",
-        "semantic_similarity_score": 0.3795,
-        "cluster_count": 7,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -57,26 +60,23 @@
           "babosería"
         ],
         "reference_definitions": [
-          "(popular) Individuo latoso, que habla mucho y sin sustancia.",
-          "Bobo, simple.",
-          "Persona que habla estupideces.",
-          "Persona que habla mucho.",
-          "Zángano.",
-          "Aburrido.",
           "Referido a persona, de conversación empalagosa."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a una pared o al suelo, empastillado: cubierto o recubierto con un pegamento o sustancia viscosa que lo hace húmedo y resbaladizo.",
+      "consolidated_definition": "Referido a una pared o al suelo, húmedo, resbaladizo.",
+      "en_consolidated_definition": "Referido a una pared o al suelo, húmedo y resbaladizo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -104,9 +104,12 @@
     }
   },
   "es_definitions": [
-    "Persona que habla excesivamente y sin contenido significativo.",
-    "Referido a una pared o al suelo, empastillado: cubierto o recubierto con un pegamento o sustancia viscosa que lo hace húmedo y resbaladizo."
+    "Referido a persona, de conversación empalagosa.",
+    "Referido a una pared o al suelo, húmedo, resbaladizo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referring to a person with overly garrulous conversation.\n\nNota: En este caso, \"garruloso\" se refiere a alguien que habla demasiado y con exceso de detalles innecesarios, lo que puede ser considerado empalagoso o fastidioso. La traducción busca mantener el significado exacto del término original.",
+    "Referido a una pared o al suelo, húmedo y resbaladizo."
+  ],
   "source": "https://tesoro.pr"
 }

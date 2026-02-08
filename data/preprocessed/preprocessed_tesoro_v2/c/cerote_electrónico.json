@@ -3,15 +3,18 @@
   "term": "cerote electrónico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Equipo electrónico con control de temperatura para derretir cerote, utilizado en las peleas de gallos para facilitar la unión de espuelas a las patas del gallo.",
+      "consolidated_definition": "En las peleas de gallos, sistema electrónico con temperatura controlada para derretir el cerote que se utilizará para pegar las espuelas en la pata del gallo.",
+      "en_consolidated_definition": "In cockfighting, an electronic system with temperature control to melt the cerote used for attaching spurs to a rooster's leg.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9364",
-        "semantic_similarity_score": 0.9364,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Sistema electrónico con temperatura controlada para derretir adecuadamente el cerote que se usará para pegar las espuelas en las patas del gallo. Se instala en el armadero, de forma que puede se accesible y cómodo en el proceso de armar los gallos.",
           "En las peleas de gallos, sistema electrónico con temperatura controlada para derretir el cerote que se utilizará para pegar las espuelas en la pata del gallo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Equipo electrónico con control de temperatura para derretir cerote, utilizado en las peleas de gallos para facilitar la unión de espuelas a las patas del gallo."
+    "En las peleas de gallos, sistema electrónico con temperatura controlada para derretir el cerote que se utilizará para pegar las espuelas en la pata del gallo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In cockfighting, an electronic system with temperature control to melt the cerote used for attaching spurs to a rooster's leg."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "fuleteada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llenado del tanque",
+      "consolidated_definition": "Llenado del tanque.",
+      "en_consolidated_definition": "Tank filling",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Llenado del tanque"
+    "Llenado del tanque."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tank filling"
+  ],
   "source": "https://tesoro.pr"
 }

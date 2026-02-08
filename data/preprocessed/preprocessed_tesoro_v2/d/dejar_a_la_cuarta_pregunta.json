@@ -3,9 +3,12 @@
   "term": "dejar a la cuarta pregunta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dejar arruinado a alguien",
+      "consolidated_definition": "Dejar arruinado a alguien, escaso de dinero.",
+      "en_consolidated_definition": "To leave someone financially destitute or impoverished.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Dejar arruinado a alguien"
+    "Dejar arruinado a alguien, escaso de dinero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To leave someone financially destitute or impoverished."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "pasar el chivo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Defraudar",
+      "consolidated_definition": "Defraudar. Hacer ver lo que no es.",
+      "en_consolidated_definition": "To deceive. To make appear what is not.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Defraudar"
+    "Defraudar. Hacer ver lo que no es."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To deceive. To make appear what is not."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "juego de bolita y hoyo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Juego que consiste en meter monedas o bolitas",
+      "consolidated_definition": "Juego que consiste en meter monedas o bolitas en un hueco pequeño hecho en la tierra, tirándolas desde cierta distancia; gana el que consiga introducir mayor número.",
+      "en_consolidated_definition": "Game in which coins or marbles are dropped into a small hole dug in the ground from a certain distance; the winner is the one who manages to introduce the greatest number.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Juego que consiste en meter monedas o bolitas"
+    "Juego que consiste en meter monedas o bolitas en un hueco pequeño hecho en la tierra, tirándolas desde cierta distancia; gana el que consiga introducir mayor número."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Game in which coins or marbles are dropped into a small hole dug in the ground from a certain distance; the winner is the one who manages to introduce the greatest number."
+  ],
   "source": "https://tesoro.pr"
 }

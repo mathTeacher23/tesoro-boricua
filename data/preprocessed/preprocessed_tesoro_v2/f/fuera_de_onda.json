@@ -3,9 +3,12 @@
   "term": "fuera de onda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Atrasado en lo actual",
+      "consolidated_definition": "Atrasado en lo actual. Cuando no se está en lo que se habla o se usa en el momento.",
+      "en_consolidated_definition": "Outdated in current affairs. When one is not aware of or does not use what is currently being discussed or employed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Atrasado en lo actual"
+    "Atrasado en lo actual. Cuando no se está en lo que se habla o se usa en el momento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Outdated in current affairs. When one is not aware of or does not use what is currently being discussed or employed."
+  ],
   "source": "https://tesoro.pr"
 }

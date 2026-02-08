@@ -3,9 +3,12 @@
   "term": "johnny",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Individuo muy enviciado con el uso de la",
+      "consolidated_definition": "Individuo muy enviciado con el uso de la droga.",
+      "en_consolidated_definition": "Individual extremely addicted to the use of drugs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Individuo muy enviciado con el uso de la"
+    "Individuo muy enviciado con el uso de la droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Individual extremely addicted to the use of drugs."
+  ],
   "source": "https://tesoro.pr"
 }

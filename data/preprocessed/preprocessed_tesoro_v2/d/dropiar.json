@@ -3,14 +3,17 @@
   "term": "dropiar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expulsar",
+      "consolidated_definition": "Expulsar.",
+      "en_consolidated_definition": "Ejectar.\n\nExpulsar.\n\nEvict.\n\nOmito la segunda opción ya que es redundante con la primera y la tercera opción.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2741",
-        "semantic_similarity_score": 0.2741,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -35,15 +38,16 @@
           "dropiarse"
         ],
         "reference_definitions": [
-          "Expulsar.",
-          "Suspender."
+          "Expulsar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Expulsar"
+    "Expulsar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ejectar.\n\nExpulsar.\n\nEvict.\n\nOmito la segunda opción ya que es redundante con la primera y la tercera opción."
+  ],
   "source": "https://tesoro.pr"
 }

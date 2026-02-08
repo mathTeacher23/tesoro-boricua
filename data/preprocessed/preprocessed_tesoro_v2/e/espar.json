@@ -3,9 +3,12 @@
   "term": "espar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bujía para motor de combustión",
+      "consolidated_definition": "Bujía para motor de combustión.",
+      "en_consolidated_definition": "Spark plug for internal combustion engine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bujía para motor de combustión"
+    "Bujía para motor de combustión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Spark plug for internal combustion engine."
+  ],
   "source": "https://tesoro.pr"
 }

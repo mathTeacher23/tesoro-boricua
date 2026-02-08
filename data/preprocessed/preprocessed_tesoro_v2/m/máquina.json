@@ -3,14 +3,17 @@
   "term": "máquina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre familiar del automóvil, relacionado con un mecanismo",
+      "consolidated_definition": "Automóvil.",
+      "en_consolidated_definition": "Automobile.\n\nNota: En algunos contextos, este término puede referirse a un vehículo de cuatro ruedas impulsado por motor, especialmente en áreas urbanas y suburbanas de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4024",
-        "semantic_similarity_score": 0.4024,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -49,17 +52,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Nombre familiar del automóvil. Es más frecuente decir auto y carro. Ac. “Y mientras que la máquina el cambio se traga.” C. Ortiz Stella, La caravana oscura, 1921, p. 95.",
-          ". Automóvil.",
-          "Carro.",
           "Automóvil."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Locomotora",
+      "consolidated_definition": "Locomotora.",
+      "en_consolidated_definition": "Locomotora.\n\nSteam locomotive (en referencia a un tipo de locomotora que utiliza vapor como fuente de energía) or Locomotive (generalmente se refiere a una máquina que mueve trenes o vehículos por vías férreas).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -93,14 +96,17 @@
       }
     },
     "3": {
-      "consolidated_definition": "Voz usada por prostitutas",
+      "consolidated_definition": "Vulva.",
+      "en_consolidated_definition": "Vulva: the external female genital area.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5109",
-        "semantic_similarity_score": 0.5109,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -131,17 +137,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Voz usada por prostitutas. Vulva.",
           "Vulva."
         ]
       }
     }
   },
   "es_definitions": [
-    "Nombre familiar del automóvil, relacionado con un mecanismo",
-    "Locomotora",
-    "Voz usada por prostitutas"
+    "Automóvil.",
+    "Locomotora.",
+    "Vulva."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Automobile.\n\nNota: En algunos contextos, este término puede referirse a un vehículo de cuatro ruedas impulsado por motor, especialmente en áreas urbanas y suburbanas de Puerto Rico.",
+    "Locomotora.\n\nSteam locomotive (en referencia a un tipo de locomotora que utiliza vapor como fuente de energía) or Locomotive (generalmente se refiere a una máquina que mueve trenes o vehículos por vías férreas).",
+    "Vulva: the external female genital area."
+  ],
   "source": "https://tesoro.pr"
 }

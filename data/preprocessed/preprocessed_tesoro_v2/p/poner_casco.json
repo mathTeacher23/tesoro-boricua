@@ -3,9 +3,12 @@
   "term": "poner casco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tratar de entender",
+      "consolidated_definition": "Tratar de entender.",
+      "en_consolidated_definition": "Attempt to comprehend.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Tratar de entender"
+    "Tratar de entender."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Attempt to comprehend."
+  ],
   "source": "https://tesoro.pr"
 }

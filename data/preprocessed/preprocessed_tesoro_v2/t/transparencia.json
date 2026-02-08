@@ -3,9 +3,12 @@
   "term": "transparencia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Diapositiva",
+      "consolidated_definition": "Diapositiva.",
+      "en_consolidated_definition": "Slide.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Acceso y visibilidad de la información que concierne",
+      "consolidated_definition": "Acceso y visibilidad de la información que concierne a los asuntos administrativos del sector público y algunas instancias del sector privado. Si tuviéramos mayor transparencia en la gestión gubernamental, se tomarían mejores decisiones. (El Nuevo Día, 12-11-19)",
+      "en_consolidated_definition": "Access and visibility of information concerning public sector administrative matters and some private sector instances. If there were greater transparency in government management, better decisions would be made.\n\nNota: En este contexto, \"sector público\" se refiere a instituciones y organismos gubernamentales, mientras que \"sector privado\" se refiere a empresas y organizaciones no gubernamentales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,15 +81,18 @@
           "transparente 2"
         ],
         "reference_definitions": [
-          "Acceso y visibilidad de la información que concierne a los asuntos administrativos del sector público y algunas instancias del sector privado. Si tuviéramos mayor transparencia en la gestión gubernamental, se tomarían mejores decisiones."
+          "Acceso y visibilidad de la información que concierne a los asuntos administrativos del sector público y algunas instancias del sector privado. Si tuviéramos mayor transparencia en la gestión gubernamental, se tomarían mejores decisiones. (El Nuevo Día, 12-11-19)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Diapositiva",
-    "Acceso y visibilidad de la información que concierne"
+    "Diapositiva.",
+    "Acceso y visibilidad de la información que concierne a los asuntos administrativos del sector público y algunas instancias del sector privado. Si tuviéramos mayor transparencia en la gestión gubernamental, se tomarían mejores decisiones. (El Nuevo Día, 12-11-19)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Slide.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Access and visibility of information concerning public sector administrative matters and some private sector instances. If there were greater transparency in government management, better decisions would be made.\n\nNota: En este contexto, \"sector público\" se refiere a instituciones y organismos gubernamentales, mientras que \"sector privado\" se refiere a empresas y organizaciones no gubernamentales."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "de un tiro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De una vez",
+      "consolidated_definition": "De una vez, de un solo golpe.",
+      "en_consolidated_definition": "In one go, with a single blow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "De una vez"
+    "De una vez, de un solo golpe."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In one go, with a single blow."
+  ],
   "source": "https://tesoro.pr"
 }

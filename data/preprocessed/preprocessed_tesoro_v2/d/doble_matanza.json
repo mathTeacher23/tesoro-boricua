@@ -3,9 +3,12 @@
   "term": "doble matanza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, acción en que se pone fuera de juego a dos jugadores del equipo contrario de forma sucesiva.",
+      "en_consolidated_definition": "In baseball, the act of putting out two opposing team players in succession, thus forcing them to be replaced by new players.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, acción en que se pone fuera de juego a dos jugadores del equipo contrario de forma sucesiva."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, the act of putting out two opposing team players in succession, thus forcing them to be replaced by new players."
+  ],
   "source": "https://tesoro.pr"
 }

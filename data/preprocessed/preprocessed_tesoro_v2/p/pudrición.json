@@ -3,9 +3,12 @@
   "term": "pudrición",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona de baja reputación",
+      "consolidated_definition": "Persona de baja reputación.",
+      "en_consolidated_definition": "Persona de baja reputación.\n\nPersona of questionable repute.\n\nNota: En este caso, he mantenido el término \"repute\" para conservar la connotación negativa y formal del original en español.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Persona de baja reputación"
+    "Persona de baja reputación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona de baja reputación.\n\nPersona of questionable repute.\n\nNota: En este caso, he mantenido el término \"repute\" para conservar la connotación negativa y formal del original en español."
+  ],
   "source": "https://tesoro.pr"
 }

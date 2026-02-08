@@ -3,9 +3,12 @@
   "term": "recorte a lo dita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Corte de pelo muy parejo en el que",
+      "consolidated_definition": "Corte de pelo muy parejo en el que, mediante un cerquillo alrededor de la cabeza, se eliminan las patillas.",
+      "en_consolidated_definition": "A line cut of hair that is very even in length, where a strip around the head is used to remove sideburns.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Corte de pelo muy parejo en el que"
+    "Corte de pelo muy parejo en el que, mediante un cerquillo alrededor de la cabeza, se eliminan las patillas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A line cut of hair that is very even in length, where a strip around the head is used to remove sideburns."
+  ],
   "source": "https://tesoro.pr"
 }

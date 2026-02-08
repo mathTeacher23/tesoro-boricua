@@ -3,15 +3,18 @@
   "term": "cruceteo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El acto de transitar repetidamente por un mismo sitio en diferentes direcciones.",
+      "consolidated_definition": "Tránsito frecuente por un mismo sitio en diversas direcciones.",
+      "en_consolidated_definition": "Frequent passage through the same location in various directions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7132",
-        "semantic_similarity_score": 0.7132,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,15 +48,16 @@
           "crucetear"
         ],
         "reference_definitions": [
-          ". El acto de pasar y repasar en direcciones diversas y repetidas veces por un mismo sitio.",
           "Tránsito frecuente por un mismo sitio en diversas direcciones."
         ]
       }
     }
   },
   "es_definitions": [
-    "El acto de transitar repetidamente por un mismo sitio en diferentes direcciones."
+    "Tránsito frecuente por un mismo sitio en diversas direcciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Frequent passage through the same location in various directions."
+  ],
   "source": "https://tesoro.pr"
 }

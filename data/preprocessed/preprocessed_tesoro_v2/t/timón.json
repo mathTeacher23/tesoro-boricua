@@ -3,15 +3,18 @@
   "term": "timón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El timón del arado “Un manguillo que lleva",
+      "consolidated_definition": "El timón del arado es un manguillo que permite al trabajador controlar la reja para obtener un surco recto.",
+      "en_consolidated_definition": "The plow's tiller is a lever that enables the worker to control the moldboard in order to obtain a straight furrow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.684",
-        "semantic_similarity_score": 0.684,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.69",
+        "semantic_similarity_score": 0.69,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,7 +51,7 @@
           "timonero"
         ],
         "reference_definitions": [
-          "El timón del arado “Un manguillo que lleva el trabajador con que controla la reja para que el surco salga derecho.”",
+          "El timón del arado … “Un manguillo que lleva el trabajador con que controla la reja para que el surco salga derecho.”",
           "Los dos palos del arado, llamados también manceras, que sirven para que el bueyero o el timonero guíe según halan los bueyes.",
           "Por el norte central, los palos del arado que permiten que el timonero guíe según tiran a los bueyes. También manceras."
         ]
@@ -56,8 +59,10 @@
     }
   },
   "es_definitions": [
-    "El timón del arado “Un manguillo que lleva"
+    "El timón del arado es un manguillo que permite al trabajador controlar la reja para obtener un surco recto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The plow's tiller is a lever that enables the worker to control the moldboard in order to obtain a straight furrow."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "pasmo de luna",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ataca a las caballerías cuando se les quita",
+      "consolidated_definition": "Ataca a las caballerías cuando se les quita la silla o aparejo prontamente, a la luz de la luna, estando sofocadas o sudadas.",
+      "en_consolidated_definition": "Attacks horses when their saddle or harness is removed promptly, under the light of the moon, especially if they are overheated or sweaty.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Ataca a las caballerías cuando se les quita"
+    "Ataca a las caballerías cuando se les quita la silla o aparejo prontamente, a la luz de la luna, estando sofocadas o sudadas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Attacks horses when their saddle or harness is removed promptly, under the light of the moon, especially if they are overheated or sweaty."
+  ],
   "source": "https://tesoro.pr"
 }

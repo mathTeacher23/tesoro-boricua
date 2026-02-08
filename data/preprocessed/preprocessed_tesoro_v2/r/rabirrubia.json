@@ -3,9 +3,12 @@
   "term": "rabirrubia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ocyurus chrysurus",
+      "consolidated_definition": "Ocyurus chrysurus. Otro nombre para el pez colirrubia.",
+      "en_consolidated_definition": "Ocyurus chrysurus. Another name for the colirrubia fish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ocyurus chrysurus"
+    "Ocyurus chrysurus. Otro nombre para el pez colirrubia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ocyurus chrysurus. Another name for the colirrubia fish."
+  ],
   "source": "https://tesoro.pr"
 }

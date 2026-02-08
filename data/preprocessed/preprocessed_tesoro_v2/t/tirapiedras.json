@@ -3,14 +3,17 @@
   "term": "tirapiedras",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estudiante de la Facultad de Ciencias Sociales",
+      "consolidated_definition": "Estudiante de la Facultad de Ciencias Sociales de la Universidad de Puerto Rico.",
+      "en_consolidated_definition": "Student in the College of Social Sciences at the University of Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7025",
-        "semantic_similarity_score": 0.7025,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Estudiante de la Facultad de Ciencias Sociales.",
           "Estudiante de la Facultad de Ciencias Sociales de la Universidad de Puerto Rico."
         ]
       }
     }
   },
   "es_definitions": [
-    "Estudiante de la Facultad de Ciencias Sociales"
+    "Estudiante de la Facultad de Ciencias Sociales de la Universidad de Puerto Rico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Student in the College of Social Sciences at the University of Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

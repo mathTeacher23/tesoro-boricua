@@ -3,15 +3,18 @@
   "term": "a falta de pan, galleta(s)",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión que denota conformidad con un sustituto inesperado, como 'a falta de pan, galleta'.",
+      "consolidated_definition": "Expresión que denota conformidad con algo que no era lo que se esperaba, pero lo sustituye. El hand sanitizer podría servir como substituto para agua y jabón cuando estos no se encuentran disponibles, o sea “a falta de pan, galleta”.",
+      "en_consolidated_definition": "Expression denoting acquiescence with something that was not expected but serves as a substitute. The hand sanitizer could serve as a substitute for water and soap when these are unavailable, or \"bread and cake\" in the absence of bread.\n\nNota: La expresión \"a falta de pan, galleta\" es una variante del dicho popular \"pan y galleta\", que se utiliza en Puerto Rico para describir la situación en la que algo no está disponible pero se encuentra un sustituto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "expresión"
         ],
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Expresión que denota conformidad con un sustituto inesperado, como 'a falta de pan, galleta'."
+    "Expresión que denota conformidad con algo que no era lo que se esperaba, pero lo sustituye. El hand sanitizer podría servir como substituto para agua y jabón cuando estos no se encuentran disponibles, o sea “a falta de pan, galleta”."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Expression denoting acquiescence with something that was not expected but serves as a substitute. The hand sanitizer could serve as a substitute for water and soap when these are unavailable, or \"bread and cake\" in the absence of bread.\n\nNota: La expresión \"a falta de pan, galleta\" es una variante del dicho popular \"pan y galleta\", que se utiliza en Puerto Rico para describir la situación en la que algo no está disponible pero se encuentra un sustituto."
+  ],
   "source": "https://tesoro.pr"
 }

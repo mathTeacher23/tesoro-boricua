@@ -3,9 +3,12 @@
   "term": "vermeneo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción y efecto de moverse los gusanos en",
+      "consolidated_definition": "Acción y efecto de moverse los gusanos en una gusanera.",
+      "en_consolidated_definition": "The action and effect of worms moving within a worm bed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Acción y efecto de moverse los gusanos en"
+    "Acción y efecto de moverse los gusanos en una gusanera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The action and effect of worms moving within a worm bed."
+  ],
   "source": "https://tesoro.pr"
 }

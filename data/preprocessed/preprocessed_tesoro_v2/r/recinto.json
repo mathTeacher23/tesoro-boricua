@@ -3,9 +3,12 @@
   "term": "recinto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Centro universitario independiente",
+      "consolidated_definition": "Centro universitario independiente, dentro de un sistema.",
+      "en_consolidated_definition": "Independent university center within a system.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Centro universitario independiente"
+    "Centro universitario independiente, dentro de un sistema."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Independent university center within a system."
+  ],
   "source": "https://tesoro.pr"
 }

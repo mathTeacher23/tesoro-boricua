@@ -3,9 +3,12 @@
   "term": "stewardess",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Azafata",
+      "consolidated_definition": "Azafata. Aeromoza. Camarera. También waitress.",
+      "en_consolidated_definition": "Flight attendant. Stewardess. Cabin attendant. Also waitress.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Azafata"
+    "Azafata. Aeromoza. Camarera. También waitress."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flight attendant. Stewardess. Cabin attendant. Also waitress."
+  ],
   "source": "https://tesoro.pr"
 }

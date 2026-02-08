@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Dícese de la mujer muy empolvada.",
+      "en_consolidated_definition": "A woman heavily powdered.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La sinuosidad residual es la irregularidad o deformidad que permanece en el hormigón después del proceso de decimbrado, cuando se ha alcanzado su fraguado.",
+      "consolidated_definition": "Sinuosidad que queda en el hormigón fraguado.",
+      "en_consolidated_definition": "Sinuosidad residual en el hormigón endurecido.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8756",
-        "semantic_similarity_score": 0.8756,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -81,21 +87,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Sinuosidad que queda en el hormigón fraguado al tiempo de ser decimbrado.",
           "Sinuosidad que queda en el hormigón fraguado."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "El órgano sexual femenino se refiere al vulva, que incluye la vagina, el clítoris y los labios genitales externos.",
+      "consolidated_definition": "Vulva.",
+      "en_consolidated_definition": "Vulva \n\nThe external female genital area, including the labia majora and minora, clitoris, and vaginal opening.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3549",
-        "semantic_similarity_score": 0.3549,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -123,21 +131,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Órgano sexual femenino.",
           "Vulva."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "Ver almendrillo, sustantivo que se refiere a un pequeño árbol o arbusto perteneciente a la familia Rosaceae.",
+      "consolidated_definition": "Ver almendrillo .",
+      "en_consolidated_definition": "See almond tree.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -151,15 +161,18 @@
       }
     },
     "5": {
-      "consolidated_definition": "Automóvil de mal aspecto: vehículo que presenta signos notables de deterioro o desgaste exterior.",
+      "consolidated_definition": "Automóvil de mal aspecto.",
+      "en_consolidated_definition": "Automobile in poor condition.\n\nNota: En este contexto, es posible que \"automóvil de mal aspecto\" se refiera a un vehículo que no tiene un buen estado de conservación o presentación, pero si se desea una traducción más precisa y formal, podría ser:\n\nVehicle in disrepair or poor condition.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -191,11 +204,17 @@
   },
   "es_definitions": [
     "Dícese de la mujer muy empolvada.",
-    "La sinuosidad residual es la irregularidad o deformidad que permanece en el hormigón después del proceso de decimbrado, cuando se ha alcanzado su fraguado.",
-    "El órgano sexual femenino se refiere al vulva, que incluye la vagina, el clítoris y los labios genitales externos.",
-    "Ver almendrillo, sustantivo que se refiere a un pequeño árbol o arbusto perteneciente a la familia Rosaceae.",
-    "Automóvil de mal aspecto: vehículo que presenta signos notables de deterioro o desgaste exterior."
+    "Sinuosidad que queda en el hormigón fraguado.",
+    "Vulva.",
+    "Ver almendrillo .",
+    "Automóvil de mal aspecto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A woman heavily powdered.",
+    "Sinuosidad residual en el hormigón endurecido.",
+    "Vulva \n\nThe external female genital area, including the labia majora and minora, clitoris, and vaginal opening.",
+    "See almond tree.",
+    "Automobile in poor condition.\n\nNota: En este contexto, es posible que \"automóvil de mal aspecto\" se refiera a un vehículo que no tiene un buen estado de conservación o presentación, pero si se desea una traducción más precisa y formal, podría ser:\n\nVehicle in disrepair or poor condition."
+  ],
   "source": "https://tesoro.pr"
 }

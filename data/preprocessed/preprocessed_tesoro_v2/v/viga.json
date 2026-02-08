@@ -3,9 +3,12 @@
   "term": "viga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Madero que va colocado horizontalmente sobre los zocos",
+      "consolidated_definition": "Madero que va colocado horizontalmente sobre los zocos y sostiene el piso de la casa. También madres.",
+      "en_consolidated_definition": "Beam placed horizontally over the joists and supporting the floor of a house. Also beams.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Madero que va colocado horizontalmente sobre los zocos"
+    "Madero que va colocado horizontalmente sobre los zocos y sostiene el piso de la casa. También madres."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Beam placed horizontally over the joists and supporting the floor of a house. Also beams."
+  ],
   "source": "https://tesoro.pr"
 }

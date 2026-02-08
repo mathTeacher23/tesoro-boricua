@@ -3,9 +3,12 @@
   "term": "garnatá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bofetada dada en la mejilla con la mano",
+      "consolidated_definition": "Bofetada dada en la mejilla con la mano abierta.",
+      "en_consolidated_definition": "Slap given on the cheek with an open hand.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bofetada dada en la mejilla con la mano"
+    "Bofetada dada en la mejilla con la mano abierta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Slap given on the cheek with an open hand."
+  ],
   "source": "https://tesoro.pr"
 }

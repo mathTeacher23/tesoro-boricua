@@ -3,15 +3,18 @@
   "term": "ayaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tamal: Pastel tradicional hecho con harina de maíz, relleno de carne aderezada y envuelto en hojas de plátano, luego hervido.",
+      "consolidated_definition": "Tamal.",
+      "en_consolidated_definition": "Cornmeal pudding or corn dough typically wrapped in banana leaves and steamed, a traditional dish from Puerto Rico and other Latin American countries.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2062",
-        "semantic_similarity_score": 0.2062,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,16 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Pastel hecho con harina de maíz tierno relleno con carne aderezada, envuelto en hojas de plátano y luego hervido.",
           "Tamal."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tamal: Pastel tradicional hecho con harina de maíz, relleno de carne aderezada y envuelto en hojas de plátano, luego hervido."
+    "Tamal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cornmeal pudding or corn dough typically wrapped in banana leaves and steamed, a traditional dish from Puerto Rico and other Latin American countries."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "luna",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Calvicie",
+      "consolidated_definition": "Calvicie.",
+      "en_consolidated_definition": "Baldness.\n\nNota: En algunos contextos culturales de Puerto Rico, se puede referir a \"calvicie\" como pérdida de cabello en el área del cuero cabelludo, especialmente en hombres. Sin embargo, la definición general es la misma que la traducción proporcionada anteriormente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Menstruación",
+      "consolidated_definition": "Menstruación.",
+      "en_consolidated_definition": "Menstruation \n\nNota: En algunos contextos culturales de Puerto Rico, esta condición también se conoce como \"regla\" o \"periodo\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Calvicie",
-    "Menstruación"
+    "Calvicie.",
+    "Menstruación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Baldness.\n\nNota: En algunos contextos culturales de Puerto Rico, se puede referir a \"calvicie\" como pérdida de cabello en el área del cuero cabelludo, especialmente en hombres. Sin embargo, la definición general es la misma que la traducción proporcionada anteriormente.",
+    "Menstruation \n\nNota: En algunos contextos culturales de Puerto Rico, esta condición también se conoce como \"regla\" o \"periodo\"."
+  ],
   "source": "https://tesoro.pr"
 }

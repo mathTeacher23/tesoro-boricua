@@ -3,15 +3,18 @@
   "term": "peto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acanthocybium solandri",
+      "consolidated_definition": "Acanthocybium solandri: especie de pez de tamaño considerable, con un dorso azul y vientre blanco, perteneciente a la familia Scombridae, conocido por su carne comestible y frecuente captura en Puerto Rico durante noviembre.",
+      "en_consolidated_definition": "Acanthocybium solandri: a species of considerable-sized fish with a blue dorsal surface and white belly, belonging to the family Scombridae, known for its edible flesh and frequent capture in Puerto Rico during November.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4101",
-        "semantic_similarity_score": 0.4101,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4098",
+        "semantic_similarity_score": 0.4098,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -52,16 +55,19 @@
         "related_words": [],
         "reference_definitions": [
           "Acanthocybium solandri. Pez de bastante tamaño, color azul sobre el dorso y blanco en la parte del vientre. Da buena carne comestible y se pesca frecuentemente en Puerto Rico durante el mes de noviembre.",
-          "Pez de la familia Scombridae . Acanthocybium solanderi.",
+          "Pez de la familia Scombridae (atunes). Acanthocybium solanderi.",
           "Pez de mar, comestible, parecido a la sierra y a la picúa. De color morado con la aleta dorsal estrecha y larga, sin salientes, con la cola en forma de tijerrilla.",
           "Acanthocybium solandri. Pez comestible."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pliegue en una prenda de vestir que hace",
+      "consolidated_definition": "Pliegue en una prenda de vestir que hace que luzca mal. Arruga.",
+      "en_consolidated_definition": "Rugosidad en una prenda de vestir que le resta elegancia.\n\nNota: No encontré términos culturales específicos de Puerto Rico en esta definición. Si necesitas ayuda con otro término, no dudes en preguntar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -96,9 +102,12 @@
     }
   },
   "es_definitions": [
-    "Acanthocybium solandri",
-    "Pliegue en una prenda de vestir que hace"
+    "Acanthocybium solandri: especie de pez de tamaño considerable, con un dorso azul y vientre blanco, perteneciente a la familia Scombridae, conocido por su carne comestible y frecuente captura en Puerto Rico durante noviembre.",
+    "Pliegue en una prenda de vestir que hace que luzca mal. Arruga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Acanthocybium solandri: a species of considerable-sized fish with a blue dorsal surface and white belly, belonging to the family Scombridae, known for its edible flesh and frequent capture in Puerto Rico during November.",
+    "Rugosidad en una prenda de vestir que le resta elegancia.\n\nNota: No encontré términos culturales específicos de Puerto Rico en esta definición. Si necesitas ayuda con otro término, no dudes en preguntar."
+  ],
   "source": "https://tesoro.pr"
 }

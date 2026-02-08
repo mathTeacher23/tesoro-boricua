@@ -3,15 +3,18 @@
   "term": "bodrogo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Zapato rústico y ancho: objeto de vestir del pie, generalmente de forma amplia y sencilla, con suela gruesa y material resistente, destinado a uso en entornos rurales o informales.",
+      "consolidated_definition": "Zapato rústico y ancho.",
+      "en_consolidated_definition": "Rustic and wide shoe.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Zapato rústico y ancho: objeto de vestir del pie, generalmente de forma amplia y sencilla, con suela gruesa y material resistente, destinado a uso en entornos rurales o informales."
+    "Zapato rústico y ancho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rustic and wide shoe."
+  ],
   "source": "https://tesoro.pr"
 }

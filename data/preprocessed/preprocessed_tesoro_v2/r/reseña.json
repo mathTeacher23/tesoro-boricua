@@ -3,9 +3,12 @@
   "term": "reseña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Artículo periodístico breve narrando o dando cuenta de",
+      "consolidated_definition": "Artículo periodístico breve narrando o dando cuenta de un acto social, deportivo o cultural.",
+      "en_consolidated_definition": "Breve artículo periodístico narrando o dando cuenta de un acto social, deportivo o cultural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Artículo periodístico breve narrando o dando cuenta de"
+    "Artículo periodístico breve narrando o dando cuenta de un acto social, deportivo o cultural."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Breve artículo periodístico narrando o dando cuenta de un acto social, deportivo o cultural."
+  ],
   "source": "https://tesoro.pr"
 }

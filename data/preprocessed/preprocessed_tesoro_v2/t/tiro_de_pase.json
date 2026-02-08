@@ -3,9 +3,12 @@
   "term": "tiro de pase",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe en el cerebro",
+      "consolidated_definition": "Golpe en el cerebro. También tiro de casco.",
+      "en_consolidated_definition": "Blow to the brain. Also, helmet blow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Golpe en el cerebro"
+    "Golpe en el cerebro. También tiro de casco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Blow to the brain. Also, helmet blow."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "yoqueta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer que monta caballos de carrera",
+      "consolidated_definition": "Mujer que monta caballos de carrera.",
+      "en_consolidated_definition": "Jockey femenina.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Mujer que monta caballos de carrera"
+    "Mujer que monta caballos de carrera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Jockey femenina."
+  ],
   "source": "https://tesoro.pr"
 }

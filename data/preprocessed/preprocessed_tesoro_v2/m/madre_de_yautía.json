@@ -3,9 +3,12 @@
   "term": "madre de yautía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Madre que incumple sus obligaciones",
+      "consolidated_definition": "Madre que incumple sus obligaciones.",
+      "en_consolidated_definition": "Mother who fails to fulfill her obligations.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Madre que incumple sus obligaciones"
+    "Madre que incumple sus obligaciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mother who fails to fulfill her obligations."
+  ],
   "source": "https://tesoro.pr"
 }

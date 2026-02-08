@@ -3,15 +3,18 @@
   "term": "bartolina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Calabozo\": celda o habitación pequeña y oscura, generalmente utilizada como lugar de confinamiento o prisión.",
+      "consolidated_definition": ". Calabozo. Ac.",
+      "en_consolidated_definition": "Dungeon (Puerto Rican prison cell)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "\"Calabozo\": celda o habitación pequeña y oscura, generalmente utilizada como lugar de confinamiento o prisión."
+    ". Calabozo. Ac."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dungeon (Puerto Rican prison cell)"
+  ],
   "source": "https://tesoro.pr"
 }

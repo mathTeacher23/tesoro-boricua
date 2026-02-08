@@ -3,9 +3,12 @@
   "term": "lejo, ja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lejano",
+      "consolidated_definition": "Lejano. “Sitio lejo, una parte leja.”",
+      "en_consolidated_definition": "Distant. \"Remote site, a distant part.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Lejano"
+    "Lejano. “Sitio lejo, una parte leja.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Distant. \"Remote site, a distant part.\""
+  ],
   "source": "https://tesoro.pr"
 }

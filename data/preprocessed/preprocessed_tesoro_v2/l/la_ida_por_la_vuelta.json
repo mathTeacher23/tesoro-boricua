@@ -3,9 +3,12 @@
   "term": "la ida por la vuelta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Viaje o estancia breve o de corta duración",
+      "consolidated_definition": "Viaje o estancia breve o de corta duración.",
+      "en_consolidated_definition": "Short or brief trip or stay of short duration.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Viaje o estancia breve o de corta duración"
+    "Viaje o estancia breve o de corta duración."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Short or brief trip or stay of short duration."
+  ],
   "source": "https://tesoro.pr"
 }

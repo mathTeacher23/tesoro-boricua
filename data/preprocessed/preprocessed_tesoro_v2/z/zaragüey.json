@@ -3,15 +3,18 @@
   "term": "zaragüey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En brujería",
+      "consolidated_definition": "Influencia mala o negativa ejercida por espíritus sobrenaturales en la brujería.",
+      "en_consolidated_definition": "Malevolent or negative influence exerted by supernatural entities in folk magic or witchcraft.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3721",
         "semantic_similarity_score": 0.3721,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,9 +43,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Planta curativa",
+      "consolidated_definition": "Planta curativa. También llamada Santa María de la Cruz.",
+      "en_consolidated_definition": "Curative plant. Also known as Our Lady of the Cross.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -79,9 +85,12 @@
     }
   },
   "es_definitions": [
-    "En brujería",
-    "Planta curativa"
+    "Influencia mala o negativa ejercida por espíritus sobrenaturales en la brujería.",
+    "Planta curativa. También llamada Santa María de la Cruz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Malevolent or negative influence exerted by supernatural entities in folk magic or witchcraft.",
+    "Curative plant. Also known as Our Lady of the Cross."
+  ],
   "source": "https://tesoro.pr"
 }

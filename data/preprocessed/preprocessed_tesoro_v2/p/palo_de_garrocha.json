@@ -3,9 +3,12 @@
   "term": "palo de garrocha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol llamado garrocho",
+      "consolidated_definition": "Árbol llamado garrocho.",
+      "en_consolidated_definition": "Tree known as garrocho.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Árbol llamado garrocho"
+    "Árbol llamado garrocho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree known as garrocho."
+  ],
   "source": "https://tesoro.pr"
 }

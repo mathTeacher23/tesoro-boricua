@@ -3,9 +3,12 @@
   "term": "nadie sabe para quién trabaja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que no siempre recibe el beneficio quien",
+      "consolidated_definition": "Indica que no siempre recibe el beneficio quien lo merece, sino quien menos esfuerzo realizó por ello.",
+      "en_consolidated_definition": "Indicates that the benefit is not always received by those who deserve it, but rather by those who exerted the least effort to achieve it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Indica que no siempre recibe el beneficio quien"
+    "Indica que no siempre recibe el beneficio quien lo merece, sino quien menos esfuerzo realizó por ello."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Indicates that the benefit is not always received by those who deserve it, but rather by those who exerted the least effort to achieve it."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "nagua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "\"Naguas\" (también escrito \"nagua\" o \"vulg\") se refiere a una enagua o falda de algodón que desde la cintura hasta la media pierna usaban las mujeres indias casadas, y también se usa como grafía alternativa para enagua.",
+      "en_consolidated_definition": "Naguas (also spelled nagua or vulg) refers to a cotton underskirt or skirt that women in Indian marriages wore from the waist down to mid-thigh, and is also used as an alternative spelling for underskirt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.4399",
         "semantic_similarity_score": 0.4399,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino",
@@ -64,9 +67,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona cobarde",
+      "consolidated_definition": "Persona cobarde. Pusilánime.",
+      "en_consolidated_definition": "Cowardly person. Craven individual.\n\nNota: En este caso, he mantenido la traducción literal para reflejar el significado exacto de los términos en español. Sin embargo, es importante destacar que \"pusilánime\" puede tener connotaciones culturales específicas en Puerto Rico, pero en su definición básica se refiere a una persona cobarde o débil de carácter.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -102,9 +108,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Flor de nagua",
+      "consolidated_definition": "Flor de nagua. Nymphaeaceae Nymphaea ampla.",
+      "en_consolidated_definition": "Water Lily Flower. Nymphaeaceae Nymphaea ampla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -139,10 +148,14 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    "Persona cobarde",
-    "Flor de nagua"
+    "\"Naguas\" (también escrito \"nagua\" o \"vulg\") se refiere a una enagua o falda de algodón que desde la cintura hasta la media pierna usaban las mujeres indias casadas, y también se usa como grafía alternativa para enagua.",
+    "Persona cobarde. Pusilánime.",
+    "Flor de nagua. Nymphaeaceae Nymphaea ampla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Naguas (also spelled nagua or vulg) refers to a cotton underskirt or skirt that women in Indian marriages wore from the waist down to mid-thigh, and is also used as an alternative spelling for underskirt.",
+    "Cowardly person. Craven individual.\n\nNota: En este caso, he mantenido la traducción literal para reflejar el significado exacto de los términos en español. Sin embargo, es importante destacar que \"pusilánime\" puede tener connotaciones culturales específicas en Puerto Rico, pero en su definición básica se refiere a una persona cobarde o débil de carácter.",
+    "Water Lily Flower. Nymphaeaceae Nymphaea ampla."
+  ],
   "source": "https://tesoro.pr"
 }

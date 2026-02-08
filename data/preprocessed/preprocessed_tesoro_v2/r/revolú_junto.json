@@ -3,9 +3,12 @@
   "term": "revolú junto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arroz guisado con habichuelas u otro grano seco",
+      "consolidated_definition": "Arroz guisado con habichuelas u otro grano seco, como gandul, maíz o garbanzo.",
+      "en_consolidated_definition": "Rice stew with beans or other dried grains, such as pigeon peas, corn, or chickpeas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Arroz guisado con habichuelas u otro grano seco"
+    "Arroz guisado con habichuelas u otro grano seco, como gandul, maíz o garbanzo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rice stew with beans or other dried grains, such as pigeon peas, corn, or chickpeas."
+  ],
   "source": "https://tesoro.pr"
 }

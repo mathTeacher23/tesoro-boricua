@@ -3,9 +3,12 @@
   "term": "glamur",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver glamor",
+      "consolidated_definition": "Ver glamor .",
+      "en_consolidated_definition": "See glamour.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver glamor"
+    "Ver glamor ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See glamour."
+  ],
   "source": "https://tesoro.pr"
 }

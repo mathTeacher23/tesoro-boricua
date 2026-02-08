@@ -3,9 +3,12 @@
   "term": "plumón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plumero",
+      "consolidated_definition": "Plumero. Mazo de plumas con mango para quitar el polvo a muebles.",
+      "en_consolidated_definition": "Feather duster. A mallet of feathers with a handle for removing dust from furniture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Plumero"
+    "Plumero. Mazo de plumas con mango para quitar el polvo a muebles."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Feather duster. A mallet of feathers with a handle for removing dust from furniture."
+  ],
   "source": "https://tesoro.pr"
 }

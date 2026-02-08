@@ -3,15 +3,18 @@
   "term": "salsa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cierta música moderna muy movida y alegre, relacionado con una organización",
+      "consolidated_definition": "Música moderna caracterizada por un ritmo intenso y energético.",
+      "en_consolidated_definition": "Modern music characterized by an intense and energetic rhythm.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.6648",
         "semantic_similarity_score": 0.6648,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -53,14 +56,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Paliza",
+      "consolidated_definition": "Golpiza violenta y repetida.",
+      "en_consolidated_definition": "Violent and repeated beating.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2913",
-        "semantic_similarity_score": 0.2913,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -89,16 +95,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Paliza.",
           "Golpiza violenta y repetida."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cierta música moderna muy movida y alegre, relacionado con una organización",
-    "Paliza"
+    "Música moderna caracterizada por un ritmo intenso y energético.",
+    "Golpiza violenta y repetida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Modern music characterized by an intense and energetic rhythm.",
+    "Violent and repeated beating."
+  ],
   "source": "https://tesoro.pr"
 }

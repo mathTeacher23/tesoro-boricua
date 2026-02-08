@@ -3,15 +3,18 @@
   "term": "arribar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La mejora física de los animales mediante técnicas o métodos específicos.",
+      "consolidated_definition": "Mejorar físicamente los animales. “Tengo un cerdito que ya va arribando bastante.”",
+      "en_consolidated_definition": "To improve physically the animals. \"I have a piglet that is arriving quite well already.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Alcanzar un resultado o conclusión.",
+      "consolidated_definition": "Alcanzar un resultado o una conclusión.",
+      "en_consolidated_definition": "Achieve a result or conclusion.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "La mejora física de los animales mediante técnicas o métodos específicos.",
-    "Alcanzar un resultado o conclusión."
+    "Mejorar físicamente los animales. “Tengo un cerdito que ya va arribando bastante.”",
+    "Alcanzar un resultado o una conclusión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To improve physically the animals. \"I have a piglet that is arriving quite well already.\"",
+    "Achieve a result or conclusion.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

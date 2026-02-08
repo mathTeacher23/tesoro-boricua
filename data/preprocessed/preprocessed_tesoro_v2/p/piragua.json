@@ -3,9 +3,12 @@
   "term": "piragua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Las piraguas son embarcaciones indígenas grandes y estrechas, mayores que las canoas, usadas para viajes largos y actividades militares, capaces de transportar entre 45 y 50 personas.",
+      "consolidated_definition": "Embarcación indígena grande y estrecha, mayor que la canoa, utilizada para viajes largos y actividades militares, capaz de transportar entre 45 y 50 personas.",
+      "en_consolidated_definition": "Large and narrow indigenous vessel, larger than a canoe, used for long journeys and military activities, capable of transporting between 45 and 50 people.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
@@ -65,15 +68,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cono de hielo raspado con sirop para darle sabor.",
+      "consolidated_definition": "Refresco.",
+      "en_consolidated_definition": "Refreshing drink",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 16,
-        "num_cleaned_definitions": 16,
-        "definition_stability": "Stability: 0.5409",
-        "semantic_similarity_score": 0.5409,
-        "cluster_count": 13,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -168,29 +174,17 @@
           "piragüero, ra"
         ],
         "reference_definitions": [
-          "Hielo rallado con sirop. “Y le hace con su maví —y su carrito de chinas, —competencia a las piraguas —de frambuesa y de vainilla.” Joaquín López López, .",
-          "(general) Hielo raspado en forma de cono, con sirop para darle sabor. En Santo Domingo se llama: yum-yum, frío-frío; en Texas: raspa.",
-          "Un cono de papel con hielo picado.",
-          "Canto de hielo que se guaya.",
-          "Raspado de hielo con sirop.",
-          "Hielo raspado en forma de cono con sirop para darle sabor.",
-          "En el uso popular significa un refresco hecho a base de hielo rallado, en forma de cono, al que se le agrega sirop con colorante, llamándose piragüero al vendedor de dicho refresco.",
-          "Hielo raspado en forma de cono con sirop para darle sabor.",
-          "Hielo raspado en forma de cono con sirop para sabor y color.",
-          "Hielo raspado en forma de cono con sirop para darle sabor. También raspao, raspado.",
-          "Refresco.",
-          "Hielo molido con sirop, que se toma como refresco.",
-          "Refresco hecho con hielo molido y sirope de frutas.",
-          "Hielo raspado con sirop para darle sabor.",
-          ". Refresco granizado.",
           "Refresco."
         ]
       }
     },
     "3": {
       "consolidated_definition": "La petaca o batea de yagua es un objeto tradicional utilizado para lavar ropa en ríos o quebradas.",
+      "en_consolidated_definition": "The yagua tray or petaca is a traditional object used for washing clothes in rivers or streams.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -233,10 +227,14 @@
     }
   },
   "es_definitions": [
-    "Las piraguas son embarcaciones indígenas grandes y estrechas, mayores que las canoas, usadas para viajes largos y actividades militares, capaces de transportar entre 45 y 50 personas.",
-    "Cono de hielo raspado con sirop para darle sabor.",
+    "Embarcación indígena grande y estrecha, mayor que la canoa, utilizada para viajes largos y actividades militares, capaz de transportar entre 45 y 50 personas.",
+    "Refresco.",
     "La petaca o batea de yagua es un objeto tradicional utilizado para lavar ropa en ríos o quebradas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large and narrow indigenous vessel, larger than a canoe, used for long journeys and military activities, capable of transporting between 45 and 50 people.",
+    "Refreshing drink",
+    "The yagua tray or petaca is a traditional object used for washing clothes in rivers or streams."
+  ],
   "source": "https://tesoro.pr"
 }

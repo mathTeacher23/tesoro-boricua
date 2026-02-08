@@ -3,9 +3,12 @@
   "term": "papel picado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta ornamental de flor blanca",
+      "consolidated_definition": "Planta ornamental de flor blanca.",
+      "en_consolidated_definition": "Ornamental plant with white flowers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Planta ornamental de flor blanca"
+    "Planta ornamental de flor blanca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ornamental plant with white flowers."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "avispa negra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una especie de mosquito pequeño, de aproximadamente un octavo de pulgada de longitud, que puede causar daños a la caña de azúcar.",
+      "consolidated_definition": "Especie de mosquita, como de un octavo de pulgada, dañina a la caña de azúcar.",
+      "en_consolidated_definition": "Species of mosquito, approximately one-eighth inch in length, damaging to sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Una especie de mosquito pequeño, de aproximadamente un octavo de pulgada de longitud, que puede causar daños a la caña de azúcar."
+    "Especie de mosquita, como de un octavo de pulgada, dañina a la caña de azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Species of mosquito, approximately one-eighth inch in length, damaging to sugarcane."
+  ],
   "source": "https://tesoro.pr"
 }

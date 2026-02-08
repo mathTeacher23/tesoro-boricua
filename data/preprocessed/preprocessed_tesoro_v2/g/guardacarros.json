@@ -3,9 +3,12 @@
   "term": "guardacarros",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que en los predios de estacionamiento de",
+      "consolidated_definition": "Persona que en los predios de estacionamiento de automóviles, vela por estos.",
+      "en_consolidated_definition": "Automobile parking lot attendant \n\nNota: En este contexto, \"predios de estacionamiento\" se refiere a áreas designadas para el estacionamiento de automóviles. El término \"vigilar\" en español se traduce como \"to watch over\" o \"to keep an eye on\", pero en este caso, es más apropiado utilizar la expresión \"lot attendant\" que se utiliza comúnmente en inglés para describir a alguien que supervisa el estacionamiento de automóviles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona que en los predios de estacionamiento de"
+    "Persona que en los predios de estacionamiento de automóviles, vela por estos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Automobile parking lot attendant \n\nNota: En este contexto, \"predios de estacionamiento\" se refiere a áreas designadas para el estacionamiento de automóviles. El término \"vigilar\" en español se traduce como \"to watch over\" o \"to keep an eye on\", pero en este caso, es más apropiado utilizar la expresión \"lot attendant\" que se utiliza comúnmente en inglés para describir a alguien que supervisa el estacionamiento de automóviles."
+  ],
   "source": "https://tesoro.pr"
 }

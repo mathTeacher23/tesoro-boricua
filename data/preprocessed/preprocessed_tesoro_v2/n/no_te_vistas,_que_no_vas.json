@@ -3,9 +3,12 @@
   "term": "no te vistas, que no vas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que el interlocutor no tiene derecho a",
+      "consolidated_definition": "Indica que el interlocutor no tiene derecho a intervenir o que no participa de lo que se está tratando.",
+      "en_consolidated_definition": "El interlocutor no tiene derecho a intervenir o no participa de lo que se está tratando.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Indica que el interlocutor no tiene derecho a"
+    "Indica que el interlocutor no tiene derecho a intervenir o que no participa de lo que se está tratando."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "El interlocutor no tiene derecho a intervenir o no participa de lo que se está tratando."
+  ],
   "source": "https://tesoro.pr"
 }

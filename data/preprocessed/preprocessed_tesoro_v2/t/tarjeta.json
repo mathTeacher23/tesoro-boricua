@@ -3,15 +3,18 @@
   "term": "tarjeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ficha de anotación, relacionado con una calificación",
+      "consolidated_definition": "Ficha de anotación: Documento o registro que contiene notas y observaciones sobre un tema o asunto específico.",
+      "en_consolidated_definition": "Annotation Card: A document or record containing notes and observations on a specific topic or matter.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4414",
         "semantic_similarity_score": 0.4414,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -47,9 +50,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Blanco u objetivo",
+      "consolidated_definition": "Blanco u objetivo, especialmente de una investigación. “No soy tarjeta de ninguna investigación federal”, afirmó Perelló, quien ha ido a testificar en dos ocasiones a un gran jurado federal.",
+      "en_consolidated_definition": "Neutral or objective, especially in research. \"I am not a card of any federal investigation,\" Perelló stated, who has testified twice before a grand federal jury.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -83,9 +89,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Blanco de tiro",
+      "consolidated_definition": "Blanco de tiro. Mientras no se esté disparando a una tarjeta, el dedo debe estar siempre fuera del gatillo. ()",
+      "en_consolidated_definition": "Target of fire. While not shooting at a target, the finger must always remain outside the trigger.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -114,16 +123,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Blanco de tiro. Mientras no se esté disparando a una tarjeta, el dedo debe estar siempre fuera del gatillo."
+          "Blanco de tiro. Mientras no se esté disparando a una tarjeta, el dedo debe estar siempre fuera del gatillo. ()"
         ]
       }
     }
   },
   "es_definitions": [
-    "Ficha de anotación, relacionado con una calificación",
-    "Blanco u objetivo",
-    "Blanco de tiro"
+    "Ficha de anotación: Documento o registro que contiene notas y observaciones sobre un tema o asunto específico.",
+    "Blanco u objetivo, especialmente de una investigación. “No soy tarjeta de ninguna investigación federal”, afirmó Perelló, quien ha ido a testificar en dos ocasiones a un gran jurado federal.",
+    "Blanco de tiro. Mientras no se esté disparando a una tarjeta, el dedo debe estar siempre fuera del gatillo. ()"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Annotation Card: A document or record containing notes and observations on a specific topic or matter.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Neutral or objective, especially in research. \"I am not a card of any federal investigation,\" Perelló stated, who has testified twice before a grand federal jury.",
+    "Target of fire. While not shooting at a target, the finger must always remain outside the trigger."
+  ],
   "source": "https://tesoro.pr"
 }

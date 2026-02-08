@@ -3,9 +3,12 @@
   "term": "pan de azúcar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto que crece hasta 12 pies de alto",
+      "consolidated_definition": "Arbusto que crece hasta 12 pies de alto, de la familia de las leguminosas. Su flor es blanca, parecida a la azucena, hervida en infusiones sirve para aliviar el asma. Echa las semillas en vainas largas como la caña fístola. También llamado flor de peo.",
+      "en_consolidated_definition": "Shrubby legume that grows up to 12 feet tall. Its white flower resembles a lily and is used in infusions to alleviate asthma. It produces seeds in long pods similar to the fístola cane. Also known as peo flower.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La más dulce y más deliciosa variedad de",
+      "consolidated_definition": "La \"piña morada\" es una variedad extinta de piña caracterizada por su largo y delgado fruto de color verde oscuro que se vuelve morado al madurar.",
+      "en_consolidated_definition": "The \"piña morada\" is an extinct variety of pineapple characterized by its long and slender fruit with a dark green color that turns purple upon ripening.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.7285",
         "semantic_similarity_score": 0.7285,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -90,9 +96,12 @@
     }
   },
   "es_definitions": [
-    "Arbusto que crece hasta 12 pies de alto",
-    "La más dulce y más deliciosa variedad de"
+    "Arbusto que crece hasta 12 pies de alto, de la familia de las leguminosas. Su flor es blanca, parecida a la azucena, hervida en infusiones sirve para aliviar el asma. Echa las semillas en vainas largas como la caña fístola. También llamado flor de peo.",
+    "La \"piña morada\" es una variedad extinta de piña caracterizada por su largo y delgado fruto de color verde oscuro que se vuelve morado al madurar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Shrubby legume that grows up to 12 feet tall. Its white flower resembles a lily and is used in infusions to alleviate asthma. It produces seeds in long pods similar to the fístola cane. Also known as peo flower.",
+    "The \"piña morada\" is an extinct variety of pineapple characterized by its long and slender fruit with a dark green color that turns purple upon ripening."
+  ],
   "source": "https://tesoro.pr"
 }

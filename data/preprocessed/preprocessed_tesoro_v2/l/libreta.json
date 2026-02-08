@@ -3,9 +3,12 @@
   "term": "libreta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuaderno",
+      "consolidated_definition": "Cuaderno.",
+      "en_consolidated_definition": "Notebook \n\n(Nota: En este caso, \"cuaderno\" se traduce directamente a \"notebook\", ya que es un término genérico y no específico de Puerto Rico)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cuaderno"
+    "Cuaderno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Notebook \n\n(Nota: En este caso, \"cuaderno\" se traduce directamente a \"notebook\", ya que es un término genérico y no específico de Puerto Rico)"
+  ],
   "source": "https://tesoro.pr"
 }

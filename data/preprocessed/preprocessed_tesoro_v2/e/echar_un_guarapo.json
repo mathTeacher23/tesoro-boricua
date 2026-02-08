@@ -3,9 +3,12 @@
   "term": "echar un guarapo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver echar un canelo",
+      "consolidated_definition": "Ver echar un canelo .",
+      "en_consolidated_definition": "To throw a canelo.\n\nNota: Un canelo es un tipo de bebida fermentada hecha con caña de azúcar, típica en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver echar un canelo"
+    "Ver echar un canelo ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To throw a canelo.\n\nNota: Un canelo es un tipo de bebida fermentada hecha con caña de azúcar, típica en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

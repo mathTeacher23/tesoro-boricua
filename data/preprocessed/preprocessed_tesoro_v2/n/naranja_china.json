@@ -3,9 +3,12 @@
   "term": "naranja china",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver naranja de la China",
+      "consolidated_definition": "Ver naranja de la China .",
+      "en_consolidated_definition": "Tangerine of China",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver naranja de la China"
+    "Ver naranja de la China ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tangerine of China"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "sopero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Novato",
+      "consolidated_definition": "Novato. Malo.",
+      "en_consolidated_definition": "Inexperienced person. Poor quality or performance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -38,9 +41,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Dícese de la persona que le gusta tomar",
+      "consolidated_definition": "Dícese de la persona que le gusta tomar sopas. También sopista.",
+      "en_consolidated_definition": "Said of a person who enjoys taking soups; also soup connoisseur.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -80,9 +86,12 @@
     }
   },
   "es_definitions": [
-    "Novato",
-    "Dícese de la persona que le gusta tomar"
+    "Novato. Malo.",
+    "Dícese de la persona que le gusta tomar sopas. También sopista."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Inexperienced person. Poor quality or performance.",
+    "Said of a person who enjoys taking soups; also soup connoisseur."
+  ],
   "source": "https://tesoro.pr"
 }

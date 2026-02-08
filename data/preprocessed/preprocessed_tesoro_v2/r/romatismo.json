@@ -3,15 +3,18 @@
   "term": "romatismo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "El reuma es una condición médica que se refiere a una artritis crónica caracterizada por dolor, hinchazón y rigidez en las articulaciones.",
+      "en_consolidated_definition": "Rheumatism is a medical condition characterized by chronic arthritis marked by pain, swelling, and stiffness in the joints.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
         "definition_stability": "Stability: 0.5027",
         "semantic_similarity_score": 0.5027,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -69,8 +72,10 @@
     }
   },
   "es_definitions": [
-    "vulg"
+    "El reuma es una condición médica que se refiere a una artritis crónica caracterizada por dolor, hinchazón y rigidez en las articulaciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rheumatism is a medical condition characterized by chronic arthritis marked by pain, swelling, and stiffness in the joints."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "gallo boto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las peleas de gallos",
+      "consolidated_definition": "En las peleas de gallos, animal que corta mucho con sus espuelas.",
+      "en_consolidated_definition": "In cockfights, animal that cuts much with its spurs.\n\nNota: En este contexto, \"peleas de gallos\" se refiere a las pelejas entre gallos de combate, una práctica tradicional en Puerto Rico y otros países hispanos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En las peleas de gallos"
+    "En las peleas de gallos, animal que corta mucho con sus espuelas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In cockfights, animal that cuts much with its spurs.\n\nNota: En este contexto, \"peleas de gallos\" se refiere a las pelejas entre gallos de combate, una práctica tradicional en Puerto Rico y otros países hispanos."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ostión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ostra pequeña tropical",
+      "consolidated_definition": "Ostra pequeña tropical.",
+      "en_consolidated_definition": "Small tropical oyster.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ostra pequeña tropical"
+    "Ostra pequeña tropical."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small tropical oyster."
+  ],
   "source": "https://tesoro.pr"
 }

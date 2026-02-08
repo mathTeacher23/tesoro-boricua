@@ -3,9 +3,12 @@
   "term": "oruga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Insecto que se alimenta de hojas verdes y",
+      "consolidated_definition": "Insecto que se alimenta de hojas verdes y que es muy dañino en la agricultura.",
+      "en_consolidated_definition": "Insect that feeds on green leaves and is highly damaging to agriculture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Insecto que se alimenta de hojas verdes y"
+    "Insecto que se alimenta de hojas verdes y que es muy dañino en la agricultura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Insect that feeds on green leaves and is highly damaging to agriculture."
+  ],
   "source": "https://tesoro.pr"
 }

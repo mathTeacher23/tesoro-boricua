@@ -3,15 +3,18 @@
   "term": "candombe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Baile. Es un tipo de movimiento corporal rítmico y estilizado, generalmente realizado con música para expresar emoción o disfrutar de la danza.",
+      "consolidated_definition": "Baile.",
+      "en_consolidated_definition": "Dance.\n\nNota: Si se refiere a un baile específico de Puerto Rico, como el \"Baile de Bomba y Plena\", la traducción sería:\n\nBomba and Plena dance.\n\nOtro ejemplo podría ser:\n\nSalsa dance.\n\nSi no hay referencia a un baile específico, la definición anterior es suficiente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Baile. Es un tipo de movimiento corporal rítmico y estilizado, generalmente realizado con música para expresar emoción o disfrutar de la danza."
+    "Baile."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dance.\n\nNota: Si se refiere a un baile específico de Puerto Rico, como el \"Baile de Bomba y Plena\", la traducción sería:\n\nBomba and Plena dance.\n\nOtro ejemplo podría ser:\n\nSalsa dance.\n\nSi no hay referencia a un baile específico, la definición anterior es suficiente."
+  ],
   "source": "https://tesoro.pr"
 }

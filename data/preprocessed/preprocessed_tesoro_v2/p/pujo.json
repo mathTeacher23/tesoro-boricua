@@ -3,9 +3,12 @@
   "term": "pujo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona antipática",
+      "consolidated_definition": "Persona antipática. También pujo de coco.",
+      "en_consolidated_definition": "Persona desagradable. También puño de coco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona antipática"
+    "Persona antipática. También pujo de coco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona desagradable. También puño de coco."
+  ],
   "source": "https://tesoro.pr"
 }

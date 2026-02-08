@@ -3,9 +3,12 @@
   "term": "salitral",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Paraje donde se cría y halla el salitre",
+      "consolidated_definition": "Paraje donde se cría y halla el salitre.",
+      "en_consolidated_definition": "Location where saltwort is cultivated and harvested for its saltpeter deposits.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Paraje donde se cría y halla el salitre"
+    "Paraje donde se cría y halla el salitre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Location where saltwort is cultivated and harvested for its saltpeter deposits."
+  ],
   "source": "https://tesoro.pr"
 }

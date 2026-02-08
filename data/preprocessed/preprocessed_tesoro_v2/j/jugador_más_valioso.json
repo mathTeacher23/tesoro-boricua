@@ -3,9 +3,12 @@
   "term": "jugador más valioso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, pelotero que al final del campeonato contribuyó en mayor medida al éxito de su equipo.",
+      "en_consolidated_definition": "In baseball, a player who contributed most significantly to the success of their team at the end of the championship.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, pelotero que al final del campeonato contribuyó en mayor medida al éxito de su equipo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a player who contributed most significantly to the success of their team at the end of the championship."
+  ],
   "source": "https://tesoro.pr"
 }

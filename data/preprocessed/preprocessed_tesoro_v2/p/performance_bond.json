@@ -3,9 +3,12 @@
   "term": "performance bond",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Seguro que necesita un proyecto para obtener financiamiento",
+      "consolidated_definition": "Seguro que necesita un proyecto para obtener financiamiento.",
+      "en_consolidated_definition": "It is likely that you need a project to secure funding.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Seguro que necesita un proyecto para obtener financiamiento"
+    "Seguro que necesita un proyecto para obtener financiamiento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "It is likely that you need a project to secure funding."
+  ],
   "source": "https://tesoro.pr"
 }

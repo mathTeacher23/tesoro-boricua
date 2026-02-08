@@ -3,9 +3,12 @@
   "term": "kartismo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deporte de competencia con vehículos pequeños",
+      "consolidated_definition": "Deporte de competencia con vehículos pequeños.",
+      "en_consolidated_definition": "Small vehicle racing sport.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Deporte de competencia con vehículos pequeños"
+    "Deporte de competencia con vehículos pequeños."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small vehicle racing sport."
+  ],
   "source": "https://tesoro.pr"
 }

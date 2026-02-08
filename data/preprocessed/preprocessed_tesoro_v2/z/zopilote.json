@@ -3,9 +3,12 @@
   "term": "zopilote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pilote",
+      "consolidated_definition": "Pilote. Estaca gruesa y larga que se hinca en el terreno que no es firme para poder construir sobre ella estructuras pesadas.",
+      "en_consolidated_definition": "Pilot stake. A thick and long stake that is driven into the ground where it is not firm in order to support heavy structures.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pilote"
+    "Pilote. Estaca gruesa y larga que se hinca en el terreno que no es firme para poder construir sobre ella estructuras pesadas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pilot stake. A thick and long stake that is driven into the ground where it is not firm in order to support heavy structures."
+  ],
   "source": "https://tesoro.pr"
 }

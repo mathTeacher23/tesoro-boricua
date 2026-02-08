@@ -3,9 +3,12 @@
   "term": "lunchear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Almorzar",
+      "consolidated_definition": "Almorzar.",
+      "en_consolidated_definition": "To have lunch \n\nNota: En algunos contextos culturales, \"almorzar\" puede referirse a una comida intermedia que se toma entre el desayuno y la cena, especialmente en Puerto Rico donde esta práctica es común.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Almorzar"
+    "Almorzar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To have lunch \n\nNota: En algunos contextos culturales, \"almorzar\" puede referirse a una comida intermedia que se toma entre el desayuno y la cena, especialmente en Puerto Rico donde esta práctica es común."
+  ],
   "source": "https://tesoro.pr"
 }

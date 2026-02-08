@@ -3,9 +3,12 @@
   "term": "de tierra adentro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Propio del campo o de una zona alejada",
+      "consolidated_definition": "Propio del campo o de una zona alejada de lugares poblados.",
+      "en_consolidated_definition": "Characteristic of a field or an area remote from populated places.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Propio del campo o de una zona alejada"
+    "Propio del campo o de una zona alejada de lugares poblados."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Characteristic of a field or an area remote from populated places.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

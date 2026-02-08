@@ -3,15 +3,18 @@
   "term": "faltar",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Ser infiel en el matrimonio.",
+      "consolidated_definition": "Ser infiel en un matrimonio establecido.",
+      "en_consolidated_definition": "Adulterio en un matrimonio establecido.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4477",
-        "semantic_similarity_score": 0.4477,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4612",
+        "semantic_similarity_score": 0.4612,
+        "cluster_count": 3,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -44,14 +47,16 @@
         "reference_definitions": [
           ". Ser infiel en el matrimonio.",
           ". Insultar a un igual o a un superior. Ofender, provocar.",
-          "Quererse con otro hombre que no sea su marido."
+          "Quererse la mujer con otro hombre que no sea su marido."
         ]
       }
     }
   },
   "es_definitions": [
-    ". Ser infiel en el matrimonio."
+    "Ser infiel en un matrimonio establecido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Adulterio en un matrimonio establecido."
+  ],
   "source": "https://tesoro.pr"
 }

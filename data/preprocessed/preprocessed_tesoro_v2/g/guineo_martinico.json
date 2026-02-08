@@ -3,9 +3,12 @@
   "term": "guineo martinico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por Ponce se recoge la mención de guineo",
+      "consolidated_definition": "Por Ponce se recoge la mención de guineo martinico para el guineo gigante.",
+      "en_consolidated_definition": "Ponce refers to the mention of Martinique guineo for the giant guineo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Por Ponce se recoge la mención de guineo"
+    "Por Ponce se recoge la mención de guineo martinico para el guineo gigante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ponce refers to the mention of Martinique guineo for the giant guineo."
+  ],
   "source": "https://tesoro.pr"
 }

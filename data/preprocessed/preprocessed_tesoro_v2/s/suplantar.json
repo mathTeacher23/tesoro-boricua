@@ -3,9 +3,12 @@
   "term": "suplantar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por substituir",
+      "consolidated_definition": "Por substituir.",
+      "en_consolidated_definition": "To substitute in place of.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Por substituir"
+    "Por substituir."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To substitute in place of."
+  ],
   "source": "https://tesoro.pr"
 }

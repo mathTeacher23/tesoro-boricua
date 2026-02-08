@@ -3,9 +3,12 @@
   "term": "galejos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rizos, relacionado con un grupo",
+      "consolidated_definition": "Rizos. Sólo personas muy ancianas emplean el término.",
+      "en_consolidated_definition": "Gray locks. Only very elderly people use this term.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Rizos, relacionado con un grupo"
+    "Rizos. Sólo personas muy ancianas emplean el término."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gray locks. Only very elderly people use this term."
+  ],
   "source": "https://tesoro.pr"
 }

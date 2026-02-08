@@ -3,15 +3,18 @@
   "term": "manguera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aguacero torrencial acompañado de vientos fuertes en todas",
+      "consolidated_definition": "Aguacero torrencial acompañado de vientos fuertes en todas direcciones.",
+      "en_consolidated_definition": "Torrential downpour accompanied by strong winds in all directions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.6804",
-        "semantic_similarity_score": 0.6804,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6725",
+        "semantic_similarity_score": 0.6725,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -58,7 +61,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Aguacero torrencial acompañado de vientos fuertes en todas direcciones.",
+          "(general) Aguacero torrencial acompañado de vientos fuertes en todas direcciones.",
           "“Nube que trae remolino de viento.”",
           "Aguacero torrencial acompañado de vientos fuertes en todas direcciones.",
           "Aguacero torrencial con vientos fuertes en todas direcciones.",
@@ -68,9 +71,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "En las centrales tiene el sentido de hamaca",
+      "consolidated_definition": "En las centrales tiene el sentido de hamaca, enrejado.",
+      "en_consolidated_definition": "In the central areas, it has the sense of hammock, lattice.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -107,9 +113,12 @@
     }
   },
   "es_definitions": [
-    "Aguacero torrencial acompañado de vientos fuertes en todas",
-    "En las centrales tiene el sentido de hamaca"
+    "Aguacero torrencial acompañado de vientos fuertes en todas direcciones.",
+    "En las centrales tiene el sentido de hamaca, enrejado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Torrential downpour accompanied by strong winds in all directions.",
+    "In the central areas, it has the sense of hammock, lattice."
+  ],
   "source": "https://tesoro.pr"
 }

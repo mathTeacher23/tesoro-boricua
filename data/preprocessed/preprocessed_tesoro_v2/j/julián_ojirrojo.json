@@ -3,9 +3,12 @@
   "term": "julián ojirrojo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver chiví 2",
+      "consolidated_definition": "Ver chiví 2 .",
+      "en_consolidated_definition": "See chiví 2.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver chiví 2"
+    "Ver chiví 2 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See chiví 2."
+  ],
   "source": "https://tesoro.pr"
 }

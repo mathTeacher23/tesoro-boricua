@@ -3,15 +3,18 @@
   "term": "tintorera",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". La hembra del tiburón. “Has pescado una hermosísima tintorera.” Morales Cabrera, Cuentos populares, 1914, p. 117.",
+      "consolidated_definition": "Pez, hembra del tiburón.",
+      "en_consolidated_definition": "Female shark.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4269",
-        "semantic_similarity_score": 0.4269,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4498",
+        "semantic_similarity_score": 0.4498,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -56,21 +59,24 @@
           ". La hembra del tiburón. “Has pescado una hermosísima tintorera.” Morales Cabrera, Cuentos populares, 1914, p. 117.",
           "Pez conocido también como tiburón blanco. Frecuenta la orilla y los bajos de la costa. Mide aproximadamente seis pies de largo.",
           "Pez.",
-          "Pez, de la familia Carcharhinidae . Negaprion brevirostris. También caconeta, cazón.",
+          "Pez, de la familia Carcharhinidae (tiburones). Negaprion brevirostris. También caconeta, cazón.",
           "Hembra del tiburón."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "fig",
+      "consolidated_definition": "Un fig es un gabán viejo que ha sido lavado o desteñido.",
+      "en_consolidated_definition": "A fig is an old coat that has been washed or bleached.\n\nNota: En este caso, \"fig\" es un término coloquial en español puertorriqueño que se refiere a una gabardina o un abrigo viejo y desgastado. La traducción literal mantiene el significado exacto del término original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8366",
-        "semantic_similarity_score": 0.8366,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.8248",
+        "semantic_similarity_score": 0.8248,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -98,15 +104,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "fig. Gabán viejo que ha sido ya lavado o teñido .",
+          "fig. Gabán viejo que ha sido ya lavado o teñido (que estuvo ya en la tintorería).",
           "Gabán viejo ya lavado y desteñido."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Persona astuta",
+      "consolidated_definition": "Persona astuta.",
+      "en_consolidated_definition": "Cunning person.\n\nNota: La palabra \"astuta\" puede tener connotaciones de astucia o habilidad para engañar, pero en el contexto de Puerto Rico, también se asocia con la idea de ser hábil y sagaz. Por lo tanto, la traducción a \"cunning person\" busca capturar este sentido de astucia y habilidad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -141,10 +150,14 @@
     }
   },
   "es_definitions": [
-    ". La hembra del tiburón. “Has pescado una hermosísima tintorera.” Morales Cabrera, Cuentos populares, 1914, p. 117.",
-    "fig",
-    "Persona astuta"
+    "Pez, hembra del tiburón.",
+    "Un fig es un gabán viejo que ha sido lavado o desteñido.",
+    "Persona astuta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Female shark.",
+    "A fig is an old coat that has been washed or bleached.\n\nNota: En este caso, \"fig\" es un término coloquial en español puertorriqueño que se refiere a una gabardina o un abrigo viejo y desgastado. La traducción literal mantiene el significado exacto del término original.",
+    "Cunning person.\n\nNota: La palabra \"astuta\" puede tener connotaciones de astucia o habilidad para engañar, pero en el contexto de Puerto Rico, también se asocia con la idea de ser hábil y sagaz. Por lo tanto, la traducción a \"cunning person\" busca capturar este sentido de astucia y habilidad."
+  ],
   "source": "https://tesoro.pr"
 }

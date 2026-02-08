@@ -3,14 +3,17 @@
   "term": "tortera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Picapica",
+      "consolidated_definition": "Planta trepadora.",
+      "en_consolidated_definition": "Climbing plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.653",
-        "semantic_similarity_score": 0.653,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,20 +42,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Picapica, planta.",
           "Planta trepadora."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "El conjunto de huevos de una nigua",
+      "consolidated_definition": "Conjunto de huevos de una nigua.",
+      "en_consolidated_definition": "A clutch of iguana eggs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9788",
-        "semantic_similarity_score": 0.9788,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -81,15 +86,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El conjunto de huevos de una nigua.",
           "Conjunto de huevos de una nigua."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Prostituta que practica el lesbianismo",
+      "consolidated_definition": "Prostituta que practica el lesbianismo.",
+      "en_consolidated_definition": "Lesbian prostitute",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -125,9 +132,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Base",
+      "consolidated_definition": "Base, redonda, del huso de hilar, ya en desuso.",
+      "en_consolidated_definition": "Spindle base, rounded, of the spinning spindle, now obsolete.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -162,11 +172,16 @@
     }
   },
   "es_definitions": [
-    "Picapica",
-    "El conjunto de huevos de una nigua",
-    "Prostituta que practica el lesbianismo",
-    "Base"
+    "Planta trepadora.",
+    "Conjunto de huevos de una nigua.",
+    "Prostituta que practica el lesbianismo.",
+    "Base, redonda, del huso de hilar, ya en desuso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Climbing plant.",
+    "A clutch of iguana eggs.",
+    "Lesbian prostitute",
+    "Spindle base, rounded, of the spinning spindle, now obsolete."
+  ],
   "source": "https://tesoro.pr"
 }

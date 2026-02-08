@@ -3,15 +3,18 @@
   "term": "petatero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona de poco valer",
+      "consolidated_definition": "Persona de poco valer o de poca instrucción.",
+      "en_consolidated_definition": "Person of little worth or scant education.\n\nNota: En este caso, no se trata de un término cultural específico de Puerto Rico, sino que es una expresión común en el español peninsular y latinoamericano. Sin embargo, si fuera necesario traducir un término cultural específico de Puerto Rico, lo haría con precisión y respetando su contexto original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.8815",
         "semantic_similarity_score": 0.8815,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "adjetivo"
         ],
@@ -44,9 +47,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Dícese de la persona que hace petates",
+      "consolidated_definition": "Dícese de la persona que hace petates, como artesanía, decorados con hollejos en distintos tonos del color castaño que tiene el hollejo.",
+      "en_consolidated_definition": "This is said of the person who makes petates, such as handicrafts, decorated with hulls in different shades of the chestnut color that the hull has.\n\nNota: Para mantener el contexto cultural de Puerto Rico, he mantenido la palabra \"petates\" en su forma original, ya que es un término específico de la cultura puertorriqueña.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -81,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Persona de poco valer",
-    "Dícese de la persona que hace petates"
+    "Persona de poco valer o de poca instrucción.",
+    "Dícese de la persona que hace petates, como artesanía, decorados con hollejos en distintos tonos del color castaño que tiene el hollejo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person of little worth or scant education.\n\nNota: En este caso, no se trata de un término cultural específico de Puerto Rico, sino que es una expresión común en el español peninsular y latinoamericano. Sin embargo, si fuera necesario traducir un término cultural específico de Puerto Rico, lo haría con precisión y respetando su contexto original.",
+    "This is said of the person who makes petates, such as handicrafts, decorated with hulls in different shades of the chestnut color that the hull has.\n\nNota: Para mantener el contexto cultural de Puerto Rico, he mantenido la palabra \"petates\" en su forma original, ya que es un término específico de la cultura puertorriqueña."
+  ],
   "source": "https://tesoro.pr"
 }

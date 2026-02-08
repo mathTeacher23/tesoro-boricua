@@ -3,15 +3,18 @@
   "term": "carbonero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El pez Caranx cibi, también conocido como Iridinops evermanni, es un pez de hasta 60 cm de longitud que se caracteriza por su semejanza con la cojinúa; tiene un cuerpo ovalado, un dorso de color oliváceo o azul verdoso, lados plateados y un vientre con tonalidades rosadas, y su carne es muy apreciada. (Carangidae).",
+      "consolidated_definition": "Pez de hasta 60 cm de longitud, de cuerpo ovalado, dorso de color oliváceo o azul verdoso, lados plateados y vientre con tonalidades rosadas; su carne es muy apreciada. (Carangidae; Caranx crysos).",
+      "en_consolidated_definition": "Fish of up to 60 cm in length, with an oval-shaped body, olive or blue-green back, silver sides, and a pink-tinged belly; its flesh is highly prized. (Carangidae; Caranx crysos).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4154",
-        "semantic_similarity_score": 0.4154,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez parecido a la cojinúa. (Carnax cibi; iridinus). Evermann, 130.",
           "Pez de hasta 60 cm de longitud, de cuerpo ovalado, dorso de color oliváceo o azul verdoso, lados plateados y vientre con tonalidades rosadas; su carne es muy apreciada. (Carangidae; Caranx crysos)."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Nombre genérico común a varias plantas de diferentes familias, como las mimosáceas o las euforbiáceas, cuya madera se utiliza para hacer carbón.",
+      "consolidated_definition": ". Cuba y P. Rico. Nombre genérico común a varias plantas de diferentes familias, como las mimosáceas o las euforbiáceas, cuya madera se utiliza para hacer carbón.",
+      "en_consolidated_definition": "Cuba and P.Rico. Generic common name for various plants of different families, such as the Mimosaceae or Euphorbiaceae, whose wood is used to make charcoal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "El pez Caranx cibi, también conocido como Iridinops evermanni, es un pez de hasta 60 cm de longitud que se caracteriza por su semejanza con la cojinúa; tiene un cuerpo ovalado, un dorso de color oliváceo o azul verdoso, lados plateados y un vientre con tonalidades rosadas, y su carne es muy apreciada. (Carangidae).",
-    "Nombre genérico común a varias plantas de diferentes familias, como las mimosáceas o las euforbiáceas, cuya madera se utiliza para hacer carbón."
+    "Pez de hasta 60 cm de longitud, de cuerpo ovalado, dorso de color oliváceo o azul verdoso, lados plateados y vientre con tonalidades rosadas; su carne es muy apreciada. (Carangidae; Caranx crysos).",
+    ". Cuba y P. Rico. Nombre genérico común a varias plantas de diferentes familias, como las mimosáceas o las euforbiáceas, cuya madera se utiliza para hacer carbón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fish of up to 60 cm in length, with an oval-shaped body, olive or blue-green back, silver sides, and a pink-tinged belly; its flesh is highly prized. (Carangidae; Caranx crysos).",
+    "Cuba and P.Rico. Generic common name for various plants of different families, such as the Mimosaceae or Euphorbiaceae, whose wood is used to make charcoal."
+  ],
   "source": "https://tesoro.pr"
 }

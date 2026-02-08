@@ -3,9 +3,12 @@
   "term": "gato",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombre enamoradizo y conquistador",
+      "consolidated_definition": "(general) Hombre enamoradizo y conquistador.",
+      "en_consolidated_definition": "Amorous and conquest-prone man.\n\nNota: La palabra \"amoroso\" se refiere a alguien que siente un fuerte apego emocional hacia otra persona, y \"conquistador\" se utiliza aquí en el sentido de alguien que busca conquistar el corazón de otra persona.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hombre enamoradizo y conquistador."
+          "(general) Hombre enamoradizo y conquistador."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Porción de terreno difícil de trabajar y de",
+      "consolidated_definition": "Porción de terreno difícil de trabajar y de peor rendimiendo.",
+      "en_consolidated_definition": "Parcel of land difficult to work and with poorer yield.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,9 +83,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Parte del virador que aguanta el camión para",
+      "consolidated_definition": "Parte del virador que aguanta el camión para virarlo.",
+      "en_consolidated_definition": "Part of the turntable that supports the truck to turn it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -114,10 +123,14 @@
     }
   },
   "es_definitions": [
-    "Hombre enamoradizo y conquistador",
-    "Porción de terreno difícil de trabajar y de",
-    "Parte del virador que aguanta el camión para"
+    "(general) Hombre enamoradizo y conquistador.",
+    "Porción de terreno difícil de trabajar y de peor rendimiendo.",
+    "Parte del virador que aguanta el camión para virarlo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Amorous and conquest-prone man.\n\nNota: La palabra \"amoroso\" se refiere a alguien que siente un fuerte apego emocional hacia otra persona, y \"conquistador\" se utiliza aquí en el sentido de alguien que busca conquistar el corazón de otra persona.",
+    "Parcel of land difficult to work and with poorer yield.",
+    "Part of the turntable that supports the truck to turn it."
+  ],
   "source": "https://tesoro.pr"
 }

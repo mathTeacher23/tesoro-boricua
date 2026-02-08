@@ -3,9 +3,12 @@
   "term": "dulce de batea",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ciertos dulces que suelen venderse en bateas en",
+      "consolidated_definition": "Ciertos dulces que suelen venderse en bateas en la vía pública.",
+      "en_consolidated_definition": "Certain sweets that are often sold from street carts in public thoroughfares.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ciertos dulces que suelen venderse en bateas en"
+    "Ciertos dulces que suelen venderse en bateas en la vía pública."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Certain sweets that are often sold from street carts in public thoroughfares."
+  ],
   "source": "https://tesoro.pr"
 }

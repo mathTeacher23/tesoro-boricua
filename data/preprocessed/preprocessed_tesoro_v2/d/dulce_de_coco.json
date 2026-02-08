@@ -3,9 +3,12 @@
   "term": "dulce de coco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golosina preparada con pulpa rallada de coco",
+      "consolidated_definition": "Golosina preparada con pulpa rallada de coco, azúcar mascabada y especias.",
+      "en_consolidated_definition": "Coconut confection prepared with grated coconut pulp, brown sugar, and spices.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Golosina preparada con pulpa rallada de coco"
+    "Golosina preparada con pulpa rallada de coco, azúcar mascabada y especias."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coconut confection prepared with grated coconut pulp, brown sugar, and spices."
+  ],
   "source": "https://tesoro.pr"
 }

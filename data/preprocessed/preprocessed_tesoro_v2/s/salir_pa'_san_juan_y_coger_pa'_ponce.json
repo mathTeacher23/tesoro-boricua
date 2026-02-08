@@ -3,9 +3,12 @@
   "term": "salir pa' san juan y coger pa' ponce",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empezar a narrar algún suceso y digregar hablando",
+      "consolidated_definition": "Empezar a narrar algún suceso y digregar hablando de cosa diferente.",
+      "en_consolidated_definition": "To begin narrating an event and then diverge into speaking of something else.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Empezar a narrar algún suceso y digregar hablando"
+    "Empezar a narrar algún suceso y digregar hablando de cosa diferente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To begin narrating an event and then diverge into speaking of something else."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "puntilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Puntera del zapato",
+      "consolidated_definition": "Puntera del zapato.",
+      "en_consolidated_definition": "Toe tip of a shoe.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Puntera del zapato"
+    "Puntera del zapato."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Toe tip of a shoe."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "zacún",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Excelente",
+      "consolidated_definition": "\"Excelente\": calificativo que describe algo o alguien como destacado, sobresaliente o de alta calidad.",
+      "en_consolidated_definition": "Exceptional: an adjective that describes something or someone as outstanding, superior, or of high quality.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3724",
         "semantic_similarity_score": 0.3724,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "interjección"
         ],
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Excelente"
+    "\"Excelente\": calificativo que describe algo o alguien como destacado, sobresaliente o de alta calidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Exceptional: an adjective that describes something or someone as outstanding, superior, or of high quality."
+  ],
   "source": "https://tesoro.pr"
 }

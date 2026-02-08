@@ -3,15 +3,18 @@
   "term": "aerobús",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Avión comercial europeo que transporta un gran número de pasajeros en trayectos de corta y media distancia.",
+      "consolidated_definition": "aviac. Avión comercial europeo que admite un gran número de pasajeros y realiza trayectos de corta y media distancia. Calco de estructura, poco frecuente American Airlines anunció la sustitución de uno de sus tres viajes de ida y vuelta diarios con un aerobús de 267 asientos A300 (El Nuevo Día, consultado 12-04-06)",
+      "en_consolidated_definition": "Commercial European airliner that accommodates a large number of passengers and operates short- to medium-haul routes. \n\nNota: El término \"aviac\" se refiere a \"aeronáutica\", pero en este contexto se utiliza como abreviatura para referirse a la industria del transporte aéreo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Aerobús: vehículo que se desliza por cables suspendidos en el aire, similar a un autobús o tranvía.",
+      "consolidated_definition": "transp. Autobús o tranvía que se desliza por cables suspendidos en el aire. Anglicismo adaptado, poco frecuente. 40.000 pasajeros por hora que viajan a través de cables suspendidos en el aire, a una velocidad de 100 km/h, son razones para tener en cuenta al aerobús entre la baraja de opciones (Aerobus, PR, febrero 2008)",
+      "en_consolidated_definition": "Aerial tram or cable car bus that glides along suspended cables in the air. Anglicism adapted, relatively uncommon. 40,000 passengers per hour traveling through suspended cables in the air at a speed of 100 km/h are reasons to consider the aerobus among options (Aerobus, PR, February 2008)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Avión comercial europeo que transporta un gran número de pasajeros en trayectos de corta y media distancia.",
-    "Aerobús: vehículo que se desliza por cables suspendidos en el aire, similar a un autobús o tranvía."
+    "aviac. Avión comercial europeo que admite un gran número de pasajeros y realiza trayectos de corta y media distancia. Calco de estructura, poco frecuente American Airlines anunció la sustitución de uno de sus tres viajes de ida y vuelta diarios con un aerobús de 267 asientos A300 (El Nuevo Día, consultado 12-04-06)",
+    "transp. Autobús o tranvía que se desliza por cables suspendidos en el aire. Anglicismo adaptado, poco frecuente. 40.000 pasajeros por hora que viajan a través de cables suspendidos en el aire, a una velocidad de 100 km/h, son razones para tener en cuenta al aerobús entre la baraja de opciones (Aerobus, PR, febrero 2008)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Commercial European airliner that accommodates a large number of passengers and operates short- to medium-haul routes. \n\nNota: El término \"aviac\" se refiere a \"aeronáutica\", pero en este contexto se utiliza como abreviatura para referirse a la industria del transporte aéreo.",
+    "Aerial tram or cable car bus that glides along suspended cables in the air. Anglicism adapted, relatively uncommon. 40,000 passengers per hour traveling through suspended cables in the air at a speed of 100 km/h are reasons to consider the aerobus among options (Aerobus, PR, February 2008)"
+  ],
   "source": "https://tesoro.pr"
 }

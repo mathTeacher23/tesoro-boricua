@@ -3,9 +3,12 @@
   "term": "pitcheo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, lanzamiento de la pelota que efectúa el pícher al bateador del equipo contrario.",
+      "en_consolidated_definition": "Pitch to the batter of the opposing team, a type of pitch thrown by the pitcher in baseball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, lanzamiento de la pelota que efectúa el pícher al bateador del equipo contrario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pitch to the batter of the opposing team, a type of pitch thrown by the pitcher in baseball."
+  ],
   "source": "https://tesoro.pr"
 }

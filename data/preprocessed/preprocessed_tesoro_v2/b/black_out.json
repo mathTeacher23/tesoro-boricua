@@ -3,15 +3,18 @@
   "term": "black out",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un apagón eléctrico es un corte temporal o interrupción en la suministración de electricidad a un área o comunidad.",
+      "consolidated_definition": "Apagón eléctrico.",
+      "en_consolidated_definition": "Power outage \n\nNota: En algunos contextos, se puede referir a un \"apagón\" como una interrupción temporal o prolongada del suministro eléctrico en Puerto Rico, especialmente durante los huracanes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.8599",
-        "semantic_similarity_score": 0.8599,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -44,22 +47,23 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Apagón.",
-          "Apagón eléctrico.",
           "Apagón eléctrico."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Bebida refrescante hecha con helado, generalmente de vainilla, mezclado con coca-cola.",
+      "consolidated_definition": "Bebida refrescante hecha con helado, generalmente de vainilla, batido con un refresco de cola.",
+      "en_consolidated_definition": "Refreshing beverage made with ice cream, typically vanilla, blended with a cola-flavored soft drink.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.642",
-        "semantic_similarity_score": 0.642,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -92,22 +96,23 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Bebida frescante hecha con helado, generalmente de vainilla, batido con coca-cola. (En España le llaman blanco y negro).",
-          "Tipo de bebida que se hace con cola y mantecado.",
           "Bebida refrescante hecha con helado, generalmente de vainilla, batido con un refresco de cola."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Una cortina opaca es un tipo de cortina que impide la entrada de luz en una habitación.",
+      "consolidated_definition": "Cortina opaca que no permite que penetren los rayos de luz en una habitación.",
+      "en_consolidated_definition": "Light-blocking curtain that prevents sunlight from entering a room.\n\nNota: No se identificaron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -138,10 +143,14 @@
     }
   },
   "es_definitions": [
-    "Un apagón eléctrico es un corte temporal o interrupción en la suministración de electricidad a un área o comunidad.",
-    "Bebida refrescante hecha con helado, generalmente de vainilla, mezclado con coca-cola.",
-    "Una cortina opaca es un tipo de cortina que impide la entrada de luz en una habitación."
+    "Apagón eléctrico.",
+    "Bebida refrescante hecha con helado, generalmente de vainilla, batido con un refresco de cola.",
+    "Cortina opaca que no permite que penetren los rayos de luz en una habitación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Power outage \n\nNota: En algunos contextos, se puede referir a un \"apagón\" como una interrupción temporal o prolongada del suministro eléctrico en Puerto Rico, especialmente durante los huracanes.",
+    "Refreshing beverage made with ice cream, typically vanilla, blended with a cola-flavored soft drink.",
+    "Light-blocking curtain that prevents sunlight from entering a room.\n\nNota: No se identificaron términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

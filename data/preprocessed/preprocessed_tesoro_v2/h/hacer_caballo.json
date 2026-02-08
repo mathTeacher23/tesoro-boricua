@@ -3,9 +3,12 @@
   "term": "hacer caballo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "hacer una combinación entre varias un grupo",
+      "consolidated_definition": "Hacer una combinación entre varias personas para comprar la droga.",
+      "en_consolidated_definition": "To combine several individuals in a joint purchase of illicit substances.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "hacer una combinación entre varias un grupo"
+    "Hacer una combinación entre varias personas para comprar la droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To combine several individuals in a joint purchase of illicit substances."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tiraje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cantidad de ejemplares que se imprimen de una",
+      "consolidated_definition": "Cantidad de ejemplares que se imprimen de una vez. Tirada.",
+      "en_consolidated_definition": "Quantity of copies printed at one time. Print run.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cantidad de ejemplares que se imprimen de una"
+    "Cantidad de ejemplares que se imprimen de una vez. Tirada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Quantity of copies printed at one time. Print run."
+  ],
   "source": "https://tesoro.pr"
 }

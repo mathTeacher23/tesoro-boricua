@@ -3,9 +3,12 @@
   "term": "trabajo de medio tiempo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajo por varias horas al día",
+      "consolidated_definition": "Trabajo por varias horas al día, pero con carácter permanente.",
+      "en_consolidated_definition": "Full-time work involving several hours of labor per day.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Trabajo por varias horas al día"
+    "Trabajo por varias horas al día, pero con carácter permanente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Full-time work involving several hours of labor per day."
+  ],
   "source": "https://tesoro.pr"
 }

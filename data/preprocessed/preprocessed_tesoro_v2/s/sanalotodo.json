@@ -3,9 +3,12 @@
   "term": "sanalotodo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Medicamento campesino compuesto de tabonuco",
+      "consolidated_definition": "Medicamento campesino compuesto de tabonuco, tabaco, aceite y flor de ceniza. Se usa para curar heridas y golpes.",
+      "en_consolidated_definition": "Rural remedy composed of tabonuco, tobacco, oil, and ash flower. Used to treat wounds and bruises.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Medicamento campesino compuesto de tabonuco"
+    "Medicamento campesino compuesto de tabonuco, tabaco, aceite y flor de ceniza. Se usa para curar heridas y golpes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rural remedy composed of tabonuco, tobacco, oil, and ash flower. Used to treat wounds and bruises."
+  ],
   "source": "https://tesoro.pr"
 }

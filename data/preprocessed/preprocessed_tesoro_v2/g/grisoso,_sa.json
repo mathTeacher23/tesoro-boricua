@@ -3,9 +3,12 @@
   "term": "grisoso, sa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a cosa",
+      "consolidated_definition": "Referido a cosa, de color grisáceo, que tira a gris.",
+      "en_consolidated_definition": "Referent to a thing of a grayish color, tending towards gray.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Referido a cosa"
+    "Referido a cosa, de color grisáceo, que tira a gris."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referent to a thing of a grayish color, tending towards gray."
+  ],
   "source": "https://tesoro.pr"
 }

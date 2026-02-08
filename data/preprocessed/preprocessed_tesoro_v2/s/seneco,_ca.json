@@ -3,9 +3,12 @@
   "term": "seneco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Algo que se da en abundancia",
+      "consolidated_definition": "Algo que se da en abundancia. Equivale a choreto.",
+      "en_consolidated_definition": "Something that is given in abundance. Equivalent to choreto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Algo que se da en abundancia"
+    "Algo que se da en abundancia. Equivale a choreto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Something that is given in abundance. Equivalent to choreto."
+  ],
   "source": "https://tesoro.pr"
 }

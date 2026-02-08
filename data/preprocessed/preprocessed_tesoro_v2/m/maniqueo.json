@@ -3,9 +3,12 @@
   "term": "maniqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gesticulación con las manos al hablar",
+      "consolidated_definition": "Gesticulación con las manos al hablar. Manoteo.",
+      "en_consolidated_definition": "Hand gesture while speaking, characterized by exaggerated movements of the hands.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gesticulación con las manos al hablar"
+    "Gesticulación con las manos al hablar. Manoteo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hand gesture while speaking, characterized by exaggerated movements of the hands."
+  ],
   "source": "https://tesoro.pr"
 }

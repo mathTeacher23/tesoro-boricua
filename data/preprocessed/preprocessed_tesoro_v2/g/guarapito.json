@@ -3,9 +3,12 @@
   "term": "guarapito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver guarapillo",
+      "consolidated_definition": "Ver guarapillo .",
+      "en_consolidated_definition": "See guarapillo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver guarapillo"
+    "Ver guarapillo ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See guarapillo."
+  ],
   "source": "https://tesoro.pr"
 }

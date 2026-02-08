@@ -3,9 +3,12 @@
   "term": "eslacs",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pantalón de mujer o de hombre muy holgado",
+      "consolidated_definition": "Pantalón de mujer o de hombre muy holgado, para uso informal en la casa.",
+      "en_consolidated_definition": "Loose-fitting pants for women or men, used informally at home.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pantalón de mujer o de hombre muy holgado"
+    "Pantalón de mujer o de hombre muy holgado, para uso informal en la casa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Loose-fitting pants for women or men, used informally at home."
+  ],
   "source": "https://tesoro.pr"
 }

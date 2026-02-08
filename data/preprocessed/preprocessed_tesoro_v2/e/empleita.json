@@ -3,9 +3,12 @@
   "term": "empleita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empresa",
+      "consolidated_definition": "Empresa, empresas, negocios.",
+      "en_consolidated_definition": "Businesses, business, enterprise.\n\nNota: En este caso, no se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si hubiera sido necesario, habría preservado el contexto y traducido los términos con precisión.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,14 +42,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cola venenosa con la cual pica",
+      "consolidated_definition": "Cola venenosa del alacrán.",
+      "en_consolidated_definition": "Scorpion's venomous tail.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7262",
-        "semantic_similarity_score": 0.7262,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -75,21 +81,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cola venenosa con la cual pica .",
           "Cola venenosa del alacrán."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Molde rústico para hacer el llamado queso de",
+      "consolidated_definition": "\"Quesito\": objeto cilíndrico para hacer queso, generalmente hecho de yagua, cartón u hoja de lata.",
+      "en_consolidated_definition": "Cylinder for making cheese, typically made of yagua, cardboard, or tin foil.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.7637",
         "semantic_similarity_score": 0.7637,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -131,9 +139,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Cierto tejido hecho con cinco hollejos en forma",
+      "consolidated_definition": "Cierto tejido hecho con cinco hollejos en forma plana y fina, usado como cinturón.",
+      "en_consolidated_definition": "A certain fabric made from five flat and fine hollejos, used as a belt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -167,9 +178,12 @@
       }
     },
     "5": {
-      "consolidated_definition": "Sombrero campesino tejido con hojas de palma",
+      "consolidated_definition": "Sombrero campesino tejido con hojas de palma.",
+      "en_consolidated_definition": "Rural hat woven from palm leaves.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -204,12 +218,18 @@
     }
   },
   "es_definitions": [
-    "Empresa",
-    "Cola venenosa con la cual pica",
-    "Molde rústico para hacer el llamado queso de",
-    "Cierto tejido hecho con cinco hollejos en forma",
-    "Sombrero campesino tejido con hojas de palma"
+    "Empresa, empresas, negocios.",
+    "Cola venenosa del alacrán.",
+    "\"Quesito\": objeto cilíndrico para hacer queso, generalmente hecho de yagua, cartón u hoja de lata.",
+    "Cierto tejido hecho con cinco hollejos en forma plana y fina, usado como cinturón.",
+    "Sombrero campesino tejido con hojas de palma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Businesses, business, enterprise.\n\nNota: En este caso, no se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si hubiera sido necesario, habría preservado el contexto y traducido los términos con precisión.",
+    "Scorpion's venomous tail.",
+    "Cylinder for making cheese, typically made of yagua, cardboard, or tin foil.",
+    "A certain fabric made from five flat and fine hollejos, used as a belt.",
+    "Rural hat woven from palm leaves."
+  ],
   "source": "https://tesoro.pr"
 }

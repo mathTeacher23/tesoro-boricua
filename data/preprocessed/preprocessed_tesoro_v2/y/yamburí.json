@@ -3,9 +3,12 @@
   "term": "yamburí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dulce hecho con harina de maíz",
+      "consolidated_definition": "Dulce hecho con harina de maíz, huevo, sal y azúcar. También dicen yamborí.",
+      "en_consolidated_definition": "Sweet dish made with corn flour, egg, salt, and sugar. Also known as yamborí.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Fiesta de negros",
+      "consolidated_definition": "Fiesta de negros, con cánticos y música de bomba.",
+      "en_consolidated_definition": "Afro-Puerto Rican celebration featuring bomba music and songs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Dulce hecho con harina de maíz",
-    "Fiesta de negros"
+    "Dulce hecho con harina de maíz, huevo, sal y azúcar. También dicen yamborí.",
+    "Fiesta de negros, con cánticos y música de bomba."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sweet dish made with corn flour, egg, salt, and sugar. Also known as yamborí.",
+    "Afro-Puerto Rican celebration featuring bomba music and songs."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "intersección",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bifurcación de caminos",
+      "consolidated_definition": "Bifurcación de caminos. También desvío.",
+      "en_consolidated_definition": "Branching of roads. Also detour.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Bifurcación de caminos"
+    "Bifurcación de caminos. También desvío."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Branching of roads. Also detour."
+  ],
   "source": "https://tesoro.pr"
 }

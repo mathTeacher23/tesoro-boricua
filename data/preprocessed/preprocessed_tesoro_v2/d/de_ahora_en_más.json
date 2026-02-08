@@ -3,9 +3,12 @@
   "term": "de ahora en más",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desde este momento",
+      "consolidated_definition": "Desde este momento, en lo sucesivo.",
+      "en_consolidated_definition": "From this point forward, henceforth.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Desde este momento"
+    "Desde este momento, en lo sucesivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "From this point forward, henceforth."
+  ],
   "source": "https://tesoro.pr"
 }

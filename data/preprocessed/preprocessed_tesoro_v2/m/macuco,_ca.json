@@ -3,9 +3,12 @@
   "term": "macuco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, ladina, astuta o taimada.",
+      "en_consolidated_definition": "Cunning, crafty, or deceitful in a person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona"
+    "Referido a persona, ladina, astuta o taimada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cunning, crafty, or deceitful in a person."
+  ],
   "source": "https://tesoro.pr"
 }

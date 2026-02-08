@@ -3,9 +3,12 @@
   "term": "plátano rallado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El plátano guineo rallados que se les echa",
+      "consolidated_definition": "El plátano guineo rallados que se les echa a los granos guisados.",
+      "en_consolidated_definition": "Banana leaves shredded and added to cooked rice grains.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El plátano guineo rallados que se les echa"
+    "El plátano guineo rallados que se les echa a los granos guisados."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Banana leaves shredded and added to cooked rice grains."
+  ],
   "source": "https://tesoro.pr"
 }

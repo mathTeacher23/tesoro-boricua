@@ -3,14 +3,17 @@
   "term": "status",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El estatus, relacionado con un grupo",
+      "consolidated_definition": "Estatus, condición política de Puerto Rico, de Estado Libre Asociado.",
+      "en_consolidated_definition": "Status, political condition of Puerto Rico, as a Free Associated State.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4929",
-        "semantic_similarity_score": 0.4929,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -53,18 +56,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "El estatus. Condición colonial de Puerto Rico.",
-          "Posición, condición.",
-          "soc. Condición social o económica. Posición que una persona ocupa en la sociedad o grupo; también, situación relativa de algo dentro de un determinado marco de referencia. Anglicismo crudo, frecuente. Véase estatus. Conseguirá lo que se proponga con facilidad, porque su condición masculina le tiene reservado los modos de desarrollar su temperamento, practicar sus funciones y defender su status, en la medida en que la mujer está excluida de ellos",
-          "pol. Situación o condición política de un país. Anglicismo crudo, frecuente. Véase estatus. El tema del status político y las luchas entre líderes consumieron las energías que se necesitaban para resolver los graves problemas que aquejaban al país",
           "Estatus, condición política de Puerto Rico, de Estado Libre Asociado."
         ]
       }
     }
   },
   "es_definitions": [
-    "El estatus, relacionado con un grupo"
+    "Estatus, condición política de Puerto Rico, de Estado Libre Asociado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Status, political condition of Puerto Rico, as a Free Associated State."
+  ],
   "source": "https://tesoro.pr"
 }

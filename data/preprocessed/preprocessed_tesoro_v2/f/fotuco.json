@@ -3,9 +3,12 @@
   "term": "fotuco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver fotoco",
+      "consolidated_definition": "Ver fotoco .",
+      "en_consolidated_definition": "See photoco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver fotoco"
+    "Ver fotoco ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See photoco."
+  ],
   "source": "https://tesoro.pr"
 }

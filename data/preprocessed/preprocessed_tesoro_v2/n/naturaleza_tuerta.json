@@ -3,9 +3,12 @@
   "term": "naturaleza tuerta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando no hace buen tiempo y la cosecha",
+      "consolidated_definition": "Cuando no hace buen tiempo y la cosecha no produce suficiente o deja pérdidas.",
+      "en_consolidated_definition": "When the weather is unfavorable and the harvest does not produce enough or results in losses.\n\nNota: En este contexto, \"cosecha\" se refiere a la recolección de frutas o cultivos, y no necesariamente al acto de cosechar en el sentido agrícola.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Cuando no hace buen tiempo y la cosecha"
+    "Cuando no hace buen tiempo y la cosecha no produce suficiente o deja pérdidas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "When the weather is unfavorable and the harvest does not produce enough or results in losses.\n\nNota: En este contexto, \"cosecha\" se refiere a la recolección de frutas o cultivos, y no necesariamente al acto de cosechar en el sentido agrícola."
+  ],
   "source": "https://tesoro.pr"
 }

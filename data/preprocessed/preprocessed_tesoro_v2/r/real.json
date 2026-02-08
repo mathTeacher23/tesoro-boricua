@@ -3,15 +3,18 @@
   "term": "real",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asimismo, relacionado con un grupo",
+      "consolidated_definition": "\"Real\": moneda imaginaria con valor equivalente a doce centavos y medio, utilizada en el pasado como unidad de cambio por campesinos y gentes de los pueblos.",
+      "en_consolidated_definition": "\"Real\": fictional currency equivalent in value to twelve and a half cents, used in the past as a unit of exchange by peasants and people from rural towns.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.6362",
         "semantic_similarity_score": 0.6362,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,8 +61,10 @@
     }
   },
   "es_definitions": [
-    "Asimismo, relacionado con un grupo"
+    "\"Real\": moneda imaginaria con valor equivalente a doce centavos y medio, utilizada en el pasado como unidad de cambio por campesinos y gentes de los pueblos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "\"Real\": fictional currency equivalent in value to twelve and a half cents, used in the past as a unit of exchange by peasants and people from rural towns."
+  ],
   "source": "https://tesoro.pr"
 }

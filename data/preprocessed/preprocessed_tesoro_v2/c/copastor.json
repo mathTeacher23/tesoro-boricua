@@ -3,15 +3,18 @@
   "term": "copastor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que asiste al pastor en sus funciones dentro de la comunidad religiosa protestante.",
+      "consolidated_definition": "En las iglesias protestantes, ayudante del pastor.",
+      "en_consolidated_definition": "Assistant's response:\n\nAssociate Minister in Protestant churches.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9906",
-        "semantic_similarity_score": 0.9906,
-        "cluster_count": 1,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ayudante del pastor, en las iglesias protestantes.",
           "En las iglesias protestantes, ayudante del pastor."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que asiste al pastor en sus funciones dentro de la comunidad religiosa protestante."
+    "En las iglesias protestantes, ayudante del pastor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Assistant's response:\n\nAssociate Minister in Protestant churches."
+  ],
   "source": "https://tesoro.pr"
 }

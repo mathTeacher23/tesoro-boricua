@@ -3,15 +3,18 @@
   "term": "morocota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "fest",
+      "consolidated_definition": "\"Morocota\": moneda antigua equivalente a una onza de oro.",
+      "en_consolidated_definition": "Morocota: an ancient currency equivalent to one ounce of gold.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.6025",
         "semantic_similarity_score": 0.6025,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "fest"
+    "\"Morocota\": moneda antigua equivalente a una onza de oro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Morocota: an ancient currency equivalent to one ounce of gold."
+  ],
   "source": "https://tesoro.pr"
 }

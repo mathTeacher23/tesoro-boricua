@@ -3,9 +3,12 @@
   "term": "recoger",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En béisbol, coger la pelota a ras del suelo.",
+      "en_consolidated_definition": "In baseball, to catch the ball close to the ground.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "En béisbol"
+    "En béisbol, coger la pelota a ras del suelo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, to catch the ball close to the ground."
+  ],
   "source": "https://tesoro.pr"
 }

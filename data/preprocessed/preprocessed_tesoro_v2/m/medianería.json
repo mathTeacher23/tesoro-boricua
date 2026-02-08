@@ -3,9 +3,12 @@
   "term": "medianería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Contrato verbal o escrito entre un terrateniente y",
+      "consolidated_definition": "Contrato verbal o escrito entre un terrateniente y un medianero.",
+      "en_consolidated_definition": "Verbal or written agreement between a landowner and an intermediary.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Contrato verbal o escrito entre un terrateniente y"
+    "Contrato verbal o escrito entre un terrateniente y un medianero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Verbal or written agreement between a landowner and an intermediary."
+  ],
   "source": "https://tesoro.pr"
 }

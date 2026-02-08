@@ -3,15 +3,18 @@
   "term": "city hall",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El ayuntamiento o alcaldía es un órgano municipal principal de una ciudad.",
+      "consolidated_definition": "Ayuntamiento, alcaldía. Oficina municipal principal. Se usa unido al nombre de la ciudad. Anglicismo crudo, poco frecuente. A la derecha, el Guaynabo City Hall, rebasamos la Alejandro Tapia y Rivera St., la José Julián Acosta St. (El Nuevo Día, La Revista, 21-10-07)",
+      "en_consolidated_definition": "Municipal government office, town hall. Principal municipal office. Used in conjunction with the name of the city. Raw Anglicism, infrequently used.\n\nTo the right, Guaynabo City Hall, we crossed Alejandro Tapia y Rivera St., José Julián Acosta St. (El Nuevo Día, La Revista, 21-10-07)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El ayuntamiento o alcaldía es un órgano municipal principal de una ciudad."
+    "Ayuntamiento, alcaldía. Oficina municipal principal. Se usa unido al nombre de la ciudad. Anglicismo crudo, poco frecuente. A la derecha, el Guaynabo City Hall, rebasamos la Alejandro Tapia y Rivera St., la José Julián Acosta St. (El Nuevo Día, La Revista, 21-10-07)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Municipal government office, town hall. Principal municipal office. Used in conjunction with the name of the city. Raw Anglicism, infrequently used.\n\nTo the right, Guaynabo City Hall, we crossed Alejandro Tapia y Rivera St., José Julián Acosta St. (El Nuevo Día, La Revista, 21-10-07)"
+  ],
   "source": "https://tesoro.pr"
 }

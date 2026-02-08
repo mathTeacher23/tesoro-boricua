@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "La hoz es un objeto agrícola utilizado para segar o cortar plantas, especialmente cereales, con movimientos laterales.",
+      "en_consolidated_definition": "The sickle is an agricultural tool used to reap or cut plants, especially cereals, with lateral movements.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 13,
         "num_cleaned_definitions": 13,
@@ -115,15 +118,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Una pieza de madera del esqueleto de una embarcación, que se dobla para darle su forma característica.",
+      "consolidated_definition": "En una embarcación, una de las piezas curvadas cuya base encaja en la quilla.",
+      "en_consolidated_definition": "In a vessel, one of the curved pieces whose base fits into the keel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5047",
-        "semantic_similarity_score": 0.5047,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -160,22 +166,23 @@
           "curvaje"
         ],
         "reference_definitions": [
-          "Pieza de madera del esqueleto de una embarcación, que se dobla para darle forma.",
-          "Cuaderna en todos los puntos, menos 9P y 6R.",
           "En una embarcación, una de las piezas curvadas cuya base encaja en la quilla."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "En el beisbol, lanzamiento en el que el pícher realiza un movimiento específico con la mano para cambiar la trayectoria de la pelota antes de que llegue al bateador.",
+      "consolidated_definition": "En el beisbol, lanzamiento en el que el pícher hace un determinado movimiento con la mano para que la pelota cambie de dirección antes de llegar al bateador.",
+      "en_consolidated_definition": "In baseball, a pitch in which the pitcher performs a specific movement with their hand to cause the ball to change direction before reaching the batter.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -207,9 +214,13 @@
   },
   "es_definitions": [
     "La hoz es un objeto agrícola utilizado para segar o cortar plantas, especialmente cereales, con movimientos laterales.",
-    "Una pieza de madera del esqueleto de una embarcación, que se dobla para darle su forma característica.",
-    "En el beisbol, lanzamiento en el que el pícher realiza un movimiento específico con la mano para cambiar la trayectoria de la pelota antes de que llegue al bateador."
+    "En una embarcación, una de las piezas curvadas cuya base encaja en la quilla.",
+    "En el beisbol, lanzamiento en el que el pícher hace un determinado movimiento con la mano para que la pelota cambie de dirección antes de llegar al bateador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The sickle is an agricultural tool used to reap or cut plants, especially cereals, with lateral movements.",
+    "In a vessel, one of the curved pieces whose base fits into the keel.",
+    "In baseball, a pitch in which the pitcher performs a specific movement with their hand to cause the ball to change direction before reaching the batter."
+  ],
   "source": "https://tesoro.pr"
 }

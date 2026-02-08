@@ -3,9 +3,12 @@
   "term": "jefa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada familiarmente",
+      "consolidated_definition": "Voz usada familiarmente. Esposa mandona.",
+      "en_consolidated_definition": "Familiar term for a domineering wife.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Voz usada familiarmente"
+    "Voz usada familiarmente. Esposa mandona."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Familiar term for a domineering wife."
+  ],
   "source": "https://tesoro.pr"
 }

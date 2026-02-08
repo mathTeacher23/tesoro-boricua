@@ -3,9 +3,12 @@
   "term": "mopear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pasar el mapo",
+      "consolidated_definition": "Pasar el mapo.",
+      "en_consolidated_definition": "To pass the mapo (a type of Puerto Rican lottery ticket) is to lose or be left with nothing after investing in it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Pasar el mapo"
+    "Pasar el mapo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To pass the mapo (a type of Puerto Rican lottery ticket) is to lose or be left with nothing after investing in it."
+  ],
   "source": "https://tesoro.pr"
 }

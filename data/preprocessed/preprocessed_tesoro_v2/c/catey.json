@@ -3,15 +3,18 @@
   "term": "catey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Molestia. Es un sentimiento desagradable o incómodo que se experimenta en respuesta a una situación o estímulo.",
+      "consolidated_definition": "Molestia.",
+      "en_consolidated_definition": "Discomfort \n\nDisturbance \n\nAnnoyance \n\nIrritation \n\nInconvenience",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,21 +42,23 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Molestia.",
           "Molestia."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "La palma Bactris plumeriana es un árbol de tamaño mediano con tronco y hojas cubiertos de espinas finas negras, que produce frutas rojas comestibles para cerdos y cotorras. Arecaceae Acrocomia aculeata, Bactris plumeriana.",
+      "consolidated_definition": "Palma delgada, de tamaño mediano, con tronco y hojas cubiertos de espinas finas, largas y negras, y fruta pequeña, de color rojo, que comen los cerdos y las cotorras o cateyes, de ahí su nombre. ArecaceaeAcronomia aculeata, Bactris plumeriana.",
+      "en_consolidated_definition": "Slender palm of medium size, with a trunk and leaves covered in fine, long, and black spines, and small fruit of red color, which is eaten by pigs and parrots or cateyes, hence its name. Arecaceae Acronomia aculeata, Bactris plumeriana.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Molestia. Es un sentimiento desagradable o incómodo que se experimenta en respuesta a una situación o estímulo.",
-    "La palma Bactris plumeriana es un árbol de tamaño mediano con tronco y hojas cubiertos de espinas finas negras, que produce frutas rojas comestibles para cerdos y cotorras. Arecaceae Acrocomia aculeata, Bactris plumeriana."
+    "Molestia.",
+    "Palma delgada, de tamaño mediano, con tronco y hojas cubiertos de espinas finas, largas y negras, y fruta pequeña, de color rojo, que comen los cerdos y las cotorras o cateyes, de ahí su nombre. ArecaceaeAcronomia aculeata, Bactris plumeriana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Discomfort \n\nDisturbance \n\nAnnoyance \n\nIrritation \n\nInconvenience",
+    "Slender palm of medium size, with a trunk and leaves covered in fine, long, and black spines, and small fruit of red color, which is eaten by pigs and parrots or cateyes, hence its name. Arecaceae Acronomia aculeata, Bactris plumeriana."
+  ],
   "source": "https://tesoro.pr"
 }

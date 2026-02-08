@@ -3,14 +3,17 @@
   "term": "left fielder",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "En el beisbol, jugador defensivo que cubre el jardín izquierdo.",
+      "en_consolidated_definition": "Left fielder, a defensive player in baseball who covers the left outfield.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7104",
-        "semantic_similarity_score": 0.7104,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el béisbol, jugador defensivo que cubre el jardín izquierdo. Anglicismo crudo, frecuente. También left field. Además de los tres extrabases productores que tuvieron los boricuas, fue determinante su defensa tanto en el infield, como el outfield, arrebatando varios extrabases. A Sotelo le quitaron uno en el tercer inning y a Chévez otro en el séptimo, cuando el left fielder se estrelló contra la barda",
           "En el beisbol, jugador defensivo que cubre el jardín izquierdo."
         ]
       }
     }
   },
   "es_definitions": [
-    "dep"
+    "En el beisbol, jugador defensivo que cubre el jardín izquierdo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Left fielder, a defensive player in baseball who covers the left outfield."
+  ],
   "source": "https://tesoro.pr"
 }

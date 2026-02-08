@@ -3,15 +3,18 @@
   "term": "macho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombre valiente",
+      "consolidated_definition": "Persona que demuestra coraje y determinación en situaciones difíciles o peligrosas.",
+      "en_consolidated_definition": "Persona que demuestra valentía y resolución en situaciones difíciles o peligrosas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4939",
-        "semantic_similarity_score": 0.4939,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5421",
+        "semantic_similarity_score": 0.5421,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,20 +45,23 @@
         "related_words": [],
         "reference_definitions": [
           "Hombre valiente, atrevido, audaz.",
-          "La noción de valor personal encuentra expresión en el calificativo de macho ‘valiente’ , como en otras partes del mundo hispánico."
+          "La noción de valor personal encuentra expresión en el calificativo de macho ‘valiente’ (hombre macho), como en otras partes del mundo hispánico."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Modorra: pasatiempo vulgar.",
+      "en_consolidated_definition": "Drowsiness: a common pastime.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.2637",
         "semantic_similarity_score": 0.2637,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -86,14 +92,17 @@
       }
     },
     "3": {
-      "consolidated_definition": "Tronco o cartílago que queda en el gallo",
+      "consolidated_definition": "Tronco o cartílago que queda en el gallo cuando se desprende la espuela.",
+      "en_consolidated_definition": "Stem or cartilage that remains in the rooster when the spur is shed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1996",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7285",
-        "semantic_similarity_score": 0.7285,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -117,15 +126,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tronco o cartílago que queda en el gallo cuando se desprende la espuela.",
-          "Macho es también el gallo al que se le hacen apuestas altas en la gabela. Para otros, es el gallo de prestancia, de clase, vistoso."
+          "Tronco o cartílago que queda en el gallo cuando se desprende la espuela."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "Se oye decir macho",
+      "consolidated_definition": "Se oye decir macho, de un árbol o arbusto, etc., que no da frutos. “Palo macho de papayas.”",
+      "en_consolidated_definition": "It is said of a tree or shrub that does not produce fruit, referring to it as the \"male pole\" of papayas.\n\nNota: En este contexto, \"palo macho\" se refiere a un término coloquial en Puerto Rico que se utiliza para describir un árbol o arbusto que no produce frutos. La traducción literal sería \"pole male\", pero se ha mantenido el contexto cultural y la expresión original para preservar la precisión y autenticidad del término.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -160,9 +171,12 @@
       }
     },
     "5": {
-      "consolidated_definition": "Punzón cortante usado para dar roscas interiores",
+      "consolidated_definition": "Punzón cortante usado para dar roscas interiores. Algunos dicen macho de rosca.",
+      "en_consolidated_definition": "Cutting tool used to impart internal threads; some call it a male thread insert.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -197,12 +211,18 @@
     }
   },
   "es_definitions": [
-    "Hombre valiente",
-    "vulg",
-    "Tronco o cartílago que queda en el gallo",
-    "Se oye decir macho",
-    "Punzón cortante usado para dar roscas interiores"
+    "Persona que demuestra coraje y determinación en situaciones difíciles o peligrosas.",
+    "Modorra: pasatiempo vulgar.",
+    "Tronco o cartílago que queda en el gallo cuando se desprende la espuela.",
+    "Se oye decir macho, de un árbol o arbusto, etc., que no da frutos. “Palo macho de papayas.”",
+    "Punzón cortante usado para dar roscas interiores. Algunos dicen macho de rosca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que demuestra valentía y resolución en situaciones difíciles o peligrosas.",
+    "Drowsiness: a common pastime.",
+    "Stem or cartilage that remains in the rooster when the spur is shed.",
+    "It is said of a tree or shrub that does not produce fruit, referring to it as the \"male pole\" of papayas.\n\nNota: En este contexto, \"palo macho\" se refiere a un término coloquial en Puerto Rico que se utiliza para describir un árbol o arbusto que no produce frutos. La traducción literal sería \"pole male\", pero se ha mantenido el contexto cultural y la expresión original para preservar la precisión y autenticidad del término.",
+    "Cutting tool used to impart internal threads; some call it a male thread insert."
+  ],
   "source": "https://tesoro.pr"
 }

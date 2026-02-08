@@ -3,9 +3,12 @@
   "term": "lápiz de mina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lapicero que contiene muchas barritas de grafito",
+      "consolidated_definition": "Lapicero que contiene muchas barritas de grafito.",
+      "en_consolidated_definition": "Pencil case containing many graphite leads.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Lapicero que contiene muchas barritas de grafito"
+    "Lapicero que contiene muchas barritas de grafito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pencil case containing many graphite leads."
+  ],
   "source": "https://tesoro.pr"
 }

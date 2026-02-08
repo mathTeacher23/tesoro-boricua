@@ -3,15 +3,18 @@
   "term": "balance",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Equilibrio o estabilidad que se refiere a un estado físico y mental de alguien, caracterizado por la capacidad de mantenerse firme y estable en situaciones diversas.",
+      "consolidated_definition": "Equilibrio.",
+      "en_consolidated_definition": "Balance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4546",
-        "semantic_similarity_score": 0.4546,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,21 +42,23 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Equilibrio, buen sentido. Estabilidad de cuerpo o mente. Desvío semántico, usual. DRAE 2001: movimiento de un cuerpo de un lado a otro, estudio comparativo de las circunstancias de una situación o de los factores que intervienen en un proceso. Todos tenemos en nuestro interior una fuente ilimitada de sabiduría. A veces nos olvidamos de buscarla para poder traer balance a nuestras vidas (El Nuevo Día, 20-05-04)",
           "Equilibrio."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Saldo: resultado del cálculo entre activos y pasivos de un negocio o entidad financiera.",
+      "consolidated_definition": "Saldo. Resultado de la confrontación de activo y pasivo de un negocio. Usual. DRAE: desde 1984. Esta divulgación contiene información sobre las Tasas Nominales y las Tasas de Rendimiento Anual que pagamos en las cuentas de depósito del Banco Santander de Puerto Rico. Para obtener el rendimiento anual, usted deberá mantener el balance diario cobrado o el balance promedio cobrado requerido basado en los términos de su cuenta de depósito (Banco Santander, PR, 11-03-08)",
+      "en_consolidated_definition": "Balance. Resultado de la confrontación entre activo y pasivo de un negocio. \n\nNota: En el contexto financiero puertorriqueño, se refiere a la información sobre las Tasas Nominales y las Tasas de Rendimiento Anual que pagamos en las cuentas de depósito del Banco Santander de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Equilibrio o estabilidad que se refiere a un estado físico y mental de alguien, caracterizado por la capacidad de mantenerse firme y estable en situaciones diversas.",
-    "Saldo: resultado del cálculo entre activos y pasivos de un negocio o entidad financiera."
+    "Equilibrio.",
+    "Saldo. Resultado de la confrontación de activo y pasivo de un negocio. Usual. DRAE: desde 1984. Esta divulgación contiene información sobre las Tasas Nominales y las Tasas de Rendimiento Anual que pagamos en las cuentas de depósito del Banco Santander de Puerto Rico. Para obtener el rendimiento anual, usted deberá mantener el balance diario cobrado o el balance promedio cobrado requerido basado en los términos de su cuenta de depósito (Banco Santander, PR, 11-03-08)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Balance.",
+    "Balance. Resultado de la confrontación entre activo y pasivo de un negocio. \n\nNota: En el contexto financiero puertorriqueño, se refiere a la información sobre las Tasas Nominales y las Tasas de Rendimiento Anual que pagamos en las cuentas de depósito del Banco Santander de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "quilitique",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Garrapaticida",
+      "consolidated_definition": "Garrapaticida, producto para matar garrapatas. También dicen quitique y quitiqui.",
+      "en_consolidated_definition": "Tick killer, a product used to kill ticks. Also known as quitique and quitiqui.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Garrapaticida"
+    "Garrapaticida, producto para matar garrapatas. También dicen quitique y quitiqui."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tick killer, a product used to kill ticks. Also known as quitique and quitiqui."
+  ],
   "source": "https://tesoro.pr"
 }

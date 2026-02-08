@@ -3,9 +3,12 @@
   "term": "rocear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver rociar 1",
+      "consolidated_definition": "Ver rociar 1 .",
+      "en_consolidated_definition": "To see rain fall 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver rociar 1"
+    "Ver rociar 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To see rain fall 1."
+  ],
   "source": "https://tesoro.pr"
 }

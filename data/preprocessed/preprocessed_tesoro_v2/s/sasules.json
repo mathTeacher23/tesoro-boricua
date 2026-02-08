@@ -3,9 +3,12 @@
   "term": "sasules",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona de ojos azules o claros",
+      "consolidated_definition": "Persona de ojos azules o claros. Se emplea también como apodo.",
+      "en_consolidated_definition": "Person with blue or light-colored eyes. Also used as a nickname.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Persona de ojos azules o claros"
+    "Persona de ojos azules o claros. Se emplea también como apodo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person with blue or light-colored eyes. Also used as a nickname."
+  ],
   "source": "https://tesoro.pr"
 }

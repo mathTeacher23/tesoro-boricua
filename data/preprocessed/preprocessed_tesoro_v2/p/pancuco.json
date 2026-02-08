@@ -3,15 +3,18 @@
   "term": "pancuco",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Cuca o especie de bizcocho muy duro. “Aquí hacen las suscripciones —Como hacen el pan de cuco.” José G. Padilla, Juicio del año 1886.",
+      "consolidated_definition": "\"Pan de cuca\": tipo de bizcocho muy duro.",
+      "en_consolidated_definition": "Cuca cake: a type of hard sponge cake.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5618",
         "semantic_similarity_score": 0.5618,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Oportunidad fácil de lograr algún propósito",
+      "consolidated_definition": "Oportunidad fácil de lograr algún propósito.",
+      "en_consolidated_definition": "Facilez de logro para alcanzar algún propósito.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    ". Cuca o especie de bizcocho muy duro. “Aquí hacen las suscripciones —Como hacen el pan de cuco.” José G. Padilla, Juicio del año 1886.",
-    "Oportunidad fácil de lograr algún propósito"
+    "\"Pan de cuca\": tipo de bizcocho muy duro.",
+    "Oportunidad fácil de lograr algún propósito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cuca cake: a type of hard sponge cake.",
+    "Facilez de logro para alcanzar algún propósito."
+  ],
   "source": "https://tesoro.pr"
 }

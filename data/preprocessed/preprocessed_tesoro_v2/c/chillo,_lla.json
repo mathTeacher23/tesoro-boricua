@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "\"Muchacho de la calle\": persona que se comporta con mala conducta en un entorno urbano.",
+      "en_consolidated_definition": "Urban youth delinquent: a person who behaves in a disorderly manner within an urban environment.\n\nNota: En este contexto, \"muchacho de la calle\" se refiere a un término coloquial en español puertorriqueño que describe a una persona joven que crece y se desarrolla en entornos urbanos. La traducción busca mantener el significado exacto y el tono formal adecuado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
         "num_cleaned_definitions": 7,
@@ -74,15 +77,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Concubino\": Persona que tiene relaciones sexuales con un individuo sin estar legalmente casado.",
+      "consolidated_definition": "Persona con la que se tienen relaciones sexuales, amante.",
+      "en_consolidated_definition": "Person with whom one has sexual relations, lover.\n\nNota: En algunos contextos, este término puede referirse a una persona con quien se tiene una relación sentimental o emocional intensa, pero no necesariamente de naturaleza sexual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.453",
-        "semantic_similarity_score": 0.453,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -120,24 +126,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Concubino. Concubina. Cortejo",
-          "Amante, amigo que no es novio.",
-          "Enamorado. Jeva, que no es la esposa.",
-          "Querido.",
           "Persona con la que se tienen relaciones sexuales, amante."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Policía. Es un cuerpo de agentes encargado de mantener el orden público, prevenir delitos y proteger la seguridad ciudadana.",
+      "consolidated_definition": "Policía.",
+      "en_consolidated_definition": "Law Enforcement Agency \n\nNota: En algunos contextos, esta traducción puede variar dependiendo del contexto específico de Puerto Rico, pero en general, se refiere a una agencia encargada de mantener el orden y la seguridad pública.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -167,9 +172,13 @@
   },
   "es_definitions": [
     "\"Muchacho de la calle\": persona que se comporta con mala conducta en un entorno urbano.",
-    "\"Concubino\": Persona que tiene relaciones sexuales con un individuo sin estar legalmente casado.",
-    "Policía. Es un cuerpo de agentes encargado de mantener el orden público, prevenir delitos y proteger la seguridad ciudadana."
+    "Persona con la que se tienen relaciones sexuales, amante.",
+    "Policía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Urban youth delinquent: a person who behaves in a disorderly manner within an urban environment.\n\nNota: En este contexto, \"muchacho de la calle\" se refiere a un término coloquial en español puertorriqueño que describe a una persona joven que crece y se desarrolla en entornos urbanos. La traducción busca mantener el significado exacto y el tono formal adecuado para un diccionario.",
+    "Person with whom one has sexual relations, lover.\n\nNota: En algunos contextos, este término puede referirse a una persona con quien se tiene una relación sentimental o emocional intensa, pero no necesariamente de naturaleza sexual.",
+    "Law Enforcement Agency \n\nNota: En algunos contextos, esta traducción puede variar dependiendo del contexto específico de Puerto Rico, pero en general, se refiere a una agencia encargada de mantener el orden y la seguridad pública."
+  ],
   "source": "https://tesoro.pr"
 }

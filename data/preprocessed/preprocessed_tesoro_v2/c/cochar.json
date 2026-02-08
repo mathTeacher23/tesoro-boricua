@@ -3,15 +3,18 @@
   "term": "cochar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La acción de conducir el ganado vacuno desde un lugar hasta otro.",
+      "consolidated_definition": "Conducir alguien el ganado vacuno de un sitio a otro.",
+      "en_consolidated_definition": "Drive cattle from one place to another.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5894",
-        "semantic_similarity_score": 0.5894,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -55,18 +58,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Conducir de un sitio a otro el ganado vacuno. “Y San Isidro, presuroso, desenyugó su yunta y cochó toro y bueyes para el cielo.” Cuentos criollos, 1925, p. 180. (En español, cochear es guiar caballos o mulas que tiran del coche).",
-          "Echar los animales por delante.",
-          "Cochear. Conducir el ganado de un lugar a otro usando látigos o garrochas.",
-          "“Acto de conducir de un sitio a otro el ganado vacuno. “Coché las reses pal sercao.” Meléndez Muñoz.",
           "Conducir alguien el ganado vacuno de un sitio a otro."
         ]
       }
     }
   },
   "es_definitions": [
-    "La acción de conducir el ganado vacuno desde un lugar hasta otro."
+    "Conducir alguien el ganado vacuno de un sitio a otro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Drive cattle from one place to another."
+  ],
   "source": "https://tesoro.pr"
 }

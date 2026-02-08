@@ -3,9 +3,12 @@
   "term": "tortita de calabaza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fritura hecha de calabaza",
+      "consolidated_definition": "Fritura hecha de calabaza.",
+      "en_consolidated_definition": "Pumpkin fritter made from calabaza.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Fritura hecha de calabaza"
+    "Fritura hecha de calabaza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pumpkin fritter made from calabaza."
+  ],
   "source": "https://tesoro.pr"
 }

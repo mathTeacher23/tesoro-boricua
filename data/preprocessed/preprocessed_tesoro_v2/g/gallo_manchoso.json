@@ -3,9 +3,12 @@
   "term": "gallo manchoso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las peleas de gallos",
+      "consolidated_definition": "En las peleas de gallos, animal con manchas en el plumaje.",
+      "en_consolidated_definition": "In cockfights, bird with markings on its plumage.\n\nNota: En este contexto, \"gallos\" se refiere a los gallos de pelea, que son aves domésticas utilizadas en la práctica del gallero, una tradición cultural en Puerto Rico y otros países.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En las peleas de gallos"
+    "En las peleas de gallos, animal con manchas en el plumaje."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In cockfights, bird with markings on its plumage.\n\nNota: En este contexto, \"gallos\" se refiere a los gallos de pelea, que son aves domésticas utilizadas en la práctica del gallero, una tradición cultural en Puerto Rico y otros países."
+  ],
   "source": "https://tesoro.pr"
 }

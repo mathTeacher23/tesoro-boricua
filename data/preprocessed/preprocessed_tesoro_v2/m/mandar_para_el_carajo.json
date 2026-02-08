@@ -3,9 +3,12 @@
   "term": "mandar para el carajo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Repudiarlo ofensivamente",
+      "consolidated_definition": "Repudiarlo ofensivamente.",
+      "en_consolidated_definition": "To repudiate it offensively.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Repudiarlo ofensivamente"
+    "Repudiarlo ofensivamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To repudiate it offensively."
+  ],
   "source": "https://tesoro.pr"
 }

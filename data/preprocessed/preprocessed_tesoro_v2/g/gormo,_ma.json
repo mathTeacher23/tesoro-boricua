@@ -3,9 +3,12 @@
   "term": "gormo, ma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Colmado",
+      "consolidated_definition": "Colmado, bien lleno.",
+      "en_consolidated_definition": "Ampliamente provisto, bien suministrado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Colmado"
+    "Colmado, bien lleno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ampliamente provisto, bien suministrado."
+  ],
   "source": "https://tesoro.pr"
 }

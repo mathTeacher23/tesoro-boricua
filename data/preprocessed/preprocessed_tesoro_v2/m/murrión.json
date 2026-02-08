@@ -3,9 +3,12 @@
   "term": "murrión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pájaro",
+      "consolidated_definition": "Pájaro. También gorrión.",
+      "en_consolidated_definition": "Bird. Also sparrow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pájaro"
+    "Pájaro. También gorrión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bird. Also sparrow."
+  ],
   "source": "https://tesoro.pr"
 }

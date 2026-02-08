@@ -3,9 +3,12 @@
   "term": "plancha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En béisbol, batazo muy corto.",
+      "en_consolidated_definition": "In baseball, a very short hit.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Voz usada en otros países de Hispanoamérica",
+      "consolidated_definition": "Voz usada en otros países de Hispanoamérica. Espectáculo ridículo.",
+      "en_consolidated_definition": "A spectacle of ridicule used in other Hispanic countries.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Escrito que ocupa una sola hoja de papel",
+      "consolidated_definition": "Escrito que ocupa una sola hoja de papel.",
+      "en_consolidated_definition": "Single-page document.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -111,9 +120,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Muchacha delgada",
+      "consolidated_definition": "Muchacha delgada.",
+      "en_consolidated_definition": "Slender girl.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -149,9 +161,12 @@
       }
     },
     "5": {
-      "consolidated_definition": "Donde va el pasador o barra para sostener",
+      "consolidated_definition": "Donde va el pasador o barra para sostener la rueda, que no se salga del eje.",
+      "en_consolidated_definition": "Where the pin or bar is located to hold the wheel in place on the axle so that it does not come off.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -186,12 +201,18 @@
     }
   },
   "es_definitions": [
-    "En béisbol",
-    "Voz usada en otros países de Hispanoamérica",
-    "Escrito que ocupa una sola hoja de papel",
-    "Muchacha delgada",
-    "Donde va el pasador o barra para sostener"
+    "En béisbol, batazo muy corto.",
+    "Voz usada en otros países de Hispanoamérica. Espectáculo ridículo.",
+    "Escrito que ocupa una sola hoja de papel.",
+    "Muchacha delgada.",
+    "Donde va el pasador o barra para sostener la rueda, que no se salga del eje."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a very short hit.",
+    "A spectacle of ridicule used in other Hispanic countries.",
+    "Single-page document.",
+    "Slender girl.",
+    "Where the pin or bar is located to hold the wheel in place on the axle so that it does not come off."
+  ],
   "source": "https://tesoro.pr"
 }

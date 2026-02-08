@@ -3,9 +3,12 @@
   "term": "noticiero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Efecto causado por el alcohol, relacionado con una calificación",
+      "consolidated_definition": "Efecto causado por el alcohol. Persona que tiene una nota alta, juma.",
+      "en_consolidated_definition": "Alcachofa: \n\nEffect caused by alcohol. Person with a high note or juma.\n\nNota: Para mantener el contexto cultural específico de Puerto Rico, se ha preservado el término \"juma\", que es un concepto local que se refiere a una persona con una nota alta o una cierta condición social.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,9 +45,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Noticiario",
+      "consolidated_definition": "Noticiario, programa de radio o televisión en que se transmiten noticias.",
+      "en_consolidated_definition": "Newscast, radio or television program that broadcasts news.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -79,9 +85,12 @@
     }
   },
   "es_definitions": [
-    "Efecto causado por el alcohol, relacionado con una calificación",
-    "Noticiario"
+    "Efecto causado por el alcohol. Persona que tiene una nota alta, juma.",
+    "Noticiario, programa de radio o televisión en que se transmiten noticias."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Alcachofa: \n\nEffect caused by alcohol. Person with a high note or juma.\n\nNota: Para mantener el contexto cultural específico de Puerto Rico, se ha preservado el término \"juma\", que es un concepto local que se refiere a una persona con una nota alta o una cierta condición social.",
+    "Newscast, radio or television program that broadcasts news."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "merenguear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bailar merengue",
+      "consolidated_definition": "Bailar merengue, danza popular.",
+      "en_consolidated_definition": "Dance the merengue, a popular dance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Bailar merengue"
+    "Bailar merengue, danza popular."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dance the merengue, a popular dance."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "echar un pie",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bailar",
+      "consolidated_definition": "Bailar.",
+      "en_consolidated_definition": "To dance.\n\nNota: Esta palabra puede referirse a realizar movimientos rítmicos y coordinados con la música, especialmente en contextos culturales como el baile de bomba o el baile de plena, tradicionales en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6976",
-        "semantic_similarity_score": 0.6976,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución verbal"
@@ -50,23 +53,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bailar.",
-          "Bailar. Ir a bailar.",
-          "Definida por Maura como ‘bailar’. “Una mujer puede ser lo más chulo del mundo, pero si no echa un pie en el baile, como que no está completa.” Juan Antonio Ramos, Vive y vacila, p. 24.",
           "Bailar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Irse",
+      "consolidated_definition": "\"irse\": (verbo) Desplazarse o marcharse de un lugar, generalmente para alejarse temporal o definitivamente.",
+      "en_consolidated_definition": "To depart or leave a place, often to move away temporarily or permanently.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.2117",
         "semantic_similarity_score": 0.2117,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -98,9 +101,12 @@
     }
   },
   "es_definitions": [
-    "Bailar",
-    "Irse"
+    "Bailar.",
+    "\"irse\": (verbo) Desplazarse o marcharse de un lugar, generalmente para alejarse temporal o definitivamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To dance.\n\nNota: Esta palabra puede referirse a realizar movimientos rítmicos y coordinados con la música, especialmente en contextos culturales como el baile de bomba o el baile de plena, tradicionales en Puerto Rico.",
+    "To depart or leave a place, often to move away temporarily or permanently."
+  ],
   "source": "https://tesoro.pr"
 }

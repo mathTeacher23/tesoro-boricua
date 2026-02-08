@@ -3,15 +3,18 @@
   "term": "bill",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un proyecto de ley es un documento presentado al poder legislativo para su consideración y aprobación como ley.",
+      "consolidated_definition": "Proyecto de ley.",
+      "en_consolidated_definition": "Legislative project.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.7847",
-        "semantic_similarity_score": 0.7847,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -49,23 +52,23 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Proyecto de ley.",
-          "Proyecto de ley.",
-          "der. Proyecto de ley. Medida legislativa que se pretende convertir en ley luego de su discusión por los representantes legislativos. Anglicismo crudo, frecuente. El Consejo, es decir, la Cámara Alta, es a la par legislativa y ejecutiva. Y basta que los seis americanos que en ella figuran se opongan a un bill votado por los treinta y cinco representantes que autorizan este mensaje, y aún por los cinco puertorriqueños del Consejo mismo, para que el bill no llegue a convertirse en ley, quedando un millón de habitantes, en sus asuntos domésticos, sometidos al criterio de seis hombres que, amando mucho a Puerto Rico, no le amarán desde luego tanto como los hijos de Puerto Rico... (Silvestrini y )",
           "Proyecto de ley."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "\"Bill\": factura o cuenta que debe pagarse por algún servicio, usualmente asociado con servicios provisionales.",
+      "consolidated_definition": "Factura.",
+      "en_consolidated_definition": "Invoice \n\nNota: En algunos contextos, \"factura\" puede referirse específicamente a un documento de cobro emitido por una empresa o institución en Puerto Rico, pero en general, se traduce como \"invoice\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3635",
-        "semantic_similarity_score": 0.3635,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -95,17 +98,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "comer. Factura. Cuenta que debe pagarse por algún servicio. Anglicismo crudo, usual. De los siete días de la semana, hay agua uno o dos, explicó Eugenio Rodríguez, residente del barrio Río Grande y quien sostuvo que han pasado hasta 22 días sin agua. Pero el bill viene completito eso sí (Indymediapr.org, PR, 2003)",
-          "comer. Vale. Papel a favor de alguien con obligación de pago de corta duración. Anglicismo crudo, poco frecuente. Los bills suelen ser los de más corta duración, y los que se llaman bills regulares son de noventiún días, nada más noventiún días, y se ofrecen al mejor postor por parte de la tesorería cada semana. He aquí uno de esos términos que, debido a sus peculiaridades, no admite una traducción fiel. Es preferible ahí decir sencillamente bill de tesorería. No es una traducción exacta del vale español, hay ciertas diferencias que debido a lo escaso del tiempo no podemos profundizar sobre ellas (Norma Culta 1990, VIII)",
           "Factura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Un proyecto de ley es un documento presentado al poder legislativo para su consideración y aprobación como ley.",
-    "\"Bill\": factura o cuenta que debe pagarse por algún servicio, usualmente asociado con servicios provisionales."
+    "Proyecto de ley.",
+    "Factura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Legislative project.",
+    "Invoice \n\nNota: En algunos contextos, \"factura\" puede referirse específicamente a un documento de cobro emitido por una empresa o institución en Puerto Rico, pero en general, se traduce como \"invoice\"."
+  ],
   "source": "https://tesoro.pr"
 }

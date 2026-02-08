@@ -3,14 +3,17 @@
   "term": "diamante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuadrilátero inscrito en el campo del juego de",
+      "consolidated_definition": "En el beisbol, área interior del campo de juego dentro de la que se encuentran el montículo, el y las bases.",
+      "en_consolidated_definition": "In baseball, the interior area of the playing field within which the mound and the bases are located.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7945",
-        "semantic_similarity_score": 0.7945,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Cuadrilátero inscrito en el campo del juego de béisbol donde van colocadas las bases o almohadillas.",
-          "dep. Campo de juego. En el juego de béisbol, cuadro interior del terreno, delimitado por la primera, segunda y tercera bases. Frecuente. DRAE 2001 Con dos hombres a bordo, Kevin Correa sorprendió con un toque hacia el lado izquierdo del diamante, el cual José Fortis no pudo manejar, permitiendo que los Azucareros llenaran las almohadillas",
           "En el beisbol, área interior del campo de juego dentro de la que se encuentran el montículo, el y las bases."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cuadrilátero inscrito en el campo del juego de"
+    "En el beisbol, área interior del campo de juego dentro de la que se encuentran el montículo, el y las bases."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, the interior area of the playing field within which the mound and the bases are located."
+  ],
   "source": "https://tesoro.pr"
 }

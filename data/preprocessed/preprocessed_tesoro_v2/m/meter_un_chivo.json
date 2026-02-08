@@ -3,9 +3,12 @@
   "term": "meter un chivo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "hacer un error, o decir algo",
+      "consolidated_definition": "Hacer un error, o decir una mentira.",
+      "en_consolidated_definition": "To make a mistake or to tell a lie.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "hacer un error, o decir algo"
+    "Hacer un error, o decir una mentira."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To make a mistake or to tell a lie."
+  ],
   "source": "https://tesoro.pr"
 }

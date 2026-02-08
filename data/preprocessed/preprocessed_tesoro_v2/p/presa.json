@@ -3,14 +3,17 @@
   "term": "presa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Entre galleros",
+      "consolidated_definition": "Entre galleros, el gallo perdedor en una pelea que se vende para que sirva de alimento, o pasa a ser propiedad del dueño del gallo ganador.",
+      "en_consolidated_definition": "The losing rooster in a fight that is sold for food or becomes the property of the owner of the winning rooster among cockfighters.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.6906",
-        "semantic_similarity_score": 0.6906,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -49,19 +52,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Entre galleros, el gallo que pierde.",
-          "El gallo lisiado que el coleador usa para calentar otro gallo; chata. “Y aprenden la esgrima galleril que se hace generalmente con la presa, gallo lisiado que el coleador sostiene en sus manos y que sirve para este fin.” Ricardo Toro Soler, , p. 78.",
-          "Gallo que perdió la pelea y se vende para que sirva de alimento.",
-          "Gallo perdidoso en una pelea que pasa a ser propiedad del dueño del gallo vencedor.",
-          "Entre galleros, el gallo perdedor en una pelea que se vende para que sirva de alimento, o pasa a ser propiedad del dueño del gallo ganador.",
-          "En las peleas de gallos, gallo lisiado que el careador usa para calentar a otro."
+          "Entre galleros, el gallo perdedor en una pelea que se vende para que sirva de alimento, o pasa a ser propiedad del dueño del gallo ganador."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Porción de carne de ave en una comida",
+      "consolidated_definition": "Porción de carne de ave en una comida.",
+      "en_consolidated_definition": "Portion of poultry meat in a meal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -96,9 +97,12 @@
     }
   },
   "es_definitions": [
-    "Entre galleros",
-    "Porción de carne de ave en una comida"
+    "Entre galleros, el gallo perdedor en una pelea que se vende para que sirva de alimento, o pasa a ser propiedad del dueño del gallo ganador.",
+    "Porción de carne de ave en una comida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The losing rooster in a fight that is sold for food or becomes the property of the owner of the winning rooster among cockfighters.",
+    "Portion of poultry meat in a meal."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "hechón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona presumida y jactanciosa",
+      "consolidated_definition": "Persona presumida y jactanciosa.",
+      "en_consolidated_definition": "Persona vanidosa y jactanciosa que se excede en sus declaraciones o afirmaciones.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona presumida y jactanciosa"
+    "Persona presumida y jactanciosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona vanidosa y jactanciosa que se excede en sus declaraciones o afirmaciones."
+  ],
   "source": "https://tesoro.pr"
 }

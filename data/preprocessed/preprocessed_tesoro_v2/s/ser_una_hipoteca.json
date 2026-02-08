@@ -3,9 +3,12 @@
   "term": "ser una hipoteca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser una carga onerosa",
+      "consolidated_definition": "Ser una carga onerosa.",
+      "en_consolidated_definition": "To be a burdensome expense or liability.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Ser una carga onerosa"
+    "Ser una carga onerosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be a burdensome expense or liability."
+  ],
   "source": "https://tesoro.pr"
 }

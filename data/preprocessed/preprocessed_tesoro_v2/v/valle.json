@@ -3,9 +3,12 @@
   "term": "valle",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de viviendas cercanas entre sí en una",
+      "consolidated_definition": "Conjunto de viviendas cercanas entre sí en una misma comarca del interior. Por ejemplo, en papeles del XVI y XVII: “los indios del valle del Otuao” ; “la población de San Phelipe del Arezibo, no es villa sino valle”; el valle de San Blas de Coamo” .",
+      "en_consolidated_definition": "Conjunto de viviendas cercanas entre sí en una misma región del interior. Por ejemplo, en documentos del siglo XVI y XVII: \"los indios del valle de Otuao\"; \"la población de San Felipe del Arezibo no es villa sino valle\"; el valle de San Blas de Coamo\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Conjunto de viviendas cercanas entre sí en una"
+    "Conjunto de viviendas cercanas entre sí en una misma comarca del interior. Por ejemplo, en papeles del XVI y XVII: “los indios del valle del Otuao” ; “la población de San Phelipe del Arezibo, no es villa sino valle”; el valle de San Blas de Coamo” ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conjunto de viviendas cercanas entre sí en una misma región del interior. Por ejemplo, en documentos del siglo XVI y XVII: \"los indios del valle de Otuao\"; \"la población de San Felipe del Arezibo no es villa sino valle\"; el valle de San Blas de Coamo\"."
+  ],
   "source": "https://tesoro.pr"
 }

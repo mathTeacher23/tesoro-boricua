@@ -3,9 +3,12 @@
   "term": "turbera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Turbación",
+      "consolidated_definition": "Turbación. Turbamiento.",
+      "en_consolidated_definition": "Disturbance. Disturbance.\n\nNota: En este contexto, se refiere a una perturbación o alteración en el estado normal de algo o alguien.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Turbación"
+    "Turbación. Turbamiento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Disturbance. Disturbance.\n\nNota: En este contexto, se refiere a una perturbación o alteración en el estado normal de algo o alguien."
+  ],
   "source": "https://tesoro.pr"
 }

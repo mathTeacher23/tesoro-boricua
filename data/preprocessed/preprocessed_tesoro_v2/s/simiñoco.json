@@ -3,15 +3,18 @@
   "term": "simiñoco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosa cualquiera",
+      "consolidated_definition": "Cosa cualquiera: objeto o situación indeterminado o insignificante.",
+      "en_consolidated_definition": "Indefinite or insignificant object or situation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3893",
         "semantic_similarity_score": 0.3893,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -49,8 +52,10 @@
     }
   },
   "es_definitions": [
-    "Cosa cualquiera"
+    "Cosa cualquiera: objeto o situación indeterminado o insignificante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Indefinite or insignificant object or situation."
+  ],
   "source": "https://tesoro.pr"
 }

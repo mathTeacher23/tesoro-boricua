@@ -3,9 +3,12 @@
   "term": "gumarro, rra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre despectivo aplicado a una persona cualquiera",
+      "consolidated_definition": "Nombre despectivo aplicado a una persona cualquiera. Sinónimos: marchante, individuo, jinete, fulano, tipo.",
+      "en_consolidated_definition": "Name used in a derogatory manner to refer to any person. Synonyms: merchant, individual, rider, fellow, type.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Amante",
+      "consolidated_definition": "Amante, concubino.",
+      "en_consolidated_definition": "Paramour, concubine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
     }
   },
   "es_definitions": [
-    "Nombre despectivo aplicado a una persona cualquiera",
-    "Amante"
+    "Nombre despectivo aplicado a una persona cualquiera. Sinónimos: marchante, individuo, jinete, fulano, tipo.",
+    "Amante, concubino."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Name used in a derogatory manner to refer to any person. Synonyms: merchant, individual, rider, fellow, type.",
+    "Paramour, concubine."
+  ],
   "source": "https://tesoro.pr"
 }

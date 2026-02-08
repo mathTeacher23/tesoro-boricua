@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Colilla del cigarrillo. También chicharrita.",
+      "en_consolidated_definition": "Cigar butt. Also known as chicharrita.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -50,15 +53,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Destornillador: herramienta de carpintería y plomería utilizada para aflojar o quitar tuercas.",
+      "consolidated_definition": "Herramienta de carpintería y plomería utilizada para sacar tuercas.",
+      "en_consolidated_definition": "Tool used in carpentry and plumbing to remove nuts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -86,15 +92,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Alarma. Sustantivo que designa un sistema o dispositivo que alerta a las personas sobre un peligro, emergencia o evento importante mediante señales sonoras, visuales o de otro tipo.",
+      "consolidated_definition": "Alarma.",
+      "en_consolidated_definition": "Alarm signal \n\nNote: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -124,9 +133,13 @@
   },
   "es_definitions": [
     "Colilla del cigarrillo. También chicharrita.",
-    "Destornillador: herramienta de carpintería y plomería utilizada para aflojar o quitar tuercas.",
-    "Alarma. Sustantivo que designa un sistema o dispositivo que alerta a las personas sobre un peligro, emergencia o evento importante mediante señales sonoras, visuales o de otro tipo."
+    "Herramienta de carpintería y plomería utilizada para sacar tuercas.",
+    "Alarma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cigar butt. Also known as chicharrita.",
+    "Tool used in carpentry and plumbing to remove nuts.",
+    "Alarm signal \n\nNote: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "soltar las velas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desplegar las velas de una embarcación",
+      "consolidated_definition": "Desplegar las velas de una embarcación.",
+      "en_consolidated_definition": "Hoist the sails of a vessel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Desplegar las velas de una embarcación"
+    "Desplegar las velas de una embarcación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hoist the sails of a vessel."
+  ],
   "source": "https://tesoro.pr"
 }

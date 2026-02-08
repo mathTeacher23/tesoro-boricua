@@ -3,9 +3,12 @@
   "term": "regateo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción y efecto de regatear",
+      "consolidated_definition": "Acción y efecto de regatear.",
+      "en_consolidated_definition": "Negotiation and effect of haggling.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Acción y efecto de regatear"
+    "Acción y efecto de regatear."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Negotiation and effect of haggling."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "delito de sangre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Forma eufemística para asesinato",
+      "consolidated_definition": "Forma eufemística para asesinato.",
+      "en_consolidated_definition": "Eufemistic term for murder.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Forma eufemística para asesinato"
+    "Forma eufemística para asesinato."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Eufemistic term for murder."
+  ],
   "source": "https://tesoro.pr"
 }

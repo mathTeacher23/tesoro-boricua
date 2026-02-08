@@ -3,9 +3,12 @@
   "term": "pesaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción y efecto de pesar",
+      "consolidated_definition": "Acción y efecto de pesar. Aplícase especialmente al acto de pesar los gallos de pelea y los boxeadores antes del combate.",
+      "en_consolidated_definition": "Action and effect of weighing. It is especially applied to the act of weighing fighting cocks and boxers before a match.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Acción y efecto de pesar"
+    "Acción y efecto de pesar. Aplícase especialmente al acto de pesar los gallos de pelea y los boxeadores antes del combate."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Action and effect of weighing. It is especially applied to the act of weighing fighting cocks and boxers before a match."
+  ],
   "source": "https://tesoro.pr"
 }

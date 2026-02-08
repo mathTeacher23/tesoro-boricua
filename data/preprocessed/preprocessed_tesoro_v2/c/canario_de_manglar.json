@@ -3,15 +3,18 @@
   "term": "canario de manglar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ave criolla cantora de pequeño tamaño, caracterizada por su plumaje amarillo brillante con manchas verde oliva (Parulidae; Dendroica petechia).",
+      "consolidated_definition": "Ave criolla cantora de pequeño tamaño, de color amarillo brillante con manchitas verde oliva. (Parulidae; Dendroica petechia).",
+      "en_consolidated_definition": "Bird species native to the island, a small songbird with bright yellow plumage and olive green spots. (Parulidae; Dendroica petechia).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ave criolla cantora de pequeño tamaño, caracterizada por su plumaje amarillo brillante con manchas verde oliva (Parulidae; Dendroica petechia)."
+    "Ave criolla cantora de pequeño tamaño, de color amarillo brillante con manchitas verde oliva. (Parulidae; Dendroica petechia)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bird species native to the island, a small songbird with bright yellow plumage and olive green spots. (Parulidae; Dendroica petechia)."
+  ],
   "source": "https://tesoro.pr"
 }

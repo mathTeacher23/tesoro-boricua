@@ -3,15 +3,18 @@
   "term": "pilonada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Porción de café o de otro grano que",
+      "consolidated_definition": "Porción de café o otros granos que se echa en el pilón para ser molida de una vez.",
+      "en_consolidated_definition": "Portion of coffee or other grains added to the grinder at once for milling.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5952",
         "semantic_similarity_score": 0.5952,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Porción de café o de otro grano que"
+    "Porción de café o otros granos que se echa en el pilón para ser molida de una vez."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Portion of coffee or other grains added to the grinder at once for milling."
+  ],
   "source": "https://tesoro.pr"
 }

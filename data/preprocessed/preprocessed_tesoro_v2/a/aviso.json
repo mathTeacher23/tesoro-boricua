@@ -3,15 +3,18 @@
   "term": "aviso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abreviatura utilizada para indicar el final de un anuncio o comunicado oficial de alerta meteorológica.",
+      "consolidated_definition": "Comunicado oficial de alerta que indica que está ocurriendo o se espera el efecto de inundaciones, marejadas, tornados, huracanes o tormentas en un plazo de 24 horas.",
+      "en_consolidated_definition": "Official warning notice indicating that a flood, storm surge, tornado, hurricane, or storm is occurring or expected to occur within a 24-hour period.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.1684",
-        "semantic_similarity_score": 0.1684,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Anuncio. Ac.",
           "Comunicado oficial de alerta que indica que está ocurriendo o se espera el efecto de inundaciones, marejadas, tornados, huracanes o tormentas en un plazo de 24 horas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Abreviatura utilizada para indicar el final de un anuncio o comunicado oficial de alerta meteorológica."
+    "Comunicado oficial de alerta que indica que está ocurriendo o se espera el efecto de inundaciones, marejadas, tornados, huracanes o tormentas en un plazo de 24 horas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Official warning notice indicating that a flood, storm surge, tornado, hurricane, or storm is occurring or expected to occur within a 24-hour period."
+  ],
   "source": "https://tesoro.pr"
 }

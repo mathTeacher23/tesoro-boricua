@@ -3,14 +3,17 @@
   "term": "equilibrista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona que toma préstamos con",
+      "consolidated_definition": "Persona que pide préstamos con frecuencia, y que con uno paga otros.",
+      "en_consolidated_definition": "Person who frequently requests loans and pays off others with one debt.\n\nNota: La expresión \"con uno paga otros\" se refiere a la práctica de pagar una deuda con otra, lo que puede ser un término cultural específico en Puerto Rico. En este contexto, he mantenido el significado original para preservar la precisión y la autenticidad del término.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9001",
-        "semantic_similarity_score": 0.9001,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dícese de la persona que toma préstamos con frecuencia y, con uno, paga otros.",
           "Persona que pide préstamos con frecuencia, y que con uno paga otros."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Político que quiere estar bien con todos",
+      "consolidated_definition": "Político que quiere estar bien con todos, especialmente con el partido que está en el poder.",
+      "en_consolidated_definition": "Politician who wants to be on good terms with everyone, especially the party in power.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona que toma préstamos con",
-    "Político que quiere estar bien con todos"
+    "Persona que pide préstamos con frecuencia, y que con uno paga otros.",
+    "Político que quiere estar bien con todos, especialmente con el partido que está en el poder."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who frequently requests loans and pays off others with one debt.\n\nNota: La expresión \"con uno paga otros\" se refiere a la práctica de pagar una deuda con otra, lo que puede ser un término cultural específico en Puerto Rico. En este contexto, he mantenido el significado original para preservar la precisión y la autenticidad del término.",
+    "Politician who wants to be on good terms with everyone, especially the party in power."
+  ],
   "source": "https://tesoro.pr"
 }

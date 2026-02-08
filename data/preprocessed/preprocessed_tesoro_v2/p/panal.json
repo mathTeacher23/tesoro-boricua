@@ -3,9 +3,12 @@
   "term": "panal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grupo de amigos por mucho tiempo, relacionado con un grupo",
+      "consolidated_definition": "Grupo de amigos por mucho tiempo.",
+      "en_consolidated_definition": "Group of long-standing friends.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Grupo de amigos por mucho tiempo, relacionado con un grupo"
+    "Grupo de amigos por mucho tiempo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Group of long-standing friends."
+  ],
   "source": "https://tesoro.pr"
 }

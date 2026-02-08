@@ -3,15 +3,18 @@
   "term": "comequeso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que actúa como intermediario o confidente en la relación de una pareja de novios.",
+      "consolidated_definition": "Alcahuete, tercero de una pareja de novios.",
+      "en_consolidated_definition": "Pimp or go-between, third party in a romantic couple.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5056",
-        "semantic_similarity_score": 0.5056,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -50,18 +53,16 @@
           "comer queso"
         ],
         "reference_definitions": [
-          "Alcahuete. Tercero entre una pareja de novios.",
-          "Miedoso.",
-          "‘Alguien que está sobrando’. Claudio de la Torre.",
-          "Alcahuete, tercero de una pareja de novios.",
-          "Persona miedosa."
+          "Alcahuete, tercero de una pareja de novios."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que actúa como intermediario o confidente en la relación de una pareja de novios."
+    "Alcahuete, tercero de una pareja de novios."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pimp or go-between, third party in a romantic couple."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tiburón ballena",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez",
+      "consolidated_definition": "Pez, de la familia Rhincodontidae. Rhincodon typus.",
+      "en_consolidated_definition": "Whale shark, of the family Rhincodontidae. Rhincodon typus.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pez"
+    "Pez, de la familia Rhincodontidae. Rhincodon typus."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Whale shark, of the family Rhincodontidae. Rhincodon typus."
+  ],
   "source": "https://tesoro.pr"
 }

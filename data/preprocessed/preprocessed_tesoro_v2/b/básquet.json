@@ -3,15 +3,18 @@
   "term": "básquet",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El baloncesto es un deporte colectivo en el que dos equipos compiten para anotar puntos lanzando una pelota a una canasta.",
+      "consolidated_definition": "Baloncesto.",
+      "en_consolidated_definition": "Basketball.\n\nNota: En algunos contextos, se puede referir a un deporte popular en Puerto Rico conocido como \"baloncesto\", pero también se utiliza para describir el juego de baloncesto en general.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El baloncesto es un deporte colectivo en el que dos equipos compiten para anotar puntos lanzando una pelota a una canasta."
+    "Baloncesto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Basketball.\n\nNota: En algunos contextos, se puede referir a un deporte popular en Puerto Rico conocido como \"baloncesto\", pero también se utiliza para describir el juego de baloncesto en general."
+  ],
   "source": "https://tesoro.pr"
 }

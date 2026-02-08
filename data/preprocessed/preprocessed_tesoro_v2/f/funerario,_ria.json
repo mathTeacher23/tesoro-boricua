@@ -3,9 +3,12 @@
   "term": "funerario, ria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dueño o administrador de una agencia funeraria",
+      "consolidated_definition": "Dueño o administrador de una agencia funeraria.",
+      "en_consolidated_definition": "Funeral director or administrator of a funeral home.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Dueño o administrador de una agencia funeraria"
+    "Dueño o administrador de una agencia funeraria."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Funeral director or administrator of a funeral home."
+  ],
   "source": "https://tesoro.pr"
 }

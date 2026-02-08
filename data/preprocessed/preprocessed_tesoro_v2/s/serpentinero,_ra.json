@@ -3,9 +3,12 @@
   "term": "serpentinero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En béisbol, pitcher, lanzador.",
+      "en_consolidated_definition": "Pitcher, pitcher in baseball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En béisbol"
+    "En béisbol, pitcher, lanzador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pitcher, pitcher in baseball."
+  ],
   "source": "https://tesoro.pr"
 }

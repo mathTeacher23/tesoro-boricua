@@ -3,9 +3,12 @@
   "term": "gallo sucio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo que al ser lavado por el juez",
+      "consolidated_definition": "Gallo que al ser lavado por el juez de inscripción antes de la pelea, descubre que ha ido empapado con alguna sustancia extraña. En esta circunstancia se declara nula la pelea.",
+      "en_consolidated_definition": "Rooster that, upon being washed by the registrar of records before a fight, discovers it has been soaked with an unknown substance. In this circumstance, the fight is declared null.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gallo que al ser lavado por el juez"
+    "Gallo que al ser lavado por el juez de inscripción antes de la pelea, descubre que ha ido empapado con alguna sustancia extraña. En esta circunstancia se declara nula la pelea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rooster that, upon being washed by the registrar of records before a fight, discovers it has been soaked with an unknown substance. In this circumstance, the fight is declared null."
+  ],
   "source": "https://tesoro.pr"
 }

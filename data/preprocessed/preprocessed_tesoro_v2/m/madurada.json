@@ -3,15 +3,18 @@
   "term": "madurada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Maduración del café",
+      "consolidated_definition": "Maduración del café. Ocurre entre finales de octubre y principios de noviembre, con granos listos para recogerse cada 8-10 días.",
+      "en_consolidated_definition": "Coffee ripening. It occurs between late October and early November, with beans ready to be harvested every 8-10 days.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3521",
         "semantic_similarity_score": 0.3521,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Maduración del café"
+    "Maduración del café. Ocurre entre finales de octubre y principios de noviembre, con granos listos para recogerse cada 8-10 días."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coffee ripening. It occurs between late October and early November, with beans ready to be harvested every 8-10 days."
+  ],
   "source": "https://tesoro.pr"
 }

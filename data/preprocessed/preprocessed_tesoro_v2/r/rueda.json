@@ -3,9 +3,12 @@
   "term": "rueda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Despliegue en abanico que hace el ave macho",
+      "consolidated_definition": "Despliegue en abanico que hace el ave macho con las plumas de la cola.",
+      "en_consolidated_definition": "Fan display that the male bird performs with its tail feathers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Despliegue en abanico que hace el ave macho"
+    "Despliegue en abanico que hace el ave macho con las plumas de la cola."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fan display that the male bird performs with its tail feathers."
+  ],
   "source": "https://tesoro.pr"
 }

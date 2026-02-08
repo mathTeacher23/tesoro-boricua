@@ -3,9 +3,12 @@
   "term": "poceta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Espacio destinado a la ducha que se separa",
+      "consolidated_definition": "Espacio destinado a la ducha que se separa con paredes del resto del baño.",
+      "en_consolidated_definition": "Area designated for showering that is separated from the rest of the bathroom by walls.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Espacio destinado a la ducha que se separa"
+    "Espacio destinado a la ducha que se separa con paredes del resto del baño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area designated for showering that is separated from the rest of the bathroom by walls."
+  ],
   "source": "https://tesoro.pr"
 }

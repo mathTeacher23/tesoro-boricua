@@ -3,15 +3,18 @@
   "term": "misdeminor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Delito o falta menor",
+      "consolidated_definition": "Delito o falta menor: infracción penal menos grave que los delitos considerados como tales pero más importante que las faltas leves.",
+      "en_consolidated_definition": "Less serious offense: a less severe penal infraction than those considered as crimes but more important than minor infractions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7187",
-        "semantic_similarity_score": 0.7187,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5876",
+        "semantic_similarity_score": 0.5876,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Delito o falta menor .",
+          "Delito o falta menor (en lenguaje jurídico y periodístico).",
           "Delito menor, menos grave."
         ]
       }
     }
   },
   "es_definitions": [
-    "Delito o falta menor"
+    "Delito o falta menor: infracción penal menos grave que los delitos considerados como tales pero más importante que las faltas leves."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Less serious offense: a less severe penal infraction than those considered as crimes but more important than minor infractions."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "yegua",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Estúpido, bruto, bestia. “Usted es un yegua”; “Él es muy yegua”. También decimos: “Usted es un caballo, o muy caballo”, con igual equivalencia. Creo que estas acepciones se conocen en toda tierra de habla española.",
+      "consolidated_definition": "Persona estúpida, tonta.",
+      "en_consolidated_definition": "Person of limited intellectual capacity or foolish individual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.454",
-        "semantic_similarity_score": 0.454,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -48,23 +51,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Estúpido, bruto, bestia. “Usted es un yegua”; “Él es muy yegua”. También decimos: “Usted es un caballo, o muy caballo”, con igual equivalencia. Creo que estas acepciones se conocen en toda tierra de habla española.",
-          "Bruto.",
-          "Am. Cen. y P. Rico. Persona estúpida, tonta. Ú. t. c. .",
           "Persona estúpida, tonta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Rallus longirostrus caribaens",
+      "consolidated_definition": "El rallus longirostrus caribaeus es un ave acuática que se encuentra en los manglares de Puerto Rico, Vieques y Culebra, caracterizada por su plumaje olivado pardo oscuro, alas pardas, garganta blanca, pecho ocre rojizo y pico largo, conocida por su llamada cacareante y su alimentación de jueyes palanqueros.",
+      "en_consolidated_definition": "The Rallus longirostris caribaeus is a waterbird found in the mangroves of Puerto Rico, Vieques, and Culebra, characterized by its dark olive-brown plumage, brown wings, white throat, reddish-orange breast, and long bill, known for its cackling call and diet of palankes snails.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.7064",
         "semantic_similarity_score": 0.7064,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -98,9 +101,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Mujer alta y desgarbada",
+      "consolidated_definition": "Mujer alta y desgarbada.",
+      "en_consolidated_definition": "Tall and ungainly woman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -137,10 +143,14 @@
     }
   },
   "es_definitions": [
-    ". Estúpido, bruto, bestia. “Usted es un yegua”; “Él es muy yegua”. También decimos: “Usted es un caballo, o muy caballo”, con igual equivalencia. Creo que estas acepciones se conocen en toda tierra de habla española.",
-    "Rallus longirostrus caribaens",
-    "Mujer alta y desgarbada"
+    "Persona estúpida, tonta.",
+    "El rallus longirostrus caribaeus es un ave acuática que se encuentra en los manglares de Puerto Rico, Vieques y Culebra, caracterizada por su plumaje olivado pardo oscuro, alas pardas, garganta blanca, pecho ocre rojizo y pico largo, conocida por su llamada cacareante y su alimentación de jueyes palanqueros.",
+    "Mujer alta y desgarbada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person of limited intellectual capacity or foolish individual.",
+    "The Rallus longirostris caribaeus is a waterbird found in the mangroves of Puerto Rico, Vieques, and Culebra, characterized by its dark olive-brown plumage, brown wings, white throat, reddish-orange breast, and long bill, known for its cackling call and diet of palankes snails.",
+    "Tall and ungainly woman."
+  ],
   "source": "https://tesoro.pr"
 }

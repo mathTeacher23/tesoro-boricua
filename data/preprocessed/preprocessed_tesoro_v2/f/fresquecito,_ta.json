@@ -3,15 +3,18 @@
   "term": "fresquecito, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alumno que no ha estudiado",
+      "consolidated_definition": "Alumno que carece de la preparación necesaria para un examen o evaluación académica.",
+      "en_consolidated_definition": "Student lacking the necessary preparation for an academic examination or assessment.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5507",
-        "semantic_similarity_score": 0.5507,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5287",
+        "semantic_similarity_score": 0.5287,
+        "cluster_count": 3,
         "grammar": [
           "adjetivo"
         ],
@@ -40,7 +43,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Alumno que no ha estudiado, que no está preparado para un examen.",
+          "(general) Alumno que no ha estudiado, que no está preparado para un examen.",
           "Estudiante no preparado para tomar un examen.",
           "Cosa acabada de hacer o de llegar."
         ]
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Alumno que no ha estudiado"
+    "Alumno que carece de la preparación necesaria para un examen o evaluación académica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Student lacking the necessary preparation for an academic examination or assessment."
+  ],
   "source": "https://tesoro.pr"
 }

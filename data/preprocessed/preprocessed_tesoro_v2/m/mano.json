@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Punta o pieza de baile.",
+      "en_consolidated_definition": "Dance tip or piece.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,14 +42,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "vulg, relacionado con un grupo",
+      "consolidated_definition": "Se usa como tratamiento entre dos personas de mucha confianza.",
+      "en_consolidated_definition": "Used as a term of endearment between two people of great trust and familiarity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.4414",
-        "semantic_similarity_score": 0.4414,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -92,26 +98,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg. . Aféresis de hermano. Ac. “Te juro, mano Miguel, —Que me tiene espiritao —Ey vel que en un veybo en gracia —De sopetón te has casao.” , p. 160.",
-          "Aféresis vulgar de hermano; en Puerto Rico, donde ya registra Alonso su uso en 1849, entre campesinos —”Te juro, mano Miguey...”—, es hoy forma casi olvidada.",
-          "Del ámbito familiar, y por extensión como forma expresiva de estrecho afecto entre amigos, hoy difundida por los medios populares urbanos, tiene empleo desde antiguo por nuestros ambientes campesinos el caso de aféresis mano, na (",
-          "Amigo.",
-          "Apócope de hermano.",
-          "Amigo. Brother. Hermano, utilizable entre amigos. Cuando uno se dirige a una persona en vez de usar su nombre, expresión de cariño al compañero. Expresión usada para saludar o llamar a un amigo.",
-          "Se usa como tratamiento entre dos personas de mucha confianza.",
-          "Amigo."
+          "Se usa como tratamiento entre dos personas de mucha confianza."
         ]
       }
     },
     "3": {
-      "consolidated_definition": ". Hablando de plátanos, un gajo, cualquiera que sea su número., relacionado con un grupo",
+      "consolidated_definition": "Conjunto de cinco frutos de una musácea, como el banano o el plátano, que se cortan de un racimo, pero que permanecen unidos entre sí.",
+      "en_consolidated_definition": "A bunch of five fruits from a banana plant, such as a banana or plantain, that are cut from a stem but remain attached to each other.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.5577",
-        "semantic_similarity_score": 0.5577,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -162,11 +164,6 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Hablando de plátanos, un gajo, cualquiera que sea su número.",
-          ". Cada uno de los gajos o haces del racimo de plátano. También gajo, gajilete.",
-          "En los racimos de plátanos o guineos el grupo de frutas que juntas van adheridas al marlote.",
-          "Voz usada en otros países de Hispanoamérica. Gajo de guineos o plátanos sin importancia del número.",
-          "Cada uno de los grupos o haces del racimo de frutos.",
           "Conjunto de cinco frutos de una musácea, como el banano o el plátano, que se cortan de un racimo, pero que permanecen unidos entre sí."
         ]
       }
@@ -174,9 +171,13 @@
   },
   "es_definitions": [
     ". Punta o pieza de baile.",
-    "vulg, relacionado con un grupo",
-    ". Hablando de plátanos, un gajo, cualquiera que sea su número., relacionado con un grupo"
+    "Se usa como tratamiento entre dos personas de mucha confianza.",
+    "Conjunto de cinco frutos de una musácea, como el banano o el plátano, que se cortan de un racimo, pero que permanecen unidos entre sí."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dance tip or piece.",
+    "Used as a term of endearment between two people of great trust and familiarity.",
+    "A bunch of five fruits from a banana plant, such as a banana or plantain, that are cut from a stem but remain attached to each other."
+  ],
   "source": "https://tesoro.pr"
 }

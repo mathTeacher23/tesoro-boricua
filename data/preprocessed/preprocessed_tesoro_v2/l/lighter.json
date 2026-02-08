@@ -3,14 +3,17 @@
   "term": "lighter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Encendedor",
+      "consolidated_definition": "Encendedor.",
+      "en_consolidated_definition": "Lighter",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.7458",
-        "semantic_similarity_score": 0.7458,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -49,17 +52,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Encendedor.",
-          "Encendedor.",
-          "Encendedor, mechero. Instrumento mecánico usado para encender cigarrillos. Anglicismo crudo, poco frecuente. O el anuncio de Harris Paint en el cine, que todo el mundo canta, ese “azul de adoquines” es realmente el azul de mi lighter",
           "Encendedor."
         ]
       }
     }
   },
   "es_definitions": [
-    "Encendedor"
+    "Encendedor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lighter"
+  ],
   "source": "https://tesoro.pr"
 }

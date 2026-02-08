@@ -3,9 +3,12 @@
   "term": "mieldepulga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver miel de purga",
+      "consolidated_definition": "Ver miel de purga .",
+      "en_consolidated_definition": "See my purging honey.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver miel de purga"
+    "Ver miel de purga ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See my purging honey."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "tijerillas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La armadura de la cubierta del bohío está",
+      "consolidated_definition": "La armadura de la cubierta del bohío está formada por largueros que componen triángulos llamados tijerillas.",
+      "en_consolidated_definition": "The roof covering of a bohío is composed of longitudinal beams forming triangles called tijerillas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.5585",
         "semantic_similarity_score": 0.5585,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino",
@@ -60,8 +63,10 @@
     }
   },
   "es_definitions": [
-    "La armadura de la cubierta del bohío está"
+    "La armadura de la cubierta del bohío está formada por largueros que componen triángulos llamados tijerillas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The roof covering of a bohío is composed of longitudinal beams forming triangles called tijerillas."
+  ],
   "source": "https://tesoro.pr"
 }

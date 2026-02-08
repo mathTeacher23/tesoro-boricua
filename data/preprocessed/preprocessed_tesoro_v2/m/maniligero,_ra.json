@@ -3,9 +3,12 @@
   "term": "maniligero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver manilargo",
+      "consolidated_definition": "Ver manilargo, ga .",
+      "en_consolidated_definition": "See manilargo, ga.\n\nTranslation:\nSee manilargo, see Ga.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,15 +28,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pendenciero",
+      "consolidated_definition": "Persona que tiene tendencia a discutir o pelear frecuentemente.",
+      "en_consolidated_definition": "Persona con tendencia a discutir o pelear frecuentemente.\n\nNota: Esta definición puede estar relacionada con el término \"malcriado\" en español puertorriqueño, que se refiere a alguien que tiene una actitud agresiva y conflictiva. Sin embargo, para mantener la precisión y neutralidad de un diccionario, he optado por traducir solo la definición original.\n\nPersona prone to frequent disputes or fights.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4301",
         "semantic_similarity_score": 0.4301,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "adjetivo"
         ],
@@ -69,9 +75,12 @@
     }
   },
   "es_definitions": [
-    "Ver manilargo",
-    "Pendenciero"
+    "Ver manilargo, ga .",
+    "Persona que tiene tendencia a discutir o pelear frecuentemente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See manilargo, ga.\n\nTranslation:\nSee manilargo, see Ga.",
+    "Persona con tendencia a discutir o pelear frecuentemente.\n\nNota: Esta definición puede estar relacionada con el término \"malcriado\" en español puertorriqueño, que se refiere a alguien que tiene una actitud agresiva y conflictiva. Sin embargo, para mantener la precisión y neutralidad de un diccionario, he optado por traducir solo la definición original.\n\nPersona prone to frequent disputes or fights."
+  ],
   "source": "https://tesoro.pr"
 }

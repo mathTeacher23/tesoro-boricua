@@ -3,15 +3,18 @@
   "term": "account",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Account\": cuenta bancaria o expediente financiero en una entidad; sustantivo.",
+      "consolidated_definition": "Cuenta, en especial la bancaria.",
+      "en_consolidated_definition": "Bank account statement, especially in banking.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5378",
-        "semantic_similarity_score": 0.5378,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Cuenta general o bancaria. Expediente bancario en una entidad financiera. Anglicismo crudo, poco frecuente. Compuestos: escrow account, checking account, savings account. El antivirus Panda no me deja entrar a mi account en windows. Soy Pablo de San Juan. Dime qué puedo hacer (Todo Expertos, 25-12-04)",
           "Cuenta, en especial la bancaria."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Account\": cuenta bancaria o expediente financiero en una entidad; sustantivo."
+    "Cuenta, en especial la bancaria."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bank account statement, especially in banking."
+  ],
   "source": "https://tesoro.pr"
 }

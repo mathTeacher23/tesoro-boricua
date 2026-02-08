@@ -3,15 +3,18 @@
   "term": "mapeyé",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una clase de seis que empieza con una",
+      "consolidated_definition": "Una pieza musical campesina de seis movimientos, caracterizada por comenzar con una introducción extensa que puede durar dieciséis o más compases.",
+      "en_consolidated_definition": "A rural musical piece in six movements, characterized by beginning with an extensive introduction that can last sixteen or more measures.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3968",
-        "semantic_similarity_score": 0.3968,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4097",
+        "semantic_similarity_score": 0.4097,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,14 +49,17 @@
         "reference_definitions": [
           "Una clase de seis que empieza con una introducción de dieciséis o más compases.",
           "Nombre antiguo del baile del seis chorreado. Variación del seis.",
-          "Entre las distintas variedades de esta pieza musical campesina figuran las llamadas enramaa y mapeyé, caracterizadas por empezar con una introducción de dieciséis o más compases."
+          "Entre las distintas variedades de esta pieza musical campesina el seis figuran las llamadas enrama(d)a y mapeyé, caracterizadas por empezar con una introducción de dieciséis o más compases."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cigarro de droga",
+      "consolidated_definition": "Cigarro de droga.",
+      "en_consolidated_definition": "Cigarro de droga.\n\nDrug cigarette.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -88,9 +94,12 @@
     }
   },
   "es_definitions": [
-    "Una clase de seis que empieza con una",
-    "Cigarro de droga"
+    "Una pieza musical campesina de seis movimientos, caracterizada por comenzar con una introducción extensa que puede durar dieciséis o más compases.",
+    "Cigarro de droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A rural musical piece in six movements, characterized by beginning with an extensive introduction that can last sixteen or more measures.",
+    "Cigarro de droga.\n\nDrug cigarette."
+  ],
   "source": "https://tesoro.pr"
 }

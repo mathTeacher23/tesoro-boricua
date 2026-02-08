@@ -3,15 +3,18 @@
   "term": "bolipul",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Bolita\": Juego de azar.",
+      "consolidated_definition": "Lotería clandestina.",
+      "en_consolidated_definition": "Illicit lottery.\n\nNota: En algunos contextos, se refiere a una lotería que opera fuera del control de las autoridades reguladoras y puede ser considerada ilegal en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3594",
-        "semantic_similarity_score": 0.3594,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,15 +46,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bolita, juego de azar.",
           "Lotería clandestina."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Bolita\": Juego de azar."
+    "Lotería clandestina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Illicit lottery.\n\nNota: En algunos contextos, se refiere a una lotería que opera fuera del control de las autoridades reguladoras y puede ser considerada ilegal en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

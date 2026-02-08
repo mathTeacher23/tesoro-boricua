@@ -3,9 +3,12 @@
   "term": "güelos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vuelos",
+      "consolidated_definition": "Vuelos.",
+      "en_consolidated_definition": "Flights.\n\nNota: Si se refiere a \"vuelos\" en el sentido de aves que vuelan, la traducción sería \"birds in flight\". Sin embargo, si se refiere a viajes aéreos, la traducción anterior es correcta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Vuelos"
+    "Vuelos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flights.\n\nNota: Si se refiere a \"vuelos\" en el sentido de aves que vuelan, la traducción sería \"birds in flight\". Sin embargo, si se refiere a viajes aéreos, la traducción anterior es correcta."
+  ],
   "source": "https://tesoro.pr"
 }

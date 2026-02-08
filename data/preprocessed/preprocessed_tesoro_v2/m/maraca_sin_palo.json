@@ -3,9 +3,12 @@
   "term": "maraca sin palo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona sin capacidad",
+      "consolidated_definition": "Persona sin capacidad.",
+      "en_consolidated_definition": "Person without capacity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Persona sin capacidad"
+    "Persona sin capacidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person without capacity."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "obrero de la caña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver trabajador de la caña",
+      "consolidated_definition": "Ver trabajador de la caña .",
+      "en_consolidated_definition": "Cane cutter (worker of the cane)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver trabajador de la caña"
+    "Ver trabajador de la caña ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cane cutter (worker of the cane)"
+  ],
   "source": "https://tesoro.pr"
 }

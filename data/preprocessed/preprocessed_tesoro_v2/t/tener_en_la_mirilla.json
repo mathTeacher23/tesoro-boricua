@@ -3,9 +3,12 @@
   "term": "tener en la mirilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vigilar a alguien con un objetivo determinado",
+      "consolidated_definition": "Vigilar a alguien con un objetivo determinado.",
+      "en_consolidated_definition": "To keep watch over someone with a specific objective in mind.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Vigilar a alguien con un objetivo determinado"
+    "Vigilar a alguien con un objetivo determinado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To keep watch over someone with a specific objective in mind."
+  ],
   "source": "https://tesoro.pr"
 }

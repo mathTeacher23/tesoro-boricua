@@ -3,15 +3,18 @@
   "term": "coladero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un objeto construido que presenta múltiples filtraciones de agua a través del techo.",
+      "consolidated_definition": "Techo con muchas goteras.",
+      "en_consolidated_definition": "Roof with many leaks.\n\nNota: En este caso, \"techo con muchas goteras\" se refiere a un techo que tiene múltiples agujeros o grietas por los que entra el agua, lo que puede ser una característica común en edificios antiguos o mal mantenidos en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Juego que se caracteriza por sus reglas y objetivos específicos.",
+      "consolidated_definition": "Cierto juego.",
+      "en_consolidated_definition": "Certain game.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Un objeto construido que presenta múltiples filtraciones de agua a través del techo.",
-    "Juego que se caracteriza por sus reglas y objetivos específicos."
+    "Techo con muchas goteras.",
+    "Cierto juego."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Roof with many leaks.\n\nNota: En este caso, \"techo con muchas goteras\" se refiere a un techo que tiene múltiples agujeros o grietas por los que entra el agua, lo que puede ser una característica común en edificios antiguos o mal mantenidos en Puerto Rico.",
+    "Certain game."
+  ],
   "source": "https://tesoro.pr"
 }

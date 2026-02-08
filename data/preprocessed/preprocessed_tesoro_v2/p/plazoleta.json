@@ -3,9 +3,12 @@
   "term": "plazoleta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En galerías y centros comerciales",
+      "consolidated_definition": "En galerías y centros comerciales, zona dedicada a restaurantes y establecimientos similares.",
+      "en_consolidated_definition": "Food court or dining area in shopping malls and similar establishments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En galerías y centros comerciales"
+    "En galerías y centros comerciales, zona dedicada a restaurantes y establecimientos similares."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Food court or dining area in shopping malls and similar establishments."
+  ],
   "source": "https://tesoro.pr"
 }

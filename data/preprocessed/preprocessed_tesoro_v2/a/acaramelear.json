@@ -3,15 +3,18 @@
   "term": "acaramelear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Exaltar o halagar en exceso a alguien.",
+      "consolidated_definition": "Halagar en exceso una persona a alguien.",
+      "en_consolidated_definition": "To flatter excessively someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Endulzar una comida significa agregar azúcar o dulces a un plato para darle un sabor más dulce.",
+      "consolidated_definition": "Endulzar alguien una comida o bebida.",
+      "en_consolidated_definition": "To sweeten someone's food or drink.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Exaltar o halagar en exceso a alguien.",
-    "Endulzar una comida significa agregar azúcar o dulces a un plato para darle un sabor más dulce."
+    "Halagar en exceso una persona a alguien.",
+    "Endulzar alguien una comida o bebida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To flatter excessively someone.",
+    "To sweeten someone's food or drink.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

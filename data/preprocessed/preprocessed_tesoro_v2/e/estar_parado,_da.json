@@ -3,9 +3,12 @@
   "term": "estar parado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar de pie",
+      "consolidated_definition": "Estar de pie.",
+      "en_consolidated_definition": "Stand upright or on one's feet.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Estar de pie"
+    "Estar de pie."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Stand upright or on one's feet."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "funcionario, ria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Representante de la División de Gallos del Departamento",
+      "consolidated_definition": "Representante de la División de Gallos del Departamento de Recreo y Deportes en jugadas debidamente autorizadas.",
+      "en_consolidated_definition": "Representative of the Rooster Division within the Department of Recreation and Sports for duly authorized games or plays.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Representante de la División de Gallos del Departamento"
+    "Representante de la División de Gallos del Departamento de Recreo y Deportes en jugadas debidamente autorizadas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Representative of the Rooster Division within the Department of Recreation and Sports for duly authorized games or plays."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Árbol de madera liviana y amarillenta.",
+      "en_consolidated_definition": "Tree of lightweight and yellowish wood.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -46,15 +49,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Guineo\": fruto del árbol de guanábana (Annona muricata), caracterizado por su pulpa blanca y jugosa rodeada de una cubierta verde y espinosa.",
+      "consolidated_definition": "Variedad de guineo.",
+      "en_consolidated_definition": "Variety of banana.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,15 +88,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Gallo o gallina de color gris plomo: ave doméstica de la especie Gallus gallus domesticus, caracterizada por su plumaje gris.",
+      "consolidated_definition": "Gallo de calidad, de color gris plomo.",
+      "en_consolidated_definition": "Lead rooster of quality, with a lead grey color.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6719",
-        "semantic_similarity_score": 0.6719,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -123,8 +132,6 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Gallo o gallina de color gris plomo.",
-          "Gallo de plumas gris plomo. Por su pluma se considera un gallo de calidad. Se equipara al rubio en finura, pero no lo supera. Existen variantes combinadas con el gris de la pluma: cenizo-rubio, de alas y golilla rubias y el resto del cuerpo cenizo; cenizo-pinto y cenizo-amarillo .",
           "Gallo de calidad, de color gris plomo."
         ]
       }
@@ -132,9 +139,13 @@
   },
   "es_definitions": [
     "Árbol de madera liviana y amarillenta.",
-    "\"Guineo\": fruto del árbol de guanábana (Annona muricata), caracterizado por su pulpa blanca y jugosa rodeada de una cubierta verde y espinosa.",
-    "Gallo o gallina de color gris plomo: ave doméstica de la especie Gallus gallus domesticus, caracterizada por su plumaje gris."
+    "Variedad de guineo.",
+    "Gallo de calidad, de color gris plomo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree of lightweight and yellowish wood.",
+    "Variety of banana.",
+    "Lead rooster of quality, with a lead grey color."
+  ],
   "source": "https://tesoro.pr"
 }

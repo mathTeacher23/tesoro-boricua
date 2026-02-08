@@ -3,9 +3,12 @@
   "term": "salir peinado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salir perdidoso en un negocio o asunto",
+      "consolidated_definition": "Salir perdidoso en un negocio o asunto. Salir ileso en una pelea.",
+      "en_consolidated_definition": "To emerge unscathed from a business or matter. To come out unharmed in a fight.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Salir perdidoso en un negocio o asunto"
+    "Salir perdidoso en un negocio o asunto. Salir ileso en una pelea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To emerge unscathed from a business or matter. To come out unharmed in a fight."
+  ],
   "source": "https://tesoro.pr"
 }

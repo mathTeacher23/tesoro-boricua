@@ -3,9 +3,12 @@
   "term": "puñetería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Molestia",
+      "consolidated_definition": "Molestia. Cosa o asunto que causa inconvenientes. “Eso es una puñetería.”",
+      "en_consolidated_definition": "Inconvenience. Thing or matter that causes difficulties. \"That's a nuisance.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Molestia"
+    "Molestia. Cosa o asunto que causa inconvenientes. “Eso es una puñetería.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Inconvenience. Thing or matter that causes difficulties. \"That's a nuisance.\""
+  ],
   "source": "https://tesoro.pr"
 }

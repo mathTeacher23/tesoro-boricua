@@ -3,15 +3,18 @@
   "term": "chispo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Muchachito\": (general) persona que, en su etapa infantil o juvenil, se refiere a un joven varón.",
+      "consolidated_definition": "(general) Muchacho pequeño.",
+      "en_consolidated_definition": "Young boy, especially a small or young male child.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Chispito\": término coloquial que se refiere a una pizca, minúcia o pedacito, especialmente en relación con un problema o irregularidad.",
+      "consolidated_definition": "\"Chispito\": término coloquial que se refiere a algo pequeño o insignificante, especialmente en relación con un problema o irregularidad.",
+      "en_consolidated_definition": "\"Chispito\": colloquial term referring to something small or insignificant, especially in relation to a problem or irregularity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -94,9 +100,12 @@
     }
   },
   "es_definitions": [
-    "\"Muchachito\": (general) persona que, en su etapa infantil o juvenil, se refiere a un joven varón.",
-    "\"Chispito\": término coloquial que se refiere a una pizca, minúcia o pedacito, especialmente en relación con un problema o irregularidad."
+    "(general) Muchacho pequeño.",
+    "\"Chispito\": término coloquial que se refiere a algo pequeño o insignificante, especialmente en relación con un problema o irregularidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Young boy, especially a small or young male child.",
+    "\"Chispito\": colloquial term referring to something small or insignificant, especially in relation to a problem or irregularity."
+  ],
   "source": "https://tesoro.pr"
 }

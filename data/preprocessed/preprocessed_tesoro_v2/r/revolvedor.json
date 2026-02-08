@@ -3,9 +3,12 @@
   "term": "revolvedor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Utensilio de cocina para revolver huevos",
+      "consolidated_definition": "Utensilio de cocina para revolver huevos.",
+      "en_consolidated_definition": "Kitchen utensil for beating eggs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Utensilio de cocina para revolver huevos"
+    "Utensilio de cocina para revolver huevos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Kitchen utensil for beating eggs."
+  ],
   "source": "https://tesoro.pr"
 }

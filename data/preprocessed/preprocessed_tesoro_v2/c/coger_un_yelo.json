@@ -3,15 +3,18 @@
   "term": "coger un yelo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Resfriarse\": sufrir un enfriamiento del cuerpo que provoca síntomas como fiebre, tos y dolor en la garganta.",
+      "consolidated_definition": "Resfriarse. También coger una frialdá.",
+      "en_consolidated_definition": "To catch a cold. Also to come down with a chill.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "\"Resfriarse\": sufrir un enfriamiento del cuerpo que provoca síntomas como fiebre, tos y dolor en la garganta."
+    "Resfriarse. También coger una frialdá."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To catch a cold. Also to come down with a chill."
+  ],
   "source": "https://tesoro.pr"
 }

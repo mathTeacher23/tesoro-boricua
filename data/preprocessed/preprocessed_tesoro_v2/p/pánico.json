@@ -3,14 +3,17 @@
   "term": "pánico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Escacez de droga",
+      "consolidated_definition": "Escasez de droga.",
+      "en_consolidated_definition": "Drug scarcity or shortage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.6555",
-        "semantic_similarity_score": 0.6555,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -49,19 +52,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Escacez de droga.",
-          "Voz usada por drogadictos. Escasez de droga.",
-          "Cuando no hay marihuana.",
-          "Redadas de drogas.",
-          "Escasez de droga.",
-          "Redada de drogas."
+          "Escasez de droga."
         ]
       }
     }
   },
   "es_definitions": [
-    "Escacez de droga"
+    "Escasez de droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Drug scarcity or shortage."
+  ],
   "source": "https://tesoro.pr"
 }

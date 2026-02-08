@@ -3,14 +3,17 @@
   "term": "envuelto, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ocupado",
+      "consolidated_definition": "Referido a persona, metida en drogas.",
+      "en_consolidated_definition": "Addicted to drugs, specifically referring to an individual involved in the drug trade or heavily dependent on illicit substances.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4981",
-        "semantic_similarity_score": 0.4981,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -43,17 +46,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ocupado. Comprometido. Concentrado. Metido en algo, ya sea drogas, alcohol, problemas, situaciones, etc.",
-          "Endrogado.",
-          "Referido a persona, metida en drogas.",
-          "Referido a persona, aficionada al alcohol."
+          "Referido a persona, metida en drogas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ocupado"
+    "Referido a persona, metida en drogas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Addicted to drugs, specifically referring to an individual involved in the drug trade or heavily dependent on illicit substances."
+  ],
   "source": "https://tesoro.pr"
 }

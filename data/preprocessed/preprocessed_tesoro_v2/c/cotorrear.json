@@ -3,15 +3,18 @@
   "term": "cotorrear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La conversación entre compañeros.",
+      "consolidated_definition": "Hablar con los compañeros.",
+      "en_consolidated_definition": "Conversar con los compañeros.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "La conversación entre compañeros."
+    "Hablar con los compañeros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conversar con los compañeros."
+  ],
   "source": "https://tesoro.pr"
 }

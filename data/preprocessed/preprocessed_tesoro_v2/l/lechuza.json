@@ -3,15 +3,18 @@
   "term": "lechuza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pájaro",
+      "consolidated_definition": "Múcaro: Ave. También guaraguao.",
+      "en_consolidated_definition": "Múcaro: Bird. Also known as guaraguao.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
         "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.6349",
-        "semantic_similarity_score": 0.6349,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6194",
+        "semantic_similarity_score": 0.6194,
+        "cluster_count": 6,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -68,7 +71,7 @@
         "related_words": [],
         "reference_definitions": [
           "Pájaro. Guaraguao. “Se lleva las gallinas grandes.”",
-          "Guaraguao.",
+          "(popular) Guaraguao.",
           "Pájaro.",
           "Múcaro.",
           "Guaraguao.",
@@ -79,9 +82,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Mujer de vida nocturna",
+      "consolidated_definition": "Mujer de vida nocturna.",
+      "en_consolidated_definition": "Woman of the night life.\n\nNota: La expresión \"vida nocturna\" es un término común en Puerto Rico y otros países hispanohablantes para describir a alguien que pasa tiempo fuera de casa después del anochecer, especialmente en entornos sociales o de entretenimiento.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -116,9 +122,12 @@
     }
   },
   "es_definitions": [
-    "Pájaro",
-    "Mujer de vida nocturna"
+    "Múcaro: Ave. También guaraguao.",
+    "Mujer de vida nocturna."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Múcaro: Bird. Also known as guaraguao.",
+    "Woman of the night life.\n\nNota: La expresión \"vida nocturna\" es un término común en Puerto Rico y otros países hispanohablantes para describir a alguien que pasa tiempo fuera de casa después del anochecer, especialmente en entornos sociales o de entretenimiento."
+  ],
   "source": "https://tesoro.pr"
 }

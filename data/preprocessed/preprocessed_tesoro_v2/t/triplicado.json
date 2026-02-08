@@ -3,9 +3,12 @@
   "term": "triplicado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Original y dos copias de un escrito",
+      "consolidated_definition": "Original y dos copias de un escrito.",
+      "en_consolidated_definition": "Original and two copies of a written document.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Original y dos copias de un escrito"
+    "Original y dos copias de un escrito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Original and two copies of a written document."
+  ],
   "source": "https://tesoro.pr"
 }

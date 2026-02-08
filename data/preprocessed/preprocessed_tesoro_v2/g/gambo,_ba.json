@@ -3,15 +3,18 @@
   "term": "gambo, ba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por Ponce",
+      "consolidated_definition": "Por ponce o gambao: sustantivo que se refiere a una persona que camina con los pies para adentro.",
+      "en_consolidated_definition": "Ponce or gambao: a person who walks with their feet turned inward.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.6155",
         "semantic_similarity_score": 0.6155,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "adjetivo"
         ],
@@ -58,9 +61,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "La persona que tiene una mano inútil",
+      "consolidated_definition": "La persona que tiene una mano inútil. También manco.",
+      "en_consolidated_definition": "The person who has a useless hand. Also lame.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -96,9 +102,12 @@
     }
   },
   "es_definitions": [
-    "Por Ponce",
-    "La persona que tiene una mano inútil"
+    "Por ponce o gambao: sustantivo que se refiere a una persona que camina con los pies para adentro.",
+    "La persona que tiene una mano inútil. También manco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ponce or gambao: a person who walks with their feet turned inward.",
+    "The person who has a useless hand. Also lame."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "uva playera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto de hojas como abanicos que produce una",
+      "consolidated_definition": "Arbusto de hojas como abanicos que produce una frutilla agridulce.",
+      "en_consolidated_definition": "Fan palm shrub with leaflets resembling fans that produces a sweet-and-sour drupelet.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Arbusto de hojas como abanicos que produce una"
+    "Arbusto de hojas como abanicos que produce una frutilla agridulce."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fan palm shrub with leaflets resembling fans that produces a sweet-and-sour drupelet."
+  ],
   "source": "https://tesoro.pr"
 }

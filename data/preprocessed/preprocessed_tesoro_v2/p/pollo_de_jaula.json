@@ -3,9 +3,12 @@
   "term": "pollo de jaula",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver pollo de tienda",
+      "consolidated_definition": "Ver pollo de tienda .",
+      "en_consolidated_definition": "Store-bought chicken.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver pollo de tienda"
+    "Ver pollo de tienda ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Store-bought chicken."
+  ],
   "source": "https://tesoro.pr"
 }

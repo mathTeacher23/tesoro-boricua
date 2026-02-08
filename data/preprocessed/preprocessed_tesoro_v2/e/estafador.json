@@ -3,9 +3,12 @@
   "term": "estafador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, jugador que, desde la base a la que había llegado, alcanza la siguiente por su velocidad y su habilidad para tomarle el tiempo al .",
+      "en_consolidated_definition": "In baseball, a player who, from the base to which they had arrived, reaches the next one by their speed and ability to stall for time against the pitcher.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, jugador que, desde la base a la que había llegado, alcanza la siguiente por su velocidad y su habilidad para tomarle el tiempo al ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a player who, from the base to which they had arrived, reaches the next one by their speed and ability to stall for time against the pitcher."
+  ],
   "source": "https://tesoro.pr"
 }

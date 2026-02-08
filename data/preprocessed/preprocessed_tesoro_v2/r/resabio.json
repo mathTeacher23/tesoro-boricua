@@ -3,9 +3,12 @@
   "term": "resabio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mala costumbre",
+      "consolidated_definition": "Mala costumbre. Aplícase generalmente a animales.",
+      "en_consolidated_definition": "Bad habit, commonly applied to animals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Mala costumbre"
+    "Mala costumbre. Aplícase generalmente a animales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bad habit, commonly applied to animals."
+  ],
   "source": "https://tesoro.pr"
 }

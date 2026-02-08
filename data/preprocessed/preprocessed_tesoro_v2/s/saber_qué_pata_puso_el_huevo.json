@@ -3,9 +3,12 @@
   "term": "saber qué pata puso el huevo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conocer alguien bien a una persona y sus",
+      "consolidated_definition": "Conocer alguien bien a una persona y sus antecesores.",
+      "en_consolidated_definition": "Conocer a fondo a una persona y sus antecedentes familiares.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Conocer alguien bien a una persona y sus"
+    "Conocer alguien bien a una persona y sus antecesores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conocer a fondo a una persona y sus antecedentes familiares."
+  ],
   "source": "https://tesoro.pr"
 }

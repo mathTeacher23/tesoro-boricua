@@ -3,9 +3,12 @@
   "term": "web site",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver website",
+      "consolidated_definition": "Ver website .",
+      "en_consolidated_definition": "Consult the website.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver website"
+    "Ver website ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Consult the website."
+  ],
   "source": "https://tesoro.pr"
 }

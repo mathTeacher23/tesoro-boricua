@@ -3,15 +3,18 @@
   "term": "patada",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Acción innoble.",
+      "consolidated_definition": "Acción que carece de nobleza o integridad.",
+      "en_consolidated_definition": "Action lacking nobility or integrity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.1988",
         "semantic_similarity_score": 0.1988,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -47,9 +50,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Comilona a base de carne de pato",
+      "consolidated_definition": "Comilona a base de carne de pato.",
+      "en_consolidated_definition": "Pato con mojo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    ". Acción innoble.",
-    "Comilona a base de carne de pato"
+    "Acción que carece de nobleza o integridad.",
+    "Comilona a base de carne de pato."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Action lacking nobility or integrity.",
+    "Pato con mojo."
+  ],
   "source": "https://tesoro.pr"
 }

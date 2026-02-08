@@ -3,9 +3,12 @@
   "term": "neuralgia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cierto tipo de dolor en algún lado de",
+      "consolidated_definition": "Cierto tipo de dolor en algún lado de la cara, “del cuello para arriba”.",
+      "en_consolidated_definition": "A certain type of pain in some part of the face, \"from the neck upwards\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cierto tipo de dolor en algún lado de"
+    "Cierto tipo de dolor en algún lado de la cara, “del cuello para arriba”."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A certain type of pain in some part of the face, \"from the neck upwards\"."
+  ],
   "source": "https://tesoro.pr"
 }

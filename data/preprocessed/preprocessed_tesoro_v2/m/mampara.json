@@ -3,9 +3,12 @@
   "term": "mampara",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver medio punto",
+      "consolidated_definition": "Ver medio punto .",
+      "en_consolidated_definition": "See half point.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,9 +28,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Tapadera de fechorías",
+      "consolidated_definition": "Tapadera de fechorías. Fachada.",
+      "en_consolidated_definition": "Front for misdeeds. Facade.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -62,9 +68,12 @@
     }
   },
   "es_definitions": [
-    "Ver medio punto",
-    "Tapadera de fechorías"
+    "Ver medio punto .",
+    "Tapadera de fechorías. Fachada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See half point.",
+    "Front for misdeeds. Facade."
+  ],
   "source": "https://tesoro.pr"
 }

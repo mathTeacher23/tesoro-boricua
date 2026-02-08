@@ -3,9 +3,12 @@
   "term": "prensada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Joven bonita, relacionado con una organización",
+      "consolidated_definition": "Joven bonita. Muchacha que tiene buen cuerpo.",
+      "en_consolidated_definition": "Young woman with a pleasing appearance. Female with an attractive physique.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Joven bonita, relacionado con una organización"
+    "Joven bonita. Muchacha que tiene buen cuerpo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Young woman with a pleasing appearance. Female with an attractive physique."
+  ],
   "source": "https://tesoro.pr"
 }

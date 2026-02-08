@@ -3,15 +3,18 @@
   "term": "guadilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jardín",
+      "consolidated_definition": "\"Jardín\": término que se refiere a un pequeño río según algunas fuentes, y se considera un diminutivo español en otros contextos.",
+      "en_consolidated_definition": "\"Garden\": term referring to a small river according to some sources, and considered a Spanish diminutive in other contexts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.295",
         "semantic_similarity_score": 0.295,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -49,8 +52,10 @@
     }
   },
   "es_definitions": [
-    "Jardín"
+    "\"Jardín\": término que se refiere a un pequeño río según algunas fuentes, y se considera un diminutivo español en otros contextos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "\"Garden\": term referring to a small river according to some sources, and considered a Spanish diminutive in other contexts."
+  ],
   "source": "https://tesoro.pr"
 }

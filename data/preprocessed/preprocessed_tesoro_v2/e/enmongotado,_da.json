@@ -3,9 +3,12 @@
   "term": "enmongotado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un terreno",
+      "consolidated_definition": "Referido a un terreno, cubierto de maleza.",
+      "en_consolidated_definition": "Covered in weeds or brush, particularly referring to a plot of land.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referido a un terreno"
+    "Referido a un terreno, cubierto de maleza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Covered in weeds or brush, particularly referring to a plot of land."
+  ],
   "source": "https://tesoro.pr"
 }

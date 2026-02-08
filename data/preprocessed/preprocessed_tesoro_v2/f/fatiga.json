@@ -3,15 +3,18 @@
   "term": "fatiga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asma",
+      "consolidated_definition": "Asma es un trastorno respiratorio crónico caracterizado por la inflamación y la obstrucción de las vías aéreas, lo que provoca síntomas como dificultad para respirar, tos y falta de aliento.",
+      "en_consolidated_definition": "Chronic respiratory disorder characterized by inflammation and obstruction of the airways, resulting in symptoms such as difficulty breathing, coughing, and shortness of breath.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
         "num_cleaned_definitions": 10,
-        "definition_stability": "Stability: 0.8457",
-        "semantic_similarity_score": 0.8457,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.8194",
+        "semantic_similarity_score": 0.8194,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -81,7 +84,7 @@
         "reference_definitions": [
           "Asma.",
           "Asma.",
-          "Asma.",
+          "(general) Asma.",
           "Asma.",
           "Asma.",
           "Asma.",
@@ -93,14 +96,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "El nombre que se da al uniforme de",
+      "consolidated_definition": "Uniforme militar de camuflaje.",
+      "en_consolidated_definition": "Camouflage military uniform.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4676",
-        "semantic_similarity_score": 0.4676,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -129,16 +135,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El nombre que se da al uniforme de trabajo del soldado, se aplica a un vestido o pantalón viejo que se usa para trabajos fuertes. “Traje de fatiga.”",
           "Uniforme militar de camuflaje."
         ]
       }
     }
   },
   "es_definitions": [
-    "Asma",
-    "El nombre que se da al uniforme de"
+    "Asma es un trastorno respiratorio crónico caracterizado por la inflamación y la obstrucción de las vías aéreas, lo que provoca síntomas como dificultad para respirar, tos y falta de aliento.",
+    "Uniforme militar de camuflaje."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Chronic respiratory disorder characterized by inflammation and obstruction of the airways, resulting in symptoms such as difficulty breathing, coughing, and shortness of breath.",
+    "Camouflage military uniform."
+  ],
   "source": "https://tesoro.pr"
 }

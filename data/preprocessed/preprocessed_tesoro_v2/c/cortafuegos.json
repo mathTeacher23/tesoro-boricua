@@ -3,15 +3,18 @@
   "term": "cortafuegos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Firewall\": sistema o programa de seguridad informática que impide el acceso no autorizado a información privada en redes y sistemas computacionales.",
+      "consolidated_definition": "inform. Programa o equipo de computadora que impide el acceso no autorizado a información privada. Anglicismo de sentido, poco frecuente. Si usted tiene una red en su hogar es probable que su enrutador (router) tenga un cortafuegos (firewall) integrado (El Nuevo Día, 24-10-06)",
+      "en_consolidated_definition": "Program or computer system that prevents unauthorized access to private information. Anglicism of sense, relatively infrequent. If you have a home network, it is likely that your router has an integrated firewall (The New Day, 24-10-06)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "\"Firewall\": sistema o programa de seguridad informática que impide el acceso no autorizado a información privada en redes y sistemas computacionales."
+    "inform. Programa o equipo de computadora que impide el acceso no autorizado a información privada. Anglicismo de sentido, poco frecuente. Si usted tiene una red en su hogar es probable que su enrutador (router) tenga un cortafuegos (firewall) integrado (El Nuevo Día, 24-10-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Program or computer system that prevents unauthorized access to private information. Anglicism of sense, relatively infrequent. If you have a home network, it is likely that your router has an integrated firewall (The New Day, 24-10-06)"
+  ],
   "source": "https://tesoro.pr"
 }

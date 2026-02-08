@@ -3,9 +3,12 @@
   "term": "nacer para medio y no llegar a real",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nacer pobre y quedarse pobre",
+      "consolidated_definition": "Nacer pobre y quedarse pobre.",
+      "en_consolidated_definition": "To be born poor and remain poor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Nacer pobre y quedarse pobre"
+    "Nacer pobre y quedarse pobre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be born poor and remain poor."
+  ],
   "source": "https://tesoro.pr"
 }

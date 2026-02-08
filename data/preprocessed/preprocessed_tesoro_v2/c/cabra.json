@@ -3,15 +3,18 @@
   "term": "cabra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El palo bobo es un arbusto más conocido por este nombre.",
+      "consolidated_definition": "Bobo. Arbusto más conocido por el nombre de palo bobo.",
+      "en_consolidated_definition": "Fool's tree. A shrub more commonly known by the name of palo bobo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Mujer que ejerce la prostitución.",
+      "consolidated_definition": "Mujer prostituta reservada.",
+      "en_consolidated_definition": "Reserved prostitute woman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -75,15 +81,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Pez de mar comestible, también conocido como mora.",
+      "consolidated_definition": "Pez de mar, comestible. También llamado mora.",
+      "en_consolidated_definition": "Sea Bream, a marine fish considered edible. Also known as Mora.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -113,15 +122,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Vaca que produce una cantidad insuficiente de leche.",
+      "consolidated_definition": "Vaca que da poca leche.",
+      "en_consolidated_definition": "Cow that produces little milk.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -150,11 +162,16 @@
     }
   },
   "es_definitions": [
-    "El palo bobo es un arbusto más conocido por este nombre.",
-    "Mujer que ejerce la prostitución.",
-    "Pez de mar comestible, también conocido como mora.",
-    "Vaca que produce una cantidad insuficiente de leche."
+    "Bobo. Arbusto más conocido por el nombre de palo bobo.",
+    "Mujer prostituta reservada.",
+    "Pez de mar, comestible. También llamado mora.",
+    "Vaca que da poca leche."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fool's tree. A shrub more commonly known by the name of palo bobo.",
+    "Reserved prostitute woman.",
+    "Sea Bream, a marine fish considered edible. Also known as Mora.",
+    "Cow that produces little milk."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "pasar por debajo de la mesa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Realizar un hecho ilícito",
+      "consolidated_definition": "Realizar un hecho ilícito, contrario a la reglamentación.",
+      "en_consolidated_definition": "Commit a prohibited act, contrary to regulation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Realizar un hecho ilícito"
+    "Realizar un hecho ilícito, contrario a la reglamentación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Commit a prohibited act, contrary to regulation."
+  ],
   "source": "https://tesoro.pr"
 }

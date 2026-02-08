@@ -3,14 +3,17 @@
   "term": "desempatar",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Desamarrar.",
+      "consolidated_definition": "Separar dos objetos que se encuentran unidos entre sí.",
+      "en_consolidated_definition": "Separate two objects that are joined together.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.406",
-        "semantic_similarity_score": 0.406,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -47,18 +50,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Desamarrar.",
-          "Soltar amarras.",
-          "Separar dos objetos que se encuentran unidos entre sí.",
-          "Desamarrar, desatar alguien a un animal.",
-          "Soltar amarras una embarcación."
+          "Separar dos objetos que se encuentran unidos entre sí."
         ]
       }
     }
   },
   "es_definitions": [
-    ". Desamarrar."
+    "Separar dos objetos que se encuentran unidos entre sí."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Separate two objects that are joined together."
+  ],
   "source": "https://tesoro.pr"
 }

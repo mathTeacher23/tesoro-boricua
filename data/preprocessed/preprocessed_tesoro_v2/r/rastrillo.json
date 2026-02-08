@@ -3,15 +3,18 @@
   "term": "rastrillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tenedor de labranza",
+      "consolidated_definition": "Tenedor de labranza. Implemento de labor utilizado en la labranza del suelo, compuesto generalmente de pernos de hierro y madera, y tirado tradicionalmente por bueyes o modernamente por tractores para desbaratar los terrones y emparejar el terreno. También conocido como rasqueta.",
+      "en_consolidated_definition": "Plowshare. Agricultural implement used in soil tillage, typically composed of iron rods and wood, traditionally pulled by oxen or modernly by tractors to break up clods and level the terrain. Also known as a raspadora.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.443",
-        "semantic_similarity_score": 0.443,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4676",
+        "semantic_similarity_score": 0.4676,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -54,15 +57,18 @@
         "reference_definitions": [
           "Tenedor de labranza.",
           "Instrumento de labranza.",
-          "Implemento .",
+          "Implemento de labor.",
           "Artefacto de madera con pernos de hierro, el cual, tirado por bueyes o más modernamente, por el tractor, sirve para desbaratar los terrones y emparejar el terreno. También rasqueta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el baile de sonduro o matatoros",
+      "consolidated_definition": "En el baile de sonduro o matatoros, según Alonso, zapateado que sólo lo realizaba el varón, con un paso de mudanza particular que llamaban el rastrillo.",
+      "en_consolidated_definition": "In the sonduro or matatoros dance, according to Alonso, a type of footwork performed by males only, characterized by a distinctive step called the rastrillo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -91,15 +97,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En el baile de sonduro o matatoros, según Alonso, zapateado sólo lo realizaba el varón, con un paso de mudanza particular que llamaban el rastrillo."
+          "En el baile de sonduro o matatoros, según Alonso, zapateado que sólo lo realizaba el varón, con un paso de mudanza particular que llamaban el rastrillo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tenedor de labranza",
-    "En el baile de sonduro o matatoros"
+    "Tenedor de labranza. Implemento de labor utilizado en la labranza del suelo, compuesto generalmente de pernos de hierro y madera, y tirado tradicionalmente por bueyes o modernamente por tractores para desbaratar los terrones y emparejar el terreno. También conocido como rasqueta.",
+    "En el baile de sonduro o matatoros, según Alonso, zapateado que sólo lo realizaba el varón, con un paso de mudanza particular que llamaban el rastrillo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Plowshare. Agricultural implement used in soil tillage, typically composed of iron rods and wood, traditionally pulled by oxen or modernly by tractors to break up clods and level the terrain. Also known as a raspadora.",
+    "In the sonduro or matatoros dance, according to Alonso, a type of footwork performed by males only, characterized by a distinctive step called the rastrillo."
+  ],
   "source": "https://tesoro.pr"
 }

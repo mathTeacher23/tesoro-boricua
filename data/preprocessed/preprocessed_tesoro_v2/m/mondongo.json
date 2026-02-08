@@ -3,14 +3,17 @@
   "term": "mondongo",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Potaje de caldo cuyo principal alimento es el mondongo. Ac.",
+      "consolidated_definition": "Pedazos de estómago de cerdo, vacuno u ovino destinados al consumo humano.",
+      "en_consolidated_definition": "Pieces of pork, beef or lamb stomach intended for human consumption.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "num_cleaned_definitions": 10,
-        "definition_stability": "Stability: 0.4504",
-        "semantic_similarity_score": 0.4504,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -67,29 +70,23 @@
           "mondonguero, ra 1"
         ],
         "reference_definitions": [
-          ". Potaje de caldo cuyo principal alimento es el mondongo. Ac.",
-          "Fuerza.",
-          "Plato hecho con las patas de res y cerdo.",
-          "Plato hecho con la panza y la pata de la res, cocidas con viandas y ciertos condimentos, en forma caldosa.",
-          "Asaduras .",
-          "Cierto potaje. También fuerza.",
-          "Pedazos de estómago de cerdo, vacuno u ovino destinados al consumo humano.",
-          "Plato que se prepara con pedazos de estómago de cerdo, vacuno u ovino.",
-          "Plato hecho con patas de res y cerdo, a veces cocidas con viandas y ciertos condimentos.",
-          "Guiso sustancioso que se prepara con patas de vacuno y cerdo cocinadas en una base refrita de manteca de color, cebolla blanca, ajo y especias, aderezado con maíz desgranado y cocido, maní tostado y molido; opcionalmente, se le añade leche."
+          "Pedazos de estómago de cerdo, vacuno u ovino destinados al consumo humano."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ". Adefesio, traje o adorno ridículo. Ac.",
+      "consolidated_definition": "Adefesio: Sustantivo que designa disfraz o adorno excesivamente ridículo o extravagante.",
+      "en_consolidated_definition": "Adefesio: Noun designating a disguise or adornment that is excessively ridiculous or extravagant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.35",
         "semantic_similarity_score": 0.35,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -128,9 +125,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Alguien flojo",
+      "consolidated_definition": "Alguien flojo.",
+      "en_consolidated_definition": "Someone lacking in diligence or effort.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que la definición es general y común en español. Sin embargo, si fuera necesario, podría incluirse una nota o aclaración para proporcionar contexto adicional.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -164,10 +164,14 @@
     }
   },
   "es_definitions": [
-    ". Potaje de caldo cuyo principal alimento es el mondongo. Ac.",
-    ". Adefesio, traje o adorno ridículo. Ac.",
-    "Alguien flojo"
+    "Pedazos de estómago de cerdo, vacuno u ovino destinados al consumo humano.",
+    "Adefesio: Sustantivo que designa disfraz o adorno excesivamente ridículo o extravagante.",
+    "Alguien flojo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pieces of pork, beef or lamb stomach intended for human consumption.",
+    "Adefesio: Noun designating a disguise or adornment that is excessively ridiculous or extravagant.",
+    "Someone lacking in diligence or effort.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que la definición es general y común en español. Sin embargo, si fuera necesario, podría incluirse una nota o aclaración para proporcionar contexto adicional."
+  ],
   "source": "https://tesoro.pr"
 }

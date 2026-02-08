@@ -3,9 +3,12 @@
   "term": "ser más vago que la quijada de arriba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vago en el grado máximo",
+      "consolidated_definition": "Vago en el grado máximo.",
+      "en_consolidated_definition": "Utópico en el grado máximo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Vago en el grado máximo"
+    "Vago en el grado máximo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Utópico en el grado máximo."
+  ],
   "source": "https://tesoro.pr"
 }

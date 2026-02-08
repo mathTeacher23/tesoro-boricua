@@ -3,9 +3,12 @@
   "term": "master bedroom",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dormitorio principal de una casa",
+      "consolidated_definition": "Dormitorio principal de una casa.",
+      "en_consolidated_definition": "Principal bedroom of a house.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Dormitorio principal de una casa"
+    "Dormitorio principal de una casa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Principal bedroom of a house."
+  ],
   "source": "https://tesoro.pr"
 }

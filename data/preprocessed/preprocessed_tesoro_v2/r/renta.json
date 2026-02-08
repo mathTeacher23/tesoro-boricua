@@ -3,9 +3,12 @@
   "term": "renta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alquiler",
+      "consolidated_definition": "Alquiler. Pago recurrente que se hace al dueño de una propiedad que se tiene alquilada. Desvío semántico, usual. DRAE 2001: utilidad o beneficio. Clasificados de apartamentos para la renta en Puerto Rico. Vea apartamentos con múltiples fotos. Avisos gratis para administradores de propiedades y agentes (Univisión. com, consultado 15-10-08)",
+      "en_consolidated_definition": "Rent payment. Recurring payment made to the owner of a rented property. Semantic shift, common usage. DRAE 2001: utility or benefit. Classified apartments for rent in Puerto Rico. See apartments with multiple photos. Free ads for property managers and agents (Univisión.com, consulted October 15, 2008)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
           "rentar"
         ],
         "reference_definitions": [
-          "Alquiler. Pago recurrente que se hace al dueño de una propiedad que se tiene alquilada. Desvío semántico, usual. DRAE 2001: utilidad o beneficio. Clasificados de apartamentos para la renta en Puerto Rico. Vea apartamentos con múltiples fotos. Avisos gratis para administradores de propiedades y agentes"
+          "Alquiler. Pago recurrente que se hace al dueño de una propiedad que se tiene alquilada. Desvío semántico, usual. DRAE 2001: utilidad o beneficio. Clasificados de apartamentos para la renta en Puerto Rico. Vea apartamentos con múltiples fotos. Avisos gratis para administradores de propiedades y agentes (Univisión. com, consultado 15-10-08)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Alquiler"
+    "Alquiler. Pago recurrente que se hace al dueño de una propiedad que se tiene alquilada. Desvío semántico, usual. DRAE 2001: utilidad o beneficio. Clasificados de apartamentos para la renta en Puerto Rico. Vea apartamentos con múltiples fotos. Avisos gratis para administradores de propiedades y agentes (Univisión. com, consultado 15-10-08)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rent payment. Recurring payment made to the owner of a rented property. Semantic shift, common usage. DRAE 2001: utility or benefit. Classified apartments for rent in Puerto Rico. See apartments with multiple photos. Free ads for property managers and agents (Univisión.com, consulted October 15, 2008)"
+  ],
   "source": "https://tesoro.pr"
 }

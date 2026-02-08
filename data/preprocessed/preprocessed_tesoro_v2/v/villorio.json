@@ -3,9 +3,12 @@
   "term": "villorio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aldea de pescadores",
+      "consolidated_definition": "Aldea de pescadores.",
+      "en_consolidated_definition": "Fishing village",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Aldea de pescadores"
+    "Aldea de pescadores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fishing village"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "rufo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Techo",
+      "consolidated_definition": "Techo.",
+      "en_consolidated_definition": "Roof or ceiling, particularly in the context of a traditional Puerto Rican casa or dwelling where the techo is often a raised platform or loft.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Techo"
+    "Techo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Roof or ceiling, particularly in the context of a traditional Puerto Rican casa or dwelling where the techo is often a raised platform or loft."
+  ],
   "source": "https://tesoro.pr"
 }

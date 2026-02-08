@@ -3,9 +3,12 @@
   "term": "jugo de pollo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El campesino llama jugo de pollo al caldo",
+      "consolidated_definition": "El campesino llama jugo de pollo al caldo o extracto de éste al hervirse con sus condimentos.",
+      "en_consolidated_definition": "The peasant refers to the broth or extract of chicken as \"jugo de pollo\" when it is cooked with its seasonings.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El campesino llama jugo de pollo al caldo"
+    "El campesino llama jugo de pollo al caldo o extracto de éste al hervirse con sus condimentos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The peasant refers to the broth or extract of chicken as \"jugo de pollo\" when it is cooked with its seasonings."
+  ],
   "source": "https://tesoro.pr"
 }

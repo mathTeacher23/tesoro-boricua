@@ -3,9 +3,12 @@
   "term": "tiquismiquis",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Remilgos",
+      "consolidated_definition": "Remilgos.",
+      "en_consolidated_definition": "Fastidiousness.\n\nNota: La palabra \"remilgos\" se refiere a una actitud o comportamiento excesivamente cuidadoso y escrupuloso en relación con las normas sociales o la apariencia. En el contexto puertorriqueño, puede estar relacionado con la idea de ser \"puntual\" o \"preciso\", pero sin perder la esencia del término original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona muy delicada",
+      "consolidated_definition": "Persona que requiere cuidado y atención especial debido a su naturaleza frágil o sensible.",
+      "en_consolidated_definition": "Persona que requiere cuidado y atención especial debido a su naturaleza frágil o sensible.\n\nPersona que necesita cuidados y atención especiales debido a su fragilidad o sensibilidad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5324",
         "semantic_similarity_score": 0.5324,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "adjetivo"
         ],
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Remilgos",
-    "Persona muy delicada"
+    "Remilgos.",
+    "Persona que requiere cuidado y atención especial debido a su naturaleza frágil o sensible."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fastidiousness.\n\nNota: La palabra \"remilgos\" se refiere a una actitud o comportamiento excesivamente cuidadoso y escrupuloso en relación con las normas sociales o la apariencia. En el contexto puertorriqueño, puede estar relacionado con la idea de ser \"puntual\" o \"preciso\", pero sin perder la esencia del término original.",
+    "Persona que requiere cuidado y atención especial debido a su naturaleza frágil o sensible.\n\nPersona que necesita cuidados y atención especiales debido a su fragilidad o sensibilidad."
+  ],
   "source": "https://tesoro.pr"
 }

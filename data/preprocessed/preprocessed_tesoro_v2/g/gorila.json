@@ -3,15 +3,18 @@
   "term": "gorila",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Policía troglodita que valiéndose de su posición abusa",
+      "consolidated_definition": "Funcionario policial que abusa de su autoridad para maltratar a los detenidos.",
+      "en_consolidated_definition": "Police officer who abuses their authority to mistreat detainees.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5325",
         "semantic_similarity_score": 0.5325,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,9 +45,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Muchacho que rapea mucho",
+      "consolidated_definition": "Muchacho que rapea mucho.",
+      "en_consolidated_definition": "Young man who raps extensively.\n\nNota: En este caso, \"rapea\" se refiere a la acción de rapar o hacer rap, y no tiene relación con el término \"rapear\" que se utiliza en otros contextos. El término \"muchacho\" es utilizado para describir a un joven varón.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -79,9 +85,12 @@
     }
   },
   "es_definitions": [
-    "Policía troglodita que valiéndose de su posición abusa",
-    "Muchacho que rapea mucho"
+    "Funcionario policial que abusa de su autoridad para maltratar a los detenidos.",
+    "Muchacho que rapea mucho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Police officer who abuses their authority to mistreat detainees.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "Young man who raps extensively.\n\nNota: En este caso, \"rapea\" se refiere a la acción de rapar o hacer rap, y no tiene relación con el término \"rapear\" que se utiliza en otros contextos. El término \"muchacho\" es utilizado para describir a un joven varón."
+  ],
   "source": "https://tesoro.pr"
 }

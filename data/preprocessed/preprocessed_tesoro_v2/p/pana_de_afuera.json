@@ -3,9 +3,12 @@
   "term": "pana de afuera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fruto parecido a la pana",
+      "consolidated_definition": "Fruto parecido a la pana.",
+      "en_consolidated_definition": "Fruit resembling a panapén (a type of fruit native to Puerto Rico).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Fruto parecido a la pana"
+    "Fruto parecido a la pana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fruit resembling a panapén (a type of fruit native to Puerto Rico)."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "sintonizar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablar lo mismo que ha dicho otra persona",
+      "consolidated_definition": "Hablar lo mismo que ha dicho otra persona.",
+      "en_consolidated_definition": "To speak the same words that another person has said.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Hablar lo mismo que ha dicho otra persona"
+    "Hablar lo mismo que ha dicho otra persona."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To speak the same words that another person has said."
+  ],
   "source": "https://tesoro.pr"
 }

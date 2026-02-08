@@ -3,9 +3,12 @@
   "term": "rata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hembra del ratón",
+      "consolidated_definition": "Hembra del ratón.",
+      "en_consolidated_definition": "Female mouse.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Entre la gente joven en el sentido de",
+      "consolidated_definition": "Persona que actúa con falta de respeto y moralidad, considerada como alguien deshonesto o poco confiable.",
+      "en_consolidated_definition": "Persona que actúa con falta de respeto y moralidad, considerada como alguien deshonesto o poco confiable.\n\nTraducción:\n\nIndividual who acts with a lack of respect and morality, considered to be someone dishonest or untrustworthy.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.3843",
-        "semantic_similarity_score": 0.3843,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.3812",
+        "semantic_similarity_score": 0.3812,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -93,7 +99,7 @@
           "ratero"
         ],
         "reference_definitions": [
-          "Entre la gente joven en el sentido de canalla, sinvergüenza.",
+          "Entre la gente joven … en el sentido de canalla, sinvergüenza.",
           "Persona que delata a los adictos.",
           "Persona ruin, vil.",
           "Chismoso. Chota. Confidente. Hablador. Mal amigo. Persona que lo dice todo. Soplón."
@@ -102,9 +108,12 @@
     }
   },
   "es_definitions": [
-    "Hembra del ratón",
-    "Entre la gente joven en el sentido de"
+    "Hembra del ratón.",
+    "Persona que actúa con falta de respeto y moralidad, considerada como alguien deshonesto o poco confiable."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Female mouse.",
+    "Persona que actúa con falta de respeto y moralidad, considerada como alguien deshonesto o poco confiable.\n\nTraducción:\n\nIndividual who acts with a lack of respect and morality, considered to be someone dishonest or untrustworthy."
+  ],
   "source": "https://tesoro.pr"
 }

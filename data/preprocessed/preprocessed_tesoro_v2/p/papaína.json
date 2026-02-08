@@ -3,9 +3,12 @@
   "term": "papaína",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Producto medicinal extraído de la papaya",
+      "consolidated_definition": "Producto medicinal extraído de la papaya.",
+      "en_consolidated_definition": "Papain, a medicinal product extracted from the papaya.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Producto medicinal extraído de la papaya"
+    "Producto medicinal extraído de la papaya."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Papain, a medicinal product extracted from the papaya."
+  ],
   "source": "https://tesoro.pr"
 }

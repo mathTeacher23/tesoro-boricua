@@ -3,9 +3,12 @@
   "term": "sambulla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bulla de muchachos en la que se amontonan",
+      "consolidated_definition": "Bulla de muchachos en la que se amontonan unos sobre otros.",
+      "en_consolidated_definition": "Rough-and-tumble crowd of boys in which they pile on top of each other.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bulla de muchachos en la que se amontonan"
+    "Bulla de muchachos en la que se amontonan unos sobre otros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rough-and-tumble crowd of boys in which they pile on top of each other."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tener la cárcel de garage",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Frase que se le dice al reincidente",
+      "consolidated_definition": "Frase que se le dice al reincidente.",
+      "en_consolidated_definition": "Repetido verbal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Frase que se le dice al reincidente"
+    "Frase que se le dice al reincidente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Repetido verbal."
+  ],
   "source": "https://tesoro.pr"
 }

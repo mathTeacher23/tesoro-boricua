@@ -3,9 +3,12 @@
   "term": "popular",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Amigo",
+      "consolidated_definition": "Amigo, compañero.",
+      "en_consolidated_definition": "Friend, companion",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,9 +43,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Dicho de una persona",
+      "consolidated_definition": "Dicho de una persona, que milita en el Partido Popular Democrático o simpatiza con su ideología. Aunque la Comisión Estatal de Elecciones no lo ha certificado oficialmente, el candidato popular a la alcaldía de Guánica aseguró hoy que se alzó con la victoria en el recuento finalizado anoche. (Primera Hora, 17-12-20)",
+      "en_consolidated_definition": "Of a person who is affiliated with the Popular Democratic Party or sympathizes with its ideology.\n\nNote: The term \"Partido Popular Democrático\" refers to the Popular Democratic Party of Puerto Rico, a major political party in the island. \n\nAlso, \"Comisión Estatal de Elecciones\" translates to State Elections Commission and \"alcaldía\" is translated as mayorship or municipality.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -72,15 +78,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dicho de una persona, que milita en el Partido Popular Democrático o simpatiza con su ideología. Aunque la Comisión Estatal de Elecciones no lo ha certificado oficialmente, el candidato popular a la alcaldía de Guánica aseguró hoy que se alzó con la victoria en el recuento finalizado anoche."
+          "Dicho de una persona, que milita en el Partido Popular Democrático o simpatiza con su ideología. Aunque la Comisión Estatal de Elecciones no lo ha certificado oficialmente, el candidato popular a la alcaldía de Guánica aseguró hoy que se alzó con la victoria en el recuento finalizado anoche. (Primera Hora, 17-12-20)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Amigo",
-    "Dicho de una persona"
+    "Amigo, compañero.",
+    "Dicho de una persona, que milita en el Partido Popular Democrático o simpatiza con su ideología. Aunque la Comisión Estatal de Elecciones no lo ha certificado oficialmente, el candidato popular a la alcaldía de Guánica aseguró hoy que se alzó con la victoria en el recuento finalizado anoche. (Primera Hora, 17-12-20)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Friend, companion",
+    "Of a person who is affiliated with the Popular Democratic Party or sympathizes with its ideology.\n\nNote: The term \"Partido Popular Democrático\" refers to the Popular Democratic Party of Puerto Rico, a major political party in the island. \n\nAlso, \"Comisión Estatal de Elecciones\" translates to State Elections Commission and \"alcaldía\" is translated as mayorship or municipality."
+  ],
   "source": "https://tesoro.pr"
 }

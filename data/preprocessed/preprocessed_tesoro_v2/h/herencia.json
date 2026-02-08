@@ -3,9 +3,12 @@
   "term": "herencia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El vestido usado que nos regalan",
+      "consolidated_definition": "El vestido usado que nos regalan.",
+      "en_consolidated_definition": "The used clothing that is given as a gift.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El vestido usado que nos regalan"
+    "El vestido usado que nos regalan."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The used clothing that is given as a gift."
+  ],
   "source": "https://tesoro.pr"
 }

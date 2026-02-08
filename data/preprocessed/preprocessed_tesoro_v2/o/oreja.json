@@ -3,9 +3,12 @@
   "term": "oreja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto perenne",
+      "consolidated_definition": "Arbusto perenne, con hojas opuestas, inflorescencia axilar, flores blanquecinas y fruto en forma de baya. Myrtaceae Eugenia borinquensis.",
+      "en_consolidated_definition": "Perennial shrub with opposite leaves, axillary inflorescence, pale white flowers, and berry-like fruit. Family Myrtaceae Eugenia borinquensis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "fig",
+      "consolidated_definition": "\"Oreja\": Sustantivo que designa información o noticia secreta compartida en confianza.",
+      "en_consolidated_definition": "Earshot: Noun that refers to confidentially shared secret information or news.\n\nNota: En este contexto, \"earshot\" se utiliza en un sentido coloquial para referirse a información confidencial o secreta que se comparte entre personas de confianza.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4664",
-        "semantic_similarity_score": 0.4664,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4311",
+        "semantic_similarity_score": 0.4311,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -83,7 +89,7 @@
           "orejero, ra"
         ],
         "reference_definitions": [
-          "fig. Noticia interesante que se da en secreto. “Y que en sus consejos —Nos brinda una oreja.” Pedro R. de Diego, , p. 59. .",
+          "fig. Noticia interesante que se da en secreto. “Y que en sus consejos —Nos brinda una oreja.” Pedro R. de Diego, , p. 59. (Nota: En El sueño de las calaveras dice Quevedo: “Uno azuzaba testigos y repartía orejas de lo que no se había dicho, y ojos de lo que había sucedido.” Espinel, en Vida de Marcos de Obregón, 2, Descanso 5, escribe: “que no tenía más de una oreja”, es decir, que se valía de una sola persona para informarse. Samuel Gili Gaya: Nota Ed. de La lectura).",
           "Pista, información secreta.",
           "Secreto, anticipo."
         ]
@@ -91,9 +97,12 @@
     }
   },
   "es_definitions": [
-    "Arbusto perenne",
-    "fig"
+    "Arbusto perenne, con hojas opuestas, inflorescencia axilar, flores blanquecinas y fruto en forma de baya. Myrtaceae Eugenia borinquensis.",
+    "\"Oreja\": Sustantivo que designa información o noticia secreta compartida en confianza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Perennial shrub with opposite leaves, axillary inflorescence, pale white flowers, and berry-like fruit. Family Myrtaceae Eugenia borinquensis.",
+    "Earshot: Noun that refers to confidentially shared secret information or news.\n\nNota: En este contexto, \"earshot\" se utiliza en un sentido coloquial para referirse a información confidencial o secreta que se comparte entre personas de confianza."
+  ],
   "source": "https://tesoro.pr"
 }

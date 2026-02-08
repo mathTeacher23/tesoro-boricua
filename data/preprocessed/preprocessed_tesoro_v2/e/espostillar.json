@@ -3,9 +3,12 @@
   "term": "espostillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Quitar la capa dura de una herida",
+      "consolidated_definition": "Quitar la capa dura de una herida.",
+      "en_consolidated_definition": "Remove the scab from a wound.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Quitar la capa dura de una herida"
+    "Quitar la capa dura de una herida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Remove the scab from a wound."
+  ],
   "source": "https://tesoro.pr"
 }

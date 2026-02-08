@@ -3,9 +3,12 @@
   "term": "rascabuche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta rastrera que causa convulsiones al animal que",
+      "consolidated_definition": "Planta rastrera que causa convulsiones al animal que la come.",
+      "en_consolidated_definition": "Rastrerous plant that causes convulsions in the animal that consumes it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Planta rastrera que causa convulsiones al animal que"
+    "Planta rastrera que causa convulsiones al animal que la come."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rastrerous plant that causes convulsions in the animal that consumes it."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "jalope",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Purgante que se da a las reses",
+      "consolidated_definition": "Purgante que se da a las reses.",
+      "en_consolidated_definition": "Cathartic given to cattle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Purgante que se da a las reses"
+    "Purgante que se da a las reses."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cathartic given to cattle."
+  ],
   "source": "https://tesoro.pr"
 }

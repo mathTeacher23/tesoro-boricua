@@ -3,15 +3,18 @@
   "term": "vejiga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ampolla",
+      "consolidated_definition": "\"Ampolla\": objeto cilíndrico con cuello estrecho, generalmente de vidrio o plástico, utilizado para contener líquidos o gases.",
+      "en_consolidated_definition": "Bottle: cylindrical object with a narrow neck, typically made of glass or plastic, used to contain liquids or gases.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.0792",
         "semantic_similarity_score": 0.0792,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Ampolla"
+    "\"Ampolla\": objeto cilíndrico con cuello estrecho, generalmente de vidrio o plástico, utilizado para contener líquidos o gases."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bottle: cylindrical object with a narrow neck, typically made of glass or plastic, used to contain liquids or gases."
+  ],
   "source": "https://tesoro.pr"
 }

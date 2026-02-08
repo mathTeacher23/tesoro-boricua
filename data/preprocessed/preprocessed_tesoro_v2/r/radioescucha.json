@@ -3,9 +3,12 @@
   "term": "radioescucha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La persona que escucha la radio",
+      "consolidated_definition": "La persona que escucha la radio. También radioyente.",
+      "en_consolidated_definition": "Radio listener \n\nAlso radioyente (radio listener)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La persona que escucha la radio"
+    "La persona que escucha la radio. También radioyente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Radio listener \n\nAlso radioyente (radio listener)"
+  ],
   "source": "https://tesoro.pr"
 }

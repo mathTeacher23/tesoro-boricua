@@ -3,14 +3,17 @@
   "term": "supplies",
   "superscripts": {
     "1": {
-      "consolidated_definition": "comer",
+      "consolidated_definition": "Mercancías, surtido, existencias.",
+      "en_consolidated_definition": "Merchandise, stock, inventory.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5002",
-        "semantic_similarity_score": 0.5002,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -42,16 +45,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "comer. Mercancías. Productos almacenados para distribuir. Anglicismo crudo, poco frecuente. Compuestos: school supply, office supply. Su nombre es Oscar. Era el clerk que repartía el correo, los supplies y los materiales para nuestros trabajos de campo",
-          "Mercancías, surtido, existencias.",
-          "Material de oficina y de escuela."
+          "Mercancías, surtido, existencias."
         ]
       }
     }
   },
   "es_definitions": [
-    "comer"
+    "Mercancías, surtido, existencias."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Merchandise, stock, inventory."
+  ],
   "source": "https://tesoro.pr"
 }

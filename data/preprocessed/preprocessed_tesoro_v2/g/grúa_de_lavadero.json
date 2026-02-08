@@ -3,9 +3,12 @@
   "term": "grúa de lavadero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Instrumento que sirve para colocar la caña en",
+      "consolidated_definition": "Instrumento que sirve para colocar la caña en la planta de lavado antes de empezar la molienda.",
+      "en_consolidated_definition": "Device used to place the cane in the washing plant before commencing grinding.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Instrumento que sirve para colocar la caña en"
+    "Instrumento que sirve para colocar la caña en la planta de lavado antes de empezar la molienda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Device used to place the cane in the washing plant before commencing grinding."
+  ],
   "source": "https://tesoro.pr"
 }

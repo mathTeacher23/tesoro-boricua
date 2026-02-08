@@ -3,9 +3,12 @@
   "term": "no saber de letras",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión que indica ignorancia o analfabetismo",
+      "consolidated_definition": "Expresión que indica ignorancia o analfabetismo.",
+      "en_consolidated_definition": "Expression indicating ignorance or illiteracy.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Expresión que indica ignorancia o analfabetismo"
+    "Expresión que indica ignorancia o analfabetismo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Expression indicating ignorance or illiteracy."
+  ],
   "source": "https://tesoro.pr"
 }

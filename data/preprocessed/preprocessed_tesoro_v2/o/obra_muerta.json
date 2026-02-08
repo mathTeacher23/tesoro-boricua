@@ -3,9 +3,12 @@
   "term": "obra muerta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte del casco de una embarcación que está",
+      "consolidated_definition": "Parte del casco de una embarcación que está por encima de la línea de flotación.",
+      "en_consolidated_definition": "Part of a vessel's hull that is above the waterline.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Parte del casco de una embarcación que está"
+    "Parte del casco de una embarcación que está por encima de la línea de flotación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Part of a vessel's hull that is above the waterline."
+  ],
   "source": "https://tesoro.pr"
 }

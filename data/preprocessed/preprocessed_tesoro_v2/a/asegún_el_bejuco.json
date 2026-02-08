@@ -3,15 +3,18 @@
   "term": "asegún el bejuco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que un concepto se puede deducir a partir de sus componentes o análisis.",
+      "consolidated_definition": "Indica que puede deducirse algo a partir de sus componentes.",
+      "en_consolidated_definition": "Indicates that something can be inferred from its components.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Indica que un concepto se puede deducir a partir de sus componentes o análisis."
+    "Indica que puede deducirse algo a partir de sus componentes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Indicates that something can be inferred from its components.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

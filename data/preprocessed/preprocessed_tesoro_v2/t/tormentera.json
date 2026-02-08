@@ -3,15 +3,18 @@
   "term": "tormentera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aposento resguardado",
+      "consolidated_definition": "Tormentera: habitáculo o refugio construido para protegerse de las tormentas y ciclones.",
+      "en_consolidated_definition": "Storm Shelter: a habitable structure or refuge built to protect against storms and hurricanes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
         "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.4883",
-        "semantic_similarity_score": 0.4883,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.489",
+        "semantic_similarity_score": 0.489,
+        "cluster_count": 7,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -70,7 +73,7 @@
         "reference_definitions": [
           "Aposento resguardado, o local hecho expresamente como para guarecerse de una tormenta. “La víctima escogió una tormentera para privarse de la existencia.” El Mundo, junio 8, 1934.",
           "La cueva de refugio contra los ciclones, preparada a pocos pasos, es denominada tormentera.",
-          "Casita muy pequeña y fuerte, casi a ras de tierra, que se usa para refugiarse durante un temporal.",
+          "(jíbaro) Casita muy pequeña y fuerte, casi a ras de tierra, que se usa para refugiarse durante un temporal.",
           "Barraca. Caseta tosca en forma triagular, por lo regular techada de zinc, donde se guarecen los campesinos durante los ciclones.",
           "Casucha de dos aguas con el techo clavado en tierra. Se usa para guarecerse de los ciclones.",
           "Casa de dos aguas, fuerte y a ras de tierra para refugio durante temporales y ciclones.",
@@ -79,9 +82,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Plancha",
+      "consolidated_definition": "Plancha, generalmente de metal, que hoy protege puertas y ventanas de los vientos huracanados.",
+      "en_consolidated_definition": "Metallic shutter, typically used to protect doors and windows from hurricane-force winds.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -114,9 +120,12 @@
     }
   },
   "es_definitions": [
-    "Aposento resguardado",
-    "Plancha"
+    "Tormentera: habitáculo o refugio construido para protegerse de las tormentas y ciclones.",
+    "Plancha, generalmente de metal, que hoy protege puertas y ventanas de los vientos huracanados."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Storm Shelter: a habitable structure or refuge built to protect against storms and hurricanes.",
+    "Metallic shutter, typically used to protect doors and windows from hurricane-force winds."
+  ],
   "source": "https://tesoro.pr"
 }

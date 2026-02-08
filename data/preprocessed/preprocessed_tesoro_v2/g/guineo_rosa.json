@@ -3,9 +3,12 @@
   "term": "guineo rosa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guineo niño",
+      "consolidated_definition": "Guineo niño.",
+      "en_consolidated_definition": "Green banana",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Guineo niño"
+    "Guineo niño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Green banana"
+  ],
   "source": "https://tesoro.pr"
 }

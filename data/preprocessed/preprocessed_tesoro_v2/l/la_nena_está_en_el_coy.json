@@ -3,9 +3,12 @@
   "term": "la nena está en el coy",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer en menstruación",
+      "consolidated_definition": "Mujer en menstruación.",
+      "en_consolidated_definition": "Woman in menstruation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Mujer en menstruación"
+    "Mujer en menstruación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Woman in menstruation."
+  ],
   "source": "https://tesoro.pr"
 }

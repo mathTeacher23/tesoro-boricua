@@ -3,15 +3,18 @@
   "term": "carril",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Tren\": vía férrea con carriles para el transporte de personas o mercancías, perteneciente al tipo de vehículo móvil impulsado por locomotoras.",
+      "consolidated_definition": "Tren, ferrocarril. “Tendréis escuelas, tranvías, —Y dóciles al empuje —De la motora que ruje, —Carriles y factorías.” José G. Padilla, Juicio del año 1878.",
+      "en_consolidated_definition": "Train, railroad. \"You will have schools, streetcars, —And docile to the push —Of the locomotive that roars, —Tracks and factories.\" José G. Padilla, Judgment of 1878.\n\nNota: He mantenido el término \"tranvías\" para reflejar la referencia específica a un medio de transporte público común en Puerto Rico durante el siglo XIX.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Tramo: Sección de una vía pública, como una avenida o carretera, destinada al tránsito de vehículos.",
+      "consolidated_definition": "Cada sección de las avenidas o carreteras por la que discurren los carros.",
+      "en_consolidated_definition": "Each section of the avenues or highways along which cars travel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,15 +81,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "En atletismo y natación, se denomina \"pista\" al espacio delimitado que corresponde a cada competidor en ciertas pruebas.",
+      "consolidated_definition": "En ciertas pruebas de atletismo o de natación, espacio delimitado que corresponde a cada competidor.",
+      "en_consolidated_definition": "Lane or designated area allocated to each competitor in certain track and field or swimming events.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -112,10 +121,14 @@
     }
   },
   "es_definitions": [
-    "\"Tren\": vía férrea con carriles para el transporte de personas o mercancías, perteneciente al tipo de vehículo móvil impulsado por locomotoras.",
-    "Tramo: Sección de una vía pública, como una avenida o carretera, destinada al tránsito de vehículos.",
-    "En atletismo y natación, se denomina \"pista\" al espacio delimitado que corresponde a cada competidor en ciertas pruebas."
+    "Tren, ferrocarril. “Tendréis escuelas, tranvías, —Y dóciles al empuje —De la motora que ruje, —Carriles y factorías.” José G. Padilla, Juicio del año 1878.",
+    "Cada sección de las avenidas o carreteras por la que discurren los carros.",
+    "En ciertas pruebas de atletismo o de natación, espacio delimitado que corresponde a cada competidor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Train, railroad. \"You will have schools, streetcars, —And docile to the push —Of the locomotive that roars, —Tracks and factories.\" José G. Padilla, Judgment of 1878.\n\nNota: He mantenido el término \"tranvías\" para reflejar la referencia específica a un medio de transporte público común en Puerto Rico durante el siglo XIX.",
+    "Each section of the avenues or highways along which cars travel.",
+    "Lane or designated area allocated to each competitor in certain track and field or swimming events."
+  ],
   "source": "https://tesoro.pr"
 }

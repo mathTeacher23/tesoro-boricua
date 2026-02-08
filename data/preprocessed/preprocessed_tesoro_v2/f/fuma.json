@@ -3,15 +3,18 @@
   "term": "fuma",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Cigarro que se acostumbra regalar diariamente en ciertas fábricas de tabaco a los cigarreros.",
+      "consolidated_definition": "Un cigarro de cortesía es un tipo de cigarro que se regala habitualmente a los trabajadores de las fábricas de tabaco como gesto de aprecio o gratitud.",
+      "en_consolidated_definition": "A courtesy cigar is a type of cigar that is typically given to tobacco factory workers as an expression of appreciation or gratitude.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.5743",
         "semantic_similarity_score": 0.5743,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -59,8 +62,10 @@
     }
   },
   "es_definitions": [
-    ". Cigarro que se acostumbra regalar diariamente en ciertas fábricas de tabaco a los cigarreros."
+    "Un cigarro de cortesía es un tipo de cigarro que se regala habitualmente a los trabajadores de las fábricas de tabaco como gesto de aprecio o gratitud."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A courtesy cigar is a type of cigar that is typically given to tobacco factory workers as an expression of appreciation or gratitude."
+  ],
   "source": "https://tesoro.pr"
 }

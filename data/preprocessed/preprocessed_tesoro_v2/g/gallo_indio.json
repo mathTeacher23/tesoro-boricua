@@ -3,9 +3,12 @@
   "term": "gallo indio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver gallo rubio",
+      "consolidated_definition": "Ver gallo rubio .",
+      "en_consolidated_definition": "See rooster (gallo) with a light or blond plumage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver gallo rubio"
+    "Ver gallo rubio ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See rooster (gallo) with a light or blond plumage."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "pull over",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Suéter o camiseta gruesa",
+      "consolidated_definition": "Suéter o camiseta gruesa, de cuello ancho, sin abotonadura, para ponerse y quitarse por la cabeza.",
+      "en_consolidated_definition": "Pullover or thick T-shirt with a wide collar, without fastening, for putting on and taking off by the head.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Suéter o camiseta gruesa"
+    "Suéter o camiseta gruesa, de cuello ancho, sin abotonadura, para ponerse y quitarse por la cabeza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pullover or thick T-shirt with a wide collar, without fastening, for putting on and taking off by the head."
+  ],
   "source": "https://tesoro.pr"
 }

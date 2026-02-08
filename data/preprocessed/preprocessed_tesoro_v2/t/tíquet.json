@@ -3,15 +3,18 @@
   "term": "tíquet",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vale",
+      "consolidated_definition": "\"Vale\": sustantivo que indica una cédula, boleta o billete de admisión, generalmente utilizado para confirmar un acuerdo o compromiso.",
+      "en_consolidated_definition": "\"Vale\": noun indicating a ticket, stub, or admission slip, generally used to confirm an agreement or commitment.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.3967",
         "semantic_similarity_score": 0.3967,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -51,9 +54,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver tarjeta 1",
+      "consolidated_definition": "Ver tarjeta 1 .",
+      "en_consolidated_definition": "Ver tarjeta 1.\n\nNo hay información disponible para traducir. Por favor proporciona la definición completa en español para que pueda realizar la traducción adecuada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -74,9 +80,12 @@
     }
   },
   "es_definitions": [
-    "Vale",
-    "Ver tarjeta 1"
+    "\"Vale\": sustantivo que indica una cédula, boleta o billete de admisión, generalmente utilizado para confirmar un acuerdo o compromiso.",
+    "Ver tarjeta 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "\"Vale\": noun indicating a ticket, stub, or admission slip, generally used to confirm an agreement or commitment.",
+    "Ver tarjeta 1.\n\nNo hay información disponible para traducir. Por favor proporciona la definición completa en español para que pueda realizar la traducción adecuada."
+  ],
   "source": "https://tesoro.pr"
 }

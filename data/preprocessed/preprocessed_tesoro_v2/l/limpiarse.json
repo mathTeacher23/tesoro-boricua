@@ -3,15 +3,18 @@
   "term": "limpiarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arruinarse en el juego",
+      "consolidated_definition": "Perder dinero en un juego debido a un comportamiento imprudente o inadecuado.",
+      "en_consolidated_definition": "Sufrir pérdidas financieras en un juego debido a comportamiento imprudente o inadecuado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3616",
         "semantic_similarity_score": 0.3616,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "verbo pronominal"
         ],
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Arruinarse en el juego"
+    "Perder dinero en un juego debido a un comportamiento imprudente o inadecuado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sufrir pérdidas financieras en un juego debido a comportamiento imprudente o inadecuado."
+  ],
   "source": "https://tesoro.pr"
 }

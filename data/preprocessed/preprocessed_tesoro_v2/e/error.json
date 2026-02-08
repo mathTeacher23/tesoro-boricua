@@ -3,9 +3,12 @@
   "term": "error",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, fallo de un jugador defensivo, que no coge la pelota o se la lanza desviada a un compañero, permitiendo que un jugador ofensivo alcance una o más bases.",
+      "en_consolidated_definition": "In baseball, a defensive player's error in which they fail to catch the ball or throw it errantly to a teammate, allowing an offensive player to reach one or more bases.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, fallo de un jugador defensivo, que no coge la pelota o se la lanza desviada a un compañero, permitiendo que un jugador ofensivo alcance una o más bases."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a defensive player's error in which they fail to catch the ball or throw it errantly to a teammate, allowing an offensive player to reach one or more bases."
+  ],
   "source": "https://tesoro.pr"
 }

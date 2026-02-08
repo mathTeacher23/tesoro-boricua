@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Nombre procedente del latín que dieron los españoles al ave americana, de carne tan apetecible. Ac. “Los pavos, preocupados solamente de su esponjosa pluma...” Morales Cabrera, Cuentos populares, 1914, p. 98.",
+      "en_consolidated_definition": "Nombre procedente del latín que dieron los españoles a una ave americana de carne apetecible. Ac. \"The turkeys, concerned only with their fluffy plumage...\" Morales Cabrera, Folk Tales, 1914, p. 98.\n\nNota: En este contexto, \"Ac.\" se refiere a \"A continuación\" o \"Además\", y no es un término específico de Puerto Rico. Sin embargo, el autor mencionado, Morales Cabrera, es un escritor puertorriqueño conocido por sus obras sobre la cultura popular de la isla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,11 @@
     },
     "2": {
       "consolidated_definition": ". Regaño, reprimenda. “Mamá me echó un pavo.”",
+      "en_consolidated_definition": "Reprimenda verbal severa o regaño. \"Mamá me echó un pavo.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,8 +82,11 @@
     },
     "3": {
       "consolidated_definition": ". Juego de los bailadores en que las parejas forman una rueda alrededor de un bailador que queda, sin pareja, en medio del círculo.",
+      "en_consolidated_definition": "Dance game in which couples form a circle around a dancer who remains unpaired at the center of the ring.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -113,9 +122,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Actitud de tomarlo todo a bachata",
+      "consolidated_definition": "(general) Actitud de tomarlo todo a bachata.",
+      "en_consolidated_definition": "Attitude of taking everything lightly or carelessly, often in a manner reminiscent of the traditional Puerto Rican dance style bachata.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -144,20 +156,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Actitud de tomarlo todo a bachata."
+          "(general) Actitud de tomarlo todo a bachata."
         ]
       }
     },
     "5": {
-      "consolidated_definition": "Niño inocentón",
+      "consolidated_definition": "Persona menor que se comporta con ingenuidad o falta de experiencia en la vida.",
+      "en_consolidated_definition": "Persona menor que se comporta con ingenuidad o falta de experiencia en la vida.\n\nTranslation:\nMinor who behaves with naivety or lack of life experience.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4075",
         "semantic_similarity_score": 0.4075,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -198,9 +213,15 @@
     ". Nombre procedente del latín que dieron los españoles al ave americana, de carne tan apetecible. Ac. “Los pavos, preocupados solamente de su esponjosa pluma...” Morales Cabrera, Cuentos populares, 1914, p. 98.",
     ". Regaño, reprimenda. “Mamá me echó un pavo.”",
     ". Juego de los bailadores en que las parejas forman una rueda alrededor de un bailador que queda, sin pareja, en medio del círculo.",
-    "Actitud de tomarlo todo a bachata",
-    "Niño inocentón"
+    "(general) Actitud de tomarlo todo a bachata.",
+    "Persona menor que se comporta con ingenuidad o falta de experiencia en la vida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Nombre procedente del latín que dieron los españoles a una ave americana de carne apetecible. Ac. \"The turkeys, concerned only with their fluffy plumage...\" Morales Cabrera, Folk Tales, 1914, p. 98.\n\nNota: En este contexto, \"Ac.\" se refiere a \"A continuación\" o \"Además\", y no es un término específico de Puerto Rico. Sin embargo, el autor mencionado, Morales Cabrera, es un escritor puertorriqueño conocido por sus obras sobre la cultura popular de la isla.",
+    "Reprimenda verbal severa o regaño. \"Mamá me echó un pavo.\"",
+    "Dance game in which couples form a circle around a dancer who remains unpaired at the center of the ring.",
+    "Attitude of taking everything lightly or carelessly, often in a manner reminiscent of the traditional Puerto Rican dance style bachata.",
+    "Persona menor que se comporta con ingenuidad o falta de experiencia en la vida.\n\nTranslation:\nMinor who behaves with naivety or lack of life experience."
+  ],
   "source": "https://tesoro.pr"
 }

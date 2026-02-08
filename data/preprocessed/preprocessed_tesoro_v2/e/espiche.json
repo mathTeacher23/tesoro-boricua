@@ -3,14 +3,17 @@
   "term": "espiche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Agujero",
+      "consolidated_definition": "Salidero de una vasija, agujero.",
+      "en_consolidated_definition": "Spout of a vessel, hole.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9634",
-        "semantic_similarity_score": 0.9634,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Agujero. Salidero en una vasija.",
           "Salidero de una vasija, agujero."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Gorgojo que vive en el bejuco de la",
+      "consolidated_definition": "Gorgojo que vive en el bejuco de la batata y que se introduce después en el tubérculo.",
+      "en_consolidated_definition": "Weevil that inhabits the sweet potato vine and subsequently enters the tuber.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -85,9 +90,12 @@
     }
   },
   "es_definitions": [
-    "Agujero",
-    "Gorgojo que vive en el bejuco de la"
+    "Salidero de una vasija, agujero.",
+    "Gorgojo que vive en el bejuco de la batata y que se introduce después en el tubérculo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Spout of a vessel, hole.",
+    "Weevil that inhabits the sweet potato vine and subsequently enters the tuber."
+  ],
   "source": "https://tesoro.pr"
 }

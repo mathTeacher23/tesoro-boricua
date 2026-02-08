@@ -3,9 +3,12 @@
   "term": "helado de paquete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golosina hecha con zumo de frutas",
+      "consolidated_definition": "Golosina hecha con zumo de frutas, agua y azúcar y luego congelada.",
+      "en_consolidated_definition": "Frozen confection made with fruit juice, water, and sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Golosina hecha con zumo de frutas"
+    "Golosina hecha con zumo de frutas, agua y azúcar y luego congelada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Frozen confection made with fruit juice, water, and sugar."
+  ],
   "source": "https://tesoro.pr"
 }

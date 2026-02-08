@@ -3,15 +3,18 @@
   "term": "tamarindo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol frutal",
+      "consolidated_definition": "Árbol frutal grande y copudo que se encuentra en diversas regiones geográficas, caracterizado por su madera dura y rojiza, hojas similares al helecho y flores con cuatro hojitas de color rosa.",
+      "en_consolidated_definition": "Large, fruit-bearing tree with a dense canopy found in various geographical regions, characterized by its hard and reddish wood, leaves similar to ferns, and flowers with four small pink petals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4471",
-        "semantic_similarity_score": 0.4471,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.457",
+        "semantic_similarity_score": 0.457,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -51,8 +54,8 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Árbol frutal. Se encuentra en las vegas y bosques; revalece igualmente en las playas ardientes, que en las montañas frescas; es árbol muy grande y copudo, su tronco llega a tener diez pies de circunferencia; la madera es muy dura y de color algo roja; sus hojas se asemejan a las del helecho, colocadas todas a un solo lado de las ramas; las flores salen amontonadas; constan de cuatro hojitas de color de rosa; su pestil tiene tres estambres; de estos se forma la vaina que contiene el fruto, es de color musco de la figura de la de las habas.",
-          ". Árbol parecido al oriental de su nombre. . Stahl, 3, 126. “El tamarindo se encuentra en las vegas y bosques.” , cap. 39.",
+          "Árbol frutal. Se encuentra en las vegas y bosques; revalece igualmente en las playas ardientes, que en las montañas frescas; es árbol muy grande y copudo, su tronco llega a tener diez pies de circunferencia; la madera es muy dura y de color algo roja; sus hojas se asemejan a las del helecho, colocadas todas a un solo lado de las ramas; las flores salen amontonadas; constan de cuatro hojitas de color de rosa; su pestil tiene tres estambres; de estos se forma la vaina que contiene el fruto, es de color musco pardo oscuro de la figura de la de las habas.",
+          ". Árbol parecido al oriental de su nombre. (Tamarindus occidentalis). Stahl, 3, 126. “El tamarindo se encuentra en las vegas y bosques.” , cap. 39.",
           "Árbol de clima templado que en España se conoce como tamarindo. Es oriundo de Asia. No se parece al tamarindo de Puerto Rico. Hay alguno que otro árbol en la parte este de la isla.",
           "Su fruto. Éste tiene mismo sabor agridulce del tamarindo tropical.",
           "Tamarindus indica L. Su pulpa es purgativa, diurética y refrescante. Árbol frutal y medicinal de hoja pequeña."
@@ -60,9 +63,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Fruta",
+      "consolidated_definition": "Fruta.",
+      "en_consolidated_definition": "Fruit.\n\nNota: En algunos contextos, esta palabra puede referirse a específicamente a las frutas típicas de Puerto Rico, como la guayaba o el mango.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -97,9 +103,12 @@
     }
   },
   "es_definitions": [
-    "Árbol frutal",
-    "Fruta"
+    "Árbol frutal grande y copudo que se encuentra en diversas regiones geográficas, caracterizado por su madera dura y rojiza, hojas similares al helecho y flores con cuatro hojitas de color rosa.",
+    "Fruta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large, fruit-bearing tree with a dense canopy found in various geographical regions, characterized by its hard and reddish wood, leaves similar to ferns, and flowers with four small pink petals.",
+    "Fruit.\n\nNota: En algunos contextos, esta palabra puede referirse a específicamente a las frutas típicas de Puerto Rico, como la guayaba o el mango."
+  ],
   "source": "https://tesoro.pr"
 }

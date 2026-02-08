@@ -3,15 +3,18 @@
   "term": "capia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un alfiler con cintas es un objeto que se da como recordatorio en bodas, bautismos, cumpleaños y otras actividades.",
+      "consolidated_definition": "Alfiler con cintas que se da como recordatorio en bodas, bautismos, cumpleaños y otras actividades.",
+      "en_consolidated_definition": "Button with ribbons given as a memento at weddings, baptisms, birthdays, and other events.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Un alfiler con cintas es un objeto que se da como recordatorio en bodas, bautismos, cumpleaños y otras actividades."
+    "Alfiler con cintas que se da como recordatorio en bodas, bautismos, cumpleaños y otras actividades."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Button with ribbons given as a memento at weddings, baptisms, birthdays, and other events."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "rabilarga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre humorístico de la azada",
+      "consolidated_definition": "Nombre humorístico de la azada.",
+      "en_consolidated_definition": "Humorous name for the shovel or azada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Nombre humorístico de la azada"
+    "Nombre humorístico de la azada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Humorous name for the shovel or azada."
+  ],
   "source": "https://tesoro.pr"
 }

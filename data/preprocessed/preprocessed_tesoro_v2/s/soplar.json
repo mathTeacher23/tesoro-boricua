@@ -3,9 +3,12 @@
   "term": "soplar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacerse sentir el viento",
+      "consolidated_definition": "Hacerse sentir el viento.",
+      "en_consolidated_definition": "To feel the wind's presence or to sense a gentle breeze.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -38,9 +41,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Decir por lo bajo",
+      "consolidated_definition": "Decir por lo bajo.",
+      "en_consolidated_definition": "Murmurar en voz baja.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -73,9 +79,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Sonarse la nariz",
+      "consolidated_definition": "Sonarse la nariz.",
+      "en_consolidated_definition": "To blow one's nose.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -111,10 +120,14 @@
     }
   },
   "es_definitions": [
-    "Hacerse sentir el viento",
-    "Decir por lo bajo",
-    "Sonarse la nariz"
+    "Hacerse sentir el viento.",
+    "Decir por lo bajo.",
+    "Sonarse la nariz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To feel the wind's presence or to sense a gentle breeze.",
+    "Murmurar en voz baja.",
+    "To blow one's nose."
+  ],
   "source": "https://tesoro.pr"
 }

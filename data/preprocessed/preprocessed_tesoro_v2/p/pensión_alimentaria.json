@@ -3,9 +3,12 @@
   "term": "pensión alimentaria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pensión alimenticia",
+      "consolidated_definition": "Pensión alimenticia, dinero que debe proveer la parte progenitora que no posee la custodia permanente de una criatura para la manutención de esta, según lo que disponga la ley. El padre y la madre tienen la obligación natural, moral y legal de alimentar a sus hijos. El concepto alimentos incluye todo lo que es necesario para la subsistencia: alimento, vivienda, ropa, atención médica y educación. En un caso sobre fijación de pensión alimentaria, los honorarios de abogado se consideran parte de los alimentos.",
+      "en_consolidated_definition": "Child Support, the amount of money that the non-custodial parent is required to provide for the maintenance of a child, as stipulated by law. The natural, moral, and legal obligation of both parents to support their children is inherent. The concept of \"alimentos\" encompasses all necessities for survival: food, housing, clothing, medical care, and education. In cases involving the establishment of child support, attorney's fees are considered part of the child's maintenance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Pensión alimenticia"
+    "Pensión alimenticia, dinero que debe proveer la parte progenitora que no posee la custodia permanente de una criatura para la manutención de esta, según lo que disponga la ley. El padre y la madre tienen la obligación natural, moral y legal de alimentar a sus hijos. El concepto alimentos incluye todo lo que es necesario para la subsistencia: alimento, vivienda, ropa, atención médica y educación. En un caso sobre fijación de pensión alimentaria, los honorarios de abogado se consideran parte de los alimentos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Child Support, the amount of money that the non-custodial parent is required to provide for the maintenance of a child, as stipulated by law. The natural, moral, and legal obligation of both parents to support their children is inherent. The concept of \"alimentos\" encompasses all necessities for survival: food, housing, clothing, medical care, and education. In cases involving the establishment of child support, attorney's fees are considered part of the child's maintenance."
+  ],
   "source": "https://tesoro.pr"
 }

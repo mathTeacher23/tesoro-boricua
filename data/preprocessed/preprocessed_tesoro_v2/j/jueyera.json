@@ -3,14 +3,17 @@
   "term": "jueyera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de corral pequeño para engordar los jueyes",
+      "consolidated_definition": "Corral pequeño para limpiar y engordar los cangrejos antes de comerlos.",
+      "en_consolidated_definition": "Crustacean pen or enclosure for cleaning and fattening up crabs before consumption.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.6775",
-        "semantic_similarity_score": 0.6775,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -56,19 +59,16 @@
           "jueyero, ra"
         ],
         "reference_definitions": [
-          "Especie de corral pequeño para engordar los jueyes antes de comerlos.",
-          "Corral donde se mantiene a los jueyes, una vez cogidos, para limpiarlos y cebarlos antes de comerlos.",
-          "Corral para la ceba de los jueyes cazados.",
-          "Lugar donde abundan los jueyes.",
-          "Corral pequeño para limpiar y engordar los cangrejos antes de comerlos.",
-          "Lugar donde abundan los jueyes."
+          "Corral pequeño para limpiar y engordar los cangrejos antes de comerlos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Especie de corral pequeño para engordar los jueyes"
+    "Corral pequeño para limpiar y engordar los cangrejos antes de comerlos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Crustacean pen or enclosure for cleaning and fattening up crabs before consumption."
+  ],
   "source": "https://tesoro.pr"
 }

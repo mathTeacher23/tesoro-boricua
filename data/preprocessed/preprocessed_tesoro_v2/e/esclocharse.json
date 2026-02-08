@@ -3,9 +3,12 @@
   "term": "esclocharse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estropearse el embrague de un vehículo",
+      "consolidated_definition": "Estropearse el embrague de un vehículo, de manera que se pierde la conexión del motor con las ruedas.",
+      "en_consolidated_definition": "To damage the transmission of a vehicle in such a way that the connection between the engine and wheels is lost.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Estropearse el embrague de un vehículo"
+    "Estropearse el embrague de un vehículo, de manera que se pierde la conexión del motor con las ruedas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To damage the transmission of a vehicle in such a way that the connection between the engine and wheels is lost."
+  ],
   "source": "https://tesoro.pr"
 }

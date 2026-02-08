@@ -3,9 +3,12 @@
   "term": "jincho pelota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona cachetuda y muy pálida",
+      "consolidated_definition": "Persona cachetuda y muy pálida.",
+      "en_consolidated_definition": "Persona con un aire elegante y muy pálida.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona cachetuda y muy pálida"
+    "Persona cachetuda y muy pálida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona con un aire elegante y muy pálida."
+  ],
   "source": "https://tesoro.pr"
 }

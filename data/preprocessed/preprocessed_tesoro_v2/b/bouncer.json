@@ -3,15 +3,18 @@
   "term": "bouncer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que tiene a su cargo el control del acceso y la seguridad en un local, así como expulsar a quien no cumpla con las normas establecidas.",
+      "consolidated_definition": "Persona empleada que tiene a su cargo el acceso a un local, la seguridad dentro del mismo y la expulsión de quien falte al orden. Según Denissa, en los cuartos privados solamente se baila. “Si el cliente se zafa se reporta a un bouncer”, reveló la bailarina. (El Nuevo Día, 18-08-12)",
+      "en_consolidated_definition": "Persona employed to oversee access to a premises, maintain security within it, and eject individuals who fail to comply with the rules.\n\nNota: En este contexto, \"bouncer\" es un término coloquial en inglés que se refiere a una persona empleada para mantener la seguridad y el orden en un local.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Un dispositivo para bebés que se coloca en el piso y se mece o rebota según los movimientos del niño, utilizado a partir de los dos meses para calmarlos.",
+      "consolidated_definition": "Silla para bebé, que se coloca en el piso y que se mece o rebota según los movimientos del bebé. Los bebés a partir de los dos meses se pueden calmar por ellos mismos. Se refiere a cuando los colocamos en el tummy time, bouncer o cuna, etc. (Usuario de Facebook, 19-10-20)",
+      "en_consolidated_definition": "Baby bouncer, a device placed on the floor that rocks or bounces in response to the baby's movements. Infants from two months old can self-soothe with them. This refers to when we place them in tummy time, bouncer, or cradle, etc.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -80,9 +86,12 @@
     }
   },
   "es_definitions": [
-    "Persona que tiene a su cargo el control del acceso y la seguridad en un local, así como expulsar a quien no cumpla con las normas establecidas.",
-    "Un dispositivo para bebés que se coloca en el piso y se mece o rebota según los movimientos del niño, utilizado a partir de los dos meses para calmarlos."
+    "Persona empleada que tiene a su cargo el acceso a un local, la seguridad dentro del mismo y la expulsión de quien falte al orden. Según Denissa, en los cuartos privados solamente se baila. “Si el cliente se zafa se reporta a un bouncer”, reveló la bailarina. (El Nuevo Día, 18-08-12)",
+    "Silla para bebé, que se coloca en el piso y que se mece o rebota según los movimientos del bebé. Los bebés a partir de los dos meses se pueden calmar por ellos mismos. Se refiere a cuando los colocamos en el tummy time, bouncer o cuna, etc. (Usuario de Facebook, 19-10-20)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona employed to oversee access to a premises, maintain security within it, and eject individuals who fail to comply with the rules.\n\nNota: En este contexto, \"bouncer\" es un término coloquial en inglés que se refiere a una persona empleada para mantener la seguridad y el orden en un local.",
+    "Baby bouncer, a device placed on the floor that rocks or bounces in response to the baby's movements. Infants from two months old can self-soothe with them. This refers to when we place them in tummy time, bouncer, or cradle, etc."
+  ],
   "source": "https://tesoro.pr"
 }

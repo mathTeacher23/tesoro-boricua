@@ -3,15 +3,18 @@
   "term": "bufeo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Celebración o reunión festiva y alegre, caracterizada por un ambiente de diversión y entretenimiento.",
+      "consolidated_definition": "Alegría momentánea.",
+      "en_consolidated_definition": "Momentary joy or fleeting happiness.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5991",
-        "semantic_similarity_score": 0.5991,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,16 +48,17 @@
           "bufearse"
         ],
         "reference_definitions": [
-          "Alegría momentánea. Algazara. Algún vacilón entretenido. Broma. Especie de relajo. Festejo. Fiesta agradable.",
-          "Alegría momentánea.",
-          "Broma, relajo, festejo, fiesta agradable."
+          "Alegría momentánea."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Marsopia o delfín: mamífero marino del orden Cetacea, caracterizado por su cuerpo alargado y su capacidad para nadar a gran velocidad, erróneamente confundido con el bufeo.",
+      "en_consolidated_definition": "Marsopa or Dolphin: marine mammal of the order Cetacea, characterized by its elongated body and ability to swim at great speed, mistakenly confused with the manatee.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -95,8 +99,11 @@
     },
     "3": {
       "consolidated_definition": "Persona que se considera poco atractiva o desagradable en apariencia.",
+      "en_consolidated_definition": "Persona que se considera poco atractiva o desagradable en apariencia.\n\nPersona considered unattractive or unpleasant in appearance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -136,15 +143,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "La sedación se refiere a la somnolencia inducida por la droga.",
+      "consolidated_definition": "Soñoliencia que produce la droga que se inyecta.",
+      "en_consolidated_definition": "Drowsiness induced by the injected drug.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -175,11 +185,16 @@
     }
   },
   "es_definitions": [
-    "Celebración o reunión festiva y alegre, caracterizada por un ambiente de diversión y entretenimiento.",
+    "Alegría momentánea.",
     "Marsopia o delfín: mamífero marino del orden Cetacea, caracterizado por su cuerpo alargado y su capacidad para nadar a gran velocidad, erróneamente confundido con el bufeo.",
     "Persona que se considera poco atractiva o desagradable en apariencia.",
-    "La sedación se refiere a la somnolencia inducida por la droga."
+    "Soñoliencia que produce la droga que se inyecta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Momentary joy or fleeting happiness.",
+    "Marsopa or Dolphin: marine mammal of the order Cetacea, characterized by its elongated body and ability to swim at great speed, mistakenly confused with the manatee.",
+    "Persona que se considera poco atractiva o desagradable en apariencia.\n\nPersona considered unattractive or unpleasant in appearance.",
+    "Drowsiness induced by the injected drug."
+  ],
   "source": "https://tesoro.pr"
 }

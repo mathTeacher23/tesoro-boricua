@@ -3,9 +3,12 @@
   "term": "geontocracia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Poder",
+      "consolidated_definition": "Poder, gobierno de los ancianos.",
+      "en_consolidated_definition": "Gerontocracia, poder o gobierno de los ancianos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Poder"
+    "Poder, gobierno de los ancianos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gerontocracia, poder o gobierno de los ancianos."
+  ],
   "source": "https://tesoro.pr"
 }

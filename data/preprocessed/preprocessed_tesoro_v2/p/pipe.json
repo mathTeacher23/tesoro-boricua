@@ -3,9 +3,12 @@
   "term": "pipe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallinero o parte alta de un teatro",
+      "consolidated_definition": "(general) Gallinero o parte alta de un teatro.",
+      "en_consolidated_definition": "Upper gallery or loft of a theater (general)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,17 +39,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Gallinero o parte alta de un teatro."
+          "(general) Gallinero o parte alta de un teatro."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Individuo cualquiera",
+      "consolidated_definition": "Individuo cualquiera.",
+      "en_consolidated_definition": "Any individual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -77,16 +83,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Individuo cualquiera.",
           "Individuo cualquiera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Gallinero o parte alta de un teatro",
-    "Individuo cualquiera"
+    "(general) Gallinero o parte alta de un teatro.",
+    "Individuo cualquiera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Upper gallery or loft of a theater (general)",
+    "Any individual."
+  ],
   "source": "https://tesoro.pr"
 }

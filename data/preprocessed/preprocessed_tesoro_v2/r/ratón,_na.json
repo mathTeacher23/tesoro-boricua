@@ -3,14 +3,17 @@
   "term": "ratón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que delata a un delincuente, relacionado con un grupo",
+      "consolidated_definition": "Referido a persona, que delata a un delincuente.",
+      "en_consolidated_definition": "Informant of a criminal.\n\nNota: En este contexto, \"informante\" se refiere a una persona que proporciona información sobre un delincuente, pero en algunos casos puede tener connotaciones negativas. Es importante considerar el contexto en el que se utiliza esta palabra para evitar malentendidos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.4964",
-        "semantic_similarity_score": 0.4964,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -55,26 +58,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Persona que delata a un delincuente.",
-          "Se llama así a la policía y a los agentes de Rentas Internas.",
-          "Persona vil.",
-          "Dícese de la persona muy pobre sin oficio ni profesión.",
-          "Persona que acusa a las demás personas. Agente encubierto. Chota de la policía. Soplón.",
-          "Bochinchero. Alcahuete. Chismoso.",
           "Referido a persona, que delata a un delincuente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Malo",
+      "consolidated_definition": "Cualquier cosa de mala calidad.",
+      "en_consolidated_definition": "Anything of poor quality.\n\nNota: La palabra \"cosa\" es un término genérico que se utiliza en español para referirse a cualquier objeto o entidad, por lo que no hay necesidad de traducirla específicamente. El énfasis está en la calidad de la cosa en sí misma.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7753",
-        "semantic_similarity_score": 0.7753,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6954",
+        "semantic_similarity_score": 0.6954,
+        "cluster_count": 2,
         "grammar": [
           "adjetivo"
         ],
@@ -101,16 +101,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Malo. De mala calidad.",
+          "(popular) Malo. De mala calidad.",
           "Cualquier cosa de mala calidad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que delata a un delincuente, relacionado con un grupo",
-    "Malo"
+    "Referido a persona, que delata a un delincuente.",
+    "Cualquier cosa de mala calidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Informant of a criminal.\n\nNota: En este contexto, \"informante\" se refiere a una persona que proporciona información sobre un delincuente, pero en algunos casos puede tener connotaciones negativas. Es importante considerar el contexto en el que se utiliza esta palabra para evitar malentendidos.",
+    "Anything of poor quality.\n\nNota: La palabra \"cosa\" es un término genérico que se utiliza en español para referirse a cualquier objeto o entidad, por lo que no hay necesidad de traducirla específicamente. El énfasis está en la calidad de la cosa en sí misma."
+  ],
   "source": "https://tesoro.pr"
 }

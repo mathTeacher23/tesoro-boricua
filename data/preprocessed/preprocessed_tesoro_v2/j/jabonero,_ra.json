@@ -3,15 +3,18 @@
   "term": "jabonero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Res de color blanco sucio tirando a amarillo",
+      "consolidated_definition": "Res de color blanco sucio tirando a amarillo.",
+      "en_consolidated_definition": "Dirty whiteish yellowish residue.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.9928",
         "semantic_similarity_score": 0.9928,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "adjetivo"
         ],
@@ -46,9 +49,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Adulador",
+      "consolidated_definition": "Adulador.",
+      "en_consolidated_definition": "Flatterer \n\nNota: En algunos contextos culturales de Puerto Rico, este término puede estar relacionado con el concepto de \"malas artes\" o \"mala lengua\", pero en su definición más general, se refiere a alguien que busca ganar favor o aprecio mediante halagos excesivos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    "Res de color blanco sucio tirando a amarillo",
-    "Adulador"
+    "Res de color blanco sucio tirando a amarillo.",
+    "Adulador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dirty whiteish yellowish residue.",
+    "Flatterer \n\nNota: En algunos contextos culturales de Puerto Rico, este término puede estar relacionado con el concepto de \"malas artes\" o \"mala lengua\", pero en su definición más general, se refiere a alguien que busca ganar favor o aprecio mediante halagos excesivos."
+  ],
   "source": "https://tesoro.pr"
 }

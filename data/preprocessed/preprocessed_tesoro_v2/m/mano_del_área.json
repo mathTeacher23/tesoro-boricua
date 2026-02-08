@@ -3,9 +3,12 @@
   "term": "mano del área",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Chico de San Juan",
+      "consolidated_definition": "Chico de San Juan.",
+      "en_consolidated_definition": "San Juan Boy \n\nNota: Esta expresión se refiere a un joven de San Juan, Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Chico de San Juan"
+    "Chico de San Juan."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "San Juan Boy \n\nNota: Esta expresión se refiere a un joven de San Juan, Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

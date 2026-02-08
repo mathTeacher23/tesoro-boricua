@@ -3,15 +3,18 @@
   "term": "vagoneta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Eufemismo",
+      "consolidated_definition": "Eufemismo. Sustantivo que designa un término o expresión utilizado para evitar ofender o molestar a alguien aludiendo indirectamente a algo desagradable o inaceptable.",
+      "en_consolidated_definition": "Eufemismo. Noun designating a term or expression used to avoid offending or disturbing someone by indirectly referring to something unpleasant or unacceptable.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3675",
         "semantic_similarity_score": 0.3675,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "adjetivo"
         ],
@@ -48,9 +51,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Vagón arrastrado por un trailer para transportar caña",
+      "consolidated_definition": "Vagón arrastrado por un trailer para transportar caña. Puede tener dos o tres divisiones.",
+      "en_consolidated_definition": "Carriage pulled by a trailer to transport sugarcane, which may have two or three compartments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -87,9 +93,12 @@
     }
   },
   "es_definitions": [
-    "Eufemismo",
-    "Vagón arrastrado por un trailer para transportar caña"
+    "Eufemismo. Sustantivo que designa un término o expresión utilizado para evitar ofender o molestar a alguien aludiendo indirectamente a algo desagradable o inaceptable.",
+    "Vagón arrastrado por un trailer para transportar caña. Puede tener dos o tres divisiones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Eufemismo. Noun designating a term or expression used to avoid offending or disturbing someone by indirectly referring to something unpleasant or unacceptable.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada.",
+    "Carriage pulled by a trailer to transport sugarcane, which may have two or three compartments."
+  ],
   "source": "https://tesoro.pr"
 }

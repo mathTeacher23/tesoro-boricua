@@ -3,15 +3,18 @@
   "term": "estoquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Matar con arma blanca",
+      "consolidated_definition": "Homicidio cometido con un arma blanca.",
+      "en_consolidated_definition": "Homicide committed with a bladed weapon.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4673",
         "semantic_similarity_score": 0.4673,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "verbo transitivo"
         ],
@@ -48,9 +51,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Averiguar",
+      "consolidated_definition": "Averiguar, generalmente en internet, la vida de alguien por interés sentimental, envidia, celos u otras motivaciones. Con tantas opciones de redes sociales, es común “estoquear” a la gente, especialmente cuando le interesa salir con alguien. En muchos casos, se quiere saber todo sobre esa persona y ver sus fotos se convierte en el pasatiempo favorito del otro involucrado en cuestión. ¡Y no tiene nada de malo! Siempre es recomendable tantear el terreno para evitar dar paso en falso.",
+      "en_consolidated_definition": "To investigate, typically through the internet, someone's life out of sentimental interest, envy, jealousy, or other motivations. With so many social media options, it is common to \"stake\" people out, especially when interested in dating someone. In many cases, one wants to know everything about that person and viewing their photos becomes a favorite pastime for the other party involved. It is always advisable to probe the situation to avoid false steps.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -86,9 +92,12 @@
     }
   },
   "es_definitions": [
-    "Matar con arma blanca",
-    "Averiguar"
+    "Homicidio cometido con un arma blanca.",
+    "Averiguar, generalmente en internet, la vida de alguien por interés sentimental, envidia, celos u otras motivaciones. Con tantas opciones de redes sociales, es común “estoquear” a la gente, especialmente cuando le interesa salir con alguien. En muchos casos, se quiere saber todo sobre esa persona y ver sus fotos se convierte en el pasatiempo favorito del otro involucrado en cuestión. ¡Y no tiene nada de malo! Siempre es recomendable tantear el terreno para evitar dar paso en falso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Homicide committed with a bladed weapon.",
+    "To investigate, typically through the internet, someone's life out of sentimental interest, envy, jealousy, or other motivations. With so many social media options, it is common to \"stake\" people out, especially when interested in dating someone. In many cases, one wants to know everything about that person and viewing their photos becomes a favorite pastime for the other party involved. It is always advisable to probe the situation to avoid false steps."
+  ],
   "source": "https://tesoro.pr"
 }

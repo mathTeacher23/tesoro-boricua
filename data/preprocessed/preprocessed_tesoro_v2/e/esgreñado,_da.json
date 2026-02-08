@@ -3,9 +3,12 @@
   "term": "esgreñado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, que tiene mucho pelo y en total desorden, desgreñada.",
+      "en_consolidated_definition": "Referring to a person with a lot of hair and in total disarray, unkempt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona"
+    "Referido a persona, que tiene mucho pelo y en total desorden, desgreñada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referring to a person with a lot of hair and in total disarray, unkempt."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "monear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Imitar los gestos y la forma de vestir",
+      "consolidated_definition": "Imitar los gestos y la forma de vestir de alguien.",
+      "en_consolidated_definition": "Imitate the gestures and manner of dress of someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Imitar los gestos y la forma de vestir"
+    "Imitar los gestos y la forma de vestir de alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Imitate the gestures and manner of dress of someone."
+  ],
   "source": "https://tesoro.pr"
 }

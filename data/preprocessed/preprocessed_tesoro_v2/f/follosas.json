@@ -3,9 +3,12 @@
   "term": "follosas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Barras de hierro en el arado que abren",
+      "consolidated_definition": "Barras de hierro en el arado que abren el surco.",
+      "en_consolidated_definition": "Iron bars on the plow that open the furrow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Barras de hierro en el arado que abren"
+    "Barras de hierro en el arado que abren el surco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Iron bars on the plow that open the furrow."
+  ],
   "source": "https://tesoro.pr"
 }

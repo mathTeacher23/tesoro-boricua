@@ -3,15 +3,18 @@
   "term": "carrera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prostitución: Entrar en la prostitución se conoce como 'tomar el buró'.",
+      "consolidated_definition": "Voz usada por prostitutas. Prostitución. “Empezar carrera”: entrar a la prostitución.",
+      "en_consolidated_definition": "Term used by sex workers. Prostitution. \"To start a career\": to enter the sex trade.\n\nNota: En este contexto, \"carrera\" se refiere a una profesión o actividad lucrativa, en lugar de un campo académico tradicional.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "En el juego de béisbol, un carrera ganada por el corredor al llegar al plato a salvo.",
+      "consolidated_definition": "En el beisbol, llegada al plato de un corredor desde la tercera base o de recorrer las tres bases de una vez y anotar en el marcador.",
+      "en_consolidated_definition": "In baseball, a runner's arrival at home plate from third base or the completion of three bases in one trip and scoring on the scoreboard.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5912",
-        "semantic_similarity_score": 0.5912,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -75,16 +81,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de béisbol, el tanto ganado por el corredor al llegar al plato a salvo. Desvío semántico, frecuente. DRAE 2001: acción de correr. Los Criollos anotaron 22 carreras en esos cuatro juegos (El Nuevo Día, 14-11-00)",
           "En el beisbol, llegada al plato de un corredor desde la tercera base o de recorrer las tres bases de una vez y anotar en el marcador."
         ]
       }
     }
   },
   "es_definitions": [
-    "Prostitución: Entrar en la prostitución se conoce como 'tomar el buró'.",
-    "En el juego de béisbol, un carrera ganada por el corredor al llegar al plato a salvo."
+    "Voz usada por prostitutas. Prostitución. “Empezar carrera”: entrar a la prostitución.",
+    "En el beisbol, llegada al plato de un corredor desde la tercera base o de recorrer las tres bases de una vez y anotar en el marcador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Term used by sex workers. Prostitution. \"To start a career\": to enter the sex trade.\n\nNota: En este contexto, \"carrera\" se refiere a una profesión o actividad lucrativa, en lugar de un campo académico tradicional.",
+    "In baseball, a runner's arrival at home plate from third base or the completion of three bases in one trip and scoring on the scoreboard."
+  ],
   "source": "https://tesoro.pr"
 }

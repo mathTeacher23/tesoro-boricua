@@ -3,15 +3,18 @@
   "term": "centrífuga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un molino que separa el azúcar de la miel después de su extracción desde los tachos.",
+      "consolidated_definition": "Molino que separa el azúcar de la miel después que sale de los tachos.",
+      "en_consolidated_definition": "Sugar mill that separates sugar from honey after it exits the vats.\n\nNota: En este caso, \"tachos\" se refiere a los recipientes utilizados en el proceso de producción del azúcar en Puerto Rico, donde la miel y el azúcar se separan después de que sale de estos tachos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Un molino que separa el azúcar de la miel después de su extracción desde los tachos."
+    "Molino que separa el azúcar de la miel después que sale de los tachos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sugar mill that separates sugar from honey after it exits the vats.\n\nNota: En este caso, \"tachos\" se refiere a los recipientes utilizados en el proceso de producción del azúcar en Puerto Rico, donde la miel y el azúcar se separan después de que sale de estos tachos."
+  ],
   "source": "https://tesoro.pr"
 }

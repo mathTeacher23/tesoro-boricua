@@ -3,9 +3,12 @@
   "term": "pico de gallo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salsa cruda",
+      "consolidated_definition": "Salsa cruda, compuesta de jitomate, cebolla, chile verde y cilantro picados finamente.",
+      "en_consolidated_definition": "Fresh salsa composed of finely chopped tomato, onion, green chili pepper, and cilantro.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Salsa cruda"
+    "Salsa cruda, compuesta de jitomate, cebolla, chile verde y cilantro picados finamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fresh salsa composed of finely chopped tomato, onion, green chili pepper, and cilantro."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "marketa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bodega",
+      "consolidated_definition": "Bodega, tienda de comestibles, mercado.",
+      "en_consolidated_definition": "Grocery store, food market, or warehouse.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Bodega"
+    "Bodega, tienda de comestibles, mercado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Grocery store, food market, or warehouse."
+  ],
   "source": "https://tesoro.pr"
 }

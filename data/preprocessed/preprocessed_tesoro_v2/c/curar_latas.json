@@ -3,15 +3,18 @@
   "term": "curar latas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cubrir los agujeros de las vasijas de metal: rellenar o tapar huecos o aberturas en objetos sólidos.",
+      "consolidated_definition": "Cubrir los agujeros de las vasijas de metal que se perforan debido el uso, con la resina del cupey.",
+      "en_consolidated_definition": "Seal the holes in metal vessels that are perforated due to use with cupressin resin from the cupey tree.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Cubrir los agujeros de las vasijas de metal: rellenar o tapar huecos o aberturas en objetos sólidos."
+    "Cubrir los agujeros de las vasijas de metal que se perforan debido el uso, con la resina del cupey."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Seal the holes in metal vessels that are perforated due to use with cupressin resin from the cupey tree."
+  ],
   "source": "https://tesoro.pr"
 }

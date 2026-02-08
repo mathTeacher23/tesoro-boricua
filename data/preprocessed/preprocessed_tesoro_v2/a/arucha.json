@@ -3,15 +3,18 @@
   "term": "arucha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pan de forma circular: tipo de pan cuyo cuerpo tiene una forma redondeada.",
+      "consolidated_definition": "Pan de forma circular.",
+      "en_consolidated_definition": "Circular bread.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pan de forma circular: tipo de pan cuyo cuerpo tiene una forma redondeada."
+    "Pan de forma circular."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Circular bread."
+  ],
   "source": "https://tesoro.pr"
 }

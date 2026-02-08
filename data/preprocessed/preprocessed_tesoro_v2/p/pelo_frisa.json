@@ -3,9 +3,12 @@
   "term": "pelo frisa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tipo que no vale nada",
+      "consolidated_definition": "Tipo que no vale nada.",
+      "en_consolidated_definition": "Type that is worthless.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tipo que no vale nada"
+    "Tipo que no vale nada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Type that is worthless."
+  ],
   "source": "https://tesoro.pr"
 }

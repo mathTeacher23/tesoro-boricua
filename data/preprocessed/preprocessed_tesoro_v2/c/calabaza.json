@@ -3,15 +3,18 @@
   "term": "calabaza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bejuco resistente y trepador de tallo leñoso que se categoriza como una planta; se utiliza para fabricar canastas y otros objetos.",
+      "consolidated_definition": "Bejuco muy resistente de una planta trepadora de tallo leñoso; se usa para hacer canastillas, banastillas de montar, etc.",
+      "en_consolidated_definition": "A sturdy vine from a woody-stemmed climbing plant; used for making baskets, saddlebags, etc.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8999",
-        "semantic_similarity_score": 0.8999,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bejuco muy resistente de una planta trepadora de tallo leñoso que se usa para hacer canastas, banastillas de montar, etc. No tiene ninguna relación con el vegetal que también lleva ese nombre.",
           "Bejuco muy resistente de una planta trepadora de tallo leñoso; se usa para hacer canastillas, banastillas de montar, etc."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Gallo de plumaje entre amarillo y anaranjado.",
+      "en_consolidated_definition": "Rooster with plumage between yellow and orange.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Bejuco resistente y trepador de tallo leñoso que se categoriza como una planta; se utiliza para fabricar canastas y otros objetos.",
+    "Bejuco muy resistente de una planta trepadora de tallo leñoso; se usa para hacer canastillas, banastillas de montar, etc.",
     "Gallo de plumaje entre amarillo y anaranjado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A sturdy vine from a woody-stemmed climbing plant; used for making baskets, saddlebags, etc.",
+    "Rooster with plumage between yellow and orange."
+  ],
   "source": "https://tesoro.pr"
 }

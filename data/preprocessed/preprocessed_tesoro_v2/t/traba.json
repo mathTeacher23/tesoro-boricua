@@ -3,15 +3,18 @@
   "term": "traba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuerda que se ata a los pies en",
+      "consolidated_definition": "Manea: cuerda o cordón que se ata a los pies en forma de grillo y sirve para subir a las palmas.",
+      "en_consolidated_definition": "Climbing cord or rope tied in a loop shape to the feet, used for ascending palm trees.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.6287",
         "semantic_similarity_score": 0.6287,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -54,14 +57,17 @@
       }
     },
     "2": {
-      "consolidated_definition": ". Gallo de pelea y conjunto de ellos. “Prepara una fiesta gallística en la que tomarán parte las mejores trabas de la isla.” El País, diciembre 8, 1934. “Aficionado a los gallos, mi traba asciende a 30 ó 40 gallos escogidos.” José Ángel Franco, ., relacionado con un grupo",
+      "consolidated_definition": "Lugar donde están los gallos de pelea de un gallero.",
+      "en_consolidated_definition": "Location where a rooster breeder's fighting cocks are kept.\n\nNota: En este contexto, \"gallero\" se refiere a un criador de gallos de pelea, que es una práctica cultural específica en Puerto Rico y otros países hispanos. La traducción mantiene el significado exacto del término original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.6986",
-        "semantic_similarity_score": 0.6986,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -107,20 +113,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Gallo de pelea y conjunto de ellos. “Prepara una fiesta gallística en la que tomarán parte las mejores trabas de la isla.” El País, diciembre 8, 1934. “Aficionado a los gallos, mi traba asciende a 30 ó 40 gallos escogidos.” José Ángel Franco, .",
-          "Conjunto de gallos de pelea y el sitio donde los tienen.",
-          "Grupo de gallos de pelea.",
-          "El conjunto de gallos de pelea que trae un gallero.",
-          "Lugar donde están los gallos de pelea de un gallero.",
-          "Conjunto de gallos de pelea."
+          "Lugar donde están los gallos de pelea de un gallero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cuerda que se ata a los pies en",
-    ". Gallo de pelea y conjunto de ellos. “Prepara una fiesta gallística en la que tomarán parte las mejores trabas de la isla.” El País, diciembre 8, 1934. “Aficionado a los gallos, mi traba asciende a 30 ó 40 gallos escogidos.” José Ángel Franco, ., relacionado con un grupo"
+    "Manea: cuerda o cordón que se ata a los pies en forma de grillo y sirve para subir a las palmas.",
+    "Lugar donde están los gallos de pelea de un gallero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Climbing cord or rope tied in a loop shape to the feet, used for ascending palm trees.",
+    "Location where a rooster breeder's fighting cocks are kept.\n\nNota: En este contexto, \"gallero\" se refiere a un criador de gallos de pelea, que es una práctica cultural específica en Puerto Rico y otros países hispanos. La traducción mantiene el significado exacto del término original."
+  ],
   "source": "https://tesoro.pr"
 }

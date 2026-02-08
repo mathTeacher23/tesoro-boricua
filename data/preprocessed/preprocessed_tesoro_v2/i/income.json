@@ -3,9 +3,12 @@
   "term": "income",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver income tax",
+      "consolidated_definition": "Ver income tax .",
+      "en_consolidated_definition": "Income tax.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver income tax"
+    "Ver income tax ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Income tax."
+  ],
   "source": "https://tesoro.pr"
 }

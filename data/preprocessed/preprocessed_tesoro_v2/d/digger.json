@@ -3,14 +3,17 @@
   "term": "digger",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Excavadora para hacer zanjas grandes, relacionado con un mecanismo",
+      "consolidated_definition": "Excavadora para hacer zanjas de gran tamaño.",
+      "en_consolidated_definition": "Backhoe for making large trenches.\n\nNota: En este caso, \"excavadora\" se refiere a una máquina pesada utilizada en la construcción y excavación de zanjas, similar a un backhoe. El término es ampliamente utilizado en Puerto Rico y otros países hispanohablantes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6731",
-        "semantic_similarity_score": 0.6731,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Excavadora para hacer zanjas grandes.",
-          "Excavadora. Máquina dotada de un brazo potente para sacar tierra u otros materiales. Anglicismo crudo, poco frecuente. Se utilizarán varios equipos pesados, entre ellos: digger, bulldozer, track loader, así como camiones pesados y livianos",
           "Excavadora para hacer zanjas de gran tamaño."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ayuda",
+      "consolidated_definition": "Ayuda, empujón, recomendación recibida por alguien.",
+      "en_consolidated_definition": "Aid, push, or recommendation received by someone.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -87,9 +91,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Persona muy influyente que apoya a otra",
+      "consolidated_definition": "Persona muy influyente que apoya a otra.",
+      "en_consolidated_definition": "Persona muy influyente que brinda apoyo a otra.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -124,10 +131,14 @@
     }
   },
   "es_definitions": [
-    "Excavadora para hacer zanjas grandes, relacionado con un mecanismo",
-    "Ayuda",
-    "Persona muy influyente que apoya a otra"
+    "Excavadora para hacer zanjas de gran tamaño.",
+    "Ayuda, empujón, recomendación recibida por alguien.",
+    "Persona muy influyente que apoya a otra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Backhoe for making large trenches.\n\nNota: En este caso, \"excavadora\" se refiere a una máquina pesada utilizada en la construcción y excavación de zanjas, similar a un backhoe. El término es ampliamente utilizado en Puerto Rico y otros países hispanohablantes.",
+    "Aid, push, or recommendation received by someone.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Persona muy influyente que brinda apoyo a otra."
+  ],
   "source": "https://tesoro.pr"
 }

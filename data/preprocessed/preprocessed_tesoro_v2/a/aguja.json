@@ -3,15 +3,18 @@
   "term": "aguja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un tranquero es un conjunto de maderos agujereados que se hincan en el suelo y se apoyan horizontalmente entre sí.",
+      "consolidated_definition": ". Cada uno de los maderos agujereados que se hincan en tierra, y que se apoyan en otros horizontales para formar una tranquera.",
+      "en_consolidated_definition": "Each one of the perforated beams that are driven into the ground and supported by other horizontal ones to form a railing or balustrade.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"pez aguja\": nombre común para varias especies de peces, incluyendo Tetrapterus albidus e Ichthioporus americanus.",
+      "consolidated_definition": "Pez de hasta 1,5 m de longitud, de color azul cobalto en la parte dorsal de su cuerpo con la ventral de color plateado y mandíbula superior prolongada en forma de aguja. Istiophoridae Makaira nigricans, Tetrapterus albidus.",
+      "en_consolidated_definition": "Fish of up to 1.5 m in length, with a cobalt blue dorsal coloration on its body and a silver-colored ventral region, and an elongated upper jaw resembling a needle. Istiophoridae Makaira nigricans, Tetrapterus albidus.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3791",
-        "semantic_similarity_score": 0.3791,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -75,16 +81,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Nombre vulgar de diferentes peces. (Tetrapterus albidus; Ichthioporus americanus, Cuv.) “A las dos horas regresaron con un pez aguja de 7 pies de largo.” Arturo Castro, “Para el turismo en Puerto Rico”, Puerto Rico Ilustrado, núm. del 16 de enero de 1937.",
           "Pez de hasta 1,5 m de longitud, de color azul cobalto en la parte dorsal de su cuerpo con la ventral de color plateado y mandíbula superior prolongada en forma de aguja. Istiophoridae Makaira nigricans, Tetrapterus albidus."
         ]
       }
     }
   },
   "es_definitions": [
-    "Un tranquero es un conjunto de maderos agujereados que se hincan en el suelo y se apoyan horizontalmente entre sí.",
-    "\"pez aguja\": nombre común para varias especies de peces, incluyendo Tetrapterus albidus e Ichthioporus americanus."
+    ". Cada uno de los maderos agujereados que se hincan en tierra, y que se apoyan en otros horizontales para formar una tranquera.",
+    "Pez de hasta 1,5 m de longitud, de color azul cobalto en la parte dorsal de su cuerpo con la ventral de color plateado y mandíbula superior prolongada en forma de aguja. Istiophoridae Makaira nigricans, Tetrapterus albidus."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Each one of the perforated beams that are driven into the ground and supported by other horizontal ones to form a railing or balustrade.",
+    "Fish of up to 1.5 m in length, with a cobalt blue dorsal coloration on its body and a silver-colored ventral region, and an elongated upper jaw resembling a needle. Istiophoridae Makaira nigricans, Tetrapterus albidus."
+  ],
   "source": "https://tesoro.pr"
 }

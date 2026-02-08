@@ -3,12 +3,15 @@
   "term": "tirar bomba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dar droga mezclada. algo",
+      "consolidated_definition": "Dar droga mezclada.",
+      "en_consolidated_definition": "Administer a person a mixed substance containing drugs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -40,20 +43,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dar droga mezclada.",
           "Dar droga mezclada."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dejar plantado",
+      "consolidated_definition": "Dejar plantado a alguien.",
+      "en_consolidated_definition": "To stand someone up.\n\nNota: Esta expresión es común en Puerto Rico y se refiere a abandonar a alguien en un compromiso o cita sin previo aviso.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6406",
-        "semantic_similarity_score": 0.6406,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución verbal"
@@ -83,18 +88,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dejar plantado, o esperando, a alguien.",
-          "Decir algo y no hacerlo. No cumplir con lo que se había prometido.",
-          "Dejar plantado a alguien.",
-          "Prometer algo y no hacerlo."
+          "Dejar plantado a alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "dar droga mezclada. algo",
-    "Dejar plantado"
+    "Dar droga mezclada.",
+    "Dejar plantado a alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Administer a person a mixed substance containing drugs.",
+    "To stand someone up.\n\nNota: Esta expresión es común en Puerto Rico y se refiere a abandonar a alguien en un compromiso o cita sin previo aviso."
+  ],
   "source": "https://tesoro.pr"
 }

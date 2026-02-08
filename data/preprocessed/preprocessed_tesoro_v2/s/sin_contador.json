@@ -3,9 +3,12 @@
   "term": "sin contador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sin tasa ni medida",
+      "consolidated_definition": "Sin tasa ni medida.",
+      "en_consolidated_definition": "Without tariff or measure.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Sin tasa ni medida"
+    "Sin tasa ni medida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Without tariff or measure."
+  ],
   "source": "https://tesoro.pr"
 }

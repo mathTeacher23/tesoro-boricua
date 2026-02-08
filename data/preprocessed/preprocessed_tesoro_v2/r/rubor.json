@@ -3,9 +3,12 @@
   "term": "rubor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosmético de color que se aplica en las",
+      "consolidated_definition": "Cosmético de color que se aplica en las mejillas.",
+      "en_consolidated_definition": "Blush or cheek color cosmetic applied to the cheeks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cosmético de color que se aplica en las"
+    "Cosmético de color que se aplica en las mejillas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Blush or cheek color cosmetic applied to the cheeks."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "escrestar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Descrestar",
+      "consolidated_definition": "Descrestar. Cortar la cresta a los gallos.",
+      "en_consolidated_definition": "To dehorn. To cut off the comb of roosters.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Descrestar"
+    "Descrestar. Cortar la cresta a los gallos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To dehorn. To cut off the comb of roosters."
+  ],
   "source": "https://tesoro.pr"
 }

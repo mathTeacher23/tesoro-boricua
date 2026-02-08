@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Soco, ñoco.",
+      "en_consolidated_definition": "Soco, ñoco.\n\nSlang term referring to a strong or powerful blow, often used in Puerto Rican culture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cada uno de los pedestales o estantes de, relacionado con una organización",
+      "consolidated_definition": "\"Zoco\": pedestal o estante de madera o concreto que forma parte del cuerpo inferior de un edificio.",
+      "en_consolidated_definition": "Pedestal or shelf made of wood or concrete that forms part of the lower body of a building.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.4765",
         "semantic_similarity_score": 0.4765,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -97,8 +103,11 @@
   },
   "es_definitions": [
     ". Soco, ñoco.",
-    "Cada uno de los pedestales o estantes de, relacionado con una organización"
+    "\"Zoco\": pedestal o estante de madera o concreto que forma parte del cuerpo inferior de un edificio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Soco, ñoco.\n\nSlang term referring to a strong or powerful blow, often used in Puerto Rican culture.",
+    "Pedestal or shelf made of wood or concrete that forms part of the lower body of a building."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "calentoso, sa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que consume drogas de manera adictiva o frecuente.",
+      "consolidated_definition": "Referido a persona, drogadicta.",
+      "en_consolidated_definition": "Referred to a person, drug addict.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6109",
-        "semantic_similarity_score": 0.6109,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -45,17 +48,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Drogadicto. “Él es un calentoso.”",
-          "Persona de malos hábitos. Mala reputación.",
-          "Referido a persona, drogadicta.",
-          "Referido a persona, de malos hábitos y reputación."
+          "Referido a persona, drogadicta."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que consume drogas de manera adictiva o frecuente."
+    "Referido a persona, drogadicta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referred to a person, drug addict."
+  ],
   "source": "https://tesoro.pr"
 }

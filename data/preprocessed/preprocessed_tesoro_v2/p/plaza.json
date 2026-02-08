@@ -3,9 +3,12 @@
   "term": "plaza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio donde se deposita la caña para ser",
+      "consolidated_definition": "Sitio donde se deposita la caña para ser recogida por el camión.",
+      "en_consolidated_definition": "Caney or cane yard: a site where sugarcane is deposited for collection by a truck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sitio donde se deposita la caña para ser"
+    "Sitio donde se deposita la caña para ser recogida por el camión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Caney or cane yard: a site where sugarcane is deposited for collection by a truck."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "ensetar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En carpintería blanca",
+      "consolidated_definition": "Poner alguien setos.",
+      "en_consolidated_definition": "To enclose someone with hedges or to fence in an area for their protection.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6368",
-        "semantic_similarity_score": 0.6368,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -42,15 +45,16 @@
           "seto 1"
         ],
         "reference_definitions": [
-          "En carpintería blanca, poner setos.",
           "Poner alguien setos."
         ]
       }
     }
   },
   "es_definitions": [
-    "En carpintería blanca"
+    "Poner alguien setos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To enclose someone with hedges or to fence in an area for their protection."
+  ],
   "source": "https://tesoro.pr"
 }

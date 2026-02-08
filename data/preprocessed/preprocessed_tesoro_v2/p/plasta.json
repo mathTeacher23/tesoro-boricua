@@ -3,15 +3,18 @@
   "term": "plasta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona antipática",
+      "consolidated_definition": "Persona que se caracteriza por comportarse de manera desagradable o hostil hacia los demás.",
+      "en_consolidated_definition": "Persona que se caracteriza por comportarse de manera desagradable o hostil hacia los demás.\n\nTraducción:\nPerson who is characterized by behaving in an unpleasant or hostile manner towards others.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.396",
         "semantic_similarity_score": 0.396,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -40,9 +43,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "La excreta",
+      "consolidated_definition": "La excreta.",
+      "en_consolidated_definition": "Excremento.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,9 +83,12 @@
     }
   },
   "es_definitions": [
-    "Persona antipática",
-    "La excreta"
+    "Persona que se caracteriza por comportarse de manera desagradable o hostil hacia los demás.",
+    "La excreta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que se caracteriza por comportarse de manera desagradable o hostil hacia los demás.\n\nTraducción:\nPerson who is characterized by behaving in an unpleasant or hostile manner towards others.",
+    "Excremento."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "hablar por detrás",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablar de una persona que no está presente",
+      "consolidated_definition": "Hablar de una persona que no está presente.",
+      "en_consolidated_definition": "Speak of a person who is absent or not present.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Hablar de una persona que no está presente"
+    "Hablar de una persona que no está presente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Speak of a person who is absent or not present."
+  ],
   "source": "https://tesoro.pr"
 }

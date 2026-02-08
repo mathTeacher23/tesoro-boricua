@@ -3,9 +3,12 @@
   "term": "palabra de hombre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Compromiso o promesa que compromete el honor",
+      "consolidated_definition": "Compromiso o promesa que compromete el honor.",
+      "en_consolidated_definition": "Honor-bound pledge or promise that compromises one's honor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Compromiso o promesa que compromete el honor"
+    "Compromiso o promesa que compromete el honor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Honor-bound pledge or promise that compromises one's honor."
+  ],
   "source": "https://tesoro.pr"
 }

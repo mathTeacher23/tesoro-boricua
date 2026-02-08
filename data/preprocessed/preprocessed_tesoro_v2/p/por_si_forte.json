@@ -3,14 +3,17 @@
   "term": "por si forte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expr",
+      "consolidated_definition": "Por si acaso.",
+      "en_consolidated_definition": "For precautionary purposes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8101",
-        "semantic_similarity_score": 0.8101,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución adverbial"
@@ -38,15 +41,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Expr. fest. Por si acaso.",
           "Por si acaso."
         ]
       }
     }
   },
   "es_definitions": [
-    "Expr"
+    "Por si acaso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "For precautionary purposes."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "collor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Seiba\": árbol similar a la palma de yagua pero que tiene espinas en todo el tronco.",
+      "consolidated_definition": "\"Seiba\": palma de la categoría arbórea que sobre el collar y el quiebrahacha, levantábase erguida en las campañas de conquista y defensa territorial del siglo XIX, según Tapia, \"La palma del cacique\", 1852; también se le llama coyol y es similar a la palma de yagua pero con espinas en todo el tronco.",
+      "en_consolidated_definition": "Seiba: palm tree of the arboreal category that stood upright on the collar and quiebrahacha in the campaigns of conquest and territorial defense of the 19th century, according to Tapia, \"The Palm of the Cacique\", 1852; it is also known as coyol and is similar to the yagua palm but with spines throughout the trunk.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Grano inferior de café que se seca con la cáscara intacta debido a su estado de madurez incompleto y no ha sido sometido a la despulpadora.",
+      "consolidated_definition": "Grano de café de inferior calidad debido a que se le seca la cáscara sin pasarlo por la despulpadora.",
+      "en_consolidated_definition": "Coffee bean of inferior quality due to its skin being dried without passing through a depulper.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8816",
-        "semantic_similarity_score": 0.8816,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -81,16 +87,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Grano inferior de café debido a que se seca con la cáscara sin pasarlo por la despulpadora porque muchos están aún verdes y son los últimos de la cosecha.",
           "Grano de café de inferior calidad debido a que se le seca la cáscara sin pasarlo por la despulpadora."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Seiba\": árbol similar a la palma de yagua pero que tiene espinas en todo el tronco.",
-    "Grano inferior de café que se seca con la cáscara intacta debido a su estado de madurez incompleto y no ha sido sometido a la despulpadora."
+    "\"Seiba\": palma de la categoría arbórea que sobre el collar y el quiebrahacha, levantábase erguida en las campañas de conquista y defensa territorial del siglo XIX, según Tapia, \"La palma del cacique\", 1852; también se le llama coyol y es similar a la palma de yagua pero con espinas en todo el tronco.",
+    "Grano de café de inferior calidad debido a que se le seca la cáscara sin pasarlo por la despulpadora."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Seiba: palm tree of the arboreal category that stood upright on the collar and quiebrahacha in the campaigns of conquest and territorial defense of the 19th century, according to Tapia, \"The Palm of the Cacique\", 1852; it is also known as coyol and is similar to the yagua palm but with spines throughout the trunk.",
+    "Coffee bean of inferior quality due to its skin being dried without passing through a depulper."
+  ],
   "source": "https://tesoro.pr"
 }

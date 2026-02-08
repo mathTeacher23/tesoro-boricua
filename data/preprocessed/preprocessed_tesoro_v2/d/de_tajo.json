@@ -3,9 +3,12 @@
   "term": "de tajo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En algunas ocasiones un producto por estar en",
+      "consolidated_definition": "En algunas ocasiones un producto por estar en abundancia no se lleva al mercado debido a su bajo precio. Sucede a veces que un agricultor al llevarlo encuentra una pasajera escasez y logra buen precio. Eso se llama entrar de tajo.",
+      "en_consolidated_definition": "When a product is in abundance and its low price prevents it from being marketed, an occasional shortage may prompt the farmer to sell it at a higher price. This phenomenon is known as \"entrar de tajo\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En algunas ocasiones un producto por estar en"
+    "En algunas ocasiones un producto por estar en abundancia no se lleva al mercado debido a su bajo precio. Sucede a veces que un agricultor al llevarlo encuentra una pasajera escasez y logra buen precio. Eso se llama entrar de tajo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "When a product is in abundance and its low price prevents it from being marketed, an occasional shortage may prompt the farmer to sell it at a higher price. This phenomenon is known as \"entrar de tajo\"."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "suplidor, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abastecedor",
+      "consolidated_definition": "Abastecedor, almacenista.",
+      "en_consolidated_definition": "Supplier, warehouseman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6973",
-        "semantic_similarity_score": 0.6973,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -48,16 +51,16 @@
           "suplir"
         ],
         "reference_definitions": [
-          "Abastecedor, almacenista.",
-          "comer. Abastecedor, mayorista, proveedor. Individuo o empresa que almacena el producto para su distribución. Frecuente. DRAE 2001 “Cervecería India no va a tolerar este tipo de situación en sus facilidades y por ello ha tomado medidas correctivas con el suplidor contratado para realizar estos trabajos”, dijo",
           "Abastecedor, almacenista."
         ]
       }
     }
   },
   "es_definitions": [
-    "Abastecedor"
+    "Abastecedor, almacenista."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Supplier, warehouseman."
+  ],
   "source": "https://tesoro.pr"
 }

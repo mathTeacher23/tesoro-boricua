@@ -3,15 +3,18 @@
   "term": "fumadero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar donde se fuma droga",
+      "consolidated_definition": "Lugar donde se fuma droga.",
+      "en_consolidated_definition": "Location where illicit substances are smoked.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5154",
         "semantic_similarity_score": 0.5154,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Lugar donde se fuma droga"
+    "Lugar donde se fuma droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Location where illicit substances are smoked."
+  ],
   "source": "https://tesoro.pr"
 }

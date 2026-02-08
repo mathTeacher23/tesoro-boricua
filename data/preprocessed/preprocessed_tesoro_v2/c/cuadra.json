@@ -3,15 +3,18 @@
   "term": "cuadra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Manzana de casas\": área urbana formada por varias calles que se cruzan en un punto central y comúnmente rodeada por edificios residenciales o comerciales.",
+      "consolidated_definition": "Medida de longitud entre 100 y 150 m.",
+      "en_consolidated_definition": "Measure of length between 100 and 150 meters.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4576",
-        "semantic_similarity_score": 0.4576,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,17 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Bol., Col., Chile, Méx. y Ven.). Manzana de casas. Ac.",
-          ". El espacio de una calle, comprendido entre dos transversales.",
-          "Medida de longitud entre 100 y 150 m.",
-          "En una manzana, distancia que va de una esquina a la siguiente."
+          "Medida de longitud entre 100 y 150 m."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Manzana de casas\": área urbana formada por varias calles que se cruzan en un punto central y comúnmente rodeada por edificios residenciales o comerciales."
+    "Medida de longitud entre 100 y 150 m."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Measure of length between 100 and 150 meters."
+  ],
   "source": "https://tesoro.pr"
 }

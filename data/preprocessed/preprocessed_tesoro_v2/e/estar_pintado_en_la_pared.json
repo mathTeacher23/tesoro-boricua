@@ -3,9 +3,12 @@
   "term": "estar pintado en la pared",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pasar inadvertido",
+      "consolidated_definition": "Pasar inadvertido.",
+      "en_consolidated_definition": "To pass unnoticed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Pasar inadvertido"
+    "Pasar inadvertido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To pass unnoticed."
+  ],
   "source": "https://tesoro.pr"
 }

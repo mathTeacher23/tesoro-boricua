@@ -3,9 +3,12 @@
   "term": "jon",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar del campo de beisbol",
+      "consolidated_definition": "Lugar del campo de beisbol.",
+      "en_consolidated_definition": "Area of the baseball field.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Lugar del campo de beisbol"
+    "Lugar del campo de beisbol."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area of the baseball field."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "eño, ña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Antiguo",
+      "consolidated_definition": "Antiguo. Tratamiento equivalente a señor y señora.",
+      "en_consolidated_definition": "Ancient. Title equivalent to Mr. and Mrs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Antiguo"
+    "Antiguo. Tratamiento equivalente a señor y señora."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ancient. Title equivalent to Mr. and Mrs."
+  ],
   "source": "https://tesoro.pr"
 }

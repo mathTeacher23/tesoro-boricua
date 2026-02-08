@@ -3,15 +3,18 @@
   "term": "cocotear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Pelear\": Enfrentarse a un adversario o superar una dificultad con fuerza y determinación.",
+      "consolidated_definition": "Pelear alguien.",
+      "en_consolidated_definition": "To engage in a physical or verbal altercation with someone.\n\nNota: Esta traducción mantiene el significado exacto de la definición original y utiliza vocabulario formal y apropiado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6543",
-        "semantic_similarity_score": 0.6543,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -42,21 +45,23 @@
           "cocoteo 1"
         ],
         "reference_definitions": [
-          "Pelear.",
           "Pelear alguien."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cabecear: acción de inclinar la cabeza hacia adelante o hacia un lado en señal de asentimiento, interés o atención.",
+      "consolidated_definition": "Cabecear alguien cuando se está quedando dormido sentado o de pie.",
+      "en_consolidated_definition": "To nod off while seated or standing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -84,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "\"Pelear\": Enfrentarse a un adversario o superar una dificultad con fuerza y determinación.",
-    "Cabecear: acción de inclinar la cabeza hacia adelante o hacia un lado en señal de asentimiento, interés o atención."
+    "Pelear alguien.",
+    "Cabecear alguien cuando se está quedando dormido sentado o de pie."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To engage in a physical or verbal altercation with someone.\n\nNota: Esta traducción mantiene el significado exacto de la definición original y utiliza vocabulario formal y apropiado para un diccionario.",
+    "To nod off while seated or standing."
+  ],
   "source": "https://tesoro.pr"
 }

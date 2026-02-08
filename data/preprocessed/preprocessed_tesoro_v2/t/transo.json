@@ -3,14 +3,17 @@
   "term": "transo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte fija en la zona superior de las",
+      "consolidated_definition": "Parte fija, de cristal o rejilla, en lo alto de las puertas.",
+      "en_consolidated_definition": "Fixed glass or grille component located at the top of doors.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8568",
-        "semantic_similarity_score": 0.8568,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Parte fija en la zona superior de las puertas, de cristal o rejilla.",
           "Parte fija, de cristal o rejilla, en lo alto de las puertas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Parte fija en la zona superior de las"
+    "Parte fija, de cristal o rejilla, en lo alto de las puertas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fixed glass or grille component located at the top of doors."
+  ],
   "source": "https://tesoro.pr"
 }

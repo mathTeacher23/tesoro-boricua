@@ -3,15 +3,18 @@
   "term": "colgarse los tenis",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Colgarse alguien en un examen: acción de suspender o apoyar a una persona en un soporte o estructura.",
+      "consolidated_definition": "Colgarse alguien en un examen.",
+      "en_consolidated_definition": "To fail or cheat on an exam by relying on someone else's knowledge or work.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona que abandona o deixa una actividad.",
+      "consolidated_definition": "Abandonar alguien una actividad.",
+      "en_consolidated_definition": "To relinquish someone from an activity.\n\nNota: Esta traducción mantiene el significado exacto de la definición original y utiliza vocabulario formal y apropiado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.541",
-        "semantic_similarity_score": 0.541,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -72,16 +78,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Abandonar alguien una actividad.",
-          "Morirse alguien."
+          "Abandonar alguien una actividad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Colgarse alguien en un examen: acción de suspender o apoyar a una persona en un soporte o estructura.",
-    "Persona que abandona o deixa una actividad."
+    "Colgarse alguien en un examen.",
+    "Abandonar alguien una actividad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To fail or cheat on an exam by relying on someone else's knowledge or work.",
+    "To relinquish someone from an activity.\n\nNota: Esta traducción mantiene el significado exacto de la definición original y utiliza vocabulario formal y apropiado para un diccionario."
+  ],
   "source": "https://tesoro.pr"
 }

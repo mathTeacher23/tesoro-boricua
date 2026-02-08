@@ -3,15 +3,18 @@
   "term": "coleador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Coleador\": persona que asiste al gallo durante la pelea.",
+      "consolidated_definition": "Persona que cuida del gallo durante la pelea.",
+      "en_consolidated_definition": "Gallero \n\nPerson who cares for the rooster during a fight.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.653",
-        "semantic_similarity_score": 0.653,
-        "cluster_count": 8,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -67,21 +70,16 @@
           "colear 1"
         ],
         "reference_definitions": [
-          "Nombre que se le da al gallero durante la riña.",
-          "El que colea los gallos; papel del gallero que, durante la riña, toma este nombre. “Y aquí es muy interesante el papel del gallero que, durante la riña, se llama coleador.” , p. 82. “Los gallos en las balanzas —mueven alertas sus colas, —y entonces los coleadores —aguzan los espolonas.” Joaquín López López, Riñas de gallos, 1933.",
-          "Careador. El que asiste al gallo durante la pelea.",
-          "Persona que prepara y colea los gallos de pelea.",
-          "El que atiende o auxilia el gallo durante la pelea. También careador.",
-          "Hasta la década de 1950, el coleador era el entrenador del gallo. También se ocupaba de asistir al gallo durante los descansos en la pelea. Le limpiaba la sangre del cuello, lo animaba, le lanzaba un buche de agua a la cabeza y le despejaba la vista. Hoy, la pelea es muy corta y no se permite tocar el gallo salvo el juez de valla.",
-          "En Puerto Rico, el coleador también sujetaba al gallo en sus manos para echarlo a pelear.",
           "Persona que cuida del gallo durante la pelea."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Coleador\": persona que asiste al gallo durante la pelea."
+    "Persona que cuida del gallo durante la pelea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gallero \n\nPerson who cares for the rooster during a fight."
+  ],
   "source": "https://tesoro.pr"
 }

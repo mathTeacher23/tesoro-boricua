@@ -3,14 +3,17 @@
   "term": "resaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Recogida de los últimos frutos de una cosecha",
+      "consolidated_definition": "Recogida de los últimos frutos de una cosecha.",
+      "en_consolidated_definition": "Harvest of the latest fruits from a crop.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.7601",
-        "semantic_similarity_score": 0.7601,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,23 +44,23 @@
           "resacar"
         ],
         "reference_definitions": [
-          "Recogida de los últimos frutos de una cosecha.",
-          "Selección de frutos por su calidad.",
-          "Recogida de los últimos frutos de una cosecha.",
-          "Selección de frutos por su calidad."
+          "Recogida de los últimos frutos de una cosecha."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ir y venir de las olas en la",
+      "consolidated_definition": "Desplazamiento recíproco de las olas en la orilla.",
+      "en_consolidated_definition": "Reciprocating wave movement along the shoreline.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6112",
         "semantic_similarity_score": 0.6112,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -91,9 +94,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Paliza grande",
+      "consolidated_definition": "Paliza grande.",
+      "en_consolidated_definition": "Severe beating.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -128,10 +134,14 @@
     }
   },
   "es_definitions": [
-    "Recogida de los últimos frutos de una cosecha",
-    "Ir y venir de las olas en la",
-    "Paliza grande"
+    "Recogida de los últimos frutos de una cosecha.",
+    "Desplazamiento recíproco de las olas en la orilla.",
+    "Paliza grande."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Harvest of the latest fruits from a crop.",
+    "Reciprocating wave movement along the shoreline.",
+    "Severe beating."
+  ],
   "source": "https://tesoro.pr"
 }

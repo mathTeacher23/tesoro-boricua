@@ -3,14 +3,17 @@
   "term": "junk",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Basura",
+      "consolidated_definition": "Basura, chatarra, cosa sin valor.",
+      "en_consolidated_definition": "Waste, scrap metal, worthless thing.\n\nNota: En este caso, no se identificaron términos culturales específicos de Puerto Rico en la definición proporcionada. Si lo hubiera sido, se habría traducido y preservado el contexto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6323",
-        "semantic_similarity_score": 0.6323,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,21 +47,22 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Basura, sin valor.",
-          "Basura, objeto inservible. Producto u objeto considerado de poco valor o perjudicial para la salud. Anglicismo crudo, poco frecuente. Compuestos: junk bond, junk food, junk mail. No lo recojas, eso es junk, nadie lo quiere",
           "Basura, chatarra, cosa sin valor."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Heroína",
+      "consolidated_definition": "Adicto a las drogas.",
+      "en_consolidated_definition": "Substance abuser.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que la definición es general y aplicable a diferentes contextos. Sin embargo, si fuera necesario, podría incluirse una nota o referencia para clarificar el uso del término en español puertorriqueño.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6183",
-        "semantic_similarity_score": 0.6183,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -87,18 +91,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Heroína.",
-          "Adicto a las drogas.",
-          "Adicto a las drogas.",
-          "Heroína."
+          "Adicto a las drogas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Basura",
-    "Heroína"
+    "Basura, chatarra, cosa sin valor.",
+    "Adicto a las drogas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Waste, scrap metal, worthless thing.\n\nNota: En este caso, no se identificaron términos culturales específicos de Puerto Rico en la definición proporcionada. Si lo hubiera sido, se habría traducido y preservado el contexto.",
+    "Substance abuser.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que la definición es general y aplicable a diferentes contextos. Sin embargo, si fuera necesario, podría incluirse una nota o referencia para clarificar el uso del término en español puertorriqueño."
+  ],
   "source": "https://tesoro.pr"
 }

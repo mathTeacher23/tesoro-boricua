@@ -3,14 +3,17 @@
   "term": "papagayo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hay una especie de verdalón",
+      "consolidated_definition": "Arbusto de hasta 6 m de altura, con hojas pinnadas, inflorescencia en racimos y flores amarillentas. Fabaceae, Sesbania sericea.",
+      "en_consolidated_definition": "Shrub reaching up to 6 m in height, with pinnate leaves, racemose inflorescence and yellowish flowers. Fabaceae, Sesbania sericea.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4209",
-        "semantic_similarity_score": 0.4209,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,16 +49,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hay una especie de verdalón, de pequeño tamaño que recibe los nombres de sampedrito, mediopeso y papagayo, con otras denominaciones menos corrientes La zona de papagayo está claramente definida, en el nordeste, en el triángulo formado por los términos de Vaga Baja, Caguas y Fajardo.",
-          "Especie de verdalón de pequeño tamaño. También sampedrito.",
           "Arbusto de hasta 6 m de altura, con hojas pinnadas, inflorescencia en racimos y flores amarillentas. Fabaceae, Sesbania sericea."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el trapiche se usaba una especie de",
+      "consolidated_definition": "En el trapiche se usaba una especie de machete largo, denominado papagayo, para limpiar la cachaza o residuos que salían a flote en el recibidor, o la borra que se manifestaba en el segundo fondo.",
+      "en_consolidated_definition": "In the trapiche, a long machete known as papagayo was used to clean the cachaza or residues that floated to the surface in the receiving area, or the borra that appeared in the second bottom.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -91,9 +95,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Existen dos variedades de este árbol",
+      "consolidated_definition": "Existen dos variedades de este árbol: el Commicarpus scandens Standley y el Dendropanax arboreum Dene. & Pl.",
+      "en_consolidated_definition": "There are two varieties of this tree: Commicarpus scandens Standley and Dendropanax arboreum Dene. & Pl.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -128,10 +135,14 @@
     }
   },
   "es_definitions": [
-    "Hay una especie de verdalón",
-    "En el trapiche se usaba una especie de",
-    "Existen dos variedades de este árbol"
+    "Arbusto de hasta 6 m de altura, con hojas pinnadas, inflorescencia en racimos y flores amarillentas. Fabaceae, Sesbania sericea.",
+    "En el trapiche se usaba una especie de machete largo, denominado papagayo, para limpiar la cachaza o residuos que salían a flote en el recibidor, o la borra que se manifestaba en el segundo fondo.",
+    "Existen dos variedades de este árbol: el Commicarpus scandens Standley y el Dendropanax arboreum Dene. & Pl."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Shrub reaching up to 6 m in height, with pinnate leaves, racemose inflorescence and yellowish flowers. Fabaceae, Sesbania sericea.",
+    "In the trapiche, a long machete known as papagayo was used to clean the cachaza or residues that floated to the surface in the receiving area, or the borra that appeared in the second bottom.",
+    "There are two varieties of this tree: Commicarpus scandens Standley and Dendropanax arboreum Dene. & Pl."
+  ],
   "source": "https://tesoro.pr"
 }

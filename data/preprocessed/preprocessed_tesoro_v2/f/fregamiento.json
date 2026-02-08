@@ -3,15 +3,18 @@
   "term": "fregamiento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fresquería",
+      "consolidated_definition": "Fresquería: Sustantivo que se refiere al almacenamiento o venta de productos frescos, especialmente frutas y verduras.",
+      "en_consolidated_definition": "Fresh produce storage or sales facility, particularly for fruits and vegetables.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5519",
         "semantic_similarity_score": 0.5519,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Fresquería"
+    "Fresquería: Sustantivo que se refiere al almacenamiento o venta de productos frescos, especialmente frutas y verduras."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fresh produce storage or sales facility, particularly for fruits and vegetables."
+  ],
   "source": "https://tesoro.pr"
 }

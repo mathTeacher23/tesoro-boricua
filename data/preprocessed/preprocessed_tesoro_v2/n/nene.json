@@ -3,14 +3,17 @@
   "term": "nene",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Apelativo despectivo aplicado al hombre que no es",
+      "consolidated_definition": "Niño hasta los cinco años.",
+      "en_consolidated_definition": "Infant until the age of five.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1995",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.566",
-        "semantic_similarity_score": 0.566,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -48,22 +51,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Apelativo despectivo aplicado al hombre que no es de fiar. Persona astuta. “¡Qué nene!”",
-          "La voz nene, na, acaso por influjo español levantino, sustituye corrientemente en Puerto Rico a niño, ña en el habla general rural y urbana: el nene, la nena, los nenes, preferencia que la literatura costumbrista del XIX confirma en cuanto al uso campesino, y asimismo documenta en el XX en los textos de otros autores , que recogen este rasgo expresivo del lenguaje vivo.",
-          "Niño hasta los cinco años.",
-          "Niño hasta los diez años."
+          "Niño hasta los cinco años."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Órgano sexual masculino",
+      "consolidated_definition": "Pene.",
+      "en_consolidated_definition": "Penis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2595",
-        "semantic_similarity_score": 0.2595,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -94,16 +97,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Órgano sexual masculino .",
           "Pene."
         ]
       }
     }
   },
   "es_definitions": [
-    "Apelativo despectivo aplicado al hombre que no es",
-    "Órgano sexual masculino"
+    "Niño hasta los cinco años.",
+    "Pene."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Infant until the age of five.",
+    "Penis."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "cubierta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cobertura: término utilizado para describir el riesgo o evento protegido por una póliza de seguros.",
+      "consolidated_definition": "Cobertura. Riesgo cubierto por una póliza de seguros. Desvío semántico, usual. DRAE 2001: cosa que se pone encima de otra para tapar. El producto PPO ofrece las ventajas de una cubierta de beneficios que incluye servicios claves en el cuidado de la salud a un costo razonable ()",
+      "en_consolidated_definition": "Coverage. Risk covered by an insurance policy. Semantic shift, common. DRAE 2001: thing placed on top of another to cover it. The PPO product offers the benefits of a coverage package that includes key services in health care at a reasonable cost.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cobertura: término utilizado para describir el riesgo o evento protegido por una póliza de seguros."
+    "Cobertura. Riesgo cubierto por una póliza de seguros. Desvío semántico, usual. DRAE 2001: cosa que se pone encima de otra para tapar. El producto PPO ofrece las ventajas de una cubierta de beneficios que incluye servicios claves en el cuidado de la salud a un costo razonable ()"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coverage. Risk covered by an insurance policy. Semantic shift, common. DRAE 2001: thing placed on top of another to cover it. The PPO product offers the benefits of a coverage package that includes key services in health care at a reasonable cost."
+  ],
   "source": "https://tesoro.pr"
 }

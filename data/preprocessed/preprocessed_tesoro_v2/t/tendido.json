@@ -3,15 +3,18 @@
   "term": "tendido",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Colgadero",
+      "consolidated_definition": "Tendedero de ropa, ya en el suelo ya colgada de cuerdas.",
+      "en_consolidated_definition": "Clothesline or drying rack, either on the ground or suspended from strings.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4205",
         "semantic_similarity_score": 0.4205,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Colgadero"
+    "Tendedero de ropa, ya en el suelo ya colgada de cuerdas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Clothesline or drying rack, either on the ground or suspended from strings."
+  ],
   "source": "https://tesoro.pr"
 }

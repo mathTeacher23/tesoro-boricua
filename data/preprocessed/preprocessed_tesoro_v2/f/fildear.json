@@ -3,14 +3,17 @@
   "term": "fildear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En el beisbol, atrapar la pelota un jugador y lanzársela a otro del mismo equipo.",
+      "en_consolidated_definition": "In baseball, to catch a ball and throw it to another player on the same team.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7048",
-        "semantic_similarity_score": 0.7048,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
@@ -45,15 +48,16 @@
           "fílder"
         ],
         "reference_definitions": [
-          "En béisbol, jugar el puesto de filder.",
           "En el beisbol, atrapar la pelota un jugador y lanzársela a otro del mismo equipo."
         ]
       }
     }
   },
   "es_definitions": [
-    "En béisbol"
+    "En el beisbol, atrapar la pelota un jugador y lanzársela a otro del mismo equipo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, to catch a ball and throw it to another player on the same team."
+  ],
   "source": "https://tesoro.pr"
 }

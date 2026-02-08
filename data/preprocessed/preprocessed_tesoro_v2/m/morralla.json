@@ -3,9 +3,12 @@
   "term": "morralla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ron de pésima calidad",
+      "consolidated_definition": "Ron de pésima calidad. También llamado pitorro, pitrinche y lágrimas de mangle.",
+      "en_consolidated_definition": "Low-quality rum. Also known as pitorro, pitrinche, and mangle tears.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cebo",
+      "consolidated_definition": "Cebo.",
+      "en_consolidated_definition": "Baitfish \n\nNote: En este caso, \"cebo\" se refiere a un pez pequeño utilizado como cebo para pescar otros peces más grandes. La palabra \"cebo\" es una referencia común en la pesca y la caza en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Tabaco de mala calidad",
+      "consolidated_definition": "Tabaco de mala calidad.",
+      "en_consolidated_definition": "Low-grade tobacco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -114,10 +123,14 @@
     }
   },
   "es_definitions": [
-    "Ron de pésima calidad",
-    "Cebo",
-    "Tabaco de mala calidad"
+    "Ron de pésima calidad. También llamado pitorro, pitrinche y lágrimas de mangle.",
+    "Cebo.",
+    "Tabaco de mala calidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Low-quality rum. Also known as pitorro, pitrinche, and mangle tears.",
+    "Baitfish \n\nNote: En este caso, \"cebo\" se refiere a un pez pequeño utilizado como cebo para pescar otros peces más grandes. La palabra \"cebo\" es una referencia común en la pesca y la caza en Puerto Rico.",
+    "Low-grade tobacco."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "machucador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aprendiz de domador de caballos",
+      "consolidated_definition": "Aprendiz de domador de caballos.",
+      "en_consolidated_definition": "Apprentice horse trainer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.7657",
-        "semantic_similarity_score": 0.7657,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -43,18 +46,16 @@
           "machucar 1"
         ],
         "reference_definitions": [
-          "Aprendiz de domador de caballos.",
-          "Hombre que monta por primera vez los caballos que van a ser domados para acostumbrarlos a soportar un jinete sobre el lomo.",
-          "Domador deficiente de caballos.",
-          "Aprendiz de domador de caballos.",
-          "Domador poco diestro de caballos."
+          "Aprendiz de domador de caballos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Aprendiz de domador de caballos"
+    "Aprendiz de domador de caballos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Apprentice horse trainer."
+  ],
   "source": "https://tesoro.pr"
 }

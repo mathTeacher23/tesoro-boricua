@@ -3,9 +3,12 @@
   "term": "ser de la bajura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser de la ciudad",
+      "consolidated_definition": "Ser de la ciudad, de la costa, del llano. Antónimo: ser de la altura.",
+      "en_consolidated_definition": "To be of the city, of the coast, of the plain. Antonym: to be of the height.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Ser de la ciudad"
+    "Ser de la ciudad, de la costa, del llano. Antónimo: ser de la altura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be of the city, of the coast, of the plain. Antonym: to be of the height."
+  ],
   "source": "https://tesoro.pr"
 }

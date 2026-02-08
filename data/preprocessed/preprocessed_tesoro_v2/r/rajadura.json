@@ -3,15 +3,18 @@
   "term": "rajadura",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Hendedura.",
+      "consolidated_definition": "Hendedura (en Colombia y otros territorios de América): abertura o corte en la superficie de algo.",
+      "en_consolidated_definition": "Gash (in Colombia and other territories of the Americas): an opening or cut in the surface of something.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9575",
-        "semantic_similarity_score": 0.9575,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4955",
+        "semantic_similarity_score": 0.4955,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Hendedura.",
+          "(T. en Col. y otros territorios de Am.). Hendedura.",
           "Hendedura."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Borrachera",
+      "consolidated_definition": "Borrachera. Sinónimo rasqueta, jienda, turca, jumeta, trompeta, rajeta, guayeta, guayadura.",
+      "en_consolidated_definition": "Binge drinking. Synonym for hangover, headache, morning after, the worst, pounding headache.\n\nNota: He mantenido el tono formal y académico de un diccionario, preservando la precisión y el contexto cultural específico de Puerto Rico en términos como \"jienda\" o \"guayeta\", que se traducen a \"hangover\" o \"morning after\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    ". Hendedura.",
-    "Borrachera"
+    "Hendedura (en Colombia y otros territorios de América): abertura o corte en la superficie de algo.",
+    "Borrachera. Sinónimo rasqueta, jienda, turca, jumeta, trompeta, rajeta, guayeta, guayadura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gash (in Colombia and other territories of the Americas): an opening or cut in the surface of something.",
+    "Binge drinking. Synonym for hangover, headache, morning after, the worst, pounding headache.\n\nNota: He mantenido el tono formal y académico de un diccionario, preservando la precisión y el contexto cultural específico de Puerto Rico en términos como \"jienda\" o \"guayeta\", que se traducen a \"hangover\" o \"morning after\"."
+  ],
   "source": "https://tesoro.pr"
 }

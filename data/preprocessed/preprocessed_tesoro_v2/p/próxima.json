@@ -3,15 +3,18 @@
   "term": "próxima",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La vaca a la que le falta poco",
+      "consolidated_definition": "Vaca preñada en etapa avanzada del embarazo, cercana al parto.",
+      "en_consolidated_definition": "Cow in an advanced stage of pregnancy, close to giving birth.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.9935",
         "semantic_similarity_score": 0.9935,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "La vaca a la que le falta poco"
+    "Vaca preñada en etapa avanzada del embarazo, cercana al parto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cow in an advanced stage of pregnancy, close to giving birth."
+  ],
   "source": "https://tesoro.pr"
 }

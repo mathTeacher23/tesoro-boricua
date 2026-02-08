@@ -3,15 +3,18 @@
   "term": "barraca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Depósito o almacén cubierto destinado a guardar materiales como madera, cueros y granos.",
+      "consolidated_definition": "Edificio en que se depositan cueros, lanas, maderas, cereales u otros efectos destinados al comercio.",
+      "en_consolidated_definition": "Warehouse or storage facility for goods intended for commerce, such as hides, furs, woods, grains, and other commodities.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5496",
-        "semantic_similarity_score": 0.5496,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,16 +47,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg., Bol., Chile, Méx. y Perú). Especie de corral grande para almacenar maderas, cueros, cereales u otros efectos. Ac.",
-          "El corral en que se almacenan trastos y maderos es designado con los términos de barraca y patio ...",
           "Edificio en que se depositan cueros, lanas, maderas, cereales u otros efectos destinados al comercio."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Tormentera: estructura pequeña de carácter provisional destinada a ofrecer protección durante tormentas o temporales.",
+      "consolidated_definition": "Tormentera: estructura pequeña de tipo caseta destinada a ofrecer protección durante tormentas o temporales.",
+      "en_consolidated_definition": "Storm Shelter: small structure of a type of shed designed to provide protection during storms or tempests.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -99,9 +103,12 @@
     }
   },
   "es_definitions": [
-    "Depósito o almacén cubierto destinado a guardar materiales como madera, cueros y granos.",
-    "Tormentera: estructura pequeña de carácter provisional destinada a ofrecer protección durante tormentas o temporales."
+    "Edificio en que se depositan cueros, lanas, maderas, cereales u otros efectos destinados al comercio.",
+    "Tormentera: estructura pequeña de tipo caseta destinada a ofrecer protección durante tormentas o temporales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Warehouse or storage facility for goods intended for commerce, such as hides, furs, woods, grains, and other commodities.",
+    "Storm Shelter: small structure of a type of shed designed to provide protection during storms or tempests."
+  ],
   "source": "https://tesoro.pr"
 }

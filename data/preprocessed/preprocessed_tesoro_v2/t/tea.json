@@ -3,14 +3,17 @@
   "term": "tea",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol de 25 a 30 pies de altura",
+      "consolidated_definition": "Cuabilla, arbusto.",
+      "en_consolidated_definition": "Cuabilla, shrub.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.3828",
-        "semantic_similarity_score": 0.3828,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -54,18 +57,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Árbol de 25 a 30 pies de altura, de madera aromática, fuerte, de color blanquecino; como es resinosa, la usan para hachones, en astillas. . Stahl, 4, 52.",
-          "Cuabilla.",
-          "Arbusto de madera aceitosa la cual se enciende con facilidad. De copa redonda y espesa y tronco fino que da flores pequeñas de color blanco. También llamado cuabilla. Hay una variedad llamada tea cimarrona, cuyo verdadero nombre es negra lora.",
-          "Amyris elemifera L. Árbol resinoso usado para alumbrarse por los indígenas y para otros fines; tea de yagua y resina, tabonuko.",
           "Cuabilla, arbusto."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Acho o jacho",
+      "consolidated_definition": "Acho o jacho.",
+      "en_consolidated_definition": "Acho or jacho.\n\nNota: Acho y jacho son términos coloquiales utilizados en Puerto Rico para referirse a un hombre o un varón, especialmente en contextos informales o regionales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -99,9 +101,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Muchacha joven",
+      "consolidated_definition": "Muchacha joven.",
+      "en_consolidated_definition": "Young girl \n\nNota: En este caso, la definición es bastante directa y no requiere una traducción más específica o culturalmente contextualizada. Sin embargo, si se tratara de un término con connotaciones culturales específicas de Puerto Rico, como \"muchacha\" en el contexto de la cultura puertorriqueña, podría ser necesario proporcionar una traducción más precisa y contextualizada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -136,10 +141,14 @@
     }
   },
   "es_definitions": [
-    "Árbol de 25 a 30 pies de altura",
-    "Acho o jacho",
-    "Muchacha joven"
+    "Cuabilla, arbusto.",
+    "Acho o jacho.",
+    "Muchacha joven."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cuabilla, shrub.",
+    "Acho or jacho.\n\nNota: Acho y jacho son términos coloquiales utilizados en Puerto Rico para referirse a un hombre o un varón, especialmente en contextos informales o regionales.",
+    "Young girl \n\nNota: En este caso, la definición es bastante directa y no requiere una traducción más específica o culturalmente contextualizada. Sin embargo, si se tratara de un término con connotaciones culturales específicas de Puerto Rico, como \"muchacha\" en el contexto de la cultura puertorriqueña, podría ser necesario proporcionar una traducción más precisa y contextualizada."
+  ],
   "source": "https://tesoro.pr"
 }

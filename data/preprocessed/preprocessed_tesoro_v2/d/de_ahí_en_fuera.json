@@ -3,9 +3,12 @@
   "term": "de ahí en fuera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salvo eso",
+      "consolidated_definition": "Salvo eso, aparte de eso.",
+      "en_consolidated_definition": "Apart from that, aside from that.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Salvo eso"
+    "Salvo eso, aparte de eso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Apart from that, aside from that."
+  ],
   "source": "https://tesoro.pr"
 }

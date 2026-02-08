@@ -3,9 +3,12 @@
   "term": "falca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fleje",
+      "consolidated_definition": "Fleje. Cinturón metálico que sujeta las duelas de un barril.",
+      "en_consolidated_definition": "Barricade band. A metal strap that secures the staves of a barrel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Fleje"
+    "Fleje. Cinturón metálico que sujeta las duelas de un barril."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Barricade band. A metal strap that secures the staves of a barrel."
+  ],
   "source": "https://tesoro.pr"
 }

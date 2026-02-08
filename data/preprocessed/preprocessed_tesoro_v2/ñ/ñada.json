@@ -3,9 +3,12 @@
   "term": "ñada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pequeña cantidad de mercancia",
+      "consolidated_definition": "Pequeña cantidad de mercancia.",
+      "en_consolidated_definition": "Small quantity of merchandise.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Pequeña cantidad de mercancia"
+    "Pequeña cantidad de mercancia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small quantity of merchandise."
+  ],
   "source": "https://tesoro.pr"
 }

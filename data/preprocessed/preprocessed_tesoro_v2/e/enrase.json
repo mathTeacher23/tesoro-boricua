@@ -3,9 +3,12 @@
   "term": "enrase",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Viga de la parte superior de una pared",
+      "consolidated_definition": "Viga de la parte superior de una pared.",
+      "en_consolidated_definition": "Upper beam of a wall's top portion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Viga de la parte superior de una pared"
+    "Viga de la parte superior de una pared."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Upper beam of a wall's top portion."
+  ],
   "source": "https://tesoro.pr"
 }

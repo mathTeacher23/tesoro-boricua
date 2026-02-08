@@ -3,9 +3,12 @@
   "term": "genuino, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bien bueno",
+      "consolidated_definition": "Bien bueno.",
+      "en_consolidated_definition": "Very good indeed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Bien bueno"
+    "Bien bueno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Very good indeed."
+  ],
   "source": "https://tesoro.pr"
 }

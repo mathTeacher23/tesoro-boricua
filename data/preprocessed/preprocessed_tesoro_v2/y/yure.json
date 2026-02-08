@@ -3,9 +3,12 @@
   "term": "yure",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En algunas poblaciones del sur de Puerto Rico",
+      "consolidated_definition": "En algunas poblaciones del sur de Puerto Rico significa ‘demonio’. También sapo yure.",
+      "en_consolidated_definition": "In some populations in southern Puerto Rico, it means 'devil'. Also known as sapo yure.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Jugo de yuca dulce",
+      "consolidated_definition": "Jugo de yuca dulce.",
+      "en_consolidated_definition": "Sweet yuca juice.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "En algunas poblaciones del sur de Puerto Rico",
-    "Jugo de yuca dulce"
+    "En algunas poblaciones del sur de Puerto Rico significa ‘demonio’. También sapo yure.",
+    "Jugo de yuca dulce."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In some populations in southern Puerto Rico, it means 'devil'. Also known as sapo yure.",
+    "Sweet yuca juice."
+  ],
   "source": "https://tesoro.pr"
 }

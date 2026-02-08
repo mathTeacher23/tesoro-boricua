@@ -3,9 +3,12 @@
   "term": "gorgojo de ñame",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gorgojo que ataca a las hojas del ñame",
+      "consolidated_definition": "Gorgojo que ataca a las hojas del ñame.",
+      "en_consolidated_definition": "Yam leaf beetle that attacks the leaves of yams.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gorgojo que ataca a las hojas del ñame"
+    "Gorgojo que ataca a las hojas del ñame."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Yam leaf beetle that attacks the leaves of yams."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "maricutana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el cultivo de la caña es una",
+      "consolidated_definition": "En el cultivo de la caña es una barra de hierro a la cual se le montan cuchillas, discos y bombos de banquear para hacer surcos.",
+      "en_consolidated_definition": "In the cultivation of sugarcane, it is a bar of iron to which cuchillas, discs, and banquear drums are mounted to make furrows.\n\nNota: \"cuchillas\" se refiere a herramientas afiladas utilizadas para cortar la caña de azúcar. \"Discos\" y \"bombo de banquear\" son términos relacionados con el proceso de banqueo, que es una técnica utilizada en la industria azucarera puertorriqueña.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En el cultivo de la caña es una"
+    "En el cultivo de la caña es una barra de hierro a la cual se le montan cuchillas, discos y bombos de banquear para hacer surcos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the cultivation of sugarcane, it is a bar of iron to which cuchillas, discs, and banquear drums are mounted to make furrows.\n\nNota: \"cuchillas\" se refiere a herramientas afiladas utilizadas para cortar la caña de azúcar. \"Discos\" y \"bombo de banquear\" son términos relacionados con el proceso de banqueo, que es una técnica utilizada en la industria azucarera puertorriqueña."
+  ],
   "source": "https://tesoro.pr"
 }

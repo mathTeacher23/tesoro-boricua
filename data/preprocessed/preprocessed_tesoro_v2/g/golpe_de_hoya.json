@@ -3,14 +3,17 @@
   "term": "golpe de hoya",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por el norte de la Isla",
+      "consolidated_definition": "En las peleas de gallos, golpe que causa una herida sangrienta grave en la parte carnosa del final del cuello.",
+      "en_consolidated_definition": "In the cockfighting arena, blow that causes a severe, bloody wound in the fleshy part of the back of the neck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6874",
-        "semantic_similarity_score": 0.6874,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -46,16 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Por el norte de la Isla, golpe que produce la herida sangrienta que recibe el gallo de pelea en la parte carnosa del final del cuello, donde se inicia la pechuga. También picada de hoya.",
-          "Herida grave que produce hemorragia externa localizada entre el nacimiento del cuello y del ala izquierda. Caguas.",
           "En las peleas de gallos, golpe que causa una herida sangrienta grave en la parte carnosa del final del cuello."
         ]
       }
     }
   },
   "es_definitions": [
-    "Por el norte de la Isla"
+    "En las peleas de gallos, golpe que causa una herida sangrienta grave en la parte carnosa del final del cuello."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the cockfighting arena, blow that causes a severe, bloody wound in the fleshy part of the back of the neck."
+  ],
   "source": "https://tesoro.pr"
 }

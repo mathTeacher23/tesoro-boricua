@@ -3,9 +3,12 @@
   "term": "sachey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacha de piedra",
+      "consolidated_definition": "Hacha de piedra, utilizada como arma ofensiva y defensiva.",
+      "en_consolidated_definition": "Stone axe, used as both an offensive and defensive weapon.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Hacha de piedra"
+    "Hacha de piedra, utilizada como arma ofensiva y defensiva."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Stone axe, used as both an offensive and defensive weapon."
+  ],
   "source": "https://tesoro.pr"
 }

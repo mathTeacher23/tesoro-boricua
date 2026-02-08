@@ -3,9 +3,12 @@
   "term": "mascota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En béisbol, el guante especial que usa el cacher. También llamado trocha.",
+      "en_consolidated_definition": "In baseball, the special glove used by the catcher, also known as a mitt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En béisbol"
+    "En béisbol, el guante especial que usa el cacher. También llamado trocha."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, the special glove used by the catcher, also known as a mitt."
+  ],
   "source": "https://tesoro.pr"
 }

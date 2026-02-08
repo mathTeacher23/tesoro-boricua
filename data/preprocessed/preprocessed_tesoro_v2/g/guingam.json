@@ -3,9 +3,12 @@
   "term": "guingam",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tela de algodón de estampado con cuadrículas blancas",
+      "consolidated_definition": "Tela de algodón de estampado con cuadrículas blancas y oscuras intercaladas.",
+      "en_consolidated_definition": "Cotton fabric with interwoven white and dark squares forming a grid pattern.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tela de algodón de estampado con cuadrículas blancas"
+    "Tela de algodón de estampado con cuadrículas blancas y oscuras intercaladas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cotton fabric with interwoven white and dark squares forming a grid pattern."
+  ],
   "source": "https://tesoro.pr"
 }

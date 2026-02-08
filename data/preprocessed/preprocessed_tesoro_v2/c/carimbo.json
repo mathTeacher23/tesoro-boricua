@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Las cuentas reales consisten en un objeto que sirve para identificar a los esclavos y se paga una cantidad fija de nueve pesos por cada uno.",
+      "en_consolidated_definition": "The slave counters consist of an object used to identify slaves and a fixed amount of nine pesos is paid for each one.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
         "num_cleaned_definitions": 9,
@@ -87,6 +90,8 @@
   "es_definitions": [
     "Las cuentas reales consisten en un objeto que sirve para identificar a los esclavos y se paga una cantidad fija de nueve pesos por cada uno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The slave counters consist of an object used to identify slaves and a fixed amount of nine pesos is paid for each one."
+  ],
   "source": "https://tesoro.pr"
 }

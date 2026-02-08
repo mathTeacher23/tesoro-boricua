@@ -3,14 +3,17 @@
   "term": "gallo de espuela",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llámase al gallo que corta mucho con sus",
+      "consolidated_definition": "En las peleas de gallos, animal que corta mucho con sus espuelas.",
+      "en_consolidated_definition": "In cockfights, animal that cuts much with its spurs.\n\nNota: En este contexto, \"gallos\" se refiere a los gallos de pelea, no al ave gallina.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.8433",
-        "semantic_similarity_score": 0.8433,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -46,16 +49,16 @@
           "gallo espuelero"
         ],
         "reference_definitions": [
-          "Llámase al gallo que corta mucho con sus espuelas.",
-          "El gallo que corta mucho con sus espuelas.",
           "En las peleas de gallos, animal que corta mucho con sus espuelas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Llámase al gallo que corta mucho con sus"
+    "En las peleas de gallos, animal que corta mucho con sus espuelas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In cockfights, animal that cuts much with its spurs.\n\nNota: En este contexto, \"gallos\" se refiere a los gallos de pelea, no al ave gallina."
+  ],
   "source": "https://tesoro.pr"
 }

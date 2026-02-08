@@ -3,9 +3,12 @@
   "term": "vómito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Algo desagradable",
+      "consolidated_definition": "Algo desagradable. Algo que impresiona.",
+      "en_consolidated_definition": "Something unpleasant. Something that makes an impression.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona muy fea",
+      "consolidated_definition": "Persona muy fea.",
+      "en_consolidated_definition": "Person extremely unattractive in appearance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Algo desagradable",
-    "Persona muy fea"
+    "Algo desagradable. Algo que impresiona.",
+    "Persona muy fea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Something unpleasant. Something that makes an impression.",
+    "Person extremely unattractive in appearance."
+  ],
   "source": "https://tesoro.pr"
 }

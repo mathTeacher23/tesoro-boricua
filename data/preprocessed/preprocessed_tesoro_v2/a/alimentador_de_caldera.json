@@ -3,15 +3,18 @@
   "term": "alimentador de caldera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que controla la entrada del bagazo a los hornos en un molino de azúcar.",
+      "consolidated_definition": "En el molino de azúcar, el que controla la entrada del bagazo a los hornos.",
+      "en_consolidated_definition": "The person responsible for controlling the entry of bagasse into the furnaces in a sugar mill.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona que controla la entrada del bagazo a los hornos en un molino de azúcar."
+    "En el molino de azúcar, el que controla la entrada del bagazo a los hornos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The person responsible for controlling the entry of bagasse into the furnaces in a sugar mill."
+  ],
   "source": "https://tesoro.pr"
 }

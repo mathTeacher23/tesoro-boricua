@@ -3,9 +3,12 @@
   "term": "tico-tico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Juego de niños",
+      "consolidated_definition": "Juego de niños. “Tico-tico, mandorico, quién te dio tamaño pico, etc.”",
+      "en_consolidated_definition": "Child's game. \"Tico-tico, mandorico, who gave you such a small size, etc.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Juego de niños"
+    "Juego de niños. “Tico-tico, mandorico, quién te dio tamaño pico, etc.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Child's game. \"Tico-tico, mandorico, who gave you such a small size, etc.\""
+  ],
   "source": "https://tesoro.pr"
 }

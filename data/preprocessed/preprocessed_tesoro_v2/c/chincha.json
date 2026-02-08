@@ -3,15 +3,18 @@
   "term": "chincha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El insecto hemíptero es un tipo de insecto que pertenece a la suborden Hemiptera, caracterizado por tener dos alas y una estructura corporal específica, incluyendo un cuerpo muy aplastado, casi elíptico, de color rojo oscuro, antenas cortas y cabeza inclinada hacia abajo.",
+      "consolidated_definition": "Insecto hemíptero, de hasta 5 mm de longitud, de cuerpo muy aplastado, casi elíptico, de color rojo oscuro, antenas cortas y cabeza inclinada hacia abajo. Cimicidae; Cymex spp.",
+      "en_consolidated_definition": "Hemipteran insect, up to 5 mm in length, with a very flattened body that is almost elliptical in shape, dark reddish color, short antennae, and a head inclined downwards. Family Cimicidae; genus Cymex spp.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4535",
-        "semantic_similarity_score": 0.4535,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -51,24 +54,23 @@
           "enchincharse"
         ],
         "reference_definitions": [
-          "Insecto hemíptero.",
-          "Chinche.",
-          "Chincheta.",
-          "Chinche, cierto insecto.",
           "Insecto hemíptero, de hasta 5 mm de longitud, de cuerpo muy aplastado, casi elíptico, de color rojo oscuro, antenas cortas y cabeza inclinada hacia abajo. Cimicidae; Cymex spp."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En la región de Ponce Chincha, \"culantrillo\" se refiere a Coriandrum sativum L., conocido también como culantro de España o culantro del monte.",
+      "consolidated_definition": "Además del insecto hemíptero, en la región de Ponce chincha es el nombre que recibe el culantrillo también conocido como culantro de España y culantro del monte (Coriandrum sativum L.).",
+      "en_consolidated_definition": "In addition to the hemipteran insect, in the Ponce chincha region, it is also known as culantro de España and culantro del monte (Coriandrum sativum L.), which is another name for the plant commonly referred to as culantrillo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -98,15 +100,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Persona que causa irritación o fastidio a los demás debido a su comportamiento o actitudes.",
+      "consolidated_definition": "Persona molestosa.",
+      "en_consolidated_definition": "Person annoyingly persistent or bothersome individual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -135,10 +140,14 @@
     }
   },
   "es_definitions": [
-    "El insecto hemíptero es un tipo de insecto que pertenece a la suborden Hemiptera, caracterizado por tener dos alas y una estructura corporal específica, incluyendo un cuerpo muy aplastado, casi elíptico, de color rojo oscuro, antenas cortas y cabeza inclinada hacia abajo.",
-    "En la región de Ponce Chincha, \"culantrillo\" se refiere a Coriandrum sativum L., conocido también como culantro de España o culantro del monte.",
-    "Persona que causa irritación o fastidio a los demás debido a su comportamiento o actitudes."
+    "Insecto hemíptero, de hasta 5 mm de longitud, de cuerpo muy aplastado, casi elíptico, de color rojo oscuro, antenas cortas y cabeza inclinada hacia abajo. Cimicidae; Cymex spp.",
+    "Además del insecto hemíptero, en la región de Ponce chincha es el nombre que recibe el culantrillo también conocido como culantro de España y culantro del monte (Coriandrum sativum L.).",
+    "Persona molestosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hemipteran insect, up to 5 mm in length, with a very flattened body that is almost elliptical in shape, dark reddish color, short antennae, and a head inclined downwards. Family Cimicidae; genus Cymex spp.",
+    "In addition to the hemipteran insect, in the Ponce chincha region, it is also known as culantro de España and culantro del monte (Coriandrum sativum L.), which is another name for the plant commonly referred to as culantrillo.",
+    "Person annoyingly persistent or bothersome individual."
+  ],
   "source": "https://tesoro.pr"
 }

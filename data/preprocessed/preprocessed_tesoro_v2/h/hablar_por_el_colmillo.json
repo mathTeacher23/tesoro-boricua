@@ -3,9 +3,12 @@
   "term": "hablar por el colmillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablar muy fino",
+      "consolidated_definition": "Hablar muy fino.",
+      "en_consolidated_definition": "Speak with excessive refinement or subtlety.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Hablar muy fino"
+    "Hablar muy fino."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Speak with excessive refinement or subtlety."
+  ],
   "source": "https://tesoro.pr"
 }

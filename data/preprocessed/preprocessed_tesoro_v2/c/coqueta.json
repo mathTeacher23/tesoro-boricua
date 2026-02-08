@@ -3,15 +3,18 @@
   "term": "coqueta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La flor de la coqueta se refiere a un tipo de flor que crece en el suelo y tiene una forma característica, con un tamaño grande, forma de embudo y color rojo, aunque existen variedades amarillas, rosas y anaranjadas.",
+      "consolidated_definition": "Flor de la coqueta, de gran tamaño, con forma de embudo y de color rojo, aunque existen variedades amarillas, rosas y anaranjadas.",
+      "en_consolidated_definition": "Flower of the coqueta, of large size, with a funnel-shaped form and red color, although yellow, pink, and orange varieties exist.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "El hibisco (Hibiscus rosa-sinensis) es un arbusto ornamental perenne de follaje tupido y hojas anchas, comúnmente utilizado como seto vivo en jardines y avenidas. Malvaceae, Hibiscus rosa-sinensis.",
+      "consolidated_definition": "Arbusto ornamental de follaje tupido y perenne, y de hoja ancha, que se emplea habitualmente como seto vivo en jardines y avenidas. Malvaceae, Hibiscus rosa sinensis.",
+      "en_consolidated_definition": "Evergreen shrub with dense foliage and broad leaves, commonly used as a living hedge in gardens and avenues. Malvaceae, Hibiscus rosa sinensis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "La flor de la coqueta se refiere a un tipo de flor que crece en el suelo y tiene una forma característica, con un tamaño grande, forma de embudo y color rojo, aunque existen variedades amarillas, rosas y anaranjadas.",
-    "El hibisco (Hibiscus rosa-sinensis) es un arbusto ornamental perenne de follaje tupido y hojas anchas, comúnmente utilizado como seto vivo en jardines y avenidas. Malvaceae, Hibiscus rosa-sinensis."
+    "Flor de la coqueta, de gran tamaño, con forma de embudo y de color rojo, aunque existen variedades amarillas, rosas y anaranjadas.",
+    "Arbusto ornamental de follaje tupido y perenne, y de hoja ancha, que se emplea habitualmente como seto vivo en jardines y avenidas. Malvaceae, Hibiscus rosa sinensis."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flower of the coqueta, of large size, with a funnel-shaped form and red color, although yellow, pink, and orange varieties exist.",
+    "Evergreen shrub with dense foliage and broad leaves, commonly used as a living hedge in gardens and avenues. Malvaceae, Hibiscus rosa sinensis."
+  ],
   "source": "https://tesoro.pr"
 }

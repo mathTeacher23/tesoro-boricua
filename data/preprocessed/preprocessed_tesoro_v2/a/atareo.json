@@ -3,15 +3,18 @@
   "term": "atareo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Trabajo continuo\": Actividad laboral que se desarrolla de manera ininterrumpida y prolongada en el tiempo.",
+      "consolidated_definition": "Trabajo continuo, ocupación constante.",
+      "en_consolidated_definition": "Continuous labor, constant occupation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.8085",
-        "semantic_similarity_score": 0.8085,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -51,17 +54,16 @@
           "atariado, da"
         ],
         "reference_definitions": [
-          ". Trabajo continuo, ocupación constante.",
-          "Trabajo continuo y sin descanso. Mucho trabajo.",
-          "Trabajo continuo.",
           "Trabajo continuo, ocupación constante."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Trabajo continuo\": Actividad laboral que se desarrolla de manera ininterrumpida y prolongada en el tiempo."
+    "Trabajo continuo, ocupación constante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Continuous labor, constant occupation."
+  ],
   "source": "https://tesoro.pr"
 }

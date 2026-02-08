@@ -3,15 +3,18 @@
   "term": "attachment",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Adjunto\": documento digitalizado o archivo que se añade a un correo electrónico u otro documento; usualmente se refiere a un archivo adjunto en el contexto del correo electrónico.",
+      "consolidated_definition": "Archivo que se envía a través del correo electrónico adjunto a un mensaje.",
+      "en_consolidated_definition": "Archivo adjunto enviado a través del correo electrónico como anexo de un mensaje.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5602",
-        "semantic_similarity_score": 0.5602,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,16 @@
           "attach"
         ],
         "reference_definitions": [
-          "inform. Anejo, adjunto. Documento digitalizado o archivo que se añade a un correo electrónico u otro documento. Anglicismo crudo, usual. Esa página no existe y en este e-mail hay un attachment ejecutable, o sea, el virus. Y como es de esperarse, penetra en Outlook y se riega como chisme usando su address book (Revista Portal, PR, 2005)",
           "Archivo que se envía a través del correo electrónico adjunto a un mensaje."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Adjunto\": documento digitalizado o archivo que se añade a un correo electrónico u otro documento; usualmente se refiere a un archivo adjunto en el contexto del correo electrónico."
+    "Archivo que se envía a través del correo electrónico adjunto a un mensaje."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Archivo adjunto enviado a través del correo electrónico como anexo de un mensaje."
+  ],
   "source": "https://tesoro.pr"
 }

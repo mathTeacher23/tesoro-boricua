@@ -3,9 +3,12 @@
   "term": "ojo vago",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ojo que tiene el párpado caído",
+      "consolidated_definition": "Ojo que tiene el párpado caído.",
+      "en_consolidated_definition": "Eyelid with the eyelid drooping.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ojo que tiene el párpado caído"
+    "Ojo que tiene el párpado caído."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Eyelid with the eyelid drooping."
+  ],
   "source": "https://tesoro.pr"
 }

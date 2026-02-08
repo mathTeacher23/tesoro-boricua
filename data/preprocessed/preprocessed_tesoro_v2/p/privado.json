@@ -3,9 +3,12 @@
   "term": "privado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo que ha perdido su instinto de pelea",
+      "consolidated_definition": "Gallo que ha perdido su instinto de pelea producto de un golpe en la cabeza. Caguas.",
+      "en_consolidated_definition": "Rooster that has lost its fighting instinct as a result of a head injury. Caguas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Gallo que ha perdido su instinto de pelea"
+    "Gallo que ha perdido su instinto de pelea producto de un golpe en la cabeza. Caguas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rooster that has lost its fighting instinct as a result of a head injury. Caguas."
+  ],
   "source": "https://tesoro.pr"
 }

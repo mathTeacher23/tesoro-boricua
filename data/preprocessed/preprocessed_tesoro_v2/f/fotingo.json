@@ -3,14 +3,17 @@
   "term": "fotingo",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Forito. “Aquel que ayer viajaba -por lujo en un chiringo -hoy viaja en su fotingo -y no da un paso a pie.” Pedro R. de Diego, .",
+      "consolidated_definition": "Automóvil viejo y destartalado.",
+      "en_consolidated_definition": "Old and dilapidated automobile.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6124",
-        "semantic_similarity_score": 0.6124,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,23 +47,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Forito. “Aquel que ayer viajaba -por lujo en un chiringo -hoy viaja en su fotingo -y no da un paso a pie.” Pedro R. de Diego, .",
-          ". Carro viejo y destartalado.",
-          "Automóvil pequeño y en mal estado. También cacharra, -o.",
           "Automóvil viejo y destartalado."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "fest",
+      "consolidated_definition": "\"Posaderas\": parte del cuerpo femenino correspondiente a las nalgas; fondillo o trasero.",
+      "en_consolidated_definition": "Gluteus: the female body part corresponding to the buttocks; rear end or posterior.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3435",
         "semantic_similarity_score": 0.3435,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -95,9 +98,12 @@
     }
   },
   "es_definitions": [
-    ". Forito. “Aquel que ayer viajaba -por lujo en un chiringo -hoy viaja en su fotingo -y no da un paso a pie.” Pedro R. de Diego, .",
-    "fest"
+    "Automóvil viejo y destartalado.",
+    "\"Posaderas\": parte del cuerpo femenino correspondiente a las nalgas; fondillo o trasero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Old and dilapidated automobile.",
+    "Gluteus: the female body part corresponding to the buttocks; rear end or posterior."
+  ],
   "source": "https://tesoro.pr"
 }

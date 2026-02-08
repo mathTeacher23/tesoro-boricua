@@ -3,15 +3,18 @@
   "term": "machetero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Machero",
+      "consolidated_definition": "Machero: Persona que se dedica a la caza o al manejo de animales salvajes.",
+      "en_consolidated_definition": "Wildlife handler or hunter.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3648",
         "semantic_similarity_score": 0.3648,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "adjetivo"
         ],
@@ -51,8 +54,10 @@
     }
   },
   "es_definitions": [
-    "Machero"
+    "Machero: Persona que se dedica a la caza o al manejo de animales salvajes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wildlife handler or hunter."
+  ],
   "source": "https://tesoro.pr"
 }

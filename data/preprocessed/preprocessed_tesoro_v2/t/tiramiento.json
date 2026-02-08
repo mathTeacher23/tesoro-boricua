@@ -3,9 +3,12 @@
   "term": "tiramiento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Condición de descuido en el vestido",
+      "consolidated_definition": "Condición de descuido en el vestido. Dejadez.",
+      "en_consolidated_definition": "State of neglect in attire; slovenliness.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Condición de descuido en el vestido"
+    "Condición de descuido en el vestido. Dejadez."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "State of neglect in attire; slovenliness."
+  ],
   "source": "https://tesoro.pr"
 }

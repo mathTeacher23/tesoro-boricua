@@ -3,15 +3,18 @@
   "term": "baby sitter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Niñera: Persona que cuida y supervisa a los niños en un hogar o establecimiento.",
+      "consolidated_definition": "Mujer que cuida niños, especialmente en ausencia de los padres.",
+      "en_consolidated_definition": "Mother who cares for children, especially in the absence of their parents.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4172",
-        "semantic_similarity_score": 0.4172,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -53,17 +56,16 @@
           "baby sitting"
         ],
         "reference_definitions": [
-          "Niñera.",
-          "Niñera.",
-          "Niñera. Persona contratada para cuidar niños por unas horas en ausencia de los padres, generalmente una muchacha. Anglicismo crudo, usual. DRAE 2001, voz inglesa. Para pagarse los estudios seguía trabajando: fue tutora y baby sitter de los hijos de los miembros de la facultad, anfitriona en las mesas del comedor, “fregatriz” como decía ella, tutora de otros estudiantes, ayudante en la oficina, ayudante en la granja avícola, lo que viniera",
           "Mujer que cuida niños, especialmente en ausencia de los padres."
         ]
       }
     }
   },
   "es_definitions": [
-    "Niñera: Persona que cuida y supervisa a los niños en un hogar o establecimiento."
+    "Mujer que cuida niños, especialmente en ausencia de los padres."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mother who cares for children, especially in the absence of their parents."
+  ],
   "source": "https://tesoro.pr"
 }

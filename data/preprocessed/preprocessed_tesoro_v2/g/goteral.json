@@ -3,9 +3,12 @@
   "term": "goteral",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto",
+      "consolidated_definition": "Conjunto, abundancia de goteras en un techo. Conjunto de goteras.",
+      "en_consolidated_definition": "Aplique de gotas, abundancia de goteras en un techo; conjunto de goteras.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Conjunto"
+    "Conjunto, abundancia de goteras en un techo. Conjunto de goteras."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Aplique de gotas, abundancia de goteras en un techo; conjunto de goteras."
+  ],
   "source": "https://tesoro.pr"
 }

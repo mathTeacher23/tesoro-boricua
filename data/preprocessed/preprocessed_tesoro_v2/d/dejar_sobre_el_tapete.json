@@ -3,9 +3,12 @@
   "term": "dejar sobre el tapete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dejar pendiente",
+      "consolidated_definition": "Dejar pendiente.",
+      "en_consolidated_definition": "To leave pending.\n\nNota: Esta palabra puede referirse a dejar una tarea o asunto sin resolver o completar en un momento determinado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Dejar pendiente"
+    "Dejar pendiente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To leave pending.\n\nNota: Esta palabra puede referirse a dejar una tarea o asunto sin resolver o completar en un momento determinado."
+  ],
   "source": "https://tesoro.pr"
 }

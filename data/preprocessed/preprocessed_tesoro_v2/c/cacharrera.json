@@ -3,15 +3,18 @@
   "term": "cacharrera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de recipientes y utensilios destinados a la preparación y presentación de alimentos en la cocina.",
+      "consolidated_definition": "Conjunto de vasijas y utensilios que se emplean en la cocina para preparación y servicio de las comidas.",
+      "en_consolidated_definition": "Set of vessels and utensils used in the kitchen for food preparation and service.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2435",
-        "semantic_similarity_score": 0.2435,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -38,15 +41,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Conjunto de vasijas y utensilios que se emplean en la cocina para preparación y servicio de las comidas.",
-          "Montón de trastos viejos, trastería."
+          "Conjunto de vasijas y utensilios que se emplean en la cocina para preparación y servicio de las comidas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Conjunto de recipientes y utensilios destinados a la preparación y presentación de alimentos en la cocina."
+    "Conjunto de vasijas y utensilios que se emplean en la cocina para preparación y servicio de las comidas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Set of vessels and utensils used in the kitchen for food preparation and service."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "miami",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Servicio sanitario",
+      "consolidated_definition": "Servicio sanitario.",
+      "en_consolidated_definition": "Healthcare service \n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a la persiana",
+      "consolidated_definition": "Referido a la persiana, de tablillas fijas.",
+      "en_consolidated_definition": "Referido a la persiana, de tablillas fijas.\n\nTranslation:\nReferring to the shutter, of fixed slats.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,9 +83,12 @@
     }
   },
   "es_definitions": [
-    "Servicio sanitario",
-    "Referido a la persiana"
+    "Servicio sanitario.",
+    "Referido a la persiana, de tablillas fijas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Healthcare service \n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Referido a la persiana, de tablillas fijas.\n\nTranslation:\nReferring to the shutter, of fixed slats."
+  ],
   "source": "https://tesoro.pr"
 }

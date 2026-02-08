@@ -3,15 +3,18 @@
   "term": "causa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad.",
+      "consolidated_definition": "Achaque.",
+      "en_consolidated_definition": "Chronic complaint or ailment.\n\nNota: En este contexto, \"achaque\" se refiere a una condición o síntoma crónico que afecta a una persona, similar a un trastorno o enfermedad subyacente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.2895",
-        "semantic_similarity_score": 0.2895,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -51,19 +54,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Enfermedad.",
-          "Síndrome.",
-          "Enfermedad.",
-          "Hechizo.",
-          "Nuestro hombre de campo se ha referido siempre a sus padecimientos y dolencias con palabras de mención general como enfelmeá (enfermedad), dolama, causa, mal y también con la formación criolla malitú.",
           "Achaque."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enfermedad."
+    "Achaque."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Chronic complaint or ailment.\n\nNota: En este contexto, \"achaque\" se refiere a una condición o síntoma crónico que afecta a una persona, similar a un trastorno o enfermedad subyacente."
+  ],
   "source": "https://tesoro.pr"
 }

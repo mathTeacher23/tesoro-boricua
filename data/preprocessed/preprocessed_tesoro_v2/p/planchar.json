@@ -3,15 +3,18 @@
   "term": "planchar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "fig",
+      "consolidated_definition": "\"Figar\": expresión coloquial que significa adular o halagar a alguien.",
+      "en_consolidated_definition": "Flatter; to fawn over someone.\n\nNote: This term is a colloquial expression in Puerto Rican Spanish that refers to the act of flattering or praising someone excessively.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.3061",
-        "semantic_similarity_score": 0.3061,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.3164",
+        "semantic_similarity_score": 0.3164,
+        "cluster_count": 4,
         "grammar": [
           "verbo transitivo"
         ],
@@ -45,7 +48,7 @@
           "planchón, na"
         ],
         "reference_definitions": [
-          "fig. Adular. .",
+          "fig. Adular. (Igual en And., Alcalá).",
           "Adular. Mimar.",
           "Terminar nítidamente un trabajo.",
           "Acción de frustrar a uno."
@@ -53,9 +56,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En béisbol, batear cortamente.",
+      "en_consolidated_definition": "To hit a ball briefly in baseball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -91,9 +97,12 @@
     }
   },
   "es_definitions": [
-    "fig",
-    "En béisbol"
+    "\"Figar\": expresión coloquial que significa adular o halagar a alguien.",
+    "En béisbol, batear cortamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flatter; to fawn over someone.\n\nNote: This term is a colloquial expression in Puerto Rican Spanish that refers to the act of flattering or praising someone excessively.",
+    "To hit a ball briefly in baseball."
+  ],
   "source": "https://tesoro.pr"
 }

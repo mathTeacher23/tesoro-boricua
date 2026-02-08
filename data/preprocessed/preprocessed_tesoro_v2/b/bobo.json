@@ -3,15 +3,18 @@
   "term": "bobo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Chupón o chupete de infantes.",
+      "consolidated_definition": "Chupete.",
+      "en_consolidated_definition": "Paciencia.\n\nNota: La palabra \"chupete\" se refiere a un objeto que los bebés suelen mamar en lugar de el pecho materno.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5282",
-        "semantic_similarity_score": 0.5282,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -56,18 +59,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Chupador o pieza redondeada de marfil, pasta, caucho, etc., que se da a los niños en la época de la primera dentición para que chupen y refresquen la boca. “Pero siempre con su bobo dentro de la boquita sonrosada.” Martínez Roselló, , p. 34.",
-          "(general) Chupador de niño.",
-          "Chupón para tranquilizar a los niños.",
-          "Chupete de infantes.",
           "Chupete."
         ]
       }
     },
     "2": {
       "consolidated_definition": "\"Mona\": juego de naipes cuyo objeto es dejar a uno de los jugadores con el as de oros sin otros ases. Se llama tonto en Colombia, Costa Rica y Chile. Ac.",
+      "en_consolidated_definition": "\"Mona\": a card game whose objective is to leave one of the players with the ace of gold without other aces. It is also known as \"tonto\" in Colombia, Costa Rica, and Chile.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -107,15 +109,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "El Joturus pischardi (pez de río) es un pez fusiforme que alcanza hasta 60 cm de longitud, con coloración variable desde el gris oscuro del lomo hasta el blanco amarillento del abdomen y el negro de las escamas, y cuya carne blanca es comestible.",
+      "consolidated_definition": "Pez de río, de hasta 60 cm de longitud, de cuerpo fusiforme y aletas radiadas, con coloración variable desde el gris oscuro del lomo hasta el blanco amarillento del abdomen y el negro de las escamas; su carne blanca es comestible. Mugilidae Joturus pischardi.",
+      "en_consolidated_definition": "Freshwater fish, reaching up to 24 inches in length, with a fusiform body and radiated fins, featuring variable coloration ranging from dark grey on the back to yellowish white on the abdomen and black scales; its white flesh is edible. Mugilidae Joturus pischardi.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -146,10 +151,14 @@
     }
   },
   "es_definitions": [
-    "Chupón o chupete de infantes.",
+    "Chupete.",
     "\"Mona\": juego de naipes cuyo objeto es dejar a uno de los jugadores con el as de oros sin otros ases. Se llama tonto en Colombia, Costa Rica y Chile. Ac.",
-    "El Joturus pischardi (pez de río) es un pez fusiforme que alcanza hasta 60 cm de longitud, con coloración variable desde el gris oscuro del lomo hasta el blanco amarillento del abdomen y el negro de las escamas, y cuya carne blanca es comestible."
+    "Pez de río, de hasta 60 cm de longitud, de cuerpo fusiforme y aletas radiadas, con coloración variable desde el gris oscuro del lomo hasta el blanco amarillento del abdomen y el negro de las escamas; su carne blanca es comestible. Mugilidae Joturus pischardi."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Paciencia.\n\nNota: La palabra \"chupete\" se refiere a un objeto que los bebés suelen mamar en lugar de el pecho materno.",
+    "\"Mona\": a card game whose objective is to leave one of the players with the ace of gold without other aces. It is also known as \"tonto\" in Colombia, Costa Rica, and Chile.",
+    "Freshwater fish, reaching up to 24 inches in length, with a fusiform body and radiated fins, featuring variable coloration ranging from dark grey on the back to yellowish white on the abdomen and black scales; its white flesh is edible. Mugilidae Joturus pischardi."
+  ],
   "source": "https://tesoro.pr"
 }

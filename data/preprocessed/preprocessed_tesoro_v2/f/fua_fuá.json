@@ -3,9 +3,12 @@
   "term": "fua fuá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver fua",
+      "consolidated_definition": "Ver fua .",
+      "en_consolidated_definition": "Ver fua.\n\nTranslation:\nSee face.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver fua"
+    "Ver fua ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ver fua.\n\nTranslation:\nSee face."
+  ],
   "source": "https://tesoro.pr"
 }

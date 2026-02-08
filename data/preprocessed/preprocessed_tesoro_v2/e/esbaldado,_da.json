@@ -3,9 +3,12 @@
   "term": "esbaldado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de la persona con impedimento óseo",
+      "consolidated_definition": "Se dice de la persona con impedimento óseo o muscular en la cintura o en la cadera.",
+      "en_consolidated_definition": "Person with osseous or muscular impairment in the waist or hip region.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Se dice de la persona con impedimento óseo"
+    "Se dice de la persona con impedimento óseo o muscular en la cintura o en la cadera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person with osseous or muscular impairment in the waist or hip region."
+  ],
   "source": "https://tesoro.pr"
 }

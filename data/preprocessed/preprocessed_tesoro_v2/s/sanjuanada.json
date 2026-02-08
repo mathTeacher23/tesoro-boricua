@@ -3,9 +3,12 @@
   "term": "sanjuanada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fiesta en la playa",
+      "consolidated_definition": "Fiesta en la playa, de noche, en el día de San Juan Bautista.",
+      "en_consolidated_definition": "Nighttime beach party on the day of Saint John the Baptist.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Fiesta en la playa"
+    "Fiesta en la playa, de noche, en el día de San Juan Bautista."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Nighttime beach party on the day of Saint John the Baptist."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tableteazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Anaquel de armario",
+      "consolidated_definition": "Anaquel de armario.",
+      "en_consolidated_definition": "Shelf of a closet or wardrobe.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Matrícula de vehículo y chapa de metal que",
+      "consolidated_definition": "Matrícula de vehículo y chapa de metal que la exhibe.",
+      "en_consolidated_definition": "Vehicle registration plate and metal tag that displays it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Anaquel de armario",
-    "Matrícula de vehículo y chapa de metal que"
+    "Anaquel de armario.",
+    "Matrícula de vehículo y chapa de metal que la exhibe."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Shelf of a closet or wardrobe.",
+    "Vehicle registration plate and metal tag that displays it."
+  ],
   "source": "https://tesoro.pr"
 }

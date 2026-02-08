@@ -3,9 +3,12 @@
   "term": "jiguilete de cosas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Entre campesinos",
+      "consolidated_definition": "Entre campesinos, un montón de cosas.",
+      "en_consolidated_definition": "A heap of things among peasants.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Entre campesinos"
+    "Entre campesinos, un montón de cosas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A heap of things among peasants."
+  ],
   "source": "https://tesoro.pr"
 }

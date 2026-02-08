@@ -3,9 +3,12 @@
   "term": "fecundizar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por fecundar",
+      "consolidated_definition": "Por fecundar.",
+      "en_consolidated_definition": "To fertilize or become fertile.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Por fecundar"
+    "Por fecundar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To fertilize or become fertile."
+  ],
   "source": "https://tesoro.pr"
 }

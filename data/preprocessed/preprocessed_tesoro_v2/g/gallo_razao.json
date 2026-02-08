@@ -3,9 +3,12 @@
   "term": "gallo razao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las peleas de gallos",
+      "consolidated_definition": "En las peleas de gallos, animal de raza que corta bien con la espuela.",
+      "en_consolidated_definition": "In cockfights, a breed of bird that cuts well with the spur.\n\nNota: En este contexto, \"gallos\" se refiere a los gallos de pelea, y \"espuela\" es una herramienta utilizada en las peleas para causar daño al ave.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En las peleas de gallos"
+    "En las peleas de gallos, animal de raza que corta bien con la espuela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In cockfights, a breed of bird that cuts well with the spur.\n\nNota: En este contexto, \"gallos\" se refiere a los gallos de pelea, y \"espuela\" es una herramienta utilizada en las peleas para causar daño al ave."
+  ],
   "source": "https://tesoro.pr"
 }

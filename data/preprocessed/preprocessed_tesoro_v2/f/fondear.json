@@ -3,15 +3,18 @@
   "term": "fondear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tirar el ancla en un sitio",
+      "consolidated_definition": "Tirada del ancla: acción de lanzar la ancla al agua para fijar la posición de un barco o embarcación.",
+      "en_consolidated_definition": "Anchoring: the act of throwing the anchor into the water to secure a boat or vessel's position.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4301",
         "semantic_similarity_score": 0.4301,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -46,14 +49,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Capacidad del gallo de pelear agresiva y sostenidamente",
+      "consolidated_definition": "En las peleas de gallos, pelear un gallo agresiva y sostenidamente durante todo el encuentro.",
+      "en_consolidated_definition": "To fight a cock aggressively and consistently throughout the match in cockfighting.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7769",
-        "semantic_similarity_score": 0.7769,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
@@ -83,16 +89,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Capacidad del gallo de pelear agresiva y sostenidamente sin atisbo de flaqueza durante todo el enfrentamiento con su rival. Un gallo con buen entrenamiento debe estar preparado para el momento de fondear, cuando la pelea entra en su punto más álgido, de modo que no pierda fuerzas. Caguas.",
           "En las peleas de gallos, pelear un gallo agresiva y sostenidamente durante todo el encuentro."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tirar el ancla en un sitio",
-    "Capacidad del gallo de pelear agresiva y sostenidamente"
+    "Tirada del ancla: acción de lanzar la ancla al agua para fijar la posición de un barco o embarcación.",
+    "En las peleas de gallos, pelear un gallo agresiva y sostenidamente durante todo el encuentro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Anchoring: the act of throwing the anchor into the water to secure a boat or vessel's position.",
+    "To fight a cock aggressively and consistently throughout the match in cockfighting."
+  ],
   "source": "https://tesoro.pr"
 }

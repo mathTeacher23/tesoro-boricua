@@ -3,9 +3,12 @@
   "term": "se acabó el evento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Todo terminó",
+      "consolidated_definition": "Todo terminó, ya podemos irnos.",
+      "en_consolidated_definition": "Todo ha terminado, podemos retirarnos ahora.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Todo terminó"
+    "Todo terminó, ya podemos irnos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Todo ha terminado, podemos retirarnos ahora."
+  ],
   "source": "https://tesoro.pr"
 }

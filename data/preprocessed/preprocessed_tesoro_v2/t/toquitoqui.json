@@ -3,9 +3,12 @@
   "term": "toquitoqui",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Habladuría",
+      "consolidated_definition": "Habladuría; palique.",
+      "en_consolidated_definition": "Small talk; idle chatter.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Habladuría"
+    "Habladuría; palique."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small talk; idle chatter."
+  ],
   "source": "https://tesoro.pr"
 }

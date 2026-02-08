@@ -3,9 +3,12 @@
   "term": "rock & roll",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver rock and roll",
+      "consolidated_definition": "Ver rock and roll .",
+      "en_consolidated_definition": "See rock and roll.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver rock and roll"
+    "Ver rock and roll ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See rock and roll."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "ubicar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Colocar a alguien en un empleo",
+      "consolidated_definition": "Colocar a alguien en un empleo, cargo o posición en una clasificación.",
+      "en_consolidated_definition": "Assign or place someone in a position or classification within a hierarchy or ranking system.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7593",
-        "semantic_similarity_score": 0.7593,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -37,15 +40,16 @@
           "ubicarse"
         ],
         "reference_definitions": [
-          "Colocar a alguien en un empleo, cargo o posición en una clasificación.",
-          "Colocar a alguien o algo en un lugar o puesto."
+          "Colocar a alguien en un empleo, cargo o posición en una clasificación."
         ]
       }
     }
   },
   "es_definitions": [
-    "Colocar a alguien en un empleo"
+    "Colocar a alguien en un empleo, cargo o posición en una clasificación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Assign or place someone in a position or classification within a hierarchy or ranking system."
+  ],
   "source": "https://tesoro.pr"
 }

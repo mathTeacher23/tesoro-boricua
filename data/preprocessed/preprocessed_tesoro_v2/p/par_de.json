@@ -3,9 +3,12 @@
   "term": "par de",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muy",
+      "consolidated_definition": "Muy, mucho. El trámite de traspaso del carro está par de complicado, no importa con cuantos documentos llegues a la oficina, siempre te van a pedir uno más.",
+      "en_consolidated_definition": "Extremely, very much so. The process of transferring the vehicle is quite complicated, regardless of how many documents you bring to the office, they will always ask for one more.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Muy"
+    "Muy, mucho. El trámite de traspaso del carro está par de complicado, no importa con cuantos documentos llegues a la oficina, siempre te van a pedir uno más."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extremely, very much so. The process of transferring the vehicle is quite complicated, regardless of how many documents you bring to the office, they will always ask for one more."
+  ],
   "source": "https://tesoro.pr"
 }

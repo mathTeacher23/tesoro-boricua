@@ -3,15 +3,18 @@
   "term": "dar mico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Práctica de consumir bienes o servicios sin realizar el pago correspondiente.",
+      "consolidated_definition": "Consumir algo alguien y no pagar.",
+      "en_consolidated_definition": "To consume something from someone without paying for it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5903",
-        "semantic_similarity_score": 0.5903,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -42,17 +45,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Consumir y no pagar.",
-          "Dícese cuando un hombre se sirve de una prostituta y no le paga.",
-          "Voz usada por estudiantes. No estudiar para luego copiarse en un examen.",
           "Consumir algo alguien y no pagar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Práctica de consumir bienes o servicios sin realizar el pago correspondiente."
+    "Consumir algo alguien y no pagar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To consume something from someone without paying for it."
+  ],
   "source": "https://tesoro.pr"
 }

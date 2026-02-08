@@ -3,14 +3,17 @@
   "term": "money order",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Giro postal",
+      "consolidated_definition": "Giro postal.",
+      "en_consolidated_definition": "Postal turn or postal rotation \n\nNota: En algunos contextos, \"giro postal\" puede referirse a un cambio en el servicio de correos o en la ruta de entrega de cartas y paquetes en Puerto Rico. Sin embargo, la traducción más generalizada es \"postal turn\" o \"postal rotation\", que se refiere al cambio periódico en la responsabilidad de realizar tareas relacionadas con el correo postal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.725",
-        "semantic_similarity_score": 0.725,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -54,19 +57,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Giro postal.",
-          "Giro postal.",
-          "Giro.",
-          "Giro .",
-          "Giro. Orden de pago de una cantidad específica de dinero comprada en una entidad bancaria o en el correo. Anglicismo crudo, frecuente. El concurso se da mediante llamadas a la zar a los supuestos ganadores del mismo en la que se le solicita una cantidad de $300 dólares que deben ser enviados en un money order",
           "Giro postal."
         ]
       }
     }
   },
   "es_definitions": [
-    "Giro postal"
+    "Giro postal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Postal turn or postal rotation \n\nNota: En algunos contextos, \"giro postal\" puede referirse a un cambio en el servicio de correos o en la ruta de entrega de cartas y paquetes en Puerto Rico. Sin embargo, la traducción más generalizada es \"postal turn\" o \"postal rotation\", que se refiere al cambio periódico en la responsabilidad de realizar tareas relacionadas con el correo postal."
+  ],
   "source": "https://tesoro.pr"
 }

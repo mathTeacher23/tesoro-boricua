@@ -3,9 +3,12 @@
   "term": "miura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muchacha o mujer bonita",
+      "consolidated_definition": "Muchacha o mujer bonita.",
+      "en_consolidated_definition": "Young woman or attractive female.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Muchacha o mujer bonita"
+    "Muchacha o mujer bonita."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Young woman or attractive female."
+  ],
   "source": "https://tesoro.pr"
 }

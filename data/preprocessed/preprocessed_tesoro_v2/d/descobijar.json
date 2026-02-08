@@ -3,9 +3,12 @@
   "term": "descobijar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Destechar",
+      "consolidated_definition": "Destechar. Quitar el techo a una casa. El ciclón me descobijó la casa.",
+      "en_consolidated_definition": "Remove the roof from a house. The hurricane stripped my house of its roofing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Destechar"
+    "Destechar. Quitar el techo a una casa. El ciclón me descobijó la casa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Remove the roof from a house. The hurricane stripped my house of its roofing."
+  ],
   "source": "https://tesoro.pr"
 }

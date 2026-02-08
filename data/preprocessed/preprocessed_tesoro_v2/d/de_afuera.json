@@ -3,9 +3,12 @@
   "term": "de afuera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver de afuerita 1",
+      "consolidated_definition": "Ver de afuerita 1 .",
+      "en_consolidated_definition": "View from the outside in.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,9 +28,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a un producto",
+      "consolidated_definition": "Referido a un producto, que procede del extranjero.",
+      "en_consolidated_definition": "Foreign-origin product.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -60,9 +66,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Sin tomarse algo en serio",
+      "consolidated_definition": "Sin tomarse algo en serio, superficialmente.",
+      "en_consolidated_definition": "To take something lightly, superficially.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -96,10 +105,14 @@
     }
   },
   "es_definitions": [
-    "Ver de afuerita 1",
-    "Referido a un producto",
-    "Sin tomarse algo en serio"
+    "Ver de afuerita 1 .",
+    "Referido a un producto, que procede del extranjero.",
+    "Sin tomarse algo en serio, superficialmente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "View from the outside in.",
+    "Foreign-origin product.",
+    "To take something lightly, superficially.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

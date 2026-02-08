@@ -3,9 +3,12 @@
   "term": "saqueta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bolsa de papel",
+      "consolidated_definition": "Bolsa de papel.",
+      "en_consolidated_definition": "Paper envelope or packet.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bolsa de papel"
+    "Bolsa de papel."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Paper envelope or packet."
+  ],
   "source": "https://tesoro.pr"
 }

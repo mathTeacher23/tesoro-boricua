@@ -3,14 +3,17 @@
   "term": "tener mala barriga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tener un antojo la mujer embarazada",
+      "consolidated_definition": "Sufrir de las molestias estomacales propias de la primera etapa del embarazo.",
+      "en_consolidated_definition": "To experience stomach discomfort characteristic of the early stages of pregnancy.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2000",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4579",
-        "semantic_similarity_score": 0.4579,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución verbal"
@@ -40,15 +43,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tener un antojo la mujer embarazada.",
           "Sufrir de las molestias estomacales propias de la primera etapa del embarazo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tener un antojo la mujer embarazada"
+    "Sufrir de las molestias estomacales propias de la primera etapa del embarazo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To experience stomach discomfort characteristic of the early stages of pregnancy."
+  ],
   "source": "https://tesoro.pr"
 }

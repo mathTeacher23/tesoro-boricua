@@ -3,14 +3,17 @@
   "term": "jardinero izquierdo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "En el beisbol, jugador que defiende el jardín izquierdo del campo.",
+      "en_consolidated_definition": "Left fielder: a baseball player who defends the left field of the outfield.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5942",
-        "semantic_similarity_score": 0.5942,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de béisbol, el que defiende la posición izquierda más allá del cuadro interior. Calco de estructura, frecuente. El lanzador de los Samaritanos, Gamalier Alejandro, propinó tres ceros consecutivos, pero se metió en problemas cuando, en la parte baja de la sexta entrada, luego de uno retirado, Nicolás Ramos se embasó y se apoderó de la segunda base por error del jardinero izquierdo de San Lorenzo, Iván Trujillo, quien dejó caer la pelota de su guante en aparente problema de comunicación con su compañero, jardinero central, Omar Hernández",
           "En el beisbol, jugador que defiende el jardín izquierdo del campo."
         ]
       }
     }
   },
   "es_definitions": [
-    "dep"
+    "En el beisbol, jugador que defiende el jardín izquierdo del campo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Left fielder: a baseball player who defends the left field of the outfield."
+  ],
   "source": "https://tesoro.pr"
 }

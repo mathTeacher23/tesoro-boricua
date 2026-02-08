@@ -3,14 +3,17 @@
   "term": "tumor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inflamación o crecimiento",
+      "consolidated_definition": "Ántrax.",
+      "en_consolidated_definition": "Anthrax.\n\nNota: En algunos contextos, especialmente en Puerto Rico, puede referirse a una enfermedad infecciosa causada por el hongo Bacillus anthracis, pero también se utiliza como nombre de un grupo musical estadounidense conocido por su estilo de heavy metal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4387",
-        "semantic_similarity_score": 0.4387,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,21 +47,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Inflamación o crecimiento.",
-          "Antrax. También nacido.",
           "Ántrax."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Brotes constantes de agua en los terrenos muy, relacionado con una calificación",
+      "consolidated_definition": "Brotes de agua constantes en terrenos muy húmedos.",
+      "en_consolidated_definition": "Constant water sprouts in very humid terrain.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6814",
-        "semantic_similarity_score": 0.6814,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -87,16 +91,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Brotes constantes de agua en los terrenos muy húmedos. La denominación tumores trae una connotación negativa ya que “el terreno con tumores es un poyal y no es terreno aprovechable para la agricultura”. La comparación se establece entre el crecimiento desordenado y excesivo de una parte de las células de un órgano o tejido y el brote excesivo y dañino del agua.",
           "Brotes de agua constantes en terrenos muy húmedos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Inflamación o crecimiento",
-    "Brotes constantes de agua en los terrenos muy, relacionado con una calificación"
+    "Ántrax.",
+    "Brotes de agua constantes en terrenos muy húmedos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Anthrax.\n\nNota: En algunos contextos, especialmente en Puerto Rico, puede referirse a una enfermedad infecciosa causada por el hongo Bacillus anthracis, pero también se utiliza como nombre de un grupo musical estadounidense conocido por su estilo de heavy metal.",
+    "Constant water sprouts in very humid terrain."
+  ],
   "source": "https://tesoro.pr"
 }

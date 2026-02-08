@@ -3,9 +3,12 @@
   "term": "sport shirt",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camisa cómoda y sencilla",
+      "consolidated_definition": "Camisa cómoda y sencilla.",
+      "en_consolidated_definition": "Comfortable and simple shirt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Camisa cómoda y sencilla"
+    "Camisa cómoda y sencilla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Comfortable and simple shirt."
+  ],
   "source": "https://tesoro.pr"
 }

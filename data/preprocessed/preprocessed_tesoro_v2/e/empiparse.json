@@ -3,14 +3,17 @@
   "term": "empiparse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hartarse",
+      "consolidated_definition": "Ingerir alimentos o bebidas en exceso.",
+      "en_consolidated_definition": "To consume excessive amounts of food or drink.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.379",
-        "semantic_similarity_score": 0.379,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo pronominal"
@@ -57,20 +60,16 @@
           "empipada"
         ],
         "reference_definitions": [
-          "Hartarse, comer o beber en exceso, llenarse la barriga como quien llena una pipa; empajarse; apimparse.",
-          "Apiparse. Ahitarse.",
-          "Ponerse flatulento por haber comido en demasía.",
-          "Hartarse.",
-          ". Chile, Ecuad., Perú y P. Rico. Apiparse, ahitarse.",
-          "Ingerir alimentos o bebidas en exceso.",
-          "Ponerse alguien flatulento por haber comido en exceso."
+          "Ingerir alimentos o bebidas en exceso."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hartarse"
+    "Ingerir alimentos o bebidas en exceso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To consume excessive amounts of food or drink."
+  ],
   "source": "https://tesoro.pr"
 }

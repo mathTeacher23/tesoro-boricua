@@ -3,9 +3,12 @@
   "term": "nítido clean",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Es lo último en buena calidad",
+      "consolidated_definition": "Es lo último en buena calidad.",
+      "en_consolidated_definition": "The latest in good quality.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Es lo último en buena calidad"
+    "Es lo último en buena calidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The latest in good quality."
+  ],
   "source": "https://tesoro.pr"
 }

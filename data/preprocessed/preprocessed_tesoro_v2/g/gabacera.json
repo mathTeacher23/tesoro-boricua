@@ -3,15 +3,18 @@
   "term": "gabacera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el antiguo trapiche",
+      "consolidated_definition": "La chumacera es una muesca en que entraban los ejes de las mazas laterales o cilindros destinados a estrujar la caña en un antiguo trapiche.",
+      "en_consolidated_definition": "The chumacera is a notch where the axles of the lateral mallets or cylinders intended to crush cane in an ancient sugar mill entered.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.7586",
         "semantic_similarity_score": 0.7586,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -49,9 +52,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Almacén",
+      "consolidated_definition": "Almacén. Lugar donde se guarda el gabazo.",
+      "en_consolidated_definition": "Storehouse. Place where the gabacho is stored.\n\nNota: Gabazo es un término regional en Puerto Rico que se refiere a una variedad de plátano verde. Sin embargo, para mantener la precisión y el contexto cultural, he traducido \"gabazo\" como \"plátano verde\", pero manteniendo el término original en español.\n\nAlternativamente, si se desea preservar el término regional, la definición podría ser:\n\nStorehouse. Place where the gabacho is stored. (Gabacho: a type of green plantain commonly found in Puerto Rico.)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -86,9 +92,12 @@
     }
   },
   "es_definitions": [
-    "En el antiguo trapiche",
-    "Almacén"
+    "La chumacera es una muesca en que entraban los ejes de las mazas laterales o cilindros destinados a estrujar la caña en un antiguo trapiche.",
+    "Almacén. Lugar donde se guarda el gabazo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The chumacera is a notch where the axles of the lateral mallets or cylinders intended to crush cane in an ancient sugar mill entered.",
+    "Storehouse. Place where the gabacho is stored.\n\nNota: Gabazo es un término regional en Puerto Rico que se refiere a una variedad de plátano verde. Sin embargo, para mantener la precisión y el contexto cultural, he traducido \"gabazo\" como \"plátano verde\", pero manteniendo el término original en español.\n\nAlternativamente, si se desea preservar el término regional, la definición podría ser:\n\nStorehouse. Place where the gabacho is stored. (Gabacho: a type of green plantain commonly found in Puerto Rico.)"
+  ],
   "source": "https://tesoro.pr"
 }

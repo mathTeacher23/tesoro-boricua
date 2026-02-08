@@ -3,9 +3,12 @@
   "term": "ensamblador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Programa o lenguaje que se encarga de traducir",
+      "consolidated_definition": "Programa o lenguaje que se encarga de traducir un fichero fuente escrito en un lenguaje ensamblador a otro fichero que contiene el código del equipo para el que se ha generado. La ventaja de un lenguaje ensamblador o ensamblador es que en él se puede realizar cualquier tipo de programa que en los lenguajes de alto nivel no se pueden realizar. Desvío semántico, poco frecuente. DRAE 2001: hombre que ensambla. El presente trabajo, tal y como lo indica su título, está enfocado en el lenguaje ensamblador de los microprocesadores Intel, particularmente los modelos 8088, 8086, 80186, 80188 y 80286. Sin embargo, todos los programas generados para estos procesadores correrán en un 80386 ó 80486 (Principia para Intel 808, consultado 03-09-08)",
+      "en_consolidated_definition": "Assembler or assembly language program that is responsible for translating a source file written in assembly language into another file containing the code for the equipment for which it was generated. The advantage of an assembler or assembly language is that any type of program can be performed on it, which cannot be done in high-level languages. Semantic deviation, infrequent. DRAE 2001: man who assembles.\n\nThe present work, as indicated by its title, focuses on the Intel microprocessor assembly language, particularly models 8088, 8086, 80186, 80188, and 80286. However, all programs generated for these processors will run on a 80386 or 80486 (Principia para Intel 808, consulted 03-09-08)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Programa o lenguaje que se encarga de traducir un fichero fuente escrito en un lenguaje ensamblador a otro fichero que contiene el código del equipo para el que se ha generado. La ventaja de un lenguaje ensamblador o ensamblador es que en él se puede realizar cualquier tipo de programa que en los lenguajes de alto nivel no se pueden realizar. Desvío semántico, poco frecuente. DRAE 2001: hombre que ensambla. El presente trabajo, tal y como lo indica su título, está enfocado en el lenguaje ensamblador de los microprocesadores Intel, particularmente los modelos 8088, 8086, 80186, 80188 y 80286. Sin embargo, todos los programas generados para estos procesadores correrán en un 80386 ó 80486"
+          "Programa o lenguaje que se encarga de traducir un fichero fuente escrito en un lenguaje ensamblador a otro fichero que contiene el código del equipo para el que se ha generado. La ventaja de un lenguaje ensamblador o ensamblador es que en él se puede realizar cualquier tipo de programa que en los lenguajes de alto nivel no se pueden realizar. Desvío semántico, poco frecuente. DRAE 2001: hombre que ensambla. El presente trabajo, tal y como lo indica su título, está enfocado en el lenguaje ensamblador de los microprocesadores Intel, particularmente los modelos 8088, 8086, 80186, 80188 y 80286. Sin embargo, todos los programas generados para estos procesadores correrán en un 80386 ó 80486 (Principia para Intel 808, consultado 03-09-08)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Programa o lenguaje que se encarga de traducir"
+    "Programa o lenguaje que se encarga de traducir un fichero fuente escrito en un lenguaje ensamblador a otro fichero que contiene el código del equipo para el que se ha generado. La ventaja de un lenguaje ensamblador o ensamblador es que en él se puede realizar cualquier tipo de programa que en los lenguajes de alto nivel no se pueden realizar. Desvío semántico, poco frecuente. DRAE 2001: hombre que ensambla. El presente trabajo, tal y como lo indica su título, está enfocado en el lenguaje ensamblador de los microprocesadores Intel, particularmente los modelos 8088, 8086, 80186, 80188 y 80286. Sin embargo, todos los programas generados para estos procesadores correrán en un 80386 ó 80486 (Principia para Intel 808, consultado 03-09-08)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Assembler or assembly language program that is responsible for translating a source file written in assembly language into another file containing the code for the equipment for which it was generated. The advantage of an assembler or assembly language is that any type of program can be performed on it, which cannot be done in high-level languages. Semantic deviation, infrequent. DRAE 2001: man who assembles.\n\nThe present work, as indicated by its title, focuses on the Intel microprocessor assembly language, particularly models 8088, 8086, 80186, 80188, and 80286. However, all programs generated for these processors will run on a 80386 or 80486 (Principia para Intel 808, consulted 03-09-08)"
+  ],
   "source": "https://tesoro.pr"
 }

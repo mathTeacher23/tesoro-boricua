@@ -3,15 +3,18 @@
   "term": "alta presión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hipertensión: condición médica caracterizada por un nivel excesivo de tensión en la sangre.",
+      "consolidated_definition": "med. Hipertensión. Nivel excesivo de tensión en la sangre. Anglicismo adaptado, usual. Estos padecían de alta presión y niveles de colesterol de normales a ligeramente elevados (Revista Vea, 11-05-03)",
+      "en_consolidated_definition": "Hypertension. Excessive level of blood pressure. Anglicism adapted, commonly used. These individuals suffered from high blood pressure and cholesterol levels ranging from normal to slightly elevated (Revista Vea, 11-05-03)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Anticiclón: sistema climático caracterizado por un centro de presión atmosférica más alta que la circundante a la misma altura.",
+      "consolidated_definition": "Tiempo estable. Distribución del campo de presión atmosférica en la que el centro presenta una presión mayor que la que existe a su alrededor a su misma altura. Calco de estructura, usual. Lo único que en estos momentos pudiera enfriar esas temperaturas en el mar sería una tormenta que agite el agua desde zonas profundas o una alta presión que dure como una semana, detalló Hernández",
+      "en_consolidated_definition": "Tiempo estable. Distribution of the atmospheric pressure field in which the center presents a higher pressure than that existing around it at the same height. Calque of structure, usual. The only thing that could cool those temperatures in the sea at this time would be a storm that agitates the water from deep zones or a high pressure that lasts for about a week, as detailed by Hernández",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Hipertensión: condición médica caracterizada por un nivel excesivo de tensión en la sangre.",
-    "Anticiclón: sistema climático caracterizado por un centro de presión atmosférica más alta que la circundante a la misma altura."
+    "med. Hipertensión. Nivel excesivo de tensión en la sangre. Anglicismo adaptado, usual. Estos padecían de alta presión y niveles de colesterol de normales a ligeramente elevados (Revista Vea, 11-05-03)",
+    "Tiempo estable. Distribución del campo de presión atmosférica en la que el centro presenta una presión mayor que la que existe a su alrededor a su misma altura. Calco de estructura, usual. Lo único que en estos momentos pudiera enfriar esas temperaturas en el mar sería una tormenta que agite el agua desde zonas profundas o una alta presión que dure como una semana, detalló Hernández"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hypertension. Excessive level of blood pressure. Anglicism adapted, commonly used. These individuals suffered from high blood pressure and cholesterol levels ranging from normal to slightly elevated (Revista Vea, 11-05-03)",
+    "Tiempo estable. Distribution of the atmospheric pressure field in which the center presents a higher pressure than that existing around it at the same height. Calque of structure, usual. The only thing that could cool those temperatures in the sea at this time would be a storm that agitates the water from deep zones or a high pressure that lasts for about a week, as detailed by Hernández"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "puro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo de raza o sangre",
+      "consolidated_definition": "Gallo de raza o sangre.",
+      "en_consolidated_definition": "Breed cocker or bloodline rooster.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Gallo de raza o sangre"
+    "Gallo de raza o sangre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Breed cocker or bloodline rooster."
+  ],
   "source": "https://tesoro.pr"
 }

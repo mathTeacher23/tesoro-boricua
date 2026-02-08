@@ -3,15 +3,18 @@
   "term": "papel",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Billete de banco de cien dólares",
+      "consolidated_definition": "\"Billete de banco de cien dólares\": Un documento impreso emitido por un banco central como medio de pago, con valor nominal de 100 unidades monetarias en la moneda estadounidense.",
+      "en_consolidated_definition": "Banknote of one hundred US dollars: A printed document issued by a central bank as a medium of exchange, with a face value of 100 monetary units in the United States currency.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3541",
-        "semantic_similarity_score": 0.3541,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.3116",
+        "semantic_similarity_score": 0.3116,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,14 +45,16 @@
         "related_words": [],
         "reference_definitions": [
           "Billete de banco de cien dólares.",
-          "La palabra papel y su diminutivo suelen ser equivalentes de ‘documento, carta, comunicación escrita’ en el habla rural isleña ."
+          "La palabra papel y su diminutivo suelen ser equivalentes de ‘documento, carta, comunicación escrita’ en el habla rural isleña (. gr., ya en las Coplas del 1820: “Isen la an tragío la Constitución / en un gran papei”, y en Alonso: “en cuanto a aquey papelito/de sosio corresponsay”)."
         ]
       }
     }
   },
   "es_definitions": [
-    "Billete de banco de cien dólares"
+    "\"Billete de banco de cien dólares\": Un documento impreso emitido por un banco central como medio de pago, con valor nominal de 100 unidades monetarias en la moneda estadounidense."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Banknote of one hundred US dollars: A printed document issued by a central bank as a medium of exchange, with a face value of 100 monetary units in the United States currency."
+  ],
   "source": "https://tesoro.pr"
 }

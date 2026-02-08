@@ -3,14 +3,17 @@
   "term": "pelambrera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Peladera",
+      "consolidated_definition": "Situación difícil.",
+      "en_consolidated_definition": "Difficult situation.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.4524",
-        "semantic_similarity_score": 0.4524,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -63,21 +66,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Peladera.",
-          "Escasez de dinero, quedarse sin recursos en un momento dado. También gas, moratoria.",
-          "Falta de dinero.",
-          "Escasez de dinero; quedarse sin recursos en un momento dado.",
-          "Pobreza.",
-          "Peladera.",
-          "Sin dinero.",
           "Situación difícil."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En las fincas de café",
+      "consolidated_definition": "En las fincas de café, lugar donde no se ha logrado buena cosecha, “donde hay poco café”.",
+      "en_consolidated_definition": "In coffee plantations, a location where a good harvest has not been achieved, \"where there is little coffee\". \n\nNota: La expresión \"fincas de café\" se refiere a fincas o haciendas que cultivan café, lo cual es una práctica común en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -111,9 +110,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Enfermedad propia del caballo",
+      "consolidated_definition": "Enfermedad propia del caballo.",
+      "en_consolidated_definition": "Equine disease proper to the horse.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -149,9 +151,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Peladura grande en la piel",
+      "consolidated_definition": "Peladura grande en la piel. Sarna.",
+      "en_consolidated_definition": "Large scab on the skin; itch mite.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -186,11 +191,16 @@
     }
   },
   "es_definitions": [
-    "Peladera",
-    "En las fincas de café",
-    "Enfermedad propia del caballo",
-    "Peladura grande en la piel"
+    "Situación difícil.",
+    "En las fincas de café, lugar donde no se ha logrado buena cosecha, “donde hay poco café”.",
+    "Enfermedad propia del caballo.",
+    "Peladura grande en la piel. Sarna."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Difficult situation.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "In coffee plantations, a location where a good harvest has not been achieved, \"where there is little coffee\". \n\nNota: La expresión \"fincas de café\" se refiere a fincas o haciendas que cultivan café, lo cual es una práctica común en Puerto Rico.",
+    "Equine disease proper to the horse.",
+    "Large scab on the skin; itch mite."
+  ],
   "source": "https://tesoro.pr"
 }

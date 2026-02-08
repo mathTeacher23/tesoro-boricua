@@ -3,14 +3,17 @@
   "term": "palmolive",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Policía",
+      "consolidated_definition": "Policía.",
+      "en_consolidated_definition": "Law Enforcement Agency \n\nNota: En algunos contextos, se refiere específicamente a la Policía de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6456",
-        "semantic_similarity_score": 0.6456,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Policía.",
-          "Voz usada por drogadictos y delincuentes. Policía.",
           "Policía."
         ]
       }
     }
   },
   "es_definitions": [
-    "Policía"
+    "Policía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Law Enforcement Agency \n\nNota: En algunos contextos, se refiere específicamente a la Policía de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

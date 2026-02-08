@@ -3,9 +3,12 @@
   "term": "rascón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de mar",
+      "consolidated_definition": "Pez de mar, pequeño, de color siena con la aleta dorsal espinosa y venenosa. También llamado escorpión.",
+      "en_consolidated_definition": "Marine fish, small in size, with a siena-colored body and a spiny and venomous dorsal fin. Also known as scorpionfish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pez de mar"
+    "Pez de mar, pequeño, de color siena con la aleta dorsal espinosa y venenosa. También llamado escorpión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine fish, small in size, with a siena-colored body and a spiny and venomous dorsal fin. Also known as scorpionfish."
+  ],
   "source": "https://tesoro.pr"
 }

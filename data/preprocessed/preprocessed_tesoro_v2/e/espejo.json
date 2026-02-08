@@ -3,14 +3,17 @@
   "term": "espejo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pieza plana de madera que forma la popa",
+      "consolidated_definition": "Pieza plana de madera que forma la popa de las embarcaciones.",
+      "en_consolidated_definition": "Flat wooden piece forming the stern of vessels.\n\nNota: En este caso, \"popa\" se refiere a la parte posterior de una embarcación, que en inglés se conoce como \"stern\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6536",
-        "semantic_similarity_score": 0.6536,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,17 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pieza plana de madera que forma la popa en las embarcaciones que lo tienen.",
-          "Popa. Parte trasera de la embarcación de pesca donde va el motor.",
-          "Pieza plana de madera que forma la popa de las embarcaciones.",
-          "Parte trasera de las embarcaciones de pesca, donde se coloca el motor."
+          "Pieza plana de madera que forma la popa de las embarcaciones."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pieza plana de madera que forma la popa"
+    "Pieza plana de madera que forma la popa de las embarcaciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flat wooden piece forming the stern of vessels.\n\nNota: En este caso, \"popa\" se refiere a la parte posterior de una embarcación, que en inglés se conoce como \"stern\"."
+  ],
   "source": "https://tesoro.pr"
 }

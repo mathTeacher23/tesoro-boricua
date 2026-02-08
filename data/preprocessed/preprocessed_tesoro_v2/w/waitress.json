@@ -3,9 +3,12 @@
   "term": "waitress",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La azafata",
+      "consolidated_definition": "La azafata. También stewardess.",
+      "en_consolidated_definition": "Flight attendant. Also stewardess.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,14 +42,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Camarera",
+      "consolidated_definition": "Camarera, mesera.",
+      "en_consolidated_definition": "Waitress, server.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5939",
-        "semantic_similarity_score": 0.5939,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -75,16 +81,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Camarera. Empleada que sirve las mesas en un hotel o restaurante. Anglicismo crudo, poco frecuente. Solicitan Bartender y waitress para el Picante Bar localizado en el nuevo Hotel Marriot en Isla Verde",
           "Camarera, mesera."
         ]
       }
     }
   },
   "es_definitions": [
-    "La azafata",
-    "Camarera"
+    "La azafata. También stewardess.",
+    "Camarera, mesera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flight attendant. Also stewardess.",
+    "Waitress, server."
+  ],
   "source": "https://tesoro.pr"
 }

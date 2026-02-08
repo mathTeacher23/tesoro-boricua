@@ -3,14 +3,17 @@
   "term": "falla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Error, relacionado con una organización",
+      "consolidated_definition": "Error, acción desacertada.",
+      "en_consolidated_definition": "Mistake, ill-advised action.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2718",
-        "semantic_similarity_score": 0.2718,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -36,15 +39,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Error, acción desacertada.",
-          "Funcionamiento irregular de un órgano del cuerpo."
+          "Error, acción desacertada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Error, relacionado con una organización"
+    "Error, acción desacertada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mistake, ill-advised action."
+  ],
   "source": "https://tesoro.pr"
 }

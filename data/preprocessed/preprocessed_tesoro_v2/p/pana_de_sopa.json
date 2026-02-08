@@ -3,9 +3,12 @@
   "term": "pana de sopa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fruto",
+      "consolidated_definition": "Fruto.",
+      "en_consolidated_definition": "Fruit \n\nNote: En este contexto, \"fruto\" se refiere a cualquier parte comestible de una planta, como un fruto maduro o una semilla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Fruto"
+    "Fruto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fruit \n\nNote: En este contexto, \"fruto\" se refiere a cualquier parte comestible de una planta, como un fruto maduro o una semilla."
+  ],
   "source": "https://tesoro.pr"
 }

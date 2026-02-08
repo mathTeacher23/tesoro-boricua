@@ -3,15 +3,18 @@
   "term": "botar la bola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La acción de realizar algo extraordinario o fuera de lo normal.",
+      "consolidated_definition": "Realizar algo con mucho éxito.",
+      "en_consolidated_definition": "Realizar algo con gran eficacia o lograr un resultado excelente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.518",
-        "semantic_similarity_score": 0.518,
-        "cluster_count": 6,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -58,25 +61,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hacer algo fuera de lo normal.",
-          "Meter la pata, meter las cuatro, hacer un pachá, decir algo fuera de propósito.",
-          "Hacer algo inaudito, sorprendente, excepcional.",
-          "Hacer algo bien.",
-          "Marcelino Canino la define como: ‘hacer algo extraordinario’. “Lo de anoche sí que botó la bola y rompió el bate.” Juan Antonio Ramos, Vive y vacila, p. 72.",
           "Realizar algo con mucho éxito."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el béisbol, batear un jonrón: lograr que la pelota salga del terreno de juego y cruce la línea de marca de los jardines, resultando en un carrilero anotado.",
+      "consolidated_definition": "En el beisbol, batear un jonrón.",
+      "en_consolidated_definition": "To hit a home run in baseball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -106,9 +107,12 @@
     }
   },
   "es_definitions": [
-    "La acción de realizar algo extraordinario o fuera de lo normal.",
-    "En el béisbol, batear un jonrón: lograr que la pelota salga del terreno de juego y cruce la línea de marca de los jardines, resultando en un carrilero anotado."
+    "Realizar algo con mucho éxito.",
+    "En el beisbol, batear un jonrón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Realizar algo con gran eficacia o lograr un resultado excelente.",
+    "To hit a home run in baseball."
+  ],
   "source": "https://tesoro.pr"
 }

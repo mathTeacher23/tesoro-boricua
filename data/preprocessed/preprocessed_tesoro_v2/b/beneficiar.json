@@ -3,15 +3,18 @@
   "term": "beneficiar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Matar ganado vacuno para su venta en el mercado público.",
+      "consolidated_definition": "Matar y preparar una res u otros animales de tamaño considerable para el consumo humano.",
+      "en_consolidated_definition": "To slaughter and prepare a large animal or other substantial creature for human consumption.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.499",
-        "semantic_similarity_score": 0.499,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -40,15 +43,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Matar ganado vacuno para la venta pública de carnes. Ac.",
           "Matar y preparar una res u otros animales de tamaño considerable para el consumo humano."
         ]
       }
     }
   },
   "es_definitions": [
-    "Matar ganado vacuno para su venta en el mercado público."
+    "Matar y preparar una res u otros animales de tamaño considerable para el consumo humano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To slaughter and prepare a large animal or other substantial creature for human consumption."
+  ],
   "source": "https://tesoro.pr"
 }

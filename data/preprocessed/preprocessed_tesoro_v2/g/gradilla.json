@@ -3,15 +3,18 @@
   "term": "gradilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Zanja o carril que el paso frecuente del",
+      "consolidated_definition": "Camino o sendero que el paso frecuente del ganado forma dentro de un cercado y que conduce a un bebedero.",
+      "en_consolidated_definition": "Path or trail formed by the frequent passage of livestock within a fenced area and leading to a watering hole.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
         "num_cleaned_definitions": 9,
-        "definition_stability": "Stability: 0.5881",
-        "semantic_similarity_score": 0.5881,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5831",
+        "semantic_similarity_score": 0.5831,
+        "cluster_count": 8,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -71,7 +74,7 @@
           "Zanja o carril que el paso frecuente del ganado hace en los caminos. “Por repecho espinadísimo y sobre sendero de gradillas estrecho y peligroso, iba ahora encaramado aquel pobre doctor.” Martínez Roselló, , p. 127.",
           "Zanja.",
           "Se llama además gradilla al sendero abierto por el ganado.",
-          "Sendero que hace el ganado al pasar por los campos.",
+          "(popular) Sendero que hace el ganado al pasar por los campos.",
           "Sendero que forman los animales dentro del cercado y por lo regular camino al bebedero.",
           "Trillo. Vereda. Camino estrecho que hace el pasar de la gente o el ganado por un predio de yerbas bajas.",
           "Sendero que hace el ganado con su paso.",
@@ -82,8 +85,10 @@
     }
   },
   "es_definitions": [
-    "Zanja o carril que el paso frecuente del"
+    "Camino o sendero que el paso frecuente del ganado forma dentro de un cercado y que conduce a un bebedero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Path or trail formed by the frequent passage of livestock within a fenced area and leading to a watering hole."
+  ],
   "source": "https://tesoro.pr"
 }

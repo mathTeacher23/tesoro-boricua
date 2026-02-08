@@ -3,15 +3,18 @@
   "term": "contraviento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Viento de cara\": dirección del viento que sopla directamente hacia el frente o en contra del movimiento.",
+      "consolidated_definition": "Viento de cara.",
+      "en_consolidated_definition": "Wind in one's face.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Viento de cara.",
           "Viento de cara."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Viento de cara\": dirección del viento que sopla directamente hacia el frente o en contra del movimiento."
+    "Viento de cara."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wind in one's face."
+  ],
   "source": "https://tesoro.pr"
 }

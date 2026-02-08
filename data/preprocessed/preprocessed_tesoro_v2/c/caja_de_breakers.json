@@ -3,15 +3,18 @@
   "term": "caja de breakers",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un cuadro de distribución es un conjunto de interruptores que controlan el flujo de electricidad en un espacio dentro de una edificación.",
+      "consolidated_definition": "Cuadro de distribución, conjunto de interruptores que controlan el flujo de electricidad en un espacio dentro de una edificación. Usted perdió el conocimiento. ¿Usted sabe a qué distancia, si usted recuerda, si usted recuerda, estaba esa caja de breakers del borde de la casa? (Tribunal de Puerto Rico, 24-06-19)",
+      "en_consolidated_definition": "Distribution Panel, a set of switches that control the flow of electricity within a specific area of a building. Do you know how far away, if you remember, was that breaker box from the edge of the house? (Tribunal de Puerto Rico, 24-06-19) \n\nNota: Se tradujo \"cuadro de distribución\" como \"distribution panel\", ya que es la forma más común y precisa en inglés.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Un cuadro de distribución es un conjunto de interruptores que controlan el flujo de electricidad en un espacio dentro de una edificación."
+    "Cuadro de distribución, conjunto de interruptores que controlan el flujo de electricidad en un espacio dentro de una edificación. Usted perdió el conocimiento. ¿Usted sabe a qué distancia, si usted recuerda, si usted recuerda, estaba esa caja de breakers del borde de la casa? (Tribunal de Puerto Rico, 24-06-19)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Distribution Panel, a set of switches that control the flow of electricity within a specific area of a building. Do you know how far away, if you remember, was that breaker box from the edge of the house? (Tribunal de Puerto Rico, 24-06-19) \n\nNota: Se tradujo \"cuadro de distribución\" como \"distribution panel\", ya que es la forma más común y precisa en inglés."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "virote esquinero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El virote de una casa de madera",
+      "consolidated_definition": "El virote de una casa de madera; fuerte, resistente y más grueso que los demás.",
+      "en_consolidated_definition": "The main beam of a wooden house; strong, resistant, and thicker than the others.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El virote de una casa de madera"
+    "El virote de una casa de madera; fuerte, resistente y más grueso que los demás."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The main beam of a wooden house; strong, resistant, and thicker than the others."
+  ],
   "source": "https://tesoro.pr"
 }

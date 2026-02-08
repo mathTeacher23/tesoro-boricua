@@ -3,9 +3,12 @@
   "term": "mabiche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mosquito pequeño del mar",
+      "consolidated_definition": "Mosquito pequeño del mar.",
+      "en_consolidated_definition": "Small marine mosquito.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mosquito pequeño del mar"
+    "Mosquito pequeño del mar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small marine mosquito."
+  ],
   "source": "https://tesoro.pr"
 }

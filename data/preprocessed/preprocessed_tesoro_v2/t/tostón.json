@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Planta de florecitas moradas. . Ac.; Otero, 423.",
+      "en_consolidated_definition": "Plant with purple flowers. Ac.; Otero, 423.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,14 +42,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pedazo frito de plátano verde",
+      "consolidated_definition": "Rodaja grande de plátano verde, machacada y frita, que suele acompañar a otros alimentos.",
+      "en_consolidated_definition": "Large green plantain chip, crushed and fried, often served as a complement to other dishes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6686",
-        "semantic_similarity_score": 0.6686,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -89,23 +95,23 @@
           "tostonero, ra 2"
         ],
         "reference_definitions": [
-          "Pedazo frito de plátano verde. “Comerle unas cuantas tortas de bacalao frito y tostones, y marcharse sin pagar.” Timothée, Cuentos populares, 1917, p. 110.",
-          "Rodaja de plátano verde frita y algo machacada.",
-          "Frita de plátano.",
           "Rodaja grande de plátano verde, machacada y frita, que suele acompañar a otros alimentos."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Trasquiladura",
+      "consolidated_definition": "Trasquiladura. Sustantivo que designa el acto o efecto de quitar el vello de una persona, especialmente en el corte del cabello.",
+      "en_consolidated_definition": "Depilación. Noun that designates the act or effect of removing body hair from a person, especially in haircutting.\n\nNota: En este contexto, \"depilación\" es una traducción precisa de la definición original en español, manteniendo el significado exacto y un vocabulario formal adecuado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6205",
         "semantic_similarity_score": 0.6205,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -142,14 +148,17 @@
       }
     },
     "4": {
-      "consolidated_definition": "Vulva",
+      "consolidated_definition": "Vulva.",
+      "en_consolidated_definition": "Vulva: the external female genital area.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5265",
-        "semantic_similarity_score": 0.5265,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -183,16 +192,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Vulva.",
-          "Chocha.",
           "Vulva."
         ]
       }
     },
     "5": {
-      "consolidated_definition": "Examen difícil",
+      "consolidated_definition": "Examen difícil.",
+      "en_consolidated_definition": "Difficult examination.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -226,9 +236,12 @@
       }
     },
     "6": {
-      "consolidated_definition": "Cosa difícil e inoportuna",
+      "consolidated_definition": "Cosa difícil e inoportuna.",
+      "en_consolidated_definition": "Something difficult and inopportune.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -264,12 +277,19 @@
   },
   "es_definitions": [
     ". Planta de florecitas moradas. . Ac.; Otero, 423.",
-    "Pedazo frito de plátano verde",
-    "Trasquiladura",
-    "Vulva",
-    "Examen difícil",
-    "Cosa difícil e inoportuna"
+    "Rodaja grande de plátano verde, machacada y frita, que suele acompañar a otros alimentos.",
+    "Trasquiladura. Sustantivo que designa el acto o efecto de quitar el vello de una persona, especialmente en el corte del cabello.",
+    "Vulva.",
+    "Examen difícil.",
+    "Cosa difícil e inoportuna."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Plant with purple flowers. Ac.; Otero, 423.",
+    "Large green plantain chip, crushed and fried, often served as a complement to other dishes.",
+    "Depilación. Noun that designates the act or effect of removing body hair from a person, especially in haircutting.\n\nNota: En este contexto, \"depilación\" es una traducción precisa de la definición original en español, manteniendo el significado exacto y un vocabulario formal adecuado para un diccionario.",
+    "Vulva: the external female genital area.",
+    "Difficult examination.",
+    "Something difficult and inopportune."
+  ],
   "source": "https://tesoro.pr"
 }

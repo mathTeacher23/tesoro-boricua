@@ -3,9 +3,12 @@
   "term": "granero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Negocio que vende semillas y granos",
+      "consolidated_definition": "Negocio que vende semillas y granos, aves de corral, y a veces ofrece servicio veterinario.",
+      "en_consolidated_definition": "Business that sells seeds and grains, domestic fowl, and sometimes offers veterinary services.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Negocio que vende semillas y granos"
+    "Negocio que vende semillas y granos, aves de corral, y a veces ofrece servicio veterinario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Business that sells seeds and grains, domestic fowl, and sometimes offers veterinary services."
+  ],
   "source": "https://tesoro.pr"
 }

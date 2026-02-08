@@ -3,9 +3,12 @@
   "term": "pollo rostizado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pollo muy frito en aceite",
+      "consolidated_definition": "Pollo muy frito en aceite.",
+      "en_consolidated_definition": "Deep-fried chicken cooked in oil.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pollo muy frito en aceite"
+    "Pollo muy frito en aceite."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Deep-fried chicken cooked in oil."
+  ],
   "source": "https://tesoro.pr"
 }

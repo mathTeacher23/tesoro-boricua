@@ -3,9 +3,12 @@
   "term": "fuyuco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz africana",
+      "consolidated_definition": "Voz africana. Inservible. Senil.",
+      "en_consolidated_definition": "African term. Ineffective person. Elderly individual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Voz africana"
+    "Voz africana. Inservible. Senil."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "African term. Ineffective person. Elderly individual."
+  ],
   "source": "https://tesoro.pr"
 }

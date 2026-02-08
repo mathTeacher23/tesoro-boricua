@@ -3,9 +3,12 @@
   "term": "explotar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, conseguir un jugador muchos batazos de un lanzador determinado.",
+      "en_consolidated_definition": "To hit a batter many times against a particular pitcher in baseball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, conseguir un jugador muchos batazos de un lanzador determinado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To hit a batter many times against a particular pitcher in baseball."
+  ],
   "source": "https://tesoro.pr"
 }

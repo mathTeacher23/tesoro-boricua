@@ -3,9 +3,12 @@
   "term": "listo para sentencia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Terminado",
+      "consolidated_definition": "Terminado. A punto de.",
+      "en_consolidated_definition": "Completed. On the point of.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Terminado"
+    "Terminado. A punto de."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Completed. On the point of."
+  ],
   "source": "https://tesoro.pr"
 }

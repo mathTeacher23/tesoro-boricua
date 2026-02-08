@@ -3,15 +3,18 @@
   "term": "negrita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre con el cual se conoce",
+      "consolidated_definition": "En Mayagüez, el término \"pez mantequilla\" se refiere a un pez de mar comestible que es una variedad del chillo.",
+      "en_consolidated_definition": "In Mayagüez, the term \"pez mantequilla\" refers to a edible marine fish that is a variety of the mullet.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5368",
         "semantic_similarity_score": 0.5368,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Nombre con el cual se conoce"
+    "En Mayagüez, el término \"pez mantequilla\" se refiere a un pez de mar comestible que es una variedad del chillo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In Mayagüez, the term \"pez mantequilla\" refers to a edible marine fish that is a variety of the mullet."
+  ],
   "source": "https://tesoro.pr"
 }

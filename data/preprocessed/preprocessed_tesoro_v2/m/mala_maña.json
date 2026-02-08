@@ -3,9 +3,12 @@
   "term": "mala maña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mal hábito",
+      "consolidated_definition": "Mal hábito, mala costumbre.",
+      "en_consolidated_definition": "Bad habit, bad custom.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mal hábito"
+    "Mal hábito, mala costumbre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bad habit, bad custom."
+  ],
   "source": "https://tesoro.pr"
 }

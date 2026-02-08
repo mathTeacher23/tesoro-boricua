@@ -3,9 +3,12 @@
   "term": "grandecito, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Holgado",
+      "consolidated_definition": "Holgado. Aplícase a prendas de vestir.",
+      "en_consolidated_definition": "Comfortable. Applied to articles of clothing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Holgado"
+    "Holgado. Aplícase a prendas de vestir."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Comfortable. Applied to articles of clothing."
+  ],
   "source": "https://tesoro.pr"
 }

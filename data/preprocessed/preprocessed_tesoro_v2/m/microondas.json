@@ -3,9 +3,12 @@
   "term": "microondas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la industria azucarera, relacionado con un mecanismo",
+      "consolidated_definition": "En la industria azucarera, aparato que quema la fibra de las muestras de caña.",
+      "en_consolidated_definition": "In the sugar industry, apparatus that burns the fiber of sugarcane samples.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En la industria azucarera, relacionado con un mecanismo"
+    "En la industria azucarera, aparato que quema la fibra de las muestras de caña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the sugar industry, apparatus that burns the fiber of sugarcane samples."
+  ],
   "source": "https://tesoro.pr"
 }

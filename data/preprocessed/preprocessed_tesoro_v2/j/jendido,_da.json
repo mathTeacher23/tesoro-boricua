@@ -3,9 +3,12 @@
   "term": "jendido, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, extremadamente borracha.",
+      "en_consolidated_definition": "Extremely intoxicated person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona"
+    "Referido a persona, extremadamente borracha."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extremely intoxicated person."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tevé",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Televisión",
+      "consolidated_definition": "Televisión.",
+      "en_consolidated_definition": "Television.\n\nTelevisor.\n\nTV.\n\nBroadcasting system that uses a combination of electromagnetic waves and electronic signals to transmit visual and auditory information through the air or via cable for public reception.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Televisión"
+    "Televisión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Television.\n\nTelevisor.\n\nTV.\n\nBroadcasting system that uses a combination of electromagnetic waves and electronic signals to transmit visual and auditory information through the air or via cable for public reception."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "limpieza del becerro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cierta mucosidad blancuzca para facilitar el parto",
+      "consolidated_definition": "Cierta mucosidad blancuzca para facilitar el parto de la vaca.",
+      "en_consolidated_definition": "Certain whitish mucus to facilitate the parturition of a cow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cierta mucosidad blancuzca para facilitar el parto ."
+          "Cierta mucosidad blancuzca para facilitar el parto de la vaca."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cierta mucosidad blancuzca para facilitar el parto"
+    "Cierta mucosidad blancuzca para facilitar el parto de la vaca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Certain whitish mucus to facilitate the parturition of a cow."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "happy birthday",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cumpleaños feliz",
+      "consolidated_definition": "Canción que se entona para felicitar a alguien que cumple años.",
+      "en_consolidated_definition": "Birthday song that is sung to congratulate someone on their anniversary of birth.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6246",
-        "semantic_similarity_score": 0.6246,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -43,16 +46,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Cumpleaños feliz. Saludo de felicidad que se hace a una persona el día de su cumpleaños. Anglicismo crudo, usual. Oh, qué bueno. Entonces te cantamos happy birthday",
-          "Canción que se entona para felicitar a alguien que cumple años.",
-          "Fiesta que se realiza para celebrar el cumpleaños de alguien."
+          "Canción que se entona para felicitar a alguien que cumple años."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cumpleaños feliz"
+    "Canción que se entona para felicitar a alguien que cumple años."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Birthday song that is sung to congratulate someone on their anniversary of birth."
+  ],
   "source": "https://tesoro.pr"
 }

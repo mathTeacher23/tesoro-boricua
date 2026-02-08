@@ -3,15 +3,18 @@
   "term": "machetear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Podar o recortar un documento",
+      "consolidated_definition": "Reducir el tamaño o contenido de un documento, proyecto u otro material, eliminando selectivamente información no esencial.",
+      "en_consolidated_definition": "Reduce the size or content of a document, project, or other material by selectively eliminating non-essential information.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5425",
-        "semantic_similarity_score": 0.5425,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5361",
+        "semantic_similarity_score": 0.5361,
+        "cluster_count": 3,
         "grammar": [
           "verbo transitivo"
         ],
@@ -40,21 +43,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Podar o recortar un documento, un proyecto, etc.",
+          "(general) Podar o recortar un documento, un proyecto, etc.",
           "Dar carpetazo a un asunto.",
           "Eliminar a uno de un empleo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Chaperonear",
+      "consolidated_definition": "Cuidar una persona de más edad a otra de menor edad en actos sociales.",
+      "en_consolidated_definition": "Care for an older person in social interactions with a younger person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2573",
-        "semantic_similarity_score": 0.2573,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -84,20 +90,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Chaperonear.",
           "Cuidar una persona de más edad a otra de menor edad en actos sociales."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "hacer una cosa con prisa algo",
+      "consolidated_definition": "Hacer un trabajo sin esmero o dejarlo sin terminar.",
+      "en_consolidated_definition": "To do a job without diligence or leave it unfinished.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5706",
-        "semantic_similarity_score": 0.5706,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -130,16 +138,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hacer una cosa con prisa y descuidadamente. Machetiar.",
-          "No hacer bien las cosas.",
           "Hacer un trabajo sin esmero o dejarlo sin terminar."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "Trabajar con machete",
+      "consolidated_definition": "Trabajar con machete, herramienta de trabajos agrícolas.",
+      "en_consolidated_definition": "Work with a machete, agricultural tool.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -174,9 +183,12 @@
       }
     },
     "5": {
-      "consolidated_definition": "Cortar algo con un cuchillo o machete",
+      "consolidated_definition": "Cortar algo con un cuchillo o machete.",
+      "en_consolidated_definition": "To cut something with a knife or machete.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -212,12 +224,18 @@
     }
   },
   "es_definitions": [
-    "Podar o recortar un documento",
-    "Chaperonear",
-    "hacer una cosa con prisa algo",
-    "Trabajar con machete",
-    "Cortar algo con un cuchillo o machete"
+    "Reducir el tamaño o contenido de un documento, proyecto u otro material, eliminando selectivamente información no esencial.",
+    "Cuidar una persona de más edad a otra de menor edad en actos sociales.",
+    "Hacer un trabajo sin esmero o dejarlo sin terminar.",
+    "Trabajar con machete, herramienta de trabajos agrícolas.",
+    "Cortar algo con un cuchillo o machete."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Reduce the size or content of a document, project, or other material by selectively eliminating non-essential information.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "Care for an older person in social interactions with a younger person.",
+    "To do a job without diligence or leave it unfinished.",
+    "Work with a machete, agricultural tool.",
+    "To cut something with a knife or machete."
+  ],
   "source": "https://tesoro.pr"
 }

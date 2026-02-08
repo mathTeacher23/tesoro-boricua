@@ -3,9 +3,12 @@
   "term": "sardina de lacha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre dado al arenque en Arecibo",
+      "consolidated_definition": "Nombre dado al arenque en Arecibo.",
+      "en_consolidated_definition": "Name given to herring in Arecibo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Nombre dado al arenque en Arecibo"
+    "Nombre dado al arenque en Arecibo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Name given to herring in Arecibo."
+  ],
   "source": "https://tesoro.pr"
 }

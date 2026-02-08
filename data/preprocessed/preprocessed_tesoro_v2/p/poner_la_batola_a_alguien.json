@@ -3,9 +3,12 @@
   "term": "poner la batola a alguien",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que la mujer domina en el hogar",
+      "consolidated_definition": "Indica que la mujer domina en el hogar y retiene en él al marido. Variante: Tenerlo sentado en el baúl.",
+      "en_consolidated_definition": "Indicates that the woman dominates in the home and retains her husband within it. Variant: To have him seated on the trunk (baúl).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Indica que la mujer domina en el hogar"
+    "Indica que la mujer domina en el hogar y retiene en él al marido. Variante: Tenerlo sentado en el baúl."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Indicates that the woman dominates in the home and retains her husband within it. Variant: To have him seated on the trunk (baúl)."
+  ],
   "source": "https://tesoro.pr"
 }

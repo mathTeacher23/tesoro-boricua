@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Café sin azúcar.",
+      "en_consolidated_definition": "Coffee without sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
         "num_cleaned_definitions": 9,
@@ -87,6 +90,8 @@
   "es_definitions": [
     "Café sin azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coffee without sugar."
+  ],
   "source": "https://tesoro.pr"
 }

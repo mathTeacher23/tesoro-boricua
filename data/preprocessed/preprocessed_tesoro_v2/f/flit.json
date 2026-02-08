@@ -3,9 +3,12 @@
   "term": "flit",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre genérico dado a los insecticidas",
+      "consolidated_definition": "Nombre genérico dado a los insecticidas: marca de uno de los primeros insecticidas usados.",
+      "en_consolidated_definition": "Generic term for insecticides: brand name of one of the first used insecticides.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Nombre genérico dado a los insecticidas"
+    "Nombre genérico dado a los insecticidas: marca de uno de los primeros insecticidas usados."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Generic term for insecticides: brand name of one of the first used insecticides."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "poner listo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pensar bien lo que se va a hacer",
+      "consolidated_definition": "Pensar bien lo que se va a hacer.",
+      "en_consolidated_definition": "Pensar con cuidado y reflexión sobre las acciones que se van a emprender.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Pensar bien lo que se va a hacer"
+    "Pensar bien lo que se va a hacer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pensar con cuidado y reflexión sobre las acciones que se van a emprender."
+  ],
   "source": "https://tesoro.pr"
 }

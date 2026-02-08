@@ -3,14 +3,17 @@
   "term": "pasudo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido al cabello",
+      "consolidated_definition": "Referido al cabello, ensortijado o rizado de forma natural.",
+      "en_consolidated_definition": "Referido al cabello, enroscado o rizado de forma natural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6832",
-        "semantic_similarity_score": 0.6832,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -35,15 +38,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Referido al cabello, ensortijado o rizado de forma natural.",
-          "Referido a persona, que tiene el cabello ensortijado o rizado, como el de alguien de raza negra."
+          "Referido al cabello, ensortijado o rizado de forma natural."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido al cabello"
+    "Referido al cabello, ensortijado o rizado de forma natural."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido al cabello, enroscado o rizado de forma natural."
+  ],
   "source": "https://tesoro.pr"
 }

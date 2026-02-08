@@ -3,12 +3,15 @@
   "term": "turbojet",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Turbo-avión",
+      "consolidated_definition": "Turbo-avión.",
+      "en_consolidated_definition": "Turbojet aircraft",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Turbo-avión.",
           "Turbo-avión."
         ]
       }
     }
   },
   "es_definitions": [
-    "Turbo-avión"
+    "Turbo-avión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Turbojet aircraft"
+  ],
   "source": "https://tesoro.pr"
 }

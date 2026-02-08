@@ -3,9 +3,12 @@
   "term": "guamiquinaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De acuerdo con el cronista Las Casas",
+      "consolidated_definition": "De acuerdo con el cronista Las Casas, este nombre se le daba a los perros mudos de los indios, “tan buenos y mejores de comer, que conejos y liebres”.",
+      "en_consolidated_definition": "According to the chronicler Las Casas, this name was given to the mute dogs of the Indians, \"so good and better to eat than rabbits and hares\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "De acuerdo con el cronista Las Casas"
+    "De acuerdo con el cronista Las Casas, este nombre se le daba a los perros mudos de los indios, “tan buenos y mejores de comer, que conejos y liebres”."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "According to the chronicler Las Casas, this name was given to the mute dogs of the Indians, \"so good and better to eat than rabbits and hares\"."
+  ],
   "source": "https://tesoro.pr"
 }

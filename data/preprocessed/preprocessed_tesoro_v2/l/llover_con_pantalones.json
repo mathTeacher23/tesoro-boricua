@@ -3,14 +3,17 @@
   "term": "llover con pantalones",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llover a cántaros",
+      "consolidated_definition": "Llover copiosamente.",
+      "en_consolidated_definition": "To rain heavily.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5655",
-        "semantic_similarity_score": 0.5655,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución verbal"
@@ -43,16 +46,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Llover a cántaros.",
-          "‘Llover fuerte, con ganas’, según Del Rosario. “Apenas habíamos llegado a la esquina cuando empezó a llover con pantalones.”",
           "Llover copiosamente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Llover a cántaros"
+    "Llover copiosamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To rain heavily."
+  ],
   "source": "https://tesoro.pr"
 }

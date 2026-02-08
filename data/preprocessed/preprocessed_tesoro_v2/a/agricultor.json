@@ -3,15 +3,18 @@
   "term": "agricultor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que se dedica a cultivar y explotar tierras agrícolas, ya sea en gran o pequeña escala.",
+      "consolidated_definition": "Labrador.",
+      "en_consolidated_definition": "Labrador: a breed of dog originating from the island of Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1995",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.1983",
-        "semantic_similarity_score": 0.1983,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,16 +51,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Quien explota tierras de cultivo agrícola, ya en grande o pequeña escala —agricultores de la caña, agricultores del café, agricultores de frutos menores.",
-          "El obrero que siembra la caña.",
           "Labrador."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que se dedica a cultivar y explotar tierras agrícolas, ya sea en gran o pequeña escala."
+    "Labrador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Labrador: a breed of dog originating from the island of Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

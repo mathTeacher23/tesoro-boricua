@@ -477,6 +477,62 @@ class DefinitionConsolidator:
             api_key=LMSTUDIO_API_KEY
         )
 
+    def _translate_definition(self, es_definition: str) -> str:
+        """
+        Translate Spanish definition to English using the local LLM.
+        Uses the consolidator model (meta-llama-3.1-8b-instruct) which is good at Spanish/English.
+
+        Args:
+            es_definition: Spanish definition to translate
+
+        Returns:
+            English translation
+        """
+        if not es_definition or not es_definition.strip():
+            return ""
+
+        prompt = f"""
+        Eres un traductor profesional especializado en español puertorriqueño e inglés.
+
+        Traduce la siguiente definición de diccionario del español al inglés.
+        Mantén el tono formal y académico de un diccionario.
+
+        DEFINICIÓN EN ESPAÑOL:
+        {es_definition}
+
+        INSTRUCCIONES:
+        - Traduce con precisión, manteniendo el significado exacto
+        - Usa vocabulario formal y apropiado para un diccionario
+        - Si hay términos culturales específicos de Puerto Rico, tradúcelos pero preserva el contexto
+        - NO agregues explicaciones, SOLO la traducción
+
+        Salida: SOLO la definición traducida al inglés, sin comillas ni comentarios adicionales.
+        """
+
+        try:
+            resp = self.reviewer_client.chat.completions.create(
+                model="meta-llama-3.1-8b-instruct",  # Same model, good at Spanish/English
+                messages=[
+                    {"role": "system", "content": "You are a professional translator specializing in Spanish to English dictionary translations."},
+                    {"role": "user", "content": prompt},
+                ],
+                max_tokens=300,
+                temperature=0.1,  # Low temperature for consistent translations
+            )
+            result = resp.choices[0].message.content.strip()
+
+            # Remove surrounding quotes if the LLM wrapped the response
+            if result.startswith('"') and result.endswith('"'):
+                result = result[1:-1]
+            elif result.startswith("'") and result.endswith("'"):
+                result = result[1:-1]
+
+            return result
+
+        except Exception as e:
+            print(f"⚠️ Translation failed: {e}")
+            return ""
+
     def _review_definition(self, cleaned_defs: List[str], summary: str) -> str:
         """
         Use the reviewer LLM to validate and refine the consolidated definition.
@@ -563,26 +619,96 @@ class DefinitionConsolidator:
             defs_by_sup = self._extract_definitions_by_superscript(word)
             word_report = {}
 
-            for sup, raw_defs in defs_by_sup.items():
+            for sup, def_items in defs_by_sup.items():
                 start = time.time()
 
-                cleaned = [self.cleaner.clean(d) for d in raw_defs if d.strip()]
-                semantic_result = self.semantic.consolidate(cleaned)
+                # Extract text from the new structure
+                raw_defs = [item['text'] for item in def_items]
 
-                # NEW: hybrid summarization
-                defs_for_summary = semantic_result.get("definitions_for_summary", cleaned)
-                semantic_result["hybrid_summary"] = self.summarizer.summarize(defs_for_summary)
-                # REVIEWER STEP
-                reviewed = self._review_definition(
-                    cleaned,
-                    semantic_result["hybrid_summary"]
-                )
-                semantic_result["final_definition"] = reviewed
+                # ============================================================
+                # OPTIMIZATION: Skip LLM consolidation when not needed
+                # ============================================================
+                skip_consolidation = False
+                skip_reason = None
+                selected_def = None
+                selected_item = None
 
-                end = time.time()
-                semantic_result["benchmark_time_sec"] = round(end - start, 3)
-                semantic_result["raw_definition_count"] = len(raw_defs)
-                semantic_result["cleaned_definition_count"] = len(cleaned)
+                # Case 1: Single definition - use it directly
+                if len(def_items) == 1:
+                    skip_consolidation = True
+                    skip_reason = "single_definition"
+                    selected_def = def_items[0]['text']
+                    selected_item = def_items[0]['full_item']
+
+                # Case 2: Multiple definitions but has recent sources (>= 1995)
+                elif len(def_items) > 1:
+                    # Filter definitions with year >= 1995
+                    recent_defs = [item for item in def_items if item['year'] and item['year'] >= 1995]
+
+                    if recent_defs:
+                        # Use the latest definition (highest year)
+                        latest_item = max(recent_defs, key=lambda x: x['year'])
+                        skip_consolidation = True
+                        skip_reason = f"recent_definition_from_{latest_item['year']}"
+                        selected_def = latest_item['text']
+                        selected_item = latest_item['full_item']
+
+                # ============================================================
+                # If skipping consolidation, create a minimal result
+                # ============================================================
+                if skip_consolidation:
+                    cleaned_def = self.cleaner.clean(selected_def)
+                    semantic_result = {
+                        "consolidated": cleaned_def,
+                        "final_definition": cleaned_def,
+                        "hybrid_summary": cleaned_def,
+                        "cluster_assignments": None,
+                        "cluster_sizes": None,
+                        "dominant_cluster": None,
+                        "stability": 1.0,
+                        "issues": [],
+                        "cleaned_definitions": [cleaned_def],
+                        "raw_definition_count": len(raw_defs),
+                        "cleaned_definition_count": 1,
+                        "skipped_consolidation": True,
+                        "skip_reason": skip_reason,
+                        "selected_definition_metadata": {
+                            "year": selected_item.get('year') if selected_item else None,
+                            "source": selected_item.get('source') if selected_item else None,
+                        }
+                    }
+                    end = time.time()
+                    semantic_result["benchmark_time_sec"] = round(end - start, 3)
+
+                # ============================================================
+                # Otherwise, run full consolidation pipeline
+                # ============================================================
+                else:
+                    cleaned = [self.cleaner.clean(d) for d in raw_defs if d.strip()]
+                    semantic_result = self.semantic.consolidate(cleaned)
+
+                    # NEW: hybrid summarization
+                    defs_for_summary = semantic_result.get("definitions_for_summary", cleaned)
+                    semantic_result["hybrid_summary"] = self.summarizer.summarize(defs_for_summary)
+                    # REVIEWER STEP
+                    reviewed = self._review_definition(
+                        cleaned,
+                        semantic_result["hybrid_summary"]
+                    )
+                    semantic_result["final_definition"] = reviewed
+
+                    end = time.time()
+                    semantic_result["benchmark_time_sec"] = round(end - start, 3)
+                    semantic_result["raw_definition_count"] = len(raw_defs)
+                    semantic_result["cleaned_definition_count"] = len(cleaned)
+                    semantic_result["skipped_consolidation"] = False
+
+                # ============================================================
+                # TRANSLATION: Always translate the final definition
+                # ============================================================
+                es_definition = semantic_result.get("final_definition", "")
+                en_definition = self._translate_definition(es_definition)
+                semantic_result["en_definition"] = en_definition
 
                 word_report[sup] = semantic_result
 
@@ -590,7 +716,7 @@ class DefinitionConsolidator:
 
         return full_report
 
-    def _extract_definitions_by_superscript(self, word: str) -> Dict[str, List[str]]:
+    def _extract_definitions_by_superscript(self, word: str) -> Dict[str, List[Dict[str, Any]]]:
         """
         Extract definitions organized by superscript from raw JSON data.
 
@@ -598,8 +724,8 @@ class DefinitionConsolidator:
             word: The word key in self.data (can be with underscores or spaces)
 
         Returns:
-            Dictionary mapping superscript → list of definition strings
-            Example: {"1": ["definition1", "definition2"], "2": ["def3"]}
+            Dictionary mapping superscript → list of definition dicts with metadata
+            Example: {"1": [{"text": "def1", "year": 2000, "source": "X", "full_item": {...}}, ...]}
         """
         defs_by_sup = defaultdict(list)
 
@@ -631,7 +757,21 @@ class DefinitionConsolidator:
                     # Use 'definition' field which contains the actual definition text
                     text = sub_item.get('definition', '')
                     if text:
-                        defs_by_sup[superscript].append(text)
+                        # Extract year and convert to int if possible
+                        year_raw = sub_item.get('year', '')
+                        year = None
+                        if year_raw:
+                            try:
+                                year = int(year_raw)
+                            except (ValueError, TypeError):
+                                pass
+
+                        defs_by_sup[superscript].append({
+                            'text': text,
+                            'year': year,
+                            'source': sub_item.get('source', ''),
+                            'full_item': sub_item
+                        })
 
         return dict(defs_by_sup)
 
@@ -680,7 +820,7 @@ def write_preprocessed_word(letter: str, word: str, raw_data: dict, consolidated
 
             raw_entries = raw_data.get(word_key, [])
             for entry_item in raw_entries:
-                if entry_item['superscript'] == superscript:
+                if str(entry_item['superscript']) == str(superscript):
                     details = entry_item.get('details', {})
                     grammar = details.get('grammar', [])
                     origin = details.get('origin')
@@ -706,7 +846,7 @@ def write_preprocessed_word(letter: str, word: str, raw_data: dict, consolidated
             # Format sources
             sources = [{'source': src, 'year': year} for src, year in sorted(all_sources)]
 
-            # Get consolidated definition
+            # Get consolidated definition (Spanish)
             consolidated_def = (
                 result.get('final_definition')
                 or result.get('hybrid_summary')
@@ -715,6 +855,9 @@ def write_preprocessed_word(letter: str, word: str, raw_data: dict, consolidated
                 or ''
             )
             stability_score = result.get('stability', 0.0)
+
+            # Get English translation
+            en_consolidated_def = result.get('en_definition', '')
 
             # Determine consolidation reason if it failed
             consolidation_reason = None
@@ -734,10 +877,17 @@ def write_preprocessed_word(letter: str, word: str, raw_data: dict, consolidated
             # Get all cleaned definitions as reference (all definitions that were analyzed)
             cleaned_defs = result.get('cleaned_definitions', [])
 
+            # Check if consolidation was skipped (optimization)
+            consolidation_skipped = result.get('skipped_consolidation', False)
+            consolidation_skip_reason = result.get('skip_reason', None)
+
             entry["superscripts"][superscript] = {
                 "consolidated_definition": consolidated_def,
+                "en_consolidated_definition": en_consolidated_def,  # Add English translation
                 "could_not_consolidate": len(consolidated_def) == 0,
                 "consolidation_reason": consolidation_reason,
+                "consolidation_skipped": consolidation_skipped,  # NEW: Show if optimization was applied
+                "consolidation_skip_reason": consolidation_skip_reason,  # NEW: Why it was skipped
                 "consolidation_metadata": {
                     "num_definitions_analyzed": result.get('raw_definition_count', 0),
                     "num_cleaned_definitions": result.get('cleaned_definition_count', 0),
@@ -755,6 +905,7 @@ def write_preprocessed_word(letter: str, word: str, raw_data: dict, consolidated
                 }
             }
             entry["es_definitions"].append(consolidated_def)
+            entry["en_definitions"].append(en_consolidated_def)  # Add English translation to main array
 
     # Write the file
     output_file = output_letter_dir / f"{word}.json"

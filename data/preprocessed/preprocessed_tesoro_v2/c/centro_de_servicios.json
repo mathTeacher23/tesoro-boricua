@@ -3,15 +3,18 @@
   "term": "centro de servicios",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Autom\": establecimiento comercial que repara y sustituye piezas de automóviles. Calco poco frecuente de la estructura de otros nombres comerciales.",
+      "consolidated_definition": "autom. Establecimiento comercial que repara y sustituye piezas de los automóviles. Calco de estructura, poco frecuente. Allí le indicaron que, por razones de seguridad, llevara su automóvil en grúa hasta el centro de servicios para verificación del damper (Tribunal Supremo, 12-07-06)",
+      "en_consolidated_definition": "Automotive establishment that repairs and replaces parts of vehicles. Calque of structure, infrequent occurrence. There they informed him to take his vehicle on a tow truck to the service center for verification of the damper (Supreme Court, 07-12-06)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "\"Autom\": establecimiento comercial que repara y sustituye piezas de automóviles. Calco poco frecuente de la estructura de otros nombres comerciales."
+    "autom. Establecimiento comercial que repara y sustituye piezas de los automóviles. Calco de estructura, poco frecuente. Allí le indicaron que, por razones de seguridad, llevara su automóvil en grúa hasta el centro de servicios para verificación del damper (Tribunal Supremo, 12-07-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Automotive establishment that repairs and replaces parts of vehicles. Calque of structure, infrequent occurrence. There they informed him to take his vehicle on a tow truck to the service center for verification of the damper (Supreme Court, 07-12-06)"
+  ],
   "source": "https://tesoro.pr"
 }

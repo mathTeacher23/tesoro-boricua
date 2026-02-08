@@ -3,9 +3,12 @@
   "term": "volillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pequeño automóvil",
+      "consolidated_definition": "Pequeño automóvil, como el Volkswagen.",
+      "en_consolidated_definition": "Small automobile, such as the Volkswagen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pequeño automóvil"
+    "Pequeño automóvil, como el Volkswagen."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small automobile, such as the Volkswagen."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "abrir el inin",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"En el beisbol, batear en la primera mitad de la entrada\": acción de un jugador dentro del juego o inning.",
+      "consolidated_definition": "En el beisbol, batear en la primera mitad de la entrada.",
+      "en_consolidated_definition": "Bat in the first half of an inning in baseball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8814",
-        "semantic_similarity_score": 0.8814,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -35,15 +38,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En el beisbol, batear en la primera mitad de la entrada.",
-          "En el beisbol, jugar la primera mitad de la entrada."
+          "En el beisbol, batear en la primera mitad de la entrada."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"En el beisbol, batear en la primera mitad de la entrada\": acción de un jugador dentro del juego o inning."
+    "En el beisbol, batear en la primera mitad de la entrada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bat in the first half of an inning in baseball."
+  ],
   "source": "https://tesoro.pr"
 }

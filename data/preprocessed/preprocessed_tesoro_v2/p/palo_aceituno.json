@@ -3,9 +3,12 @@
   "term": "palo aceituno",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Es el mismo palo de aceituna",
+      "consolidated_definition": "Es el mismo palo de aceituna, planta distinta de la europea.",
+      "en_consolidated_definition": "It is the same olive tree branch, a distinct plant from the European one.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Es el mismo palo de aceituna"
+    "Es el mismo palo de aceituna, planta distinta de la europea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "It is the same olive tree branch, a distinct plant from the European one."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "pelilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando le dan un regaño a alguien",
+      "consolidated_definition": "Cuando le dan un regaño a alguien.",
+      "en_consolidated_definition": "When someone is reprimanded or scolded by another person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cuando le dan un regaño a alguien"
+    "Cuando le dan un regaño a alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "When someone is reprimanded or scolded by another person."
+  ],
   "source": "https://tesoro.pr"
 }

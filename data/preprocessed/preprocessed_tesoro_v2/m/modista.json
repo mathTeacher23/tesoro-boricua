@@ -3,9 +3,12 @@
   "term": "modista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Costurera fina",
+      "consolidated_definition": "Costurera fina.",
+      "en_consolidated_definition": "Fine seamstress.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Costurera fina"
+    "Costurera fina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fine seamstress."
+  ],
   "source": "https://tesoro.pr"
 }

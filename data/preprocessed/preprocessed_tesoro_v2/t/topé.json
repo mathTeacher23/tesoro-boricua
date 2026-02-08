@@ -3,9 +3,12 @@
   "term": "topé",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Antiguo peinado femenino que aún recuerdan campesinos de",
+      "consolidated_definition": "Antiguo peinado femenino que aún recuerdan campesinos de la región.",
+      "en_consolidated_definition": "Ancient female hairstyle still remembered by rural residents of the region.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Antiguo peinado femenino que aún recuerdan campesinos de"
+    "Antiguo peinado femenino que aún recuerdan campesinos de la región."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ancient female hairstyle still remembered by rural residents of the region."
+  ],
   "source": "https://tesoro.pr"
 }

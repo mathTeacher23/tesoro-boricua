@@ -3,9 +3,12 @@
   "term": "no criarse con leche pedida",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que alguien ha sido criado en una",
+      "consolidated_definition": "Indica que alguien ha sido criado en una familia cuyos padres, gracias a su trabajo y sin depender de nadie, pudieron darle lo necesario para su desarrollo.",
+      "en_consolidated_definition": "Indica que alguien ha sido criado en una familia cuyos padres, gracias a su trabajo y sin depender de nadie, pudieron proporcionarle lo necesario para su desarrollo autónomo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Indica que alguien ha sido criado en una"
+    "Indica que alguien ha sido criado en una familia cuyos padres, gracias a su trabajo y sin depender de nadie, pudieron darle lo necesario para su desarrollo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Indica que alguien ha sido criado en una familia cuyos padres, gracias a su trabajo y sin depender de nadie, pudieron proporcionarle lo necesario para su desarrollo autónomo."
+  ],
   "source": "https://tesoro.pr"
 }

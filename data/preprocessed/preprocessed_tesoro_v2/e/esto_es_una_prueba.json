@@ -3,9 +3,12 @@
   "term": "esto es una prueba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Esto es una prueba",
+      "consolidated_definition": "Esto es una prueba.",
+      "en_consolidated_definition": "This is a test.\n\nNota: La expresión \"esto es una prueba\" puede ser un término coloquial o informal en español, pero se ha mantenido para preservar el contexto y la precisión de la traducción. En un entorno formal, podría ser más adecuado utilizar una expresión como \"this is a trial\" o \"this is a test\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -32,8 +35,10 @@
     }
   },
   "es_definitions": [
-    "Esto es una prueba"
+    "Esto es una prueba."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This is a test.\n\nNota: La expresión \"esto es una prueba\" puede ser un término coloquial o informal en español, pero se ha mantenido para preservar el contexto y la precisión de la traducción. En un entorno formal, podría ser más adecuado utilizar una expresión como \"this is a trial\" o \"this is a test\"."
+  ],
   "source": "https://tesoro.pr"
 }

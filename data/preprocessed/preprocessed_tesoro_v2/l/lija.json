@@ -3,15 +3,18 @@
   "term": "lija",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tijerilla",
+      "consolidated_definition": "Tijerilla: pequeño instrumento cortante con dientes afilados, utilizado para recortar o desmenuzar materiales como papel, plástico o textiles.",
+      "en_consolidated_definition": "Small cutting instrument with sharp teeth, used to trim or shred materials such as paper, plastic, or textiles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3905",
         "semantic_similarity_score": 0.3905,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -53,9 +56,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Otro nombre para el pez llamado pereza",
+      "consolidated_definition": "Otro nombre para el pez llamado pereza.",
+      "en_consolidated_definition": "Another name for the fish known as pereza.\n\nNota: \"Pereza\" es un término específico de Puerto Rico que se refiere a una especie de pez.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -90,9 +96,12 @@
     }
   },
   "es_definitions": [
-    "Tijerilla",
-    "Otro nombre para el pez llamado pereza"
+    "Tijerilla: pequeño instrumento cortante con dientes afilados, utilizado para recortar o desmenuzar materiales como papel, plástico o textiles.",
+    "Otro nombre para el pez llamado pereza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small cutting instrument with sharp teeth, used to trim or shred materials such as paper, plastic, or textiles.",
+    "Another name for the fish known as pereza.\n\nNota: \"Pereza\" es un término específico de Puerto Rico que se refiere a una especie de pez."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ser un caballo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona dura en algo",
+      "consolidated_definition": "Persona dura en algo. Que sabe mucho.",
+      "en_consolidated_definition": "Persona versada en algo. Que posee gran conocimiento.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona dura en algo"
+    "Persona dura en algo. Que sabe mucho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona versada en algo. Que posee gran conocimiento."
+  ],
   "source": "https://tesoro.pr"
 }

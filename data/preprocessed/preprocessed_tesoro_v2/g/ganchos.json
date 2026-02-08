@@ -3,9 +3,12 @@
   "term": "ganchos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, especie de clavos que tienen los zapatos de los jugadores en su suela.",
+      "en_consolidated_definition": "In baseball, a type of cleat found on the soles of players' shoes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, especie de clavos que tienen los zapatos de los jugadores en su suela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a type of cleat found on the soles of players' shoes."
+  ],
   "source": "https://tesoro.pr"
 }

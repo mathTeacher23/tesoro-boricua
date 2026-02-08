@@ -3,15 +3,18 @@
   "term": "chichaíto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bebida compuesta por ron y anís: licor o digestivo.",
+      "consolidated_definition": "Bebida compuesta de ron o anís y gaseosa.",
+      "en_consolidated_definition": "Drink composed of rum or anise and soda water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5212",
-        "semantic_similarity_score": 0.5212,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,17 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Trago con ron y con anís.",
-          "Dícese del que se emborracha con dicha bebida. “Estar chichaíto”.",
-          "Ron “Palo Viejo” con anís.",
           "Bebida compuesta de ron o anís y gaseosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Bebida compuesta por ron y anís: licor o digestivo."
+    "Bebida compuesta de ron o anís y gaseosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Drink composed of rum or anise and soda water."
+  ],
   "source": "https://tesoro.pr"
 }

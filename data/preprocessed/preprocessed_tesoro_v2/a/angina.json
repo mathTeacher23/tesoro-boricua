@@ -3,15 +3,18 @@
   "term": "angina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asma, trastorno respiratorio crónico caracterizado por la inflamación y la obstrucción de las vías aéreas, lo que provoca síntomas como dificultad para respirar, tos y falta de aliento.",
+      "consolidated_definition": "Asma, ahogo.",
+      "en_consolidated_definition": "Asthma, choking sensation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9813",
-        "semantic_similarity_score": 0.9813,
-        "cluster_count": 1,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Asma, ahogo.",
           "Asma, ahogo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Asma, trastorno respiratorio crónico caracterizado por la inflamación y la obstrucción de las vías aéreas, lo que provoca síntomas como dificultad para respirar, tos y falta de aliento."
+    "Asma, ahogo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Asthma, choking sensation."
+  ],
   "source": "https://tesoro.pr"
 }

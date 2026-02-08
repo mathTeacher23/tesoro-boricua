@@ -3,9 +3,12 @@
   "term": "tumbo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cabeceo de la embarcación",
+      "consolidated_definition": "Cabeceo de la embarcación. Se usa en la construcción dar tumbos.",
+      "en_consolidated_definition": "Rolling of the vessel. Used in the phrase \"dar tumbos\" (to give a roll).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Cabeceo de la embarcación"
+    "Cabeceo de la embarcación. Se usa en la construcción dar tumbos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rolling of the vessel. Used in the phrase \"dar tumbos\" (to give a roll)."
+  ],
   "source": "https://tesoro.pr"
 }

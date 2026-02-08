@@ -3,9 +3,12 @@
   "term": "yerba de cabro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parece que se alude a la utilidad de",
+      "consolidated_definition": "Parece que se alude a la utilidad de dicho vegetal como alimento para cierta clase de ganado.",
+      "en_consolidated_definition": "It appears to refer to the utility of this plant as food for a certain class of livestock.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Parece que se alude a la utilidad de"
+    "Parece que se alude a la utilidad de dicho vegetal como alimento para cierta clase de ganado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "It appears to refer to the utility of this plant as food for a certain class of livestock."
+  ],
   "source": "https://tesoro.pr"
 }

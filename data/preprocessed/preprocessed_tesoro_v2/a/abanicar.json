@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Tratar con severidad a una persona.",
+      "en_consolidated_definition": "Treat someone with severity or harshness.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -48,15 +51,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "En el juego de béisbol, \"cubar\" se refiere al acto de no darle a la pelota después de intentarlo con fuerza, especialmente cuando un lanzador falla en su intento de sacar a un corredor.",
+      "consolidated_definition": "En el beisbol, fallar el jugador al tratar de batear, después de haber tomado impulso y de haber seguido el bate su trayectoria completa.",
+      "en_consolidated_definition": "In baseball, a player fails to hit the ball after taking a swing and following through with their bat's complete trajectory.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5896",
-        "semantic_similarity_score": 0.5896,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -85,17 +91,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cuba, Nic., P. Rico y Ven. En el juego de béisbol, no darle a la pelota después de intentarlo con fuerza.",
-          "En el beisbol, fallar el jugador al tratar de batear, después de haber tomado impulso y de haber seguido el bate su trayectoria completa.",
-          "En el beisbol, hacer el lanzador que un jugador falle al tratar de batear."
+          "En el beisbol, fallar el jugador al tratar de batear, después de haber tomado impulso y de haber seguido el bate su trayectoria completa."
         ]
       }
     }
   },
   "es_definitions": [
     "Tratar con severidad a una persona.",
-    "En el juego de béisbol, \"cubar\" se refiere al acto de no darle a la pelota después de intentarlo con fuerza, especialmente cuando un lanzador falla en su intento de sacar a un corredor."
+    "En el beisbol, fallar el jugador al tratar de batear, después de haber tomado impulso y de haber seguido el bate su trayectoria completa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Treat someone with severity or harshness.",
+    "In baseball, a player fails to hit the ball after taking a swing and following through with their bat's complete trajectory."
+  ],
   "source": "https://tesoro.pr"
 }

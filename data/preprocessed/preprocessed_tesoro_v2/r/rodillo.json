@@ -3,9 +3,12 @@
   "term": "rodillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cilindro de madera usado para extender la masa",
+      "consolidated_definition": "Cilindro de madera usado para extender la masa de harina.",
+      "en_consolidated_definition": "Wooden rolling pin used to extend the dough of flour.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cilindro grande hecho de trapo usado para tejer",
+      "consolidated_definition": "Cilindro grande hecho de trapo usado para tejer encajes. Mundillo.",
+      "en_consolidated_definition": "Large wooden or cardboard cylinder used for weaving lace. Bobbin.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Cilindro de madera usado para extender la masa",
-    "Cilindro grande hecho de trapo usado para tejer"
+    "Cilindro de madera usado para extender la masa de harina.",
+    "Cilindro grande hecho de trapo usado para tejer encajes. Mundillo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wooden rolling pin used to extend the dough of flour.",
+    "Large wooden or cardboard cylinder used for weaving lace. Bobbin."
+  ],
   "source": "https://tesoro.pr"
 }

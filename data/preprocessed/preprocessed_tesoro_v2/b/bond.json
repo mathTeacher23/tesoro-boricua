@@ -3,15 +3,18 @@
   "term": "bond",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En albañilería, mezcla floja utilizada como base para la colocación de losas.",
+      "consolidated_definition": "En albañilería, mezcla floja usada como base de pisos enlosados.",
+      "en_consolidated_definition": "In masonry, a loose mixture used as the base for enlaid floors.\n\nNota: En este contexto, \"enlaid\" se refiere a un tipo de piso que está cubierto con una capa de material (como piedra o cerámica) que se ha colocado sobre una superficie previa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En albañilería, mezcla floja utilizada como base para la colocación de losas."
+    "En albañilería, mezcla floja usada como base de pisos enlosados."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In masonry, a loose mixture used as the base for enlaid floors.\n\nNota: En este contexto, \"enlaid\" se refiere a un tipo de piso que está cubierto con una capa de material (como piedra o cerámica) que se ha colocado sobre una superficie previa."
+  ],
   "source": "https://tesoro.pr"
 }

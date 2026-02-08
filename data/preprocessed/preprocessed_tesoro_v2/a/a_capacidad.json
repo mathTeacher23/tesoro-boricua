@@ -3,15 +3,18 @@
   "term": "a capacidad",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Al máximo permitido o hasta el límite establecido.",
+      "consolidated_definition": "A pleno rendimiento, hasta el límite o a lo máximo que se permita. Unos 17 vuelos -llenos a capacidad- llegarán este lunes a Puerto Rico, procedentes de Orlando, Florida, donde se celebraron dos festivales musicales que tienen en alerta a las autoridades locales. (Telemundo PR, 26-04-21)",
+      "en_consolidated_definition": "A full capacity, to the utmost limit or maximum allowed.\n\nNota: En este contexto, \"a pleno rendimiento\" se refiere a que los vuelos están llenos hasta su capacidad máxima permitida.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Al máximo permitido o hasta el límite establecido."
+    "A pleno rendimiento, hasta el límite o a lo máximo que se permita. Unos 17 vuelos -llenos a capacidad- llegarán este lunes a Puerto Rico, procedentes de Orlando, Florida, donde se celebraron dos festivales musicales que tienen en alerta a las autoridades locales. (Telemundo PR, 26-04-21)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A full capacity, to the utmost limit or maximum allowed.\n\nNota: En este contexto, \"a pleno rendimiento\" se refiere a que los vuelos están llenos hasta su capacidad máxima permitida."
+  ],
   "source": "https://tesoro.pr"
 }

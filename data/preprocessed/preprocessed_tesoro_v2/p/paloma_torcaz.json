@@ -3,9 +3,12 @@
   "term": "paloma torcaz",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ave",
+      "consolidated_definition": "Ave.",
+      "en_consolidated_definition": "Bird.\n\nNota: La palabra \"ave\" en español es un término genérico que se refiere a cualquier tipo de ave, por lo que la traducción es directa y no requiere explicaciones adicionales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ave"
+    "Ave."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bird.\n\nNota: La palabra \"ave\" en español es un término genérico que se refiere a cualquier tipo de ave, por lo que la traducción es directa y no requiere explicaciones adicionales."
+  ],
   "source": "https://tesoro.pr"
 }

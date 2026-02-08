@@ -3,9 +3,12 @@
   "term": "sin pepitas en la lengua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De manera directa",
+      "consolidated_definition": "De manera directa, sin tapujos.",
+      "en_consolidated_definition": "Directamente, sin reservas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "De manera directa"
+    "De manera directa, sin tapujos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Directamente, sin reservas."
+  ],
   "source": "https://tesoro.pr"
 }

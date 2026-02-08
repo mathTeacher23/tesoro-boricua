@@ -3,14 +3,17 @@
   "term": "en baja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a un vehículo automotor",
+      "consolidated_definition": "Referido a un vehículo automotor, que tiene pocas revoluciones.",
+      "en_consolidated_definition": "Referido a un vehículo automotor, que tiene una baja velocidad de giro del motor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4562",
-        "semantic_similarity_score": 0.4562,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución adjetiva"
@@ -35,16 +38,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Referido a un vehículo automotor, que tiene pocas revoluciones.",
-          "Referido a persona, que su estimación y prestigio han disminuido ante los demás.",
-          "Referido a persona, que está cansada, sin energías."
+          "Referido a un vehículo automotor, que tiene pocas revoluciones."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a un vehículo automotor"
+    "Referido a un vehículo automotor, que tiene pocas revoluciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a un vehículo automotor, que tiene una baja velocidad de giro del motor."
+  ],
   "source": "https://tesoro.pr"
 }

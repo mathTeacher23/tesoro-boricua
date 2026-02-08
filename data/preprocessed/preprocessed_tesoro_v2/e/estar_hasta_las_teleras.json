@@ -3,9 +3,12 @@
   "term": "estar hasta las teleras",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar en grave aprieto",
+      "consolidated_definition": "Estar en grave aprieto. Estar hasta el cuello.",
+      "en_consolidated_definition": "To be in a tight spot. To be up to one's neck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Estar en grave aprieto"
+    "Estar en grave aprieto. Estar hasta el cuello."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be in a tight spot. To be up to one's neck."
+  ],
   "source": "https://tesoro.pr"
 }

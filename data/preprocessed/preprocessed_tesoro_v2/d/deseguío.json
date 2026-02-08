@@ -3,9 +3,12 @@
   "term": "deseguío",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En seguida",
+      "consolidated_definition": "En seguida. “Deseguío traen tres lechones.”",
+      "en_consolidated_definition": "Immediately. \"They are bringing three piglets.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -33,14 +36,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En seguida. “Deseguío tres lechones.”"
+          "En seguida. “Deseguío traen tres lechones.”"
         ]
       }
     }
   },
   "es_definitions": [
-    "En seguida"
+    "En seguida. “Deseguío traen tres lechones.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Immediately. \"They are bringing three piglets.\""
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "trillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Afirmar un camino., relacionado con un grupo",
+      "consolidated_definition": "Establecer o confirmar el camino que se seguirá.",
+      "en_consolidated_definition": "Establish or confirm the course of action to be followed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.4718",
         "semantic_similarity_score": 0.4718,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "verbo transitivo"
         ],
@@ -55,9 +58,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Separar el café de trilla",
+      "consolidated_definition": "Separar el café de trilla.",
+      "en_consolidated_definition": "Separate the coffee from the chaff.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -95,9 +101,12 @@
     }
   },
   "es_definitions": [
-    ". Afirmar un camino., relacionado con un grupo",
-    "Separar el café de trilla"
+    "Establecer o confirmar el camino que se seguirá.",
+    "Separar el café de trilla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Establish or confirm the course of action to be followed.",
+    "Separate the coffee from the chaff."
+  ],
   "source": "https://tesoro.pr"
 }

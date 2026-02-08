@@ -3,14 +3,17 @@
   "term": "picheo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "En el beisbol, lanzamiento de pelota al bateador.",
+      "en_consolidated_definition": "Pitch to the batter in baseball.\n\nNota: En este caso, \"beisbol\" se mantiene en su forma original para reflejar el término específico de Puerto Rico, ya que es una variante del idioma español utilizada en la isla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.548",
-        "semantic_similarity_score": 0.548,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el béisbol, lanzamiento de la pelota. Anglicismo adaptado, usual. Puerto Rico derrotó ampliamente a los hondureños, 6-1, superándolos con buenos pitcheos del lanzador ganador Víctor Vargas, y también una gran ofensiva en el momento preciso",
           "En el beisbol, lanzamiento de pelota al bateador."
         ]
       }
     }
   },
   "es_definitions": [
-    "dep"
+    "En el beisbol, lanzamiento de pelota al bateador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pitch to the batter in baseball.\n\nNota: En este caso, \"beisbol\" se mantiene en su forma original para reflejar el término específico de Puerto Rico, ya que es una variante del idioma español utilizada en la isla."
+  ],
   "source": "https://tesoro.pr"
 }

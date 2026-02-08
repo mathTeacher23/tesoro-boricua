@@ -3,15 +3,18 @@
   "term": "pichiche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tabaco de mala calidad",
+      "consolidated_definition": "Tabaco de mala calidad: sustancia vegetal procesada que no cumple con los estándares de calidad en términos de aroma, sabor o contenido de nicotina.",
+      "en_consolidated_definition": "Low-quality tobacco: processed plant material that fails to meet quality standards in terms of aroma, flavor, or nicotine content.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.3691",
         "semantic_similarity_score": 0.3691,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -50,8 +53,10 @@
     }
   },
   "es_definitions": [
-    "Tabaco de mala calidad"
+    "Tabaco de mala calidad: sustancia vegetal procesada que no cumple con los estándares de calidad en términos de aroma, sabor o contenido de nicotina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Low-quality tobacco: processed plant material that fails to meet quality standards in terms of aroma, flavor, or nicotine content."
+  ],
   "source": "https://tesoro.pr"
 }

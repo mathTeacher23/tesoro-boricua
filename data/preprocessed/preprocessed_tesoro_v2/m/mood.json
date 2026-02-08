@@ -3,14 +3,17 @@
   "term": "mood",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Buen o mal estado de ánimo",
+      "consolidated_definition": "Estado de ánimo.",
+      "en_consolidated_definition": "Mood state.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.7117",
-        "semantic_similarity_score": 0.7117,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -49,18 +52,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Buen o mal estado de ánimo.",
-          "Estado de ánimo. Forma de ser.",
-          "Este anglicismo parece estar adquiriendo fuerza para nombrar estados de ánimo. Se utiliza particularmente en expresiones como “no estar en el mood de”, “estar moody”, etc. Humor, deseo, ánimo, ganas.",
-          "Ánimo, disposición. Estado particular de la mente o de los sentimientos. Anglicismo crudo, frecuente. Y es que esta moderna hospedería cuenta con cinco atmósferas enteramente diferentes, donde uno puede comer a sus anchas y de acuerdo con la ocasión y el mood",
           "Estado de ánimo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Buen o mal estado de ánimo"
+    "Estado de ánimo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mood state.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tener un kike de coca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Haber usado cocaína",
+      "consolidated_definition": "Haber usado cocaína.",
+      "en_consolidated_definition": "To have used cocaine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Haber usado cocaína"
+    "Haber usado cocaína."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To have used cocaine."
+  ],
   "source": "https://tesoro.pr"
 }

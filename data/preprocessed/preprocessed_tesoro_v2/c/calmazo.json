@@ -3,15 +3,18 @@
   "term": "calmazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Situación en el mar tras un gran viento.",
+      "consolidated_definition": "En las actividades marítimas, interrupción de la fuerza del viento o de la agitación de las olas.",
+      "en_consolidated_definition": "Interference of the wind's force or wave agitation in maritime activities.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4745",
-        "semantic_similarity_score": 0.4745,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Situación en el mar tras un gran viento.",
           "En las actividades marítimas, interrupción de la fuerza del viento o de la agitación de las olas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Situación en el mar tras un gran viento."
+    "En las actividades marítimas, interrupción de la fuerza del viento o de la agitación de las olas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Interference of the wind's force or wave agitation in maritime activities."
+  ],
   "source": "https://tesoro.pr"
 }

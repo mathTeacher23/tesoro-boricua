@@ -3,9 +3,12 @@
   "term": "de pendejo no tiene ni un pelo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica la astucia que tiene alguien",
+      "consolidated_definition": "Indica la astucia que tiene alguien.",
+      "en_consolidated_definition": "Indicates the cunning or astuteness of someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Indica la astucia que tiene alguien"
+    "Indica la astucia que tiene alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Indicates the cunning or astuteness of someone."
+  ],
   "source": "https://tesoro.pr"
 }

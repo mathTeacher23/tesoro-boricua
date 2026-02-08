@@ -3,15 +3,18 @@
   "term": "suspiro",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Merengue, dulce.",
+      "consolidated_definition": "El merengue es un postre dulce tradicional que se elabora con harina, azúcar y huevo.",
+      "en_consolidated_definition": "The merengue is a traditional sweet dessert made with flour, sugar, and egg.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6249",
-        "semantic_similarity_score": 0.6249,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4601",
+        "semantic_similarity_score": 0.4601,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,20 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Merengue, dulce.",
+          ". Merengue, dulce. (En España se hace con harina, azúcar y huevo.)",
           "Sospiro merengue."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Voz usada por drogadictos",
+      "consolidated_definition": "Fumada de una colilla de marihuana.",
+      "en_consolidated_definition": "Marijuana butt-end residue or remnant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8848",
-        "semantic_similarity_score": 0.8848,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -81,16 +87,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Voz usada por drogadictos. Fumada de una colilla de marihuana.",
           "Fumada de una colilla de marihuana."
         ]
       }
     }
   },
   "es_definitions": [
-    ". Merengue, dulce.",
-    "Voz usada por drogadictos"
+    "El merengue es un postre dulce tradicional que se elabora con harina, azúcar y huevo.",
+    "Fumada de una colilla de marihuana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The merengue is a traditional sweet dessert made with flour, sugar, and egg.",
+    "Marijuana butt-end residue or remnant."
+  ],
   "source": "https://tesoro.pr"
 }

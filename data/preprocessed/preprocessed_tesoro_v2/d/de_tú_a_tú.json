@@ -3,9 +3,12 @@
   "term": "de tú a tú",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De igual a igual",
+      "consolidated_definition": "De igual a igual, aún cuando se digan usted.",
+      "en_consolidated_definition": "On the same level, even when addressed as \"you\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "De igual a igual"
+    "De igual a igual, aún cuando se digan usted."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "On the same level, even when addressed as \"you\"."
+  ],
   "source": "https://tesoro.pr"
 }

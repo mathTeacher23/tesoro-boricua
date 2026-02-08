@@ -3,9 +3,12 @@
   "term": "siriaco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Apodo aplicado a una persona cuando no se",
+      "consolidated_definition": "Apodo aplicado a una persona cuando no se le sabe el nombre.",
+      "en_consolidated_definition": "Anonymous nickname applied to a person whose name is unknown.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Apodo aplicado a una persona cuando no se"
+    "Apodo aplicado a una persona cuando no se le sabe el nombre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Anonymous nickname applied to a person whose name is unknown."
+  ],
   "source": "https://tesoro.pr"
 }

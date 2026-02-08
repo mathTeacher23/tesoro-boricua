@@ -3,9 +3,12 @@
   "term": "fulear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llenar de combustible el tanque o depósito de",
+      "consolidated_definition": "Llenar de combustible el tanque o depósito de un vehículo.",
+      "en_consolidated_definition": "Fill the fuel tank or reservoir of a vehicle with gasoline.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Llenar de combustible el tanque o depósito de"
+    "Llenar de combustible el tanque o depósito de un vehículo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fill the fuel tank or reservoir of a vehicle with gasoline."
+  ],
   "source": "https://tesoro.pr"
 }

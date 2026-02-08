@@ -3,14 +3,17 @@
   "term": "down",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Triste",
+      "consolidated_definition": "Referido a persona, triste, decaída, deprimida.",
+      "en_consolidated_definition": "Desalentada, desanimada, deprimida.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6159",
-        "semantic_similarity_score": 0.6159,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -45,16 +48,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Triste, decaído.",
-          "Deprimido, triste. Estado emocional en el que se muestra decaimiento de ánimo. Anglicismo crudo, frecuente. No estamos alegres pero tampoco estamos down, agregó antes de salir del parque",
           "Referido a persona, triste, decaída, deprimida."
         ]
       }
     }
   },
   "es_definitions": [
-    "Triste"
+    "Referido a persona, triste, decaída, deprimida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Desalentada, desanimada, deprimida."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tromba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el mar",
+      "consolidated_definition": "En el mar, golpe de viento.",
+      "en_consolidated_definition": "Marine gust of wind.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En el mar"
+    "En el mar, golpe de viento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine gust of wind."
+  ],
   "source": "https://tesoro.pr"
 }

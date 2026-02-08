@@ -3,9 +3,12 @@
   "term": "wattage",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cantidad de watios que actúa en un aparato, relacionado con un mecanismo",
+      "consolidated_definition": "Cantidad de watios que actúa en un aparato o sistema.",
+      "en_consolidated_definition": "Amount of watts acting in an apparatus or system.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cantidad de watios que actúa en un aparato, relacionado con un mecanismo"
+    "Cantidad de watios que actúa en un aparato o sistema."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Amount of watts acting in an apparatus or system."
+  ],
   "source": "https://tesoro.pr"
 }

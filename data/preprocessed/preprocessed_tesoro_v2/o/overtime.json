@@ -3,14 +3,17 @@
   "term": "overtime",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tiempo extra",
+      "consolidated_definition": "Tiempo extra de trabajo que se cobra aparte.",
+      "en_consolidated_definition": "Overtime pay that is billed separately.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5027",
-        "semantic_similarity_score": 0.5027,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -48,17 +51,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Tiempo extra, horas extras.",
-          "Tiempo extra. Horas de trabajo que se realizan después de haber cumplido la jornada regular. Anglicismo crudo, usual. Rondón labora como mensajero en una tienda por departamentos y el sexto día descarga mercancía. “Si pudiera hacer cuatro días de 10 horas y hacer overtime, lo haría”, declaró",
-          "Tiempo de juego que se añade para desempatar. Anglicismo crudo, usual. Como siempre pasa, a nuestros gares se les pone presion en los ultimos 3 minutos en un juego cerrado y van a botar la bola ... esto lo sabe muy bien David Rosario y nos pusieron presion al final del juego y del overtime",
           "Tiempo extra de trabajo que se cobra aparte."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tiempo extra"
+    "Tiempo extra de trabajo que se cobra aparte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Overtime pay that is billed separately."
+  ],
   "source": "https://tesoro.pr"
 }

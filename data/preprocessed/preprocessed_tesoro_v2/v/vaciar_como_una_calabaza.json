@@ -3,9 +3,12 @@
   "term": "vaciar como una calabaza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Decir todo lo que le viene en ganas",
+      "consolidated_definition": "Decir todo lo que le viene en ganas.",
+      "en_consolidated_definition": "To express everything that comes to mind.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Decir todo lo que le viene en ganas"
+    "Decir todo lo que le viene en ganas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To express everything that comes to mind."
+  ],
   "source": "https://tesoro.pr"
 }

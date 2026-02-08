@@ -3,9 +3,12 @@
   "term": "estar trancado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar en la cárcel",
+      "consolidated_definition": "Estar en la cárcel.",
+      "en_consolidated_definition": "To be incarcerated.\n\nTo be in prison.\n\nTo be behind bars.\n\nTo be doing time.\n\nTo be locked up.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Estar en la cárcel"
+    "Estar en la cárcel."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be incarcerated.\n\nTo be in prison.\n\nTo be behind bars.\n\nTo be doing time.\n\nTo be locked up."
+  ],
   "source": "https://tesoro.pr"
 }

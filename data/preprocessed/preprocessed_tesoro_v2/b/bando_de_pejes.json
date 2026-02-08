@@ -3,15 +3,18 @@
   "term": "bando de pejes",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Banco de peces\": depósito o acumulación de peces en un lugar determinado, especialmente en la costa marina.",
+      "consolidated_definition": "Banco de peces.",
+      "en_consolidated_definition": "Fish bank.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.885",
-        "semantic_similarity_score": 0.885,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Banco de pescado.",
           "Banco de peces."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Banco de peces\": depósito o acumulación de peces en un lugar determinado, especialmente en la costa marina."
+    "Banco de peces."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fish bank."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "quitapulso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver chamaluco 1",
+      "consolidated_definition": "Ver chamaluco 1 .",
+      "en_consolidated_definition": "Ver chamaluco 1.\n\nSee chamaluco 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver chamaluco 1"
+    "Ver chamaluco 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ver chamaluco 1.\n\nSee chamaluco 1."
+  ],
   "source": "https://tesoro.pr"
 }

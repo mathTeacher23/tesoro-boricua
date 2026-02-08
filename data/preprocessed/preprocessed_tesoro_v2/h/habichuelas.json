@@ -3,14 +3,17 @@
   "term": "habichuelas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comida en sentido general",
+      "consolidated_definition": "Frijol, especialmente el de color rojo, básico en la dieta del puertorriqueño y del dominicano.",
+      "en_consolidated_definition": "Bean, particularly the red variety, a staple in the diet of Puerto Ricans and Dominicans.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3154",
-        "semantic_similarity_score": 0.3154,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -42,15 +45,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Comida en sentido general.",
           "Frijol, especialmente el de color rojo, básico en la dieta del puertorriqueño y del dominicano."
         ]
       }
     }
   },
   "es_definitions": [
-    "Comida en sentido general"
+    "Frijol, especialmente el de color rojo, básico en la dieta del puertorriqueño y del dominicano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bean, particularly the red variety, a staple in the diet of Puerto Ricans and Dominicans."
+  ],
   "source": "https://tesoro.pr"
 }

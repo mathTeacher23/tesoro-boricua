@@ -3,14 +3,17 @@
   "term": "pisicorre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guagüita para pocos pasajeros",
+      "consolidated_definition": "Furgoneta preparada para el transporte público de pasajeros entre pueblos de la isla y barrios de las ciudades.",
+      "en_consolidated_definition": "Minibus prepared for public transportation of passengers between towns on the island and neighborhoods in cities.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.4618",
-        "semantic_similarity_score": 0.4618,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -59,20 +62,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Guagüita para pocos pasajeros. La palabra ha pasado a Santo Domingo.",
-          "Autobús interurbano. También guagüita pisicorre, station wagon, Volkswagen.",
-          "Furgoneta preparada para el transporte público de pasajeros entre pueblos y barrios de la isla.",
-          "Guaguas públicas.",
-          "Cierto tipo de furgoneta.",
-          "Furgoneta preparada para el transporte público de pasajeros entre pueblos de la isla y barrios de las ciudades.",
-          "Autobús interurbano."
+          "Furgoneta preparada para el transporte público de pasajeros entre pueblos de la isla y barrios de las ciudades."
         ]
       }
     }
   },
   "es_definitions": [
-    "Guagüita para pocos pasajeros"
+    "Furgoneta preparada para el transporte público de pasajeros entre pueblos de la isla y barrios de las ciudades."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Minibus prepared for public transportation of passengers between towns on the island and neighborhoods in cities."
+  ],
   "source": "https://tesoro.pr"
 }

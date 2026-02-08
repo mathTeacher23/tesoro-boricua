@@ -3,9 +3,12 @@
   "term": "gusano de comején",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Insecto",
+      "consolidated_definition": "Insecto. También comején.",
+      "en_consolidated_definition": "Insect; also a cockroach.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Insecto"
+    "Insecto. También comején."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Insect; also a cockroach."
+  ],
   "source": "https://tesoro.pr"
 }

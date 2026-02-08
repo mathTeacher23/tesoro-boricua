@@ -3,15 +3,18 @@
   "term": "bagazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por antonomasia, en Puerto Rico y demás tierras del Caribe y América en general, donde se beneficia se procesa la caña sucrosa, residuo de la caña después de haberse molido y exprimido para extraerle el guarapo.",
+      "consolidated_definition": "En la industria azucarera, residuo de la caña, una vez extraído el jugo.",
+      "en_consolidated_definition": "Residue of sugarcane in the sugar industry, after juice extraction.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5892",
-        "semantic_similarity_score": 0.5892,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -49,23 +52,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Por antonomasia, el de la caña.",
-          "Paja de la caña.",
-          "Por antonomasia, en Puerto Rico y demás tierras del Caribe y América en general, donde se beneficia se procesa la caña sucrosa, residuo de la caña después de haberse molido y exprimido para extraerle el guarapo.",
           "En la industria azucarera, residuo de la caña, una vez extraído el jugo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que se considera indigna de respeto o admiración debido a sus acciones o comportamiento.",
+      "consolidated_definition": "Persona despreciable.",
+      "en_consolidated_definition": "Despreciable persona.\n\nNota: La palabra \"despreciable\" tiene un tono negativo y despectivo en español, pero es importante mantener el significado exacto en la traducción. En inglés, se puede utilizar la expresión \"despicable person\" para transmitir el mismo sentido de desprecio y falta de respeto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.631",
-        "semantic_similarity_score": 0.631,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -93,17 +96,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Persona despreciable.",
-          "Persona despreciable.",
-          "Persona que ha perdido su valía, su productividad."
+          "Persona despreciable."
         ]
       }
     }
   },
   "es_definitions": [
-    "Por antonomasia, en Puerto Rico y demás tierras del Caribe y América en general, donde se beneficia se procesa la caña sucrosa, residuo de la caña después de haberse molido y exprimido para extraerle el guarapo.",
-    "Persona que se considera indigna de respeto o admiración debido a sus acciones o comportamiento."
+    "En la industria azucarera, residuo de la caña, una vez extraído el jugo.",
+    "Persona despreciable."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Residue of sugarcane in the sugar industry, after juice extraction.",
+    "Despreciable persona.\n\nNota: La palabra \"despreciable\" tiene un tono negativo y despectivo en español, pero es importante mantener el significado exacto en la traducción. En inglés, se puede utilizar la expresión \"despicable person\" para transmitir el mismo sentido de desprecio y falta de respeto."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "viravira",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sucesión continua de actos rápidos",
+      "consolidated_definition": "Sucesión continua de actos rápidos.",
+      "en_consolidated_definition": "Continuous succession of rapid actions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sucesión continua de actos rápidos"
+    "Sucesión continua de actos rápidos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Continuous succession of rapid actions."
+  ],
   "source": "https://tesoro.pr"
 }

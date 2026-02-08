@@ -3,14 +3,17 @@
   "term": "paño",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Porción de tejido en un arte de malla",
+      "consolidated_definition": "En las actividades marítimas, porción de tejido en un arte de malla.",
+      "en_consolidated_definition": "Portion of fabric in a meshwork used in maritime activities.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7044",
-        "semantic_similarity_score": 0.7044,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,21 +44,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Porción de tejido en un arte de malla. También le llaman así a los tramos o secciones de un trasmallo o chinchorro.",
-          "En las actividades marítimas, porción de tejido en un arte de malla.",
-          "En las actividades marítimas, tramo o sección de un chinchorro."
+          "En las actividades marítimas, porción de tejido en un arte de malla."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Hongos en la piel que forman mapas de",
+      "consolidated_definition": "Hongos que forman zonas más claras que el color natural de la piel de la persona.",
+      "en_consolidated_definition": "Fungi that form areas lighter than the natural color of a person's skin.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8588",
-        "semantic_similarity_score": 0.8588,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -86,16 +90,18 @@
           "pañoso, sa"
         ],
         "reference_definitions": [
-          "Hongos en la piel que forman mapas de color más claro que el color normal de la piel de la persona que lo padece.",
           "Hongos que forman zonas más claras que el color natural de la piel de la persona."
         ]
       }
     }
   },
   "es_definitions": [
-    "Porción de tejido en un arte de malla",
-    "Hongos en la piel que forman mapas de"
+    "En las actividades marítimas, porción de tejido en un arte de malla.",
+    "Hongos que forman zonas más claras que el color natural de la piel de la persona."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Portion of fabric in a meshwork used in maritime activities.",
+    "Fungi that form areas lighter than the natural color of a person's skin."
+  ],
   "source": "https://tesoro.pr"
 }

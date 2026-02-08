@@ -3,9 +3,12 @@
   "term": "guineo cristo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variante para referirse a un tipo de guineo",
+      "consolidated_definition": "Variante para referirse a un tipo de guineo.",
+      "en_consolidated_definition": "Variant used to refer to a type of banana.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Variante para referirse a un tipo de guineo"
+    "Variante para referirse a un tipo de guineo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Variant used to refer to a type of banana."
+  ],
   "source": "https://tesoro.pr"
 }

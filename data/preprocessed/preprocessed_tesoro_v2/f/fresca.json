@@ -3,15 +3,18 @@
   "term": "fresca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La madrugada",
+      "consolidated_definition": "\"La fresca\": expresión coloquial que se refiere al aire o brisa matutina o vespertina, especialmente en momentos cercanos al amanecer o atardecer.",
+      "en_consolidated_definition": "Morning or evening breeze, especially in the moments close to dawn or dusk.\n\nNota: La expresión \"La fresca\" es un término coloquial que se utiliza en Puerto Rico para describir el aire o brisa matutina o vespertina. En la traducción, he mantenido el contexto y preservado el término original para reflejar su significado cultural específico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.6141",
         "semantic_similarity_score": 0.6141,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -55,14 +58,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Se dice de la tierra que conserva alguna",
+      "consolidated_definition": "Referido a la tierra, que conserva alguna humedad y se puede sembrar en ella.",
+      "en_consolidated_definition": "Referido a la tierra que conserva alguna humedad y se puede sembrar en ella.\n\nTraducción:\n\nReferred to land that retains some moisture and can be sown on it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9423",
-        "semantic_similarity_score": 0.9423,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -91,16 +97,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice de la tierra que conserva alguna humedad y se puede sembrar en ella.",
           "Referido a la tierra, que conserva alguna humedad y se puede sembrar en ella."
         ]
       }
     }
   },
   "es_definitions": [
-    "La madrugada",
-    "Se dice de la tierra que conserva alguna"
+    "\"La fresca\": expresión coloquial que se refiere al aire o brisa matutina o vespertina, especialmente en momentos cercanos al amanecer o atardecer.",
+    "Referido a la tierra, que conserva alguna humedad y se puede sembrar en ella."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Morning or evening breeze, especially in the moments close to dawn or dusk.\n\nNota: La expresión \"La fresca\" es un término coloquial que se utiliza en Puerto Rico para describir el aire o brisa matutina o vespertina. En la traducción, he mantenido el contexto y preservado el término original para reflejar su significado cultural específico.",
+    "Referido a la tierra que conserva alguna humedad y se puede sembrar en ella.\n\nTraducción:\n\nReferred to land that retains some moisture and can be sown on it."
+  ],
   "source": "https://tesoro.pr"
 }

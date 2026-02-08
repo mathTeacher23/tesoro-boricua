@@ -3,15 +3,18 @@
   "term": "chavo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Moneda de curso legal en algunos países, equivalente a la centésima parte de una unidad monetaria.",
+      "consolidated_definition": "Dinero, moneda corriente.",
+      "en_consolidated_definition": "Current currency.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "num_cleaned_definitions": 11,
-        "definition_stability": "Stability: 0.5268",
-        "semantic_similarity_score": 0.5268,
-        "cluster_count": 10,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -73,24 +76,17 @@
           "chavería"
         ],
         "reference_definitions": [
-          "(general) Centavo, moneda de cobre que vale un céntimo de dólar. En Santo Domingo: chele; en Cuba: kilo.",
-          "pl. Dinero, riqueza.",
-          "Centavo.",
-          "Centavo, moneda. Voz usada en otros países de Hispanoamérica. Dinero. “No tengo chavos”, ‘no tengo dinero’.",
-          "Ochavo, céntimo, ochavo moruno.",
-          "Centavo.",
-          "pl. Dinero. Marqués: “¿De onde quiere que saquemoh loh chavoh?”",
-          "pl. Dinero.",
-          ". coloq. Centavo de dólar.",
-          "pl. Dinero (moneda corriente).",
           "Dinero, moneda corriente."
         ]
       }
     },
     "2": {
       "consolidated_definition": "\"bajo\": adjetivo que describe algo como situado o ubicado en un lugar más bajo que otro; también se refiere a un sonido grave o profundo.",
+      "en_consolidated_definition": "Located or situated in a lower place than another; also referring to a deep or low-pitched sound.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -128,9 +124,12 @@
     }
   },
   "es_definitions": [
-    "Moneda de curso legal en algunos países, equivalente a la centésima parte de una unidad monetaria.",
+    "Dinero, moneda corriente.",
     "\"bajo\": adjetivo que describe algo como situado o ubicado en un lugar más bajo que otro; también se refiere a un sonido grave o profundo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Current currency.",
+    "Located or situated in a lower place than another; also referring to a deep or low-pitched sound.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

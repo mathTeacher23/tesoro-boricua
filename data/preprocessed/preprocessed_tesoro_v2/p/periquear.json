@@ -3,15 +3,18 @@
   "term": "periquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando se está hablando en un grupo con, relacionado con un grupo",
+      "consolidated_definition": "Hablar con entusiasmo y persistencia a una chica en particular, con el fin de conquistar su afecto o ganar su atención.",
+      "en_consolidated_definition": "To speak enthusiastically and persistently to a particular girl with the intention of winning her affection or gaining her attention.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.3711",
-        "semantic_similarity_score": 0.3711,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.372",
+        "semantic_similarity_score": 0.372,
+        "cluster_count": 4,
         "grammar": [
           "verbo transitivo"
         ],
@@ -37,7 +40,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cuando se está hablando en un grupo con una chica en particular para seducirla. Hablar con entusiasmo a alguien especial por mucho rato para convencerla.",
+          "Cuando se está hablando en un grupo con una chica en particular para seducirla. Hablar con entusiasmo a alguien especial por mucho rato para convencerla(o).",
           "Enamorar a una muchacha.",
           "Hablar cosas sin importancia, sin sentido.",
           "Chismear."
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Juego de niños consistente en cogerse de las",
+      "consolidated_definition": "Juego de niños consistente en cogerse de las manos y, dar vueltas en círculo.",
+      "en_consolidated_definition": "Game of children consisting in grasping hands and rotating in a circle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -83,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Cuando se está hablando en un grupo con, relacionado con un grupo",
-    "Juego de niños consistente en cogerse de las"
+    "Hablar con entusiasmo y persistencia a una chica en particular, con el fin de conquistar su afecto o ganar su atención.",
+    "Juego de niños consistente en cogerse de las manos y, dar vueltas en círculo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To speak enthusiastically and persistently to a particular girl with the intention of winning her affection or gaining her attention.",
+    "Game of children consisting in grasping hands and rotating in a circle."
+  ],
   "source": "https://tesoro.pr"
 }

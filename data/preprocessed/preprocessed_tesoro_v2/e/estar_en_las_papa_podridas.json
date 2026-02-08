@@ -3,9 +3,12 @@
   "term": "estar en las papa podridas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar muy mal económicamente",
+      "consolidated_definition": "Estar muy mal económicamente.",
+      "en_consolidated_definition": "Estar en una situación económica precaria o de gran dificultad financiera.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Estar muy mal económicamente"
+    "Estar muy mal económicamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Estar en una situación económica precaria o de gran dificultad financiera."
+  ],
   "source": "https://tesoro.pr"
 }

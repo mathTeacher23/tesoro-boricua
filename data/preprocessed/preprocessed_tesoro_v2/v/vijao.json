@@ -3,9 +3,12 @@
   "term": "vijao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bijao",
+      "consolidated_definition": "Bijao, planta ornamental.",
+      "en_consolidated_definition": "Bijao, ornamental plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bijao"
+    "Bijao, planta ornamental."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bijao, ornamental plant."
+  ],
   "source": "https://tesoro.pr"
 }

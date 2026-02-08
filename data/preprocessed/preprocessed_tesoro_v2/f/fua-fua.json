@@ -3,9 +3,12 @@
   "term": "fua-fua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bruja voladora",
+      "consolidated_definition": "Bruja voladora.",
+      "en_consolidated_definition": "Witch on a broomstick or Witch flying on a stick",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bruja voladora"
+    "Bruja voladora."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Witch on a broomstick or Witch flying on a stick"
+  ],
   "source": "https://tesoro.pr"
 }

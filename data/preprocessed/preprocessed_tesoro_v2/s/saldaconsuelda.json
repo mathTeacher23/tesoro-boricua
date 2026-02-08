@@ -3,9 +3,12 @@
   "term": "saldaconsuelda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta medicinal para los huesos rotos",
+      "consolidated_definition": "Planta medicinal … para los huesos rotos.",
+      "en_consolidated_definition": "Medicinal plant... for broken bones.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Planta medicinal para los huesos rotos."
+          "Planta medicinal … para los huesos rotos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Planta medicinal para los huesos rotos"
+    "Planta medicinal … para los huesos rotos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Medicinal plant... for broken bones."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "pedir la bendición",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Solicitar un menor a un familiar mayor que",
+      "consolidated_definition": "Solicitar un menor a un familiar mayor que le transmita la bendición de Dios.",
+      "en_consolidated_definition": "Request a minor to an older relative to convey God's blessing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Solicitar un menor a un familiar mayor que"
+    "Solicitar un menor a un familiar mayor que le transmita la bendición de Dios."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Request a minor to an older relative to convey God's blessing."
+  ],
   "source": "https://tesoro.pr"
 }

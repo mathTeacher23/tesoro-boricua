@@ -3,15 +3,18 @@
   "term": "cd-r",
   "superscripts": {
     "1": {
-      "consolidated_definition": "CD-R: disco compacto de grabación una vez, dispositivo de almacenamiento óptico que permite grabar información pero no se puede borrar.",
+      "consolidated_definition": "inform. Disco compacto para grabar. Disco compacto que permite grabar pero lo grabado no se puede borrar. Sigla anglicada, usual. En el proceso de producción, aunque tanto el CD como CD-R requieren de un estampador o matriz para su inyección, la matriz del CD-R solo contiene un pre-formateo de los sectores que van a tener el disco... (MFG of Puerto Rico, 12-02-06)",
+      "en_consolidated_definition": "Informative CD for recording. A compact disc that allows recording but the recorded content cannot be erased. Anglicized abbreviation, commonly used. In the production process, although both the CD and CD-R require a stamping or matrix for injection, the CD-R matrix only contains a pre-formatting of the sectors that will have the disc... (MFG of Puerto Rico, 12-02-06)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "CD-R: disco compacto de grabación una vez, dispositivo de almacenamiento óptico que permite grabar información pero no se puede borrar."
+    "inform. Disco compacto para grabar. Disco compacto que permite grabar pero lo grabado no se puede borrar. Sigla anglicada, usual. En el proceso de producción, aunque tanto el CD como CD-R requieren de un estampador o matriz para su inyección, la matriz del CD-R solo contiene un pre-formateo de los sectores que van a tener el disco... (MFG of Puerto Rico, 12-02-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Informative CD for recording. A compact disc that allows recording but the recorded content cannot be erased. Anglicized abbreviation, commonly used. In the production process, although both the CD and CD-R require a stamping or matrix for injection, the CD-R matrix only contains a pre-formatting of the sectors that will have the disc... (MFG of Puerto Rico, 12-02-06)"
+  ],
   "source": "https://tesoro.pr"
 }

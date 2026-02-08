@@ -3,9 +3,12 @@
   "term": "mejor cuéntame una de vaqueros",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que es mentira lo que alguien dice",
+      "consolidated_definition": "Indica que es mentira lo que alguien dice.",
+      "en_consolidated_definition": "Denota que lo dicho por alguien es falso o una mentira.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Indica que es mentira lo que alguien dice"
+    "Indica que es mentira lo que alguien dice."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Denota que lo dicho por alguien es falso o una mentira."
+  ],
   "source": "https://tesoro.pr"
 }

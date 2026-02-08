@@ -3,9 +3,12 @@
   "term": "hacer como blas ya comiste ya te vas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que alguien se marcha de un lugar",
+      "consolidated_definition": "Indica que alguien se marcha de un lugar de forma apresurada.",
+      "en_consolidated_definition": "Abandona precipitadamente un lugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Indica que alguien se marcha de un lugar"
+    "Indica que alguien se marcha de un lugar de forma apresurada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Abandona precipitadamente un lugar."
+  ],
   "source": "https://tesoro.pr"
 }

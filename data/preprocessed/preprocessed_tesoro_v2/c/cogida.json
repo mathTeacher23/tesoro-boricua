@@ -3,15 +3,18 @@
   "term": "cogida",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Época en que se recolecta la cosecha de ciertos productos agrícolas o forestales.",
+      "consolidated_definition": "Ardid, engaño.",
+      "en_consolidated_definition": "Cunning, deception.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4273",
-        "semantic_similarity_score": 0.4273,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -53,24 +56,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Época en que se recolecta la cosecha.",
-          "Etapa importante en ciertas siembras. “La cogida del café”. “La cogida del tabaco”.",
-          "Cosecha de ciertos productos. “La cogi(d)a del café”.",
-          "Engaño. “Una cojía que le dio el sordo al pobre Jiribía.” Agüero.",
           "Ardid, engaño."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el béisbol, acción de atrapar la pelota lanzada después de un bateo.",
+      "consolidated_definition": "En el beisbol, captura de la pelota lanzada por un batazo.",
+      "en_consolidated_definition": "In baseball, catch of the ball thrown by a batted one.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -99,9 +101,12 @@
     }
   },
   "es_definitions": [
-    "Época en que se recolecta la cosecha de ciertos productos agrícolas o forestales.",
-    "En el béisbol, acción de atrapar la pelota lanzada después de un bateo."
+    "Ardid, engaño.",
+    "En el beisbol, captura de la pelota lanzada por un batazo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cunning, deception.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "In baseball, catch of the ball thrown by a batted one."
+  ],
   "source": "https://tesoro.pr"
 }

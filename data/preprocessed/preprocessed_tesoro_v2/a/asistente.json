@@ -3,15 +3,18 @@
   "term": "asistente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asistente: Persona que ayuda a un profesional superior en su trabajo, especialmente en la enseñanza o investigación.",
+      "consolidated_definition": "Ayudante. Profesional de rango menor que ayuda a un profesor u otro profesional o trabaja en una sala de investigación. Desvío semántico, usual. DRAE 2001: relacionado con las órdenes religiosas o militares. Allí fungí como asistente de producción, jefe de mesa y productor asociado",
+      "en_consolidated_definition": "Assistant. A professional of lower rank who assists a teacher or another professional or works in a research laboratory. Semantic shift, common. DRAE 2001: related to religious or military orders.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Asistente: Persona que ayuda a un profesional superior en su trabajo, especialmente en la enseñanza o investigación."
+    "Ayudante. Profesional de rango menor que ayuda a un profesor u otro profesional o trabaja en una sala de investigación. Desvío semántico, usual. DRAE 2001: relacionado con las órdenes religiosas o militares. Allí fungí como asistente de producción, jefe de mesa y productor asociado"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Assistant. A professional of lower rank who assists a teacher or another professional or works in a research laboratory. Semantic shift, common. DRAE 2001: related to religious or military orders."
+  ],
   "source": "https://tesoro.pr"
 }

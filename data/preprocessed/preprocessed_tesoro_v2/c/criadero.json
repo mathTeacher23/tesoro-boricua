@@ -3,15 +3,18 @@
   "term": "criadero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un hábitat costero donde se encuentran pequeños animales marinos en áreas protegidas como bahías, manglares o esteros.",
+      "consolidated_definition": "Local construido expresamente para celebrar peleas de gallos.",
+      "en_consolidated_definition": "Avejero arena or Arena for cockfighting: A building constructed specifically to host cockfights.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5698",
-        "semantic_similarity_score": 0.5698,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,17 +51,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Lugar donde se crían gallos de pelea.",
-          "Sitios en bahías, manglares, esteros, etc., donde se encuentran animales marinos pequeños.",
-          "Local construido expresamente para celebrar peleas de gallos.",
-          "Sitio en bahías, manglares o esteros, donde se encuentran pequeños animales marinos."
+          "Local construido expresamente para celebrar peleas de gallos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Un hábitat costero donde se encuentran pequeños animales marinos en áreas protegidas como bahías, manglares o esteros."
+    "Local construido expresamente para celebrar peleas de gallos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Avejero arena or Arena for cockfighting: A building constructed specifically to host cockfights."
+  ],
   "source": "https://tesoro.pr"
 }

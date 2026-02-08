@@ -3,14 +3,17 @@
   "term": "golfito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar donde se juega al golfito",
+      "consolidated_definition": "Lugar donde se juega al golfito.",
+      "en_consolidated_definition": "Course where golf is played.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5988",
-        "semantic_similarity_score": 0.5988,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -34,15 +37,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Lugar donde se juega al golfito.",
-          "Juego parecido al golf que se practica en un campo de dimensiones muy reducidas con obstáculos artificiales."
+          "Lugar donde se juega al golfito."
         ]
       }
     }
   },
   "es_definitions": [
-    "Lugar donde se juega al golfito"
+    "Lugar donde se juega al golfito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Course where golf is played."
+  ],
   "source": "https://tesoro.pr"
 }

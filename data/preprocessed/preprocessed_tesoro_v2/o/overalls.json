@@ -3,9 +3,12 @@
   "term": "overalls",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prenda de trabajo de una sola pieza",
+      "consolidated_definition": "Prenda de trabajo de una sola pieza.",
+      "en_consolidated_definition": "Work uniform of a single piece.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Prenda de trabajo de una sola pieza"
+    "Prenda de trabajo de una sola pieza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Work uniform of a single piece."
+  ],
   "source": "https://tesoro.pr"
 }

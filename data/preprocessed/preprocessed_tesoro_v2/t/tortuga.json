@@ -3,15 +3,18 @@
   "term": "tortuga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona de andar lento",
+      "consolidated_definition": "Persona que conduce un vehículo a una velocidad lenta o moderada.",
+      "en_consolidated_definition": "Driver que conduce un vehículo a una velocidad lenta o moderada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4487",
-        "semantic_similarity_score": 0.4487,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4338",
+        "semantic_similarity_score": 0.4338,
+        "cluster_count": 6,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -54,19 +57,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Persona de andar lento; chofer que guía despacio.",
+          "(general) Persona de andar lento; chofer que guía despacio.",
           "El nombre de tortuga se aplica únicamente a la especie de la que se saca el aceite de tortuga cuya carne no se come.",
           "Dícese de la persona de movimientos lentos.",
           "Del conductor que va muy despacio teniendo vía franca.",
           "Persona lenta.",
-          "La guagua escolar."
+          "La guagua (autobús) escolar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Nombre que le dan al árbol llamado violeta",
+      "consolidated_definition": "Nombre que le dan al árbol llamado violeta. También llamado tortugo y tortuguero.",
+      "en_consolidated_definition": "Name given to the tree known as violeta. Also called tortugo and tortuguero.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -101,9 +107,12 @@
     }
   },
   "es_definitions": [
-    "Persona de andar lento",
-    "Nombre que le dan al árbol llamado violeta"
+    "Persona que conduce un vehículo a una velocidad lenta o moderada.",
+    "Nombre que le dan al árbol llamado violeta. También llamado tortugo y tortuguero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Driver que conduce un vehículo a una velocidad lenta o moderada.",
+    "Name given to the tree known as violeta. Also called tortugo and tortuguero."
+  ],
   "source": "https://tesoro.pr"
 }

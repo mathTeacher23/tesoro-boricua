@@ -3,14 +3,17 @@
   "term": "jácana",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Árbol sapotáceo de ocho a diez metros de altura cuya fruta es de color amarillo y de una sola semilla grande. . Stahl, 6, 50.",
+      "consolidated_definition": "Árbol de hasta 10 m de altura, de tronco grueso, hojas grandes y flores rosadas en forma de campana; su madera dura y resistente de color castaño es útil en la construcción y en ebanistería. Sapotaceae, Lucuma multiflora.",
+      "en_consolidated_definition": "Tree reaching a height of up to 10 m, with a thick trunk, large leaves and pink bell-shaped flowers; its hard and resistant wood, brown in color, is useful in construction and carpentry. Sapotaceae, Lucuma multiflora.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.5438",
-        "semantic_similarity_score": 0.5438,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -68,27 +71,23 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          ". Árbol sapotáceo de ocho a diez metros de altura cuya fruta es de color amarillo y de una sola semilla grande. . Stahl, 6, 50.",
-          ". Árbol sapotáceo, conocido también como jácana, de fruta comestible de pulpa color naranja, madera dura resistente, utilizada en construcción y ebanistería. Se cultiva en las zonas húmedas costeras y en las partes montañosas del país. De la fruta de este árbol, que es grande, color castaño y mide de una a una y media pulgadas, se sacaba antiguamente una fécula comestible muy fina. Hoy se pronuncia y escribe jácana.",
-          "Árbol de madera de construcción.",
-          "Árbol sapotáceo mejor conocido por jácana. Árbol sapotáceo de gran altura, tronco grueso, hojas grandes y flores rosadas en forma de campana. Su fruto es oloroso y comestible, pero no apreciable.",
-          "Lucuma multiflora. Jácana, árbol y fruta amarilla comestible, ácana.",
-          "Cierto árbol.",
-          "Árbol de hasta 10 m de altura, de tronco grueso, hojas grandes y flores rosadas en forma de campana; su madera dura y resistente de color castaño es útil en la construcción y en ebanistería. Sapotaceae, Lucuma multiflora.",
-          "Fruto de este árbol, de gran tamaño, de color castaño, con pulpa anaranjada y una sola semilla grande; es comestible."
+          "Árbol de hasta 10 m de altura, de tronco grueso, hojas grandes y flores rosadas en forma de campana; su madera dura y resistente de color castaño es útil en la construcción y en ebanistería. Sapotaceae, Lucuma multiflora."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pájaro playero —Parra violacea—",
+      "consolidated_definition": "El pájaro playero (parra violacea) es una ave de dedos largos, pescuezo y cabeza negros, plumaje oscuro purpúreo y alas amarillo verdosas, que se encuentra en ciénagas y lagunas de Puerto Rico y Santo Domingo.",
+      "en_consolidated_definition": "The Purple Gallinule (Porzana martinica) is a long-legged wading bird with black neck and head, dark purple plumage, and yellow-green wings, found in marshes and lakes of Puerto Rico and the Dominican Republic.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4693",
         "semantic_similarity_score": 0.4693,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -123,9 +122,12 @@
     }
   },
   "es_definitions": [
-    ". Árbol sapotáceo de ocho a diez metros de altura cuya fruta es de color amarillo y de una sola semilla grande. . Stahl, 6, 50.",
-    "Pájaro playero —Parra violacea—"
+    "Árbol de hasta 10 m de altura, de tronco grueso, hojas grandes y flores rosadas en forma de campana; su madera dura y resistente de color castaño es útil en la construcción y en ebanistería. Sapotaceae, Lucuma multiflora.",
+    "El pájaro playero (parra violacea) es una ave de dedos largos, pescuezo y cabeza negros, plumaje oscuro purpúreo y alas amarillo verdosas, que se encuentra en ciénagas y lagunas de Puerto Rico y Santo Domingo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree reaching a height of up to 10 m, with a thick trunk, large leaves and pink bell-shaped flowers; its hard and resistant wood, brown in color, is useful in construction and carpentry. Sapotaceae, Lucuma multiflora.",
+    "The Purple Gallinule (Porzana martinica) is a long-legged wading bird with black neck and head, dark purple plumage, and yellow-green wings, found in marshes and lakes of Puerto Rico and the Dominican Republic."
+  ],
   "source": "https://tesoro.pr"
 }

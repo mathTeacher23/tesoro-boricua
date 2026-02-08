@@ -3,15 +3,18 @@
   "term": "sándalo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta medicinal",
+      "consolidated_definition": "Planta medicinal: especie vegetal utilizada para obtener sustancias con propiedades terapéuticas o medicinales.",
+      "en_consolidated_definition": "Medicinal plant: a species of plant used to obtain substances with therapeutic or medicinal properties.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4199",
         "semantic_similarity_score": 0.4199,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Planta medicinal"
+    "Planta medicinal: especie vegetal utilizada para obtener sustancias con propiedades terapéuticas o medicinales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Medicinal plant: a species of plant used to obtain substances with therapeutic or medicinal properties."
+  ],
   "source": "https://tesoro.pr"
 }

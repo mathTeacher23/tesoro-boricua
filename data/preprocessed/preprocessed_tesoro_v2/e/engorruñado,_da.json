@@ -3,9 +3,12 @@
   "term": "engorruñado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referida a una parte del cuerpo, relacionado con una organización",
+      "consolidated_definition": "Referida a una parte del cuerpo, entumecida, agarrotada.",
+      "en_consolidated_definition": "Referido a una parte del cuerpo, entumecida o agarrotada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referida a una parte del cuerpo, relacionado con una organización"
+    "Referida a una parte del cuerpo, entumecida, agarrotada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a una parte del cuerpo, entumecida o agarrotada."
+  ],
   "source": "https://tesoro.pr"
 }

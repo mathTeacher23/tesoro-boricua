@@ -3,9 +3,12 @@
   "term": "nutriente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nutritivo",
+      "consolidated_definition": "Nutritivo. Que es capaz de nutrir.",
+      "en_consolidated_definition": "Nutritivo. Capaz de nutrir.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Nutritivo"
+    "Nutritivo. Que es capaz de nutrir."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Nutritivo. Capaz de nutrir."
+  ],
   "source": "https://tesoro.pr"
 }

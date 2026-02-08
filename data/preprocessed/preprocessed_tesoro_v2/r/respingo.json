@@ -3,9 +3,12 @@
   "term": "respingo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reparo",
+      "consolidated_definition": "Reparo. Repelillo.",
+      "en_consolidated_definition": "Reparation. Repelente (a small repair or a repellent)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Reparo"
+    "Reparo. Repelillo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Reparation. Repelente (a small repair or a repellent)"
+  ],
   "source": "https://tesoro.pr"
 }

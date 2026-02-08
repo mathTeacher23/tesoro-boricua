@@ -3,9 +3,12 @@
   "term": "pollonclón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona soltera entrada en años",
+      "consolidated_definition": "Persona soltera entrada en años.",
+      "en_consolidated_definition": "Soltero/a mayor de edad \n\nNota: En este contexto, \"soltero\" se refiere a una persona que no está casada o unida en uniones civiles, y \"mayor de edad\" se utiliza para describir a alguien que ha alcanzado la mayoría de edad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Persona soltera entrada en años"
+    "Persona soltera entrada en años."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Soltero/a mayor de edad \n\nNota: En este contexto, \"soltero\" se refiere a una persona que no está casada o unida en uniones civiles, y \"mayor de edad\" se utiliza para describir a alguien que ha alcanzado la mayoría de edad."
+  ],
   "source": "https://tesoro.pr"
 }

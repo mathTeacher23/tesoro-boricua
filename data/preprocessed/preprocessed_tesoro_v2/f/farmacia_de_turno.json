@@ -3,9 +3,12 @@
   "term": "farmacia de turno",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Farmacia que está abierta al público durante la",
+      "consolidated_definition": "Farmacia que está abierta al público durante la noche, los domingos o los días festivos.",
+      "en_consolidated_definition": "Pharmacy that is open to the public on nights, Sundays, or holidays.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Farmacia que está abierta al público durante la"
+    "Farmacia que está abierta al público durante la noche, los domingos o los días festivos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pharmacy that is open to the public on nights, Sundays, or holidays."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "raspa con lauder",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estudiante de honor de la universidad",
+      "consolidated_definition": "Estudiante de honor de la universidad. Despectivo.",
+      "en_consolidated_definition": "Honors student of the university. (Despectivo)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Estudiante de honor de la universidad"
+    "Estudiante de honor de la universidad. Despectivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Honors student of the university. (Despectivo)"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "emparrillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En construcción",
+      "consolidated_definition": "En construcción, atar las varillas de acero en forma de parrilla, para reforzar el hormigón de un piso o azotea.",
+      "en_consolidated_definition": "In construction, to tie steel rebar in a grid pattern, for reinforcement of concrete on a floor or roof.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En construcción"
+    "En construcción, atar las varillas de acero en forma de parrilla, para reforzar el hormigón de un piso o azotea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In construction, to tie steel rebar in a grid pattern, for reinforcement of concrete on a floor or roof."
+  ],
   "source": "https://tesoro.pr"
 }

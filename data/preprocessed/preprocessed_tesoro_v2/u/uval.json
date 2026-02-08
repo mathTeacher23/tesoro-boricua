@@ -3,9 +3,12 @@
   "term": "uval",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio poblado de uveros",
+      "consolidated_definition": "Sitio poblado de uveros (uvas playeras).",
+      "en_consolidated_definition": "Location populated with uveros (beach grapes).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Sitio poblado de uveros ."
+          "Sitio poblado de uveros (uvas playeras)."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sitio poblado de uveros"
+    "Sitio poblado de uveros (uvas playeras)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Location populated with uveros (beach grapes)."
+  ],
   "source": "https://tesoro.pr"
 }

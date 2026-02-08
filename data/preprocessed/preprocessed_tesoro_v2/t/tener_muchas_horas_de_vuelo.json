@@ -3,9 +3,12 @@
   "term": "tener muchas horas de vuelo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser experimentado en asuntos ilegítimos",
+      "consolidated_definition": "Ser experimentado en asuntos ilegítimos. Aplícase especialmente a la prostitución.",
+      "en_consolidated_definition": "Experienced in illicit matters. It is particularly applicable to prostitution.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Ser experimentado en asuntos ilegítimos"
+    "Ser experimentado en asuntos ilegítimos. Aplícase especialmente a la prostitución."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Experienced in illicit matters. It is particularly applicable to prostitution."
+  ],
   "source": "https://tesoro.pr"
 }

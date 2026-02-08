@@ -3,9 +3,12 @@
   "term": "licorera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Botella de cristal labrado para echar licor y",
+      "consolidated_definition": "Botella de cristal labrado para echar licor y luego servir de ella.",
+      "en_consolidated_definition": "Crystal decanter carved for pouring liquor and then serving from it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Botella de cristal labrado para echar licor y"
+    "Botella de cristal labrado para echar licor y luego servir de ella."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Crystal decanter carved for pouring liquor and then serving from it."
+  ],
   "source": "https://tesoro.pr"
 }

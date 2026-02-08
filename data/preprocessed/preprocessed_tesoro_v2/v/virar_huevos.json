@@ -3,15 +3,18 @@
   "term": "virar huevos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En billar",
+      "consolidated_definition": "En el juego del billar, disposición en que se colocan las tres bolas para facilitar la realización de carambolas.",
+      "en_consolidated_definition": "In the game of pool, arrangement in which three balls are placed to facilitate the execution of caroms.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.305",
         "semantic_similarity_score": 0.305,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "locución verbal"
         ],
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "En billar"
+    "En el juego del billar, disposición en que se colocan las tres bolas para facilitar la realización de carambolas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the game of pool, arrangement in which three balls are placed to facilitate the execution of caroms."
+  ],
   "source": "https://tesoro.pr"
 }

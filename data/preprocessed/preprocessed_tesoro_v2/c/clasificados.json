@@ -3,15 +3,18 @@
   "term": "clasificados",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Anuncio clasificado: publicidad que se inserta en la prensa o medios electrónicos para ofrecer o solicitar servicios y propiedades.",
+      "consolidated_definition": "Anuncios variados publicados en la prensa escrita o medios electrónicos en los que se ofrecen o solicitan servicios y propiedades, tanto mobiliarias como inmobiliarias. Usual. DRAE: desde 1992. Servicio de anuncios clasificados con fotos gratis para Puerto Rico de avisos, servicios, compra y venta en Clasificados de Puerto Rico (Clasificados de Puerto Rico, consultado 30-03-08)",
+      "en_consolidated_definition": "Varied advertisements published in written press or electronic media offering or requesting services and properties, both movable and immovable. Usual. Since 1992 (DRAE). Classified advertisement service with free photos for Puerto Rico of notices, services, purchase and sale in Puerto Rico Classifieds (Puerto Rico Classifieds, consulted on March 30, 2008)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Anuncio clasificado: publicidad que se inserta en la prensa o medios electrónicos para ofrecer o solicitar servicios y propiedades."
+    "Anuncios variados publicados en la prensa escrita o medios electrónicos en los que se ofrecen o solicitan servicios y propiedades, tanto mobiliarias como inmobiliarias. Usual. DRAE: desde 1992. Servicio de anuncios clasificados con fotos gratis para Puerto Rico de avisos, servicios, compra y venta en Clasificados de Puerto Rico (Clasificados de Puerto Rico, consultado 30-03-08)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Varied advertisements published in written press or electronic media offering or requesting services and properties, both movable and immovable. Usual. Since 1992 (DRAE). Classified advertisement service with free photos for Puerto Rico of notices, services, purchase and sale in Puerto Rico Classifieds (Puerto Rico Classifieds, consulted on March 30, 2008)"
+  ],
   "source": "https://tesoro.pr"
 }

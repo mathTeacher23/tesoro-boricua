@@ -3,9 +3,12 @@
   "term": "tener un atracón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tener una mala racha económica",
+      "consolidated_definition": "Tener una mala racha económica.",
+      "en_consolidated_definition": "Experiencia económica adversa o serie de malas suertes financieras.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Tener una mala racha económica"
+    "Tener una mala racha económica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Experiencia económica adversa o serie de malas suertes financieras."
+  ],
   "source": "https://tesoro.pr"
 }

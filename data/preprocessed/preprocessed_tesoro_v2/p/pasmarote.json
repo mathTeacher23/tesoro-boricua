@@ -3,9 +3,12 @@
   "term": "pasmarote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción y efecto de sufrir contracciones en la",
+      "consolidated_definition": "Acción y efecto de sufrir contracciones en la cara causadas por cambios abruptos de temperatura. También pasmo, espasmo.",
+      "en_consolidated_definition": "Action and effect of experiencing facial contractions caused by abrupt changes in temperature. Also shock, spasm.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona tonta",
+      "consolidated_definition": "Persona que carece de inteligencia o razón, o que actúa de manera imprudente o poco sensata.",
+      "en_consolidated_definition": "Persona que carece de inteligencia o razón, o que actúa de manera imprudente o poco sensata.\n\nTraducción:\nPerson who lacks intelligence or reason, or who acts in an imprudent or unsound manner.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4158",
         "semantic_similarity_score": 0.4158,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -80,9 +86,12 @@
     }
   },
   "es_definitions": [
-    "Acción y efecto de sufrir contracciones en la",
-    "Persona tonta"
+    "Acción y efecto de sufrir contracciones en la cara causadas por cambios abruptos de temperatura. También pasmo, espasmo.",
+    "Persona que carece de inteligencia o razón, o que actúa de manera imprudente o poco sensata."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Action and effect of experiencing facial contractions caused by abrupt changes in temperature. Also shock, spasm.",
+    "Persona que carece de inteligencia o razón, o que actúa de manera imprudente o poco sensata.\n\nTraducción:\nPerson who lacks intelligence or reason, or who acts in an imprudent or unsound manner."
+  ],
   "source": "https://tesoro.pr"
 }

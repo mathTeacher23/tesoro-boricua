@@ -3,9 +3,12 @@
   "term": "pasar paño",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Limpiar los muebles",
+      "consolidated_definition": "Limpiar los muebles.",
+      "en_consolidated_definition": "Clean the furniture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Limpiar los muebles"
+    "Limpiar los muebles."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Clean the furniture."
+  ],
   "source": "https://tesoro.pr"
 }

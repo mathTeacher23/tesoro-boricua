@@ -3,15 +3,18 @@
   "term": "beauty (parlor)",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Peluquería, salón de belleza. Establecimiento donde se ofrecen servicios relacionados con el cuidado y la estilización del cabello y la barba.",
+      "consolidated_definition": "Peluquería de señoras.",
+      "en_consolidated_definition": "Women's Hairdressing Salon",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.6329",
-        "semantic_similarity_score": 0.6329,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -64,20 +67,16 @@
           "beautician"
         ],
         "reference_definitions": [
-          "Peluquería, salón de belleza.",
-          "Salón de belleza. Establecimiento donde se ofrecen servicios de embellecimiento a los clientes. Anglicismo crudo, usual. A pesar de tener cerca de setenta años visitaban el beauty parlor todas las semanas para teñirse y hacerse el setting",
-          "Peluquería.",
-          "Peluquería de señoras. Salón de belleza.",
-          "Peluquería.",
-          "Peluquería de señoras. También salón de belleza.",
           "Peluquería de señoras."
         ]
       }
     }
   },
   "es_definitions": [
-    "Peluquería, salón de belleza. Establecimiento donde se ofrecen servicios relacionados con el cuidado y la estilización del cabello y la barba."
+    "Peluquería de señoras."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Women's Hairdressing Salon"
+  ],
   "source": "https://tesoro.pr"
 }

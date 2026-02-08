@@ -3,15 +3,18 @@
   "term": "banda norte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Norte\": Dirección geográfica situada al norte de un punto de referencia.",
+      "consolidated_definition": "Norte.",
+      "en_consolidated_definition": "North \n\nNota: En algunos contextos culturales de Puerto Rico, \"norte\" puede referirse específicamente a la región norte del país, que incluye las ciudades de Arecibo y Aguadilla. Sin embargo, en este sentido, el término se utiliza de manera similar al inglés.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "\"Norte\": Dirección geográfica situada al norte de un punto de referencia."
+    "Norte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "North \n\nNota: En algunos contextos culturales de Puerto Rico, \"norte\" puede referirse específicamente a la región norte del país, que incluye las ciudades de Arecibo y Aguadilla. Sin embargo, en este sentido, el término se utiliza de manera similar al inglés."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "fajitas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plato que se compone de tiras asadas de",
+      "consolidated_definition": "Plato que se compone de tiras asadas de carne, generalmente de más de un tipo, acompañadas de tortillas de harina, salsas picantes y otras guarniciones.",
+      "en_consolidated_definition": "Dish composed of grilled strips of meat, typically of more than one type, accompanied by corn tortillas, spicy sauces, and other garnishes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Plato que se compone de tiras asadas de"
+    "Plato que se compone de tiras asadas de carne, generalmente de más de un tipo, acompañadas de tortillas de harina, salsas picantes y otras guarniciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dish composed of grilled strips of meat, typically of more than one type, accompanied by corn tortillas, spicy sauces, and other garnishes."
+  ],
   "source": "https://tesoro.pr"
 }

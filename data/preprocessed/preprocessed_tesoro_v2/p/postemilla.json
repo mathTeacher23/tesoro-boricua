@@ -3,15 +3,18 @@
   "term": "postemilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Postema en la encía.",
+      "consolidated_definition": "\"Postema en la encía\": tumor o abceso localizado en la encía.",
+      "en_consolidated_definition": "Gingival postema: localized abscess or tumor on the gingiva.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5538",
         "semantic_similarity_score": 0.5538,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    ". Postema en la encía."
+    "\"Postema en la encía\": tumor o abceso localizado en la encía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gingival postema: localized abscess or tumor on the gingiva."
+  ],
   "source": "https://tesoro.pr"
 }

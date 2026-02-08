@@ -3,15 +3,18 @@
   "term": "blower",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La parte del mecanismo de la cortadora de caña encargada de limpiar la caña antes de su carga en el carretón.",
+      "consolidated_definition": "Parte de la cortadora de caña que limpia la caña antes de echarla al carretón.",
+      "en_consolidated_definition": "Part of the sugarcane cutter that cleans the cane before loading it onto the cart.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Secador: objeto eléctrico que crea una corriente de aire para diversos usos.",
+      "consolidated_definition": "Secador de pelo.",
+      "en_consolidated_definition": "Hair dryer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4855",
-        "semantic_similarity_score": 0.4855,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -79,17 +85,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Secador. Máquina eléctrica que crea una corriente de aire usada con fines diversos. Anglicismo crudo, usual. Y es que su gusto por la ropa negra, su pelo rubio estilizado con blower y su espíritu romántico provocan que, con frecuencia, el público lo identifique como baladista, rockero o, incluso, reguetonero (Primera Hora, 02-08-06)",
-          "Peinado, hecho en la peluquería, utilizando el secador de pelo del mismo nombre. El rizo se reduce hasta un 80%, lo que ayudará a que el blower dure más (Zonai.com, 24-11-2005)",
           "Secador de pelo."
         ]
       }
     }
   },
   "es_definitions": [
-    "La parte del mecanismo de la cortadora de caña encargada de limpiar la caña antes de su carga en el carretón.",
-    "Secador: objeto eléctrico que crea una corriente de aire para diversos usos."
+    "Parte de la cortadora de caña que limpia la caña antes de echarla al carretón.",
+    "Secador de pelo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Part of the sugarcane cutter that cleans the cane before loading it onto the cart.",
+    "Hair dryer."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "lechepote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona cicatera",
+      "consolidated_definition": "Persona cicatera, mezquina. En España dirían mala uva.",
+      "en_consolidated_definition": "Persona avariciosa o mezquina. En España se diría persona mala uva.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Persona cicatera"
+    "Persona cicatera, mezquina. En España dirían mala uva."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona avariciosa o mezquina. En España se diría persona mala uva."
+  ],
   "source": "https://tesoro.pr"
 }

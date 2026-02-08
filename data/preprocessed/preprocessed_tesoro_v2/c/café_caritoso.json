@@ -3,15 +3,18 @@
   "term": "café caritoso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grano de café de inferior calidad cuya cáscara se seca por el lado expuesto al sol.",
+      "consolidated_definition": "Grano de café de inferior calidad.",
+      "en_consolidated_definition": "Coffee bean of inferior quality.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.6517",
-        "semantic_similarity_score": 0.6517,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -48,18 +51,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Grano de café de inferior calidad generalmente los cosechados en las primeras graneras.",
-          "Grano sin la propiedad reconocida en tamaño, clase y calidad.",
-          "Grano de café cuya cáscara se seca por el lado que ha estado expuesto al sol.",
-          "Grano de café de inferior calidad.",
-          "Grano de café cuya cáscara se seca por el lado que ha estado expuesto al sol."
+          "Grano de café de inferior calidad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Grano de café de inferior calidad cuya cáscara se seca por el lado expuesto al sol."
+    "Grano de café de inferior calidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coffee bean of inferior quality."
+  ],
   "source": "https://tesoro.pr"
 }

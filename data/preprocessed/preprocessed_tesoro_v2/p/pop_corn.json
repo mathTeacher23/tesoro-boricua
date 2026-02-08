@@ -3,9 +3,12 @@
   "term": "pop corn",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver popcorn",
+      "consolidated_definition": "Ver popcorn .",
+      "en_consolidated_definition": "Popcorn kernel that has exploded into a fluffy white mass.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver popcorn"
+    "Ver popcorn ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Popcorn kernel that has exploded into a fluffy white mass."
+  ],
   "source": "https://tesoro.pr"
 }

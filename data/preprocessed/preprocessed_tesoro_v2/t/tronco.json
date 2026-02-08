@@ -3,9 +3,12 @@
   "term": "tronco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Órgano sexual masculino",
+      "consolidated_definition": "Órgano sexual masculino.",
+      "en_consolidated_definition": "Male reproductive organ.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pareja de bueyes que va uncida a la",
+      "consolidated_definition": "Yunta: conjunto de dos bueyes unidos para tirar de una carreta o arado en labores agrícolas.",
+      "en_consolidated_definition": "Pair of oxen yoked together to pull a cart or plow in agricultural work.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5352",
         "semantic_similarity_score": 0.5352,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -84,9 +90,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Ver maslote",
+      "consolidated_definition": "Ver maslote .",
+      "en_consolidated_definition": "See maslote.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -106,14 +115,17 @@
       }
     },
     "4": {
-      "consolidated_definition": "Tocón",
+      "consolidated_definition": "Parte del tronco de un árbol que queda unida a la raíz cuando lo cortan por el pie.",
+      "en_consolidated_definition": "Part of the trunk of a tree that remains attached to the root when it is cut at the base.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.1345",
-        "semantic_similarity_score": 0.1345,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -142,18 +154,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tocón.",
           "Parte del tronco de un árbol que queda unida a la raíz cuando lo cortan por el pie."
         ]
       }
     }
   },
   "es_definitions": [
-    "Órgano sexual masculino",
-    "Pareja de bueyes que va uncida a la",
-    "Ver maslote",
-    "Tocón"
+    "Órgano sexual masculino.",
+    "Yunta: conjunto de dos bueyes unidos para tirar de una carreta o arado en labores agrícolas.",
+    "Ver maslote .",
+    "Parte del tronco de un árbol que queda unida a la raíz cuando lo cortan por el pie."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Male reproductive organ.",
+    "Pair of oxen yoked together to pull a cart or plow in agricultural work.",
+    "See maslote.",
+    "Part of the trunk of a tree that remains attached to the root when it is cut at the base."
+  ],
   "source": "https://tesoro.pr"
 }

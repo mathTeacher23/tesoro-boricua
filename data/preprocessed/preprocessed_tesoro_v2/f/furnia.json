@@ -3,15 +3,18 @@
   "term": "furnia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sumidero natural",
+      "consolidated_definition": "\"Sumidero\": Depresión o cavidad subterránea profunda donde el agua se acumula y desaparece por infiltración en el suelo.",
+      "en_consolidated_definition": "Subterranean depression or cavity where water accumulates and disappears through infiltration into the soil.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4859",
-        "semantic_similarity_score": 0.4859,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4936",
+        "semantic_similarity_score": 0.4936,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -59,7 +62,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Sumidero natural. Ac. .",
+          "Sumidero natural. Ac. (En caló gitano: cueva).",
           "Sumidero.",
           ". Sumidero natural; concavidad o sima subterránea vertical o agujero profundo y angosto, más propiamente entre peñas, por donde corren las aguas que se recogen en los terrenos bajos. Canarismo. El agua que se estanca y encharca, tanto en el propio manantial como en otros sitios de más amplia extensión por donde se detiene y se sume bajo tierra, formando áreas cenagosas.",
           "Arcaísmo equivalente a ciénaga. Leonesismo.",
@@ -69,15 +72,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "En lugares del oeste de la isla se",
+      "consolidated_definition": "Manantial encharcado: manantial que se encuentra cubierto por agua debido a un exceso de precipitaciones o inundaciones.",
+      "en_consolidated_definition": "Flooded springhead: a spring that is covered with water due to excessive precipitation or flooding.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.7081",
         "semantic_similarity_score": 0.7081,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -118,9 +124,12 @@
     }
   },
   "es_definitions": [
-    "Sumidero natural",
-    "En lugares del oeste de la isla se"
+    "\"Sumidero\": Depresión o cavidad subterránea profunda donde el agua se acumula y desaparece por infiltración en el suelo.",
+    "Manantial encharcado: manantial que se encuentra cubierto por agua debido a un exceso de precipitaciones o inundaciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Subterranean depression or cavity where water accumulates and disappears through infiltration into the soil.",
+    "Flooded springhead: a spring that is covered with water due to excessive precipitation or flooding."
+  ],
   "source": "https://tesoro.pr"
 }

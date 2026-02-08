@@ -3,15 +3,18 @@
   "term": "sport",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deporte",
+      "consolidated_definition": "Deporte. Los helicópteros también se pueden adquirir para uso personal.",
+      "en_consolidated_definition": "Aviación recreativa. Helicopters can also be acquired for personal use.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5477",
         "semantic_similarity_score": 0.5477,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "mod",
+      "consolidated_definition": "mod. Deportivo. Dicho de una prenda de vestir cómoda e informal; también, de un tipo de automóvil. Anglicismo crudo, frecuente. DRAE 2001, voz inglesa. Compuesto: sport shop. “Siempre le hemos vendido a la mujer joven, sólo que la de aquel tiempo era más clásica y ella comenzó a traer la ropa sport que le gustaba a su generación y así fuimos abriéndonos paso hacia otro tipo de clientela más joven”, comenta con orgullo Eleonor (El Nuevo Día, 14-09-07)",
+      "en_consolidated_definition": "Sporty (adjetivo)\n\nMod. Deportivo. Said of a comfortable and informal article of clothing; also, of a type of automobile. Raw anglicism, frequent. \n\nCompound: sport shop.\n\nExample: \"We have always sold to the young woman, only that the one from that time was more classic and she began to bring the sporty clothes that her generation liked and thus we were opening up to another type of clientele, younger,\" comments with pride Eleonor (El Nuevo Día, 14-09-07)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,15 +83,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "mod. Deportivo. Dicho de una prenda de vestir cómoda e informal; también, de un tipo de automóvil. Anglicismo crudo, frecuente. DRAE 2001, voz inglesa. Compuesto: sport shop. “Siempre le hemos vendido a la mujer joven, sólo que la de aquel tiempo era más clásica y ella comenzó a traer la ropa sport que le gustaba a su generación y así fuimos abriéndonos paso hacia otro tipo de clientela más joven”, comenta con orgullo Eleonor"
+          "mod. Deportivo. Dicho de una prenda de vestir cómoda e informal; también, de un tipo de automóvil. Anglicismo crudo, frecuente. DRAE 2001, voz inglesa. Compuesto: sport shop. “Siempre le hemos vendido a la mujer joven, sólo que la de aquel tiempo era más clásica y ella comenzó a traer la ropa sport que le gustaba a su generación y así fuimos abriéndonos paso hacia otro tipo de clientela más joven”, comenta con orgullo Eleonor (El Nuevo Día, 14-09-07)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Deporte",
-    "mod"
+    "Deporte. Los helicópteros también se pueden adquirir para uso personal.",
+    "mod. Deportivo. Dicho de una prenda de vestir cómoda e informal; también, de un tipo de automóvil. Anglicismo crudo, frecuente. DRAE 2001, voz inglesa. Compuesto: sport shop. “Siempre le hemos vendido a la mujer joven, sólo que la de aquel tiempo era más clásica y ella comenzó a traer la ropa sport que le gustaba a su generación y así fuimos abriéndonos paso hacia otro tipo de clientela más joven”, comenta con orgullo Eleonor (El Nuevo Día, 14-09-07)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Aviación recreativa. Helicopters can also be acquired for personal use.",
+    "Sporty (adjetivo)\n\nMod. Deportivo. Said of a comfortable and informal article of clothing; also, of a type of automobile. Raw anglicism, frequent. \n\nCompound: sport shop.\n\nExample: \"We have always sold to the young woman, only that the one from that time was more classic and she began to bring the sporty clothes that her generation liked and thus we were opening up to another type of clientele, younger,\" comments with pride Eleonor (El Nuevo Día, 14-09-07)"
+  ],
   "source": "https://tesoro.pr"
 }

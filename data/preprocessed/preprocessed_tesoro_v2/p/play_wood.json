@@ -3,9 +3,12 @@
   "term": "play wood",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Madera enchapada o prensada",
+      "consolidated_definition": "Madera enchapada o prensada.",
+      "en_consolidated_definition": "Molded or pressed wood.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Madera enchapada o prensada"
+    "Madera enchapada o prensada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Molded or pressed wood."
+  ],
   "source": "https://tesoro.pr"
 }

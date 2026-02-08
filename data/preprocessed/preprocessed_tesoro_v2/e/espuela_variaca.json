@@ -3,14 +3,17 @@
   "term": "espuela variaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Espuela blanca y negra",
+      "consolidated_definition": "Espuela blanca y negra.",
+      "en_consolidated_definition": "White and black spur.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8526",
-        "semantic_similarity_score": 0.8526,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Espuela blanca y negra, distribuida de la mitad hacia el frente, blanca y la parte de atrás, negra.",
           "Espuela blanca y negra."
         ]
       }
     }
   },
   "es_definitions": [
-    "Espuela blanca y negra"
+    "Espuela blanca y negra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "White and black spur."
+  ],
   "source": "https://tesoro.pr"
 }

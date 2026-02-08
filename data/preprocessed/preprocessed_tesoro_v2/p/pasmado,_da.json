@@ -3,15 +3,18 @@
   "term": "pasmado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermo de pasmo",
+      "consolidated_definition": "Enfermo crónico o que sufre dolencias prolongadas.",
+      "en_consolidated_definition": "Person suffering from a chronic illness or prolonged affliction.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5267",
-        "semantic_similarity_score": 0.5267,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5308",
+        "semantic_similarity_score": 0.5308,
+        "cluster_count": 2,
         "grammar": [
           "adjetivo"
         ],
@@ -41,14 +44,17 @@
         "related_words": [],
         "reference_definitions": [
           "Enfermo de pasmo.",
-          "Se aplica a las enfermedades largas o crónicas o dolencias habituales. “Catarro pasamao o pasmuno.” También pasmuno."
+          "Se aplica a las enfermedades largas o crónicas o dolencias habituales. “Catarro pasama(d)o o pasmuno.” También pasmuno."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a una fruta",
+      "consolidated_definition": "Referido a una fruta, que no ha madurado bien.",
+      "en_consolidated_definition": "Un fruto que no ha madurado adecuadamente.\n\nNota: No se encontró información específica de términos culturales de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -83,14 +89,17 @@
       }
     },
     "3": {
-      "consolidated_definition": "Dícese de la persona atolondrada",
+      "consolidated_definition": "Referido a persona, abochornada.",
+      "en_consolidated_definition": "Abashedly referred to person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5632",
-        "semantic_similarity_score": 0.5632,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -130,20 +139,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dícese de la persona atolondrada. Distraída. Lerda.",
-          "Abochornado. Asombrado. Asustado. Paralizado, perplejo.",
-          "Enclenque, abobado.",
-          "Referido a persona, abochornada.",
-          "Referido a persona, asustada, perpleja."
+          "Referido a persona, abochornada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enfermo de pasmo",
-    "Referido a una fruta",
-    "Dícese de la persona atolondrada"
+    "Enfermo crónico o que sufre dolencias prolongadas.",
+    "Referido a una fruta, que no ha madurado bien.",
+    "Referido a persona, abochornada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person suffering from a chronic illness or prolonged affliction.",
+    "Un fruto que no ha madurado adecuadamente.\n\nNota: No se encontró información específica de términos culturales de Puerto Rico en esta definición.",
+    "Abashedly referred to person."
+  ],
   "source": "https://tesoro.pr"
 }

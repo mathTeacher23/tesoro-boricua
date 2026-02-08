@@ -3,9 +3,12 @@
   "term": "retail price",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Precio de venta al por menor",
+      "consolidated_definition": "Precio de venta al por menor. Anglicismo crudo, poco frecuente. El negocio tiene un caso en corte contra el Departamento de Hacienda, alegando que no tiene que pagar la diferencia entre lo que el paga por concepto de retail price y la cantidad en la que finalmente vende el vehículo (El Nuevo Día, 02-11-03)",
+      "en_consolidated_definition": "Retail selling price. Raw anglicism, infrequently used. The business has a case in court against the Department of Treasury, claiming that it does not have to pay the difference between what it pays for retail price and the amount by which it finally sells the vehicle (The New Day, 02-11-03)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Precio de venta al por menor. Anglicismo crudo, poco frecuente. El negocio tiene un caso en corte contra el Departamento de Hacienda, alegando que no tiene que pagar la diferencia entre lo que el paga por concepto de retail price y la cantidad en la que finalmente vende el vehículo"
+          "Precio de venta al por menor. Anglicismo crudo, poco frecuente. El negocio tiene un caso en corte contra el Departamento de Hacienda, alegando que no tiene que pagar la diferencia entre lo que el paga por concepto de retail price y la cantidad en la que finalmente vende el vehículo (El Nuevo Día, 02-11-03)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Precio de venta al por menor"
+    "Precio de venta al por menor. Anglicismo crudo, poco frecuente. El negocio tiene un caso en corte contra el Departamento de Hacienda, alegando que no tiene que pagar la diferencia entre lo que el paga por concepto de retail price y la cantidad en la que finalmente vende el vehículo (El Nuevo Día, 02-11-03)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Retail selling price. Raw anglicism, infrequently used. The business has a case in court against the Department of Treasury, claiming that it does not have to pay the difference between what it pays for retail price and the amount by which it finally sells the vehicle (The New Day, 02-11-03)"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "virgüela",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Viruela loca",
+      "consolidated_definition": "\"Viruela loca\": enfermedad viral altamente contagiosa que causa fiebre alta, dolores musculares y lesiones en la piel; también conocida como ébola.",
+      "en_consolidated_definition": "Mad Cow Disease (also known as Ebola): a highly contagious viral disease characterized by high fever, muscular pains and skin lesions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5807",
         "semantic_similarity_score": 0.5807,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Viruela loca"
+    "\"Viruela loca\": enfermedad viral altamente contagiosa que causa fiebre alta, dolores musculares y lesiones en la piel; también conocida como ébola."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mad Cow Disease (also known as Ebola): a highly contagious viral disease characterized by high fever, muscular pains and skin lesions."
+  ],
   "source": "https://tesoro.pr"
 }

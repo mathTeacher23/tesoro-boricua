@@ -3,9 +3,12 @@
   "term": "pisar el rabo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sentarse enseguida en el lugar del que acaba",
+      "consolidated_definition": "Sentarse enseguida en el lugar del que acaba de levantarse alguien.",
+      "en_consolidated_definition": "To sit down immediately in the place from which someone has just risen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Sentarse enseguida en el lugar del que acaba"
+    "Sentarse enseguida en el lugar del que acaba de levantarse alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To sit down immediately in the place from which someone has just risen."
+  ],
   "source": "https://tesoro.pr"
 }

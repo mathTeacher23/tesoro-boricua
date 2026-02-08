@@ -3,9 +3,12 @@
   "term": "dolorosa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La cuenta en un restaurante",
+      "consolidated_definition": "La cuenta en un restaurante. Factura.",
+      "en_consolidated_definition": "Bill in a restaurant; invoice.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La cuenta en un restaurante"
+    "La cuenta en un restaurante. Factura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bill in a restaurant; invoice."
+  ],
   "source": "https://tesoro.pr"
 }

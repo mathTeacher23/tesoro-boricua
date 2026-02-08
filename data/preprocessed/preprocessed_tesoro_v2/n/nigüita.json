@@ -3,9 +3,12 @@
   "term": "nigüita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de planta de la familia de las",
+      "consolidated_definition": "Especie de planta de la familia de las borragináceas.",
+      "en_consolidated_definition": "Species of plant belonging to the Boraginaceae family.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Especie de planta de la familia de las"
+    "Especie de planta de la familia de las borragináceas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Species of plant belonging to the Boraginaceae family."
+  ],
   "source": "https://tesoro.pr"
 }

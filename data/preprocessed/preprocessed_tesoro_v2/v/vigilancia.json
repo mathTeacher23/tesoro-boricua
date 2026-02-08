@@ -3,9 +3,12 @@
   "term": "vigilancia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la meteorología",
+      "consolidated_definition": "En la meteorología, anuncio oficial expedido cuando un huracán, o una tormenta tropical que puede convertirse en huracán, amenaza una zona determinada en las 24 a 36 horas siguientes. Puerto Rico se encuentra bajo vigilancia de huracán ante la trayectoria que lleva el huracán Irma.",
+      "en_consolidated_definition": "In meteorology, an official announcement issued when a hurricane or a tropical storm that may intensify into a hurricane threatens a specific area within 24 to 36 hours. Puerto Rico is under hurricane watch due to the trajectory of Hurricane Irma.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En la meteorología"
+    "En la meteorología, anuncio oficial expedido cuando un huracán, o una tormenta tropical que puede convertirse en huracán, amenaza una zona determinada en las 24 a 36 horas siguientes. Puerto Rico se encuentra bajo vigilancia de huracán ante la trayectoria que lleva el huracán Irma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In meteorology, an official announcement issued when a hurricane or a tropical storm that may intensify into a hurricane threatens a specific area within 24 to 36 hours. Puerto Rico is under hurricane watch due to the trajectory of Hurricane Irma."
+  ],
   "source": "https://tesoro.pr"
 }

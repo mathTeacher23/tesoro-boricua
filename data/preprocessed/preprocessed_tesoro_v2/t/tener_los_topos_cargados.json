@@ -3,9 +3,12 @@
   "term": "tener los topos cargados",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de la persona que habla mucho",
+      "consolidated_definition": "Se dice de la persona que habla mucho.",
+      "en_consolidated_definition": "Loquaz \n\nDescribing a person who speaks at length.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Se dice de la persona que habla mucho"
+    "Se dice de la persona que habla mucho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Loquaz \n\nDescribing a person who speaks at length."
+  ],
   "source": "https://tesoro.pr"
 }

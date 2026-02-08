@@ -3,15 +3,18 @@
   "term": "arriscadero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Risco: Peñasco alto y escarpado. También enriscadero.",
+      "consolidated_definition": "Risco, peñasco alto y escarpado.",
+      "en_consolidated_definition": "Steep rock or high and precipitous outcropping.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5431",
-        "semantic_similarity_score": 0.5431,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,16 +51,16 @@
           "enriscadero"
         ],
         "reference_definitions": [
-          "Risco.",
-          "Risco por donde suelen resbalarse y caerse los animales. También enriscadero.",
           "Risco, peñasco alto y escarpado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Risco: Peñasco alto y escarpado. También enriscadero."
+    "Risco, peñasco alto y escarpado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Steep rock or high and precipitous outcropping."
+  ],
   "source": "https://tesoro.pr"
 }

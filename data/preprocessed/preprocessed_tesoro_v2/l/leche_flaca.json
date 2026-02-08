@@ -3,9 +3,12 @@
   "term": "leche flaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Leche de composición rala",
+      "consolidated_definition": "Leche de composición rala.",
+      "en_consolidated_definition": "Whole milk with a thick consistency.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Leche de composición rala"
+    "Leche de composición rala."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Whole milk with a thick consistency."
+  ],
   "source": "https://tesoro.pr"
 }

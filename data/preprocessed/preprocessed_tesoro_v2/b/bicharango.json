@@ -3,15 +3,18 @@
   "term": "bicharango",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Manivela: dispositivo mecánico con forma de saliente que se utiliza para manipular o controlar el movimiento de un artefacto.",
+      "consolidated_definition": "Manivela. Saliente para manipular un artefacto.",
+      "en_consolidated_definition": "Handle or crank. Projection for manipulating a device.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Manivela: dispositivo mecánico con forma de saliente que se utiliza para manipular o controlar el movimiento de un artefacto."
+    "Manivela. Saliente para manipular un artefacto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Handle or crank. Projection for manipulating a device."
+  ],
   "source": "https://tesoro.pr"
 }

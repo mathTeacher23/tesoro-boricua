@@ -3,9 +3,12 @@
   "term": "giro calandrio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La “División de Gallos” del Departamento de Recreo",
+      "consolidated_definition": "La “División de Gallos” del Departamento de Recreo y Deportes lo define como ‘gallo con plumaje amarillo y rojizo con mezcla de negro.",
+      "en_consolidated_definition": "The \"Division of Roosters\" of the Department of Recreation and Sports defines it as 'rooster with yellowish-red plumage mixed with black'.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "La “División de Gallos” del Departamento de Recreo"
+    "La “División de Gallos” del Departamento de Recreo y Deportes lo define como ‘gallo con plumaje amarillo y rojizo con mezcla de negro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The \"Division of Roosters\" of the Department of Recreation and Sports defines it as 'rooster with yellowish-red plumage mixed with black'."
+  ],
   "source": "https://tesoro.pr"
 }

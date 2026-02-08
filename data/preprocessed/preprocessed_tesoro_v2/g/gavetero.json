@@ -3,14 +3,17 @@
   "term": "gavetero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mueble con gavetas",
+      "consolidated_definition": "Mueble con gavetas o cajones.",
+      "en_consolidated_definition": "Furniture with drawers or compartments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5709",
-        "semantic_similarity_score": 0.5709,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Mueble con gavetas, a veces con espejo, para guardar ropa y otros objetos de uso personal.",
-          "Cuba, Pan. y P. Rico. Mueble con gavetas.",
           "Mueble con gavetas o cajones."
         ]
       }
     }
   },
   "es_definitions": [
-    "Mueble con gavetas"
+    "Mueble con gavetas o cajones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Furniture with drawers or compartments."
+  ],
   "source": "https://tesoro.pr"
 }

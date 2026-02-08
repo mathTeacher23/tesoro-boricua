@@ -3,14 +3,17 @@
   "term": "loan",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Préstamo",
+      "consolidated_definition": "Préstamo.",
+      "en_consolidated_definition": "Loan.\n\nNota: En algunos contextos, este término puede referirse a un préstamo de dinero o una cantidad de dinero prestada, pero en general se refiere a algo que se toma prestado o se obtiene mediante préstamo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3841",
-        "semantic_similarity_score": 0.3841,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Préstamo, empréstito. Suma de dinero proporcionada por un banco o entidad similar que debe ser devuelta con intereses. Anglicismo crudo, poco frecuente. Refinanciar es necesario cuando los intereses que nos cobra el Banco por el loan de nuestra casa, posiblemente sean aumentados cuando se venza el periodo de compromiso firmado por ambas partes...",
           "Préstamo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Préstamo"
+    "Préstamo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Loan.\n\nNota: En algunos contextos, este término puede referirse a un préstamo de dinero o una cantidad de dinero prestada, pero en general se refiere a algo que se toma prestado o se obtiene mediante préstamo."
+  ],
   "source": "https://tesoro.pr"
 }

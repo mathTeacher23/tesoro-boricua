@@ -3,14 +3,17 @@
   "term": "palito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trago de licor",
+      "consolidated_definition": "Trago de bebida alcohólica, especialmente de ron.",
+      "en_consolidated_definition": "Shot of alcoholic beverage, especially rum.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4447",
-        "semantic_similarity_score": 0.4447,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,21 +47,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Trago de licor.",
-          "Palo de ron.",
           "Trago de bebida alcohólica, especialmente de ron."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Para referirse a árboles todavía pequeños o arbustos",
+      "consolidated_definition": "Árbol pequeño o arbusto de poca elevación.",
+      "en_consolidated_definition": "Small tree or low-growing shrub.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8212",
-        "semantic_similarity_score": 0.8212,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -89,15 +93,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para referirse a árboles todavía pequeños o arbustos de más reducida elevación.",
           "Árbol pequeño o arbusto de poca elevación."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Cigarrillo",
+      "consolidated_definition": "Cigarrillo.",
+      "en_consolidated_definition": "Cigarillo.\n\nNote: En español puertorriqueño, \"cigarrillo\" se refiere a un cigarro de tabaco enrollado en hoja de tabaco, generalmente más pequeño que un cigarro normal y con una textura suave. \n\nTraducción:\nCigarillo (a small, rolled tobacco product, typically softer in texture than a regular cigar).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -133,9 +139,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Guardia universitaria",
+      "consolidated_definition": "Guardia universitaria. Policía de la universidad.",
+      "en_consolidated_definition": "University Security Force. University police.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -169,14 +178,17 @@
       }
     },
     "5": {
-      "consolidated_definition": "Cuña de madera que se usa para abrir",
+      "consolidated_definition": "En las peleas de gallos, cuña de madera para abrir la boca del gallo.",
+      "en_consolidated_definition": "In cockfighting, wooden wedge used to open the beak of a rooster.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7099",
-        "semantic_similarity_score": 0.7099,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -208,19 +220,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cuña de madera que se usa para abrir la boca del gallo. También se emplea el anglicismo “forceps”.",
           "En las peleas de gallos, cuña de madera para abrir la boca del gallo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Trago de licor",
-    "Para referirse a árboles todavía pequeños o arbustos",
-    "Cigarrillo",
-    "Guardia universitaria",
-    "Cuña de madera que se usa para abrir"
+    "Trago de bebida alcohólica, especialmente de ron.",
+    "Árbol pequeño o arbusto de poca elevación.",
+    "Cigarrillo.",
+    "Guardia universitaria. Policía de la universidad.",
+    "En las peleas de gallos, cuña de madera para abrir la boca del gallo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Shot of alcoholic beverage, especially rum.",
+    "Small tree or low-growing shrub.",
+    "Cigarillo.\n\nNote: En español puertorriqueño, \"cigarrillo\" se refiere a un cigarro de tabaco enrollado en hoja de tabaco, generalmente más pequeño que un cigarro normal y con una textura suave. \n\nTraducción:\nCigarillo (a small, rolled tobacco product, typically softer in texture than a regular cigar).",
+    "University Security Force. University police.",
+    "In cockfighting, wooden wedge used to open the beak of a rooster."
+  ],
   "source": "https://tesoro.pr"
 }

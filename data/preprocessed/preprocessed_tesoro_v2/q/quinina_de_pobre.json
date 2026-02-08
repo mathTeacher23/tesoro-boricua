@@ -3,15 +3,18 @@
   "term": "quinina de pobre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta medicinal o para otros usos",
+      "consolidated_definition": "Planta medicinal o para otros usos.",
+      "en_consolidated_definition": "Medicinal plant or for other uses.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5533",
         "semantic_similarity_score": 0.5533,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -54,8 +57,10 @@
     }
   },
   "es_definitions": [
-    "Planta medicinal o para otros usos"
+    "Planta medicinal o para otros usos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Medicinal plant or for other uses."
+  ],
   "source": "https://tesoro.pr"
 }

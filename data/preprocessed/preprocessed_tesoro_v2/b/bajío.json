@@ -3,15 +3,18 @@
   "term": "bajío",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Terreno bajo o zona con elevaciones reducidas.",
+      "consolidated_definition": "Lugar de poca profundidad.",
+      "en_consolidated_definition": "Lugar de poca profundidad. \n\nShallow area or place.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5355",
-        "semantic_similarity_score": 0.5355,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -49,17 +52,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Arg., Col., Ecuad., Méx., Ur. y Ven.). Terreno bajo. Ac.",
-          "(P. Rico, Arg., Col., Ecuad., Méx., Ur. y Ven.). Terreno bajo.",
-          "Un bajo grande, es decir, un lugar de poca profundidad.",
           "Lugar de poca profundidad."
         ]
       }
     },
     "2": {
       "consolidated_definition": "El suspiro es un tipo de aliento, generalmente expresando cansancio, alivio o emoción contenida.",
+      "en_consolidated_definition": "The sigh is a type of breath, generally expressing fatigue, relief, or contained emotion.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -98,9 +101,12 @@
     }
   },
   "es_definitions": [
-    "Terreno bajo o zona con elevaciones reducidas.",
+    "Lugar de poca profundidad.",
     "El suspiro es un tipo de aliento, generalmente expresando cansancio, alivio o emoción contenida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lugar de poca profundidad. \n\nShallow area or place.",
+    "The sigh is a type of breath, generally expressing fatigue, relief, or contained emotion.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

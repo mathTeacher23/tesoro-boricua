@@ -3,15 +3,18 @@
   "term": "mojiganga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Morisqueta",
+      "consolidated_definition": "La morisqueta es un plato tradicional español.",
+      "en_consolidated_definition": "The morisqueta is a traditional Spanish dish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5553",
         "semantic_similarity_score": 0.5553,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Morisqueta"
+    "La morisqueta es un plato tradicional español."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The morisqueta is a traditional Spanish dish."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "medidor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mecanismo que indica el resultado de una sucesión, relacionado con un mecanismo",
+      "consolidated_definition": "Mecanismo que indica el resultado de una sucesión numérica de la energía eléctrica o del paso del agua o gas.",
+      "en_consolidated_definition": "Device indicating the outcome of a numerical sequence of electrical energy or the flow of water or gas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mecanismo que indica el resultado de una sucesión, relacionado con un mecanismo"
+    "Mecanismo que indica el resultado de una sucesión numérica de la energía eléctrica o del paso del agua o gas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Device indicating the outcome of a numerical sequence of electrical energy or the flow of water or gas."
+  ],
   "source": "https://tesoro.pr"
 }

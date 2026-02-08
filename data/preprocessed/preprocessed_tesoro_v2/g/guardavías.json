@@ -3,9 +3,12 @@
   "term": "guardavías",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guardabarrera",
+      "consolidated_definition": "Guardabarrera. También guardagujas.",
+      "en_consolidated_definition": "Gatekeeper. Also gate attendant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Guardabarrera"
+    "Guardabarrera. También guardagujas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gatekeeper. Also gate attendant."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ladino, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Los esclavos que importaban a las colonias",
+      "consolidated_definition": "Los esclavos que importaban a las colonias, procedentes de los mercados de Sevilla o Lisboa, nacidos en dichos países o residentes en los mismos por el tiempo necesario para aprender a expresarse en la lengua de su nuevo ambiente.",
+      "en_consolidated_definition": "Slaves imported to the colonies from markets in Seville or Lisbon, born in those countries or residing there long enough to learn to express themselves in the language of their new environment.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Los esclavos que importaban a las colonias"
+    "Los esclavos que importaban a las colonias, procedentes de los mercados de Sevilla o Lisboa, nacidos en dichos países o residentes en los mismos por el tiempo necesario para aprender a expresarse en la lengua de su nuevo ambiente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Slaves imported to the colonies from markets in Seville or Lisbon, born in those countries or residing there long enough to learn to express themselves in the language of their new environment."
+  ],
   "source": "https://tesoro.pr"
 }

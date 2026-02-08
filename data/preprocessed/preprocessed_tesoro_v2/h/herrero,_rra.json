@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Herrador, que hierra. Ac.",
+      "en_consolidated_definition": "Blacksmith, who hammers. Ac.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,6 +47,8 @@
   "es_definitions": [
     ". Herrador, que hierra. Ac."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Blacksmith, who hammers. Ac."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "café caracolillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grano superior: partícula pequeña y redondeada, bien lavado y secado, de selección por su pureza y estimado por su aroma.",
+      "consolidated_definition": "Grano superior, bien lavado y secado, muy estimado por su aroma.",
+      "en_consolidated_definition": "High-quality coffee bean, well washed and dried, highly prized for its aroma.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7642",
-        "semantic_similarity_score": 0.7642,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -43,16 +46,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Grano superior; bien lavado y seco.",
-          "Grano superior, de selección por su pureza, más pequeño y redondo que el común. (Fonfrías Vocabulario del café).",
           "Grano superior, bien lavado y secado, muy estimado por su aroma."
         ]
       }
     }
   },
   "es_definitions": [
-    "Grano superior: partícula pequeña y redondeada, bien lavado y secado, de selección por su pureza y estimado por su aroma."
+    "Grano superior, bien lavado y secado, muy estimado por su aroma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "High-quality coffee bean, well washed and dried, highly prized for its aroma."
+  ],
   "source": "https://tesoro.pr"
 }

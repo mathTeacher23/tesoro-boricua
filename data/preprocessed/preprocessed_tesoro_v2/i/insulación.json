@@ -3,14 +3,17 @@
   "term": "insulación",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aislamiento, relacionado con un mecanismo",
+      "consolidated_definition": "Aislamiento, procedimiento para impedir que penetre algo en un espacio cerrado, especialmente ruido, electricidad, humedad o calor.",
+      "en_consolidated_definition": "Isolation, a procedure for preventing the entry of something into a closed space, especially noise, electricity, humidity, or heat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5751",
-        "semantic_similarity_score": 0.5751,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -43,16 +46,16 @@
           "insulador"
         ],
         "reference_definitions": [
-          "Aislamiento. Sistema o dispositivo que impide la transmisión del calor, la electricidad, el sonido, etc. Anglicismo adaptado, poco frecuente. También aislación. Aquí se presenta la nueva tecnología para el acopio de energía solar, agua de lluvia, pretratamiento de aguas negras e insulación apropiada para el clima",
-          "Aislamiento, procedimiento para impedir que penetre algo en un espacio cerrado, especialmente ruido, electricidad, humedad o calor.",
-          "Material con que se aísla este espacio."
+          "Aislamiento, procedimiento para impedir que penetre algo en un espacio cerrado, especialmente ruido, electricidad, humedad o calor."
         ]
       }
     }
   },
   "es_definitions": [
-    "Aislamiento, relacionado con un mecanismo"
+    "Aislamiento, procedimiento para impedir que penetre algo en un espacio cerrado, especialmente ruido, electricidad, humedad o calor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Isolation, a procedure for preventing the entry of something into a closed space, especially noise, electricity, humidity, or heat."
+  ],
   "source": "https://tesoro.pr"
 }

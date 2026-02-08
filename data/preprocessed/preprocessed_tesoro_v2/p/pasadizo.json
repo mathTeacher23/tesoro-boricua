@@ -3,9 +3,12 @@
   "term": "pasadizo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio por donde se entra a la sala",
+      "consolidated_definition": "Sitio por donde se entra a la sala y en ella sirve para pasar a otras piezas.",
+      "en_consolidated_definition": "Entrance hall or foyer that serves as a passageway to other rooms within the main salon.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sitio por donde se entra a la sala"
+    "Sitio por donde se entra a la sala y en ella sirve para pasar a otras piezas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Entrance hall or foyer that serves as a passageway to other rooms within the main salon."
+  ],
   "source": "https://tesoro.pr"
 }

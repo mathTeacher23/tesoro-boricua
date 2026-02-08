@@ -3,9 +3,12 @@
   "term": "socio, cia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Amigo íntimo",
+      "consolidated_definition": "Amigo íntimo, confidente.",
+      "en_consolidated_definition": "Intimate friend, confidant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Amigo íntimo"
+    "Amigo íntimo, confidente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Intimate friend, confidant."
+  ],
   "source": "https://tesoro.pr"
 }

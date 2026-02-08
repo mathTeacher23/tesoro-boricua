@@ -3,9 +3,12 @@
   "term": "ser más peligroso que una aguja en un asopao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Peligroso en extremo",
+      "consolidated_definition": "Peligroso en extremo.",
+      "en_consolidated_definition": "Extremely perilous.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Peligroso en extremo"
+    "Peligroso en extremo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extremely perilous."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "dmz",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform",
+      "consolidated_definition": "inform. Zona desmilitarizada. Término militar utilizado en informática para referirse a una zona que no está en una red interna ni en Internet, sino que está situada entre dos redes. Sigla anglicada, poco frecuente. Por la naturaleza de los servicios en la red de comunicación del RCM, OSI integra el concepto de Red Privada, Red Extranet y Zona Intermedia DMZ, las cuales permiten ubicar los servicios estratégicamente, a base de sus necesidades de acceso, seguridad y otras peculiaridades (UPR, Recinto de Ciencias Médicas, 26-04-05)",
+      "en_consolidated_definition": "DMZ (De-Militarized Zone). Inform. A demilitarized zone or a network segment that is not part of an internal network nor the Internet but is situated between two networks. Anglicized acronym, relatively infrequent. Due to the nature of communication services in the RCM network, OSI integrates the concept of Private Network, Extranet and DMZ (De-Militarized Zone), which allow for strategically locating services based on their access needs, security requirements, and other peculiarities (UPR, Recinto de Ciencias Médicas, 26-04-05).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Zona desmilitarizada. Término militar utilizado en informática para referirse a una zona que no está en una red interna ni en Internet, sino que está situada entre dos redes. Sigla anglicada, poco frecuente. Por la naturaleza de los servicios en la red de comunicación del RCM, OSI integra el concepto de Red Privada, Red Extranet y Zona Intermedia DMZ, las cuales permiten ubicar los servicios estratégicamente, a base de sus necesidades de acceso, seguridad y otras peculiaridades"
+          "inform. Zona desmilitarizada. Término militar utilizado en informática para referirse a una zona que no está en una red interna ni en Internet, sino que está situada entre dos redes. Sigla anglicada, poco frecuente. Por la naturaleza de los servicios en la red de comunicación del RCM, OSI integra el concepto de Red Privada, Red Extranet y Zona Intermedia DMZ, las cuales permiten ubicar los servicios estratégicamente, a base de sus necesidades de acceso, seguridad y otras peculiaridades (UPR, Recinto de Ciencias Médicas, 26-04-05)"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform"
+    "inform. Zona desmilitarizada. Término militar utilizado en informática para referirse a una zona que no está en una red interna ni en Internet, sino que está situada entre dos redes. Sigla anglicada, poco frecuente. Por la naturaleza de los servicios en la red de comunicación del RCM, OSI integra el concepto de Red Privada, Red Extranet y Zona Intermedia DMZ, las cuales permiten ubicar los servicios estratégicamente, a base de sus necesidades de acceso, seguridad y otras peculiaridades (UPR, Recinto de Ciencias Médicas, 26-04-05)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "DMZ (De-Militarized Zone). Inform. A demilitarized zone or a network segment that is not part of an internal network nor the Internet but is situated between two networks. Anglicized acronym, relatively infrequent. Due to the nature of communication services in the RCM network, OSI integrates the concept of Private Network, Extranet and DMZ (De-Militarized Zone), which allow for strategically locating services based on their access needs, security requirements, and other peculiarities (UPR, Recinto de Ciencias Médicas, 26-04-05)."
+  ],
   "source": "https://tesoro.pr"
 }

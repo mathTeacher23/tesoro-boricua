@@ -3,9 +3,12 @@
   "term": "sacar el jugo a alguien",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Explotar a alguien",
+      "consolidated_definition": "Explotar a alguien. Hacer trabajar al máximo a alguien.",
+      "en_consolidated_definition": "To overwork or exhaust someone by making them work at their maximum capacity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Explotar a alguien"
+    "Explotar a alguien. Hacer trabajar al máximo a alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To overwork or exhaust someone by making them work at their maximum capacity."
+  ],
   "source": "https://tesoro.pr"
 }

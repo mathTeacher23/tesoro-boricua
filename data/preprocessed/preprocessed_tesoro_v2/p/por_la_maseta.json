@@ -3,9 +3,12 @@
   "term": "por la maseta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bien",
+      "consolidated_definition": "Bien, de manera elegante, estupendamente.",
+      "en_consolidated_definition": "Elegantemente, con refinamiento, de manera exquisita.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Bien"
+    "Bien, de manera elegante, estupendamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Elegantemente, con refinamiento, de manera exquisita."
+  ],
   "source": "https://tesoro.pr"
 }

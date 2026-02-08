@@ -3,14 +3,17 @@
   "term": "pinch hitter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En el beisbol, jugador suplente en el orden de bateo.",
+      "en_consolidated_definition": "In baseball, a reserve player in the batting order.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.8086",
-        "semantic_similarity_score": 0.8086,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -44,16 +47,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "En béisbol, jugador suplente en el orden de bateo. También dicen emergente y bateador emergente.",
-          "dep. Emergente, bateador emergente, sustituto. En béisbol, jugador suplente en el orden de bateo; por extensión, persona que sustituye a otra en determinado momento. Anglicismo crudo, usual. DRAE 2001 Tengo siempre en la mente algo que me dijo mi abuelo hace muchos años: que el dirigente siempre coge el mejor pinch hitter del banco, y Papá Dios cogió el mejor jugador en el terreno de juego y se lo llevó para el cielo",
           "En el beisbol, jugador suplente en el orden de bateo."
         ]
       }
     }
   },
   "es_definitions": [
-    "En béisbol"
+    "En el beisbol, jugador suplente en el orden de bateo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a reserve player in the batting order."
+  ],
   "source": "https://tesoro.pr"
 }

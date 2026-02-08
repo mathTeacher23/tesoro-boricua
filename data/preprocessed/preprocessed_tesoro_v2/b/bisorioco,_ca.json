@@ -3,15 +3,18 @@
   "term": "bisorioco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Defectuoso\": referido a una persona o maquinaria que presenta defectos o fallos en su funcionamiento, calidad o estructura.",
+      "consolidated_definition": "Referido a una maquinaria, que no funciona bien, que está mal hecha o en mal estado.",
+      "en_consolidated_definition": "Referido a una máquina o maquinaria que no funciona adecuadamente, está mal diseñada o en mal estado de conservación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.3386",
-        "semantic_similarity_score": 0.3386,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -47,17 +50,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Defectuoso, sa.",
-          "Loco.",
-          "Referido a una maquinaria, que no funciona bien, que está mal hecha o en mal estado.",
-          "Referido a persona, confundida, aturdida, loca."
+          "Referido a una maquinaria, que no funciona bien, que está mal hecha o en mal estado."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Defectuoso\": referido a una persona o maquinaria que presenta defectos o fallos en su funcionamiento, calidad o estructura."
+    "Referido a una maquinaria, que no funciona bien, que está mal hecha o en mal estado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a una máquina o maquinaria que no funciona adecuadamente, está mal diseñada o en mal estado de conservación."
+  ],
   "source": "https://tesoro.pr"
 }

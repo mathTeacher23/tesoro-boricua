@@ -3,9 +3,12 @@
   "term": "lambeculo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona aduladora y servil",
+      "consolidated_definition": "Persona aduladora y servil.",
+      "en_consolidated_definition": "Sycophant and sycophantic person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Persona aduladora y servil"
+    "Persona aduladora y servil."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sycophant and sycophantic person."
+  ],
   "source": "https://tesoro.pr"
 }

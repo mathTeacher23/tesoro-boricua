@@ -3,9 +3,12 @@
   "term": "gorgojo de caña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gorgojo que ataca a las hojas de la",
+      "consolidated_definition": "Gorgojo que ataca a las hojas de la caña de azúcar.",
+      "en_consolidated_definition": "Sugar cane leaf beetle that attacks the leaves of sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gorgojo que ataca a las hojas de la"
+    "Gorgojo que ataca a las hojas de la caña de azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sugar cane leaf beetle that attacks the leaves of sugarcane."
+  ],
   "source": "https://tesoro.pr"
 }

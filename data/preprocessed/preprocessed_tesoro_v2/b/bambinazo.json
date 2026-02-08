@@ -3,15 +3,18 @@
   "term": "bambinazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el béisbol, un home run es una batazo muy largo que generalmente sale fuera de la cerca que delimita el terreno de juego.",
+      "consolidated_definition": "En el beisbol, batazo muy largo que generalmente sale fuera de la cerca que delimita el terreno.",
+      "en_consolidated_definition": "In baseball, a very long hit that usually goes outside the fence surrounding the playing field.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el béisbol, un home run es una batazo muy largo que generalmente sale fuera de la cerca que delimita el terreno de juego."
+    "En el beisbol, batazo muy largo que generalmente sale fuera de la cerca que delimita el terreno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a very long hit that usually goes outside the fence surrounding the playing field."
+  ],
   "source": "https://tesoro.pr"
 }

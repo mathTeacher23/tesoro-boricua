@@ -3,9 +3,12 @@
   "term": "sanduichero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona ambulante que vende emparedados",
+      "consolidated_definition": "Dícese de la persona ambulante que vende emparedados y otras comidas ligeras.",
+      "en_consolidated_definition": "Street vendor of sandwiches and other light refreshments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona ambulante que vende emparedados"
+    "Dícese de la persona ambulante que vende emparedados y otras comidas ligeras."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Street vendor of sandwiches and other light refreshments."
+  ],
   "source": "https://tesoro.pr"
 }

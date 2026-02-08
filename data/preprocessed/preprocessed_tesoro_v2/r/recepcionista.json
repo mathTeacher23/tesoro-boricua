@@ -3,15 +3,18 @@
   "term": "recepcionista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empleado encargado de recibir a los clientes en",
+      "consolidated_definition": "Recepcionista: Persona encargada de recibir y atender a los clientes en una oficina o establecimiento, generalmente ubicado en la entrada principal.",
+      "en_consolidated_definition": "Receptionist: Person in charge of receiving and attending to clients in an office or establishment, typically located at the main entrance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5405",
         "semantic_similarity_score": 0.5405,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Empleado encargado de recibir a los clientes en"
+    "Recepcionista: Persona encargada de recibir y atender a los clientes en una oficina o establecimiento, generalmente ubicado en la entrada principal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Receptionist: Person in charge of receiving and attending to clients in an office or establishment, typically located at the main entrance."
+  ],
   "source": "https://tesoro.pr"
 }

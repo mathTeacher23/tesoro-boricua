@@ -3,9 +3,12 @@
   "term": "tímpano",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuello o tallo del racimo de plátanos",
+      "consolidated_definition": "Cuello o tallo del racimo de plátanos.",
+      "en_consolidated_definition": "Pseudostem or stem of a banana bunch.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cuello o tallo del racimo de plátanos"
+    "Cuello o tallo del racimo de plátanos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pseudostem or stem of a banana bunch."
+  ],
   "source": "https://tesoro.pr"
 }

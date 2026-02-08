@@ -3,9 +3,12 @@
   "term": "gloria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta trepadora que echa flores de color violeta",
+      "consolidated_definition": "Planta trepadora que echa flores de color violeta. También llamado bejuco de gloria.",
+      "en_consolidated_definition": "Clematis vine that produces violet-colored flowers. Also known as bejuco de gloria.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Planta trepadora que echa flores de color violeta"
+    "Planta trepadora que echa flores de color violeta. También llamado bejuco de gloria."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Clematis vine that produces violet-colored flowers. Also known as bejuco de gloria."
+  ],
   "source": "https://tesoro.pr"
 }

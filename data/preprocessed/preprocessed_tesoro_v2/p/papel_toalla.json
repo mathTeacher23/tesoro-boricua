@@ -3,9 +3,12 @@
   "term": "papel toalla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Papel que se usa como servilleta",
+      "consolidated_definition": "Papel que se usa como servilleta, o para limpiar restos de comida en una superficie.",
+      "en_consolidated_definition": "Paper used as a napkin or to wipe away food residue from a surface.\n\nNota: En este contexto, el término \"papel\" se refiere a un tipo de papel absorbente, similar a una servilleta, que es común en Puerto Rico y otros países hispanohablantes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Papel que se usa como servilleta"
+    "Papel que se usa como servilleta, o para limpiar restos de comida en una superficie."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Paper used as a napkin or to wipe away food residue from a surface.\n\nNota: En este contexto, el término \"papel\" se refiere a un tipo de papel absorbente, similar a una servilleta, que es común en Puerto Rico y otros países hispanohablantes."
+  ],
   "source": "https://tesoro.pr"
 }

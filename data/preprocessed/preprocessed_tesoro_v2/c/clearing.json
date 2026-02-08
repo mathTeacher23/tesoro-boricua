@@ -3,15 +3,18 @@
   "term": "clearing",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Proceso en bancos o compañías financieras que abarca desde el establecimiento de un acuerdo de transacción hasta su liquidación.",
+      "consolidated_definition": "Corroboración de pagos.",
+      "en_consolidated_definition": "Verification of payments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.3923",
-        "semantic_similarity_score": 0.3923,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,18 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "comer. Proceso de pagos. En los bancos o compañías financieras, actividades realizadas desde que se establece un acuerdo de transacción hasta que se liquida. Anglicismo crudo, frecuente. Podrá ver los cheques que llegan por clearing y que entrarán en la cuenta durante la noche (First Bank Puerto Rico, consultado 01-02-08)",
-          "Corroboración de pagos.",
-          "Revisión de cuentas o de mercancías.",
-          "Abono de cheques sin fondos.",
-          "Liquidación de un negocio entre varias personas."
+          "Corroboración de pagos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Proceso en bancos o compañías financieras que abarca desde el establecimiento de un acuerdo de transacción hasta su liquidación."
+    "Corroboración de pagos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Verification of payments."
+  ],
   "source": "https://tesoro.pr"
 }

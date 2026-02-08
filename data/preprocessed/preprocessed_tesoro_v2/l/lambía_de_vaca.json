@@ -3,14 +3,17 @@
   "term": "lambía de vaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Peinado lacio con el pelo mojado",
+      "consolidated_definition": "Peinado lacio con el pelo mojado y muy aplastado.",
+      "en_consolidated_definition": "Loose, damp hair that is very flat and pressed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.8043",
-        "semantic_similarity_score": 0.8043,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución sustantiva",
@@ -44,16 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Peinado lacio con el pelo mojado.",
-          "Peinarse con el pelo muy aplastado.",
           "Peinado lacio con el pelo mojado y muy aplastado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Peinado lacio con el pelo mojado"
+    "Peinado lacio con el pelo mojado y muy aplastado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Loose, damp hair that is very flat and pressed."
+  ],
   "source": "https://tesoro.pr"
 }

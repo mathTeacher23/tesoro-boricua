@@ -3,15 +3,18 @@
   "term": "curioso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que ejerce la profesión de curar o sanar mediante métodos tradicionales y no científicos.",
+      "consolidated_definition": "Persona que, sin ser médico, se dedica a curar personas utilizando métodos empíricos, curandero.",
+      "en_consolidated_definition": "Individual who, without being a medical doctor, devotes themselves to healing people using empirical methods, faith healer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.4438",
-        "semantic_similarity_score": 0.4438,
-        "cluster_count": 8,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -62,21 +65,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Col., Chile, Perú y Ven.). Curandero. “Estos curiosos y curiosas que antes se llamaban curanderos.” Meléndez Muñoz, , p. 86.",
-          "Curandero.",
-          "Curandera. También médica.",
-          "(T. en Ven., Col., Perú y Chile). Persona entendida en el arte de curar.",
-          "Entendido, ingenioso. La persona singularmente hábil y diestra.",
-          "La administración de la medicina popular por los campos de Puerto Rico ha estado en el tiempo en manos de ciertos curanderos —conocidos con variedad de nombres de oficio que les ha dado el jíbaro: los criollismos santigüero, ra … y yerbatero, ra …, el viejo vocablo español curioso, sa … y por ampliación popular más bien moderna del nombre del facultativo de la medicina científica, también médico, ca (así en Ponce, . gr., según Figueroa, médica ‘curandera’)— y quienes, sin tener formación profesional médica alguna, han ejercido o pretendido ejercer prácticas curativas fundamentadas en cierta mezcla de ritual supersticioso y empiricismo pseudocientífico.",
-          "Dícese de la persona que cura con emplastos, sobos y oraciones, las dolencias tales como empachos, torceduras musculares y dislocaduras de coyunturas.",
           "Persona que, sin ser médico, se dedica a curar personas utilizando métodos empíricos, curandero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que ejerce la profesión de curar o sanar mediante métodos tradicionales y no científicos."
+    "Persona que, sin ser médico, se dedica a curar personas utilizando métodos empíricos, curandero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Individual who, without being a medical doctor, devotes themselves to healing people using empirical methods, faith healer."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "muchos caciques y pocos indios",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que hay demasiados jefes y pocos subordinados",
+      "consolidated_definition": "Indica que hay demasiados jefes y pocos subordinados.",
+      "en_consolidated_definition": "Indicates an excessive number of supervisors and a scarcity of subordinates.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Indica que hay demasiados jefes y pocos subordinados"
+    "Indica que hay demasiados jefes y pocos subordinados."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Indicates an excessive number of supervisors and a scarcity of subordinates."
+  ],
   "source": "https://tesoro.pr"
 }

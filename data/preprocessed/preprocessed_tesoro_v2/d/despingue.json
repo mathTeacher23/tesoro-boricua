@@ -3,9 +3,12 @@
   "term": "despingue",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Situación en la que imperan la confusión y",
+      "consolidated_definition": "Situación en la que imperan la confusión y el desorden.",
+      "en_consolidated_definition": "Situación caracterizada por una condición de confusión y desorden generalizado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Situación en la que imperan la confusión y"
+    "Situación en la que imperan la confusión y el desorden."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Situación caracterizada por una condición de confusión y desorden generalizado."
+  ],
   "source": "https://tesoro.pr"
 }

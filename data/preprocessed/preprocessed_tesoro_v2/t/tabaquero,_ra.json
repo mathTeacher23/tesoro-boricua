@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Elaborador del tabaco.",
+      "en_consolidated_definition": "Tobacco preparer or manufacturer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -46,6 +49,8 @@
   "es_definitions": [
     ". Elaborador del tabaco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tobacco preparer or manufacturer."
+  ],
   "source": "https://tesoro.pr"
 }

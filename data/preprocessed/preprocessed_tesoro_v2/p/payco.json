@@ -3,9 +3,12 @@
   "term": "payco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vendedor ambulante de helados",
+      "consolidated_definition": "Vendedor ambulante de helados, que se desplaza en furgoneta. Derivado de las siglas PAYCO = Puig, Abraham y Compañía, firma precursora de este producto en Puerto Rico.",
+      "en_consolidated_definition": "Street vendor of ice cream who travels in a van. Derived from the initials PAYCO = Puig, Abraham and Company, a precursor company to this product in Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Vendedor ambulante de helados"
+    "Vendedor ambulante de helados, que se desplaza en furgoneta. Derivado de las siglas PAYCO = Puig, Abraham y Compañía, firma precursora de este producto en Puerto Rico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Street vendor of ice cream who travels in a van. Derived from the initials PAYCO = Puig, Abraham and Company, a precursor company to this product in Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

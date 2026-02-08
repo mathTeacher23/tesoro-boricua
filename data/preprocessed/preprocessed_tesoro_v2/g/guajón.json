@@ -3,15 +3,18 @@
   "term": "guajón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Beilschmeidia pendula",
+      "consolidated_definition": "\"Beilschmiedia pendula\": árbol lauráceo de hasta 70 pies de altura, con corteza castaño oscuro y hojas elípticas, madera dura de color castaño claro utilizada en construcción y manufactura de muebles.",
+      "en_consolidated_definition": "Beilschmiedia pendula: a laurel tree reaching up to 70 feet in height, with dark chestnut-brown bark and elliptical leaves, hard wood of light chestnut color used in construction and manufacture of furniture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
         "definition_stability": "Stability: 0.441",
         "semantic_similarity_score": 0.441,
-        "cluster_count": null,
+        "cluster_count": 6,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -59,9 +62,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Sitio escarpado",
+      "consolidated_definition": "Sitio escarpado, lleno de piedras, barranco o precipicio lleno de piedras.",
+      "en_consolidated_definition": "Rocky outcropping filled with stones, or a rocky gorge or precipice filled with stones.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -95,14 +101,17 @@
       }
     },
     "3": {
-      "consolidated_definition": "Variedad de sapo autóctono de Puerto Rico",
+      "consolidated_definition": "Rana de hasta 45 mm de longitud, cuya coloración oscila entre el marrón claro, casi amarillo, hasta el marrón oscuro; los machos se distinguen porque la garganta y parte del abdomen son amarillos. (Eleutherodactylidae; Eleutherodactylus cooki).",
+      "en_consolidated_definition": "Frog of up to 45 mm in length, whose coloration ranges from light brown, almost yellow, to dark brown; males are distinguished by the yellow throat and part of the abdomen.\n\nNote: Eleutherodactylidae is translated as a family name (Eleutherodactylidae) and Eleutherodactylus cooki remains untranslated as it's a species name.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3428",
-        "semantic_similarity_score": 0.3428,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -133,18 +142,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Variedad de sapo autóctono de Puerto Rico.",
-          "Supuesto espíritu en pena en forma de monstruo que vivía en los guajonales.",
-          "Rana de hasta 45 mm de longitud, cuya coloración oscila entre el marrón claro, casi amarillo, hasta el marrón oscuro; los machos se distinguen porque la garganta y parte del abdomen son amarillos. ."
+          "Rana de hasta 45 mm de longitud, cuya coloración oscila entre el marrón claro, casi amarillo, hasta el marrón oscuro; los machos se distinguen porque la garganta y parte del abdomen son amarillos. (Eleutherodactylidae; Eleutherodactylus cooki)."
         ]
       }
     }
   },
   "es_definitions": [
-    "Beilschmeidia pendula",
-    "Sitio escarpado",
-    "Variedad de sapo autóctono de Puerto Rico"
+    "\"Beilschmiedia pendula\": árbol lauráceo de hasta 70 pies de altura, con corteza castaño oscuro y hojas elípticas, madera dura de color castaño claro utilizada en construcción y manufactura de muebles.",
+    "Sitio escarpado, lleno de piedras, barranco o precipicio lleno de piedras.",
+    "Rana de hasta 45 mm de longitud, cuya coloración oscila entre el marrón claro, casi amarillo, hasta el marrón oscuro; los machos se distinguen porque la garganta y parte del abdomen son amarillos. (Eleutherodactylidae; Eleutherodactylus cooki)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Beilschmiedia pendula: a laurel tree reaching up to 70 feet in height, with dark chestnut-brown bark and elliptical leaves, hard wood of light chestnut color used in construction and manufacture of furniture.",
+    "Rocky outcropping filled with stones, or a rocky gorge or precipice filled with stones.",
+    "Frog of up to 45 mm in length, whose coloration ranges from light brown, almost yellow, to dark brown; males are distinguished by the yellow throat and part of the abdomen.\n\nNote: Eleutherodactylidae is translated as a family name (Eleutherodactylidae) and Eleutherodactylus cooki remains untranslated as it's a species name."
+  ],
   "source": "https://tesoro.pr"
 }

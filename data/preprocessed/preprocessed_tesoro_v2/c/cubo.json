@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "La pieza central de la rueda, también conocida como campana, manzana, maza o piña, se refiere específicamente a un término utilizado por el sujeto de San Juan.",
+      "en_consolidated_definition": "The central piece of the wheel, also known as campana, manzana, maza or piña, specifically refers to a term used by the subject of San Juan.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -47,15 +50,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Recipientes cilíndricos fabricados con materiales como metal o plástico, diseñados para contener y proteger las bombillas eléctricas.",
+      "consolidated_definition": "Cilindro metálico o de material plástico en el que se encaja la bombilla eléctrica.",
+      "en_consolidated_definition": "Metallic or plastic cylinder in which the electric light bulb is inserted.\n\nNota: En este caso, no hay términos culturales específicos de Puerto Rico que requieran traducción o preservación del contexto. La definición es general y se aplica en diferentes contextos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,15 +89,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "La acción de sentarse.",
+      "consolidated_definition": "Ver sentadera .",
+      "en_consolidated_definition": "See seat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -107,9 +116,13 @@
   },
   "es_definitions": [
     "La pieza central de la rueda, también conocida como campana, manzana, maza o piña, se refiere específicamente a un término utilizado por el sujeto de San Juan.",
-    "Recipientes cilíndricos fabricados con materiales como metal o plástico, diseñados para contener y proteger las bombillas eléctricas.",
-    "La acción de sentarse."
+    "Cilindro metálico o de material plástico en el que se encaja la bombilla eléctrica.",
+    "Ver sentadera ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The central piece of the wheel, also known as campana, manzana, maza or piña, specifically refers to a term used by the subject of San Juan.",
+    "Metallic or plastic cylinder in which the electric light bulb is inserted.\n\nNota: En este caso, no hay términos culturales específicos de Puerto Rico que requieran traducción o preservación del contexto. La definición es general y se aplica en diferentes contextos.",
+    "See seat."
+  ],
   "source": "https://tesoro.pr"
 }

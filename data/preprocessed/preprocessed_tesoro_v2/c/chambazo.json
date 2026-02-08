@@ -3,15 +3,18 @@
   "term": "chambazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empleo inestable: trabajo que no ofrece seguridad laboral o estabilidad en la relación entre el empleador y el empleado, lo que puede incluir cambios frecuentes en la jornada laboral, la remuneración o las condiciones de trabajo.",
+      "consolidated_definition": "Empleo inestable.",
+      "en_consolidated_definition": "Un empleo inestable es un trabajo que no ofrece estabilidad laboral o seguridad económica para el empleado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Empleo inestable: trabajo que no ofrece seguridad laboral o estabilidad en la relación entre el empleador y el empleado, lo que puede incluir cambios frecuentes en la jornada laboral, la remuneración o las condiciones de trabajo."
+    "Empleo inestable."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Un empleo inestable es un trabajo que no ofrece estabilidad laboral o seguridad económica para el empleado."
+  ],
   "source": "https://tesoro.pr"
 }

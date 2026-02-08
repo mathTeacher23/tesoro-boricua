@@ -3,9 +3,12 @@
   "term": "titerón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona de mucha astucia",
+      "consolidated_definition": "Persona de mucha astucia.",
+      "en_consolidated_definition": "Person of great cunning or astuteness.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona de mucha astucia"
+    "Persona de mucha astucia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person of great cunning or astuteness."
+  ],
   "source": "https://tesoro.pr"
 }

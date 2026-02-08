@@ -3,9 +3,12 @@
   "term": "fomento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Paño empapado en determinado líquido o untura",
+      "consolidated_definition": "Paño empapado en determinado líquido o untura que se aplica con fines curativos.",
+      "en_consolidated_definition": "Pad soaked in a specific liquid or ointment applied for therapeutic purposes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
           "fomentar"
         ],
         "reference_definitions": [
-          "Paño empapado en determinado líquido o untura ."
+          "Paño empapado en determinado líquido o untura que se aplica con fines curativos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Paño empapado en determinado líquido o untura"
+    "Paño empapado en determinado líquido o untura que se aplica con fines curativos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pad soaked in a specific liquid or ointment applied for therapeutic purposes."
+  ],
   "source": "https://tesoro.pr"
 }

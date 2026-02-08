@@ -3,14 +3,17 @@
   "term": "traqueteo",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Cualquier ruido confuso y fuerte.",
+      "consolidated_definition": "Negocio turbio e ilegal.",
+      "en_consolidated_definition": "Illicit and shady business.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.4687",
-        "semantic_similarity_score": 0.4687,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -57,21 +60,16 @@
           "traquetero, ra"
         ],
         "reference_definitions": [
-          ". Cualquier ruido confuso y fuerte.",
-          "Ruido fuerte y confuso.",
-          "Acción y efecto de traquetear, manipular, chanchullar, trastear. Manipulación de un asunto con intenciones aviesas.",
-          "Desorden. Discusión. Enredo. Intercambio. Negocio. Problema. Revolú.",
-          "Transacción de cualquier movimiento. Algo que se “trae entre manos”.",
-          "Actividad inmoral. Acto sexual fuera de lo común.",
-          "Negocio turbio e ilegal.",
-          "Manipulación, chanchullo."
+          "Negocio turbio e ilegal."
         ]
       }
     }
   },
   "es_definitions": [
-    ". Cualquier ruido confuso y fuerte."
+    "Negocio turbio e ilegal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Illicit and shady business."
+  ],
   "source": "https://tesoro.pr"
 }

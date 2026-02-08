@@ -3,15 +3,18 @@
   "term": "jacanillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El árbol Ardisia pendula",
+      "consolidated_definition": "Ardisia pendula: especie de árbol perteneciente a la familia de las primuláceas, originaria de Asia y América tropical.",
+      "en_consolidated_definition": "Ardisia pendula: species of tree belonging to the Primulaceae family, native to Asia and tropical America.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4361",
         "semantic_similarity_score": 0.4361,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "El árbol Ardisia pendula"
+    "Ardisia pendula: especie de árbol perteneciente a la familia de las primuláceas, originaria de Asia y América tropical."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ardisia pendula: species of tree belonging to the Primulaceae family, native to Asia and tropical America."
+  ],
   "source": "https://tesoro.pr"
 }

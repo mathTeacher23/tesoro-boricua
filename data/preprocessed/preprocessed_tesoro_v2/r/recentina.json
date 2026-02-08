@@ -3,14 +3,17 @@
   "term": "recentina",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Aplícase a la hembra de pocos días de parida.",
+      "consolidated_definition": "Leche de los primeros días de parida una vaca.",
+      "en_consolidated_definition": "Colostrum of a cow in the first days of lactation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.6772",
-        "semantic_similarity_score": 0.6772,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -50,18 +53,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Aplícase a la hembra de pocos días de parida.",
-          "Se dice de la leche que da la hembra de pocos días de parida.",
-          "Leche recentina, leche de la vaca recién parida. También se dice vaca recentina para referirse a la vaca parida. En Canarias significa calostro. Alvar, Tenerife, 228.",
-          ". Se aplica a la hembra del ganado bovino de pocos días de parida.",
           "Leche de los primeros días de parida una vaca."
         ]
       }
     }
   },
   "es_definitions": [
-    ". Aplícase a la hembra de pocos días de parida."
+    "Leche de los primeros días de parida una vaca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Colostrum of a cow in the first days of lactation."
+  ],
   "source": "https://tesoro.pr"
 }

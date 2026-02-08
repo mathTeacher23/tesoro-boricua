@@ -3,9 +3,12 @@
   "term": "ser un bibí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser algo fácil de hacer",
+      "consolidated_definition": "Ser algo fácil de hacer.",
+      "en_consolidated_definition": "Ser algo que se puede realizar con facilidad o poca dificultad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Ser algo fácil de hacer"
+    "Ser algo fácil de hacer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ser algo que se puede realizar con facilidad o poca dificultad."
+  ],
   "source": "https://tesoro.pr"
 }

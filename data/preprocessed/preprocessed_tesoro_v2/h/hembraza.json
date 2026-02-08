@@ -3,9 +3,12 @@
   "term": "hembraza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer hermosa",
+      "consolidated_definition": "Mujer hermosa.",
+      "en_consolidated_definition": "Beautiful woman",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mujer hermosa"
+    "Mujer hermosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Beautiful woman"
+  ],
   "source": "https://tesoro.pr"
 }

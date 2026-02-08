@@ -3,9 +3,12 @@
   "term": "kike de guardia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "que se comporta como guardia",
+      "consolidated_definition": "Individuo que se comporta como guardia.",
+      "en_consolidated_definition": "Individual who behaves as a sentry or guard.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "que se comporta como guardia."
+          "Individuo que se comporta como guardia."
         ]
       }
     }
   },
   "es_definitions": [
-    "que se comporta como guardia"
+    "Individuo que se comporta como guardia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Individual who behaves as a sentry or guard."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "no creer ni en la luz eléctrica",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se aplica a las personas muy escépticas, relacionado con un grupo",
+      "consolidated_definition": "Se aplica a las personas muy escépticas.",
+      "en_consolidated_definition": "Aplicable a personas muy escépticas que cuestionan constantemente la veracidad o autenticidad de algo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Se aplica a las personas muy escépticas, relacionado con un grupo"
+    "Se aplica a las personas muy escépticas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Aplicable a personas muy escépticas que cuestionan constantemente la veracidad o autenticidad de algo."
+  ],
   "source": "https://tesoro.pr"
 }

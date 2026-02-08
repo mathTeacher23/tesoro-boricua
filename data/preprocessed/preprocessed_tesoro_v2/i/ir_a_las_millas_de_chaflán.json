@@ -3,9 +3,12 @@
   "term": "ir a las millas de chaflán",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conducir un vehículo de motor a gran velocidad",
+      "consolidated_definition": "Conducir un vehículo de motor a gran velocidad.",
+      "en_consolidated_definition": "Drive a motor vehicle at high speed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Conducir un vehículo de motor a gran velocidad"
+    "Conducir un vehículo de motor a gran velocidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Drive a motor vehicle at high speed."
+  ],
   "source": "https://tesoro.pr"
 }

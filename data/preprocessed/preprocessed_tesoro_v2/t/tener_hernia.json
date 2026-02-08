@@ -3,9 +3,12 @@
   "term": "tener hernia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Herniado",
+      "consolidated_definition": "Herniado.",
+      "en_consolidated_definition": "Herniado.\n\n Herniated \n\nNota: En este contexto, se refiere a un término médico que describe el desplazamiento de una vértebra o disco intervertebral hacia fuera del espacio normal entre las vértebras.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Herniado"
+    "Herniado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Herniado.\n\n Herniated \n\nNota: En este contexto, se refiere a un término médico que describe el desplazamiento de una vértebra o disco intervertebral hacia fuera del espacio normal entre las vértebras."
+  ],
   "source": "https://tesoro.pr"
 }

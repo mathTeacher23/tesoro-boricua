@@ -3,15 +3,18 @@
   "term": "rebulear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción de mugir el buey",
+      "consolidated_definition": "El mugido es el sonido característico que emite un buey.",
+      "en_consolidated_definition": "The moo is the characteristic sound emitted by a bull.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4927",
         "semantic_similarity_score": 0.4927,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -46,14 +49,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Propiciar una situación conflictiva o buscar pelea",
+      "consolidated_definition": "Propiciar una situación conflictiva o buscar pelea. Este disco se logró por un esfuerzo bien grande. Yo no vengo a rebulear. Lo que voy a hacer es negociar contigo, venderte los originales, te hago precio. Pero no me piratees (Primera Hora, 01-12-08)",
+      "en_consolidated_definition": "To instigate a contentious situation or seek conflict. This effort was achieved through great exertion. I do not come to reprimand you. What I will do is negotiate with you, offer the originals for sale, and make you an offer. But do not pirate me (Primera Hora, 01-12-08)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2022",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4609",
-        "semantic_similarity_score": 0.4609,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
@@ -83,16 +89,18 @@
           "rebulero, ra"
         ],
         "reference_definitions": [
-          "Propiciar una situación conflictiva o buscar pelea. Este disco se logró por un esfuerzo bien grande. Yo no vengo a rebulear. Lo que voy a hacer es negociar contigo, venderte los originales, te hago precio. Pero no me piratees",
-          "Enfrentarse en competencia deportiva, especialmente boxística. Lista Vargas pa’ rebulear con Diamante: Lo que es igual no es ventaja. La luchadora Vanilla Vargas será la tercera pieza del equipo del Escorpión Mike Mendoza y Ángel Fashion para enfrentar al trío Latin American Xchange en la lucha que han bautizado “la batalla por el poder”."
+          "Propiciar una situación conflictiva o buscar pelea. Este disco se logró por un esfuerzo bien grande. Yo no vengo a rebulear. Lo que voy a hacer es negociar contigo, venderte los originales, te hago precio. Pero no me piratees (Primera Hora, 01-12-08)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Acción de mugir el buey",
-    "Propiciar una situación conflictiva o buscar pelea"
+    "El mugido es el sonido característico que emite un buey.",
+    "Propiciar una situación conflictiva o buscar pelea. Este disco se logró por un esfuerzo bien grande. Yo no vengo a rebulear. Lo que voy a hacer es negociar contigo, venderte los originales, te hago precio. Pero no me piratees (Primera Hora, 01-12-08)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The moo is the characteristic sound emitted by a bull.",
+    "To instigate a contentious situation or seek conflict. This effort was achieved through great exertion. I do not come to reprimand you. What I will do is negotiate with you, offer the originals for sale, and make you an offer. But do not pirate me (Primera Hora, 01-12-08)"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "arranado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Enamorado\": Persona que siente un fuerte afecto o amor romántico hacia otra persona.",
+      "consolidated_definition": "Enamorado.",
+      "en_consolidated_definition": "Infatuated \n\nNota: En este contexto, \"enamorado\" se refiere a una persona que está profundamente enamorada o apasionadamente interesada en alguien o algo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Adherente\": Sustantivo que se refiere a un vehículo que está muy pegado al suelo.",
+      "consolidated_definition": "Referido a un vehículo, que está muy pegado al suelo.",
+      "en_consolidated_definition": "Adherido al suelo, referido a un vehículo que está muy cerca de él.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "\"Enamorado\": Persona que siente un fuerte afecto o amor romántico hacia otra persona.",
-    "\"Adherente\": Sustantivo que se refiere a un vehículo que está muy pegado al suelo."
+    "Enamorado.",
+    "Referido a un vehículo, que está muy pegado al suelo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Infatuated \n\nNota: En este contexto, \"enamorado\" se refiere a una persona que está profundamente enamorada o apasionadamente interesada en alguien o algo.",
+    "Adherido al suelo, referido a un vehículo que está muy cerca de él."
+  ],
   "source": "https://tesoro.pr"
 }

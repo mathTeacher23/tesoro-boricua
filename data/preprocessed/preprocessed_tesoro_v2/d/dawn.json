@@ -3,9 +3,12 @@
   "term": "dawn",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver down",
+      "consolidated_definition": "Ver down .",
+      "en_consolidated_definition": "See down.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver down"
+    "Ver down ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See down."
+  ],
   "source": "https://tesoro.pr"
 }

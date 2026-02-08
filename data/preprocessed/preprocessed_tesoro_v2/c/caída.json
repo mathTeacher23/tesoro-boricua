@@ -3,15 +3,18 @@
   "term": "caída",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Porción adicional o sobrante que se obtiene al pesar un artículo, especialmente grano.",
+      "consolidated_definition": "Pequeña porción extra al pesar un artículo, especialmente granos.",
+      "en_consolidated_definition": "Small additional portion weighed when measuring an article, especially grains.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Porción adicional o sobrante que se obtiene al pesar un artículo, especialmente grano."
+    "Pequeña porción extra al pesar un artículo, especialmente granos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small additional portion weighed when measuring an article, especially grains."
+  ],
   "source": "https://tesoro.pr"
 }

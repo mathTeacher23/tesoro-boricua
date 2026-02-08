@@ -3,9 +3,12 @@
   "term": "larruá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De “Le Roi”",
+      "consolidated_definition": "De “Le Roi”. Nombre de un medicamento purgativo.",
+      "en_consolidated_definition": "From \"Le Roi\". Name of a purgative medication.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "De “Le Roi”"
+    "De “Le Roi”. Nombre de un medicamento purgativo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "From \"Le Roi\". Name of a purgative medication."
+  ],
   "source": "https://tesoro.pr"
 }

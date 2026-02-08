@@ -3,9 +3,12 @@
   "term": "palma de palmilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver palma real",
+      "consolidated_definition": "Ver palma real .",
+      "en_consolidated_definition": "See palm royal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver palma real"
+    "Ver palma real ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See palm royal."
+  ],
   "source": "https://tesoro.pr"
 }

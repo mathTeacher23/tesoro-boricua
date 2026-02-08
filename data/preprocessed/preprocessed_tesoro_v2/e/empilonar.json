@@ -3,9 +3,12 @@
   "term": "empilonar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reunir cosas",
+      "consolidated_definition": "Reunir cosas.",
+      "en_consolidated_definition": "To gather things.\n\nNota: Esta traducción mantiene el significado exacto de la definición original en español y utiliza vocabulario formal y apropiado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -38,15 +41,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver apilonar 2",
+      "consolidated_definition": "Ver apilonar.",
+      "en_consolidated_definition": "To see apilar (to pile up or stack) in the sense of ver apilonar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.8972",
         "semantic_similarity_score": 0.8972,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -62,9 +68,12 @@
     }
   },
   "es_definitions": [
-    "Reunir cosas",
-    "Ver apilonar 2"
+    "Reunir cosas.",
+    "Ver apilonar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To gather things.\n\nNota: Esta traducción mantiene el significado exacto de la definición original en español y utiliza vocabulario formal y apropiado para un diccionario.",
+    "To see apilar (to pile up or stack) in the sense of ver apilonar."
+  ],
   "source": "https://tesoro.pr"
 }

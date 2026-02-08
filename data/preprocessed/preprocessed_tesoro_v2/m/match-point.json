@@ -3,9 +3,12 @@
   "term": "match-point",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver match point",
+      "consolidated_definition": "Ver match point .",
+      "en_consolidated_definition": "Match point (ver también match point).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver match point"
+    "Ver match point ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Match point (ver también match point)."
+  ],
   "source": "https://tesoro.pr"
 }

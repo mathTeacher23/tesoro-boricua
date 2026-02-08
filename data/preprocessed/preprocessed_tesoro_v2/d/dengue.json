@@ -3,14 +3,17 @@
   "term": "dengue",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad epidémica que se dice propia de los",
+      "consolidated_definition": "Gripe, catarro muy fuerte.",
+      "en_consolidated_definition": "Severe cold or bronchitis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.2922",
-        "semantic_similarity_score": 0.2922,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -56,19 +59,16 @@
           "dengoso, sa"
         ],
         "reference_definitions": [
-          "Enfermedad epidémica que se dice propia de los países cálidos, también conocida en el habla popular y familiar por monga y trancazo, y como denominaciones más pulidas, por gripe o influenza.",
-          "Influenza.",
-          "“Más peligrosa y se presenta en epidemias.”",
-          "“El dengue es el que anda tumbando a medio mundo.”",
-          "Gripe.",
           "Gripe, catarro muy fuerte."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enfermedad epidémica que se dice propia de los"
+    "Gripe, catarro muy fuerte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Severe cold or bronchitis."
+  ],
   "source": "https://tesoro.pr"
 }

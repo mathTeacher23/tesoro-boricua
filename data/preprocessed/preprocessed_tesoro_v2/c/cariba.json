@@ -3,15 +3,18 @@
   "term": "cariba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caribe (femenino): término antiguo que se refería a la mujer de un caribe.",
+      "consolidated_definition": "Usábase antiguamente como femenino de caribe.",
+      "en_consolidated_definition": "Formerly used as a feminine of Caribe.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La \"jueyita\" se refiere a un tipo de cangrejo pequeño de tierra de color rojo; es muy apreciado en gastronomía. Además de la variedad terrestre con carapaza roja lilácea, existe también una marina del mismo color.",
+      "consolidated_definition": "Cangrejo pequeño de tierra de color rojo; es muy apreciado en gastronomía.",
+      "en_consolidated_definition": "Red crab; a small terrestrial crustacean of reddish color, highly valued in gastronomy.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.3999",
-        "semantic_similarity_score": 0.3999,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -82,18 +88,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Jueyita colorada de la que se hace un arroz muy sabroso. Además de la cariba de tierra que es roja lilácea, hay la de mar que es del color de la gallina búlica.",
-          "Clase de cangrejo.",
-          "Jueyita usada para arroz con jueyes.",
           "Cangrejo pequeño de tierra de color rojo; es muy apreciado en gastronomía."
         ]
       }
     }
   },
   "es_definitions": [
-    "Caribe (femenino): término antiguo que se refería a la mujer de un caribe.",
-    "La \"jueyita\" se refiere a un tipo de cangrejo pequeño de tierra de color rojo; es muy apreciado en gastronomía. Además de la variedad terrestre con carapaza roja lilácea, existe también una marina del mismo color."
+    "Usábase antiguamente como femenino de caribe.",
+    "Cangrejo pequeño de tierra de color rojo; es muy apreciado en gastronomía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Formerly used as a feminine of Caribe.",
+    "Red crab; a small terrestrial crustacean of reddish color, highly valued in gastronomy."
+  ],
   "source": "https://tesoro.pr"
 }

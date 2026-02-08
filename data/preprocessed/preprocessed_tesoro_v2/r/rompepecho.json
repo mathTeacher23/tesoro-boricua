@@ -3,9 +3,12 @@
   "term": "rompepecho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Galleta grande redonda que se hace en la",
+      "consolidated_definition": "Galleta grande redonda que se hace en la panadería.",
+      "en_consolidated_definition": "Large round cookie made in a bakery.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Tabaco fuerte",
+      "consolidated_definition": "\"Tabaco fuerte\": tipo de tabaco negro con un contenido elevado de nicotina y otros compuestos químicos que lo hace más intenso en su sabor y aroma.",
+      "en_consolidated_definition": "Strong Tobacco: a type of black tobacco with a high content of nicotine and other chemical compounds that makes it more intense in its flavor and aroma.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5485",
         "semantic_similarity_score": 0.5485,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Galleta grande redonda que se hace en la",
-    "Tabaco fuerte"
+    "Galleta grande redonda que se hace en la panadería.",
+    "\"Tabaco fuerte\": tipo de tabaco negro con un contenido elevado de nicotina y otros compuestos químicos que lo hace más intenso en su sabor y aroma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large round cookie made in a bakery.",
+    "Strong Tobacco: a type of black tobacco with a high content of nicotine and other chemical compounds that makes it more intense in its flavor and aroma."
+  ],
   "source": "https://tesoro.pr"
 }

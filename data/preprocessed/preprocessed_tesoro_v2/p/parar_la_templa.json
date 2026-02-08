@@ -3,9 +3,12 @@
   "term": "parar la templa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la preparación del hormigón mezclado a mano",
+      "consolidated_definition": "En la preparación del hormigón mezclado a mano, ponerlo en forma piramidal, para ir sirviéndolo según se necesita.",
+      "en_consolidated_definition": "In the preparation of hand-mixed concrete, shape it into a pyramidal form to serve as needed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En la preparación del hormigón mezclado a mano"
+    "En la preparación del hormigón mezclado a mano, ponerlo en forma piramidal, para ir sirviéndolo según se necesita."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the preparation of hand-mixed concrete, shape it into a pyramidal form to serve as needed."
+  ],
   "source": "https://tesoro.pr"
 }

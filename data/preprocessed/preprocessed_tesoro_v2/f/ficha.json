@@ -3,15 +3,18 @@
   "term": "ficha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "antic",
+      "consolidated_definition": "\"Antic\": moneda de cinco centavos, equivalente a un vellón.",
+      "en_consolidated_definition": "\"Antic\": a five-cent coin, equivalent to a vellón.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
         "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.6123",
-        "semantic_similarity_score": 0.6123,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6104",
+        "semantic_similarity_score": 0.6104,
+        "cluster_count": 8,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -63,9 +66,9 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "antic. Vellón de cinco centavos. “Como los ochavos íbanse ya consumiendo... sin embargo, aún había fichas.” Zeno Gandía, La charca, 1893, cap. X. .",
+          "antic. Vellón de cinco centavos. “Como los ochavos íbanse ya consumiendo... sin embargo, aún había fichas.” Zeno Gandía, La charca, 1893, cap. X. (Lo mismo en otras partes de América).",
           "Moneda de cinco centavos que en el este de Puerto Rico se llama vellón.",
-          "Moneda de cinco centavos . También vellón, níquel. La palabra se usa igualmente en Costa Rica y Argentina.",
+          "(general) Moneda de cinco centavos . También vellón, níquel. La palabra se usa igualmente en Costa Rica y Argentina.",
           "Por Ponce, vellón de cinco centavos.",
           "Moneda de cinco centavos. Se usa principalmente en la parte sur de la isla.",
           "Nombre que se le da a la moneda de cinco o diez centavos.",
@@ -75,15 +78,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Chapa para jugar",
+      "consolidated_definition": "\"Chapa para jugar\": objeto que se usa en el juego o evento, especialmente en el ámbito deportivo o recreativo.",
+      "en_consolidated_definition": "\"Game piece\": object used in a game or event, especially in the realm of sports or recreation.\n\nNota: En este contexto, \"chapa para jugar\" se refiere a un objeto utilizado en juegos o eventos, lo que se traduce como \"game piece\". Sin embargo, si se considera el uso específico de la expresión en Puerto Rico, podría ser más preciso utilizar una traducción que preserve el contexto cultural. En ese caso, la traducción podría ser:\n\n\"Game piece\": object used in a game or event, especially in the realm of sports or recreation, often referring to a token or marker used in games such as Lotería (Bingo) or other traditional Puerto Rican games.\n\nPero como se indica en las instrucciones, solo la traducción sin explicaciones adicionales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6417",
         "semantic_similarity_score": 0.6417,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -118,9 +124,12 @@
     }
   },
   "es_definitions": [
-    "antic",
-    "Chapa para jugar"
+    "\"Antic\": moneda de cinco centavos, equivalente a un vellón.",
+    "\"Chapa para jugar\": objeto que se usa en el juego o evento, especialmente en el ámbito deportivo o recreativo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "\"Antic\": a five-cent coin, equivalent to a vellón.",
+    "\"Game piece\": object used in a game or event, especially in the realm of sports or recreation.\n\nNota: En este contexto, \"chapa para jugar\" se refiere a un objeto utilizado en juegos o eventos, lo que se traduce como \"game piece\". Sin embargo, si se considera el uso específico de la expresión en Puerto Rico, podría ser más preciso utilizar una traducción que preserve el contexto cultural. En ese caso, la traducción podría ser:\n\n\"Game piece\": object used in a game or event, especially in the realm of sports or recreation, often referring to a token or marker used in games such as Lotería (Bingo) or other traditional Puerto Rican games.\n\nPero como se indica en las instrucciones, solo la traducción sin explicaciones adicionales."
+  ],
   "source": "https://tesoro.pr"
 }

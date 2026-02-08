@@ -3,15 +3,18 @@
   "term": "apodo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre sustituto o familiar y cariñoso aplicado a una persona, distinto del nombre oficial y con una connotación más íntima que un alias o sobrenombre.",
+      "consolidated_definition": "Hipocorístico. Nombre sustituto o familiar y cariñoso aplicado a una persona. Tiene una connotación muy diferente a la de alias o sobrenombre.",
+      "en_consolidated_definition": "Colloquialism. Familiar or affectionate substitute name applied to a person, with a connotation distinct from that of alias or nickname.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Nombre sustituto o familiar y cariñoso aplicado a una persona, distinto del nombre oficial y con una connotación más íntima que un alias o sobrenombre."
+    "Hipocorístico. Nombre sustituto o familiar y cariñoso aplicado a una persona. Tiene una connotación muy diferente a la de alias o sobrenombre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Colloquialism. Familiar or affectionate substitute name applied to a person, with a connotation distinct from that of alias or nickname."
+  ],
   "source": "https://tesoro.pr"
 }

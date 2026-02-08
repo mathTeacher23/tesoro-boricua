@@ -3,15 +3,18 @@
   "term": "jorra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pequeña pulga que ataca las berenjenas",
+      "consolidated_definition": "La berenjenilla es un insecto que ataca las hojas de las plantas de la familia Cucurbitaceae, incluyendo las berenjenas.",
+      "en_consolidated_definition": "The berenjenilla is an insect that attacks the leaves of plants belonging to the Cucurbitaceae family, including eggplants and other related species.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6756",
         "semantic_similarity_score": 0.6756,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver horra",
+      "consolidated_definition": "Ver horra .",
+      "en_consolidated_definition": "To see the horizon.\n\nNota: La expresión \"ver horra\" es una forma coloquial en español puertorriqueño que se refiere a ver el horizonte o tener una visión amplia de la situación. En este contexto, la traducción literal sería \"to see the horizon\", pero se puede considerar un eufemismo para describir una perspectiva o comprensión más profunda de algo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -68,9 +74,12 @@
     }
   },
   "es_definitions": [
-    "Pequeña pulga que ataca las berenjenas",
-    "Ver horra"
+    "La berenjenilla es un insecto que ataca las hojas de las plantas de la familia Cucurbitaceae, incluyendo las berenjenas.",
+    "Ver horra ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The berenjenilla is an insect that attacks the leaves of plants belonging to the Cucurbitaceae family, including eggplants and other related species.",
+    "To see the horizon.\n\nNota: La expresión \"ver horra\" es una forma coloquial en español puertorriqueño que se refiere a ver el horizonte o tener una visión amplia de la situación. En este contexto, la traducción literal sería \"to see the horizon\", pero se puede considerar un eufemismo para describir una perspectiva o comprensión más profunda de algo."
+  ],
   "source": "https://tesoro.pr"
 }

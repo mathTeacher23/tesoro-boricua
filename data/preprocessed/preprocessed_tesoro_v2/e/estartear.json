@@ -3,14 +3,17 @@
   "term": "estartear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prender el carro",
+      "consolidated_definition": "Arrancar un vehículo de motor.",
+      "en_consolidated_definition": "Start a motor vehicle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4625",
-        "semantic_similarity_score": 0.4625,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -45,21 +48,22 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Prender el carro.",
-          "autom. Arrancar, prender, encender. Iniciar el calentamiento del automóvil, especialmente cuando es difícil hacer que el motor se ponga en marcha. Anglicismo adaptado, frecuente. Tengo una duda y quiero saber si algunos les pasa lo mismo, por las mañanas y cuando el carro esta frío lo tengo que estartear dos veces para que prenda en vez de prender de una",
           "Arrancar un vehículo de motor."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Gaguear",
+      "consolidated_definition": "Gaguear, tartamudear.",
+      "en_consolidated_definition": "Stutter, stammer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9742",
-        "semantic_similarity_score": 0.9742,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
@@ -91,16 +95,18 @@
           "gaguear"
         ],
         "reference_definitions": [
-          "Gaguear. Tartamudear.",
           "Gaguear, tartamudear."
         ]
       }
     }
   },
   "es_definitions": [
-    "Prender el carro",
-    "Gaguear"
+    "Arrancar un vehículo de motor.",
+    "Gaguear, tartamudear."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Start a motor vehicle.",
+    "Stutter, stammer."
+  ],
   "source": "https://tesoro.pr"
 }

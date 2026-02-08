@@ -3,9 +3,12 @@
   "term": "médico espiritista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Médica",
+      "consolidated_definition": "Médica.",
+      "en_consolidated_definition": "Medical.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Médica"
+    "Médica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Medical."
+  ],
   "source": "https://tesoro.pr"
 }

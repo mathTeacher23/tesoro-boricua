@@ -3,15 +3,18 @@
   "term": "caer arriba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfrentamiento físico intenso entre dos personas que puede involucrar el uso de armas, golpes corporales o peleas a puñetazos.",
+      "consolidated_definition": "Embestirse o atacarse violentamente dos personas con un arma, con el cuerpo o con los puños.",
+      "en_consolidated_definition": "To engage in a violent physical altercation with another person using an object, the body, or fists.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Enfrentamiento físico intenso entre dos personas que puede involucrar el uso de armas, golpes corporales o peleas a puñetazos."
+    "Embestirse o atacarse violentamente dos personas con un arma, con el cuerpo o con los puños."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To engage in a violent physical altercation with another person using an object, the body, or fists."
+  ],
   "source": "https://tesoro.pr"
 }

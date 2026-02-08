@@ -3,9 +3,12 @@
   "term": "en buen criollo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De forma clara y natural",
+      "consolidated_definition": "De forma clara y natural.",
+      "en_consolidated_definition": "Transparente y espontáneo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "De forma clara y natural"
+    "De forma clara y natural."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Transparente y espontáneo."
+  ],
   "source": "https://tesoro.pr"
 }

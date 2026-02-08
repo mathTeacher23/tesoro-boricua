@@ -3,9 +3,12 @@
   "term": "enguaretado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona o animal",
+      "consolidated_definition": "Referido a persona o animal, juntos, en pareja.",
+      "en_consolidated_definition": "Referido a persona o animal, juntos, en pareja.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona o animal"
+    "Referido a persona o animal, juntos, en pareja."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a persona o animal, juntos, en pareja."
+  ],
   "source": "https://tesoro.pr"
 }

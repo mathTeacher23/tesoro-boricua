@@ -3,12 +3,15 @@
   "term": "tierrero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Suciedad",
+      "consolidated_definition": "Suciedad.",
+      "en_consolidated_definition": "Filth.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -39,15 +42,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Suciedad.",
           "Suciedad."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cantidad grande de tierra suelta",
+      "consolidated_definition": "Cantidad grande de tierra suelta.",
+      "en_consolidated_definition": "Large quantity of loose earth.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Suciedad",
-    "Cantidad grande de tierra suelta"
+    "Suciedad.",
+    "Cantidad grande de tierra suelta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Filth.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Large quantity of loose earth."
+  ],
   "source": "https://tesoro.pr"
 }

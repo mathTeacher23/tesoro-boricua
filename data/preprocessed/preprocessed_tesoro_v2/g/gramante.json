@@ -3,9 +3,12 @@
   "term": "gramante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La tela que se usa en la confección",
+      "consolidated_definition": "La tela que se usa en la confección de alfombras. Es una tela blanca y gruesa que se pone en el fondo de la alfombra.",
+      "en_consolidated_definition": "The fabric used in the manufacture of rugs. It is a thick and white fabric placed at the bottom of the rug.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La tela que se usa en la confección"
+    "La tela que se usa en la confección de alfombras. Es una tela blanca y gruesa que se pone en el fondo de la alfombra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The fabric used in the manufacture of rugs. It is a thick and white fabric placed at the bottom of the rug."
+  ],
   "source": "https://tesoro.pr"
 }

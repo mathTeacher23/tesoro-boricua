@@ -3,9 +3,12 @@
   "term": "fosa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En un teatro",
+      "consolidated_definition": "En un teatro, parte rebajada delante del escenario destinada a la orquesta.",
+      "en_consolidated_definition": "In a theater, the lowered part in front of the stage intended for the orchestra.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En un teatro"
+    "En un teatro, parte rebajada delante del escenario destinada a la orquesta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In a theater, the lowered part in front of the stage intended for the orchestra."
+  ],
   "source": "https://tesoro.pr"
 }

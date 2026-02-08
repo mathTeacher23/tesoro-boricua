@@ -3,9 +3,12 @@
   "term": "enchambrar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acoplar maderas con juntas de chamfle o chaflán",
+      "consolidated_definition": "Acoplar maderas con juntas de chamfle o chaflán de corte oblicuo",
+      "en_consolidated_definition": "To join woods with chamfer or miter joints cut at an oblique angle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Acoplar maderas con juntas de chamfle o chaflán"
+    "Acoplar maderas con juntas de chamfle o chaflán de corte oblicuo"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To join woods with chamfer or miter joints cut at an oblique angle."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "anteojos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Los lentes son dispositivos utilizados para corregir defectos de visión o proteger los ojos.",
+      "consolidated_definition": "Lentes para corregir defectos de visión, o para proteger los ojos.",
+      "en_consolidated_definition": "Eyeglasses for correcting vision defects or protecting the eyes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Los lentes son dispositivos utilizados para corregir defectos de visión o proteger los ojos."
+    "Lentes para corregir defectos de visión, o para proteger los ojos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Eyeglasses for correcting vision defects or protecting the eyes."
+  ],
   "source": "https://tesoro.pr"
 }

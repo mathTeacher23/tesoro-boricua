@@ -3,9 +3,12 @@
   "term": "lomo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte alta entre los surcos",
+      "consolidated_definition": "Parte alta entre los surcos. Se refiere al lugar donde nace la caña después que se siembra.",
+      "en_consolidated_definition": "Upper portion between furrows. Refers to the location where sugarcane sprouts after being planted.\n\nNota: En este contexto, \"furrow\" se utiliza para referirse a los surcos en el que se siembra la caña de azúcar, lo cual es una práctica común en Puerto Rico y otros países productores de caña.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "El espinazo",
+      "consolidated_definition": "El espinazo.",
+      "en_consolidated_definition": "The backbone or the spine of something, especially a mountain range or a geographical feature.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Parte alta entre los surcos",
-    "El espinazo"
+    "Parte alta entre los surcos. Se refiere al lugar donde nace la caña después que se siembra.",
+    "El espinazo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Upper portion between furrows. Refers to the location where sugarcane sprouts after being planted.\n\nNota: En este contexto, \"furrow\" se utiliza para referirse a los surcos en el que se siembra la caña de azúcar, lo cual es una práctica común en Puerto Rico y otros países productores de caña.",
+    "The backbone or the spine of something, especially a mountain range or a geographical feature."
+  ],
   "source": "https://tesoro.pr"
 }

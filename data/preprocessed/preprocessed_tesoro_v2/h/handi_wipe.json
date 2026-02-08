@@ -3,9 +3,12 @@
   "term": "handi wipe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Toalla o paño de limpieza reusable",
+      "consolidated_definition": "Toalla o paño de limpieza reusable, hecho con fibras de algodón.",
+      "en_consolidated_definition": "Reusable cloth or cleaning towel made from cotton fibers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Toalla o paño de limpieza reusable"
+    "Toalla o paño de limpieza reusable, hecho con fibras de algodón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Reusable cloth or cleaning towel made from cotton fibers."
+  ],
   "source": "https://tesoro.pr"
 }

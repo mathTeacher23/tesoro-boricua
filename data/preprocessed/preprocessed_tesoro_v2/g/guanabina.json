@@ -3,15 +3,18 @@
   "term": "guanabina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre con el cual se conoce la fruta",
+      "consolidated_definition": "La palma de corozo produce la fruta conocida como corozo.",
+      "en_consolidated_definition": "The palm of corozo produces the fruit known as corozo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5771",
         "semantic_similarity_score": 0.5771,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -52,8 +55,10 @@
     }
   },
   "es_definitions": [
-    "Nombre con el cual se conoce la fruta"
+    "La palma de corozo produce la fruta conocida como corozo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The palm of corozo produces the fruit known as corozo."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "hacer la campana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cortar clases",
+      "consolidated_definition": "Cortar clases.",
+      "en_consolidated_definition": "Abandonar las clases.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Cortar clases"
+    "Cortar clases."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Abandonar las clases."
+  ],
   "source": "https://tesoro.pr"
 }

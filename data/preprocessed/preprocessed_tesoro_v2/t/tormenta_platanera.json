@@ -3,9 +3,12 @@
   "term": "tormenta platanera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vientos fuertes que tumban las matas de plátanos",
+      "consolidated_definition": "Vientos fuertes que tumban las matas de plátanos y guineos sin hacer otros daños mayores.",
+      "en_consolidated_definition": "Strong winds that knock down banana and guineo bushes without causing greater damage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Vientos fuertes que tumban las matas de plátanos"
+    "Vientos fuertes que tumban las matas de plátanos y guineos sin hacer otros daños mayores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Strong winds that knock down banana and guineo bushes without causing greater damage."
+  ],
   "source": "https://tesoro.pr"
 }

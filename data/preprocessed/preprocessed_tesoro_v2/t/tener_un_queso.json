@@ -3,9 +3,12 @@
   "term": "tener un queso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No haber fornicado por mucho tiempo",
+      "consolidated_definition": "No haber fornicado por mucho tiempo.",
+      "en_consolidated_definition": "No haberse dedicado a la prostitución durante mucho tiempo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "No haber fornicado por mucho tiempo"
+    "No haber fornicado por mucho tiempo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No haberse dedicado a la prostitución durante mucho tiempo."
+  ],
   "source": "https://tesoro.pr"
 }

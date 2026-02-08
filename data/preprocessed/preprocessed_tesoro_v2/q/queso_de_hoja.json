@@ -3,9 +3,12 @@
   "term": "queso de hoja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de queso de fabricación doméstica",
+      "consolidated_definition": "Variedad de queso de fabricación doméstica, exclusivo de Puerto Rico.",
+      "en_consolidated_definition": "Variety of domestically produced cheese, exclusive to Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Variedad de queso de fabricación doméstica"
+    "Variedad de queso de fabricación doméstica, exclusivo de Puerto Rico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Variety of domestically produced cheese, exclusive to Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

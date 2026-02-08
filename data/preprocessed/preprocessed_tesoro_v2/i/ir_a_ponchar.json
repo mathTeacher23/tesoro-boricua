@@ -3,9 +3,12 @@
   "term": "ir a ponchar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ir a ver la novia",
+      "consolidated_definition": "Ir a ver la novia.",
+      "en_consolidated_definition": "To pay a visit to one's girlfriend or fiancée.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Ir a ver la novia"
+    "Ir a ver la novia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To pay a visit to one's girlfriend or fiancée."
+  ],
   "source": "https://tesoro.pr"
 }

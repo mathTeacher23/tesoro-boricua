@@ -3,9 +3,12 @@
   "term": "mareaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Oleaje",
+      "consolidated_definition": "Oleaje. Marejada. También dicen mariaje.",
+      "en_consolidated_definition": "Wave. Swell. Also referred to as mariaje.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Oleaje"
+    "Oleaje. Marejada. También dicen mariaje."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wave. Swell. Also referred to as mariaje."
+  ],
   "source": "https://tesoro.pr"
 }

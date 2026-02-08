@@ -3,9 +3,12 @@
   "term": "rabudo, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice del ave o pájaro con gran",
+      "consolidated_definition": "Se dice del ave o pájaro con gran cola.",
+      "en_consolidated_definition": "This bird or fowl is characterized by a long tail.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Se dice del ave o pájaro con gran"
+    "Se dice del ave o pájaro con gran cola."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This bird or fowl is characterized by a long tail."
+  ],
   "source": "https://tesoro.pr"
 }

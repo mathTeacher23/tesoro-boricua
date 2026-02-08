@@ -3,9 +3,12 @@
   "term": "sierra canal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez marino",
+      "consolidated_definition": "Pez marino. LamnidaeIsurus oxyrinchus.",
+      "en_consolidated_definition": "Marine fish. Family Lamnidae Isurus oxyrinchus.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pez marino"
+    "Pez marino. LamnidaeIsurus oxyrinchus."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine fish. Family Lamnidae Isurus oxyrinchus."
+  ],
   "source": "https://tesoro.pr"
 }

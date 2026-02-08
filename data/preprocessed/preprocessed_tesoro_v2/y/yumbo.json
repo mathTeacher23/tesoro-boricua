@@ -3,9 +3,12 @@
   "term": "yumbo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Carretón de 28 a 30 pies de largo",
+      "consolidated_definition": "Carretón de 28 a 30 pies de largo.",
+      "en_consolidated_definition": "Container or trailer of 28 to 30 feet in length.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cosa o animal de gran tamaño",
+      "consolidated_definition": "Cosa o animal de gran tamaño.",
+      "en_consolidated_definition": "Large object or animal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
     }
   },
   "es_definitions": [
-    "Carretón de 28 a 30 pies de largo",
-    "Cosa o animal de gran tamaño"
+    "Carretón de 28 a 30 pies de largo.",
+    "Cosa o animal de gran tamaño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Container or trailer of 28 to 30 feet in length.",
+    "Large object or animal."
+  ],
   "source": "https://tesoro.pr"
 }

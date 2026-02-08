@@ -3,15 +3,18 @@
   "term": "bañar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La acción de limpiar o refrescar a alguien bajo la ducha.",
+      "consolidated_definition": "Limpiar o refrescar bajo la ducha a alguien.",
+      "en_consolidated_definition": "To shower or bathe someone to refresh or revitalize them.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "La acción de limpiar o refrescar a alguien bajo la ducha."
+    "Limpiar o refrescar bajo la ducha a alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To shower or bathe someone to refresh or revitalize them."
+  ],
   "source": "https://tesoro.pr"
 }

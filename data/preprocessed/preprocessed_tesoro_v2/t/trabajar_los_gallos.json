@@ -3,9 +3,12 @@
   "term": "trabajar los gallos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Entrenar los gallos",
+      "consolidated_definition": "Entrenar los gallos, traquearlos, adiestrarlos para el deporte gallístico. Algunos galleros los trabajan dos veces en semana. Otros, una vez. Ponce.",
+      "en_consolidated_definition": "Train cockerels, toughen them up, train them for the sport of cockfighting. Some roosters are worked twice a week by some galleros, while others are worked once a week in Ponce.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Entrenar los gallos"
+    "Entrenar los gallos, traquearlos, adiestrarlos para el deporte gallístico. Algunos galleros los trabajan dos veces en semana. Otros, una vez. Ponce."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Train cockerels, toughen them up, train them for the sport of cockfighting. Some roosters are worked twice a week by some galleros, while others are worked once a week in Ponce."
+  ],
   "source": "https://tesoro.pr"
 }

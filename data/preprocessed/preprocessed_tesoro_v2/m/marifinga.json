@@ -3,15 +3,18 @@
   "term": "marifinga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Funche",
+      "consolidated_definition": "\"Marifinga\": término utilizado para describir un plato criollo preparado con harina de maíz, leche, sal, canela, vainilla y azúcar.",
+      "en_consolidated_definition": "Marifinga: term used to describe a Creole dish prepared with cornmeal, milk, salt, cinnamon, vanilla, and sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
         "num_cleaned_definitions": 9,
-        "definition_stability": "Stability: 0.4341",
-        "semantic_similarity_score": 0.4341,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4466",
+        "semantic_similarity_score": 0.4466,
+        "cluster_count": 9,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -61,25 +64,28 @@
         "reference_definitions": [
           "Funche. “¡Oh, contestó ella en su idioma nativo: ‘Mary’s finger! What a shame!’ Y una sonrisa de gran satisfacción se dibujó en los labios de Ananiás al ver que podía dotar a su obra de una palabra más: marifinga.” Timothée, Cuentos populares, 1917, p. 52.",
           "Antiguamente parece que se decía marifingo. “Si er suerdo acaba, —mestura marifingo, —ñame y guayaba.” Carpio Alonso, “Seguidillas”, El Buscapié, 26 de enero de 1879.",
-          "La masa de unos y otros , llamada en general puche y funche, recibió también los nombres de marifinga en San Lorenzo.",
+          "La masa de unos y otros zorullos, llamada en general puche y funche, recibió también los nombres de ... marifinga en San Lorenzo.",
           "Variante denominativa del mismo plato criollo llamado más generalmente funche en el país. Navarro Tomás registró este nombre en un campo de San Lorenzo, en la región del centro oriental del país.",
           "Cierto plato.",
-          "se prepara con harina de maíz. También: marota, funche, sarata, grincha.",
-          "Funche. También marota. Funche y mazamorra son palabras generales en América.",
+          "Plato que se prepara con harina de maíz. También: marota, funche, sarata, grincha.",
+          "(general) Funche. También marota. Funche y mazamorra son palabras generales en América.",
           "“Harina amarilla cuajá”. “Funche.” “Harina colorá”.",
           "Plato hecho con harina de maíz, leche de vaca o de coco, sal, canela, vainilla y azúcar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Marihuana",
+      "consolidated_definition": "Marihuana.",
+      "en_consolidated_definition": "Cannabis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6839",
-        "semantic_similarity_score": 0.6839,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -113,17 +119,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Marihuana.",
-          "Voz usada por drogadictos. Marihuana.",
           "Marihuana."
         ]
       }
     }
   },
   "es_definitions": [
-    "Funche",
-    "Marihuana"
+    "\"Marifinga\": término utilizado para describir un plato criollo preparado con harina de maíz, leche, sal, canela, vainilla y azúcar.",
+    "Marihuana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marifinga: term used to describe a Creole dish prepared with cornmeal, milk, salt, cinnamon, vanilla, and sugar.",
+    "Cannabis."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Figura o gran cantidad de dinero.",
+      "en_consolidated_definition": "A considerable sum of money or a large amount of wealth.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona bruta: Individuo que actúa con falta de refinamiento o educación, a menudo de manera agresiva o descortés.",
+      "consolidated_definition": "Persona bruta, torpe.",
+      "en_consolidated_definition": "Persona inculta o tosca.\n\nNota: La palabra \"tosca\" es un término coloquial en español que se utiliza para describir a alguien que carece de refinamiento o educación. En el contexto de la definición, se refiere a una persona que actúa de manera bruta o torpe.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.488",
-        "semantic_similarity_score": 0.488,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -85,8 +91,6 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Persona bruta, torpe.",
-          "Hombre al que le están siendo infiel.",
           "Persona bruta, torpe."
         ]
       }
@@ -94,8 +98,11 @@
   },
   "es_definitions": [
     "Figura o gran cantidad de dinero.",
-    "Persona bruta: Individuo que actúa con falta de refinamiento o educación, a menudo de manera agresiva o descortés."
+    "Persona bruta, torpe."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A considerable sum of money or a large amount of wealth.",
+    "Persona inculta o tosca.\n\nNota: La palabra \"tosca\" es un término coloquial en español que se utiliza para describir a alguien que carece de refinamiento o educación. En el contexto de la definición, se refiere a una persona que actúa de manera bruta o torpe."
+  ],
   "source": "https://tesoro.pr"
 }

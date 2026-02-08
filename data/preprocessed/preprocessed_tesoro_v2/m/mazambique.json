@@ -3,9 +3,12 @@
   "term": "mazambique",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mozambique",
+      "consolidated_definition": "Mozambique, ave.",
+      "en_consolidated_definition": "Mozambique bird.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mozambique"
+    "Mozambique, ave."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mozambique bird."
+  ],
   "source": "https://tesoro.pr"
 }

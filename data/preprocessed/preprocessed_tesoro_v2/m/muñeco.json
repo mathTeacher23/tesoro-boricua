@@ -3,15 +3,18 @@
   "term": "muñeco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Otra pieza del carro que se distingue por",
+      "consolidated_definition": "\"Tentemozo\": denominación regional para una parte del carro, específicamente un elemento del marco que sirve como timón o rueda de gobierno, variando en nombre según la región (muñeco en la zona sur).",
+      "en_consolidated_definition": "Tentemozo: regional term for a part of the vehicle, specifically an element of the frame serving as a rudder or steering wheel, varying in name by region (muñeco in the southern zone).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6418",
-        "semantic_similarity_score": 0.6418,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6123",
+        "semantic_similarity_score": 0.6123,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Otra pieza del carro que se distingue por su variedad denominativa es el tentemozo . La parte sur se divide entre muñeco y muchacho.",
-          "En la mitad sur del tercio occidental del país y en lugares del interior y sur central, el tentemozo o palo que cuelga del pértigo, y, puesto de punta contra el suelo, impide que el carro caiga hacia adelante. También: descanso, palo, aguantadero, muchacho, niño, peón, mozo, tentemozo, retención bastón, aguantador."
+          "Otra pieza del carro que se distingue por su variedad denominativa es el tentemozo .... La parte sur se divide entre muñeco (Algarrobo, Cabo Rojo, Lajas, Duey, Utuado, Indiera Alta) y muchacho.",
+          "En la mitad sur del tercio occidental del país … y en lugares del interior y sur central, muñeco es el tentemozo o palo que cuelga del pértigo, y, puesto de punta contra el suelo, impide que el carro caiga hacia adelante. También: descanso, palo, aguantadero, muchacho, niño, peón, mozo, tentemozo, retención bastón, aguantador."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Arbusto parecido al capá que crece en las",
+      "consolidated_definition": "Arbusto parecido al capá que crece en las partes húmedas de las montañas. Echa un fruto carnoso de color anaranjado con una semilla. Su madera es dura, pero sólo la usan para hacer espeques. Echa flores pequeñas y blancas. También llamado capá cimarrón y capá.",
+      "en_consolidated_definition": "Shrub resembling the capá that grows in humid mountainous areas. Produces a fleshy orange fruit with a seed. Its wood is hard, but it is only used for making skewers. It produces small white flowers. Also known as wild capá and capá.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "Otra pieza del carro que se distingue por",
-    "Arbusto parecido al capá que crece en las"
+    "\"Tentemozo\": denominación regional para una parte del carro, específicamente un elemento del marco que sirve como timón o rueda de gobierno, variando en nombre según la región (muñeco en la zona sur).",
+    "Arbusto parecido al capá que crece en las partes húmedas de las montañas. Echa un fruto carnoso de color anaranjado con una semilla. Su madera es dura, pero sólo la usan para hacer espeques. Echa flores pequeñas y blancas. También llamado capá cimarrón y capá."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tentemozo: regional term for a part of the vehicle, specifically an element of the frame serving as a rudder or steering wheel, varying in name by region (muñeco in the southern zone).",
+    "Shrub resembling the capá that grows in humid mountainous areas. Produces a fleshy orange fruit with a seed. Its wood is hard, but it is only used for making skewers. It produces small white flowers. Also known as wild capá and capá."
+  ],
   "source": "https://tesoro.pr"
 }

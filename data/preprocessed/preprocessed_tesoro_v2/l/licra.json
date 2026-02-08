@@ -3,9 +3,12 @@
   "term": "licra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pantalón de tela, relacionado con una organización",
+      "consolidated_definition": "Pantalón de tela, sintética elástica, ajustado al cuerpo.",
+      "en_consolidated_definition": "Pantalón de tela o sintética elástica ajustado al cuerpo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pantalón de tela, relacionado con una organización"
+    "Pantalón de tela, sintética elástica, ajustado al cuerpo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pantalón de tela o sintética elástica ajustado al cuerpo."
+  ],
   "source": "https://tesoro.pr"
 }

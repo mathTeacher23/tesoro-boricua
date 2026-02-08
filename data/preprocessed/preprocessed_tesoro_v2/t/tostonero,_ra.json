@@ -3,9 +3,12 @@
   "term": "tostonero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese del barbero no diestro",
+      "consolidated_definition": "Dícese del barbero no diestro.",
+      "en_consolidated_definition": "The barber who is not skilled or adept.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,9 +46,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "De la persona que se dedica a freír",
+      "consolidated_definition": "De la persona que se dedica a freír tostones.",
+      "en_consolidated_definition": "Person who is dedicated to frying tostones.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -83,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Dícese del barbero no diestro",
-    "De la persona que se dedica a freír"
+    "Dícese del barbero no diestro.",
+    "De la persona que se dedica a freír tostones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The barber who is not skilled or adept.",
+    "Person who is dedicated to frying tostones."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "pollería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Edad de la niñez, relacionado con un grupo",
+      "consolidated_definition": "La edad de la niñez se refiere al período de desarrollo físico, emocional y cognitivo que abarca desde el nacimiento hasta la pubertad, aproximadamente entre los 0 y los 12 años de edad.",
+      "en_consolidated_definition": "The age of childhood refers to the period of physical, emotional, and cognitive development that spans from birth to puberty, approximately between 0 and 12 years of age.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3836",
         "semantic_similarity_score": 0.3836,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -50,9 +53,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver pollina",
+      "consolidated_definition": "Ver pollina .",
+      "en_consolidated_definition": "See pollen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -73,9 +79,12 @@
     }
   },
   "es_definitions": [
-    "Edad de la niñez, relacionado con un grupo",
-    "Ver pollina"
+    "La edad de la niñez se refiere al período de desarrollo físico, emocional y cognitivo que abarca desde el nacimiento hasta la pubertad, aproximadamente entre los 0 y los 12 años de edad.",
+    "Ver pollina ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The age of childhood refers to the period of physical, emotional, and cognitive development that spans from birth to puberty, approximately between 0 and 12 years of age.",
+    "See pollen."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "buscón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que se dedica a buscar pasajeros para vehículos de transporte público.",
+      "consolidated_definition": "(popular) Individuo que se dedica a buscar pasajeros para los carros públicos.",
+      "en_consolidated_definition": "Individual that is dedicated to seeking out passengers for public vehicles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona que se dedica a buscar pasajeros para vehículos de transporte público."
+    "(popular) Individuo que se dedica a buscar pasajeros para los carros públicos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Individual that is dedicated to seeking out passengers for public vehicles."
+  ],
   "source": "https://tesoro.pr"
 }

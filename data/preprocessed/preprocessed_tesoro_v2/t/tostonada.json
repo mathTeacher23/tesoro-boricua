@@ -3,9 +3,12 @@
   "term": "tostonada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto grande de tostones",
+      "consolidated_definition": "Conjunto grande de tostones.",
+      "en_consolidated_definition": "Large batch of tostones.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Conjunto grande de tostones"
+    "Conjunto grande de tostones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large batch of tostones."
+  ],
   "source": "https://tesoro.pr"
 }

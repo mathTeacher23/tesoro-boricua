@@ -3,9 +3,12 @@
   "term": "disk jokey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las discotecas el empleado encargado de la",
+      "consolidated_definition": "En las discotecas el empleado encargado de la música recibe el nombre de disk jockey.",
+      "en_consolidated_definition": "In nightclubs, the employee responsible for music is referred to as a disk jockey.\n\nNota: En este contexto, \"disk jockey\" es un término ampliamente utilizado en todo el mundo para referirse al personal de música en discotecas y otros establecimientos similares.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En las discotecas el empleado encargado de la"
+    "En las discotecas el empleado encargado de la música recibe el nombre de disk jockey."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In nightclubs, the employee responsible for music is referred to as a disk jockey.\n\nNota: En este contexto, \"disk jockey\" es un término ampliamente utilizado en todo el mundo para referirse al personal de música en discotecas y otros establecimientos similares."
+  ],
   "source": "https://tesoro.pr"
 }

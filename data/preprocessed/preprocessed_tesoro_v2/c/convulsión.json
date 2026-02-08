@@ -3,15 +3,18 @@
   "term": "convulsión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Náusea: sensación de malestar o repulsión en el estómago.",
+      "consolidated_definition": "Náusea.",
+      "en_consolidated_definition": "Nausea.\n\nSe define como una sensación de malestar estomacal y repulsión que puede acompañar a la ingestión de alimentos o bebidas, especialmente aquellas con un olor fuerte o sabor desagradable.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Náusea: sensación de malestar o repulsión en el estómago."
+    "Náusea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Nausea.\n\nSe define como una sensación de malestar estomacal y repulsión que puede acompañar a la ingestión de alimentos o bebidas, especialmente aquellas con un olor fuerte o sabor desagradable."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Comonte (sustantivo masculino): castigo corporal impuesto por agentes de la seguridad pública durante el año 1887 en Puerto Rico y otros países hispanoamericanos.",
+      "en_consolidated_definition": "Comonte (masculine noun): corporal punishment inflicted by law enforcement agents during the year 1887 in Puerto Rico and other Hispanic American countries.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
         "num_cleaned_definitions": 7,
@@ -76,15 +79,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Equipo electrónico para la reproducción de audio o video.",
+      "consolidated_definition": "Equipo electrónico para la reproducción del sonido.",
+      "en_consolidated_definition": "Sound reproduction device.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -114,8 +120,11 @@
   },
   "es_definitions": [
     "Comonte (sustantivo masculino): castigo corporal impuesto por agentes de la seguridad pública durante el año 1887 en Puerto Rico y otros países hispanoamericanos.",
-    "Equipo electrónico para la reproducción de audio o video."
+    "Equipo electrónico para la reproducción del sonido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Comonte (masculine noun): corporal punishment inflicted by law enforcement agents during the year 1887 in Puerto Rico and other Hispanic American countries.",
+    "Sound reproduction device."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "vestido",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Traje de mujer",
+      "consolidated_definition": "El traje se refiere a un conjunto de ropa formal compuesto por chaqueta y pantalón utilizado tanto por mujeres como por hombres.",
+      "en_consolidated_definition": "The suit refers to a formal ensemble consisting of jacket and trousers worn by both women and men.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.8926",
         "semantic_similarity_score": 0.8926,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Traje de mujer"
+    "El traje se refiere a un conjunto de ropa formal compuesto por chaqueta y pantalón utilizado tanto por mujeres como por hombres."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The suit refers to a formal ensemble consisting of jacket and trousers worn by both women and men."
+  ],
   "source": "https://tesoro.pr"
 }

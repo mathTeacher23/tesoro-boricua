@@ -3,9 +3,12 @@
   "term": "trampolín",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Individuo que se mueve mucho",
+      "consolidated_definition": "Individuo que se mueve mucho; que no se está quieto.",
+      "en_consolidated_definition": "Individual que se mueve con frecuencia; persona que no permanece en un lugar fijo durante mucho tiempo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Individuo que se mueve mucho"
+    "Individuo que se mueve mucho; que no se está quieto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Individual que se mueve con frecuencia; persona que no permanece en un lugar fijo durante mucho tiempo."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "reverbero",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Cocinilla de hoja de lata con lamparilla de alcohol. Ac.",
+      "consolidated_definition": "Una cocina portátil de alcohol.",
+      "en_consolidated_definition": "A portable liquor kitchen or a portable bar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5916",
         "semantic_similarity_score": 0.5916,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Alboroto, relacionado con un mecanismo",
+      "consolidated_definition": "Alboroto. Originalmente el reverbero era un conjunto de piezas portátiles de hojalata, siendo la primera una chocolatera. También un aparato donde se cocía el guarapo. Pichardo, 587-88. En Ponce reperpero.",
+      "en_consolidated_definition": "Ruckus. Originally the reverbero was a set of portable tin pieces, with the first being a chocolate pot. Also an apparatus where guarapo was cooked. Pichardo, 587-88. In Ponce, it is referred to as reperpero.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    ". Cocinilla de hoja de lata con lamparilla de alcohol. Ac.",
-    "Alboroto, relacionado con un mecanismo"
+    "Una cocina portátil de alcohol.",
+    "Alboroto. Originalmente el reverbero era un conjunto de piezas portátiles de hojalata, siendo la primera una chocolatera. También un aparato donde se cocía el guarapo. Pichardo, 587-88. En Ponce reperpero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A portable liquor kitchen or a portable bar.",
+    "Ruckus. Originally the reverbero was a set of portable tin pieces, with the first being a chocolate pot. Also an apparatus where guarapo was cooked. Pichardo, 587-88. In Ponce, it is referred to as reperpero."
+  ],
   "source": "https://tesoro.pr"
 }

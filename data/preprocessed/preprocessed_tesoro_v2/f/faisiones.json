@@ -3,9 +3,12 @@
   "term": "faisiones",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Facciones",
+      "consolidated_definition": "Facciones.",
+      "en_consolidated_definition": "Factions \n\nNote: En este contexto, \"facciones\" se refiere a grupos o facciones políticas o sociales en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Facciones"
+    "Facciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Factions \n\nNote: En este contexto, \"facciones\" se refiere a grupos o facciones políticas o sociales en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

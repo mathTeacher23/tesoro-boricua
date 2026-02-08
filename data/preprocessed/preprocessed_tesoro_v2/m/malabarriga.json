@@ -3,9 +3,12 @@
   "term": "malabarriga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Síntomas que sufre la mujer embarazada",
+      "consolidated_definition": "Síntomas que sufre la mujer embarazada.",
+      "en_consolidated_definition": "Parejas de síntomas que experimenta la mujer embarazada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Síntomas que sufre la mujer embarazada"
+    "Síntomas que sufre la mujer embarazada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Parejas de síntomas que experimenta la mujer embarazada."
+  ],
   "source": "https://tesoro.pr"
 }

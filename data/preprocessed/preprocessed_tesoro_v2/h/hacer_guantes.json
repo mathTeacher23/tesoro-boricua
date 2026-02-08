@@ -3,9 +3,12 @@
   "term": "hacer guantes",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guantear",
+      "consolidated_definition": "Guantear; hacer prácticas de boxeo.",
+      "en_consolidated_definition": "Box or engage in boxing practices.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Guantear"
+    "Guantear; hacer prácticas de boxeo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Box or engage in boxing practices."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "estar pidiendo la luz por señas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En muy mala situación económica",
+      "consolidated_definition": "En muy mala situación económica.",
+      "en_consolidated_definition": "En una situación económica muy precaria.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En muy mala situación económica"
+    "En muy mala situación económica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "En una situación económica muy precaria."
+  ],
   "source": "https://tesoro.pr"
 }

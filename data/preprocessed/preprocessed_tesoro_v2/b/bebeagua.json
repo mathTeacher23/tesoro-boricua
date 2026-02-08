@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Arco iris: Formación natural que aparece en el cielo después de la lluvia o cuando el sol brilla a través de gotas de agua en la atmósfera.",
+      "en_consolidated_definition": "Rainbow: Natural phenomenon that appears in the sky after rain or when the sun shines through water droplets in the atmosphere.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -46,8 +49,11 @@
     },
     "2": {
       "consolidated_definition": "Persona que comete hurtos en el lugar de trabajo.",
+      "en_consolidated_definition": "Employee who commits thefts on the job site.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -90,6 +96,9 @@
     "Arco iris: Formación natural que aparece en el cielo después de la lluvia o cuando el sol brilla a través de gotas de agua en la atmósfera.",
     "Persona que comete hurtos en el lugar de trabajo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rainbow: Natural phenomenon that appears in the sky after rain or when the sun shines through water droplets in the atmosphere.",
+    "Employee who commits thefts on the job site.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

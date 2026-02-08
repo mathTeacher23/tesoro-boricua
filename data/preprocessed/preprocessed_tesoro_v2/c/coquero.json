@@ -3,15 +3,18 @@
   "term": "coquero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que cultiva o vende cocos, frutos.",
+      "consolidated_definition": "Referido a un jugador, moroso, que no paga sus deudas.",
+      "en_consolidated_definition": "Referido a un jugador, moroso, que no paga sus deudas.\n\nDebtor in default, specifically referring to a player who fails to pay their debts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.5638",
-        "semantic_similarity_score": 0.5638,
-        "cluster_count": 6,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -43,19 +46,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Vendedor de cocos.",
-          "Tumbador de cocos.",
-          "Referido a un jugador, moroso, que no paga sus deudas.",
-          "Dueño de una plantación de cocos, palmas.",
-          "Vendedor de coquitos.",
-          "Persona que cultiva o vende cocos, frutos."
+          "Referido a un jugador, moroso, que no paga sus deudas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que cultiva o vende cocos, frutos."
+    "Referido a un jugador, moroso, que no paga sus deudas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a un jugador, moroso, que no paga sus deudas.\n\nDebtor in default, specifically referring to a player who fails to pay their debts."
+  ],
   "source": "https://tesoro.pr"
 }

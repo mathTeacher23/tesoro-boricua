@@ -3,9 +3,12 @@
   "term": "lala",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta parásita que nace en la caña madura",
+      "consolidated_definition": "Planta parásita que nace en la caña madura y consume parte del azúcar.",
+      "en_consolidated_definition": "Parasitic plant that germinates on mature cane and consumes part of the sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Planta parásita que nace en la caña madura"
+    "Planta parásita que nace en la caña madura y consume parte del azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Parasitic plant that germinates on mature cane and consumes part of the sugar."
+  ],
   "source": "https://tesoro.pr"
 }

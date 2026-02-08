@@ -3,9 +3,12 @@
   "term": "mosquita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer de temperamento apacible y de vida dudosa",
+      "consolidated_definition": "Mujer de temperamento apacible y de vida dudosa: “mosquita muerta”.",
+      "en_consolidated_definition": "Woman of tranquil temperament and dubious life: \"mosquito that has died\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mujer de temperamento apacible y de vida dudosa"
+    "Mujer de temperamento apacible y de vida dudosa: “mosquita muerta”."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Woman of tranquil temperament and dubious life: \"mosquito that has died\"."
+  ],
   "source": "https://tesoro.pr"
 }

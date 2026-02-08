@@ -3,9 +3,12 @@
   "term": "pescuezo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona torpe",
+      "consolidated_definition": "Persona torpe. Tonto, bruto.",
+      "en_consolidated_definition": "Clumsy person. Foolish or brutish individual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Persona torpe"
+    "Persona torpe. Tonto, bruto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Clumsy person. Foolish or brutish individual."
+  ],
   "source": "https://tesoro.pr"
 }

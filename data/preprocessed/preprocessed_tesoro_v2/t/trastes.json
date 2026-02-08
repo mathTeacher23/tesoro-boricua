@@ -3,14 +3,17 @@
   "term": "trastes",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vajilla",
+      "consolidated_definition": "Conjunto de utensilios de cocina, en especial la vajilla y las ollas.",
+      "en_consolidated_definition": "Set of kitchen utensils, especially tableware and pots.\n\nNota: En este caso, \"vajilla\" se refiere a la porcelana o loza utilizada para servir y comer, que en Puerto Rico es un término comúnmente utilizado. La traducción mantiene el contexto cultural específico de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.7841",
-        "semantic_similarity_score": 0.7841,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -52,17 +55,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Vajilla. Utensilios de comedor o de cocina.",
-          "Utensilios de cocina.",
-          "Conjunto de vasijas y utensilios que se emplean en la cocina para la preparación y servicio de las comidas. También cacharros, trastera, cacharrera.",
           "Conjunto de utensilios de cocina, en especial la vajilla y las ollas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Resaltes colocados a trechos del brazo",
+      "consolidated_definition": "Resaltes colocados a trechos del brazo, relacionados con los diversos sonidos que se producirían al oprimir con ellos las cuerdas de los dedos.",
+      "en_consolidated_definition": "Fingerboard markings placed at intervals along the arm, related to various sounds produced when pressing them against the strings of the fingers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -100,9 +103,12 @@
     }
   },
   "es_definitions": [
-    "Vajilla",
-    "Resaltes colocados a trechos del brazo"
+    "Conjunto de utensilios de cocina, en especial la vajilla y las ollas.",
+    "Resaltes colocados a trechos del brazo, relacionados con los diversos sonidos que se producirían al oprimir con ellos las cuerdas de los dedos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Set of kitchen utensils, especially tableware and pots.\n\nNota: En este caso, \"vajilla\" se refiere a la porcelana o loza utilizada para servir y comer, que en Puerto Rico es un término comúnmente utilizado. La traducción mantiene el contexto cultural específico de Puerto Rico.",
+    "Fingerboard markings placed at intervals along the arm, related to various sounds produced when pressing them against the strings of the fingers."
+  ],
   "source": "https://tesoro.pr"
 }

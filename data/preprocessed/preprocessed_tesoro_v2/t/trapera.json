@@ -3,9 +3,12 @@
   "term": "trapera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vestidos viejos",
+      "consolidated_definition": "Vestidos viejos; trapería.",
+      "en_consolidated_definition": "Hand-me-downs; second-hand goods.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Vestidos viejos"
+    "Vestidos viejos; trapería."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hand-me-downs; second-hand goods."
+  ],
   "source": "https://tesoro.pr"
 }

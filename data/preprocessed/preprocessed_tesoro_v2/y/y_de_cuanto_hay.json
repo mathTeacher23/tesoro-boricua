@@ -3,9 +3,12 @@
   "term": "y de cuanto hay",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión utilizada con el mismo valor de ‘etcétera’",
+      "consolidated_definition": "Expresión utilizada con el mismo valor de ‘etcétera’. “Ella teje, borda y de cuanto hay.”",
+      "en_consolidated_definition": "She weaves, embroiders, and does whatever there is to do.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Expresión utilizada con el mismo valor de ‘etcétera’"
+    "Expresión utilizada con el mismo valor de ‘etcétera’. “Ella teje, borda y de cuanto hay.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "She weaves, embroiders, and does whatever there is to do."
+  ],
   "source": "https://tesoro.pr"
 }

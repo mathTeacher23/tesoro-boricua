@@ -3,15 +3,18 @@
   "term": "crack",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Loco\": adjetivo que describe a alguien o algo que carece de razón o juicio, o que actúa de manera irracional o extravagante.",
+      "consolidated_definition": "drog. Cocaína tratada. Piedras o pequeños cristales de cocaína y bicarbonato que se emplean como narcótico y que crujen al quemarse. Anglicismo crudo, usual. DRAE 2001, voz inglesa. La conversación recala en la disponibilidad de la droga. La coca está por todos lados y en todas sus variedades —crack, bazukos, cortada—; me asegura que la marihuana es excelente, de una variedad legendaria ()",
+      "en_consolidated_definition": "Cocaine treated. Stones or small crystals of cocaine and bicarbonate used as a narcotic that crackle when burned. Raw anglicism, usual. DRAE 2001, English voice.\n\nNote: \"Bazukos\" es un término coloquial en Puerto Rico que se refiere a pequeños trozos de cocaína o crack, por lo que he mantenido el contexto y traducido directamente como \"stones\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2009",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2503",
-        "semantic_similarity_score": 0.2503,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,21 +46,23 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Loco.",
           "drog. Cocaína tratada. Piedras o pequeños cristales de cocaína y bicarbonato que se emplean como narcótico y que crujen al quemarse. Anglicismo crudo, usual. DRAE 2001, voz inglesa. La conversación recala en la disponibilidad de la droga. La coca está por todos lados y en todas sus variedades —crack, bazukos, cortada—; me asegura que la marihuana es excelente, de una variedad legendaria ()"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "\"Quiebra comercial\": situación de crisis financiera en la que una empresa o institución no puede cumplir con sus obligaciones financieras. Este término es un anglicismo crudo y frecuente, relacionado con el concepto de \"crac\".",
+      "consolidated_definition": "Quiebra comercial. Situación de crisis financiera. Anglicismo crudo, frecuente. Véase crac. Un crack de la bolsa si es algo dramático! Y efectivamente se habla del crack de 29 (Word Reference, 28-02-07)",
+      "en_consolidated_definition": "Commercial bankruptcy. Situation of financial crisis. Raw loanism, frequent. See crash. A stock market crash is something dramatic! And indeed it's referred to as the 29 crash (Word Reference, 28-02-07) \n\nNota: He mantenido el término \"loanism\" para reflejar la influencia del inglés en el español puertorriqueño, pero he agregado una explicación para que sea claro. Si lo deseas, puedo cambiarlo a un término más formal como \"financial term borrowed from English\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -86,9 +91,12 @@
     }
   },
   "es_definitions": [
-    "\"Loco\": adjetivo que describe a alguien o algo que carece de razón o juicio, o que actúa de manera irracional o extravagante.",
-    "\"Quiebra comercial\": situación de crisis financiera en la que una empresa o institución no puede cumplir con sus obligaciones financieras. Este término es un anglicismo crudo y frecuente, relacionado con el concepto de \"crac\"."
+    "drog. Cocaína tratada. Piedras o pequeños cristales de cocaína y bicarbonato que se emplean como narcótico y que crujen al quemarse. Anglicismo crudo, usual. DRAE 2001, voz inglesa. La conversación recala en la disponibilidad de la droga. La coca está por todos lados y en todas sus variedades —crack, bazukos, cortada—; me asegura que la marihuana es excelente, de una variedad legendaria ()",
+    "Quiebra comercial. Situación de crisis financiera. Anglicismo crudo, frecuente. Véase crac. Un crack de la bolsa si es algo dramático! Y efectivamente se habla del crack de 29 (Word Reference, 28-02-07)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cocaine treated. Stones or small crystals of cocaine and bicarbonate used as a narcotic that crackle when burned. Raw anglicism, usual. DRAE 2001, English voice.\n\nNote: \"Bazukos\" es un término coloquial en Puerto Rico que se refiere a pequeños trozos de cocaína o crack, por lo que he mantenido el contexto y traducido directamente como \"stones\".",
+    "Commercial bankruptcy. Situation of financial crisis. Raw loanism, frequent. See crash. A stock market crash is something dramatic! And indeed it's referred to as the 29 crash (Word Reference, 28-02-07) \n\nNota: He mantenido el término \"loanism\" para reflejar la influencia del inglés en el español puertorriqueño, pero he agregado una explicación para que sea claro. Si lo deseas, puedo cambiarlo a un término más formal como \"financial term borrowed from English\"."
+  ],
   "source": "https://tesoro.pr"
 }

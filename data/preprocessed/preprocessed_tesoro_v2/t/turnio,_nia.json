@@ -3,15 +3,18 @@
   "term": "turnio, nia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bizco, relacionado con una calificación",
+      "consolidated_definition": "\"bizco\": adjetivo que describe una persona que padece de estrabismo o turnio.",
+      "en_consolidated_definition": "cross-eyed adjective describing a person who suffers from strabismus or turnio.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
         "num_cleaned_definitions": 11,
-        "definition_stability": "Stability: 0.4449",
-        "semantic_similarity_score": 0.4449,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4528",
+        "semantic_similarity_score": 0.4528,
+        "cluster_count": 9,
         "grammar": [
           "adjetivo"
         ],
@@ -79,17 +82,20 @@
           "Bizco.",
           "Tendencia a meter el ojo, no es permanente.",
           "“El que vira el ojo un poco nada más.” También bizco.",
-          "“El turnio lo vira ”.",
-          "Si este defecto se nota poco, se le dice turnio.",
+          "“El turnio lo vira el ojo”.",
+          "Si este defecto estrabismo se nota poco, se le dice turnio.",
           "Dícese de la persona que padece estrabismo de un ojo.",
           "Bizco."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, que mira con deseo o ansiedad.",
+      "en_consolidated_definition": "Enfocado a persona que mira con deseo o ansiedad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -125,9 +131,12 @@
     }
   },
   "es_definitions": [
-    "Bizco, relacionado con una calificación",
-    "Referido a persona"
+    "\"bizco\": adjetivo que describe una persona que padece de estrabismo o turnio.",
+    "Referido a persona, que mira con deseo o ansiedad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "cross-eyed adjective describing a person who suffers from strabismus or turnio.",
+    "Enfocado a persona que mira con deseo o ansiedad."
+  ],
   "source": "https://tesoro.pr"
 }

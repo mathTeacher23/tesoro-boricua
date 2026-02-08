@@ -3,15 +3,18 @@
   "term": "burra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Burro\": juego de cartas que se juega con un mazo especializado.",
+      "consolidated_definition": ". Burro, cierto juego de naipes.",
+      "en_consolidated_definition": "Donkey, a certain card game.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,11 @@
     },
     "2": {
       "consolidated_definition": "Una bicicleta juvenil es un objeto de tamaño mediano o pequeño, caracterizada por llantas gruesas y decoraciones en colores brillantes, comúnmente utilizada por adolescentes.",
+      "en_consolidated_definition": "A youth bicycle is a medium- or small-sized object characterized by thick tires and bright color decorations, commonly used by adolescents.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -76,15 +82,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Sombrero hecho con un tejido de felpa gruesa.",
+      "consolidated_definition": "Sombrero de felpa gruesa.",
+      "en_consolidated_definition": "Thick woolen hat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -112,15 +121,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Persona que posee un cuerpo bien formado.",
+      "consolidated_definition": "Mujer que tiene un cuerpo bien formado.",
+      "en_consolidated_definition": "Woman with a well-proportioned body.\n\nNota: La expresión \"bien formado\" puede tener connotaciones culturales específicas en Puerto Rico, pero se ha mantenido su traducción literal para reflejar el significado original del diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -151,11 +163,16 @@
     }
   },
   "es_definitions": [
-    "\"Burro\": juego de cartas que se juega con un mazo especializado.",
+    ". Burro, cierto juego de naipes.",
     "Una bicicleta juvenil es un objeto de tamaño mediano o pequeño, caracterizada por llantas gruesas y decoraciones en colores brillantes, comúnmente utilizada por adolescentes.",
-    "Sombrero hecho con un tejido de felpa gruesa.",
-    "Persona que posee un cuerpo bien formado."
+    "Sombrero de felpa gruesa.",
+    "Mujer que tiene un cuerpo bien formado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Donkey, a certain card game.",
+    "A youth bicycle is a medium- or small-sized object characterized by thick tires and bright color decorations, commonly used by adolescents.",
+    "Thick woolen hat.",
+    "Woman with a well-proportioned body.\n\nNota: La expresión \"bien formado\" puede tener connotaciones culturales específicas en Puerto Rico, pero se ha mantenido su traducción literal para reflejar el significado original del diccionario."
+  ],
   "source": "https://tesoro.pr"
 }

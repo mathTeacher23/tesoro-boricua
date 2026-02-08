@@ -3,9 +3,12 @@
   "term": "peep-show",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver peep show",
+      "consolidated_definition": "Ver peep show .",
+      "en_consolidated_definition": "View a peep show.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver peep show"
+    "Ver peep show ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "View a peep show."
+  ],
   "source": "https://tesoro.pr"
 }

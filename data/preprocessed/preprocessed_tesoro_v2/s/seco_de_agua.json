@@ -3,9 +3,12 @@
   "term": "seco de agua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Café en grano que necesita sol o pasarlo",
+      "consolidated_definition": "Café en grano que necesita sol o pasarlo por el bombo. Está seco de agua pero no de humedad.",
+      "en_consolidated_definition": "Coffee in the bean form that requires sun or passing it through a drum. It is dry of water but not of humidity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Café en grano que necesita sol o pasarlo"
+    "Café en grano que necesita sol o pasarlo por el bombo. Está seco de agua pero no de humedad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coffee in the bean form that requires sun or passing it through a drum. It is dry of water but not of humidity."
+  ],
   "source": "https://tesoro.pr"
 }

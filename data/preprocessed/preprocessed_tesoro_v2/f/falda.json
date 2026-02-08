@@ -3,9 +3,12 @@
   "term": "falda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver faldeta 2",
+      "consolidated_definition": "Ver faldeta 2 .",
+      "en_consolidated_definition": "See faldeta 2.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver faldeta 2"
+    "Ver faldeta 2 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See faldeta 2."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "traqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción y efecto de traquear gallos o caballos",
+      "consolidated_definition": "Entrenamiento de gallos o caballos para competir.",
+      "en_consolidated_definition": "Training of roosters or horses for competition.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5566",
-        "semantic_similarity_score": 0.5566,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -57,17 +60,16 @@
           "traquear 2"
         ],
         "reference_definitions": [
-          "Acción y efecto de traquear gallos o caballos de competencia.",
-          "Trabajo.",
-          "Entrenamiento del gallo que consiste en ejercitarlo de diversas formas de modo que esté en óptimas condiciones para pelear. Para el DRAE, traquear es sinónimo de traquetear que en su segunda definición significa ‘mover o agitar una cosa de una parte a otra’ y también ‘manejar mucho una cosa’. En Puerto Rico, traqueo y traqueteo, traquear y traquetear no son sinónimos.",
           "Entrenamiento de gallos o caballos para competir."
         ]
       }
     }
   },
   "es_definitions": [
-    "Acción y efecto de traquear gallos o caballos"
+    "Entrenamiento de gallos o caballos para competir."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Training of roosters or horses for competition."
+  ],
   "source": "https://tesoro.pr"
 }

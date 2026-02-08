@@ -3,9 +3,12 @@
   "term": "no hay cama para tanta gente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que no hay capacidad en un sitio",
+      "consolidated_definition": "Indica que no hay capacidad en un sitio.",
+      "en_consolidated_definition": "Indicates the absence of capacity in a location.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Indica que no hay capacidad en un sitio"
+    "Indica que no hay capacidad en un sitio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Indicates the absence of capacity in a location.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "isla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dicho desde San Juan o desde cualquiera de",
+      "consolidated_definition": "Dicho desde San Juan o desde cualquiera de las ciudades grandes de la costa, con el significado de ‘el interior del país’.",
+      "en_consolidated_definition": "From San Juan or any of the major cities along the coast, referring to 'the interior of the country'.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Dicho desde San Juan o desde cualquiera de"
+    "Dicho desde San Juan o desde cualquiera de las ciudades grandes de la costa, con el significado de ‘el interior del país’."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "From San Juan or any of the major cities along the coast, referring to 'the interior of the country'."
+  ],
   "source": "https://tesoro.pr"
 }

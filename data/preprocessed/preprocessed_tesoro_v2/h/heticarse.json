@@ -3,9 +3,12 @@
   "term": "heticarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tuberculizarse",
+      "consolidated_definition": "Tuberculizarse. Enfermarse de tuberculosis.",
+      "en_consolidated_definition": "To become tuberculous. To contract tuberculosis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Tuberculizarse"
+    "Tuberculizarse. Enfermarse de tuberculosis."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To become tuberculous. To contract tuberculosis."
+  ],
   "source": "https://tesoro.pr"
 }

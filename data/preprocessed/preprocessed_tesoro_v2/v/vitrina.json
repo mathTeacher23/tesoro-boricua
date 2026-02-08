@@ -3,9 +3,12 @@
   "term": "vitrina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Espacio exterior de una tienda",
+      "consolidated_definition": "Espacio exterior de una tienda, cerrado con cristales, donde se exponen los artículos a la vista del público.",
+      "en_consolidated_definition": "Exterior display area of a store, enclosed with glass, where articles are displayed for public view.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Espacio exterior de una tienda"
+    "Espacio exterior de una tienda, cerrado con cristales, donde se exponen los artículos a la vista del público."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Exterior display area of a store, enclosed with glass, where articles are displayed for public view."
+  ],
   "source": "https://tesoro.pr"
 }

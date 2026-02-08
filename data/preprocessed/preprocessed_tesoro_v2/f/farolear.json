@@ -3,9 +3,12 @@
   "term": "farolear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aparentar",
+      "consolidated_definition": "Aparentar.",
+      "en_consolidated_definition": "To appear \n\nor \n\nTo feign \n\nor \n\nTo pretend",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Aparentar"
+    "Aparentar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To appear \n\nor \n\nTo feign \n\nor \n\nTo pretend"
+  ],
   "source": "https://tesoro.pr"
 }

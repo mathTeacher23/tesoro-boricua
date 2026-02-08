@@ -3,15 +3,18 @@
   "term": "bilma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cataplasma: sustancia compuesta generalmente de pasta o ungüento aplicada sobre la piel para calentarla o protegerla en caso de lesiones o irritaciones.",
+      "consolidated_definition": "Cataplasma, remedio casero.",
+      "en_consolidated_definition": "Home remedy plaster.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cataplasma, remedio casero.",
           "Cataplasma, remedio casero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cataplasma: sustancia compuesta generalmente de pasta o ungüento aplicada sobre la piel para calentarla o protegerla en caso de lesiones o irritaciones."
+    "Cataplasma, remedio casero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Home remedy plaster."
+  ],
   "source": "https://tesoro.pr"
 }

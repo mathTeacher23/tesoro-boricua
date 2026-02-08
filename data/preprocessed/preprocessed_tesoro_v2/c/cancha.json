@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Un estadio es un recinto cerrado destinado a albergar eventos deportivos y competiciones, como partidos de fútbol, atletismo o otros deportes.",
+      "en_consolidated_definition": "A stadium is a closed venue designed to host sports events and competitions, such as soccer matches, track and field events, or other sports.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -54,6 +57,8 @@
   "es_definitions": [
     "Un estadio es un recinto cerrado destinado a albergar eventos deportivos y competiciones, como partidos de fútbol, atletismo o otros deportes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A stadium is a closed venue designed to host sports events and competitions, such as soccer matches, track and field events, or other sports."
+  ],
   "source": "https://tesoro.pr"
 }

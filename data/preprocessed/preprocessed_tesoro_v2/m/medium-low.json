@@ -3,9 +3,12 @@
   "term": "medium-low",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver medium low",
+      "consolidated_definition": "Ver medium low .",
+      "en_consolidated_definition": "Medium low.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver medium low"
+    "Ver medium low ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Medium low."
+  ],
   "source": "https://tesoro.pr"
 }

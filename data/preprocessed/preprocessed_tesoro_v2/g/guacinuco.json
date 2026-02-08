@@ -3,9 +3,12 @@
   "term": "guacinuco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lutjanus cyanopterus",
+      "consolidated_definition": "Lutjanus cyanopterus. Otro nombre para el pez llamado pargo guacinuco.",
+      "en_consolidated_definition": "Lutjanus cyanopterus. Another name for the fish known as pargo guabincho.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Lutjanus cyanopterus"
+    "Lutjanus cyanopterus. Otro nombre para el pez llamado pargo guacinuco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lutjanus cyanopterus. Another name for the fish known as pargo guabincho."
+  ],
   "source": "https://tesoro.pr"
 }

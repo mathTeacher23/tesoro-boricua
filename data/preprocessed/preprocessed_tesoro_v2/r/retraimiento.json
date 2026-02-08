@@ -3,9 +3,12 @@
   "term": "retraimiento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción política consistente en no votar en una",
+      "consolidated_definition": "Acción política consistente en no votar en una elección, a pesar de hacer campaña activa.",
+      "en_consolidated_definition": "Action of abstaining from voting in an election, despite actively campaigning for a particular candidate or party.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Acción política consistente en no votar en una"
+    "Acción política consistente en no votar en una elección, a pesar de hacer campaña activa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Action of abstaining from voting in an election, despite actively campaigning for a particular candidate or party."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "florear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Escribir un texto o hablar utilizando palabras rebuscadas",
+      "consolidated_definition": "Escribir un texto o hablar utilizando palabras rebuscadas.",
+      "en_consolidated_definition": "Utilizar un lenguaje erudito o afectado en la escritura de un texto o en el habla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Escribir un texto o hablar utilizando palabras rebuscadas"
+    "Escribir un texto o hablar utilizando palabras rebuscadas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Utilizar un lenguaje erudito o afectado en la escritura de un texto o en el habla."
+  ],
   "source": "https://tesoro.pr"
 }

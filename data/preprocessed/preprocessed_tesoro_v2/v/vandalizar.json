@@ -3,9 +3,12 @@
   "term": "vandalizar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Destruir propiedad pública maliciosamente",
+      "consolidated_definition": "Destruir propiedad pública maliciosamente.",
+      "en_consolidated_definition": "Maliciously destroy public property.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Destruir propiedad pública maliciosamente"
+    "Destruir propiedad pública maliciosamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maliciously destroy public property."
+  ],
   "source": "https://tesoro.pr"
 }

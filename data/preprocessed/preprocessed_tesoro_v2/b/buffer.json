@@ -3,15 +3,18 @@
   "term": "buffer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Amortiguador de pH\": solución cuya composición química neutraliza ácidos o gases sin producir cambios al pH.",
+      "consolidated_definition": "Amortiguador de pH. Solución cuya composición química neutraliza ácidos o gases sin producir cambios al pH. Anglicismo crudo, poco frecuente. Hacer los cómputos para la preparación de cualquier solución buffer deseada (Pontificia Universidad Católica de )",
+      "en_consolidated_definition": "pH Buffering Agent. Solution whose chemical composition neutralizes acids or gases without producing pH changes. Raw Anglicism, infrequently used. Calculations for the preparation of any desired buffer solution (Pontificia Universidad Católica de )",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Buffer: memoria temporal dedicada a almacenar información que debe procesarse por un dispositivo hardware.",
+      "consolidated_definition": "inform. Memoria dedicada a almacenar temporalmente la información que debe procesar un dispositivo hardware para que éste pueda hacerlo sin bajar el rendimiento de la transferencia. Anglicismo crudo, frecuente. Tal vez estoy obviando algo.... no lo se, tal vez los buffer deban ser altos, y el poder operativo de la computadora no está en directa proporción al buffer (Harmony Central, julio 2007)",
+      "en_consolidated_definition": "Información técnica: Memoria temporal dedicada a almacenar información que debe procesarse por un dispositivo de hardware para evitar una disminución en el rendimiento de transferencia.\n\nNota: El término \"anglicismo crudo\" se refiere a la utilización directa de un término inglés sin adaptarlo al idioma español.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "\"Amortiguador de pH\": solución cuya composición química neutraliza ácidos o gases sin producir cambios al pH.",
-    "Buffer: memoria temporal dedicada a almacenar información que debe procesarse por un dispositivo hardware."
+    "Amortiguador de pH. Solución cuya composición química neutraliza ácidos o gases sin producir cambios al pH. Anglicismo crudo, poco frecuente. Hacer los cómputos para la preparación de cualquier solución buffer deseada (Pontificia Universidad Católica de )",
+    "inform. Memoria dedicada a almacenar temporalmente la información que debe procesar un dispositivo hardware para que éste pueda hacerlo sin bajar el rendimiento de la transferencia. Anglicismo crudo, frecuente. Tal vez estoy obviando algo.... no lo se, tal vez los buffer deban ser altos, y el poder operativo de la computadora no está en directa proporción al buffer (Harmony Central, julio 2007)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "pH Buffering Agent. Solution whose chemical composition neutralizes acids or gases without producing pH changes. Raw Anglicism, infrequently used. Calculations for the preparation of any desired buffer solution (Pontificia Universidad Católica de )",
+    "Información técnica: Memoria temporal dedicada a almacenar información que debe procesarse por un dispositivo de hardware para evitar una disminución en el rendimiento de transferencia.\n\nNota: El término \"anglicismo crudo\" se refiere a la utilización directa de un término inglés sin adaptarlo al idioma español."
+  ],
   "source": "https://tesoro.pr"
 }

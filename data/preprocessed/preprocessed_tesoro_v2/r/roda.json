@@ -3,9 +3,12 @@
   "term": "roda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pieza de la embarcación que forma la proa",
+      "consolidated_definition": "Pieza de la embarcación que forma la proa.",
+      "en_consolidated_definition": "Bow piece of a vessel forming the bow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Pieza de la embarcación que forma la proa"
+    "Pieza de la embarcación que forma la proa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bow piece of a vessel forming the bow."
+  ],
   "source": "https://tesoro.pr"
 }

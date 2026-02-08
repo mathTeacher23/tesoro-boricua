@@ -3,15 +3,18 @@
   "term": "cheto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un ave de hasta 11 cm de longitud, con la parte superior del cuerpo de color verde oscuro y el resto de un verde brillante con reflejos amarillos, garganta y cuello rojo carmín orillado de blanco, pecho y vientre gris, y pico largo. (Todidae; Todus mexicanus.)",
+      "consolidated_definition": "Ave de hasta 11 cm de longitud, con la parte superior del cuerpo de color verde oscuro y el resto de un verde brillante con reflejos amarillos, garganta y cuello, rojo carmín orillado de blanco, pecho y vientre gris, y pico largo. Todidae; Todus mexicanus.",
+      "en_consolidated_definition": "Bird of up to 11 cm in length, with the upper part of the body a dark green color and the rest a bright green with yellow reflections, throat and neck, crimson red bordered by white, breast and belly gray, and long beak.\n\nFamily: Todidae; Species: Todus mexicanus.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Un ave de hasta 11 cm de longitud, con la parte superior del cuerpo de color verde oscuro y el resto de un verde brillante con reflejos amarillos, garganta y cuello rojo carmín orillado de blanco, pecho y vientre gris, y pico largo. (Todidae; Todus mexicanus.)"
+    "Ave de hasta 11 cm de longitud, con la parte superior del cuerpo de color verde oscuro y el resto de un verde brillante con reflejos amarillos, garganta y cuello, rojo carmín orillado de blanco, pecho y vientre gris, y pico largo. Todidae; Todus mexicanus."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bird of up to 11 cm in length, with the upper part of the body a dark green color and the rest a bright green with yellow reflections, throat and neck, crimson red bordered by white, breast and belly gray, and long beak.\n\nFamily: Todidae; Species: Todus mexicanus."
+  ],
   "source": "https://tesoro.pr"
 }

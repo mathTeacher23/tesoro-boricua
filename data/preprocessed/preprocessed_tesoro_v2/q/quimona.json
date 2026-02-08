@@ -3,14 +3,17 @@
   "term": "quimona",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Quimono",
+      "consolidated_definition": "Bata de mujer para estar en casa.",
+      "en_consolidated_definition": "Housewife's dress for staying at home.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9216",
-        "semantic_similarity_score": 0.9216,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Quimono. Bata de mujer para estar en la casa.",
           "Bata de mujer para estar en casa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Quimono"
+    "Bata de mujer para estar en casa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Housewife's dress for staying at home."
+  ],
   "source": "https://tesoro.pr"
 }

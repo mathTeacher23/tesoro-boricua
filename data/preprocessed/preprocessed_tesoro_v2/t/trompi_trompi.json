@@ -3,9 +3,12 @@
   "term": "trompi trompi",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pelea",
+      "consolidated_definition": "Pelea.",
+      "en_consolidated_definition": "Encuentro físico violento o disputa entre personas.\n\nNota: En algunos contextos, este término puede referirse a una pelea de gallos, un evento popular en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pelea"
+    "Pelea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Encuentro físico violento o disputa entre personas.\n\nNota: En algunos contextos, este término puede referirse a una pelea de gallos, un evento popular en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

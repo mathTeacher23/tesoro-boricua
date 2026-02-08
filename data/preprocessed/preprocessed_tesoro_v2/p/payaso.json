@@ -3,9 +3,12 @@
   "term": "payaso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rollo decorativo que se colocaba en el cabezal",
+      "consolidated_definition": "Rollo decorativo que se colocaba en el cabezal de la cama.",
+      "en_consolidated_definition": "Decorative headboard ornament that was placed at the top of a bed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,11 @@
     },
     "2": {
       "consolidated_definition": ". Priacanthus aranetus. Pez de la familia Lutjanidae. También llamado cómico.",
+      "en_consolidated_definition": "Priacanthus aranetus. A fish of the family Lutjanidae, also known as the comico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Rollo decorativo que se colocaba en el cabezal",
+    "Rollo decorativo que se colocaba en el cabezal de la cama.",
     ". Priacanthus aranetus. Pez de la familia Lutjanidae. También llamado cómico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Decorative headboard ornament that was placed at the top of a bed.",
+    "Priacanthus aranetus. A fish of the family Lutjanidae, also known as the comico."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "no saber dónde se tiene las narices",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver no saber cuántas patas tiene el gato",
+      "consolidated_definition": "Ver no saber cuántas patas tiene el gato .",
+      "en_consolidated_definition": "To guess how many legs a cat has.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver no saber cuántas patas tiene el gato"
+    "Ver no saber cuántas patas tiene el gato ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To guess how many legs a cat has."
+  ],
   "source": "https://tesoro.pr"
 }

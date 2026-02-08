@@ -3,14 +3,17 @@
   "term": "ñeque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe",
+      "consolidated_definition": "Golpe, puñetazo, coscorrón.",
+      "en_consolidated_definition": "Blow, punch, slap.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8117",
-        "semantic_similarity_score": 0.8117,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Golpe. Puñetazo.",
           "Golpe, puñetazo, coscorrón."
         ]
       }
     }
   },
   "es_definitions": [
-    "Golpe"
+    "Golpe, puñetazo, coscorrón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Blow, punch, slap."
+  ],
   "source": "https://tesoro.pr"
 }

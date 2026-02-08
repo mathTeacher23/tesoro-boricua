@@ -3,9 +3,12 @@
   "term": "tarjeteo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción y efecto de poner las fichas en",
+      "consolidated_definition": "Acción y efecto de poner las fichas en orden en un tarjetero.",
+      "en_consolidated_definition": "Action and effect of arranging the cards in a card holder.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Acción y efecto de poner las fichas en"
+    "Acción y efecto de poner las fichas en orden en un tarjetero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Action and effect of arranging the cards in a card holder."
+  ],
   "source": "https://tesoro.pr"
 }

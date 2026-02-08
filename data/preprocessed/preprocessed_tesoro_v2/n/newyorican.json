@@ -3,9 +3,12 @@
   "term": "newyorican",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hijo de padres puertorriqueños",
+      "consolidated_definition": "Hijo de padres puertorriqueños, nacido en los Estados Unidos, principalmente en la ciudad de Nueva York.",
+      "en_consolidated_definition": "Child of Puerto Rican parents born in the United States, primarily in New York City.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Hijo de padres puertorriqueños"
+    "Hijo de padres puertorriqueños, nacido en los Estados Unidos, principalmente en la ciudad de Nueva York."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Child of Puerto Rican parents born in the United States, primarily in New York City."
+  ],
   "source": "https://tesoro.pr"
 }

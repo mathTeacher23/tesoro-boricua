@@ -3,15 +3,18 @@
   "term": "tiao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hermano",
+      "consolidated_definition": "Hermano: persona que comparte con otra miembro de una familia el mismo padre o madre.",
+      "en_consolidated_definition": "Sibling: a person who shares with another the same parent or parents.\n\nNota: En este contexto, el término \"hermano\" se refiere a un miembro de una familia que comparte ascendencia con otro miembro, lo cual es equivalente al término inglés \"sibling\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6149",
         "semantic_similarity_score": 0.6149,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Hermano"
+    "Hermano: persona que comparte con otra miembro de una familia el mismo padre o madre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sibling: a person who shares with another the same parent or parents.\n\nNota: En este contexto, el término \"hermano\" se refiere a un miembro de una familia que comparte ascendencia con otro miembro, lo cual es equivalente al término inglés \"sibling\"."
+  ],
   "source": "https://tesoro.pr"
 }

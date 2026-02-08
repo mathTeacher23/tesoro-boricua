@@ -3,9 +3,12 @@
   "term": "modelaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Profesión de exhibir modelos de ropa para que",
+      "consolidated_definition": "Profesión de exhibir modelos de ropa para que los vean los clientes.",
+      "en_consolidated_definition": "Profesión que implica exhibir modelos de ropa para que los clientes puedan ver y evaluar las prendas en un entorno comercial.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Profesión de exhibir modelos de ropa para que"
+    "Profesión de exhibir modelos de ropa para que los vean los clientes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Profesión que implica exhibir modelos de ropa para que los clientes puedan ver y evaluar las prendas en un entorno comercial."
+  ],
   "source": "https://tesoro.pr"
 }

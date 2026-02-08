@@ -3,9 +3,12 @@
   "term": "paile",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte de la máquina cortadora de caña que, relacionado con un mecanismo",
+      "consolidated_definition": "Parte de la máquina cortadora de caña que acomoda la caña.",
+      "en_consolidated_definition": "Part of the sugarcane cutter machine that accommodates the cane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Parte de la máquina cortadora de caña que, relacionado con un mecanismo"
+    "Parte de la máquina cortadora de caña que acomoda la caña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Part of the sugarcane cutter machine that accommodates the cane."
+  ],
   "source": "https://tesoro.pr"
 }

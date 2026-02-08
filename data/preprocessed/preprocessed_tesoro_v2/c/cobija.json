@@ -3,9 +3,12 @@
   "term": "cobija",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte superior del edificio o construcción, especialmente del rancho.",
+      "consolidated_definition": "Parte superior del edificio o construcción de un rancho.",
+      "en_consolidated_definition": "Upper portion of a building or structure of a ranch.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
@@ -65,15 +68,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pluma, objeto de escritura.",
+      "consolidated_definition": "Pluma.",
+      "en_consolidated_definition": "Quill.\n\nNota: En este caso, la palabra \"pluma\" se refiere a un instrumento de escritura, por lo que la traducción más adecuada es \"quill\". Sin embargo, si se refiere a una persona con habilidades literarias o creativas, la traducción podría ser \"penman\" o \"scribbler\", dependiendo del contexto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -101,15 +107,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Manta de cama: Cubierta para la cama utilizada para mantener el calor y la comodidad durante el sueño.",
+      "consolidated_definition": "Manta que sirve de abrigo, especialmente en la cama.",
+      "en_consolidated_definition": "Bedcover or bedspread that serves as a blanket for warmth and comfort, especially when sleeping.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8202",
-        "semantic_similarity_score": 0.8202,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -137,17 +146,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Manta de cama.",
           "Manta que sirve de abrigo, especialmente en la cama."
         ]
       }
     }
   },
   "es_definitions": [
-    "Parte superior del edificio o construcción, especialmente del rancho.",
-    "Pluma, objeto de escritura.",
-    "Manta de cama: Cubierta para la cama utilizada para mantener el calor y la comodidad durante el sueño."
+    "Parte superior del edificio o construcción de un rancho.",
+    "Pluma.",
+    "Manta que sirve de abrigo, especialmente en la cama."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Upper portion of a building or structure of a ranch.",
+    "Quill.\n\nNota: En este caso, la palabra \"pluma\" se refiere a un instrumento de escritura, por lo que la traducción más adecuada es \"quill\". Sin embargo, si se refiere a una persona con habilidades literarias o creativas, la traducción podría ser \"penman\" o \"scribbler\", dependiendo del contexto.",
+    "Bedcover or bedspread that serves as a blanket for warmth and comfort, especially when sleeping."
+  ],
   "source": "https://tesoro.pr"
 }

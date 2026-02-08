@@ -3,9 +3,12 @@
   "term": "manantial",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para la fuente natural en el campo se",
+      "consolidated_definition": "Para la fuente natural en el campo se recogieron los nombres de ... manantial.",
+      "en_consolidated_definition": "For the natural source in the field, the names of ... spring were collected.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para la fuente natural en el campo se recogieron los nombres de manantial."
+          "Para la fuente natural en el campo se recogieron los nombres de ... manantial."
         ]
       }
     }
   },
   "es_definitions": [
-    "Para la fuente natural en el campo se"
+    "Para la fuente natural en el campo se recogieron los nombres de ... manantial."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "For the natural source in the field, the names of ... spring were collected."
+  ],
   "source": "https://tesoro.pr"
 }

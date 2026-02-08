@@ -3,14 +3,17 @@
   "term": "norte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Viento favorable para navegar y para pescar con",
+      "consolidated_definition": "En las actividades marítimas, brisa del mar.",
+      "en_consolidated_definition": "Maritime breeze.\n\nNota: En este caso, no se requiere una traducción específica de \"brisa del mar\" en el contexto puertorriqueño, ya que es un término común y ampliamente entendido en español. Sin embargo, si fuera necesario, podría incluirse una nota para aclarar que la brisa del mar puede ser particularmente significativa en las costas de Puerto Rico debido a su geografía y clima.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.436",
-        "semantic_similarity_score": 0.436,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -54,23 +57,23 @@
           "nortear"
         ],
         "reference_definitions": [
-          "Viento favorable para navegar y para pescar con chinchorro de arrastre.",
-          ". Viento que sopla de esta parte.",
-          "Brisa del mar.",
           "En las actividades marítimas, brisa del mar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Llovizna fina",
+      "consolidated_definition": "Llovizna fina: lluvia ligera y continua compuesta por gotas muy pequeñas.",
+      "en_consolidated_definition": "Light drizzle: a light and continuous rain composed of very small droplets.\n\nNota: En este contexto, \"llovizna\" es un término que se utiliza en Puerto Rico y otros países de habla hispana para describir una lluvia ligera y continua. La traducción al inglés mantiene el significado exacto y el tono formal adecuado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.5657",
         "semantic_similarity_score": 0.5657,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -120,9 +123,12 @@
     }
   },
   "es_definitions": [
-    "Viento favorable para navegar y para pescar con",
-    "Llovizna fina"
+    "En las actividades marítimas, brisa del mar.",
+    "Llovizna fina: lluvia ligera y continua compuesta por gotas muy pequeñas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maritime breeze.\n\nNota: En este caso, no se requiere una traducción específica de \"brisa del mar\" en el contexto puertorriqueño, ya que es un término común y ampliamente entendido en español. Sin embargo, si fuera necesario, podría incluirse una nota para aclarar que la brisa del mar puede ser particularmente significativa en las costas de Puerto Rico debido a su geografía y clima.",
+    "Light drizzle: a light and continuous rain composed of very small droplets.\n\nNota: En este contexto, \"llovizna\" es un término que se utiliza en Puerto Rico y otros países de habla hispana para describir una lluvia ligera y continua. La traducción al inglés mantiene el significado exacto y el tono formal adecuado para un diccionario."
+  ],
   "source": "https://tesoro.pr"
 }

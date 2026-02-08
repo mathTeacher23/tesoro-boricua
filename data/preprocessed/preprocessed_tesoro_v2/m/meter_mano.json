@@ -3,9 +3,12 @@
   "term": "meter mano",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Robar",
+      "consolidated_definition": "Robar.",
+      "en_consolidated_definition": "To steal.\n\nNota: En algunos contextos culturales de Puerto Rico, este término puede estar relacionado con el concepto de \"robar\" en el sentido de apropiación o usurpación de recursos o bienes, pero esta traducción se mantiene general para mantener la precisión y neutralidad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Intentar o llevar a cabo un acto sexual",
+      "consolidated_definition": "Conquistar a una muchacha. Cuando se gufea con el sexo contrario. Dar uno o más besos. Tener relaciones sexuales.",
+      "en_consolidated_definition": "To win over a young woman. When flirting with the opposite sex. To give one or more kisses. To engage in sexual relations.\n\nNota: La expresión \"guefar\" es un término coloquial en Puerto Rico que se utiliza para describir el acto de flirtear o hacer bromas con alguien, especialmente con el sexo opuesto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6117",
         "semantic_similarity_score": 0.6117,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "locución verbal"
         ],
@@ -83,15 +89,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Trabajar con ahinco",
+      "consolidated_definition": "Trabajar con intensidad y dedicación.",
+      "en_consolidated_definition": "Trabajar con intensidad y dedicación se conoce como trabajar con ahínco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6487",
         "semantic_similarity_score": 0.6487,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "locución verbal"
         ],
@@ -127,10 +136,14 @@
     }
   },
   "es_definitions": [
-    "Robar",
-    "Intentar o llevar a cabo un acto sexual",
-    "Trabajar con ahinco"
+    "Robar.",
+    "Conquistar a una muchacha. Cuando se gufea con el sexo contrario. Dar uno o más besos. Tener relaciones sexuales.",
+    "Trabajar con intensidad y dedicación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To steal.\n\nNota: En algunos contextos culturales de Puerto Rico, este término puede estar relacionado con el concepto de \"robar\" en el sentido de apropiación o usurpación de recursos o bienes, pero esta traducción se mantiene general para mantener la precisión y neutralidad.",
+    "To win over a young woman. When flirting with the opposite sex. To give one or more kisses. To engage in sexual relations.\n\nNota: La expresión \"guefar\" es un término coloquial en Puerto Rico que se utiliza para describir el acto de flirtear o hacer bromas con alguien, especialmente con el sexo opuesto.",
+    "Trabajar con intensidad y dedicación se conoce como trabajar con ahínco."
+  ],
   "source": "https://tesoro.pr"
 }

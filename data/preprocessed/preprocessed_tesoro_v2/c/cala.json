@@ -3,15 +3,18 @@
   "term": "cala",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre dado a un tipo de pesca que implica utilizar un cordel y un anzuelo desde el fondo del agua.",
+      "consolidated_definition": "Pesca de fondo con cordel y anzuelo.",
+      "en_consolidated_definition": "Deep-sea fishing with a line and hook.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.6237",
-        "semantic_similarity_score": 0.6237,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -46,24 +49,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Nombre que dan a la pesca de fondo con cordel y anzuelo. También al cordel que se emplea en ese tipo de pesca.",
-          "Cuerda para medir la profundidad del mar o para atar la potala.",
-          "Pesca de fondo con cordel y anzuelo.",
-          "Cordel que se emplea en la pesca de fondo.",
-          "Cuerda que se usa para medir la profundidad del mar o para atar una pieza de hierro a modo de ancla."
+          "Pesca de fondo con cordel y anzuelo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Extraer la muestra de la caña desde el vehículo que la transporta hasta la central.",
+      "consolidated_definition": "Toma la muestra de la caña directamente del vehículo que la transporta hasta la central.",
+      "en_consolidated_definition": "Take the sample from the cane directly from the vehicle transporting it to the central processing facility.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -94,9 +96,12 @@
     }
   },
   "es_definitions": [
-    "Nombre dado a un tipo de pesca que implica utilizar un cordel y un anzuelo desde el fondo del agua.",
-    "Extraer la muestra de la caña desde el vehículo que la transporta hasta la central."
+    "Pesca de fondo con cordel y anzuelo.",
+    "Toma la muestra de la caña directamente del vehículo que la transporta hasta la central."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Deep-sea fishing with a line and hook.",
+    "Take the sample from the cane directly from the vehicle transporting it to the central processing facility."
+  ],
   "source": "https://tesoro.pr"
 }

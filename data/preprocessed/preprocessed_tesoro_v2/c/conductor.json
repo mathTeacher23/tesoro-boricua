@@ -4,14 +4,17 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "En la industria azucarera, canal para transportar caña, bagazo, líquido o azúcar.",
+      "en_consolidated_definition": "In the sugar industry, channel for transporting cane, bagasse, liquid or sugar.\n\nNota: En este contexto, \"bagazo\" se refiere a la parte fibrosa de la caña de azúcar después de haber sido procesada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8652",
-        "semantic_similarity_score": 0.8652,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,7 +44,6 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cualquier canal para transportar caña, bagazo, líquido, azúcar.",
           "En la industria azucarera, canal para transportar caña, bagazo, líquido o azúcar."
         ]
       }
@@ -50,6 +52,8 @@
   "es_definitions": [
     "En la industria azucarera, canal para transportar caña, bagazo, líquido o azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the sugar industry, channel for transporting cane, bagasse, liquid or sugar.\n\nNota: En este contexto, \"bagazo\" se refiere a la parte fibrosa de la caña de azúcar después de haber sido procesada."
+  ],
   "source": "https://tesoro.pr"
 }

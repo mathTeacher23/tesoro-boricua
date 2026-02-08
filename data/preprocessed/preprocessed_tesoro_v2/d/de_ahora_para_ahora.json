@@ -3,9 +3,12 @@
   "term": "de ahora para ahora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver de ahora para ahorita",
+      "consolidated_definition": "Ver de ahora para ahorita .",
+      "en_consolidated_definition": "From now on, for the present moment.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver de ahora para ahorita"
+    "Ver de ahora para ahorita ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "From now on, for the present moment."
+  ],
   "source": "https://tesoro.pr"
 }

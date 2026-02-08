@@ -3,9 +3,12 @@
   "term": "no bajar la nota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar bebido",
+      "consolidated_definition": "Estar bebido.",
+      "en_consolidated_definition": "To be drunk or intoxicated.\n\nNota: En algunos contextos puertorriqueños, este término puede referirse a estar bajo la influencia del alcohol después de una fiesta o celebración conocida como \"fiesta\" o \"junta\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Estar bebido"
+    "Estar bebido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be drunk or intoxicated.\n\nNota: En algunos contextos puertorriqueños, este término puede referirse a estar bajo la influencia del alcohol después de una fiesta o celebración conocida como \"fiesta\" o \"junta\"."
+  ],
   "source": "https://tesoro.pr"
 }

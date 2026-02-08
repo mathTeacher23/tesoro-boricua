@@ -3,15 +3,18 @@
   "term": "cáscara rallada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El residuo del coco es la parte fibrosa y dura que queda después de exprimir el líquido de un coco maduro.",
+      "consolidated_definition": "Residuo del coco.",
+      "en_consolidated_definition": "Coconut residue.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El residuo del coco es la parte fibrosa y dura que queda después de exprimir el líquido de un coco maduro."
+    "Residuo del coco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coconut residue."
+  ],
   "source": "https://tesoro.pr"
 }

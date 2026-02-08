@@ -3,14 +3,17 @@
   "term": "mami rica",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muchacha bien bonita",
+      "consolidated_definition": "Mujer muy hermosa.",
+      "en_consolidated_definition": "Exquisita mujer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3495",
-        "semantic_similarity_score": 0.3495,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Muchacha bien bonita.",
           "Mujer muy hermosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Muchacha bien bonita"
+    "Mujer muy hermosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Exquisita mujer."
+  ],
   "source": "https://tesoro.pr"
 }

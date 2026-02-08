@@ -3,9 +3,12 @@
   "term": "no vestirse que no va",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No conseguir el propósito fijado",
+      "consolidated_definition": "No conseguir el propósito fijado. “No te vistas que no vas.”",
+      "en_consolidated_definition": "To fail to achieve the intended purpose. \"Don't dress up if you're not going.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "No conseguir el propósito fijado"
+    "No conseguir el propósito fijado. “No te vistas que no vas.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To fail to achieve the intended purpose. \"Don't dress up if you're not going.\""
+  ],
   "source": "https://tesoro.pr"
 }

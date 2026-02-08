@@ -3,14 +3,17 @@
   "term": "doble",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep, relacionado con una calificación",
+      "consolidated_definition": "En el beisbol, batazo que le permite al jugador llegar desde el jon hasta la segunda base.",
+      "en_consolidated_definition": "In baseball, a hit that allows the player to reach from first base to second base.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6612",
-        "semantic_similarity_score": 0.6612,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de béisbol, jugada en la cual el bateador llega a la segunda base. Desvío semántico, frecuente. DRAE 2001: dos veces algo. Por Glenview, Ricky Burgos de 6-3, dos jonrones, un doble y siete carreras remolcadas; Eric Maldonado 6-2, un vuelacercas, dos empujadas y dos anotadas, mientras que Carlos Ayala se fue de 5-3 con tres impulsadas",
           "En el beisbol, batazo que le permite al jugador llegar desde el jon hasta la segunda base."
         ]
       }
     }
   },
   "es_definitions": [
-    "dep, relacionado con una calificación"
+    "En el beisbol, batazo que le permite al jugador llegar desde el jon hasta la segunda base."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a hit that allows the player to reach from first base to second base."
+  ],
   "source": "https://tesoro.pr"
 }

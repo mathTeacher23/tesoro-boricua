@@ -3,15 +3,18 @@
   "term": "arriba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La sala y los cuartos son las piezas principales de una residencia, generalmente ubicadas en la parte delantera de la misma.",
+      "consolidated_definition": "La sala y los cuartos de la vivienda. Las piezas principales de la residencia, situadas por lo común en la parte delantera de la misma, aun cuando —sobre todo en la casa urbana— todas las partes de la vivienda se encuentran en el mismo nivel de la cocina. Por estar edificada la vivienda campesina tradicional sobre pilotes o zocos, salir de la casa siempre era bajar, de aquí que se siga usando arriba para las piezas de la casa, subir para entrar en la vivienda y abajo para el patio o alrededores.",
+      "en_consolidated_definition": "The main rooms of the dwelling house, including the living room and bedrooms, typically located in the front part of the residence, although in urban houses all parts are often on the same level as the kitchen. Due to the traditional rural house being built on pilings or zocos, exiting the house always involved going down; hence, \"above\" is still used for the rooms of the house, \"up\" to enter the dwelling, and \"below\" for the patio or surrounding areas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adverbio"
         ],
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "La sala y los cuartos son las piezas principales de una residencia, generalmente ubicadas en la parte delantera de la misma."
+    "La sala y los cuartos de la vivienda. Las piezas principales de la residencia, situadas por lo común en la parte delantera de la misma, aun cuando —sobre todo en la casa urbana— todas las partes de la vivienda se encuentran en el mismo nivel de la cocina. Por estar edificada la vivienda campesina tradicional sobre pilotes o zocos, salir de la casa siempre era bajar, de aquí que se siga usando arriba para las piezas de la casa, subir para entrar en la vivienda y abajo para el patio o alrededores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The main rooms of the dwelling house, including the living room and bedrooms, typically located in the front part of the residence, although in urban houses all parts are often on the same level as the kitchen. Due to the traditional rural house being built on pilings or zocos, exiting the house always involved going down; hence, \"above\" is still used for the rooms of the house, \"up\" to enter the dwelling, and \"below\" for the patio or surrounding areas."
+  ],
   "source": "https://tesoro.pr"
 }

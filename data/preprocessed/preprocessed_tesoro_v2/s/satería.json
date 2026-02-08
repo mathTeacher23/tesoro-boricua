@@ -3,9 +3,12 @@
   "term": "satería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Coquetería",
+      "consolidated_definition": "Coquetería, flirteo.",
+      "en_consolidated_definition": "Coquetería, flirteo.\n\nCockiness, flirtation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Coquetería"
+    "Coquetería, flirteo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coquetería, flirteo.\n\nCockiness, flirtation."
+  ],
   "source": "https://tesoro.pr"
 }

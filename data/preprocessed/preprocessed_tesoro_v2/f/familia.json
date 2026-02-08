@@ -3,9 +3,12 @@
   "term": "familia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se usa entre personas allegadas, relacionado con un grupo",
+      "consolidated_definition": "Se usa entre personas allegadas.",
+      "en_consolidated_definition": "Used among close acquaintances.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cuerpo de la policía, relacionado con una organización",
+      "consolidated_definition": "Cuerpo de la policía. Voz usada por drogadictos.",
+      "en_consolidated_definition": "Police corps. Term used by drug addicts.\n\nNota: En este caso, no se ha encontrado un término específico de Puerto Rico que requiera ser preservado en el contexto. Sin embargo, si fuera necesario, podría incluir una nota para aclarar la referencia cultural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Se usa entre personas allegadas, relacionado con un grupo",
-    "Cuerpo de la policía, relacionado con una organización"
+    "Se usa entre personas allegadas.",
+    "Cuerpo de la policía. Voz usada por drogadictos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Used among close acquaintances.",
+    "Police corps. Term used by drug addicts.\n\nNota: En este caso, no se ha encontrado un término específico de Puerto Rico que requiera ser preservado en el contexto. Sin embargo, si fuera necesario, podría incluir una nota para aclarar la referencia cultural."
+  ],
   "source": "https://tesoro.pr"
 }

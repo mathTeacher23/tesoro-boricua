@@ -3,9 +3,12 @@
   "term": "pistola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aparato para fisgar, relacionado con un mecanismo",
+      "consolidated_definition": "Aparato para fisgar.",
+      "en_consolidated_definition": "Device for probing or fishing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Aparato para fisgar, relacionado con un mecanismo"
+    "Aparato para fisgar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Device for probing or fishing."
+  ],
   "source": "https://tesoro.pr"
 }

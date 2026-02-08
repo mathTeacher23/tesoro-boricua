@@ -3,9 +3,12 @@
   "term": "teatrista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que pertenece al mundo del teatro o",
+      "consolidated_definition": "Persona que pertenece al mundo del teatro o está relacionada con él.",
+      "en_consolidated_definition": "Persona que pertenece al mundo del teatro o está relacionada con él.\n\nPersona associated with the world of theater or related to it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona que pertenece al mundo del teatro o"
+    "Persona que pertenece al mundo del teatro o está relacionada con él."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que pertenece al mundo del teatro o está relacionada con él.\n\nPersona associated with the world of theater or related to it."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "sabrosón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Dícese de la persona habladora y simpática.",
+      "consolidated_definition": "Persona que hace buena compañía, por su conversación amena y alegre.",
+      "en_consolidated_definition": "Person who makes good company due to their pleasant and cheerful conversation.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.3886",
         "semantic_similarity_score": 0.3886,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "adjetivo"
         ],
@@ -50,9 +53,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Que trata de vivir sin molestias",
+      "consolidated_definition": "Que trata de vivir sin molestias.",
+      "en_consolidated_definition": "That seeks to live without discomforts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -86,9 +92,12 @@
     }
   },
   "es_definitions": [
-    ". Dícese de la persona habladora y simpática.",
-    "Que trata de vivir sin molestias"
+    "Persona que hace buena compañía, por su conversación amena y alegre.",
+    "Que trata de vivir sin molestias."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who makes good company due to their pleasant and cheerful conversation.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "That seeks to live without discomforts."
+  ],
   "source": "https://tesoro.pr"
 }

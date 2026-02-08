@@ -3,15 +3,18 @@
   "term": "barilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una especie de planta que presenta similitudes con la salicornia europea, aunque su identidad precisa no está especificada en el texto proporcionado.",
+      "consolidated_definition": "Arbusto perenne de hasta 70 cm de altura, con hojas pequeñas, carnosas y estrechas, de color verde brillante, en ocasiones rojizas, y flores de pequeño tamaño; su ceniza se usa en la fabricación de vidrio. (Batidaceae, Batis maritima).",
+      "en_consolidated_definition": "Perennial shrub reaching up to 70 cm in height, with small, fleshy and narrow leaves of bright green color, sometimes reddish, and small flowers; its ash is used in the manufacture of glass (Batidaceae, Batis maritima).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4783",
-        "semantic_similarity_score": 0.4783,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Planta que a primera vista parece una Salicorni europea. . Grosourdy, 3, 271; Otero, 428.",
           "Arbusto perenne de hasta 70 cm de altura, con hojas pequeñas, carnosas y estrechas, de color verde brillante, en ocasiones rojizas, y flores de pequeño tamaño; su ceniza se usa en la fabricación de vidrio. (Batidaceae, Batis maritima)."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Raspajo de coco que no logra madurar, también conocido como barba, barilla o escoba.",
+      "consolidated_definition": "Algunos llamaron barba, barilla y escoba al raspajo de los cocos que no llegan a granar porque, según un jíbaro de Barros, se los bebe la luna.",
+      "en_consolidated_definition": "Some called the unripe coconut husk a beard, brush, or broom due to a Barros jíbaro's claim that the moon drinks them.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Una especie de planta que presenta similitudes con la salicornia europea, aunque su identidad precisa no está especificada en el texto proporcionado.",
-    "Raspajo de coco que no logra madurar, también conocido como barba, barilla o escoba."
+    "Arbusto perenne de hasta 70 cm de altura, con hojas pequeñas, carnosas y estrechas, de color verde brillante, en ocasiones rojizas, y flores de pequeño tamaño; su ceniza se usa en la fabricación de vidrio. (Batidaceae, Batis maritima).",
+    "Algunos llamaron barba, barilla y escoba al raspajo de los cocos que no llegan a granar porque, según un jíbaro de Barros, se los bebe la luna."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Perennial shrub reaching up to 70 cm in height, with small, fleshy and narrow leaves of bright green color, sometimes reddish, and small flowers; its ash is used in the manufacture of glass (Batidaceae, Batis maritima).",
+    "Some called the unripe coconut husk a beard, brush, or broom due to a Barros jíbaro's claim that the moon drinks them."
+  ],
   "source": "https://tesoro.pr"
 }

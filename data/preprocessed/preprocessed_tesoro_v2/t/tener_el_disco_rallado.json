@@ -3,9 +3,12 @@
   "term": "tener el disco rallado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de alguien que sin conferencia",
+      "consolidated_definition": "Se dice de alguien que habla sin conferencia.",
+      "en_consolidated_definition": "Someone who speaks without consulting or conferencing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -31,14 +34,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice de alguien que sin conferencia."
+          "Se dice de alguien que habla sin conferencia."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se dice de alguien que sin conferencia"
+    "Se dice de alguien que habla sin conferencia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Someone who speaks without consulting or conferencing."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ventanilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Taquilla",
+      "consolidated_definition": "Taquilla.",
+      "en_consolidated_definition": "Box office.\n\nNota: En este contexto, \"taquilla\" se refiere a la venta de entradas para un evento o espectáculo en vivo, especialmente en teatros y cines.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Deflector",
+      "consolidated_definition": "Deflector (parte anterior de las ventanillas laterales de los coches, que por su propia autonomía de movimiento permite girar un fragmento triangular del vidrio). También parabrisas.",
+      "en_consolidated_definition": "Wind deflector (the front part of the side windows of cars, which by its own independent movement allows a triangular fragment of glass to turn). Also windshield.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -70,15 +76,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Deflector . También parabrisas."
+          "Deflector (parte anterior de las ventanillas laterales de los coches, que por su propia autonomía de movimiento permite girar un fragmento triangular del vidrio). También parabrisas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Taquilla",
-    "Deflector"
+    "Taquilla.",
+    "Deflector (parte anterior de las ventanillas laterales de los coches, que por su propia autonomía de movimiento permite girar un fragmento triangular del vidrio). También parabrisas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Box office.\n\nNota: En este contexto, \"taquilla\" se refiere a la venta de entradas para un evento o espectáculo en vivo, especialmente en teatros y cines.",
+    "Wind deflector (the front part of the side windows of cars, which by its own independent movement allows a triangular fragment of glass to turn). Also windshield."
+  ],
   "source": "https://tesoro.pr"
 }

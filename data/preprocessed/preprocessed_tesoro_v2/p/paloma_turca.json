@@ -3,15 +3,18 @@
   "term": "paloma turca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Paloma silvestre",
+      "consolidated_definition": "La paloma silvestre es un ave común en las zonas montañosas de la isla, caracterizada por su plumaje oscuro y patas rojizas.",
+      "en_consolidated_definition": "The wild dove is a common bird in the mountainous areas of the island, characterized by its dark plumage and reddish legs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.6607",
         "semantic_similarity_score": 0.6607,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -49,8 +52,10 @@
     }
   },
   "es_definitions": [
-    "Paloma silvestre"
+    "La paloma silvestre es un ave común en las zonas montañosas de la isla, caracterizada por su plumaje oscuro y patas rojizas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The wild dove is a common bird in the mountainous areas of the island, characterized by its dark plumage and reddish legs."
+  ],
   "source": "https://tesoro.pr"
 }

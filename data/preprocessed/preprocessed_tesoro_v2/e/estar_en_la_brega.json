@@ -3,9 +3,12 @@
   "term": "estar en la brega",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar en la lucha",
+      "consolidated_definition": "Estar en la lucha. Haciendo algo. Trabajo diario.",
+      "en_consolidated_definition": "Engaged in struggle or daily activity; actively working or performing tasks on a regular basis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Estar en la lucha"
+    "Estar en la lucha. Haciendo algo. Trabajo diario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Engaged in struggle or daily activity; actively working or performing tasks on a regular basis."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "cachimbo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una pipa para fumar es un dispositivo utilizado para inhalar vapores de tabaco o otros productos aromáticos.",
+      "consolidated_definition": "Pipa para fumar.",
+      "en_consolidated_definition": "Cigar box or cigar humidor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "El término 'cachimbo' se refiere a Aristolochia trilobata L., una planta conocida por su nombre alternativo 'bejuco de Santiago', perteneciente al grupo de las especies de árboles.",
+      "consolidated_definition": "Planta herbácea perenne, de ramas pequeñas con vello grueso, hojas amplias cubiertas de pelos blancos, flores de color blanco verdoso, velludas y de olor fuerte, y fruto negruzco y diminuto con una sola semilla. PoaceaeIchnanthus pallens.",
+      "en_consolidated_definition": "Perennial herbaceous plant, with small branches covered in thick hair, broad leaves covered in white hairs, greenish-white flowers with a strong odor and dense hair, and small, dark fruit containing a single seed. Poaceae Ichnanthus pallens.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.401",
-        "semantic_similarity_score": 0.401,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -87,24 +93,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se denomina además cachimbo a la misma planta conocida también por bejuco de Santiago (Aristolochia trilobata L.).",
-          "Nombre de varias especies de árboles. (Rauwolfia nitida; Psychotria brachista, Sw.; Dendropanax arboreum, L.). Cook; ; 1846.",
-          "Se llama vulgarmente cachimbo a las plantas Rauwolfia tetraphylla L., Palicourea crocea Sw. y Psychotria pubescens Sw.",
-          "Nombre que algunos dan al arbusto carruzo.",
           "Planta herbácea perenne, de ramas pequeñas con vello grueso, hojas amplias cubiertas de pelos blancos, flores de color blanco verdoso, velludas y de olor fuerte, y fruto negruzco y diminuto con una sola semilla. PoaceaeIchnanthus pallens."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Horno de carbón: dispositivo que utiliza carbón como combustible para producir calor o energía a través de la combustión.",
+      "consolidated_definition": "Horno de carbón.",
+      "en_consolidated_definition": "Coal oven.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -134,15 +139,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Almacén de azúcar cruda: Recipiente donde se recibe y almacena el azúcar sin refinar directamente desde la producción, antes de su refinado.",
+      "consolidated_definition": "Recipiente que recibe el azúcar sin refinar cuando llega al almacén.",
+      "en_consolidated_definition": "Container that receives unrefined sugar upon its arrival at the warehouse.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -173,11 +181,16 @@
     }
   },
   "es_definitions": [
-    "Una pipa para fumar es un dispositivo utilizado para inhalar vapores de tabaco o otros productos aromáticos.",
-    "El término 'cachimbo' se refiere a Aristolochia trilobata L., una planta conocida por su nombre alternativo 'bejuco de Santiago', perteneciente al grupo de las especies de árboles.",
-    "Horno de carbón: dispositivo que utiliza carbón como combustible para producir calor o energía a través de la combustión.",
-    "Almacén de azúcar cruda: Recipiente donde se recibe y almacena el azúcar sin refinar directamente desde la producción, antes de su refinado."
+    "Pipa para fumar.",
+    "Planta herbácea perenne, de ramas pequeñas con vello grueso, hojas amplias cubiertas de pelos blancos, flores de color blanco verdoso, velludas y de olor fuerte, y fruto negruzco y diminuto con una sola semilla. PoaceaeIchnanthus pallens.",
+    "Horno de carbón.",
+    "Recipiente que recibe el azúcar sin refinar cuando llega al almacén."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cigar box or cigar humidor.",
+    "Perennial herbaceous plant, with small branches covered in thick hair, broad leaves covered in white hairs, greenish-white flowers with a strong odor and dense hair, and small, dark fruit containing a single seed. Poaceae Ichnanthus pallens.",
+    "Coal oven.",
+    "Container that receives unrefined sugar upon its arrival at the warehouse."
+  ],
   "source": "https://tesoro.pr"
 }

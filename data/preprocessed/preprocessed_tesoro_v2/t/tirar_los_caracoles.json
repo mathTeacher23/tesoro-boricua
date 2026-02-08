@@ -3,9 +3,12 @@
   "term": "tirar los caracoles",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la santería",
+      "consolidated_definition": "En la santería, predecir el futuro según la posición de los caracoles al caer.",
+      "en_consolidated_definition": "In Santería, to predict the future based on the position of snails upon falling.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En la santería"
+    "En la santería, predecir el futuro según la posición de los caracoles al caer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In Santería, to predict the future based on the position of snails upon falling."
+  ],
   "source": "https://tesoro.pr"
 }

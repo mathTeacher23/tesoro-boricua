@@ -3,9 +3,12 @@
   "term": "fiqueo, quea",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice del que está loco",
+      "consolidated_definition": "Se dice del que está loco.",
+      "en_consolidated_definition": "Derisivo; se dice del que está loco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Se dice del que está loco"
+    "Se dice del que está loco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Derisivo; se dice del que está loco."
+  ],
   "source": "https://tesoro.pr"
 }

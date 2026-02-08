@@ -3,9 +3,12 @@
   "term": "hacer un palitroque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asaltar",
+      "consolidated_definition": "Asaltar, robar para conseguir droga.",
+      "en_consolidated_definition": "To assault or rob in order to obtain illicit drugs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Asaltar"
+    "Asaltar, robar para conseguir droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To assault or rob in order to obtain illicit drugs."
+  ],
   "source": "https://tesoro.pr"
 }

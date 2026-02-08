@@ -3,14 +3,17 @@
   "term": "vaquero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Chofer que se abre paso en la carreta",
+      "consolidated_definition": "Referido a un conductor, que no respeta las señales de tránsito.",
+      "en_consolidated_definition": "Referred to a driver who disregards traffic signals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5336",
-        "semantic_similarity_score": 0.5336,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -47,17 +50,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Chofer que se abre paso en la carreta sin consideración alguna.",
-          "Dícese de la persona tozuda. Atrevida.",
-          "Del conductor que no respeta las señales de tránsito.",
           "Referido a un conductor, que no respeta las señales de tránsito."
         ]
       }
     }
   },
   "es_definitions": [
-    "Chofer que se abre paso en la carreta"
+    "Referido a un conductor, que no respeta las señales de tránsito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referred to a driver who disregards traffic signals."
+  ],
   "source": "https://tesoro.pr"
 }

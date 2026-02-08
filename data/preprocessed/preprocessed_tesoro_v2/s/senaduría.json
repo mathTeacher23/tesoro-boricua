@@ -3,9 +3,12 @@
   "term": "senaduría",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Escaño en el Senado Nacional",
+      "consolidated_definition": "Escaño en el Senado Nacional.",
+      "en_consolidated_definition": "Seat in the National Senate.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Escaño en el Senado Nacional"
+    "Escaño en el Senado Nacional."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Seat in the National Senate."
+  ],
   "source": "https://tesoro.pr"
 }

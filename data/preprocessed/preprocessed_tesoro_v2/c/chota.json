@@ -3,15 +3,18 @@
   "term": "chota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que muestra temor o miedo excesivo ante situaciones peligrosas o desafiantes, evitando enfrentarlas con valentía y determinación.",
+      "consolidated_definition": "Persona floja, pusilánime.",
+      "en_consolidated_definition": "Person who is weak and timorous.\n\nNota: En este caso, \"pusilánime\" se refiere a alguien que es débil y temeroso, pero también puede implicar una falta de coraje o decisión. La traducción busca mantener el significado exacto del término original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2001",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.4597",
-        "semantic_similarity_score": 0.4597,
-        "cluster_count": 7,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -56,20 +59,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cobarde, pusilánime.",
-          "(popular) Persona de poca habilidad.",
-          "Cobarde.",
-          "Flojo, pusilánime, inhábil.",
-          "Flojo, pusilámine, inhábil.",
-          "Persona floja, pusilánime.",
-          "Persona falta de habilidad."
+          "Persona floja, pusilánime."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Persona que proporciona información a las autoridades policiales sobre actividades o individuos sospechosos.",
+      "en_consolidated_definition": "Informant \n\nPersona que proporciona información a las autoridades policiales sobre actividades o individuos sospechosos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -105,8 +105,11 @@
     },
     "3": {
       "consolidated_definition": "Un boxeador no profesional es una persona que participa en combates de boxeo amateur o aficionado.",
+      "en_consolidated_definition": "An amateur boxer is a person who participates in amateur or recreational boxing matches.\n\nNota: En este caso, no se utilizó un término cultural específico de Puerto Rico, ya que el concepto de boxeador aficionado es ampliamente conocido y aplicable en diferentes contextos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -143,15 +146,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Persona que se dedica al manejo o manipulación de sustancias químicas, especialmente en un laboratorio o entorno profesional.",
+      "consolidated_definition": "El que trabaja con drogas.",
+      "en_consolidated_definition": "The person who works with drugs.\n\nNota: La definición original es bastante general y no especifica el contexto en el que se trabaja con drogas. Si se proporcionara más información o contexto, podría ser posible una traducción más precisa y específica.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -180,11 +186,16 @@
     }
   },
   "es_definitions": [
-    "Persona que muestra temor o miedo excesivo ante situaciones peligrosas o desafiantes, evitando enfrentarlas con valentía y determinación.",
+    "Persona floja, pusilánime.",
     "Persona que proporciona información a las autoridades policiales sobre actividades o individuos sospechosos.",
     "Un boxeador no profesional es una persona que participa en combates de boxeo amateur o aficionado.",
-    "Persona que se dedica al manejo o manipulación de sustancias químicas, especialmente en un laboratorio o entorno profesional."
+    "El que trabaja con drogas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who is weak and timorous.\n\nNota: En este caso, \"pusilánime\" se refiere a alguien que es débil y temeroso, pero también puede implicar una falta de coraje o decisión. La traducción busca mantener el significado exacto del término original.",
+    "Informant \n\nPersona que proporciona información a las autoridades policiales sobre actividades o individuos sospechosos.",
+    "An amateur boxer is a person who participates in amateur or recreational boxing matches.\n\nNota: En este caso, no se utilizó un término cultural específico de Puerto Rico, ya que el concepto de boxeador aficionado es ampliamente conocido y aplicable en diferentes contextos.",
+    "The person who works with drugs.\n\nNota: La definición original es bastante general y no especifica el contexto en el que se trabaja con drogas. Si se proporcionara más información o contexto, podría ser posible una traducción más precisa y específica."
+  ],
   "source": "https://tesoro.pr"
 }

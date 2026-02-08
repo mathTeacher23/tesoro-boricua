@@ -3,15 +3,18 @@
   "term": "calancana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Clase de caña\": en la industria azucarera, designación coloquial para un tipo de caña de azúcar.",
+      "consolidated_definition": "En la industria azucarera, clase de caña de azúcar.",
+      "en_consolidated_definition": "In the sugar industry, class of sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4627",
-        "semantic_similarity_score": 0.4627,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Clase de caña.",
           "En la industria azucarera, clase de caña de azúcar."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Clase de caña\": en la industria azucarera, designación coloquial para un tipo de caña de azúcar."
+    "En la industria azucarera, clase de caña de azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the sugar industry, class of sugarcane."
+  ],
   "source": "https://tesoro.pr"
 }

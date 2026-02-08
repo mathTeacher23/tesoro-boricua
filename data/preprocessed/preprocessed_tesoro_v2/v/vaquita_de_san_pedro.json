@@ -3,9 +3,12 @@
   "term": "vaquita de san pedro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mariquita",
+      "consolidated_definition": "Mariquita. También vaquita.",
+      "en_consolidated_definition": "Mariquita. Also vaquita. \n\nNota: La \"vaquita\" es un término coloquial en Puerto Rico para referirse a una mariquita.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mariquita"
+    "Mariquita. También vaquita."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mariquita. Also vaquita. \n\nNota: La \"vaquita\" es un término coloquial en Puerto Rico para referirse a una mariquita."
+  ],
   "source": "https://tesoro.pr"
 }

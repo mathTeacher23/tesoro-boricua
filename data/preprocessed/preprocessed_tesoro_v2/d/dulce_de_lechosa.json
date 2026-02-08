@@ -3,9 +3,12 @@
   "term": "dulce de lechosa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Confección de almíbar hecha con tajadas de papaya",
+      "consolidated_definition": "Confección de almíbar hecha con tajadas de papaya verde, azúcar y especias.",
+      "en_consolidated_definition": "Preparation of a syrup made with green papaya slices, sugar, and spices.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Confección de almíbar hecha con tajadas de papaya"
+    "Confección de almíbar hecha con tajadas de papaya verde, azúcar y especias."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Preparation of a syrup made with green papaya slices, sugar, and spices."
+  ],
   "source": "https://tesoro.pr"
 }

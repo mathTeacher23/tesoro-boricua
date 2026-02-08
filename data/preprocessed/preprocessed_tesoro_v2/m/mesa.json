@@ -3,9 +3,12 @@
   "term": "mesa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que algunos le dan al árbol llamado",
+      "consolidated_definition": "Nombre que algunos le dan al árbol llamado caimitillo.",
+      "en_consolidated_definition": "Name given to the tree known as caimitillo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,14 +42,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cualquier lugar donde se planea un robo",
+      "consolidated_definition": "Lugar donde se planea un robo.",
+      "en_consolidated_definition": "Lugar donde se planifica un robo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5972",
-        "semantic_similarity_score": 0.5972,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -84,17 +90,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cualquier lugar donde se planea un robo, aunque no haya mesa.",
-          "Voz usada por delincuentes. Reunión de delincuentes para planear una fechoría.",
           "Lugar donde se planea un robo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Nombre que algunos le dan al árbol llamado",
-    "Cualquier lugar donde se planea un robo"
+    "Nombre que algunos le dan al árbol llamado caimitillo.",
+    "Lugar donde se planea un robo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Name given to the tree known as caimitillo.",
+    "Lugar donde se planifica un robo."
+  ],
   "source": "https://tesoro.pr"
 }

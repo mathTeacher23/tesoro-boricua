@@ -3,15 +3,18 @@
   "term": "tan con tan",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sin añadir precio alguno al permutar una cosa",
+      "consolidated_definition": "Intercambio directo de bienes sin cambio de valor monetario.",
+      "en_consolidated_definition": "Direct exchange of goods without monetary value change.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5893",
         "semantic_similarity_score": 0.5893,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "locución adverbial"
         ],
@@ -51,8 +54,10 @@
     }
   },
   "es_definitions": [
-    "Sin añadir precio alguno al permutar una cosa"
+    "Intercambio directo de bienes sin cambio de valor monetario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Direct exchange of goods without monetary value change."
+  ],
   "source": "https://tesoro.pr"
 }

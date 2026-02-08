@@ -3,9 +3,12 @@
   "term": "pugilación",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Problema que causa tristeza",
+      "consolidated_definition": "Problema que causa tristeza.",
+      "en_consolidated_definition": "Affliction that causes sadness.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Problema que causa tristeza"
+    "Problema que causa tristeza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Affliction that causes sadness."
+  ],
   "source": "https://tesoro.pr"
 }

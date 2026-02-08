@@ -3,9 +3,12 @@
   "term": "poner como chincha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver chincha 1",
+      "consolidated_definition": "Ver chincha 1 .",
+      "en_consolidated_definition": "See chincha 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver chincha 1"
+    "Ver chincha 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See chincha 1."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "libreto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Texto en que se expone",
+      "consolidated_definition": "Texto en que se expone, con los detalles necesarios para su realización, el contenido de un filme o de un programa de radio o televisión.",
+      "en_consolidated_definition": "Script or treatment: A written text that outlines the content of a film or television program with sufficient detail for its production, or a radio show.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Texto en que se expone"
+    "Texto en que se expone, con los detalles necesarios para su realización, el contenido de un filme o de un programa de radio o televisión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Script or treatment: A written text that outlines the content of a film or television program with sufficient detail for its production, or a radio show."
+  ],
   "source": "https://tesoro.pr"
 }

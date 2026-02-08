@@ -3,9 +3,12 @@
   "term": "retrancar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Usar la retranca",
+      "consolidated_definition": "Usar la retranca. Dícese también, por ejemplo, “el carro se retrancó.”",
+      "en_consolidated_definition": "To use the clutch. Also said, for example, \"the car stalled.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Usar la retranca"
+    "Usar la retranca. Dícese también, por ejemplo, “el carro se retrancó.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To use the clutch. Also said, for example, \"the car stalled.\""
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "supervisor, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que está al frente de obreros o",
+      "consolidated_definition": "Persona que está al frente de obreros o empleados.",
+      "en_consolidated_definition": "Supervisor de trabajadores o empleados.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Persona que está al frente de obreros o"
+    "Persona que está al frente de obreros o empleados."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Supervisor de trabajadores o empleados."
+  ],
   "source": "https://tesoro.pr"
 }

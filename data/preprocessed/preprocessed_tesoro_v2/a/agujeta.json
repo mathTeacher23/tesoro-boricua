@@ -3,15 +3,18 @@
   "term": "agujeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aguja grande: objeto utilizado por zapateros y mujeres para coser o tejer con hilo grueso.",
+      "consolidated_definition": "Aguja grande de zapatero.",
+      "en_consolidated_definition": "Large shoemaker's awl.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6629",
-        "semantic_similarity_score": 0.6629,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -41,17 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Aguja grande que usan los zapateros.",
-          "Aguja grande, roma, de metal, hueso, etc., que usan las mujeres para pasar la cinta por la jareta.",
-          "Aguja grande de zapatero.",
-          "Aguja grande, roma, usada para pasar cintas por las jaretas."
+          "Aguja grande de zapatero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Aguja grande: objeto utilizado por zapateros y mujeres para coser o tejer con hilo grueso."
+    "Aguja grande de zapatero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large shoemaker's awl."
+  ],
   "source": "https://tesoro.pr"
 }

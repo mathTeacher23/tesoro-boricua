@@ -3,15 +3,18 @@
   "term": "gusto cubano",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Sarpullido.",
+      "consolidated_definition": "Sarpullido: erupción cutánea caracterizada por la aparición de pequeñas pústulas o vesículas.",
+      "en_consolidated_definition": "Rash: cutaneous eruption characterized by the appearance of small pustules or vesicles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.9738",
         "semantic_similarity_score": 0.9738,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    ". Sarpullido."
+    "Sarpullido: erupción cutánea caracterizada por la aparición de pequeñas pústulas o vesículas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rash: cutaneous eruption characterized by the appearance of small pustules or vesicles."
+  ],
   "source": "https://tesoro.pr"
 }

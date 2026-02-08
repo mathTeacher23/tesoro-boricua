@@ -3,9 +3,12 @@
   "term": "petrones",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dólares",
+      "consolidated_definition": "Dólares. De uso muy limitado.",
+      "en_consolidated_definition": "US dollars. Of very limited use.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Dólares"
+    "Dólares. De uso muy limitado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "US dollars. Of very limited use."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ganso bobo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bien tonto",
+      "consolidated_definition": "Bien tonto.",
+      "en_consolidated_definition": "Utterly foolish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Bien tonto"
+    "Bien tonto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Utterly foolish."
+  ],
   "source": "https://tesoro.pr"
 }

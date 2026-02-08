@@ -3,14 +3,17 @@
   "term": "mapear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pasar el mapo",
+      "consolidated_definition": "Limpiar el piso restregándolo con un estropajo o trapo empapado en agua y jabón u otro líquido adecuado.",
+      "en_consolidated_definition": "Clean the floor by scrubbing it with a mop or cloth soaked in water and soap or another suitable liquid.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4795",
-        "semantic_similarity_score": 0.4795,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -60,19 +63,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Pasar el mapo. También mopear.",
-          "Lavar el piso con el mapo.",
-          "Pasar el mapo, lavar el piso.",
-          ". Trapear.",
-          "Trapear. Lavar el suelo con la ayuda de un mapo. Desvío semántico, usual. DRAE 2001: localizar y representar gráficamente la distribución relativa de las partes de un todo. “Lo tengo mapeando el local”, vocifera orgulloso este astuto personaje que durante cuatro años ha estado cambiando impresiones con Héctor Marcano en prácticamente todas sus producciones",
           "Limpiar el piso restregándolo con un estropajo o trapo empapado en agua y jabón u otro líquido adecuado."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "inform",
+      "consolidated_definition": "inform. Asociar con, traducir en, asignar a. Convertir las definiciones realizadas en IDL (Interface Definition Language) a estructuras pertenecientes a un lenguaje de programación real. Desvío semántico, poco frecuente. DRAE 2001: localizar y representar gráficamente la distribución relativa de las partes de un todo. El elemento que se encuentra detrás de esta “mágica” forma de soportar muchos lenguajes es el compilador CORBA-IDL, que traduce y hace el mapeo de la definición escrita usando IDL al lenguaje de programación que se usará para la implementación de la interfaz (UPR, Mayagüez, consultado 05-12-07)",
+      "en_consolidated_definition": "To associate with, translate into, assign to. To convert definitions made in IDL (Interface Definition Language) to structures belonging to a real programming language. Semantic deviation, infrequent. DRAE 2001: to locate and graphically represent the relative distribution of parts of a whole. The element behind this \"magical\" way of supporting many languages is the CORBA-IDL compiler, which translates and maps the definition written using IDL to the programming language that will be used for implementing the interface (University of Puerto Rico, Mayagüez, consulted 05-12-07)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -102,15 +103,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Asociar con, traducir en, asignar a. Convertir las definiciones realizadas en IDL a estructuras pertenecientes a un lenguaje de programación real. Desvío semántico, poco frecuente. DRAE 2001: localizar y representar gráficamente la distribución relativa de las partes de un todo. El elemento que se encuentra detrás de esta “mágica” forma de soportar muchos lenguajes es el compilador CORBA-IDL, que traduce y hace el mapeo de la definición escrita usando IDL al lenguaje de programación que se usará para la implementación de la interfaz"
+          "inform. Asociar con, traducir en, asignar a. Convertir las definiciones realizadas en IDL (Interface Definition Language) a estructuras pertenecientes a un lenguaje de programación real. Desvío semántico, poco frecuente. DRAE 2001: localizar y representar gráficamente la distribución relativa de las partes de un todo. El elemento que se encuentra detrás de esta “mágica” forma de soportar muchos lenguajes es el compilador CORBA-IDL, que traduce y hace el mapeo de la definición escrita usando IDL al lenguaje de programación que se usará para la implementación de la interfaz (UPR, Mayagüez, consultado 05-12-07)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Pasar el mapo",
-    "inform"
+    "Limpiar el piso restregándolo con un estropajo o trapo empapado en agua y jabón u otro líquido adecuado.",
+    "inform. Asociar con, traducir en, asignar a. Convertir las definiciones realizadas en IDL (Interface Definition Language) a estructuras pertenecientes a un lenguaje de programación real. Desvío semántico, poco frecuente. DRAE 2001: localizar y representar gráficamente la distribución relativa de las partes de un todo. El elemento que se encuentra detrás de esta “mágica” forma de soportar muchos lenguajes es el compilador CORBA-IDL, que traduce y hace el mapeo de la definición escrita usando IDL al lenguaje de programación que se usará para la implementación de la interfaz (UPR, Mayagüez, consultado 05-12-07)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Clean the floor by scrubbing it with a mop or cloth soaked in water and soap or another suitable liquid.",
+    "To associate with, translate into, assign to. To convert definitions made in IDL (Interface Definition Language) to structures belonging to a real programming language. Semantic deviation, infrequent. DRAE 2001: to locate and graphically represent the relative distribution of parts of a whole. The element behind this \"magical\" way of supporting many languages is the CORBA-IDL compiler, which translates and maps the definition written using IDL to the programming language that will be used for implementing the interface (University of Puerto Rico, Mayagüez, consulted 05-12-07)"
+  ],
   "source": "https://tesoro.pr"
 }

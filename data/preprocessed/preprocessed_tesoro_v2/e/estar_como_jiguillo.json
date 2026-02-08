@@ -3,15 +3,18 @@
   "term": "estar como jiguillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Encontrarse en estado de flacura",
+      "consolidated_definition": "Está en un estado de flacura o debilidad.",
+      "en_consolidated_definition": "En un estado de flacura o debilidad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5539",
         "semantic_similarity_score": 0.5539,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "locución verbal"
         ],
@@ -50,8 +53,10 @@
     }
   },
   "es_definitions": [
-    "Encontrarse en estado de flacura"
+    "Está en un estado de flacura o debilidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "En un estado de flacura o debilidad."
+  ],
   "source": "https://tesoro.pr"
 }

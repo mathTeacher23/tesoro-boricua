@@ -3,9 +3,12 @@
   "term": "sueñera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Modorra",
+      "consolidated_definition": "Modorra. Necesidad de dormir. Tendencia a dormirse.",
+      "en_consolidated_definition": "Somnolencia. Necessity to sleep. Tendency to fall asleep.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Modorra"
+    "Modorra. Necesidad de dormir. Tendencia a dormirse."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Somnolencia. Necessity to sleep. Tendency to fall asleep."
+  ],
   "source": "https://tesoro.pr"
 }

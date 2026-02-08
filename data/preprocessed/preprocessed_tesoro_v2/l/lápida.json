@@ -3,9 +3,12 @@
   "term": "lápida",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plancha de piedra o de hormigón que cubre",
+      "consolidated_definition": "Plancha de piedra o de hormigón que cubre una sepultura, con o sin inscripción. Laude.",
+      "en_consolidated_definition": "Granito or stone slab covering a grave, with or without inscription.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Plancha de piedra o de hormigón que cubre"
+    "Plancha de piedra o de hormigón que cubre una sepultura, con o sin inscripción. Laude."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Granito or stone slab covering a grave, with or without inscription."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "traspuntear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reñir de palabras dos personas, relacionado con un grupo",
+      "consolidated_definition": "Reñir entre dos personas: disputa verbal que mantiene su amistad.",
+      "en_consolidated_definition": "To quarrel between two people: verbal dispute that maintains their friendship.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5492",
         "semantic_similarity_score": 0.5492,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "verbo transitivo"
         ],
@@ -49,9 +52,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Tocar la guitarra o el cuatro aislando las, relacionado con una calificación",
+      "consolidated_definition": "Tocar la guitarra o el cuatro aislando las notas. Puntear.",
+      "en_consolidated_definition": "To play the guitar or cuatro while isolating individual notes. Strumming.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -89,9 +95,12 @@
     }
   },
   "es_definitions": [
-    "Reñir de palabras dos personas, relacionado con un grupo",
-    "Tocar la guitarra o el cuatro aislando las, relacionado con una calificación"
+    "Reñir entre dos personas: disputa verbal que mantiene su amistad.",
+    "Tocar la guitarra o el cuatro aislando las notas. Puntear."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To quarrel between two people: verbal dispute that maintains their friendship.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "To play the guitar or cuatro while isolating individual notes. Strumming."
+  ],
   "source": "https://tesoro.pr"
 }

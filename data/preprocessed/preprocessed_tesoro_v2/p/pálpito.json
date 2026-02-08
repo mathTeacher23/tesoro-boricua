@@ -3,9 +3,12 @@
   "term": "pálpito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Palpitación",
+      "consolidated_definition": "Palpitación, presentimiento, corazonada.",
+      "en_consolidated_definition": "Premonition, hunch, gut feeling.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Palpitación"
+    "Palpitación, presentimiento, corazonada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Premonition, hunch, gut feeling."
+  ],
   "source": "https://tesoro.pr"
 }

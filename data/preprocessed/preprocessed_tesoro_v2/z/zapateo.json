@@ -3,9 +3,12 @@
   "term": "zapateo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Baile nuevo",
+      "consolidated_definition": "Baile nuevo.",
+      "en_consolidated_definition": "New dance style.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Baile nuevo"
+    "Baile nuevo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "New dance style."
+  ],
   "source": "https://tesoro.pr"
 }

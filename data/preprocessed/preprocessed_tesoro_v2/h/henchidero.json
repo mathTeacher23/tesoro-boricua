@@ -3,15 +3,18 @@
   "term": "henchidero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Fuente hidráulica: lugar natural o artesanal donde se encuentra un manantial, pozo o fuente de agua que se utiliza como recurso para el abastecimiento y otros fines.",
+      "en_consolidated_definition": "Hydraulic source: natural or artisanal location where a spring, well, or water fountain is found, used as a resource for supply and other purposes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.426",
         "semantic_similarity_score": 0.426,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,8 +61,10 @@
     }
   },
   "es_definitions": [
-    "vulg"
+    "Fuente hidráulica: lugar natural o artesanal donde se encuentra un manantial, pozo o fuente de agua que se utiliza como recurso para el abastecimiento y otros fines."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hydraulic source: natural or artisanal location where a spring, well, or water fountain is found, used as a resource for supply and other purposes."
+  ],
   "source": "https://tesoro.pr"
 }

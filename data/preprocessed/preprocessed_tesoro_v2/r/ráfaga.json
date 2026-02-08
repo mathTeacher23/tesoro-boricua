@@ -3,9 +3,12 @@
   "term": "ráfaga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe de viento",
+      "consolidated_definition": "Golpe de viento.",
+      "en_consolidated_definition": "Wind gust or blast of wind.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Golpe de viento"
+    "Golpe de viento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wind gust or blast of wind."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "handball",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Balonmano",
+      "consolidated_definition": "Balonmano.",
+      "en_consolidated_definition": "Handball.\n\nNota: En algunos países de América Latina, como Puerto Rico, este deporte también se conoce como \"balonmano\" o simplemente \"handball\", pero en otros contextos puede referirse específicamente a la variante europea del juego.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Balonmano"
+    "Balonmano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Handball.\n\nNota: En algunos países de América Latina, como Puerto Rico, este deporte también se conoce como \"balonmano\" o simplemente \"handball\", pero en otros contextos puede referirse específicamente a la variante europea del juego."
+  ],
   "source": "https://tesoro.pr"
 }

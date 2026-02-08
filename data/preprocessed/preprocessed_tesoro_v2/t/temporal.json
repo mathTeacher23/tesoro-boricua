@@ -3,14 +3,17 @@
   "term": "temporal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tempestad",
+      "consolidated_definition": "Huracán. También tormenta, ciclón.",
+      "en_consolidated_definition": "Hurricane. Also storm, cyclone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1995",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5313",
-        "semantic_similarity_score": 0.5313,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tempestad. Ciclón.",
-          "Tempestad, borrasca, perturbación de las aguas del mar, causada por el ímpetu y violencia de los vientos . “La vendimoh dehpueh del temporal”, . También juracán, tormenta, ciclón.",
           "Huracán. También tormenta, ciclón."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tempestad"
+    "Huracán. También tormenta, ciclón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hurricane. Also storm, cyclone."
+  ],
   "source": "https://tesoro.pr"
 }

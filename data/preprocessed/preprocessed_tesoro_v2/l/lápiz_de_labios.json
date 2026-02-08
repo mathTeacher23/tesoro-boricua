@@ -3,9 +3,12 @@
   "term": "lápiz de labios",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Barrita de sustancia pastosa usada para colorar los",
+      "consolidated_definition": "Barrita de sustancia pastosa usada para colorar los labios. Algunos dicen lípstic.",
+      "en_consolidated_definition": "Lipstick is a bar of pasty substance used to color the lips. Some call it lipstic.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Barrita de sustancia pastosa usada para colorar los"
+    "Barrita de sustancia pastosa usada para colorar los labios. Algunos dicen lípstic."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lipstick is a bar of pasty substance used to color the lips. Some call it lipstic."
+  ],
   "source": "https://tesoro.pr"
 }

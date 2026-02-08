@@ -3,15 +3,18 @@
   "term": "pezón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para indicar el manojo de hojas que forman",
+      "consolidated_definition": "El término 'corona' se refiere al manojo de hojas que rodea la fruta de la piña.",
+      "en_consolidated_definition": "The term 'corona' refers to the cluster of leaves that surrounds the fruit of the pineapple.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.1442",
-        "semantic_similarity_score": 0.1442,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.1451",
+        "semantic_similarity_score": 0.1451,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,21 +42,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para indicar el manojo de hojas que forman la corona de la fruta aparecieron otras formas dispersas pezón, Patillas.",
+          "Para indicar el manojo de hojas que forman la corona de la fruta de la piña aparecieron ... otras formas dispersas ... pezón, Patillas.",
           "Semilla."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Para designar el cuello o tallo del racimo",
+      "consolidated_definition": "\"pezón\": término regional que designa el cuello o tallo del racimo de plátanos, utilizado en algunas regiones del centro y sur del país. Es un sustantivo.",
+      "en_consolidated_definition": "\"nipple\": regional term designating the neck or stalk of a banana bunch, used in some regions of central and southern parts of the country. It is a noun.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5323",
-        "semantic_similarity_score": 0.5323,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5278",
+        "semantic_similarity_score": 0.5278,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -86,7 +92,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para designar el cuello o tallo del racimo de plátanos se usaron los nombres de maslote, paslote y pezón. pezón en seis , en centro y sur.",
+          "Para designar el cuello o tallo del racimo de plátanos se usaron los nombres de maslote, paslote y pezón. Fue recogido pezón en seis lugares, en centro y sur.",
           "El cuello o tallo del racimo.",
           "“Paslote es donde están los racimos; pezón, la punta negra.” También paslote, maslote.",
           "Lo que queda cuando se corta el guineo."
@@ -94,9 +100,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Al retoño de la caña se le dan",
+      "consolidated_definition": "Al retoño de la caña se le dan numerosos nombres, empleados también en gran parte para designar el brote de cualquier otra planta ... Variantes menores fueron: ... pezón, Caguas, Patillas.",
+      "en_consolidated_definition": "The shoot of the cane is given numerous names, also used in large part to designate the sprout of any other plant... Minor variants were: nipple, Caguas, Patillas.\n\nNota: En este contexto, \"Caguas\" y \"Patillas\" se refieren a variantes regionales o dialectales de la palabra en cuestión.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -127,16 +136,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Al retoño de la caña se le dan numerosos nombres, empleados también en gran parte para designar el brote de cualquier otra planta Variantes menores fueron: pezón, Caguas, Patillas."
+          "Al retoño de la caña se le dan numerosos nombres, empleados también en gran parte para designar el brote de cualquier otra planta ... Variantes menores fueron: ... pezón, Caguas, Patillas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Para indicar el manojo de hojas que forman",
-    "Para designar el cuello o tallo del racimo",
-    "Al retoño de la caña se le dan"
+    "El término 'corona' se refiere al manojo de hojas que rodea la fruta de la piña.",
+    "\"pezón\": término regional que designa el cuello o tallo del racimo de plátanos, utilizado en algunas regiones del centro y sur del país. Es un sustantivo.",
+    "Al retoño de la caña se le dan numerosos nombres, empleados también en gran parte para designar el brote de cualquier otra planta ... Variantes menores fueron: ... pezón, Caguas, Patillas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The term 'corona' refers to the cluster of leaves that surrounds the fruit of the pineapple.",
+    "\"nipple\": regional term designating the neck or stalk of a banana bunch, used in some regions of central and southern parts of the country. It is a noun.",
+    "The shoot of the cane is given numerous names, also used in large part to designate the sprout of any other plant... Minor variants were: nipple, Caguas, Patillas.\n\nNota: En este contexto, \"Caguas\" y \"Patillas\" se refieren a variantes regionales o dialectales de la palabra en cuestión."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "guante de oro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, distinción que merece el jugador defensivo que mejor se haya desempeñado en su posición durante la temporada.",
+      "en_consolidated_definition": "In baseball, distinction earned by the defensive player who has performed best in their position throughout the season.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, distinción que merece el jugador defensivo que mejor se haya desempeñado en su posición durante la temporada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, distinction earned by the defensive player who has performed best in their position throughout the season."
+  ],
   "source": "https://tesoro.pr"
 }

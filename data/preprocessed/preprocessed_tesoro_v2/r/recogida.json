@@ -3,9 +3,12 @@
   "term": "recogida",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En béisbol, captura de la pelota a ras de tierra.",
+      "en_consolidated_definition": "Ground ball catch \n\nNota: En este contexto, \"ground ball\" se refiere a una pelota que ha sido golpeada y cae cerca del suelo, lo cual es un término común en el béisbol estadounidense. Sin embargo, si se desea preservar la terminología específica de Puerto Rico, podría traducirse como \"captura de bola terrestre\" o \"ground ball catch\", manteniendo el contexto cultural y deportivo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Acción y efecto de cosechar café",
+      "consolidated_definition": "Acción y efecto de cosechar café.",
+      "en_consolidated_definition": "Coffee harvest action and effect.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "En béisbol",
-    "Acción y efecto de cosechar café"
+    "En béisbol, captura de la pelota a ras de tierra.",
+    "Acción y efecto de cosechar café."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ground ball catch \n\nNota: En este contexto, \"ground ball\" se refiere a una pelota que ha sido golpeada y cae cerca del suelo, lo cual es un término común en el béisbol estadounidense. Sin embargo, si se desea preservar la terminología específica de Puerto Rico, podría traducirse como \"captura de bola terrestre\" o \"ground ball catch\", manteniendo el contexto cultural y deportivo.",
+    "Coffee harvest action and effect."
+  ],
   "source": "https://tesoro.pr"
 }

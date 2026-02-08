@@ -3,15 +3,18 @@
   "term": "atrochar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol, atrapar la pelota con la trocha del cacher es un movimiento fundamental para evitar que la pelota escape o sea anotada como carrera.",
+      "consolidated_definition": "En beisbol, atrapar la pelota con la trocha del cácher.",
+      "en_consolidated_definition": "In baseball, to catch the ball with the catcher's mitt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En béisbol, atrapar la pelota con la trocha del cacher es un movimiento fundamental para evitar que la pelota escape o sea anotada como carrera."
+    "En beisbol, atrapar la pelota con la trocha del cácher."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, to catch the ball with the catcher's mitt."
+  ],
   "source": "https://tesoro.pr"
 }

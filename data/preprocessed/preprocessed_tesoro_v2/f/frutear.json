@@ -3,9 +3,12 @@
   "term": "frutear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comer frutas",
+      "consolidated_definition": "Comer frutas, especialmente en el campo tomándolas de los árboles.",
+      "en_consolidated_definition": "To eat fruits, especially in the countryside by picking them from trees.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Comer frutas"
+    "Comer frutas, especialmente en el campo tomándolas de los árboles."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To eat fruits, especially in the countryside by picking them from trees."
+  ],
   "source": "https://tesoro.pr"
 }

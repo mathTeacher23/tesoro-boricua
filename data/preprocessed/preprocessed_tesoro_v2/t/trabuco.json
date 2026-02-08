@@ -3,9 +3,12 @@
   "term": "trabuco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Revólver viejo y en mal estado",
+      "consolidated_definition": "Revólver viejo y en mal estado.",
+      "en_consolidated_definition": "Old and worn-out revolver.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Revólver viejo y en mal estado"
+    "Revólver viejo y en mal estado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Old and worn-out revolver."
+  ],
   "source": "https://tesoro.pr"
 }

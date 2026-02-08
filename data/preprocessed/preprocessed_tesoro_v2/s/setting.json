@@ -3,14 +3,17 @@
   "term": "setting",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Formato",
+      "consolidated_definition": "Formato, base.",
+      "en_consolidated_definition": "Format, base.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5579",
-        "semantic_similarity_score": 0.5579,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Formato, base.",
-          "Esquema, modelo, configuración. Preparación de un contexto, escenario o esquema para que algo se dé. Término comodín que se usa para cosas diversas. Anglicismo crudo, frecuente. Hace algún tiempo, un amigo poeta me hizo ver algo extraño en Al norte del infierno: los personajes están en el aire, me dijo, no tienen un espacio adonde asirse, no tienen una plataforma que los recoja, no hay un setting demarcado o descrito donde ocurra la acción argumental. En efecto, los personajes de esta obra están en el aire",
           "Formato, base."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Peinado",
+      "consolidated_definition": "Peinado. Limpieza y arreglo del cabello femenino que se realiza en la peluquería. Anglicismo crudo, frecuente. A pesar de tener cerca de setenta años visitaban el beauty parlor todas las semanas para teñirse y hacerse el setting",
+      "en_consolidated_definition": "Hairstyling. The grooming and styling of female hair that is performed at a beauty parlor or barber shop. A colloquialism often used in Puerto Rican culture, referring to regular visits for hair coloring and setting.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -90,9 +94,12 @@
     }
   },
   "es_definitions": [
-    "Formato",
-    "Peinado"
+    "Formato, base.",
+    "Peinado. Limpieza y arreglo del cabello femenino que se realiza en la peluquería. Anglicismo crudo, frecuente. A pesar de tener cerca de setenta años visitaban el beauty parlor todas las semanas para teñirse y hacerse el setting"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Format, base.",
+    "Hairstyling. The grooming and styling of female hair that is performed at a beauty parlor or barber shop. A colloquialism often used in Puerto Rican culture, referring to regular visits for hair coloring and setting."
+  ],
   "source": "https://tesoro.pr"
 }

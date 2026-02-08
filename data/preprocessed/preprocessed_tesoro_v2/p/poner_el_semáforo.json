@@ -3,9 +3,12 @@
   "term": "poner el semáforo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Servir aceite y vinagre",
+      "consolidated_definition": "Servir aceite y vinagre.",
+      "en_consolidated_definition": "Serve oil and vinegar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Servir aceite y vinagre"
+    "Servir aceite y vinagre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Serve oil and vinegar."
+  ],
   "source": "https://tesoro.pr"
 }

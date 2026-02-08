@@ -3,14 +3,17 @@
   "term": "escogencia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Escogida",
+      "consolidated_definition": "Conjunto de productos.",
+      "en_consolidated_definition": "Collection of products.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.319",
-        "semantic_similarity_score": 0.319,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Escogida.",
           "Conjunto de productos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Proceso de selección de las hojas del tabaco",
+      "consolidated_definition": "Proceso de selección de las hojas del tabaco.",
+      "en_consolidated_definition": "Leaf selection process of tobacco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -83,9 +88,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Sitio",
+      "consolidated_definition": "Sitio.",
+      "en_consolidated_definition": "Location \n\nNota: En este caso, la palabra \"sitio\" puede tener diferentes significados dependiendo del contexto en el que se utilice. Sin embargo, en un sentido general, se refiere a una ubicación o lugar específico. Si necesitas una traducción más específica, por favor proporciona más información sobre el contexto en el que se utiliza la palabra \"sitio\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -120,10 +128,14 @@
     }
   },
   "es_definitions": [
-    "Escogida",
-    "Proceso de selección de las hojas del tabaco",
-    "Sitio"
+    "Conjunto de productos.",
+    "Proceso de selección de las hojas del tabaco.",
+    "Sitio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Collection of products.",
+    "Leaf selection process of tobacco.",
+    "Location \n\nNota: En este caso, la palabra \"sitio\" puede tener diferentes significados dependiendo del contexto en el que se utilice. Sin embargo, en un sentido general, se refiere a una ubicación o lugar específico. Si necesitas una traducción más específica, por favor proporciona más información sobre el contexto en el que se utiliza la palabra \"sitio\"."
+  ],
   "source": "https://tesoro.pr"
 }

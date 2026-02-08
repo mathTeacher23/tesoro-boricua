@@ -3,9 +3,12 @@
   "term": "loquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cerrar con llave o candado",
+      "consolidated_definition": "Cerrar con llave o candado.",
+      "en_consolidated_definition": "To lock with a key or padlock.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Cerrar con llave o candado"
+    "Cerrar con llave o candado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To lock with a key or padlock."
+  ],
   "source": "https://tesoro.pr"
 }

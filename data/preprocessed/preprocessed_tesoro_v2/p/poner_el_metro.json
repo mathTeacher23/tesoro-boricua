@@ -3,9 +3,12 @@
   "term": "poner el metro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "iniciar la bajada de la algo",
+      "consolidated_definition": "Iniciar la bajada de la banderita en un taxi.",
+      "en_consolidated_definition": "Lower the flag in a taxi as an indication to start descending.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "iniciar la bajada de la algo"
+    "Iniciar la bajada de la banderita en un taxi."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lower the flag in a taxi as an indication to start descending."
+  ],
   "source": "https://tesoro.pr"
 }

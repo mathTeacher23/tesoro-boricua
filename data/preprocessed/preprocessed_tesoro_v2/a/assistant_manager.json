@@ -3,15 +3,18 @@
   "term": "assistant manager",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que asistente al gerente o jefe en la toma de decisiones y el desarrollo de estrategias dentro de una organización.",
+      "consolidated_definition": "Ayudante de gerente.",
+      "en_consolidated_definition": "Assistant de gerente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5743",
-        "semantic_similarity_score": 0.5743,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Asistente de gerente y jefe.",
           "Ayudante de gerente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que asistente al gerente o jefe en la toma de decisiones y el desarrollo de estrategias dentro de una organización."
+    "Ayudante de gerente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Assistant de gerente."
+  ],
   "source": "https://tesoro.pr"
 }

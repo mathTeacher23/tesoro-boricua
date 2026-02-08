@@ -3,9 +3,12 @@
   "term": "notarizar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dar valor notarial a un una calificación",
+      "consolidated_definition": "Dar valor notarial a un documento.",
+      "en_consolidated_definition": "To affix a notarial value to a document.\n\nNota: En este contexto, \"notarial\" se refiere a un documento autenticado por un notario público en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "dar valor notarial a un una calificación"
+    "Dar valor notarial a un documento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To affix a notarial value to a document.\n\nNota: En este contexto, \"notarial\" se refiere a un documento autenticado por un notario público en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

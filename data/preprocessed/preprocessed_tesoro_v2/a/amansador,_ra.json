@@ -3,15 +3,18 @@
   "term": "amansador, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Amaestrador de caballos y otros animales.",
+      "consolidated_definition": "Domador de caballos y de otros animales.",
+      "en_consolidated_definition": "Equine and other animal handler or trainer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8887",
-        "semantic_similarity_score": 0.8887,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -40,21 +43,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Amaestrador de caballos y otros animales.",
           "Domador de caballos y de otros animales."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que se considera atractiva o guapo en un contexto informal y local.",
+      "consolidated_definition": "Valentón de barrio.",
+      "en_consolidated_definition": "Neighborhood valentón.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6748",
-        "semantic_similarity_score": 0.6748,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -83,16 +88,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Guapetón de barrio. Ú. t. c. s.",
           "Valentón de barrio."
         ]
       }
     }
   },
   "es_definitions": [
-    "Amaestrador de caballos y otros animales.",
-    "Persona que se considera atractiva o guapo en un contexto informal y local."
+    "Domador de caballos y de otros animales.",
+    "Valentón de barrio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Equine and other animal handler or trainer.",
+    "Neighborhood valentón."
+  ],
   "source": "https://tesoro.pr"
 }

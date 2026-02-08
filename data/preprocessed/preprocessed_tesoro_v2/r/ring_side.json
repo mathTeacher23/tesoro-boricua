@@ -3,9 +3,12 @@
   "term": "ring side",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asiento de primera fila ante un cuadrilátero de",
+      "consolidated_definition": "Asiento de primera fila ante un cuadrilátero de boxeo.",
+      "en_consolidated_definition": "Front-row seat at a boxing quadrangle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Asiento de primera fila ante un cuadrilátero de"
+    "Asiento de primera fila ante un cuadrilátero de boxeo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Front-row seat at a boxing quadrangle."
+  ],
   "source": "https://tesoro.pr"
 }

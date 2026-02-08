@@ -3,9 +3,12 @@
   "term": "encaladora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la industria azucarera",
+      "consolidated_definition": "En la industria azucarera, utensilio para añadir sal al guarapo que sale del molino.",
+      "en_consolidated_definition": "In the sugar industry, tool for adding salt to the sugarcane juice extracted from the mill.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En la industria azucarera"
+    "En la industria azucarera, utensilio para añadir sal al guarapo que sale del molino."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the sugar industry, tool for adding salt to the sugarcane juice extracted from the mill."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "ratear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acusar",
+      "consolidated_definition": "\"Acusar\": persona que denuncia o imputa a alguien la comisión de un delito o falta, generalmente ante las autoridades competentes.",
+      "en_consolidated_definition": "Accuser: a person who reports or accuses someone of committing a crime or offense, typically to the relevant authorities.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3478",
         "semantic_similarity_score": 0.3478,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "verbo transitivo"
         ],
@@ -52,8 +55,10 @@
     }
   },
   "es_definitions": [
-    "Acusar"
+    "\"Acusar\": persona que denuncia o imputa a alguien la comisión de un delito o falta, generalmente ante las autoridades competentes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Accuser: a person who reports or accuses someone of committing a crime or offense, typically to the relevant authorities."
+  ],
   "source": "https://tesoro.pr"
 }

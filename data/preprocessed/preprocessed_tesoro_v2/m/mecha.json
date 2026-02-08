@@ -3,9 +3,12 @@
   "term": "mecha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deuda grande de dinero a pagar a plazos",
+      "consolidated_definition": "Deuda grande de dinero a pagar a plazos.",
+      "en_consolidated_definition": "Large outstanding debt to be paid in installments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Torcida",
+      "consolidated_definition": "Torcida. Pabilo.",
+      "en_consolidated_definition": "Cheer section. Wick or wick end.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Broca para un taladro",
+      "consolidated_definition": "Broca para un taladro.",
+      "en_consolidated_definition": "Drill bit for a drill.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -112,10 +121,14 @@
     }
   },
   "es_definitions": [
-    "Deuda grande de dinero a pagar a plazos",
-    "Torcida",
-    "Broca para un taladro"
+    "Deuda grande de dinero a pagar a plazos.",
+    "Torcida. Pabilo.",
+    "Broca para un taladro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large outstanding debt to be paid in installments.",
+    "Cheer section. Wick or wick end.",
+    "Drill bit for a drill."
+  ],
   "source": "https://tesoro.pr"
 }

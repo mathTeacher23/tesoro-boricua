@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Edificio o sitio en que se ordeña.",
+      "en_consolidated_definition": "Dairy building or site.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,6 +47,8 @@
   "es_definitions": [
     ". Edificio o sitio en que se ordeña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dairy building or site."
+  ],
   "source": "https://tesoro.pr"
 }

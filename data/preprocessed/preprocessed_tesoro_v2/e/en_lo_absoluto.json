@@ -3,9 +3,12 @@
   "term": "en lo absoluto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No",
+      "consolidated_definition": "No, de ninguna manera.",
+      "en_consolidated_definition": "By no means whatsoever.\n\n(By extension) Not at all; in no way; not even remotely.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "No"
+    "No, de ninguna manera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "By no means whatsoever.\n\n(By extension) Not at all; in no way; not even remotely."
+  ],
   "source": "https://tesoro.pr"
 }

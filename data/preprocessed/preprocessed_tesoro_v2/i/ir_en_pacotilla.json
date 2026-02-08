@@ -3,9 +3,12 @@
   "term": "ir en pacotilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se aplica a los paseantes que van en, relacionado con un grupo",
+      "consolidated_definition": "Se aplica a los paseantes que van en grupo.",
+      "en_consolidated_definition": "This term applies to pedestrians who walk in groups.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Se aplica a los paseantes que van en, relacionado con un grupo"
+    "Se aplica a los paseantes que van en grupo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This term applies to pedestrians who walk in groups."
+  ],
   "source": "https://tesoro.pr"
 }

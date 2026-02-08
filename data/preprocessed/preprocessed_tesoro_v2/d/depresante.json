@@ -3,9 +3,12 @@
   "term": "depresante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Depresivo",
+      "consolidated_definition": "Depresivo. Deprimente. “Su acción fisiológica es depresante del sistema nervioso.”",
+      "en_consolidated_definition": "Depressive. Depressing. \"Its physiological action is depressant to the nervous system.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Depresivo"
+    "Depresivo. Deprimente. “Su acción fisiológica es depresante del sistema nervioso.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Depressive. Depressing. \"Its physiological action is depressant to the nervous system.\""
+  ],
   "source": "https://tesoro.pr"
 }

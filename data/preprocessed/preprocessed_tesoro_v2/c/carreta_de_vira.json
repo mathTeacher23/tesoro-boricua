@@ -3,15 +3,18 @@
   "term": "carreta de vira",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En algunas regiones, como Rosario Alto, el volquete se conoce comúnmente por este nombre.",
+      "consolidated_definition": "Al volquete se le conoce con ese nombre en Rosario Alto.",
+      "en_consolidated_definition": "In Rosario Alto, it is known as a dump truck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En algunas regiones, como Rosario Alto, el volquete se conoce comúnmente por este nombre."
+    "Al volquete se le conoce con ese nombre en Rosario Alto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In Rosario Alto, it is known as a dump truck."
+  ],
   "source": "https://tesoro.pr"
 }

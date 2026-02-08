@@ -3,9 +3,12 @@
   "term": "tablero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tablilla o anaquel grande",
+      "consolidated_definition": "Tablilla o anaquel grande.",
+      "en_consolidated_definition": "Large shelf or bookcase.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tablilla o anaquel grande"
+    "Tablilla o anaquel grande."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large shelf or bookcase."
+  ],
   "source": "https://tesoro.pr"
 }

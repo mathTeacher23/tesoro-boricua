@@ -3,9 +3,12 @@
   "term": "flash light",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver flashlight",
+      "consolidated_definition": "Ver flashlight .",
+      "en_consolidated_definition": "See flashlight.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver flashlight"
+    "Ver flashlight ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See flashlight."
+  ],
   "source": "https://tesoro.pr"
 }

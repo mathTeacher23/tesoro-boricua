@@ -3,9 +3,12 @@
   "term": "relancino, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Raro",
+      "consolidated_definition": "Raro, que sucede muy pocas veces.",
+      "en_consolidated_definition": "Infrequent, occurring very rarely.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Raro"
+    "Raro, que sucede muy pocas veces."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Infrequent, occurring very rarely."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "ascii",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La codificación americana estándar para el intercambio de información, también conocida como ASCII, es un conjunto de normas de codificación utilizado en informática y telecomunicaciones que permite representar caracteres y símbolos mediante códigos numéricos.",
+      "consolidated_definition": "inform. Codificación Americana Estándar para Intercambio de Información. Conjunto de normas de codificación utilizado en informática y telecomunicación. Sigla anglicada, usual. Para no estar utilizando los códigos ASCII del programa, se pueden crear unas formas cortas o short cuts que le permiten escribir estas vocales acentuadas u otros símbolos que sean de uso frecuente (Universidad Interamericana, )",
+      "en_consolidated_definition": "American Standard Code for Information Interchange (ASCII). A set of coding standards used in computer science and telecommunications. The acronym is commonly used. To avoid using the ASCII codes from the program, shortcuts can be created to write accented vowels or other frequently used symbols that are not part of the standard keyboard layout (such as those found at the Universidad Interamericana).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La codificación americana estándar para el intercambio de información, también conocida como ASCII, es un conjunto de normas de codificación utilizado en informática y telecomunicaciones que permite representar caracteres y símbolos mediante códigos numéricos."
+    "inform. Codificación Americana Estándar para Intercambio de Información. Conjunto de normas de codificación utilizado en informática y telecomunicación. Sigla anglicada, usual. Para no estar utilizando los códigos ASCII del programa, se pueden crear unas formas cortas o short cuts que le permiten escribir estas vocales acentuadas u otros símbolos que sean de uso frecuente (Universidad Interamericana, )"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "American Standard Code for Information Interchange (ASCII). A set of coding standards used in computer science and telecommunications. The acronym is commonly used. To avoid using the ASCII codes from the program, shortcuts can be created to write accented vowels or other frequently used symbols that are not part of the standard keyboard layout (such as those found at the Universidad Interamericana)."
+  ],
   "source": "https://tesoro.pr"
 }

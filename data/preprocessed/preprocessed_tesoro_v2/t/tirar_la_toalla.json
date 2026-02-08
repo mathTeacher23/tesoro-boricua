@@ -3,9 +3,12 @@
   "term": "tirar la toalla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Interceder a favor de alguien",
+      "consolidated_definition": "Interceder a favor de alguien, encubrirlo.",
+      "en_consolidated_definition": "Intercede on behalf of someone, cover for them.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Interceder a favor de alguien"
+    "Interceder a favor de alguien, encubrirlo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Intercede on behalf of someone, cover for them."
+  ],
   "source": "https://tesoro.pr"
 }

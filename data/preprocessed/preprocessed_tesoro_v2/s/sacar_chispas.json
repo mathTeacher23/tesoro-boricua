@@ -3,9 +3,12 @@
   "term": "sacar chispas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pelear o discutir dos personas con igual posibilidad, relacionado con un grupo",
+      "consolidated_definition": "Pelear o discutir dos personas con igual posibilidad de vencer.",
+      "en_consolidated_definition": "To engage in a contest or dispute between two individuals with equal chances of winning.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Pelear o discutir dos personas con igual posibilidad, relacionado con un grupo"
+    "Pelear o discutir dos personas con igual posibilidad de vencer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To engage in a contest or dispute between two individuals with equal chances of winning."
+  ],
   "source": "https://tesoro.pr"
 }

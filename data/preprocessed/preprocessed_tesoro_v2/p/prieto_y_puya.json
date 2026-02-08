@@ -3,9 +3,12 @@
   "term": "prieto y puya",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Café negro sin azúcar",
+      "consolidated_definition": "Café negro sin azúcar.",
+      "en_consolidated_definition": "Black coffee without sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Café negro sin azúcar"
+    "Café negro sin azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Black coffee without sugar."
+  ],
   "source": "https://tesoro.pr"
 }

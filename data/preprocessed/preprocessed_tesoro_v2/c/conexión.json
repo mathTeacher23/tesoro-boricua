@@ -3,15 +3,18 @@
   "term": "conexión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que encabeza o dirige actividades ilícitas en organizaciones dedicadas al robo o delincuencia.",
+      "consolidated_definition": "Vendedor de drogas.",
+      "en_consolidated_definition": "Drug peddler \n\nNota: En algunos contextos, este término puede estar relacionado con el \"curandero\" o \"yerbero\", que en Puerto Rico se refiere a un vendedor de medicinas y remedios caseros, pero en este caso, la definición se centra específicamente en el tráfico de drogas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6249",
-        "semantic_similarity_score": 0.6249,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,17 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Jefe de las organizaciones que se dedican a robar.",
-          "El que vende droga.",
-          "Vendedor de drogas.",
-          "Jefe de las organizaciones que se dedican a robar."
+          "Vendedor de drogas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que encabeza o dirige actividades ilícitas en organizaciones dedicadas al robo o delincuencia."
+    "Vendedor de drogas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Drug peddler \n\nNota: En algunos contextos, este término puede estar relacionado con el \"curandero\" o \"yerbero\", que en Puerto Rico se refiere a un vendedor de medicinas y remedios caseros, pero en este caso, la definición se centra específicamente en el tráfico de drogas."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "desempacar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deshacer una maleta o el equipaje",
+      "consolidated_definition": "Deshacer una maleta o el equipaje.",
+      "en_consolidated_definition": "To unpack one's luggage or baggage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Deshacer una maleta o el equipaje"
+    "Deshacer una maleta o el equipaje."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To unpack one's luggage or baggage."
+  ],
   "source": "https://tesoro.pr"
 }

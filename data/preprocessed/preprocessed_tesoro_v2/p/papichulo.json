@@ -3,9 +3,12 @@
   "term": "papichulo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombre que",
+      "consolidated_definition": "Hombre que, por su atractivo físico, es objeto de deseo de una mujer.",
+      "en_consolidated_definition": "Man (often object of desire due to physical attractiveness)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Hombre que"
+    "Hombre que, por su atractivo físico, es objeto de deseo de una mujer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Man (often object of desire due to physical attractiveness)"
+  ],
   "source": "https://tesoro.pr"
 }

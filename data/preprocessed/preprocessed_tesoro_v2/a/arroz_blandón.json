@@ -3,15 +3,18 @@
   "term": "arroz blandón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arroz cocido que no es granoso y conserva una cierta humedad.",
+      "consolidated_definition": "Arroz cocido que no es granoso; con cierta humedad.",
+      "en_consolidated_definition": "Cooked rice that is not granular; with a certain degree of moisture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona blandengue: Individuo que tiende a ser indeciso o vacilante en sus decisiones y acciones.",
+      "consolidated_definition": "Persona blandengue.",
+      "en_consolidated_definition": "Person who is excessively lenient or soft in their dealings with others.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Arroz cocido que no es granoso y conserva una cierta humedad.",
-    "Persona blandengue: Individuo que tiende a ser indeciso o vacilante en sus decisiones y acciones."
+    "Arroz cocido que no es granoso; con cierta humedad.",
+    "Persona blandengue."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cooked rice that is not granular; with a certain degree of moisture.",
+    "Person who is excessively lenient or soft in their dealings with others."
+  ],
   "source": "https://tesoro.pr"
 }

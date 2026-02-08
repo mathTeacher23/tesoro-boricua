@@ -3,15 +3,18 @@
   "term": "puerquito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cliente que paga bien el servicio de la",
+      "consolidated_definition": "Cliente que paga bien el servicio de la prostituta.",
+      "en_consolidated_definition": "Client who pays well for the services of a prostitute.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.8034",
         "semantic_similarity_score": 0.8034,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -47,9 +50,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Artefacto eléctrico en forma de bobina que sirve",
+      "consolidated_definition": "Artefacto eléctrico en forma de bobina que sirve para auxiliar en el encendido del motor de un automóvil.",
+      "en_consolidated_definition": "Electrical device in the form of a coil that serves to assist in the ignition of an automobile engine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -85,9 +91,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Pez de la familia Balistidae",
+      "consolidated_definition": "Pez de la familia Balistidae (puercos). Xanthichthys ringens.",
+      "en_consolidated_definition": "Fish of the family Balistidae (porkfish). Xanthichthys ringens.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -116,16 +125,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez de la familia Balistidae . Xanthichthys ringens."
+          "Pez de la familia Balistidae (puercos). Xanthichthys ringens."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cliente que paga bien el servicio de la",
-    "Artefacto eléctrico en forma de bobina que sirve",
-    "Pez de la familia Balistidae"
+    "Cliente que paga bien el servicio de la prostituta.",
+    "Artefacto eléctrico en forma de bobina que sirve para auxiliar en el encendido del motor de un automóvil.",
+    "Pez de la familia Balistidae (puercos). Xanthichthys ringens."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Client who pays well for the services of a prostitute.",
+    "Electrical device in the form of a coil that serves to assist in the ignition of an automobile engine.",
+    "Fish of the family Balistidae (porkfish). Xanthichthys ringens."
+  ],
   "source": "https://tesoro.pr"
 }

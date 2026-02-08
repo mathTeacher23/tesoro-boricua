@@ -3,9 +3,12 @@
   "term": "muelle",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ensenada",
+      "consolidated_definition": "Ensenada.",
+      "en_consolidated_definition": "Cove or inlet of the sea, especially one that is partially enclosed by land and has a narrow entrance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Ensenada"
+    "Ensenada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cove or inlet of the sea, especially one that is partially enclosed by land and has a narrow entrance."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "cheque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Documento bancario que ordena el pago de fondos depositados en un banco.",
+      "consolidated_definition": "Talón, documento bancario. Orden escrita de pago para cobrar de los fondos que quien la expide tiene depositados en un banco. Anglicismo adaptado, usual. DRAE 2001, del inglés. Poco después le llegó un cheque modesto, pero a ella le pareció tan valioso que no lo quiso cambiar; lo enmarcó y lo colgó en la pared de su cuarto",
+      "en_consolidated_definition": "Talon, bank document. Written order of payment to draw from the funds that the issuer has deposited in a bank. Anglicism adapted, common. \n\nNota: En este contexto, \"talon\" se refiere a un documento bancario en español puertorriqueño, similar a un cheque o una orden de pago en inglés.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Documento bancario que ordena el pago de fondos depositados en un banco."
+    "Talón, documento bancario. Orden escrita de pago para cobrar de los fondos que quien la expide tiene depositados en un banco. Anglicismo adaptado, usual. DRAE 2001, del inglés. Poco después le llegó un cheque modesto, pero a ella le pareció tan valioso que no lo quiso cambiar; lo enmarcó y lo colgó en la pared de su cuarto"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Talon, bank document. Written order of payment to draw from the funds that the issuer has deposited in a bank. Anglicism adapted, common. \n\nNota: En este contexto, \"talon\" se refiere a un documento bancario en español puertorriqueño, similar a un cheque o una orden de pago en inglés."
+  ],
   "source": "https://tesoro.pr"
 }

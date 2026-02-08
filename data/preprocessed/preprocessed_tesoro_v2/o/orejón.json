@@ -3,9 +3,12 @@
   "term": "orejón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plátano maduro prensado",
+      "consolidated_definition": "Plátano maduro prensado, seco al sol.",
+      "en_consolidated_definition": "Ripe plantain pressed and dried in the sun.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Plátano maduro prensado"
+    "Plátano maduro prensado, seco al sol."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ripe plantain pressed and dried in the sun."
+  ],
   "source": "https://tesoro.pr"
 }

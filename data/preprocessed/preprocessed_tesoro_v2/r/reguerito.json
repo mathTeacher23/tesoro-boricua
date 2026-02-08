@@ -3,9 +3,12 @@
   "term": "reguerito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio donde se han regado semillas para hacer",
+      "consolidated_definition": "Sitio donde se han regado semillas para hacer un semilladero pequeño.",
+      "en_consolidated_definition": "Area where seeds have been sown to create a small seedbed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Sitio donde se han regado semillas para hacer"
+    "Sitio donde se han regado semillas para hacer un semilladero pequeño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area where seeds have been sown to create a small seedbed."
+  ],
   "source": "https://tesoro.pr"
 }

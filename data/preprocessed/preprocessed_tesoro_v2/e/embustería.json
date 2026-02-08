@@ -3,9 +3,12 @@
   "term": "embustería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Serie de embustes",
+      "consolidated_definition": "Serie de embustes. Mentiras.",
+      "en_consolidated_definition": "Series of falsehoods or lies.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Serie de embustes"
+    "Serie de embustes. Mentiras."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Series of falsehoods or lies."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "volanta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Volante o rueda grande",
+      "consolidated_definition": "Parte circular que gira alrededor de un eje, generalmente utilizado como elemento de movimiento en vehículos y máquinas.",
+      "en_consolidated_definition": "Circular component that rotates around an axis, commonly used as a moving element in vehicles and machines.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3883",
         "semantic_similarity_score": 0.3883,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Volante o rueda grande"
+    "Parte circular que gira alrededor de un eje, generalmente utilizado como elemento de movimiento en vehículos y máquinas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Circular component that rotates around an axis, commonly used as a moving element in vehicles and machines."
+  ],
   "source": "https://tesoro.pr"
 }

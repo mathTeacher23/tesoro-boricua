@@ -3,9 +3,12 @@
   "term": "deep frier",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver deep fryer",
+      "consolidated_definition": "Ver deep fryer .",
+      "en_consolidated_definition": "Deep fryer is a synonym for freidora.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver deep fryer"
+    "Ver deep fryer ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Deep fryer is a synonym for freidora."
+  ],
   "source": "https://tesoro.pr"
 }

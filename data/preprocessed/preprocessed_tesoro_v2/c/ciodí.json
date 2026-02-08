@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "El envío anticipado de una mercancía que se paga al recibir la misma.",
+      "en_consolidated_definition": "Prepayment shipment of goods that is paid for upon receipt.\n\nNota: En este caso, no se utilizan términos culturales específicos de Puerto Rico en la definición original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -48,6 +51,8 @@
   "es_definitions": [
     "El envío anticipado de una mercancía que se paga al recibir la misma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Prepayment shipment of goods that is paid for upon receipt.\n\nNota: En este caso, no se utilizan términos culturales específicos de Puerto Rico en la definición original."
+  ],
   "source": "https://tesoro.pr"
 }

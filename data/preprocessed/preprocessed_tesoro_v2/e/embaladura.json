@@ -3,14 +3,17 @@
   "term": "embaladura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada en otros países de Hispanoamérica",
+      "consolidated_definition": "Embalaje, acción de embalar los objetos que han de transportarse.",
+      "en_consolidated_definition": "Packaging, the act of packaging objects intended for transportation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4732",
-        "semantic_similarity_score": 0.4732,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Voz usada en otros países de Hispanoamérica. Embalaje.",
           "Embalaje, acción de embalar los objetos que han de transportarse."
         ]
       }
     }
   },
   "es_definitions": [
-    "Voz usada en otros países de Hispanoamérica"
+    "Embalaje, acción de embalar los objetos que han de transportarse."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Packaging, the act of packaging objects intended for transportation."
+  ],
   "source": "https://tesoro.pr"
 }

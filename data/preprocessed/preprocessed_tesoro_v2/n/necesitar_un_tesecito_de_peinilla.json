@@ -3,9 +3,12 @@
   "term": "necesitar un tesecito de peinilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de quien tiene carraspera",
+      "consolidated_definition": "Se dice de quien tiene carraspera.",
+      "en_consolidated_definition": "Someone who has a chronic cough or is prone to coughing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Se dice de quien tiene carraspera"
+    "Se dice de quien tiene carraspera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Someone who has a chronic cough or is prone to coughing."
+  ],
   "source": "https://tesoro.pr"
 }

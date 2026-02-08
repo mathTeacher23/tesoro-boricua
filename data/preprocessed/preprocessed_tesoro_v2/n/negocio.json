@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Caso, hecho, lo cierto, etc., para reproducir o explicar una circunstancia antes enunciada. “Juan dice que está enfermo, pero el negocio es que no quiere venir.”",
+      "en_consolidated_definition": "Circumstance or fact used to reproduce or explain a previously stated situation. \"Juan says he is ill, but the point is that he does not want to come.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,6 +45,8 @@
   "es_definitions": [
     ". Caso, hecho, lo cierto, etc., para reproducir o explicar una circunstancia antes enunciada. “Juan dice que está enfermo, pero el negocio es que no quiere venir.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Circumstance or fact used to reproduce or explain a previously stated situation. \"Juan says he is ill, but the point is that he does not want to come.\""
+  ],
   "source": "https://tesoro.pr"
 }

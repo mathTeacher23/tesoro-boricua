@@ -3,15 +3,18 @@
   "term": "cholo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plátano o guineo pequeño: fruto tropical más pequeño de la mata del plátano.",
+      "consolidated_definition": "Fruto más pequeño de la mata del plátano.",
+      "en_consolidated_definition": "Smaller fruit of the banana plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7832",
-        "semantic_similarity_score": 0.7832,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,16 +49,16 @@
           "escholar"
         ],
         "reference_definitions": [
-          "Los plátanos o guineos más pequeños del racimo.",
-          "Los frutos más pequeños en las matas de plátanos o guineos.",
           "Fruto más pequeño de la mata del plátano."
         ]
       }
     }
   },
   "es_definitions": [
-    "Plátano o guineo pequeño: fruto tropical más pequeño de la mata del plátano."
+    "Fruto más pequeño de la mata del plátano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Smaller fruit of the banana plant."
+  ],
   "source": "https://tesoro.pr"
 }

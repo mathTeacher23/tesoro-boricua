@@ -3,9 +3,12 @@
   "term": "vellera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vellosidad",
+      "consolidated_definition": "Vellosidad.",
+      "en_consolidated_definition": "Vellosidad: \n\nFuzziness; fluffiness; or a state of being covered with fine hairs or fibers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Vellosidad"
+    "Vellosidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Vellosidad: \n\nFuzziness; fluffiness; or a state of being covered with fine hairs or fibers."
+  ],
   "source": "https://tesoro.pr"
 }

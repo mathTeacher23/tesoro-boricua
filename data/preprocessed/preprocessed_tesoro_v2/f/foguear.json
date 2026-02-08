@@ -3,9 +3,12 @@
   "term": "foguear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Entrenar con gran vehemencia",
+      "consolidated_definition": "Entrenar con gran vehemencia. Aplícase especialmente a los atletas y otros deportistas.",
+      "en_consolidated_definition": "Train with great fervor. It is especially applied to athletes and other sportsmen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Entrenar con gran vehemencia"
+    "Entrenar con gran vehemencia. Aplícase especialmente a los atletas y otros deportistas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Train with great fervor. It is especially applied to athletes and other sportsmen."
+  ],
   "source": "https://tesoro.pr"
 }

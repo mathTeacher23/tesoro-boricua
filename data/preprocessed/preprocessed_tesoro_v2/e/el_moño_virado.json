@@ -3,9 +3,12 @@
   "term": "el moño virado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Disgusto",
+      "consolidated_definition": "Disgusto, incomodidad.",
+      "en_consolidated_definition": "Discomfort, unease.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Disgusto"
+    "Disgusto, incomodidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Discomfort, unease."
+  ],
   "source": "https://tesoro.pr"
 }

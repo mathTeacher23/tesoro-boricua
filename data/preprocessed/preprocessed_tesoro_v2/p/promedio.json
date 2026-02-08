@@ -3,9 +3,12 @@
   "term": "promedio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rendimiento, relacionado con una calificación",
+      "consolidated_definition": "Rendimiento. Beneficio en un negocio. Nota media.",
+      "en_consolidated_definition": "Performance. Profit in a business. Average grade.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Rendimiento, relacionado con una calificación"
+    "Rendimiento. Beneficio en un negocio. Nota media."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Performance. Profit in a business. Average grade."
+  ],
   "source": "https://tesoro.pr"
 }

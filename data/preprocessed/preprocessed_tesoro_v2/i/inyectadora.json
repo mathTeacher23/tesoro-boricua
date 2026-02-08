@@ -3,9 +3,12 @@
   "term": "inyectadora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inyectador o inyector",
+      "consolidated_definition": "Inyectador o inyector.",
+      "en_consolidated_definition": "Injector or injector.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Inyectador o inyector"
+    "Inyectador o inyector."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Injector or injector."
+  ],
   "source": "https://tesoro.pr"
 }

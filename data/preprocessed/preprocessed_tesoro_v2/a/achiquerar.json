@@ -3,15 +3,18 @@
   "term": "achiquerar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "atar, sujetar a un animal durante la noche sin alimentarlo ni darle de beber para reducir su peso antes de ser vendido.",
+      "consolidated_definition": "Atar, sujetar alguien a un animal, sin darle de comer ni de beber durante la noche para que elimine peso, antes de ser vendido.",
+      "en_consolidated_definition": "To fasten or restrain an animal to a person, withholding food and water overnight in order for the animal to lose weight before being sold.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "atar, sujetar a un animal durante la noche sin alimentarlo ni darle de beber para reducir su peso antes de ser vendido."
+    "Atar, sujetar alguien a un animal, sin darle de comer ni de beber durante la noche para que elimine peso, antes de ser vendido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To fasten or restrain an animal to a person, withholding food and water overnight in order for the animal to lose weight before being sold."
+  ],
   "source": "https://tesoro.pr"
 }

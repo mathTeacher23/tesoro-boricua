@@ -3,15 +3,18 @@
   "term": "abuso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Artrópodo pequeño de ocho patas, perteneciente a la familia Trombiculidae y al género Trombicula, de color rojizo.",
+      "consolidated_definition": "Artrópodo casi microscópico de ocho patas y de color rojizo. Trombiculidae; Trombicula spp.",
+      "en_consolidated_definition": "Microscopic arthropod with eight legs and reddish color. Family Trombiculidae; genus Trombicula spp.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Artrópodo pequeño de ocho patas, perteneciente a la familia Trombiculidae y al género Trombicula, de color rojizo."
+    "Artrópodo casi microscópico de ocho patas y de color rojizo. Trombiculidae; Trombicula spp."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Microscopic arthropod with eight legs and reddish color. Family Trombiculidae; genus Trombicula spp."
+  ],
   "source": "https://tesoro.pr"
 }

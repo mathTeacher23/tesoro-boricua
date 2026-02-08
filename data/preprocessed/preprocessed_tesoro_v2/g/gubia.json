@@ -3,9 +3,12 @@
   "term": "gubia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Formón de media caña para labrar superficies curvas",
+      "consolidated_definition": "Formón de media caña para labrar superficies curvas.",
+      "en_consolidated_definition": "Curved surface plow for working with half-length furrows.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Formón de media caña para labrar superficies curvas"
+    "Formón de media caña para labrar superficies curvas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Curved surface plow for working with half-length furrows."
+  ],
   "source": "https://tesoro.pr"
 }

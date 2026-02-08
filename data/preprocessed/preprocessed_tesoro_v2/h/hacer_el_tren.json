@@ -3,9 +3,12 @@
   "term": "hacer el tren",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bailar en fila agarrándose de la cintura",
+      "consolidated_definition": "Bailar en fila agarrándose de la cintura.",
+      "en_consolidated_definition": "Dance in a line holding onto the waist.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Bailar en fila agarrándose de la cintura"
+    "Bailar en fila agarrándose de la cintura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dance in a line holding onto the waist."
+  ],
   "source": "https://tesoro.pr"
 }

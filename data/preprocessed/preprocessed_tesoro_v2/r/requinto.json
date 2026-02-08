@@ -3,15 +3,18 @@
   "term": "requinto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Instrumento musical de tres cuerdas",
+      "consolidated_definition": "Instrumento musical de cuerda con tres cuerdas, similar a un tiple pero más pequeño.",
+      "en_consolidated_definition": "Instrument with three strings, similar to a tiple but smaller in size.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.522",
         "semantic_similarity_score": 0.522,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -49,8 +52,10 @@
     }
   },
   "es_definitions": [
-    "Instrumento musical de tres cuerdas"
+    "Instrumento musical de cuerda con tres cuerdas, similar a un tiple pero más pequeño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Instrument with three strings, similar to a tiple but smaller in size."
+  ],
   "source": "https://tesoro.pr"
 }

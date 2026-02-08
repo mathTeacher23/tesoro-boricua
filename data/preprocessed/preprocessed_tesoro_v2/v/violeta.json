@@ -3,15 +3,18 @@
   "term": "violeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Flor y mata",
+      "consolidated_definition": "Planta decorativa o flor.",
+      "en_consolidated_definition": "Decorative plant or flower.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.348",
-        "semantic_similarity_score": 0.348,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.3447",
+        "semantic_similarity_score": 0.3447,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -50,7 +53,7 @@
         "related_words": [],
         "reference_definitions": [
           "Flor y mata.",
-          "decorativa.",
+          "Planta decorativa.",
           "Flor.",
           "Árbol exclusivo de Puerto Rico. Mediano, de tronco gris. Echa flores en ramilletes, de color violeta y las semillas en cápsulas. Su madera es dura pero no se usa en ebanistería. También llamado palo de tortuga, palo de violeta, tortuga y tortuguero."
         ]
@@ -58,8 +61,10 @@
     }
   },
   "es_definitions": [
-    "Flor y mata"
+    "Planta decorativa o flor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Decorative plant or flower."
+  ],
   "source": "https://tesoro.pr"
 }

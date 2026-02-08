@@ -3,9 +3,12 @@
   "term": "pecho apretao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asma",
+      "consolidated_definition": "Asma.",
+      "en_consolidated_definition": "Asthma.\n\nNota: Para los fines de este diccionario, se refiere a una condición crónica del sistema respiratorio caracterizada por inflamación y obstrucción recurrente de las vías aéreas, que puede ser desencadenada por factores ambientales o genéticos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Asma"
+    "Asma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Asthma.\n\nNota: Para los fines de este diccionario, se refiere a una condición crónica del sistema respiratorio caracterizada por inflamación y obstrucción recurrente de las vías aéreas, que puede ser desencadenada por factores ambientales o genéticos."
+  ],
   "source": "https://tesoro.pr"
 }

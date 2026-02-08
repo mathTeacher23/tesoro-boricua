@@ -3,15 +3,18 @@
   "term": "arreglar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Menstruar\": proceso fisiológico caracterizado por el ciclo menstrual, que implica la expulsión de sangre y tejidos uterinos a través del vagino, experimentado por mujeres fértiles y algunas personas con gónadas intersexuales o no binarias, debido a cambios hormonales en el cuerpo.",
+      "consolidated_definition": "Menstruar.",
+      "en_consolidated_definition": "Menstruate \n\nNota: En algunos contextos culturales de Puerto Rico, este término puede referirse a la menstruación en general o a las reglas en español.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Castrar, procedimiento para eliminar la capacidad reproductiva en un animal macho, comúnmente aplicado a cerdos, caballos y perros.",
+      "consolidated_definition": "Castrar, capar un animal macho. Aplícase a ciertos cerdos, caballos y perros.",
+      "en_consolidated_definition": "To castrate or geld an animal of the male sex, particularly certain breeds of pigs, horses, and dogs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "\"Menstruar\": proceso fisiológico caracterizado por el ciclo menstrual, que implica la expulsión de sangre y tejidos uterinos a través del vagino, experimentado por mujeres fértiles y algunas personas con gónadas intersexuales o no binarias, debido a cambios hormonales en el cuerpo.",
-    "Castrar, procedimiento para eliminar la capacidad reproductiva en un animal macho, comúnmente aplicado a cerdos, caballos y perros."
+    "Menstruar.",
+    "Castrar, capar un animal macho. Aplícase a ciertos cerdos, caballos y perros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Menstruate \n\nNota: En algunos contextos culturales de Puerto Rico, este término puede referirse a la menstruación en general o a las reglas en español.",
+    "To castrate or geld an animal of the male sex, particularly certain breeds of pigs, horses, and dogs."
+  ],
   "source": "https://tesoro.pr"
 }

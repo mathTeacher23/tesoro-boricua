@@ -3,15 +3,18 @@
   "term": "pentecostés",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Secta religiosa basada en el cristianismo",
+      "consolidated_definition": "Denominación religiosa que se origina a partir del cristianismo y comparte creencias y prácticas con él.",
+      "en_consolidated_definition": "Christian denomination originating from Christianity and sharing beliefs and practices with it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5607",
         "semantic_similarity_score": 0.5607,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Secta religiosa basada en el cristianismo"
+    "Denominación religiosa que se origina a partir del cristianismo y comparte creencias y prácticas con él."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Christian denomination originating from Christianity and sharing beliefs and practices with it."
+  ],
   "source": "https://tesoro.pr"
 }

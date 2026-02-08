@@ -3,9 +3,12 @@
   "term": "juego de estrellas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, partido entre dos equipos formados por los mejores jugadores del campeonato.",
+      "en_consolidated_definition": "In baseball, a game between two teams composed of the best players from the championship.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, partido entre dos equipos formados por los mejores jugadores del campeonato."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a game between two teams composed of the best players from the championship."
+  ],
   "source": "https://tesoro.pr"
 }

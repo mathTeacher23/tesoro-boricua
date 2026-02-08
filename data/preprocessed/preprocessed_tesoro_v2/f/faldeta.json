@@ -3,15 +3,18 @@
   "term": "faldeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Camisa de hombre, especialmente usada para describir a un grupo de jóvenes insolentes o desvergonzados.",
+      "en_consolidated_definition": "Men's shirt, especially used to describe a group of young, insolent or shameless individuals.\n\nNota: En este contexto, el término \"jóvenes insolentes o desvergonzados\" se refiere a un grupo de jóvenes que se comportan con falta de respeto y decoro.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.6951",
         "semantic_similarity_score": 0.6951,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -58,9 +61,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Corte de carne de res",
+      "consolidated_definition": "Corte de carne de res. También dicen falda.",
+      "en_consolidated_definition": "Cut of beef; also known as flank.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -95,9 +101,12 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    "Corte de carne de res"
+    "Camisa de hombre, especialmente usada para describir a un grupo de jóvenes insolentes o desvergonzados.",
+    "Corte de carne de res. También dicen falda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Men's shirt, especially used to describe a group of young, insolent or shameless individuals.\n\nNota: En este contexto, el término \"jóvenes insolentes o desvergonzados\" se refiere a un grupo de jóvenes que se comportan con falta de respeto y decoro.",
+    "Cut of beef; also known as flank."
+  ],
   "source": "https://tesoro.pr"
 }

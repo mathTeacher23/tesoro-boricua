@@ -3,9 +3,12 @@
   "term": "flor de inodoro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Excremento blando",
+      "consolidated_definition": "Excremento blando.",
+      "en_consolidated_definition": "Soft fecal matter.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Excremento blando"
+    "Excremento blando."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Soft fecal matter."
+  ],
   "source": "https://tesoro.pr"
 }

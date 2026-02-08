@@ -3,9 +3,12 @@
   "term": "toletazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, batazo fuerte.",
+      "en_consolidated_definition": "In baseball, a strong hit.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, batazo fuerte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a strong hit."
+  ],
   "source": "https://tesoro.pr"
 }

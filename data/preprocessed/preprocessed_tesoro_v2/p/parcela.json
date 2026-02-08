@@ -3,9 +3,12 @@
   "term": "parcela",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pequeña porción de terreno que el Gobierno cede, relacionado con un grupo",
+      "consolidated_definition": "Pequeña porción de terreno que el Gobierno cede a personas de pocos ingresos para que construyan su vivienda y siembren frutos menores.",
+      "en_consolidated_definition": "Small plot of land ceded by the Government to individuals with low income for them to build their residence and cultivate minor fruits.\n\nNota: En este contexto, \"frutos menores\" se refiere a plantas frutíferas de menor tamaño o producción, como plátanos, guanábana, etc.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Pequeña porción de terreno que el Gobierno cede, relacionado con un grupo"
+    "Pequeña porción de terreno que el Gobierno cede a personas de pocos ingresos para que construyan su vivienda y siembren frutos menores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small plot of land ceded by the Government to individuals with low income for them to build their residence and cultivate minor fruits.\n\nNota: En este contexto, \"frutos menores\" se refiere a plantas frutíferas de menor tamaño o producción, como plátanos, guanábana, etc."
+  ],
   "source": "https://tesoro.pr"
 }

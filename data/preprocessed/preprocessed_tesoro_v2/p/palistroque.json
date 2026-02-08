@@ -3,9 +3,12 @@
   "term": "palistroque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trago de licor",
+      "consolidated_definition": "Trago de licor.",
+      "en_consolidated_definition": "Shot of liquor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona o cosa larga y delgada",
+      "consolidated_definition": "Persona o cosa larga y delgada.",
+      "en_consolidated_definition": "Persona o cosa extensa y esbelta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Trago de licor",
-    "Persona o cosa larga y delgada"
+    "Trago de licor.",
+    "Persona o cosa larga y delgada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Shot of liquor.",
+    "Persona o cosa extensa y esbelta."
+  ],
   "source": "https://tesoro.pr"
 }

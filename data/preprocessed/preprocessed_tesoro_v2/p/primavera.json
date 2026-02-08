@@ -3,15 +3,18 @@
   "term": "primavera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caña",
+      "consolidated_definition": "Caña: Sustantivo que designa el tallo delgado y flexible de las plantas de bambú o juncos.",
+      "en_consolidated_definition": "Cane: Noun designating the slender and flexible stalk of bamboo or reed plants.\n\nNota: En este contexto, el término \"caña\" se refiere a las plantas de bambú o juncos, que son comunes en Puerto Rico y otras regiones tropicales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3998",
         "semantic_similarity_score": 0.3998,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -51,9 +54,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Llaman así a las reses que en su",
+      "consolidated_definition": "Llaman así a las reses que en su piel tienen diminutas manchas blancas sin importar cual sea su color principal.",
+      "en_consolidated_definition": "They are so called because of the small white spots on their skin regardless of their main color.\n\nNota: En este contexto, \"reses\" se refiere a ganado vacuno.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -89,9 +95,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Pluma",
+      "consolidated_definition": "Pluma.",
+      "en_consolidated_definition": "Quill.\n\nNota: En este caso, la palabra \"pluma\" puede referirse tanto a un instrumento de escritura como a una persona que escribe o crea contenido. Sin embargo, en el contexto de un diccionario, es probable que se refiera al instrumento de escritura.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -125,9 +134,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Ver tocador",
+      "consolidated_definition": "Ver tocador .",
+      "en_consolidated_definition": "See dresser.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -148,11 +160,16 @@
     }
   },
   "es_definitions": [
-    "Caña",
-    "Llaman así a las reses que en su",
-    "Pluma",
-    "Ver tocador"
+    "Caña: Sustantivo que designa el tallo delgado y flexible de las plantas de bambú o juncos.",
+    "Llaman así a las reses que en su piel tienen diminutas manchas blancas sin importar cual sea su color principal.",
+    "Pluma.",
+    "Ver tocador ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cane: Noun designating the slender and flexible stalk of bamboo or reed plants.\n\nNota: En este contexto, el término \"caña\" se refiere a las plantas de bambú o juncos, que son comunes en Puerto Rico y otras regiones tropicales.",
+    "They are so called because of the small white spots on their skin regardless of their main color.\n\nNota: En este contexto, \"reses\" se refiere a ganado vacuno.",
+    "Quill.\n\nNota: En este caso, la palabra \"pluma\" puede referirse tanto a un instrumento de escritura como a una persona que escribe o crea contenido. Sin embargo, en el contexto de un diccionario, es probable que se refiera al instrumento de escritura.",
+    "See dresser."
+  ],
   "source": "https://tesoro.pr"
 }

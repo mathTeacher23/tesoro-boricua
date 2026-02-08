@@ -3,14 +3,17 @@
   "term": "workshop",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Curso intensivo de trabajos especializados para un grupo, relacionado con un grupo",
+      "consolidated_definition": "Taller o seminario.",
+      "en_consolidated_definition": "Workshop or seminar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2917",
-        "semantic_similarity_score": 0.2917,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Curso intensivo de trabajos especializados para un grupo pequeño; también, lugar donde se llevan a cabo. Anglicismo crudo, frecuente. Ayer estuve en la ciudad Señorial de Ponce con compañeros de Fotógrafos Profesionales de Boda del Caribe. Tuve la oportunidad de presentar un workshop sobre Workflow Digital con Photoshop Lightroom además de conocer y compartir con un gran grupo de fotógrafos de Puerto Rico",
           "Taller o seminario."
         ]
       }
     }
   },
   "es_definitions": [
-    "Curso intensivo de trabajos especializados para un grupo, relacionado con un grupo"
+    "Taller o seminario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Workshop or seminar."
+  ],
   "source": "https://tesoro.pr"
 }

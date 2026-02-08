@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "\"Camino de agua\": cantidad de agua transportada en cada viaje a un manantial o fuente de agua.",
+      "en_consolidated_definition": "Watercourse quantity: amount of water transported on each trip to a spring or source of water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -48,6 +51,8 @@
   "es_definitions": [
     "\"Camino de agua\": cantidad de agua transportada en cada viaje a un manantial o fuente de agua."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Watercourse quantity: amount of water transported on each trip to a spring or source of water."
+  ],
   "source": "https://tesoro.pr"
 }

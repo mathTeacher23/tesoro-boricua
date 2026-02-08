@@ -3,15 +3,18 @@
   "term": "customer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que adquiere sustancias ilegales o controladas.",
+      "consolidated_definition": "Comprador de droga.",
+      "en_consolidated_definition": "Drug buyer \n\nNota: La traducción es literal y precisa para mantener el significado exacto de la definición original en español.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7547",
-        "semantic_similarity_score": 0.7547,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Persona que compra droga.",
           "Comprador de droga."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que adquiere sustancias ilegales o controladas."
+    "Comprador de droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Drug buyer \n\nNota: La traducción es literal y precisa para mantener el significado exacto de la definición original en español."
+  ],
   "source": "https://tesoro.pr"
 }

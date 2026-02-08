@@ -3,9 +3,12 @@
   "term": "patrón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tronco donde se hace el injerto",
+      "consolidated_definition": "Tronco donde se hace el injerto.",
+      "en_consolidated_definition": "Stem or trunk where the graft is made.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Tronco donde se hace el injerto"
+    "Tronco donde se hace el injerto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Stem or trunk where the graft is made."
+  ],
   "source": "https://tesoro.pr"
 }

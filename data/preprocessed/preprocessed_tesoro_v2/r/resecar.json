@@ -3,9 +3,12 @@
   "term": "resecar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "el grano al sol",
+      "consolidated_definition": "Poner el grano de café húmedo al sol. También secar.",
+      "en_consolidated_definition": "To expose moist coffee beans to the sun. Also, to dry.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -35,14 +38,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "el grano al sol. También secar."
+          "Poner el grano de café húmedo al sol. También secar."
         ]
       }
     }
   },
   "es_definitions": [
-    "el grano al sol"
+    "Poner el grano de café húmedo al sol. También secar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To expose moist coffee beans to the sun. Also, to dry."
+  ],
   "source": "https://tesoro.pr"
 }

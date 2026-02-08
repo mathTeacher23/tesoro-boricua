@@ -3,9 +3,12 @@
   "term": "maraca roja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Maraca caracterizada por el color de sus flores",
+      "consolidated_definition": "Maraca caracterizada por el color de sus flores.",
+      "en_consolidated_definition": "Flower-petaled maraca characterized by the color of its flowers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Maraca caracterizada por el color de sus flores"
+    "Maraca caracterizada por el color de sus flores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flower-petaled maraca characterized by the color of its flowers."
+  ],
   "source": "https://tesoro.pr"
 }

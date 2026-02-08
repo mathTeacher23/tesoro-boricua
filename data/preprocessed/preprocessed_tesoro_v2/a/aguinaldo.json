@@ -3,15 +3,18 @@
   "term": "aguinaldo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aguinaldo: canción tradicional y popular de Navidad en varios países de América Latina y España, caracterizada por un ritmo alegre y lánguido.",
+      "consolidated_definition": "Bonificación especial que el Gobierno y las empresas dan a sus empleados, especialmente por Navidad.",
+      "en_consolidated_definition": "Christmas bonus or special incentive given by the government and companies to their employees, especially during the holiday season.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4935",
-        "semantic_similarity_score": 0.4935,
-        "cluster_count": 6,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -53,19 +56,17 @@
           "aguinaldero, ra"
         ],
         "reference_definitions": [
-          "(T. en Tabasco, Méx., Perú, R. Dom. y Ven.). Villancico de la época de Reyes. “Una música campestre acompañó a los que entonaron el aguinaldo nuevo, cuyos versos eran de unos cantores.” , p. 132. “Un alegre grupo de hombres y mujeres de color pasó por la calle, cantando con acompañamiento de güiros, esas coplas de aguinaldo que tienen el lánguido ritmo de una danza.” Carmela Eulate, “Noche Buena”, La Ilustración Puertorriqueña, núm. del 25 de diciembre de 1892. “Nuestros aguinaldos son cantados por todos en la Noche Buena con gran contento.” Genoveva de Arteaga, Navidad, fuente de inspiración, 1932. “Aquí está la trulla —del año pasao, —con música y bulla —y toítos planchaos. —Desde el seboruco —hasta el empeirao, —venimos cantando —el aguinaldao.” Cadilla, La poesía popular, pp. 126-127. (La acepción viene de España: “Actualmente en España, durante las fiestas de Navidad, se canta el aguinaldo...” José Alemany, El antiguo canto, BAE, XVIII: 150).",
-          "Aguilando. Forma vulgar de aguinaldo.",
-          "Música y canciones de la época de Navidad.",
-          "Dádiva que se otorga en el tiempo navideño.",
-          "Copla o villancico navideño.",
           "Bonificación especial que el Gobierno y las empresas dan a sus empleados, especialmente por Navidad."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Convólulo: bejuco que florece por Navidad, con diferentes especies que presentan flores de colores variados. (Sustantivo) Ac.; Stahl, 6.159.",
+      "en_consolidated_definition": "Christmas Vine: a climbing vine that blooms around Christmas, with various species presenting flowers in different colors.\n\nNota: Ac.; Stahl, 6.159.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -112,9 +113,12 @@
     }
   },
   "es_definitions": [
-    "Aguinaldo: canción tradicional y popular de Navidad en varios países de América Latina y España, caracterizada por un ritmo alegre y lánguido.",
+    "Bonificación especial que el Gobierno y las empresas dan a sus empleados, especialmente por Navidad.",
     "Convólulo: bejuco que florece por Navidad, con diferentes especies que presentan flores de colores variados. (Sustantivo) Ac.; Stahl, 6.159."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Christmas bonus or special incentive given by the government and companies to their employees, especially during the holiday season.",
+    "Christmas Vine: a climbing vine that blooms around Christmas, with various species presenting flowers in different colors.\n\nNota: Ac.; Stahl, 6.159."
+  ],
   "source": "https://tesoro.pr"
 }

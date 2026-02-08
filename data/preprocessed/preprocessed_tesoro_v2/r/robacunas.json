@@ -3,9 +3,12 @@
   "term": "robacunas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombre al que le gustan las muchachitas muy",
+      "consolidated_definition": "Hombre al que le gustan las muchachitas muy jóvenes.",
+      "en_consolidated_definition": "Manuelito que se siente atraído por las adolescentes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Hombre al que le gustan las muchachitas muy"
+    "Hombre al que le gustan las muchachitas muy jóvenes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Manuelito que se siente atraído por las adolescentes."
+  ],
   "source": "https://tesoro.pr"
 }

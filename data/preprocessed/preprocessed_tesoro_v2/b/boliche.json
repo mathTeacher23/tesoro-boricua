@@ -3,15 +3,18 @@
   "term": "boliche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tabaco de inferior calidad o que no cumple con los estándares comerciales.",
+      "consolidated_definition": "Tabaco de clase inferior elaborado con las hojas rastreras de la planta.",
+      "en_consolidated_definition": "Low-grade tobacco made from the straggly leaves of the plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.6897",
-        "semantic_similarity_score": 0.6897,
-        "cluster_count": 7,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -64,27 +67,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tabaco de clase inferior que se produce en la isla. Ac. “Yo tenía dos cigarros de boliche.” Fernández Juncos, Costumbres y tradiciones, 1883, p. 207.",
-          "(popular) Tabaco de mala calidad.",
-          "Tabaco de inferior calidad.",
-          "Las primeras hojas de la mata de tabaco que por estar cerca de la tierra se dañan y su valor es muy poco. En algunos sitios las llaman espumilla, también pie (sucio y barredor).",
-          "Tabaco de inferior calidad.",
-          "Tabaco de inferior calidad elaborado de las hojas rastreras del tabaco, o del de segunda.",
-          "Hoja de tabaco de inferior calidad.",
           "Tabaco de clase inferior elaborado con las hojas rastreras de la planta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "\"Bolos\": juego en el que se lanzan bolas pesadas hacia un conjunto de bolas fijas en una bolera.",
+      "consolidated_definition": "Bolera, lugar donde se juega a los bolos.",
+      "en_consolidated_definition": "Bowling alley, a place where bowling is played.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4468",
-        "semantic_similarity_score": 0.4468,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -114,21 +113,23 @@
           "boleo 1"
         ],
         "reference_definitions": [
-          "Bolos. También bowling.",
           "Bolera, lugar donde se juega a los bolos."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Tierra o suelo que carece de la capacidad para producir azúcar.",
+      "consolidated_definition": "Terreno que no produce azúcar.",
+      "en_consolidated_definition": "Land that does not produce sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -158,15 +159,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Juguete tradicional latinoamericano compuesto por un palo con punta y una bola sujeta a él mediante un cordón.",
+      "consolidated_definition": "(T. en Col., C. Rica y Perú). Juguete que se forma de un palo terminado en punta y de una bola taladrada sujeta por un cordón al palo, la cual, lanzada al aire, se procura ensartar en la punta.",
+      "en_consolidated_definition": "Juguete that forms from a pointed stick and a drilled ball attached to the stick by a cord, which, when thrown into the air, is attempted to be skewered on the point.\n\nNota: Como se menciona que este juguete es típico en Colombia, Costa Rica y Perú, no hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -195,11 +199,16 @@
     }
   },
   "es_definitions": [
-    "Tabaco de inferior calidad o que no cumple con los estándares comerciales.",
-    "\"Bolos\": juego en el que se lanzan bolas pesadas hacia un conjunto de bolas fijas en una bolera.",
-    "Tierra o suelo que carece de la capacidad para producir azúcar.",
-    "Juguete tradicional latinoamericano compuesto por un palo con punta y una bola sujeta a él mediante un cordón."
+    "Tabaco de clase inferior elaborado con las hojas rastreras de la planta.",
+    "Bolera, lugar donde se juega a los bolos.",
+    "Terreno que no produce azúcar.",
+    "(T. en Col., C. Rica y Perú). Juguete que se forma de un palo terminado en punta y de una bola taladrada sujeta por un cordón al palo, la cual, lanzada al aire, se procura ensartar en la punta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Low-grade tobacco made from the straggly leaves of the plant.",
+    "Bowling alley, a place where bowling is played.",
+    "Land that does not produce sugar.",
+    "Juguete that forms from a pointed stick and a drilled ball attached to the stick by a cord, which, when thrown into the air, is attempted to be skewered on the point.\n\nNota: Como se menciona que este juguete es típico en Colombia, Costa Rica y Perú, no hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

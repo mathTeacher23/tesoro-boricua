@@ -3,15 +3,18 @@
   "term": "barbilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vara: palo de madera rollizo y delgado, utilizado en diversas aplicaciones agrícolas.",
+      "consolidated_definition": "Vara fina de madera rolliza que tiene diferentes usos en los campos.",
+      "en_consolidated_definition": "Cane or cane pole of rounded wood used in various ways on the fields.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La parte del cuello del gallo que se encuentra debajo del pico hasta donde comienza la garganta. Sustantivo.",
+      "consolidated_definition": "Parte del cuello del gallo debajo del pico hasta donde empieza la garganta. Caguas.",
+      "en_consolidated_definition": "Part of the rooster's neck below the beak to where the throat begins. Gullet.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Vara: palo de madera rollizo y delgado, utilizado en diversas aplicaciones agrícolas.",
-    "La parte del cuello del gallo que se encuentra debajo del pico hasta donde comienza la garganta. Sustantivo."
+    "Vara fina de madera rolliza que tiene diferentes usos en los campos.",
+    "Parte del cuello del gallo debajo del pico hasta donde empieza la garganta. Caguas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cane or cane pole of rounded wood used in various ways on the fields.",
+    "Part of the rooster's neck below the beak to where the throat begins. Gullet."
+  ],
   "source": "https://tesoro.pr"
 }

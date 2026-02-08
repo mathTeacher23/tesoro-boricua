@@ -3,14 +3,17 @@
   "term": "leña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosa de poco valor",
+      "consolidated_definition": "En las actividades marítimas, desperdicio.",
+      "en_consolidated_definition": "Waste in maritime activities.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5161",
-        "semantic_similarity_score": 0.5161,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -53,18 +56,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cosa de poco valor. Cosa destruída.",
-          "Morralla, desperdicio. Cebo.",
-          "Se dice de algo que se desperdicia, que no sirve, que no tiene valor.",
-          "En las actividades marítimas, desperdicio.",
-          "Cosa de baja calidad, de poco valor."
+          "En las actividades marítimas, desperdicio."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pela",
+      "consolidated_definition": "Pela. Zurra. Tunda.",
+      "en_consolidated_definition": "Scolding. Ruckus. Commotion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -99,9 +101,12 @@
     }
   },
   "es_definitions": [
-    "Cosa de poco valor",
-    "Pela"
+    "En las actividades marítimas, desperdicio.",
+    "Pela. Zurra. Tunda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Waste in maritime activities.",
+    "Scolding. Ruckus. Commotion."
+  ],
   "source": "https://tesoro.pr"
 }

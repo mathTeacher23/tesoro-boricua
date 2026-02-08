@@ -3,9 +3,12 @@
   "term": "viejo blanco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Otro nombre para el pez viuda",
+      "consolidated_definition": "Otro nombre para el pez viuda.",
+      "en_consolidated_definition": "Another name for the widowfish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Otro nombre para el pez viuda"
+    "Otro nombre para el pez viuda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Another name for the widowfish."
+  ],
   "source": "https://tesoro.pr"
 }

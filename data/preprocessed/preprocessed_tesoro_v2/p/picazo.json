@@ -3,14 +3,17 @@
   "term": "picazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cantidad grande de dinero",
+      "consolidated_definition": "Cantidad grande de dinero.",
+      "en_consolidated_definition": "Substantial amount of money.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7765",
-        "semantic_similarity_score": 0.7765,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cantidad grande de dinero. “Eso costará un picaso.”",
           "Cantidad grande de dinero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cantidad grande de dinero"
+    "Cantidad grande de dinero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Substantial amount of money."
+  ],
   "source": "https://tesoro.pr"
 }

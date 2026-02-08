@@ -3,15 +3,18 @@
   "term": "corta rabo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La parte de la máquina de cortar caña que corta la hoja verde superior.",
+      "consolidated_definition": "Parte de la máquina de cortar caña que corta la hoja verde de arriba.",
+      "en_consolidated_definition": "Part of the sugarcane cutter machine that cuts the green leaf from above.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "La parte de la máquina de cortar caña que corta la hoja verde superior."
+    "Parte de la máquina de cortar caña que corta la hoja verde de arriba."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Part of the sugarcane cutter machine that cuts the green leaf from above."
+  ],
   "source": "https://tesoro.pr"
 }

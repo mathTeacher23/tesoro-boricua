@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Parcela de terreno dentro de una finca destinada a un nuevo asentamiento, incluyendo espacio para vivienda y cultivo.",
+      "en_consolidated_definition": "Parcel of land within an estate designated for a new settlement, including space for habitation and cultivation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -53,6 +56,8 @@
   "es_definitions": [
     "Parcela de terreno dentro de una finca destinada a un nuevo asentamiento, incluyendo espacio para vivienda y cultivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Parcel of land within an estate designated for a new settlement, including space for habitation and cultivation."
+  ],
   "source": "https://tesoro.pr"
 }

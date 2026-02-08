@@ -3,9 +3,12 @@
   "term": "entrega especial",
   "superscripts": {
     "1": {
-      "consolidated_definition": "transp, relacionado con un mecanismo",
+      "consolidated_definition": "transp. Entrega inmediata. Calco de estructura, frecuente. Véase special delivery. Se usará este código para identificar los pagos efectuados por concepto de servicios postales, tales como: sellos, máquinas de franqueo, tarjetas postales, el franqueo de sobres timbrados, correspondencia registrada, entrega especial y entrega de paquetes (UPR, Cayey, marzo 2005)",
+      "en_consolidated_definition": "Express delivery. Calque of structure, frequent. See special delivery. This code will be used to identify payments made for postal services such as stamps, postage machines, postcards, franking of stamped envelopes, registered mail, special delivery and package delivery (UPR, Cayey, March 2005).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "transp. Entrega inmediata. Calco de estructura, frecuente. Véase special delivery. Se usará este código para identificar los pagos efectuados por concepto de servicios postales, tales como: sellos, máquinas de franqueo, tarjetas postales, el franqueo de sobres timbrados, correspondencia registrada, entrega especial y entrega de paquetes"
+          "transp. Entrega inmediata. Calco de estructura, frecuente. Véase special delivery. Se usará este código para identificar los pagos efectuados por concepto de servicios postales, tales como: sellos, máquinas de franqueo, tarjetas postales, el franqueo de sobres timbrados, correspondencia registrada, entrega especial y entrega de paquetes (UPR, Cayey, marzo 2005)"
         ]
       }
     }
   },
   "es_definitions": [
-    "transp, relacionado con un mecanismo"
+    "transp. Entrega inmediata. Calco de estructura, frecuente. Véase special delivery. Se usará este código para identificar los pagos efectuados por concepto de servicios postales, tales como: sellos, máquinas de franqueo, tarjetas postales, el franqueo de sobres timbrados, correspondencia registrada, entrega especial y entrega de paquetes (UPR, Cayey, marzo 2005)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Express delivery. Calque of structure, frequent. See special delivery. This code will be used to identify payments made for postal services such as stamps, postage machines, postcards, franking of stamped envelopes, registered mail, special delivery and package delivery (UPR, Cayey, March 2005)."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Traviesa de la vía férrea. Ac.",
+      "en_consolidated_definition": "Crossing of the railway track. Abbr.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,6 +45,8 @@
   "es_definitions": [
     ". Traviesa de la vía férrea. Ac."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Crossing of the railway track. Abbr."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "juanas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Diarrea",
+      "consolidated_definition": "Diarrea.",
+      "en_consolidated_definition": "Diarrea: a condition characterized by frequent and loose bowel movements, often accompanied by abdominal pain, nausea, and vomiting.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Diarrea"
+    "Diarrea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Diarrea: a condition characterized by frequent and loose bowel movements, often accompanied by abdominal pain, nausea, and vomiting."
+  ],
   "source": "https://tesoro.pr"
 }

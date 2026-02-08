@@ -3,9 +3,12 @@
   "term": "mixta con pájaro en el estribo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plato de arroz con habichuelas y salchichas",
+      "consolidated_definition": "Plato de arroz con habichuelas y salchichas.",
+      "en_consolidated_definition": "Rice dish with beans and sausage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Plato de arroz con habichuelas y salchichas"
+    "Plato de arroz con habichuelas y salchichas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rice dish with beans and sausage."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "polipodio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Yerba",
+      "consolidated_definition": "Yerba: planta herbácea.",
+      "en_consolidated_definition": "Herbaceous plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2045",
-        "semantic_similarity_score": 0.2045,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.1284",
+        "semantic_similarity_score": 0.1284,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,14 +43,16 @@
         "related_words": [],
         "reference_definitions": [
           "Yerba.",
-          "Planta que se conoce en la región de Ponce como polipol. Según la descripción campesina es ‘un panecito que se forma en los árboles en una parte podrida con matitas hacia arriba’. . Existen otras variedades como el polipodio colgante ."
+          "Planta que se conoce en la región de Ponce como polipol. Según la descripción campesina es ‘un panecito que se forma en los árboles en una parte podrida con matitas hacia arriba’. (Polypodium crassifolium L.). Existen otras variedades como el polipodio colgante (Polypodium. asplenifolium L.)."
         ]
       }
     }
   },
   "es_definitions": [
-    "Yerba"
+    "Yerba: planta herbácea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Herbaceous plant."
+  ],
   "source": "https://tesoro.pr"
 }

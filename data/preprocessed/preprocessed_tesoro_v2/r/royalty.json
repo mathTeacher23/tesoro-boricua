@@ -3,15 +3,18 @@
   "term": "royalty",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Compensación por derechos de autor o inventor",
+      "consolidated_definition": "Compensación por derechos de autor o regalía. Pago o retribución que se otorga a los titulares de derechos de autor por el uso o explotación de sus obras protegidas.",
+      "en_consolidated_definition": "Royalty or copyright compensation. Payment or remuneration granted to copyright holders for the use or exploitation of their protected works.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.0989",
         "semantic_similarity_score": 0.0989,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Compensación por derechos de autor o inventor"
+    "Compensación por derechos de autor o regalía. Pago o retribución que se otorga a los titulares de derechos de autor por el uso o explotación de sus obras protegidas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Royalty or copyright compensation. Payment or remuneration granted to copyright holders for the use or exploitation of their protected works."
+  ],
   "source": "https://tesoro.pr"
 }

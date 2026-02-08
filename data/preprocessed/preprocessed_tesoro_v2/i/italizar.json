@@ -3,9 +3,12 @@
   "term": "italizar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Distinguir con letras itálicas o bastardillas",
+      "consolidated_definition": "Distinguir con letras itálicas o bastardillas. “Yo soy quien italiza.”",
+      "en_consolidated_definition": "To italicize with letters in italics or cursive script. \"I am the one who italicizes.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Distinguir con letras itálicas o bastardillas"
+    "Distinguir con letras itálicas o bastardillas. “Yo soy quien italiza.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To italicize with letters in italics or cursive script. \"I am the one who italicizes.\""
+  ],
   "source": "https://tesoro.pr"
 }

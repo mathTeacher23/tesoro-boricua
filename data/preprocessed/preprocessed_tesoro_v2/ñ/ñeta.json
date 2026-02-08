@@ -3,9 +3,12 @@
   "term": "ñeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Organización criminal nacida en la cárcel, relacionado con una organización",
+      "consolidated_definition": "Organización criminal nacida en la cárcel, dedicada especialmente al narcotráfico.",
+      "en_consolidated_definition": "Criminal organization born in prison, particularly involved in narcotics trafficking.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Organización criminal nacida en la cárcel, relacionado con una organización"
+    "Organización criminal nacida en la cárcel, dedicada especialmente al narcotráfico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Criminal organization born in prison, particularly involved in narcotics trafficking."
+  ],
   "source": "https://tesoro.pr"
 }

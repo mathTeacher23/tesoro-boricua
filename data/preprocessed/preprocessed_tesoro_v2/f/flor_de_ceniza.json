@@ -3,9 +3,12 @@
   "term": "flor de ceniza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La ceniza más fina que puede lograrse al",
+      "consolidated_definition": "La ceniza más fina que puede lograrse al quemar la madera.",
+      "en_consolidated_definition": "The finest ash that can be obtained by burning wood.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La ceniza más fina que puede lograrse al"
+    "La ceniza más fina que puede lograrse al quemar la madera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The finest ash that can be obtained by burning wood."
+  ],
   "source": "https://tesoro.pr"
 }

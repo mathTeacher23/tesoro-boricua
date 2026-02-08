@@ -3,9 +3,12 @@
   "term": "dumpling",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de pan",
+      "consolidated_definition": "Especie de pan.",
+      "en_consolidated_definition": "Type of bread.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Especie de pan"
+    "Especie de pan."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Type of bread."
+  ],
   "source": "https://tesoro.pr"
 }

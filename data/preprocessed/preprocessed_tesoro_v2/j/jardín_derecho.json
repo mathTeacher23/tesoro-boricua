@@ -3,14 +3,17 @@
   "term": "jardín derecho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "En el beisbol, campo situado detrás de la primera base y contiguo al jardín central.",
+      "en_consolidated_definition": "In baseball, field located behind first base and adjacent to the center field.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.699",
-        "semantic_similarity_score": 0.699,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de béisbol, posición que está en el lado derecho, vista desde el área central del juego. Calco de estructura, frecuente. Juan Carlos Moreno entra a jugar el campo corto por Eduardo Paret. El bateador Cruz falló en elevado a tercera base, Luis Matos cede el segundo out en fly a segunda base y Valentín falló al batear un elevado al jardín derecho",
           "En el beisbol, campo situado detrás de la primera base y contiguo al jardín central."
         ]
       }
     }
   },
   "es_definitions": [
-    "dep"
+    "En el beisbol, campo situado detrás de la primera base y contiguo al jardín central."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, field located behind first base and adjacent to the center field."
+  ],
   "source": "https://tesoro.pr"
 }

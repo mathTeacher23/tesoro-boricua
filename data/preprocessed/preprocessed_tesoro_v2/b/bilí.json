@@ -3,15 +3,18 @@
   "term": "bilí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Coctel\": bebida compuesta de ron, zumo de limón y azúcar.",
+      "consolidated_definition": "Bebida alcohólica hecha a base de quenepa y ron.",
+      "en_consolidated_definition": "Alcoholic beverage made from quenepa and rum.\n\nNota: La quenepa es una fruta típica de Puerto Rico y se utiliza en esta bebida alcohólica. \n\nSi deseas la salida sin la nota, aquí está:\n\nAlcoholic beverage made from quenepa and rum.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.6259",
-        "semantic_similarity_score": 0.6259,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -54,24 +57,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bebida compuesta de ron, jugo de limón y azúcar.",
-          "Bebida compuesta de ron, zumo de limón y azúcar.",
-          "Rabo de gallo (coctel).",
-          "Bebida hecha con ron, zumo de limón y azúcar.",
           "Bebida alcohólica hecha a base de quenepa y ron."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Una tarea sencilla es un objeto o acción que requiere poco tiempo o esfuerzo para completarse.",
+      "consolidated_definition": "Cosa fácil de hacer o conseguir.",
+      "en_consolidated_definition": "Something easily done or obtained.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.599",
-        "semantic_similarity_score": 0.599,
-        "cluster_count": 6,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -119,20 +121,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general) Cosa fácil de hacer o conseguir.",
-          "En algunos lugares equivale a algo fácil.",
-          "Algo fácil de hacer.",
-          "Cosa fácil de hacer. Guame. Bicoca. Mamey.",
-          "Algo fácil.",
           "Cosa fácil de hacer o conseguir."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Coctel\": bebida compuesta de ron, zumo de limón y azúcar.",
-    "Una tarea sencilla es un objeto o acción que requiere poco tiempo o esfuerzo para completarse."
+    "Bebida alcohólica hecha a base de quenepa y ron.",
+    "Cosa fácil de hacer o conseguir."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Alcoholic beverage made from quenepa and rum.\n\nNota: La quenepa es una fruta típica de Puerto Rico y se utiliza en esta bebida alcohólica. \n\nSi deseas la salida sin la nota, aquí está:\n\nAlcoholic beverage made from quenepa and rum.",
+    "Something easily done or obtained."
+  ],
   "source": "https://tesoro.pr"
 }

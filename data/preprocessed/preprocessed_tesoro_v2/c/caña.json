@@ -3,15 +3,18 @@
   "term": "caña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por antonomasia, caña de azúcar, se refiere a un término coloquial que designa a la persona más destacada o influyente en un grupo.",
+      "consolidated_definition": "Por antonomasia, la caña de azúcar.",
+      "en_consolidated_definition": "The sugarcane by excellence.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9376",
-        "semantic_similarity_score": 0.9376,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -41,15 +44,17 @@
           "cañero, ra 1"
         ],
         "reference_definitions": [
-          ". Por antonomansia, caña de azúcar. . Ac.",
           "Por antonomasia, la caña de azúcar."
         ]
       }
     },
     "2": {
       "consolidated_definition": "El timón del arado recibió varias denominaciones en diferentes regiones geográficas, como caña (norte y este), arenales altos, dajaos, loíza, fajardo, naguabo y peña pobre.",
+      "en_consolidated_definition": "The plow's tiller has been referred to by various names in different geographical regions, such as caña (north and east), areneros altos, dajaos, loíza, Fajardo, Naguabo, and Peñuelas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -98,15 +103,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Bate de béisbol: objeto utilizado por los jugadores para golpear la pelota lanzada por el receptor en este deporte.",
+      "consolidated_definition": "Bate de beisbol.",
+      "en_consolidated_definition": "Base hit (in baseball)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -136,15 +144,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "El hueso de la pata del gallo de donde sale la espuela.",
+      "consolidated_definition": "Hueso de la pata del gallo de donde sale la espuela.",
+      "en_consolidated_definition": "Tarsometatarso del pavo o gallo de donde sale la uña o espuela.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.9118",
-        "semantic_similarity_score": 0.9118,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -172,22 +183,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hueso de la pata del gallo de donde sale la espuela.",
-          "Parte dura de la pata del gallo. De la parte inferior de este hueso sale la espuela.",
           "Hueso de la pata del gallo de donde sale la espuela."
         ]
       }
     },
     "5": {
-      "consolidated_definition": "\"Ron clandestino\": bebida alcohólica elaborada ilegalmente o fuera de la supervisión oficial.",
+      "consolidated_definition": "Ron clandestino.",
+      "en_consolidated_definition": "Moonshine clandestino.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -216,12 +228,18 @@
     }
   },
   "es_definitions": [
-    "Por antonomasia, caña de azúcar, se refiere a un término coloquial que designa a la persona más destacada o influyente en un grupo.",
+    "Por antonomasia, la caña de azúcar.",
     "El timón del arado recibió varias denominaciones en diferentes regiones geográficas, como caña (norte y este), arenales altos, dajaos, loíza, fajardo, naguabo y peña pobre.",
-    "Bate de béisbol: objeto utilizado por los jugadores para golpear la pelota lanzada por el receptor en este deporte.",
-    "El hueso de la pata del gallo de donde sale la espuela.",
-    "\"Ron clandestino\": bebida alcohólica elaborada ilegalmente o fuera de la supervisión oficial."
+    "Bate de beisbol.",
+    "Hueso de la pata del gallo de donde sale la espuela.",
+    "Ron clandestino."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The sugarcane by excellence.",
+    "The plow's tiller has been referred to by various names in different geographical regions, such as caña (north and east), areneros altos, dajaos, loíza, Fajardo, Naguabo, and Peñuelas.",
+    "Base hit (in baseball)",
+    "Tarsometatarso del pavo o gallo de donde sale la uña o espuela.",
+    "Moonshine clandestino."
+  ],
   "source": "https://tesoro.pr"
 }

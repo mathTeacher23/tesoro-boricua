@@ -4,14 +4,17 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Período comprendido entre el 1 de enero y el 31 de diciembre.",
+      "en_consolidated_definition": "Periodo comprendido entre el 1 de enero y el 31 de diciembre.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.69",
-        "semantic_similarity_score": 0.69,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -39,7 +42,6 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Sistema de medición del tiempo, según el calendario gregoriano comienza el primero de enero y termina el 31 de diciembre. Calco de estructura, frecuente. Se impone una contribución sobre donaciones hechas durante cada año calendario",
           "Período comprendido entre el 1 de enero y el 31 de diciembre."
         ]
       }
@@ -48,6 +50,8 @@
   "es_definitions": [
     "Período comprendido entre el 1 de enero y el 31 de diciembre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Periodo comprendido entre el 1 de enero y el 31 de diciembre."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "rascar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pegar",
+      "consolidated_definition": "Administrar golpes físicos a menores de edad.",
+      "en_consolidated_definition": "Administer physical blows to minors.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.687",
         "semantic_similarity_score": 0.687,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "verbo transitivo"
         ],
@@ -46,9 +49,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "producir malestar en la boca algo",
+      "consolidated_definition": "Producir malestar en la boca ciertos frutos, dando una sensación de pegajosidad o gomosidad con cierto ardor y acidez.",
+      "en_consolidated_definition": "Produce discomfort in the mouth certain fruits, giving a sensation of stickiness or gumminess with a certain heat and acidity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -88,9 +94,12 @@
     }
   },
   "es_definitions": [
-    "Pegar",
-    "producir malestar en la boca algo"
+    "Administrar golpes físicos a menores de edad.",
+    "Producir malestar en la boca ciertos frutos, dando una sensación de pegajosidad o gomosidad con cierto ardor y acidez."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Administer physical blows to minors.",
+    "Produce discomfort in the mouth certain fruits, giving a sensation of stickiness or gumminess with a certain heat and acidity."
+  ],
   "source": "https://tesoro.pr"
 }

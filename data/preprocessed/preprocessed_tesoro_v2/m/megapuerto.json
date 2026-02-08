@@ -3,9 +3,12 @@
   "term": "megapuerto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver mega puerto",
+      "consolidated_definition": "Ver mega puerto .",
+      "en_consolidated_definition": "See megaport.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver mega puerto"
+    "Ver mega puerto ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See megaport."
+  ],
   "source": "https://tesoro.pr"
 }

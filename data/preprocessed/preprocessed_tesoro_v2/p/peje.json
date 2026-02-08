@@ -3,15 +3,18 @@
   "term": "peje",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Pez.",
+      "consolidated_definition": "Pez. Cualquier animal acuático de mar o río que pertenece a la clase de los peces y se caracteriza por tener aletas y escamas.",
+      "en_consolidated_definition": "Fish. Any aquatic animal from the sea or river that belongs to the class of fish and is characterized by having fins and scales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.5592",
         "semantic_similarity_score": 0.5592,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -72,9 +75,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona que se dedica a negocios turbios o",
+      "consolidated_definition": "Persona que se dedica a negocios turbios o ilegales.",
+      "en_consolidated_definition": "Individual engaged in shady or illicit business dealings.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -109,9 +115,12 @@
     }
   },
   "es_definitions": [
-    ". Pez.",
-    "Persona que se dedica a negocios turbios o"
+    "Pez. Cualquier animal acuático de mar o río que pertenece a la clase de los peces y se caracteriza por tener aletas y escamas.",
+    "Persona que se dedica a negocios turbios o ilegales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fish. Any aquatic animal from the sea or river that belongs to the class of fish and is characterized by having fins and scales.",
+    "Individual engaged in shady or illicit business dealings."
+  ],
   "source": "https://tesoro.pr"
 }

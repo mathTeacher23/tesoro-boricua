@@ -3,14 +3,17 @@
   "term": "pitaya",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cactus de hasta 2 m de altura",
+      "consolidated_definition": "Cactus de hasta 2 m de altura.",
+      "en_consolidated_definition": "Cactus of up to 2 m in height.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6156",
-        "semantic_similarity_score": 0.6156,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -36,15 +39,16 @@
           "pitahaya 1"
         ],
         "reference_definitions": [
-          "Cactus de hasta 2 m de altura.",
-          "Cactus perenne y fruto."
+          "Cactus de hasta 2 m de altura."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cactus de hasta 2 m de altura"
+    "Cactus de hasta 2 m de altura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cactus of up to 2 m in height."
+  ],
   "source": "https://tesoro.pr"
 }

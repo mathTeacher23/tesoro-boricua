@@ -3,14 +3,17 @@
   "term": "patota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pie muy grande",
+      "consolidated_definition": "Pie muy grande.",
+      "en_consolidated_definition": "Large foot.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.851",
-        "semantic_similarity_score": 0.851,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pie muy grande. Patudo.",
           "Pie muy grande."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pie muy grande"
+    "Pie muy grande."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large foot."
+  ],
   "source": "https://tesoro.pr"
 }

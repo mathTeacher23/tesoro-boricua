@@ -3,9 +3,12 @@
   "term": "liga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mezcla",
+      "consolidated_definition": "Mezcla.",
+      "en_consolidated_definition": "Blend",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Conquista amorosa",
+      "consolidated_definition": "Conquista amorosa.",
+      "en_consolidated_definition": "Amorous conquest",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -81,9 +87,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Campo donde se juega béisbol",
+      "consolidated_definition": "Campo donde se juega béisbol. “El sábado por la tarde los asilados trabajaban afanosamente en la limpieza de la liga.”",
+      "en_consolidated_definition": "Diamond field where baseball is played. \"The asylum seekers worked diligently on the league's cleanup on Saturday afternoon.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -117,9 +126,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Voz usada por delincuentes",
+      "consolidated_definition": "Voz usada por delincuentes. Presidio o cárcel.",
+      "en_consolidated_definition": "Term used by criminals. Penitentiary or prison.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -156,11 +168,16 @@
     }
   },
   "es_definitions": [
-    "Mezcla",
-    "Conquista amorosa",
-    "Campo donde se juega béisbol",
-    "Voz usada por delincuentes"
+    "Mezcla.",
+    "Conquista amorosa.",
+    "Campo donde se juega béisbol. “El sábado por la tarde los asilados trabajaban afanosamente en la limpieza de la liga.”",
+    "Voz usada por delincuentes. Presidio o cárcel."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Blend",
+    "Amorous conquest",
+    "Diamond field where baseball is played. \"The asylum seekers worked diligently on the league's cleanup on Saturday afternoon.\"",
+    "Term used by criminals. Penitentiary or prison."
+  ],
   "source": "https://tesoro.pr"
 }

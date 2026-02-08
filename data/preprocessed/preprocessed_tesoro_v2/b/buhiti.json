@@ -3,15 +3,18 @@
   "term": "buhiti",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El término \"buhiti\" se refiere a una persona que actúa como médico o curandero en casos de enfermedad, específicamente llamado cuando enfermaban caciques o líderes indígenas.",
+      "consolidated_definition": "Médico, curandero. Cuando enfermaba algún cacique o indio principal, llamaban al médico o buhiti.",
+      "en_consolidated_definition": "Healer, medicine man. When a cacique or principal Indian fell ill, they called the healer or buhiti.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "El término \"buhiti\" se refiere a una persona que actúa como médico o curandero en casos de enfermedad, específicamente llamado cuando enfermaban caciques o líderes indígenas."
+    "Médico, curandero. Cuando enfermaba algún cacique o indio principal, llamaban al médico o buhiti."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Healer, medicine man. When a cacique or principal Indian fell ill, they called the healer or buhiti."
+  ],
   "source": "https://tesoro.pr"
 }

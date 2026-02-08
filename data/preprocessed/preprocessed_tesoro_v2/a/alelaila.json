@@ -3,9 +3,12 @@
   "term": "alelaila",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El árbol pasilla produce flores de color púrpura que se utilizan en la medicina popular para tratar la fiebre.",
+      "consolidated_definition": "El árbol pasilla produce flores de color púrpura utilizadas en la medicina popular para tratar la fiebre.",
+      "en_consolidated_definition": "The pasilla tree produces purple flowers used in folk medicine to treat fever.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "El árbol pasilla produce flores de color púrpura que se utilizan en la medicina popular para tratar la fiebre."
+    "El árbol pasilla produce flores de color púrpura utilizadas en la medicina popular para tratar la fiebre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The pasilla tree produces purple flowers used in folk medicine to treat fever."
+  ],
   "source": "https://tesoro.pr"
 }

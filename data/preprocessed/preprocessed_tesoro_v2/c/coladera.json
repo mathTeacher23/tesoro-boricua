@@ -3,15 +3,18 @@
   "term": "coladera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un sumidero con agujeros es un tipo de sumidero que cuenta con perforaciones o aberturas para facilitar la evacuación del agua.",
+      "consolidated_definition": "Sumidero, alcantarilla.",
+      "en_consolidated_definition": "Storm drain, catch basin.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6577",
-        "semantic_similarity_score": 0.6577,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Sumidero con agujeros. Ac.",
           "Sumidero, alcantarilla."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Diarrea. Trastorno gastrointestinal caracterizado por la frecuencia y la consistencia alterada de las heces, generalmente con una mayor cantidad de agua y sales que en el caso normal.",
+      "consolidated_definition": "Diarrea.",
+      "en_consolidated_definition": "Diarrea: a condition characterized by frequent and loose bowel movements, often accompanied by abdominal pain, nausea, and vomiting.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Un sumidero con agujeros es un tipo de sumidero que cuenta con perforaciones o aberturas para facilitar la evacuación del agua.",
-    "Diarrea. Trastorno gastrointestinal caracterizado por la frecuencia y la consistencia alterada de las heces, generalmente con una mayor cantidad de agua y sales que en el caso normal."
+    "Sumidero, alcantarilla.",
+    "Diarrea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Storm drain, catch basin.",
+    "Diarrea: a condition characterized by frequent and loose bowel movements, often accompanied by abdominal pain, nausea, and vomiting."
+  ],
   "source": "https://tesoro.pr"
 }

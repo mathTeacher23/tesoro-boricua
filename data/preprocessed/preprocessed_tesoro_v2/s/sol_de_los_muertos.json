@@ -3,9 +3,12 @@
   "term": "sol de los muertos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión que describe la hora crepuscular “cuando el",
+      "consolidated_definition": "Expresión que describe la hora crepuscular “cuando el sol ya está por tirarse”. El cielo adquiere un color pardo amarillento.",
+      "en_consolidated_definition": "Expression that describes the crepuscular hour \"when the sun is about to set\". The sky assumes a tawny yellow hue.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Expresión que describe la hora crepuscular “cuando el"
+    "Expresión que describe la hora crepuscular “cuando el sol ya está por tirarse”. El cielo adquiere un color pardo amarillento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Expression that describes the crepuscular hour \"when the sun is about to set\". The sky assumes a tawny yellow hue."
+  ],
   "source": "https://tesoro.pr"
 }

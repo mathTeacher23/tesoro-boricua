@@ -3,15 +3,18 @@
   "term": "carato",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bebida refrescante hecha con guanábana, agua y azúcar.",
+      "consolidated_definition": "Bebida espesa y fría, refrescante, hecha con arroz o maíz molido o con la pulpa de frutas frescas, como piña o guanábana, disuelta en agua y endulzada con azúcar blanco o papelón.",
+      "en_consolidated_definition": "Thick and cold beverage, refreshing drink made with milled rice or corn or the pulp of fresh fruits such as pineapple or guanabana dissolved in water and sweetened with white sugar or piloncillo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.7548",
-        "semantic_similarity_score": 0.7548,
-        "cluster_count": 7,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -64,26 +67,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bebida refrescante hecha con guanábana, agua y azúcar. “Don Cholo se enjugó el sudor con un pañuelo de hierbas, y humedeciéndose la boca en un vaso de carato de guanábana, empezó de nuevo: Señores.” Luis Bonafoux, Esbozos novelescos, 1894, p. 15.",
-          "Bebida refrescante hecha de la pulpa de guanábana madura.",
-          "Bebida refrescante hecha con la pulpa de la guanábana, agua, azúcar, limón, hielo y gotas de vainilla.",
-          "Bebida refrescante de guanábana con azúcar y agua.",
-          "Refresco hecho de la pulpa de la guanábana madura, agua y azúcar.",
-          "Bebida refrescante hecha con el jugo de la guanábana y aderezada con azúcar blanco y agua.",
           "Bebida espesa y fría, refrescante, hecha con arroz o maíz molido o con la pulpa de frutas frescas, como piña o guanábana, disuelta en agua y endulzada con azúcar blanco o papelón."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Genipa americana es un árbol de hasta 20 m de altura, con corteza áspera de color verde plomizo, hojas oblongas y opuestas, flores fragantes de color verde y fruto comestible; se utiliza en la medicina tradicional. (Rubiaceae; Genipa americana).",
+      "consolidated_definition": "Árbol de hasta 20 m de altura, con corteza áspera de color verde plomizo, abundantes ramificaciones, hojas oblongas, opuestas, flores fragantes de color verde y fruto comestible; se utiliza en la medicina tradicional. (Rubiaceae; Genipa americana).",
+      "en_consolidated_definition": "Tree reaching heights of up to 20 m, with rough, dark green bark, abundant branching, elliptical leaves that are oppositely arranged, fragrant flowers of a green color, and edible fruit; it is used in traditional medicine. (Rubiaceae; Genipa americana).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -112,9 +112,12 @@
     }
   },
   "es_definitions": [
-    "Bebida refrescante hecha con guanábana, agua y azúcar.",
-    "Genipa americana es un árbol de hasta 20 m de altura, con corteza áspera de color verde plomizo, hojas oblongas y opuestas, flores fragantes de color verde y fruto comestible; se utiliza en la medicina tradicional. (Rubiaceae; Genipa americana)."
+    "Bebida espesa y fría, refrescante, hecha con arroz o maíz molido o con la pulpa de frutas frescas, como piña o guanábana, disuelta en agua y endulzada con azúcar blanco o papelón.",
+    "Árbol de hasta 20 m de altura, con corteza áspera de color verde plomizo, abundantes ramificaciones, hojas oblongas, opuestas, flores fragantes de color verde y fruto comestible; se utiliza en la medicina tradicional. (Rubiaceae; Genipa americana)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Thick and cold beverage, refreshing drink made with milled rice or corn or the pulp of fresh fruits such as pineapple or guanabana dissolved in water and sweetened with white sugar or piloncillo.",
+    "Tree reaching heights of up to 20 m, with rough, dark green bark, abundant branching, elliptical leaves that are oppositely arranged, fragrant flowers of a green color, and edible fruit; it is used in traditional medicine. (Rubiaceae; Genipa americana)."
+  ],
   "source": "https://tesoro.pr"
 }

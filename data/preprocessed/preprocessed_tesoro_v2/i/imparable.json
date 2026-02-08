@@ -3,9 +3,12 @@
   "term": "imparable",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, batazo de un jugador que permite a otros compañeros ganar una o más bases y a él mismo embasarse.",
+      "en_consolidated_definition": "In baseball, a hit by a player that allows other teammates to gain one or more bases and for him to be on base as well.\n\nNota: En este contexto, \"embasarse\" se refiere a que el jugador que realizó el batazo también obtiene la oportunidad de avanzar en las bases.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, batazo de un jugador que permite a otros compañeros ganar una o más bases y a él mismo embasarse."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a hit by a player that allows other teammates to gain one or more bases and for him to be on base as well.\n\nNota: En este contexto, \"embasarse\" se refiere a que el jugador que realizó el batazo también obtiene la oportunidad de avanzar en las bases."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "perreta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rabieta de un niño",
+      "consolidated_definition": "Rabieta de un niño.",
+      "en_consolidated_definition": "Tantrum of a child.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Rabieta de un niño"
+    "Rabieta de un niño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tantrum of a child."
+  ],
   "source": "https://tesoro.pr"
 }

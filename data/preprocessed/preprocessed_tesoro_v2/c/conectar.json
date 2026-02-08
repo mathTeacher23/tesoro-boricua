@@ -3,15 +3,18 @@
   "term": "conectar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una persona que vende droga.",
+      "consolidated_definition": "Conseguir drogas.",
+      "en_consolidated_definition": "Obtener drogas ilegales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5319",
-        "semantic_similarity_score": 0.5319,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -40,21 +43,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Buscar a la persona que vende droga.",
           "Conseguir drogas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el béisbol, un batazo se refiere a la acción de golpear la pelota con el bate para enviarla volando hacia el campo contrario.",
+      "consolidated_definition": "En el beisbol, dar un batazo.",
+      "en_consolidated_definition": "To hit a home run in baseball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -83,15 +88,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Conectar: unir o poner en comunicación individuos a través de sistemas electrónicos, especialmente mediante Internet.",
+      "consolidated_definition": "inform. Comunicar, juntar, establecer relaciones. Enlazar o poner en comunicación individuos por medio de sistemas electrónicos; también, a individuos con la Red. Anglicismo adaptado, usual. DRAE 2001, del inglés. Este servicio ha tenido una gran acogida en todas las tiendas Borders, ya que el poder conectarse al Internet es una herramienta facilitadora al cliente para cualquier información adicional que pueda necesitar (El Nuevo Día, 21-08-06)",
+      "en_consolidated_definition": "To communicate, connect, or establish relationships. To link or put individuals in communication through electronic systems; also, to connect individuals with the Internet. An adapted Anglicism, commonly used. \n\nNote: DRAE 2001 is a reference to the Real Academia Española's dictionary (Diccionario de la Lengua Española), which indicates that this term was adopted from English in 2001.\n\nAlso, \"tiendas Borders\" refers to bookstores, specifically those of the now-defunct chain Borders Group. \n\nIn the given context, \"El Nuevo Día\" is a Puerto Rican newspaper, and the date \"21-08-06\" corresponds to August 21, 2006.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -121,10 +129,14 @@
     }
   },
   "es_definitions": [
-    "Una persona que vende droga.",
-    "En el béisbol, un batazo se refiere a la acción de golpear la pelota con el bate para enviarla volando hacia el campo contrario.",
-    "Conectar: unir o poner en comunicación individuos a través de sistemas electrónicos, especialmente mediante Internet."
+    "Conseguir drogas.",
+    "En el beisbol, dar un batazo.",
+    "inform. Comunicar, juntar, establecer relaciones. Enlazar o poner en comunicación individuos por medio de sistemas electrónicos; también, a individuos con la Red. Anglicismo adaptado, usual. DRAE 2001, del inglés. Este servicio ha tenido una gran acogida en todas las tiendas Borders, ya que el poder conectarse al Internet es una herramienta facilitadora al cliente para cualquier información adicional que pueda necesitar (El Nuevo Día, 21-08-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Obtener drogas ilegales.",
+    "To hit a home run in baseball.",
+    "To communicate, connect, or establish relationships. To link or put individuals in communication through electronic systems; also, to connect individuals with the Internet. An adapted Anglicism, commonly used. \n\nNote: DRAE 2001 is a reference to the Real Academia Española's dictionary (Diccionario de la Lengua Española), which indicates that this term was adopted from English in 2001.\n\nAlso, \"tiendas Borders\" refers to bookstores, specifically those of the now-defunct chain Borders Group. \n\nIn the given context, \"El Nuevo Día\" is a Puerto Rican newspaper, and the date \"21-08-06\" corresponds to August 21, 2006."
+  ],
   "source": "https://tesoro.pr"
 }

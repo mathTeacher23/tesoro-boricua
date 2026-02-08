@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "El pronóstico meteorológico tradicional en Puerto Rico se basa en observaciones diarias de variaciones atmosféricas durante los primeros doce días de enero, que representan cada mes del año en orden ascendente y descendente.",
+      "en_consolidated_definition": "The traditional weather forecast in Puerto Rico is based on daily observations of atmospheric variations during the first twelve days of January, which represent each month of the year in ascending and descending order.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -51,6 +54,8 @@
   "es_definitions": [
     "El pronóstico meteorológico tradicional en Puerto Rico se basa en observaciones diarias de variaciones atmosféricas durante los primeros doce días de enero, que representan cada mes del año en orden ascendente y descendente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The traditional weather forecast in Puerto Rico is based on daily observations of atmospheric variations during the first twelve days of January, which represent each month of the year in ascending and descending order."
+  ],
   "source": "https://tesoro.pr"
 }

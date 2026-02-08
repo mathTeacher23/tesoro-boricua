@@ -3,15 +3,18 @@
   "term": "guinda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "\"Cuesta empinada\": Pendiente pronunciada o inclinada en un terreno o camino.",
+      "en_consolidated_definition": "Pendiente pronunciada o inclinación en un terreno o camino.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.7791",
-        "semantic_similarity_score": 0.7791,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.7645",
+        "semantic_similarity_score": 0.7645,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -60,7 +63,7 @@
         "related_words": [],
         "reference_definitions": [
           "vulg. Cuesta empinada.",
-          "Barranco, cuesta empinada.",
+          "(jíbaro) Barranco, cuesta empinada.",
           "Cuesta empinada.",
           "Cuesta empinada.",
           "Barranco, cuesta, jalda.",
@@ -69,14 +72,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Planta ornamental",
+      "consolidated_definition": "Arbusto perenne. Solanaceae, Solanum seaforthianum.",
+      "en_consolidated_definition": "Perennial shrub. Solanaceae, Solanum seaforthianum.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4555",
-        "semantic_similarity_score": 0.4555,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -110,17 +116,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Planta ornamental. También llamada viuda y falsa belladona.",
-          "Legenaria vulgaris.",
           "Arbusto perenne. Solanaceae, Solanum seaforthianum."
         ]
       }
     }
   },
   "es_definitions": [
-    "vulg",
-    "Planta ornamental"
+    "\"Cuesta empinada\": Pendiente pronunciada o inclinada en un terreno o camino.",
+    "Arbusto perenne. Solanaceae, Solanum seaforthianum."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pendiente pronunciada o inclinación en un terreno o camino.",
+    "Perennial shrub. Solanaceae, Solanum seaforthianum."
+  ],
   "source": "https://tesoro.pr"
 }

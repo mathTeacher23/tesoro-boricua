@@ -3,9 +3,12 @@
   "term": "embudo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Almacén",
+      "consolidated_definition": "Almacén. En la central, lugar donde se guarda el azúcar sin refinar.",
+      "en_consolidated_definition": "Sugar storage facility. In the central sugar mill, a place where raw sugar is stored.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Almacén"
+    "Almacén. En la central, lugar donde se guarda el azúcar sin refinar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sugar storage facility. In the central sugar mill, a place where raw sugar is stored."
+  ],
   "source": "https://tesoro.pr"
 }

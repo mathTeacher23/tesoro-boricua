@@ -3,9 +3,12 @@
   "term": "vega",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La llanura más o menos dilatada",
+      "consolidated_definition": "La llanura más o menos dilatada, sin vegetación arbórea. También llano, llanito, llanada, pasto, sabana.",
+      "en_consolidated_definition": "The relatively broad and extended plain without arboreal vegetation. Also flatland, lowland, meadow, pasture, savanna.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La llanura más o menos dilatada"
+    "La llanura más o menos dilatada, sin vegetación arbórea. También llano, llanito, llanada, pasto, sabana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The relatively broad and extended plain without arboreal vegetation. Also flatland, lowland, meadow, pasture, savanna."
+  ],
   "source": "https://tesoro.pr"
 }

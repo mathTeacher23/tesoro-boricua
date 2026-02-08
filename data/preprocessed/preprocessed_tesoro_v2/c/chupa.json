@@ -3,15 +3,18 @@
   "term": "chupa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vulg. Chupada.",
+      "consolidated_definition": "vulg. Chupada.",
+      "en_consolidated_definition": "Colloquialism. Pulled cigarette.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Bagazo: Residuo fibroso que queda después de exprimir un fruto, como en el caso de la naranja.",
+      "consolidated_definition": "Bagazo de la naranja.",
+      "en_consolidated_definition": "Orange peel pulp.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.847",
-        "semantic_similarity_score": 0.847,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -75,16 +81,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "También la chupa es el bagazo de la naranja.",
           "Bagazo de la naranja."
         ]
       }
     }
   },
   "es_definitions": [
-    "Vulg. Chupada.",
-    "Bagazo: Residuo fibroso que queda después de exprimir un fruto, como en el caso de la naranja."
+    "vulg. Chupada.",
+    "Bagazo de la naranja."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Colloquialism. Pulled cigarette.",
+    "Orange peel pulp."
+  ],
   "source": "https://tesoro.pr"
 }

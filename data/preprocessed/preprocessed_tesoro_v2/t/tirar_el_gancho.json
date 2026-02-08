@@ -3,9 +3,12 @@
   "term": "tirar el gancho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablar con alguien y convencerlo",
+      "consolidated_definition": "Hablar con alguien y convencerlo.",
+      "en_consolidated_definition": "Conversar con alguien para persuadirlo o convencerlo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Hablar con alguien y convencerlo"
+    "Hablar con alguien y convencerlo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conversar con alguien para persuadirlo o convencerlo."
+  ],
   "source": "https://tesoro.pr"
 }

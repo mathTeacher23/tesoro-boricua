@@ -3,15 +3,18 @@
   "term": "pase",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Movimiento de manos o sobo, relacionado con una organización",
+      "consolidated_definition": "Movimiento de manos o gesto suave y tranquilo realizado por un espiritista que tiene como objetivo calmar o consolar a alguien.",
+      "en_consolidated_definition": "Movement of hands or gentle and tranquil gesture performed by a spiritist with the aim of calming or consoling someone.\n\nNota: En este contexto, \"espiritista\" se refiere a una persona que practica la espiritualidad o el espiritismo, lo cual es común en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4221",
-        "semantic_similarity_score": 0.4221,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4233",
+        "semantic_similarity_score": 0.4233,
+        "cluster_count": 6,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,7 +51,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Movimiento de manos o sobo, con carácter tranquilizador, que le hace el espiritista a una persona.",
+          "(general) Movimiento de manos o sobo, con carácter tranquilizador, que le hace el espiritista a una persona.",
           "Mentira, bluff.",
           "Efluvio espiritual agitando las manos, que transmite una mediunidad espiritista, para aliviar o curar a un enfermo.",
           "Mentira. Paquete.",
@@ -58,14 +61,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "En el cosecho del batatal cada vez que",
+      "consolidated_definition": "Saque de una cosecha del batatal.",
+      "en_consolidated_definition": "Harvest the batata crop.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8296",
-        "semantic_similarity_score": 0.8296,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -94,20 +100,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En el cosecho del batatal cada vez que hay un saque.",
           "Saque de una cosecha del batatal."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Voz usada por drogadictos",
+      "consolidated_definition": "Inhalación de marihuana.",
+      "en_consolidated_definition": "Marijuana inhalation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8561",
-        "semantic_similarity_score": 0.8561,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -136,17 +144,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Voz usada por drogadictos. Inhalación de marihuana.",
           "Inhalación de marihuana."
         ]
       }
     }
   },
   "es_definitions": [
-    "Movimiento de manos o sobo, relacionado con una organización",
-    "En el cosecho del batatal cada vez que",
-    "Voz usada por drogadictos"
+    "Movimiento de manos o gesto suave y tranquilo realizado por un espiritista que tiene como objetivo calmar o consolar a alguien.",
+    "Saque de una cosecha del batatal.",
+    "Inhalación de marihuana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Movement of hands or gentle and tranquil gesture performed by a spiritist with the aim of calming or consoling someone.\n\nNota: En este contexto, \"espiritista\" se refiere a una persona que practica la espiritualidad o el espiritismo, lo cual es común en Puerto Rico.",
+    "Harvest the batata crop.",
+    "Marijuana inhalation."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "La pieza central de la rueda, ubicada en la punta de las llantas, es conocido como el eje o centro de la rueda.",
+      "en_consolidated_definition": "The central component of the wheel, located at the tip of the tires, is known as the axle or hub of the wheel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -47,15 +50,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La bomba es un baile africano de origen oral que se caracteriza por la percusión del tambor homónimo y el acompañamiento de un canto específico.",
+      "consolidated_definition": "Género musical de influencia africana que consiste en un reto, conversación y diálogo entre el tocador y el bailador.",
+      "en_consolidated_definition": "Musical genre of African influence characterized by a challenge, conversation, and dialogue between the performer and the dancer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "num_cleaned_definitions": 11,
-        "definition_stability": "Stability: 0.5628",
-        "semantic_similarity_score": 0.5628,
-        "cluster_count": 11,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -122,30 +128,23 @@
           "bombero"
         ],
         "reference_definitions": [
-          "Baile africano, en que sólo se toca este instrumento, y canto que acompaña este baile. “Pero yo creo que la bomba de los mandingas y carabalíes... no era tan lúbrica como nuestra soñadora danza.” Daubón, Cosas de , p. 176.",
-          "Baile popular acompañado de canto, de origen africano.",
-          "Baile de origen africano.",
-          "Baile, composición poético-musical e instrumento musical.",
-          "Baile de origen africano que se acompaña del son del tambor, también llamado bomba.",
-          "Baile y música de origen negro.",
-          "Baile y canto africanos, afro.",
-          "Composición musical afronegroide, cantable y bailable, que se acompaña con el repique del tambor llamado bomba. En la interpretación cantable intervienen generalmente un cantador o cantadora, que entona la letra de la canción, y un coro acompañante en los estribillos. La letra, según las grabaciones que hemos oído, si es que no carece de sentido casi por completo, dice por lo general muy poco, y, mediante la repetición frecuente de unas mismas palabras y frases, comunica una impresión de monotonía. La música, no empece la hábil ejecución que es frecuente encontrar en los tocadores del tambor, es igualmente monótona y muchas veces algo estridente.",
-          "Nombre que clasifica genéricamente al tipo de bailes de origen africano o afroantillano —bailes de bomba o de bombas— que se acompañan del repique del tambor llamado bomba y de los cantos particulares de igual denominación.",
-          "Género musical de influencia africana que consiste en un reto, conversación y diálogo entre el tocador y el bailador.",
-          "Música de este género."
+          "Género musical de influencia africana que consiste en un reto, conversación y diálogo entre el tocador y el bailador."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Infundio: información falsa o dudosa que se presenta como verdadera.",
+      "consolidated_definition": ". Noticia falsa o dudosa; mentira, bola.",
+      "en_consolidated_definition": "False or dubious news; a lie or fabrication.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -175,15 +174,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Un tambor grande, especialmente utilizado en la música tradicional africana o afroamericana.",
+      "consolidated_definition": "Tambor de madera de 1 m de altura con una sola membrana, hecha de cuero de cabra.",
+      "en_consolidated_definition": "Wooden drum 1 m in height with a single membrane made of goat skin.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.5191",
-        "semantic_similarity_score": 0.5191,
-        "cluster_count": 7,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -241,27 +243,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bombo o tambor grande.",
-          "Tambor de madera, de aproximadamente tres pies de alto, con una sola membrana . En vez de ahuecar “el tronco, como hacían nuestros indios para fabricar sus tambores, el negro construye la bomba —según la doctora Cadilla— valiéndose de un barril pequeño, sin fondo, a uno de cuyos extremos ata un cuero bien estirado”.",
-          "(general) Tambor grande, especialmente el de los negros.",
-          "Tambor grande especialmente el de los negros.",
-          "Tambor hecho con un barril y un pellejo de chivo.",
-          "Instrumento de percusión de yagrumo ahuecado usado para música.",
-          "Tambor unimembranófono de tamaño grande, hecho de madera, el cual se utiliza en número de dos, de sonidos respectivos graves y agudos, acompañados, como medio productor de ritmo adicional, del par de palillos o paletas delgadas de madera llamadas conjuntamente los cuas.",
           "Tambor de madera de 1 m de altura con una sola membrana, hecha de cuero de cabra."
         ]
       }
     },
     "5": {
-      "consolidated_definition": "La letra de la bomba es una copla improvisada, generalmente de tono jocoso, que se recita en ciertos bailes folclóricos o populares, con el fin de dar bromas y rechiflar a alguien.",
+      "consolidated_definition": "Copla o cuarteta, generalmente de tono jocoso, que se dice en ciertos bailes folclóricos o populares.",
+      "en_consolidated_definition": "Jocular verse or quatrain, typically of a playful tone, recited in certain folkloric or popular dances.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5892",
-        "semantic_similarity_score": 0.5892,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -294,24 +292,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Letra de la bomba (composición musical).",
-          "Copla improvisada, las más de las veces, de sentido satírico jocoso, que se recita en el baile denominado seis chorreao o seis bombeao.",
-          "Copla que se recita en el baile del seis chorreao, con el fin de dar bromas y rechiflar a alguien.",
-          "Copla o cuarteta, generalmente de tono jocoso, que se dice en ciertos bailes folclóricos o populares.",
-          "Copla improvisada con que el bailador de zapateo suele galantear a la bailadora o ridiculizar a algún rival."
+          "Copla o cuarteta, generalmente de tono jocoso, que se dice en ciertos bailes folclóricos o populares."
         ]
       }
     },
     "6": {
-      "consolidated_definition": "\"Plátano de tres filos\": fruta de banana con tres capas o filos visibles en su exterior.",
+      "consolidated_definition": "Un plátano de tres filos. También chumbo.",
+      "en_consolidated_definition": "A banana with three ridges. Also known as chumbo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -339,15 +336,18 @@
       }
     },
     "7": {
-      "consolidated_definition": "Un globo elástico es un objeto flexible que se infla con aire o gas.",
+      "consolidated_definition": "Globo inflable de goma.",
+      "en_consolidated_definition": "Rubber inflatable balloon.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5806",
-        "semantic_similarity_score": 0.5806,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -375,21 +375,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Globo elástico que se infla.",
           "Globo inflable de goma."
         ]
       }
     },
     "8": {
-      "consolidated_definition": "El surtidor de gasolina es un dispositivo que dispensa gasolina a los vehículos en estaciones de servicio.",
+      "consolidated_definition": "El surtidor de gasolina.",
+      "en_consolidated_definition": "Gasoline pump or fuel dispenser.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -421,14 +423,23 @@
   },
   "es_definitions": [
     "La pieza central de la rueda, ubicada en la punta de las llantas, es conocido como el eje o centro de la rueda.",
-    "La bomba es un baile africano de origen oral que se caracteriza por la percusión del tambor homónimo y el acompañamiento de un canto específico.",
-    "Infundio: información falsa o dudosa que se presenta como verdadera.",
-    "Un tambor grande, especialmente utilizado en la música tradicional africana o afroamericana.",
-    "La letra de la bomba es una copla improvisada, generalmente de tono jocoso, que se recita en ciertos bailes folclóricos o populares, con el fin de dar bromas y rechiflar a alguien.",
-    "\"Plátano de tres filos\": fruta de banana con tres capas o filos visibles en su exterior.",
-    "Un globo elástico es un objeto flexible que se infla con aire o gas.",
-    "El surtidor de gasolina es un dispositivo que dispensa gasolina a los vehículos en estaciones de servicio."
+    "Género musical de influencia africana que consiste en un reto, conversación y diálogo entre el tocador y el bailador.",
+    ". Noticia falsa o dudosa; mentira, bola.",
+    "Tambor de madera de 1 m de altura con una sola membrana, hecha de cuero de cabra.",
+    "Copla o cuarteta, generalmente de tono jocoso, que se dice en ciertos bailes folclóricos o populares.",
+    "Un plátano de tres filos. También chumbo.",
+    "Globo inflable de goma.",
+    "El surtidor de gasolina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The central component of the wheel, located at the tip of the tires, is known as the axle or hub of the wheel.",
+    "Musical genre of African influence characterized by a challenge, conversation, and dialogue between the performer and the dancer.",
+    "False or dubious news; a lie or fabrication.",
+    "Wooden drum 1 m in height with a single membrane made of goat skin.",
+    "Jocular verse or quatrain, typically of a playful tone, recited in certain folkloric or popular dances.",
+    "A banana with three ridges. Also known as chumbo.",
+    "Rubber inflatable balloon.",
+    "Gasoline pump or fuel dispenser."
+  ],
   "source": "https://tesoro.pr"
 }

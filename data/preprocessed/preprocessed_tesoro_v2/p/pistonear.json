@@ -3,15 +3,18 @@
   "term": "pistonear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Equivocarse con frecuencia al hablar",
+      "consolidated_definition": "Equivocarse con frecuencia al hablar.",
+      "en_consolidated_definition": "Frecuentemente confundirse en sus palabras al hablar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5593",
-        "semantic_similarity_score": 0.5593,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5524",
+        "semantic_similarity_score": 0.5524,
+        "cluster_count": 3,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -48,7 +51,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Equivocarse con frecuencia al hablar.",
+          "(general) Equivocarse con frecuencia al hablar.",
           "Equivocarse con frecuencia al hablar.",
           "Hablar mascullando las palabras o con equívocos.",
           "Gaguear."
@@ -56,9 +59,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Funcionar mal y ruidosamente un motor por fallo",
+      "consolidated_definition": "Funcionar mal y ruidosamente un motor por fallo en la combustión.",
+      "en_consolidated_definition": "To function improperly and noisily due to a combustion failure in an engine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -94,9 +100,12 @@
     }
   },
   "es_definitions": [
-    "Equivocarse con frecuencia al hablar",
-    "Funcionar mal y ruidosamente un motor por fallo"
+    "Equivocarse con frecuencia al hablar.",
+    "Funcionar mal y ruidosamente un motor por fallo en la combustión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Frecuentemente confundirse en sus palabras al hablar.",
+    "To function improperly and noisily due to a combustion failure in an engine."
+  ],
   "source": "https://tesoro.pr"
 }

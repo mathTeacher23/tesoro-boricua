@@ -3,9 +3,12 @@
   "term": "time-share",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver time share",
+      "consolidated_definition": "Ver time share .",
+      "en_consolidated_definition": "See time share.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver time share"
+    "Ver time share ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See time share."
+  ],
   "source": "https://tesoro.pr"
 }

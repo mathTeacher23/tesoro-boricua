@@ -3,9 +3,12 @@
   "term": "dulce de naranja prieta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Preparación a base de la corteza majada de",
+      "consolidated_definition": "Preparación a base de la corteza majada de naranjas, azúcar y fécula de maíz.",
+      "en_consolidated_definition": "Preparation made from ground orange peel, sugar, and cornstarch.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Preparación a base de la corteza majada de"
+    "Preparación a base de la corteza majada de naranjas, azúcar y fécula de maíz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Preparation made from ground orange peel, sugar, and cornstarch."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tirar la tela",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vestirse muy bien y con la mejor ropa",
+      "consolidated_definition": "Vestirse muy bien y con la mejor ropa.",
+      "en_consolidated_definition": "Dress up very well and in the finest attire.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Vestirse muy bien y con la mejor ropa"
+    "Vestirse muy bien y con la mejor ropa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dress up very well and in the finest attire."
+  ],
   "source": "https://tesoro.pr"
 }

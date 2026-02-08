@@ -3,9 +3,12 @@
   "term": "ramería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de ramas cortadas o no",
+      "consolidated_definition": "Conjunto de ramas cortadas o no, de árboles.",
+      "en_consolidated_definition": "Collection of cut or uncut branches from trees.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Conjunto de ramas cortadas o no"
+    "Conjunto de ramas cortadas o no, de árboles."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Collection of cut or uncut branches from trees."
+  ],
   "source": "https://tesoro.pr"
 }

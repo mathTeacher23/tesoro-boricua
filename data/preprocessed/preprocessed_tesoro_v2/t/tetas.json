@@ -3,9 +3,12 @@
   "term": "tetas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La ubre",
+      "consolidated_definition": "La ubre.",
+      "en_consolidated_definition": "Udder (in the context of a cow or other ruminant)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "La ubre"
+    "La ubre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Udder (in the context of a cow or other ruminant)"
+  ],
   "source": "https://tesoro.pr"
 }

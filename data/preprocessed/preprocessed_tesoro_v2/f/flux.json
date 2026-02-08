@@ -3,9 +3,12 @@
   "term": "flux",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Traje masculino que se compone de pantalón",
+      "consolidated_definition": "Traje masculino que se compone de pantalón, saco y ocasionalmente chaleco, hechos de una misma tela.",
+      "en_consolidated_definition": "Three-piece suit: a masculine garment consisting of trousers, jacket, and occasionally waistcoat, all made from the same fabric.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Traje masculino que se compone de pantalón"
+    "Traje masculino que se compone de pantalón, saco y ocasionalmente chaleco, hechos de una misma tela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Three-piece suit: a masculine garment consisting of trousers, jacket, and occasionally waistcoat, all made from the same fabric."
+  ],
   "source": "https://tesoro.pr"
 }

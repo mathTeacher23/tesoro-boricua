@@ -3,15 +3,18 @@
   "term": "cucharón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una pala pequeña con mango corto para sacar granos de un contenedor.",
+      "consolidated_definition": "Pequeña pala de mango corto para sacar granos de un recipiente.",
+      "en_consolidated_definition": "Small scoop with a short handle for removing grains from a container.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9015",
-        "semantic_similarity_score": 0.9015,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pequeña pala con mango corto para sacar granos de un contenedor.",
           "Pequeña pala de mango corto para sacar granos de un recipiente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Una pala pequeña con mango corto para sacar granos de un contenedor."
+    "Pequeña pala de mango corto para sacar granos de un recipiente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small scoop with a short handle for removing grains from a container."
+  ],
   "source": "https://tesoro.pr"
 }

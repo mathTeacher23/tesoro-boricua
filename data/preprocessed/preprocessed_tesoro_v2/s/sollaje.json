@@ -3,9 +3,12 @@
   "term": "sollaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El cuero",
+      "consolidated_definition": "El cuero, con o sin lana, de un animal después de desollado.",
+      "en_consolidated_definition": "The hide, with or without wool, of an animal after being skinned.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El cuero"
+    "El cuero, con o sin lana, de un animal después de desollado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The hide, with or without wool, of an animal after being skinned."
+  ],
   "source": "https://tesoro.pr"
 }

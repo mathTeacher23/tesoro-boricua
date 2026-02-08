@@ -3,9 +3,12 @@
   "term": "echar en boche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reprender",
+      "consolidated_definition": "Reprender, regañar una persona a alguien.",
+      "en_consolidated_definition": "Reprimand, scold someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Reprender"
+    "Reprender, regañar una persona a alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Reprimand, scold someone."
+  ],
   "source": "https://tesoro.pr"
 }

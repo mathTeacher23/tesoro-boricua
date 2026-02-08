@@ -3,14 +3,17 @@
   "term": "trainer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Adiestrador, relacionado con un grupo",
+      "consolidated_definition": "Entrenador, especialmente en el deporte.",
+      "en_consolidated_definition": "Coach, especialmente en el deporte.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4328",
-        "semantic_similarity_score": 0.4328,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -54,17 +57,16 @@
           "training"
         ],
         "reference_definitions": [
-          "Adiestrador.",
-          "Persona que da adiestramientos.",
-          "dep. Entrenador. Profesional dedicado al entrenamiento de personas. Anglicismo crudo, poco frecuente. “He hablado con su trainer para ver lo que están haciendo y se ve bien”, destacó Oquendo, reconociendo que su equipo necesita reforzarse con un par de veteranos tras la salida de los jugadores Jim Edmonds, Scott Rolen y David Eckstein",
           "Entrenador, especialmente en el deporte."
         ]
       }
     }
   },
   "es_definitions": [
-    "Adiestrador, relacionado con un grupo"
+    "Entrenador, especialmente en el deporte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coach, especialmente en el deporte."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "team",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". “Los oficiales que componen el team de la policía...”, relacionado con un grupo",
+      "consolidated_definition": "Equipo, conjunto deportivo.",
+      "en_consolidated_definition": "Athletic team, sports ensemble.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5405",
-        "semantic_similarity_score": 0.5405,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -58,18 +61,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          ". “Los oficiales que componen el team de la policía...”",
-          "Equipo, conjunto deportivo. Algunos dicen tin.",
-          "Equipo deportivo.",
-          "dep. Equipo. Conjunto de deportistas o jugadores que componen un equipo; por extensión, grupo de dos o más personas que trabajan juntas. Anglicismo crudo, poco frecuente. En esa época le recomendé, por cuanto ya veía los problemas que iban a ocurrir en Bayamón más adelante, que se contrataran los servicios de un team de trabajo que había de la escuela de Administración Pública de la Universidad de Cornell en Puerto Rico, precisamente asesorando al gobierno estatal, haciendo estudios de varias dependencias y varios departamentos para reorganizar los mismos",
           "Equipo, conjunto deportivo."
         ]
       }
     }
   },
   "es_definitions": [
-    ". “Los oficiales que componen el team de la policía...”, relacionado con un grupo"
+    "Equipo, conjunto deportivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Athletic team, sports ensemble."
+  ],
   "source": "https://tesoro.pr"
 }

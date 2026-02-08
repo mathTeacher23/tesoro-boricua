@@ -3,9 +3,12 @@
   "term": "penitenciario, ria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Presidiario",
+      "consolidated_definition": "Presidiario, ria.",
+      "en_consolidated_definition": "Incarcerated person, specifically a prisoner from the Río (a neighborhood or district in Puerto Rico).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Presidiario"
+    "Presidiario, ria."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Incarcerated person, specifically a prisoner from the Río (a neighborhood or district in Puerto Rico)."
+  ],
   "source": "https://tesoro.pr"
 }

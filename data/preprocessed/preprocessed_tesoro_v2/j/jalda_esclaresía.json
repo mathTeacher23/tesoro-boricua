@@ -3,9 +3,12 @@
   "term": "jalda esclaresía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sin follaje apenas para sombrear el cafetal",
+      "consolidated_definition": "Sin follaje apenas para sombrear el cafetal.",
+      "en_consolidated_definition": "Almost no foliage to shade the coffee plantation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sin follaje apenas para sombrear el cafetal"
+    "Sin follaje apenas para sombrear el cafetal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Almost no foliage to shade the coffee plantation."
+  ],
   "source": "https://tesoro.pr"
 }

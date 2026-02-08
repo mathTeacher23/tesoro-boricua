@@ -3,15 +3,18 @@
   "term": "araña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La amapola de jardín es un tipo de planta ornamental caracterizada por sus flores rojas y vistosas, comúnmente cultivada en jardines.",
+      "consolidated_definition": "En San Lorenzo, la roja y vistosa amapola de jardín.",
+      "en_consolidated_definition": "In San Lorenzo, the red and showy garden poppy.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,11 @@
     },
     "2": {
       "consolidated_definition": "La máquina utilizada en el cultivo de la caña que llena carretones y recoge la caña mediante 12 ganchos mecánicos.",
+      "en_consolidated_definition": "The machine used in sugarcane cultivation that fills carts and harvests the cane using 12 mechanical hooks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -83,15 +89,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "El área externa del órgano genital femenino, que comprende la vulva.",
+      "consolidated_definition": "Vulva.",
+      "en_consolidated_definition": "Vulva: the external female genital area.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5699",
-        "semantic_similarity_score": 0.5699,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -124,18 +133,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Órgano sexual femenino.",
-          "Vulva.",
           "Vulva."
         ]
       }
     }
   },
   "es_definitions": [
-    "La amapola de jardín es un tipo de planta ornamental caracterizada por sus flores rojas y vistosas, comúnmente cultivada en jardines.",
+    "En San Lorenzo, la roja y vistosa amapola de jardín.",
     "La máquina utilizada en el cultivo de la caña que llena carretones y recoge la caña mediante 12 ganchos mecánicos.",
-    "El área externa del órgano genital femenino, que comprende la vulva."
+    "Vulva."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In San Lorenzo, the red and showy garden poppy.",
+    "The machine used in sugarcane cultivation that fills carts and harvests the cane using 12 mechanical hooks.",
+    "Vulva: the external female genital area."
+  ],
   "source": "https://tesoro.pr"
 }

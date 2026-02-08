@@ -3,9 +3,12 @@
   "term": "muchacha efe eme (f.m.)",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Falta de macho",
+      "consolidated_definition": "Falta de macho.",
+      "en_consolidated_definition": "Deficiencia o carencia de macho.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Falta de macho"
+    "Falta de macho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Deficiencia o carencia de macho."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "danish",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Pastelillo\": confección dulce cubierta de crema y azúcar, que pertenece a la categoría de productos de repostería.",
+      "consolidated_definition": "En pastelería, pastel de hojaldre relleno de manzana y almendras.",
+      "en_consolidated_definition": "Pastry made with puff pastry filled with apple and almonds.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4629",
-        "semantic_similarity_score": 0.4629,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Panecillo dulce cubierto de crema y azúcar. Anglicismo crudo, frecuente. El término productos de repostería significa cualquier confección o combinación de harina, azúcar u otros productos para producir, entre otros, bizcochos, pasteles, pastelillos dulces, donas, tartas, biscuits, bagels, croissants, danish y galletas, incluyendo galletas dulces y saladas (Departamento de Hacienda, 14-11-06)",
           "En pastelería, pastel de hojaldre relleno de manzana y almendras."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Pastelillo\": confección dulce cubierta de crema y azúcar, que pertenece a la categoría de productos de repostería."
+    "En pastelería, pastel de hojaldre relleno de manzana y almendras."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pastry made with puff pastry filled with apple and almonds."
+  ],
   "source": "https://tesoro.pr"
 }

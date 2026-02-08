@@ -3,9 +3,12 @@
   "term": "mechero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacha o grilla",
+      "consolidated_definition": "Hacha o grilla. Mechón o antorcha.",
+      "en_consolidated_definition": "Axe or grill. Lock of hair or torch.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Lámpara de petróleo con una mecha",
+      "consolidated_definition": "Lámpara de petróleo con una mecha.",
+      "en_consolidated_definition": "Oil lamp with a wick.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Hacha o grilla",
-    "Lámpara de petróleo con una mecha"
+    "Hacha o grilla. Mechón o antorcha.",
+    "Lámpara de petróleo con una mecha."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Axe or grill. Lock of hair or torch.",
+    "Oil lamp with a wick."
+  ],
   "source": "https://tesoro.pr"
 }

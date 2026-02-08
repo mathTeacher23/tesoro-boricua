@@ -3,9 +3,12 @@
   "term": "garzón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Es el mismo gallo garza",
+      "consolidated_definition": "Es el mismo gallo garza.",
+      "en_consolidated_definition": "It is the same as a gallito (rooster).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Es el mismo gallo garza"
+    "Es el mismo gallo garza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "It is the same as a gallito (rooster)."
+  ],
   "source": "https://tesoro.pr"
 }

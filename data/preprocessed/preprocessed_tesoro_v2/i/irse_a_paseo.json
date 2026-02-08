@@ -3,9 +3,12 @@
   "term": "irse a paseo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión que se utiliza en lugar de una",
+      "consolidated_definition": "Expresión que se utiliza en lugar de una mala palabra.",
+      "en_consolidated_definition": "Euphemismo que se utiliza en lugar de una palabra ofensiva o indecente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Expresión que se utiliza en lugar de una"
+    "Expresión que se utiliza en lugar de una mala palabra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Euphemismo que se utiliza en lugar de una palabra ofensiva o indecente."
+  ],
   "source": "https://tesoro.pr"
 }

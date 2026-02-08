@@ -3,9 +3,12 @@
   "term": "fuleado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido al tanque o depósito de combustible de",
+      "consolidated_definition": "Referido al tanque o depósito de combustible de un vehículo, lleno.",
+      "en_consolidated_definition": "Filled fuel tank or reservoir of a vehicle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Referido al tanque o depósito de combustible de"
+    "Referido al tanque o depósito de combustible de un vehículo, lleno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Filled fuel tank or reservoir of a vehicle."
+  ],
   "source": "https://tesoro.pr"
 }

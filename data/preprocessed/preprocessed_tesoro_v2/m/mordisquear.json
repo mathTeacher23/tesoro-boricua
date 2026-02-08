@@ -3,9 +3,12 @@
   "term": "mordisquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comer algo entre comidas",
+      "consolidated_definition": "Comer algo entre comidas.",
+      "en_consolidated_definition": "Snack \n\nTo eat something between meals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Comer algo entre comidas"
+    "Comer algo entre comidas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Snack \n\nTo eat something between meals."
+  ],
   "source": "https://tesoro.pr"
 }

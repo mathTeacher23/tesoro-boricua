@@ -3,14 +3,17 @@
   "term": "swing",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estilo",
+      "consolidated_definition": "Estilo de una persona al hablar o al moverse.",
+      "en_consolidated_definition": "Manner of a person in speaking or moving.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4083",
-        "semantic_similarity_score": 0.4083,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -43,20 +46,22 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Estilo.",
           "Estilo de una persona al hablar o al moverse."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "En el beisbol, movimiento coordinado realizado con los brazos por un pelotero al intentar batear la pelota lanzada por el pícher.",
+      "en_consolidated_definition": "In baseball, a coordinated movement of the arms performed by a batter in attempting to hit the ball thrown by the pitcher.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5707",
-        "semantic_similarity_score": 0.5707,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -85,15 +90,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de béisbol y otros deportes, movimiento coordinado realizado con los brazos cuando el jugador intenta conectar la pelota. Anglicismo crudo, frecuente. “Es un deporte familiar que me gusta porque puedo compartir con papi. Viéndolo a él jugar fue que me dio curiosidad por agarrar un palo y el maestro dijo que tenía buen swing”, explica el golfista, quien dedica más de cuatro horas semanales a la práctica",
           "En el beisbol, movimiento coordinado realizado con los brazos por un pelotero al intentar batear la pelota lanzada por el pícher."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Ritmo",
+      "consolidated_definition": "Ritmo. Cualidad musical inefable; también, estilo musical dentro de la evolución del jazz. Anglicismo crudo, poco frecuente. Frase: tener (un) swing. Tan distante de aquel joven que quería explorar un tipo de música que permitiera la improvisación, el swing, pero no encajaba en el mundo del jazz y del hihop, en ese momento casi exclusivo de los músicos negros y drogadictos intravenosos (El Nuevo Día, 31-10-07)",
+      "en_consolidated_definition": "Rhythm. Intangible musical quality; also, a style of music within the evolution of jazz. Raw anglicism, infrequently used. Phrase: to have (a) swing.\n\nNote: In this context, \"swing\" refers to a style of jazz characterized by strong rhythmic accents and syncopation, often associated with African-American musicians.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -122,16 +129,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Ritmo. Cualidad musical inefable; también, estilo musical dentro de la evolución del jazz. Anglicismo crudo, poco frecuente. Frase: tener swing. Tan distante de aquel joven que quería explorar un tipo de música que permitiera la improvisación, el swing, pero no encajaba en el mundo del jazz y del hihop, en ese momento casi exclusivo de los músicos negros y drogadictos intravenosos"
+          "Ritmo. Cualidad musical inefable; también, estilo musical dentro de la evolución del jazz. Anglicismo crudo, poco frecuente. Frase: tener (un) swing. Tan distante de aquel joven que quería explorar un tipo de música que permitiera la improvisación, el swing, pero no encajaba en el mundo del jazz y del hihop, en ese momento casi exclusivo de los músicos negros y drogadictos intravenosos (El Nuevo Día, 31-10-07)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Estilo",
-    "dep",
-    "Ritmo"
+    "Estilo de una persona al hablar o al moverse.",
+    "En el beisbol, movimiento coordinado realizado con los brazos por un pelotero al intentar batear la pelota lanzada por el pícher.",
+    "Ritmo. Cualidad musical inefable; también, estilo musical dentro de la evolución del jazz. Anglicismo crudo, poco frecuente. Frase: tener (un) swing. Tan distante de aquel joven que quería explorar un tipo de música que permitiera la improvisación, el swing, pero no encajaba en el mundo del jazz y del hihop, en ese momento casi exclusivo de los músicos negros y drogadictos intravenosos (El Nuevo Día, 31-10-07)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Manner of a person in speaking or moving.",
+    "In baseball, a coordinated movement of the arms performed by a batter in attempting to hit the ball thrown by the pitcher.",
+    "Rhythm. Intangible musical quality; also, a style of music within the evolution of jazz. Raw anglicism, infrequently used. Phrase: to have (a) swing.\n\nNote: In this context, \"swing\" refers to a style of jazz characterized by strong rhythmic accents and syncopation, often associated with African-American musicians."
+  ],
   "source": "https://tesoro.pr"
 }

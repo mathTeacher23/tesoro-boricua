@@ -3,15 +3,18 @@
   "term": "caimán",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Juego infantil que consiste en lanzar canicas a través de tres hoyos excavados en el suelo.",
+      "consolidated_definition": "Juego de niños con canicas y tres hoyos en la tierra.",
+      "en_consolidated_definition": "Game of children with marbles and three holes in the ground.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Un hombre que muestra un interés o fascinación excesiva por las mujeres.",
+      "consolidated_definition": "Hombre aficionado a las mujeres. Mujeriego.",
+      "en_consolidated_definition": "Womanizer: a man who has a strong interest in women; a womanizer.\n\nNota: En este contexto, el término \"mujeriego\" se refiere a un hombre que tiene una tendencia a frecuentar o tener relaciones con varias mujeres, sin compromiso emocional o serio.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,15 +81,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Persona que demuestra astucia y habilidad en sus acciones o decisiones.",
+      "consolidated_definition": "Persona muy astuta y hábil.",
+      "en_consolidated_definition": "Persona muy astuta y hábil se traduce a \"Cunning and skilled individual\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -113,10 +122,14 @@
     }
   },
   "es_definitions": [
-    "Juego infantil que consiste en lanzar canicas a través de tres hoyos excavados en el suelo.",
-    "Un hombre que muestra un interés o fascinación excesiva por las mujeres.",
-    "Persona que demuestra astucia y habilidad en sus acciones o decisiones."
+    "Juego de niños con canicas y tres hoyos en la tierra.",
+    "Hombre aficionado a las mujeres. Mujeriego.",
+    "Persona muy astuta y hábil."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Game of children with marbles and three holes in the ground.",
+    "Womanizer: a man who has a strong interest in women; a womanizer.\n\nNota: En este contexto, el término \"mujeriego\" se refiere a un hombre que tiene una tendencia a frecuentar o tener relaciones con varias mujeres, sin compromiso emocional o serio.",
+    "Persona muy astuta y hábil se traduce a \"Cunning and skilled individual\"."
+  ],
   "source": "https://tesoro.pr"
 }

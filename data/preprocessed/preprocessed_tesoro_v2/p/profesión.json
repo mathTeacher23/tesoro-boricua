@@ -3,9 +3,12 @@
   "term": "profesión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre para el acto de robar",
+      "consolidated_definition": "Nombre para el acto de robar; también para el oficio de prostitución.",
+      "en_consolidated_definition": "Theft; also the profession of prostitution.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Nombre para el acto de robar"
+    "Nombre para el acto de robar; también para el oficio de prostitución."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Theft; also the profession of prostitution."
+  ],
   "source": "https://tesoro.pr"
 }

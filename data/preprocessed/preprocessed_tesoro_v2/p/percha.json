@@ -3,15 +3,18 @@
   "term": "percha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tendidos a la sombra para secar café",
+      "consolidated_definition": "Tendido a la sombra para secar café o maíz.",
+      "en_consolidated_definition": "Dried under shade for coffee or corn.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.7106",
         "semantic_similarity_score": 0.7106,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -51,15 +54,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Despectivo",
+      "consolidated_definition": "\"Despectivo\": adjetivo que describe una persona o actitud que muestra desprecio o falta de respeto hacia alguien o algo.",
+      "en_consolidated_definition": "Disdainful: an adjective that describes a person or attitude showing disdain or lack of respect towards someone or something.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3489",
         "semantic_similarity_score": 0.3489,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -90,9 +96,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Armario sin puertas para colgar ropa",
+      "consolidated_definition": "Armario sin puertas para colgar ropa.",
+      "en_consolidated_definition": "Closet without doors for hanging clothes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -127,10 +136,14 @@
     }
   },
   "es_definitions": [
-    "Tendidos a la sombra para secar café",
-    "Despectivo",
-    "Armario sin puertas para colgar ropa"
+    "Tendido a la sombra para secar café o maíz.",
+    "\"Despectivo\": adjetivo que describe una persona o actitud que muestra desprecio o falta de respeto hacia alguien o algo.",
+    "Armario sin puertas para colgar ropa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dried under shade for coffee or corn.",
+    "Disdainful: an adjective that describes a person or attitude showing disdain or lack of respect towards someone or something.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Closet without doors for hanging clothes."
+  ],
   "source": "https://tesoro.pr"
 }

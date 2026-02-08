@@ -3,14 +3,17 @@
   "term": "víbora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Herbácea",
+      "consolidated_definition": "Planta herbácea perenne, de hojas opuestas lanceoladas, flores de color violeta dispuestas en racimos terminales y fruto en cápsulas. Scrophulariaceae; Angelonia angustifolia.",
+      "en_consolidated_definition": "Perennial herbaceous plant with opposite lanceolate leaves, violet-colored flowers arranged in terminal racemes, and fruit in capsules. Scrophulariaceae; Angelonia angustifolia.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3786",
-        "semantic_similarity_score": 0.3786,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Herbácea. . Cook.",
           "Planta herbácea perenne, de hojas opuestas lanceoladas, flores de color violeta dispuestas en racimos terminales y fruto en cápsulas. Scrophulariaceae; Angelonia angustifolia."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Juego infantil",
+      "consolidated_definition": "Juego infantil.",
+      "en_consolidated_definition": "Child's play or game.\n\nNota: Si se refiere a un término específico de Puerto Rico, como \"juego infantil\" en el contexto de una actividad cultural o tradicional, sería más preciso utilizar la expresión \"children's game\" o \"play activity\". Sin embargo, sin más información, la traducción anterior es la más adecuada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Herbácea",
-    "Juego infantil"
+    "Planta herbácea perenne, de hojas opuestas lanceoladas, flores de color violeta dispuestas en racimos terminales y fruto en cápsulas. Scrophulariaceae; Angelonia angustifolia.",
+    "Juego infantil."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Perennial herbaceous plant with opposite lanceolate leaves, violet-colored flowers arranged in terminal racemes, and fruit in capsules. Scrophulariaceae; Angelonia angustifolia.",
+    "Child's play or game.\n\nNota: Si se refiere a un término específico de Puerto Rico, como \"juego infantil\" en el contexto de una actividad cultural o tradicional, sería más preciso utilizar la expresión \"children's game\" o \"play activity\". Sin embargo, sin más información, la traducción anterior es la más adecuada."
+  ],
   "source": "https://tesoro.pr"
 }

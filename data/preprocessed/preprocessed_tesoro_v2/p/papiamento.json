@@ -3,9 +3,12 @@
   "term": "papiamento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cualquier lenguaje que emplee palabras de diferentes idiomas",
+      "consolidated_definition": "Cualquier lenguaje que emplee palabras de diferentes idiomas.",
+      "en_consolidated_definition": "Any language that employs words from different languages.\n\nNota: La definición original no menciona términos culturales específicos de Puerto Rico, por lo que no hay necesidad de preservar el contexto en este caso. Sin embargo, si la definición hubiera incluido un término cultural específico de Puerto Rico, habría sido traducido y mantenido en su contexto original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cualquier lenguaje que emplee palabras de diferentes idiomas"
+    "Cualquier lenguaje que emplee palabras de diferentes idiomas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Any language that employs words from different languages.\n\nNota: La definición original no menciona términos culturales específicos de Puerto Rico, por lo que no hay necesidad de preservar el contexto en este caso. Sin embargo, si la definición hubiera incluido un término cultural específico de Puerto Rico, habría sido traducido y mantenido en su contexto original."
+  ],
   "source": "https://tesoro.pr"
 }

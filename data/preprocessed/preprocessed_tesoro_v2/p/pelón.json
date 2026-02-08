@@ -3,9 +3,12 @@
   "term": "pelón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo con pocas plumas en la cola",
+      "consolidated_definition": "Gallo con pocas plumas en la cola.",
+      "en_consolidated_definition": "Rooster with few feathers on the tail.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Gallo con pocas plumas en la cola"
+    "Gallo con pocas plumas en la cola."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rooster with few feathers on the tail."
+  ],
   "source": "https://tesoro.pr"
 }

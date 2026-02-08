@@ -3,15 +3,18 @@
   "term": "cafetalista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que se dedica a la producción o cultivo de café en un cafetal.",
+      "consolidated_definition": "Dueño de un cafetal.",
+      "en_consolidated_definition": "Cafetalero \n\nOwner of a coffee plantation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9304",
-        "semantic_similarity_score": 0.9304,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Cafetero, dueño de un cafetal. Ac.",
           "Dueño de un cafetal."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que se dedica a la producción o cultivo de café en un cafetal."
+    "Dueño de un cafetal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cafetalero \n\nOwner of a coffee plantation."
+  ],
   "source": "https://tesoro.pr"
 }

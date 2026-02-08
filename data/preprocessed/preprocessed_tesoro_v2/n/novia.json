@@ -3,9 +3,12 @@
   "term": "novia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "fest",
+      "consolidated_definition": "fest. Escupidera, orinal.",
+      "en_consolidated_definition": "Public lavatory, urinal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Arbusto ornamental que echa muchas flores blancas",
+      "consolidated_definition": "Arbusto ornamental que echa muchas flores blancas. También llamada altea.",
+      "en_consolidated_definition": "Ornamental shrub that produces many white flowers. Also known as altea.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "fest",
-    "Arbusto ornamental que echa muchas flores blancas"
+    "fest. Escupidera, orinal.",
+    "Arbusto ornamental que echa muchas flores blancas. También llamada altea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Public lavatory, urinal.",
+    "Ornamental shrub that produces many white flowers. Also known as altea."
+  ],
   "source": "https://tesoro.pr"
 }

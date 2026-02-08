@@ -3,9 +3,12 @@
   "term": "mancheplátano",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mancha de plátano",
+      "consolidated_definition": "Mancha de plátano, conjunto de detalles.",
+      "en_consolidated_definition": "Banana stain, aggregate of details.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mancha de plátano"
+    "Mancha de plátano, conjunto de detalles."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Banana stain, aggregate of details."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Abertura en una prenda de vestir que facilita su uso y comodidad.",
+      "en_consolidated_definition": "Apertura en una prenda de vestir que facilita su uso y comodidad.\n\nTranslation:\n\nOpening in a garment that facilitates its use and comfort.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
         "num_cleaned_definitions": 7,
@@ -69,15 +72,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Ver boquilla\": sustantivo que designa el acto de observar o percibir algo superficialmente o de manera aparente.",
+      "consolidated_definition": "Ver boquilla 1 .",
+      "en_consolidated_definition": "See muzzle 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -93,8 +99,11 @@
   },
   "es_definitions": [
     "Abertura en una prenda de vestir que facilita su uso y comodidad.",
-    "\"Ver boquilla\": sustantivo que designa el acto de observar o percibir algo superficialmente o de manera aparente."
+    "Ver boquilla 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Apertura en una prenda de vestir que facilita su uso y comodidad.\n\nTranslation:\n\nOpening in a garment that facilitates its use and comfort.",
+    "See muzzle 1."
+  ],
   "source": "https://tesoro.pr"
 }

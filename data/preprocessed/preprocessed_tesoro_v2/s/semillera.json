@@ -3,14 +3,17 @@
   "term": "semillera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Machete o daga pequeña y ancha",
+      "consolidated_definition": "En la industria azucarera, machete pequeño y ancho que se emplea para cortar la caña de azúcar.",
+      "en_consolidated_definition": "In the sugar industry, a small and broad machete used to cut sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5218",
-        "semantic_similarity_score": 0.5218,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -43,15 +46,16 @@
           "semilla 2"
         ],
         "reference_definitions": [
-          "Machete o daga pequeña y ancha, empleada para cortar semilla . También se hace de un trozo de serrucho usado. “La daga semillera se usa para cortar los rabos de caña.”",
           "En la industria azucarera, machete pequeño y ancho que se emplea para cortar la caña de azúcar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Machete o daga pequeña y ancha"
+    "En la industria azucarera, machete pequeño y ancho que se emplea para cortar la caña de azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the sugar industry, a small and broad machete used to cut sugarcane."
+  ],
   "source": "https://tesoro.pr"
 }

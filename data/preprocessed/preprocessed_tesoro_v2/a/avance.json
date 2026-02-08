@@ -3,15 +3,18 @@
   "term": "avance",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción sustantivo que se considera inaceptable o desaprobada por la sociedad.",
+      "consolidated_definition": "Acción reprobable.",
+      "en_consolidated_definition": "Reprehensible action.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Acercamiento íntimo entre dos personas, que puede ser tanto de naturaleza romántica como sexual.",
+      "consolidated_definition": "Acercamiento amoroso o sexual.",
+      "en_consolidated_definition": "Amorous or sexual approach.\n\nNota: Si se refiere a un término específico de Puerto Rico, es posible que deba ser traducido con mayor precisión para mantener el contexto cultural. Por ejemplo, si se trata del \"acercamiento\" en el sentido de la danza tradicional puertorriqueña, la traducción podría ser \"romantic approach\" o \"amorous advance\". Sin embargo, sin más información, la traducción anterior es la más precisa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Acción sustantivo que se considera inaceptable o desaprobada por la sociedad.",
-    "Acercamiento íntimo entre dos personas, que puede ser tanto de naturaleza romántica como sexual."
+    "Acción reprobable.",
+    "Acercamiento amoroso o sexual."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Reprehensible action.",
+    "Amorous or sexual approach.\n\nNota: Si se refiere a un término específico de Puerto Rico, es posible que deba ser traducido con mayor precisión para mantener el contexto cultural. Por ejemplo, si se trata del \"acercamiento\" en el sentido de la danza tradicional puertorriqueña, la traducción podría ser \"romantic approach\" o \"amorous advance\". Sin embargo, sin más información, la traducción anterior es la más precisa."
+  ],
   "source": "https://tesoro.pr"
 }

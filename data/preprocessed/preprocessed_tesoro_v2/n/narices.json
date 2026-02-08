@@ -3,15 +3,18 @@
   "term": "narices",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nariz",
+      "consolidated_definition": "El órgano nasal es el órgano sensorial situado en la cara que permite detectar olores y participa en la respiración.",
+      "en_consolidated_definition": "The nasal organ is the sensory organ located on the face that allows for the detection of odors and participates in respiration.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.447",
         "semantic_similarity_score": 0.447,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino",
@@ -50,9 +53,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver nariz 1",
+      "consolidated_definition": "Ver nariz 1 .",
+      "en_consolidated_definition": "See nose 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -73,9 +79,12 @@
     }
   },
   "es_definitions": [
-    "Nariz",
-    "Ver nariz 1"
+    "El órgano nasal es el órgano sensorial situado en la cara que permite detectar olores y participa en la respiración.",
+    "Ver nariz 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The nasal organ is the sensory organ located on the face that allows for the detection of odors and participates in respiration.",
+    "See nose 1."
+  ],
   "source": "https://tesoro.pr"
 }

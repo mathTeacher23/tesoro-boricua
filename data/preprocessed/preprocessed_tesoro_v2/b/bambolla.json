@@ -3,15 +3,18 @@
   "term": "bambolla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La fanfarronería es un tipo de charla o comportamiento que se caracteriza por una excesiva confianza y vanidad, a menudo acompañada de lenguaje vacío o pretencioso.",
+      "consolidated_definition": ". Charla; barbulla; fanfarronería.",
+      "en_consolidated_definition": "Loquacidad; verbosity; fanfarronería.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La caña del bambú se refiere al tallo o madera del bambú, especialmente el más grueso y resistente.",
+      "consolidated_definition": "La caña del bambú.",
+      "en_consolidated_definition": "Bamboo cane or culm.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -75,15 +81,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "\"Embarazo\": Vientre abultado de la mujer embarazada.",
+      "consolidated_definition": "Vientre abultado de la mujer embarazada.",
+      "en_consolidated_definition": "Pronunciado fetal del embarazo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -114,10 +123,14 @@
     }
   },
   "es_definitions": [
-    "La fanfarronería es un tipo de charla o comportamiento que se caracteriza por una excesiva confianza y vanidad, a menudo acompañada de lenguaje vacío o pretencioso.",
-    "La caña del bambú se refiere al tallo o madera del bambú, especialmente el más grueso y resistente.",
-    "\"Embarazo\": Vientre abultado de la mujer embarazada."
+    ". Charla; barbulla; fanfarronería.",
+    "La caña del bambú.",
+    "Vientre abultado de la mujer embarazada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Loquacidad; verbosity; fanfarronería.",
+    "Bamboo cane or culm.",
+    "Pronunciado fetal del embarazo."
+  ],
   "source": "https://tesoro.pr"
 }

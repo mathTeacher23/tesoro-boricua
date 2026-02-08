@@ -3,9 +3,12 @@
   "term": "indiana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tela de lino o algodón",
+      "consolidated_definition": "Tela de lino o algodón, o mezcla de uno y otro, estampada.",
+      "en_consolidated_definition": "Linen or cotton fabric, or a blend of both, printed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tela de lino o algodón"
+    "Tela de lino o algodón, o mezcla de uno y otro, estampada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Linen or cotton fabric, or a blend of both, printed."
+  ],
   "source": "https://tesoro.pr"
 }

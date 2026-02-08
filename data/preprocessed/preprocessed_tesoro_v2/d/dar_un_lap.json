@@ -3,9 +3,12 @@
   "term": "dar un lap",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dar un tiempo razonable para algo",
+      "consolidated_definition": "Dar un tiempo razonable para contestar la pregunta que se hace.",
+      "en_consolidated_definition": "Grant a reasonable amount of time to respond to the question being asked.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "dar un tiempo razonable para algo"
+    "Dar un tiempo razonable para contestar la pregunta que se hace."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Grant a reasonable amount of time to respond to the question being asked."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "diabla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona osada",
+      "consolidated_definition": "Dícese de la persona osada, astuta, decidida, luchadora. “Ser la diabla.”",
+      "en_consolidated_definition": "Term used to describe a bold, cunning, determined, and combative person. \"To be the devil.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,14 +42,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Mujer muy femenina",
+      "consolidated_definition": "Mujer muy femenina y extraordinariamente atractiva.",
+      "en_consolidated_definition": "Woman of exceptionally feminine and extremely attractive appearance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8205",
-        "semantic_similarity_score": 0.8205,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -75,20 +81,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Mujer muy femenina, super atractiva.",
           "Mujer muy femenina y extraordinariamente atractiva."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Artefacto hecho con una serie de bombillas o",
+      "consolidated_definition": "Artefacto que da calor y evita la humedad, especialmente en algún mueble o instrumento musical.",
+      "en_consolidated_definition": "Device that provides warmth and prevents humidity, especially in some piece of furniture or musical instrument.\n\nNota: En este contexto, el término \"mueble\" se mantiene en su forma original para reflejar la cultura y el idioma español de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7575",
-        "semantic_similarity_score": 0.7575,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -117,17 +125,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Artefacto hecho con una serie de bombillas o resistencias eléctricas que sirve para dar calor y evitar la humedad en algún mueble o instrumento musical, tal como el piano.",
           "Artefacto que da calor y evita la humedad, especialmente en algún mueble o instrumento musical."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dícese de la persona osada",
-    "Mujer muy femenina",
-    "Artefacto hecho con una serie de bombillas o"
+    "Dícese de la persona osada, astuta, decidida, luchadora. “Ser la diabla.”",
+    "Mujer muy femenina y extraordinariamente atractiva.",
+    "Artefacto que da calor y evita la humedad, especialmente en algún mueble o instrumento musical."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Term used to describe a bold, cunning, determined, and combative person. \"To be the devil.\"",
+    "Woman of exceptionally feminine and extremely attractive appearance.",
+    "Device that provides warmth and prevents humidity, especially in some piece of furniture or musical instrument.\n\nNota: En este contexto, el término \"mueble\" se mantiene en su forma original para reflejar la cultura y el idioma español de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

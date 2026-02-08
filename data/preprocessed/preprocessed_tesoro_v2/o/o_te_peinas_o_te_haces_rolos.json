@@ -3,9 +3,12 @@
   "term": "o te peinas o te haces rolos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica la necesidad de alguien de tomar una",
+      "consolidated_definition": "Indica la necesidad de alguien de tomar una decisión.",
+      "en_consolidated_definition": "Indica la necesidad de alguien de tomar una decisión.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Indica la necesidad de alguien de tomar una"
+    "Indica la necesidad de alguien de tomar una decisión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Indica la necesidad de alguien de tomar una decisión."
+  ],
   "source": "https://tesoro.pr"
 }

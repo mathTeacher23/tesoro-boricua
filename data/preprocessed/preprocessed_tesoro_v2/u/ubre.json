@@ -3,9 +3,12 @@
   "term": "ubre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Busto de la mujer",
+      "consolidated_definition": "Busto de la mujer.",
+      "en_consolidated_definition": "Female bust.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Busto de la mujer"
+    "Busto de la mujer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Female bust."
+  ],
   "source": "https://tesoro.pr"
 }

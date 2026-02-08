@@ -3,14 +3,17 @@
   "term": "tijerilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tijereta",
+      "consolidated_definition": "Ave marina.",
+      "en_consolidated_definition": "Marine bird.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.3648",
-        "semantic_similarity_score": 0.3648,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -54,24 +57,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tijereta, ave. Stahl, Catalog, 57, 155.",
-          "Otro nombre para el rabijunco .",
-          "Ave marina grande de plumaje negro, alas grandes y rabo largo con la punta curva, uñas largas, patas membranosas. Vuela continuamente pescando. T. tijereta, rabojunco, rabijunco, pájaro fragata y pirata de los mares. En España lo llaman rabihorcado.",
-          "Ave.",
           "Ave marina."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona astuta y maliciosa",
+      "consolidated_definition": "Persona que se caracteriza por ser astuta y maliciosa en su comportamiento o acciones.",
+      "en_consolidated_definition": "Persona que se caracteriza por ser astuta y maliciosa en su comportamiento o acciones.\n\nTraducción:\nPerson characterized by being cunning and malicious in their behavior or actions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3352",
-        "semantic_similarity_score": 0.3352,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.331",
+        "semantic_similarity_score": 0.331,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -101,21 +103,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Persona astuta y maliciosa; lija, jaiba.",
+          "(popular) Persona astuta y maliciosa; lija, jaiba.",
           "Ladrón. Pillo."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Polilla que destruye la ropa",
+      "consolidated_definition": "Polilla, insecto primitivo que se alimenta de tejidos naturales como la seda y otros materiales textiles, causando daños a la ropa y otros objetos.",
+      "en_consolidated_definition": "Caterpillar, primitive insect that feeds on natural tissues such as silk and other textile materials, causing damage to clothing and other objects.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4073",
         "semantic_similarity_score": 0.4073,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -152,10 +157,14 @@
     }
   },
   "es_definitions": [
-    "Tijereta",
-    "Persona astuta y maliciosa",
-    "Polilla que destruye la ropa"
+    "Ave marina.",
+    "Persona que se caracteriza por ser astuta y maliciosa en su comportamiento o acciones.",
+    "Polilla, insecto primitivo que se alimenta de tejidos naturales como la seda y otros materiales textiles, causando daños a la ropa y otros objetos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine bird.",
+    "Persona que se caracteriza por ser astuta y maliciosa en su comportamiento o acciones.\n\nTraducción:\nPerson characterized by being cunning and malicious in their behavior or actions.",
+    "Caterpillar, primitive insect that feeds on natural tissues such as silk and other textile materials, causing damage to clothing and other objects."
+  ],
   "source": "https://tesoro.pr"
 }

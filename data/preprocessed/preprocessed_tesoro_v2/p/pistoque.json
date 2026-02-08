@@ -3,15 +3,18 @@
   "term": "pistoque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cánula de visitadora",
+      "consolidated_definition": "Cánula de visitadora: objeto médico utilizado para permitir la entrada de un instrumento en el cuerpo humano durante procedimientos de exploración o tratamiento.",
+      "en_consolidated_definition": "Visiting cannula: medical device used to allow the entry of an instrument into the human body during exploration or treatment procedures.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4101",
         "semantic_similarity_score": 0.4101,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Cánula de visitadora"
+    "Cánula de visitadora: objeto médico utilizado para permitir la entrada de un instrumento en el cuerpo humano durante procedimientos de exploración o tratamiento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Visiting cannula: medical device used to allow the entry of an instrument into the human body during exploration or treatment procedures."
+  ],
   "source": "https://tesoro.pr"
 }

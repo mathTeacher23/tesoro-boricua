@@ -3,14 +3,17 @@
   "term": "puyar",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Herir con una púa, puya o algún objeto terminado en punta. Ú. t. c. r. .",
+      "consolidated_definition": "Pinchar a alguien con un objeto punzante.",
+      "en_consolidated_definition": "Pierce someone with a sharp object.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que la definición es general y aplicable en diferentes contextos. Sin embargo, si fuera necesario, podría incluirse una nota o referencia para clarificar el uso del término en español puertorriqueño.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4326",
-        "semantic_similarity_score": 0.4326,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -50,23 +53,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Herir con una púa, puya o algún objeto terminado en punta. Ú. t. c. r. .",
-          "Aguijonear. Urgir. Insistir.",
-          ". Herir con una púa o algún objeto terminado en punta aguda.",
           "Pinchar a alguien con un objeto punzante."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Acelerar la marcha de un automóvil",
+      "consolidated_definition": "Acelerar la marcha de un automóvil es un acto que consiste en aumentar su velocidad mediante el uso del acelerador.",
+      "en_consolidated_definition": "To accelerate the pace of a vehicle is an action that consists in increasing its speed through the use of the accelerator pedal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.6577",
-        "semantic_similarity_score": 0.6577,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6495",
+        "semantic_similarity_score": 0.6495,
+        "cluster_count": 4,
         "grammar": [
           "verbo transitivo"
         ],
@@ -105,7 +108,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Acelerar la marcha de un automóvil.",
+          "(general) Acelerar la marcha de un automóvil.",
           "Acelerar la marcha de un auto.",
           "Acelerar la marcha de automóvil.",
           "Acelerar la marcha de un vehículo de motor.",
@@ -114,9 +117,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Tirar puyas",
+      "consolidated_definition": "Tirar puyas, sátiras.",
+      "en_consolidated_definition": "To make sarcastic remarks or jabs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -152,10 +158,14 @@
     }
   },
   "es_definitions": [
-    ". Herir con una púa, puya o algún objeto terminado en punta. Ú. t. c. r. .",
-    "Acelerar la marcha de un automóvil",
-    "Tirar puyas"
+    "Pinchar a alguien con un objeto punzante.",
+    "Acelerar la marcha de un automóvil es un acto que consiste en aumentar su velocidad mediante el uso del acelerador.",
+    "Tirar puyas, sátiras."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pierce someone with a sharp object.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que la definición es general y aplicable en diferentes contextos. Sin embargo, si fuera necesario, podría incluirse una nota o referencia para clarificar el uso del término en español puertorriqueño.",
+    "To accelerate the pace of a vehicle is an action that consists in increasing its speed through the use of the accelerator pedal.",
+    "To make sarcastic remarks or jabs."
+  ],
   "source": "https://tesoro.pr"
 }

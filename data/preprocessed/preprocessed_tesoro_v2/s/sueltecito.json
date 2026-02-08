@@ -3,9 +3,12 @@
   "term": "sueltecito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido al arroz",
+      "consolidated_definition": "Referido al arroz, que presenta sueltos los granos por la cocción.",
+      "en_consolidated_definition": "Loose-grained rice, referring to rice that has its grains separated by cooking.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referido al arroz"
+    "Referido al arroz, que presenta sueltos los granos por la cocción."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Loose-grained rice, referring to rice that has its grains separated by cooking."
+  ],
   "source": "https://tesoro.pr"
 }

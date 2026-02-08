@@ -3,9 +3,12 @@
   "term": "vender un moco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Venderle un artefacto mecánico que siempre está descompuesto",
+      "consolidated_definition": "Venderle un artefacto mecánico que siempre está descompuesto.",
+      "en_consolidated_definition": "To sell a mechanical device that is perpetually in disrepair.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Venderle un artefacto mecánico que siempre está descompuesto"
+    "Venderle un artefacto mecánico que siempre está descompuesto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To sell a mechanical device that is perpetually in disrepair."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Un tubo largo y delgado utilizado para fumar tabaco o otros materiales combustibles.",
+      "en_consolidated_definition": "A long, slender tube used for smoking tobacco or other combustible materials.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 17,
         "num_cleaned_definitions": 17,
@@ -113,15 +116,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Instrumento de percusión: dispositivo musical que produce sonido mediante el golpe o movimiento de sus partes.",
+      "consolidated_definition": "Cierto instrumento de percusión de origen africano.",
+      "en_consolidated_definition": "Certain African origin percussion instrument.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -149,15 +155,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Un pozo es un agujero excavado en la arena de una playa o en el lecho seco de un río con el fin de encontrar agua subterránea.",
+      "consolidated_definition": "Hoyo que se hace en la arena de la playa o en el lecho seco de un río para buscar agua potable.",
+      "en_consolidated_definition": "Well or excavation made in the beach sand or dry riverbed to search for potable water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -185,15 +194,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "La marihuana es un tipo de planta psicoactiva.",
+      "consolidated_definition": "Marihuana.",
+      "en_consolidated_definition": "Cannabis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -223,10 +235,15 @@
   },
   "es_definitions": [
     "Un tubo largo y delgado utilizado para fumar tabaco o otros materiales combustibles.",
-    "Instrumento de percusión: dispositivo musical que produce sonido mediante el golpe o movimiento de sus partes.",
-    "Un pozo es un agujero excavado en la arena de una playa o en el lecho seco de un río con el fin de encontrar agua subterránea.",
-    "La marihuana es un tipo de planta psicoactiva."
+    "Cierto instrumento de percusión de origen africano.",
+    "Hoyo que se hace en la arena de la playa o en el lecho seco de un río para buscar agua potable.",
+    "Marihuana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A long, slender tube used for smoking tobacco or other combustible materials.",
+    "Certain African origin percussion instrument.",
+    "Well or excavation made in the beach sand or dry riverbed to search for potable water.",
+    "Cannabis."
+  ],
   "source": "https://tesoro.pr"
 }

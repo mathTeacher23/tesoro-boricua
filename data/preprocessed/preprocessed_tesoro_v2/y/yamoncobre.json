@@ -3,15 +3,18 @@
   "term": "yamoncobre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Significa ‘el número tres’",
+      "consolidated_definition": "Se refiere al número 3 en la aritmética taína.",
+      "en_consolidated_definition": "Refers to the number 3 in Taíno arithmetic.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.907",
         "semantic_similarity_score": 0.907,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Significa ‘el número tres’"
+    "Se refiere al número 3 en la aritmética taína."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Refers to the number 3 in Taíno arithmetic."
+  ],
   "source": "https://tesoro.pr"
 }

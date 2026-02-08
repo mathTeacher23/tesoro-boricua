@@ -3,9 +3,12 @@
   "term": "estar chulin",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar bueno",
+      "consolidated_definition": "Estar bueno.",
+      "en_consolidated_definition": "To be in good condition or to be satisfactory.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Estar bueno"
+    "Estar bueno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be in good condition or to be satisfactory."
+  ],
   "source": "https://tesoro.pr"
 }

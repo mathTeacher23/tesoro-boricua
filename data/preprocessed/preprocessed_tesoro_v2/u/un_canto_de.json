@@ -3,9 +3,12 @@
   "term": "un canto de",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosa admirable",
+      "consolidated_definition": "Cosa admirable, excepcional.",
+      "en_consolidated_definition": "Thing of wonder, exceptional occurrence.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Cosa admirable"
+    "Cosa admirable, excepcional."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Thing of wonder, exceptional occurrence."
+  ],
   "source": "https://tesoro.pr"
 }

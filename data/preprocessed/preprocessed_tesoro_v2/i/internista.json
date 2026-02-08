@@ -3,9 +3,12 @@
   "term": "internista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese del estudiante que reside en un internado",
+      "consolidated_definition": "Dícese del estudiante que reside en un internado.",
+      "en_consolidated_definition": "Internado student \n\nNota: En este contexto, \"internado\" se refiere a un internado o colegio interno en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Dícese del estudiante que reside en un internado"
+    "Dícese del estudiante que reside en un internado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Internado student \n\nNota: En este contexto, \"internado\" se refiere a un internado o colegio interno en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

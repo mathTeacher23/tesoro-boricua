@@ -3,15 +3,18 @@
   "term": "background",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Antecedentes\": conjunto de hechos, circunstancias o eventos previos que forman el trasfondo y influyen en la comprensión de un tema, situación o decisión.",
+      "consolidated_definition": "Antecedente, trasfondo, historial.",
+      "en_consolidated_definition": "Background, prehistory, or prior record.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6845",
-        "semantic_similarity_score": 0.6845,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -44,22 +47,23 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Antecedente, historial, trasfondo, referencia y experiencia.",
-          "Antecedente, trasfondo, segundo plano. Conjunto de factores culturales, físicos y sicológicos que componen el historial de una persona o de un hecho. Anglicismo crudo, frecuente. Y somos un grupo de gente chévere, nos hemos acoplado de lo más bien y todavía nos estamos conociendo y viendo cómo funciona, pero que, en buen español, los backgrounds familiares son más o menos los mismos (Norma Culta joven, 9, 1995)",
           "Antecedente, trasfondo, historial."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "\"Background\": conjunto de elementos físicos situado detrás de una escena o lugar. Anglicismo crudo, poco frecuente.",
+      "consolidated_definition": "Paisaje de fondo, Conjunto de elementos físicos situados en la parte posterior de una escena o lugar. Anglicismo crudo, poco frecuente. Este proceso requirió que se optimizara la cantidad de anticuerpo que debe ser utilizada para detectar la banda de interés sin que salga background en la autorradiografía (Maisonet Colón, Documento administrativo, UPR, s.f.)",
+      "en_consolidated_definition": "Background landscape, A collection of physical elements situated in the background of a scene or location. Raw anglicism, infrequently used. This process required optimizing the amount of antibody to be used for detecting the band of interest without producing background on the autoradiograph (Maisonet Colón, Administrative document, UPR, s.f.)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2009",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5307",
-        "semantic_similarity_score": 0.5307,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -84,17 +88,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Paisaje de fondo, Conjunto de elementos físicos situados en la parte posterior de una escena o lugar. Anglicismo crudo, poco frecuente. Este proceso requirió que se optimizara la cantidad de anticuerpo que debe ser utilizada para detectar la banda de interés sin que salga background en la autorradiografía (Maisonet Colón, Documento administrativo, UPR, s.f.)",
-          "inform. Imagen de fondo que se descarga en la pantalla de una computadora. Anglicismo crudo, frecuente. Wallpaper, background o foto de fondo, no importa como le llames. National Geographic te regala unas fotos para tu computadora de Cachete (BoticaNews, PR, 12-03-06)",
-          "De fondo. Proceso que ocurre o programa que se ejecuta secundariamente sin que sea evidente al usuario. Anglicismo crudo, frecuente. Bueno al tema, sí es cierto que una pc se pone lenta cuando tiene varios programas corriendo en background al mismo tiempo y varios en el start up, pero tambien influyen otras cosas (javiert30, abril 2008)"
+          "Paisaje de fondo, Conjunto de elementos físicos situados en la parte posterior de una escena o lugar. Anglicismo crudo, poco frecuente. Este proceso requirió que se optimizara la cantidad de anticuerpo que debe ser utilizada para detectar la banda de interés sin que salga background en la autorradiografía (Maisonet Colón, Documento administrativo, UPR, s.f.)"
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Antecedentes\": conjunto de hechos, circunstancias o eventos previos que forman el trasfondo y influyen en la comprensión de un tema, situación o decisión.",
-    "\"Background\": conjunto de elementos físicos situado detrás de una escena o lugar. Anglicismo crudo, poco frecuente."
+    "Antecedente, trasfondo, historial.",
+    "Paisaje de fondo, Conjunto de elementos físicos situados en la parte posterior de una escena o lugar. Anglicismo crudo, poco frecuente. Este proceso requirió que se optimizara la cantidad de anticuerpo que debe ser utilizada para detectar la banda de interés sin que salga background en la autorradiografía (Maisonet Colón, Documento administrativo, UPR, s.f.)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Background, prehistory, or prior record.",
+    "Background landscape, A collection of physical elements situated in the background of a scene or location. Raw anglicism, infrequently used. This process required optimizing the amount of antibody to be used for detecting the band of interest without producing background on the autoradiograph (Maisonet Colón, Administrative document, UPR, s.f.)"
+  ],
   "source": "https://tesoro.pr"
 }

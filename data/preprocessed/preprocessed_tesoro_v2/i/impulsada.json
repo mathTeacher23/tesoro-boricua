@@ -3,9 +3,12 @@
   "term": "impulsada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, carrera producida como consecuencia de un batazo de un jugador.",
+      "en_consolidated_definition": "In baseball, a run scored as a result of a hit by a player.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, carrera producida como consecuencia de un batazo de un jugador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a run scored as a result of a hit by a player."
+  ],
   "source": "https://tesoro.pr"
 }

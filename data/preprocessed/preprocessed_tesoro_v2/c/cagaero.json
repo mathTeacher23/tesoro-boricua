@@ -3,15 +3,18 @@
   "term": "cagaero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar extremadamente sucio se refiere a un espacio donde se encuentra una presencia generalizada de desechos y contaminación.",
+      "consolidated_definition": "Lugar extremadamente sucio.",
+      "en_consolidated_definition": "Extremely filthy place or location.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8026",
-        "semantic_similarity_score": 0.8026,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -34,15 +37,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Lugar extremadamente sucio.",
-          "Lugar extremadamente desorganizado."
+          "Lugar extremadamente sucio."
         ]
       }
     }
   },
   "es_definitions": [
-    "Lugar extremadamente sucio se refiere a un espacio donde se encuentra una presencia generalizada de desechos y contaminación."
+    "Lugar extremadamente sucio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extremely filthy place or location."
+  ],
   "source": "https://tesoro.pr"
 }

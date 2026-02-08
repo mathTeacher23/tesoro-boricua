@@ -3,9 +3,12 @@
   "term": "piragüismo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deporte de competición de piraguas",
+      "consolidated_definition": "Deporte de competición de piraguas.",
+      "en_consolidated_definition": "Canoe racing or canoeing competition.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Deporte de competición de piraguas"
+    "Deporte de competición de piraguas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Canoe racing or canoeing competition."
+  ],
   "source": "https://tesoro.pr"
 }

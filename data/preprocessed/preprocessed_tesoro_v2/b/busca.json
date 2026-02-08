@@ -3,15 +3,18 @@
   "term": "busca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Provecho accesorio obtenido de un empleo o cargo.",
+      "consolidated_definition": "Provecho accesorio que se saca de algún empleo o cargo.",
+      "en_consolidated_definition": "Beneficio secundario obtenido de algún empleo o cargo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6211",
-        "semantic_similarity_score": 0.6211,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,16 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Cuba, Méx. y Perú). Provecho accesorio que se saca de algún empleo o cargo. Úsase más generalmente en plural. Son los “gajes de manos puercas”, que decía Larra en sus Cartas a Andrés Niporesas. Ac. “Con esta inocente busca se sostiene.” F. J. Amy, Letras de molde, 1890, p. 88.",
-          "Alguna forma de ganarse el sustento. Pequeño empleo.",
           "Provecho accesorio que se saca de algún empleo o cargo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Provecho accesorio obtenido de un empleo o cargo."
+    "Provecho accesorio que se saca de algún empleo o cargo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Beneficio secundario obtenido de algún empleo o cargo."
+  ],
   "source": "https://tesoro.pr"
 }

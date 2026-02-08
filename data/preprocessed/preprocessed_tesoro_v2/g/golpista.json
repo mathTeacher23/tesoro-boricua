@@ -3,9 +3,12 @@
   "term": "golpista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese del que participa en un golpe de",
+      "consolidated_definition": "Dícese del que participa en un golpe de estado.",
+      "en_consolidated_definition": "Participant in a coup d'état.\n\nNota: En este contexto, \"coup d'état\" se refiere a un golpe de estado, que es un término ampliamente utilizado en todo el mundo y no específico de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Dícese del que participa en un golpe de"
+    "Dícese del que participa en un golpe de estado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Participant in a coup d'état.\n\nNota: En este contexto, \"coup d'état\" se refiere a un golpe de estado, que es un término ampliamente utilizado en todo el mundo y no específico de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

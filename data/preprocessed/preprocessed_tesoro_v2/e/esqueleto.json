@@ -3,15 +3,18 @@
   "term": "esqueleto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta venenosa",
+      "consolidated_definition": "Planta venenosa que causa irritación y puede provocar vómitos y diarrea.",
+      "en_consolidated_definition": "Poisonous plant that causes irritation and may induce vomiting and diarrhea.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8564",
-        "semantic_similarity_score": 0.8564,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.8551",
+        "semantic_similarity_score": 0.8551,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Planta venenosa, que produce síntomas de irritación y hasta vómitos y diarrea.",
+          "(popular) Planta venenosa, que produce síntomas de irritación y hasta vómitos y diarrea.",
           "Planta venenosa que produce vómitos y diarrea."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Tablazón",
+      "consolidated_definition": "Tablazón.",
+      "en_consolidated_definition": "Paneling \n\nNota: En algunos contextos, \"tablazón\" puede referirse a un tipo de panelado típico en la arquitectura puertorriqueña, especialmente en las casas coloniales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    "Planta venenosa",
-    "Tablazón"
+    "Planta venenosa que causa irritación y puede provocar vómitos y diarrea.",
+    "Tablazón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Poisonous plant that causes irritation and may induce vomiting and diarrhea.",
+    "Paneling \n\nNota: En algunos contextos, \"tablazón\" puede referirse a un tipo de panelado típico en la arquitectura puertorriqueña, especialmente en las casas coloniales."
+  ],
   "source": "https://tesoro.pr"
 }

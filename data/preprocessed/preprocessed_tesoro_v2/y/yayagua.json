@@ -3,15 +3,18 @@
   "term": "yayagua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ananas Ananas",
+      "consolidated_definition": "La ananas es una variedad de piña caracterizada por su sabor ligeramente áspero y agrio, que se encontraba entre las tres especies nativas de Puerto Rico durante la época del descubrimiento y colonización.",
+      "en_consolidated_definition": "The ananas is a variety of pineapple characterized by its slightly rough and acidic flavor, which was one of the three native species found in Puerto Rico during the period of discovery and colonization.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.7994",
         "semantic_similarity_score": 0.7994,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Ananas Ananas"
+    "La ananas es una variedad de piña caracterizada por su sabor ligeramente áspero y agrio, que se encontraba entre las tres especies nativas de Puerto Rico durante la época del descubrimiento y colonización."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The ananas is a variety of pineapple characterized by its slightly rough and acidic flavor, which was one of the three native species found in Puerto Rico during the period of discovery and colonization."
+  ],
   "source": "https://tesoro.pr"
 }

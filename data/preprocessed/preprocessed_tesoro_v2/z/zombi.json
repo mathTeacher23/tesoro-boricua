@@ -3,9 +3,12 @@
   "term": "zombi",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bebida alcohólica",
+      "consolidated_definition": "Bebida alcohólica.",
+      "en_consolidated_definition": "Alcoholic beverage",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Estar atontado",
+      "consolidated_definition": "Estar atontado. Estar medio dormido.",
+      "en_consolidated_definition": "To be dazed. To be half asleep.\n\nNota: En este caso, no hay términos culturales específicos de Puerto Rico que requieran traducción o preservación del contexto. La definición se refiere a un estado general de confusión o somnolencia.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,9 +83,12 @@
     }
   },
   "es_definitions": [
-    "Bebida alcohólica",
-    "Estar atontado"
+    "Bebida alcohólica.",
+    "Estar atontado. Estar medio dormido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Alcoholic beverage",
+    "To be dazed. To be half asleep.\n\nNota: En este caso, no hay términos culturales específicos de Puerto Rico que requieran traducción o preservación del contexto. La definición se refiere a un estado general de confusión o somnolencia."
+  ],
   "source": "https://tesoro.pr"
 }

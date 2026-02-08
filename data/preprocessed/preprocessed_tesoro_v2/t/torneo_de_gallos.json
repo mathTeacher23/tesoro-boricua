@@ -3,9 +3,12 @@
   "term": "torneo de gallos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver desafío de gallos",
+      "consolidated_definition": "Ver desafío de gallos .",
+      "en_consolidated_definition": "Rooster fight challenge.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver desafío de gallos"
+    "Ver desafío de gallos ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rooster fight challenge."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "retejador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En masonería",
+      "consolidated_definition": "En masonería, maestro masón que comprueba que la persona es o no es un masón.",
+      "en_consolidated_definition": "Master Mason who verifies whether a person is or is not a Freemason.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "En masonería"
+    "En masonería, maestro masón que comprueba que la persona es o no es un masón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Master Mason who verifies whether a person is or is not a Freemason."
+  ],
   "source": "https://tesoro.pr"
 }

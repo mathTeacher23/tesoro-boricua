@@ -3,9 +3,12 @@
   "term": "dejar que la gallina saque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Esperar a que haya dinero para poder cobrar",
+      "consolidated_definition": "Esperar a que haya dinero para poder cobrar una cuenta atrasada.",
+      "en_consolidated_definition": "To wait until there is money available to settle a past due account.\n\nNota: En este contexto, \"cuenta atrasada\" se refiere a una deuda o cuenta pendiente que no ha sido pagada en el momento debido.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Esperar a que haya dinero para poder cobrar"
+    "Esperar a que haya dinero para poder cobrar una cuenta atrasada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To wait until there is money available to settle a past due account.\n\nNota: En este contexto, \"cuenta atrasada\" se refiere a una deuda o cuenta pendiente que no ha sido pagada en el momento debido."
+  ],
   "source": "https://tesoro.pr"
 }

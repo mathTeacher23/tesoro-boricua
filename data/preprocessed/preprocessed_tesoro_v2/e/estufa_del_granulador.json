@@ -3,9 +3,12 @@
   "term": "estufa del granulador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Artefacto que separa el grano más fino del",
+      "consolidated_definition": "Artefacto que separa el grano más fino del grano más grueso, en refinería azucarera.",
+      "en_consolidated_definition": "Device that separates the finest grain from the coarsest grain in a sugar refinery.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Artefacto que separa el grano más fino del"
+    "Artefacto que separa el grano más fino del grano más grueso, en refinería azucarera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Device that separates the finest grain from the coarsest grain in a sugar refinery."
+  ],
   "source": "https://tesoro.pr"
 }

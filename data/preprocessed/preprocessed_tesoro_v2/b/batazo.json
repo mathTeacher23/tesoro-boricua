@@ -3,15 +3,18 @@
   "term": "batazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el béisbol, objeto que representa un golpe dado por un jugador a la pelota con el bate para intentar hacer contacto con ella en juego.",
+      "consolidated_definition": "En el beisbol, golpe dado por un jugador a la pelota con el bate.",
+      "en_consolidated_definition": "In baseball, a hit delivered by a player to the ball with the bat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En el béisbol, objeto que representa un golpe dado por un jugador a la pelota con el bate para intentar hacer contacto con ella en juego."
+    "En el beisbol, golpe dado por un jugador a la pelota con el bate."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a hit delivered by a player to the ball with the bat."
+  ],
   "source": "https://tesoro.pr"
 }

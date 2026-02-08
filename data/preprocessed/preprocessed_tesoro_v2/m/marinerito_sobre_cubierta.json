@@ -3,15 +3,18 @@
   "term": "marinerito sobre cubierta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pago al contado",
+      "consolidated_definition": "Pago al contado: objeto financiero referido a un pago realizado por completo en el momento de la compra o servicio, sin necesidad de financiación o plazos de pago posteriores.",
+      "en_consolidated_definition": "Payment in full: financial object referring to a payment made in its entirety at the time of purchase or service, without the need for financing or subsequent payment terms.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.596",
         "semantic_similarity_score": 0.596,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "locución sustantiva",
           "masculina"
@@ -52,8 +55,10 @@
     }
   },
   "es_definitions": [
-    "Pago al contado"
+    "Pago al contado: objeto financiero referido a un pago realizado por completo en el momento de la compra o servicio, sin necesidad de financiación o plazos de pago posteriores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Payment in full: financial object referring to a payment made in its entirety at the time of purchase or service, without the need for financing or subsequent payment terms.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada."
+  ],
   "source": "https://tesoro.pr"
 }

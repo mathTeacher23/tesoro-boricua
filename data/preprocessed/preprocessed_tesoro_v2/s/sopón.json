@@ -3,9 +3,12 @@
   "term": "sopón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sopa espesa hecha con habichuelas u otros granos",
+      "consolidated_definition": "Sopa espesa hecha con habichuelas u otros granos, algo parecida a la fabada.",
+      "en_consolidated_definition": "Thick stew made with beans or other grains, similar to fabada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sopa espesa hecha con habichuelas u otros granos"
+    "Sopa espesa hecha con habichuelas u otros granos, algo parecida a la fabada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Thick stew made with beans or other grains, similar to fabada."
+  ],
   "source": "https://tesoro.pr"
 }

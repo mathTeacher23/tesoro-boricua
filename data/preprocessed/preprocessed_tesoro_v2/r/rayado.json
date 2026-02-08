@@ -3,15 +3,18 @@
   "term": "rayado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arrayado",
+      "consolidated_definition": "\"Arrayado\": pez de la familia Lutjanidea, también conocido como pargo, específico tipo de Lutjanus synagris. También llamado arrayado y manchego en la costa norte.",
+      "en_consolidated_definition": "Pargo (Lutjanus synagris): a fish of the Lutjanidae family, also known as arrayado or manchego in northern coastal regions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.481",
-        "semantic_similarity_score": 0.481,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.484",
+        "semantic_similarity_score": 0.484,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -50,16 +53,19 @@
         "related_words": [],
         "reference_definitions": [
           "Arrayado, pez.",
-          ". Pez de la familia Lutjanidea . Lutjanus synagris. También llamado arrayado y manchego .",
+          ". Pez de la familia Lutjanidea (pargos). Lutjanus synagris. También llamado arrayado y manchego (en la costa norte).",
           "Manchego.",
           "Pez. También arrayado."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cerdo que tiene una raya blanca alrededor del",
+      "consolidated_definition": "Cerdo que tiene una raya blanca alrededor del pecho, de la raza Hampshire. Arrayao.",
+      "en_consolidated_definition": "Pig of the Hampshire breed characterized by a white stripe around its chest, also known as Arrayao.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -94,9 +100,12 @@
     }
   },
   "es_definitions": [
-    "Arrayado",
-    "Cerdo que tiene una raya blanca alrededor del"
+    "\"Arrayado\": pez de la familia Lutjanidea, también conocido como pargo, específico tipo de Lutjanus synagris. También llamado arrayado y manchego en la costa norte.",
+    "Cerdo que tiene una raya blanca alrededor del pecho, de la raza Hampshire. Arrayao."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pargo (Lutjanus synagris): a fish of the Lutjanidae family, also known as arrayado or manchego in northern coastal regions.",
+    "Pig of the Hampshire breed characterized by a white stripe around its chest, also known as Arrayao."
+  ],
   "source": "https://tesoro.pr"
 }

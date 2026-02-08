@@ -3,9 +3,12 @@
   "term": "dientes cómeme",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que tiene los incisivos superiores muy salientes",
+      "consolidated_definition": "Persona que tiene los incisivos superiores muy salientes.",
+      "en_consolidated_definition": "Person with prominently protruding upper incisors.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona que tiene los incisivos superiores muy salientes"
+    "Persona que tiene los incisivos superiores muy salientes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person with prominently protruding upper incisors."
+  ],
   "source": "https://tesoro.pr"
 }

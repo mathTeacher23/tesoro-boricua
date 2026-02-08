@@ -3,9 +3,12 @@
   "term": "puerta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La portezuela",
+      "consolidated_definition": "La portezuela.",
+      "en_consolidated_definition": "Gate or gatehouse, typically found in a rural setting, especially in Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Peón fuerte y rápido que rinde más trabajo",
+      "consolidated_definition": "Peón fuerte y rápido que rinde más trabajo que los otros.",
+      "en_consolidated_definition": "Strong and swift laborer who produces more work than the others.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "La portezuela",
-    "Peón fuerte y rápido que rinde más trabajo"
+    "La portezuela.",
+    "Peón fuerte y rápido que rinde más trabajo que los otros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gate or gatehouse, typically found in a rural setting, especially in Puerto Rico.",
+    "Strong and swift laborer who produces more work than the others."
+  ],
   "source": "https://tesoro.pr"
 }

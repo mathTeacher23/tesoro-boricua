@@ -3,9 +3,12 @@
   "term": "papera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Papada",
+      "consolidated_definition": "Papada.",
+      "en_consolidated_definition": "Doblez del cuello.\n\nNota: En algunos contextos, puede referirse a un tipo de carne de cerdo (papada) que se come en Puerto Rico y otros países de América Latina.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "“Da debajo",
+      "consolidated_definition": "Farfallota (sustantivo): término coloquial utilizado en algunos países hispanohablantes para describir a una persona que se viste con exceso o de manera extravagante.",
+      "en_consolidated_definition": "Farfallota (noun): colloquial term used in some Spanish-speaking countries to describe a person who dresses excessively or in an extravagant manner.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
         "num_cleaned_definitions": 9,
-        "definition_stability": "Stability: 0.3623",
-        "semantic_similarity_score": 0.3623,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.3632",
+        "semantic_similarity_score": 0.3632,
+        "cluster_count": 8,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -92,13 +98,13 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "“Da debajo, en el cuello”.",
+          "“Da … debajo, en el cuello”.",
           "Sólo da a los animales, como el cerdo y el becerro.",
           "Farfallota.",
           "Da debajo de la garganta.",
           "Da en el cuello solamente.",
           "Farfallota.",
-          "Dos sujetos dijeron que en la papera se hincha sólo la garganta. Otro dijo que la papera es lo que le da al puerco y otros animales, que a la gente le da farfallota.",
+          "Dos sujetos dijeron que … en la papera se hincha sólo la garganta. Otro dijo que la papera es lo que le da al puerco y otros animales, que a la gente le da farfallota.",
           "Parotiditis. Sinónimo farfayota.",
           "Inflamación de los ganglios submaxilares. También farfallota."
         ]
@@ -106,9 +112,12 @@
     }
   },
   "es_definitions": [
-    "Papada",
-    "“Da debajo"
+    "Papada.",
+    "Farfallota (sustantivo): término coloquial utilizado en algunos países hispanohablantes para describir a una persona que se viste con exceso o de manera extravagante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Doblez del cuello.\n\nNota: En algunos contextos, puede referirse a un tipo de carne de cerdo (papada) que se come en Puerto Rico y otros países de América Latina.",
+    "Farfallota (noun): colloquial term used in some Spanish-speaking countries to describe a person who dresses excessively or in an extravagant manner."
+  ],
   "source": "https://tesoro.pr"
 }

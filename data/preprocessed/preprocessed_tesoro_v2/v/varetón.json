@@ -3,9 +3,12 @@
   "term": "varetón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vareta un poco más gruesa que la común",
+      "consolidated_definition": "Vareta un poco más gruesa que la común.",
+      "en_consolidated_definition": "Thicker than the common one.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Vareta un poco más gruesa que la común"
+    "Vareta un poco más gruesa que la común."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Thicker than the common one."
+  ],
   "source": "https://tesoro.pr"
 }

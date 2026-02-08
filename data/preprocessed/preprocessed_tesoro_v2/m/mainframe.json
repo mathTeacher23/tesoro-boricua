@@ -3,9 +3,12 @@
   "term": "mainframe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ordenador central",
+      "consolidated_definition": "Ordenador central. Computadora potente conectada a otras varias que utiliza sistemas de almacenamiento con capacidades superiores a decenas de gigabytes. Anglicismo crudo, poco frecuente. Mediante la avanzada tecnología de integración EntireX de Software AG (parte de crossvision Legacy Integrator), el sistema se comunica con los sistemas de mainframe a través de un bus de integración compuesto por Servicios web generados en Natural y COBOL (Departamento de Hacienda, consultado 04-12-07)",
+      "en_consolidated_definition": "Mainframe computer. Powerful computer connected to several others that utilize storage systems with capacities exceeding tens of gigabytes. Raw Anglicism, infrequently used.\n\nThrough the advanced technology of EntireX integration from Software AG (part of crossvision Legacy Integrator), the system communicates with mainframe systems via an integration bus composed of web services generated in Natural and COBOL (Department of Treasury, consulted 04-12-07)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Ordenador central. Computadora potente conectada a otras varias que utiliza sistemas de almacenamiento con capacidades superiores a decenas de gigabytes. Anglicismo crudo, poco frecuente. Mediante la avanzada tecnología de integración EntireX de Software AG , el sistema se comunica con los sistemas de mainframe a través de un bus de integración compuesto por Servicios web generados en Natural y COBOL"
+          "Ordenador central. Computadora potente conectada a otras varias que utiliza sistemas de almacenamiento con capacidades superiores a decenas de gigabytes. Anglicismo crudo, poco frecuente. Mediante la avanzada tecnología de integración EntireX de Software AG (parte de crossvision Legacy Integrator), el sistema se comunica con los sistemas de mainframe a través de un bus de integración compuesto por Servicios web generados en Natural y COBOL (Departamento de Hacienda, consultado 04-12-07)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Ordenador central"
+    "Ordenador central. Computadora potente conectada a otras varias que utiliza sistemas de almacenamiento con capacidades superiores a decenas de gigabytes. Anglicismo crudo, poco frecuente. Mediante la avanzada tecnología de integración EntireX de Software AG (parte de crossvision Legacy Integrator), el sistema se comunica con los sistemas de mainframe a través de un bus de integración compuesto por Servicios web generados en Natural y COBOL (Departamento de Hacienda, consultado 04-12-07)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mainframe computer. Powerful computer connected to several others that utilize storage systems with capacities exceeding tens of gigabytes. Raw Anglicism, infrequently used.\n\nThrough the advanced technology of EntireX integration from Software AG (part of crossvision Legacy Integrator), the system communicates with mainframe systems via an integration bus composed of web services generated in Natural and COBOL (Department of Treasury, consulted 04-12-07)"
+  ],
   "source": "https://tesoro.pr"
 }

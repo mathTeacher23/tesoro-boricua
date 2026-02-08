@@ -3,9 +3,12 @@
   "term": "garlopa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Herramienta de carpintería",
+      "consolidated_definition": "Herramienta de carpintería. Cepillo pequeño para rebajar y alisar la madera.",
+      "en_consolidated_definition": "Woodworking tool. Small brush for smoothing and planing wood.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Herramienta de carpintería"
+    "Herramienta de carpintería. Cepillo pequeño para rebajar y alisar la madera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Woodworking tool. Small brush for smoothing and planing wood."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "situado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arcaísmo",
+      "consolidated_definition": "Arcaísmo. Subvención que el erario español depositaba en la tesorería de México a disposición de Puerto Rico.",
+      "en_consolidated_definition": "Archaism. Subvention deposited by the Spanish treasury into the Mexican treasury at the disposal of Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Arcaísmo"
+    "Arcaísmo. Subvención que el erario español depositaba en la tesorería de México a disposición de Puerto Rico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Archaism. Subvention deposited by the Spanish treasury into the Mexican treasury at the disposal of Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

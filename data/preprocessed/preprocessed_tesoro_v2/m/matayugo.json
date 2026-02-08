@@ -3,15 +3,18 @@
   "term": "matayugo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Resultaron abundantes nombres en la pregunta dedicada a",
+      "consolidated_definition": "Matayugo o palamarejo: nombre local para designar la parte central y recia del yugo.",
+      "en_consolidated_definition": "Matayugo or palamarejo: local name for the sturdy central part of a yoke.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5859",
-        "semantic_similarity_score": 0.5859,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5899",
+        "semantic_similarity_score": 0.5899,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,16 +44,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Resultaron abundantes nombres en la pregunta dedicada a la parte central y recia del yugo Dentro de la extensa zona de matabuey se encontraron, como formas locales, matayugo, Palamarejo.",
+          "Resultaron abundantes nombres en la pregunta dedicada a la parte central y recia del yugo ... Dentro de la extensa zona de matabuey se encontraron, como formas locales, ... matayugo, Palamarejo.",
           "Parte del yugo. También matabuey.",
           "El centro del yugo se llama matayugo en algunos puntos aislados."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Matabuey",
+      "consolidated_definition": "Matabuey, árbol perenne.",
+      "en_consolidated_definition": "Perennial tree, matabuey.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -85,9 +91,12 @@
     }
   },
   "es_definitions": [
-    "Resultaron abundantes nombres en la pregunta dedicada a",
-    "Matabuey"
+    "Matayugo o palamarejo: nombre local para designar la parte central y recia del yugo.",
+    "Matabuey, árbol perenne."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Matayugo or palamarejo: local name for the sturdy central part of a yoke.",
+    "Perennial tree, matabuey."
+  ],
   "source": "https://tesoro.pr"
 }

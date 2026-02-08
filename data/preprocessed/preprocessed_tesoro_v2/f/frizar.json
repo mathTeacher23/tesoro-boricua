@@ -3,9 +3,12 @@
   "term": "frizar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver frisar 1",
+      "consolidated_definition": "Ver frisar 1 .",
+      "en_consolidated_definition": "To see frisar 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,9 +28,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver frisar 2",
+      "consolidated_definition": "Ver frisar 2 .",
+      "en_consolidated_definition": "See frisar 2.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -48,9 +54,12 @@
     }
   },
   "es_definitions": [
-    "Ver frisar 1",
-    "Ver frisar 2"
+    "Ver frisar 1 .",
+    "Ver frisar 2 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To see frisar 1.",
+    "See frisar 2."
+  ],
   "source": "https://tesoro.pr"
 }

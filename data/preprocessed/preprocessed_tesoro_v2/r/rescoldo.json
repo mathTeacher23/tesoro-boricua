@@ -3,9 +3,12 @@
   "term": "rescoldo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asunto pendiente",
+      "consolidated_definition": "Asunto pendiente, en espera. “Tener un asunto al rescoldo.”",
+      "en_consolidated_definition": "Matter pending, in abeyance. \"To have a matter smoldering.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Asunto pendiente"
+    "Asunto pendiente, en espera. “Tener un asunto al rescoldo.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Matter pending, in abeyance. \"To have a matter smoldering.\""
+  ],
   "source": "https://tesoro.pr"
 }

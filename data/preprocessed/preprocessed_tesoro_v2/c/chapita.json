@@ -3,15 +3,18 @@
   "term": "chapita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tapa metálica delgada para cerrar herméticamente las botellas.",
+      "consolidated_definition": "Tapa de metal fino para botellas de vidrio.",
+      "en_consolidated_definition": "Metal cap for glass bottles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Verificación visual de un vehículo mediante la lectura de su chapa oficial.",
+      "consolidated_definition": "Ver chapa 1 .",
+      "en_consolidated_definition": "Ver chapa 1.\n\nTranslation:\nSee Chapter 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -62,9 +68,12 @@
     }
   },
   "es_definitions": [
-    "Tapa metálica delgada para cerrar herméticamente las botellas.",
-    "Verificación visual de un vehículo mediante la lectura de su chapa oficial."
+    "Tapa de metal fino para botellas de vidrio.",
+    "Ver chapa 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Metal cap for glass bottles.",
+    "Ver chapa 1.\n\nTranslation:\nSee Chapter 1."
+  ],
   "source": "https://tesoro.pr"
 }

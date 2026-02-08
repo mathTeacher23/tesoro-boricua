@@ -3,15 +3,18 @@
   "term": "nacencia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "El nacimiento es el acto o momento en que un ser vivo comienza a existir, generalmente después de un período de gestación, lugar donde se nace.",
+      "en_consolidated_definition": "Birth is the act or moment at which a living being begins to exist, typically following a period of gestation, and the place where one is born.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
         "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.6986",
-        "semantic_similarity_score": 0.6986,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.686",
+        "semantic_similarity_score": 0.686,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -66,7 +69,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg. Nacimiento. “Vizcaíno de nasensia.” Alonso, Perico y . “Era malcriado de nacencia, como diría un campesino.” Martínez Roselló, , p. 153. .",
+          "vulg. Nacimiento. “Vizcaíno de nasensia.” Alonso, Perico y . “Era malcriado de nacencia, como diría un campesino.” Martínez Roselló, , p. 153. (En castellano antiguo: Arcipreste de Hita, verso 113; Juan de Encina: Teatro, ed. , p. 24. En la Partida 4a, tít. XIV, ley 1a se dice nascencia. Para Ac. es sólo provincialismo de León y Salamanca, sin tacha de vulgar; pero se sigue usando por el vulgo en muchas partes de España y América).",
           "Sitio donde se nace, lugar de nacimiento.",
           "Nacimiento.",
           "Nacimiento.",
@@ -78,9 +81,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Tumor",
+      "consolidated_definition": "Tumor, abceso, divieso o nacensia.",
+      "en_consolidated_definition": "Tumor, abscess, fistula or navel infection.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -115,9 +121,12 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    "Tumor"
+    "El nacimiento es el acto o momento en que un ser vivo comienza a existir, generalmente después de un período de gestación, lugar donde se nace.",
+    "Tumor, abceso, divieso o nacensia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Birth is the act or moment at which a living being begins to exist, typically following a period of gestation, and the place where one is born.",
+    "Tumor, abscess, fistula or navel infection."
+  ],
   "source": "https://tesoro.pr"
 }

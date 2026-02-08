@@ -3,15 +3,18 @@
   "term": "agitado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Agitao: Sustantivo que se refiere a una enfermedad en becerros causada por el exceso de leche ingerido, caracterizada por diarreas y descomposición estomacal.",
+      "consolidated_definition": "Referido a un becerro, que mama demasiado, por descuido del ordeñador o porque se escapa y llega hasta la madre.",
+      "en_consolidated_definition": "Referring to a calf that nurses excessively, either due to the milkmaid's negligence or because it escapes and reaches its mother.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8092",
-        "semantic_similarity_score": 0.8092,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -40,21 +43,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cuando el becerro, por descuido del ordeñador, o porque se suelta y llega hasta la madre, mama demasiado. El exceso de leche le causa una descomposición de estómago que se ve de inmediato por las diarreas que le ocasiona. A eso le llaman agitao.",
           "Referido a un becerro, que mama demasiado, por descuido del ordeñador o porque se escapa y llega hasta la madre."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que se siente incómoda o molesta después de una discusión.",
+      "consolidated_definition": "Referido a persona, molesta por una discusión.",
+      "en_consolidated_definition": "Irritado por una discusión.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -86,9 +91,12 @@
     }
   },
   "es_definitions": [
-    "Agitao: Sustantivo que se refiere a una enfermedad en becerros causada por el exceso de leche ingerido, caracterizada por diarreas y descomposición estomacal.",
-    "Persona que se siente incómoda o molesta después de una discusión."
+    "Referido a un becerro, que mama demasiado, por descuido del ordeñador o porque se escapa y llega hasta la madre.",
+    "Referido a persona, molesta por una discusión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referring to a calf that nurses excessively, either due to the milkmaid's negligence or because it escapes and reaches its mother.",
+    "Irritado por una discusión."
+  ],
   "source": "https://tesoro.pr"
 }

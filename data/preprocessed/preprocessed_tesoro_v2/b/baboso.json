@@ -3,15 +3,18 @@
   "term": "baboso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo de pelea que se caracteriza por su agresividad y pertenencia a una categoría específica de gallos destinados al combate.",
+      "consolidated_definition": "Gallo de pelea que agarra y no espolea.",
+      "en_consolidated_definition": "Fighting rooster that grasps but does not spur.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cierto tipo de pez.",
+      "consolidated_definition": "Cierto pez.",
+      "en_consolidated_definition": "Certain fish species.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,15 +81,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Observar o percibir algo como un tipo de guingambó.",
+      "consolidated_definition": "Ver guingambó 1 .",
+      "en_consolidated_definition": "See guingambó 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -98,10 +107,14 @@
     }
   },
   "es_definitions": [
-    "Gallo de pelea que se caracteriza por su agresividad y pertenencia a una categoría específica de gallos destinados al combate.",
-    "Cierto tipo de pez.",
-    "Observar o percibir algo como un tipo de guingambó."
+    "Gallo de pelea que agarra y no espolea.",
+    "Cierto pez.",
+    "Ver guingambó 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fighting rooster that grasps but does not spur.",
+    "Certain fish species.",
+    "See guingambó 1."
+  ],
   "source": "https://tesoro.pr"
 }

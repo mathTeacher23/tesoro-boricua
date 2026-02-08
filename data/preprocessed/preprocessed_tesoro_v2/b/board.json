@@ -3,15 +3,18 @@
   "term": "board",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comida proporcionada a los huéspedes en un establecimiento de alojamiento.",
+      "consolidated_definition": "Comida en una casa de huéspedes.",
+      "en_consolidated_definition": "Boarding house meal \n\nNota: En este contexto, \"boarding house\" se refiere a una casa de huéspedes o un establecimiento que ofrece alojamiento y comida a los huéspedes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Junta directiva: grupo de personas que dirige una organización o compañía.",
+      "consolidated_definition": "Junta. Grupo de personas que dirige una organización o compañía. La palabra se usa frecuentemente acompañada del nombre de la entidad correspondiente. Anglicismo crudo, frecuente. El board se reserva el derecho a presentar candidato para este reconocimiento de entender no cuenta con los requisitos anteriores o el candidato seleccionado en el board desee no participar (Asociación de Realtors de )",
+      "en_consolidated_definition": "Board. A group of people who direct an organization or company. The word is often used in conjunction with the name of the corresponding entity. Raw anglicism, frequent. The board reserves the right to present a candidate for this recognition if it understands that the previous requirements are not met or if the selected candidate in the board does not wish to participate (Association of Realtors).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Comida proporcionada a los huéspedes en un establecimiento de alojamiento.",
-    "Junta directiva: grupo de personas que dirige una organización o compañía."
+    "Comida en una casa de huéspedes.",
+    "Junta. Grupo de personas que dirige una organización o compañía. La palabra se usa frecuentemente acompañada del nombre de la entidad correspondiente. Anglicismo crudo, frecuente. El board se reserva el derecho a presentar candidato para este reconocimiento de entender no cuenta con los requisitos anteriores o el candidato seleccionado en el board desee no participar (Asociación de Realtors de )"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Boarding house meal \n\nNota: En este contexto, \"boarding house\" se refiere a una casa de huéspedes o un establecimiento que ofrece alojamiento y comida a los huéspedes.",
+    "Board. A group of people who direct an organization or company. The word is often used in conjunction with the name of the corresponding entity. Raw anglicism, frequent. The board reserves the right to present a candidate for this recognition if it understands that the previous requirements are not met or if the selected candidate in the board does not wish to participate (Association of Realtors)."
+  ],
   "source": "https://tesoro.pr"
 }

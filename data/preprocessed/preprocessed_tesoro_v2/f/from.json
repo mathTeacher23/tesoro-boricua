@@ -3,9 +3,12 @@
   "term": "from",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Remitente",
+      "consolidated_definition": "Remitente. Dícese del que envía algo, el from.",
+      "en_consolidated_definition": "Sender. Said of the one who sends something, equivalent to \"from\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Remitente"
+    "Remitente. Dícese del que envía algo, el from."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sender. Said of the one who sends something, equivalent to \"from\"."
+  ],
   "source": "https://tesoro.pr"
 }

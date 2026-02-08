@@ -3,9 +3,12 @@
   "term": "projimidad",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caridad",
+      "consolidated_definition": "Caridad. Amor al prójimo.",
+      "en_consolidated_definition": "Charity. Love of one's neighbor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Caridad"
+    "Caridad. Amor al prójimo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Charity. Love of one's neighbor."
+  ],
   "source": "https://tesoro.pr"
 }

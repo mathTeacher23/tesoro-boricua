@@ -3,9 +3,12 @@
   "term": "pollón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pollo grande",
+      "consolidated_definition": "Pollo grande.",
+      "en_consolidated_definition": "Large chicken.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pollo",
+      "consolidated_definition": "Pollo, macho o hembra, que aún no ha llegado a su madurez sexual.",
+      "en_consolidated_definition": "Young rooster, either male or female, that has not yet reached sexual maturity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Pollo grande",
-    "Pollo"
+    "Pollo grande.",
+    "Pollo, macho o hembra, que aún no ha llegado a su madurez sexual."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large chicken.",
+    "Young rooster, either male or female, that has not yet reached sexual maturity."
+  ],
   "source": "https://tesoro.pr"
 }

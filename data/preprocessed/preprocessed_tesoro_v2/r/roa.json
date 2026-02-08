@@ -3,9 +3,12 @@
   "term": "roa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Codaste",
+      "consolidated_definition": "Codaste, madero de la embarcación sobre la quilla, inmediato a la proa, donde se sujeta el armazón.",
+      "en_consolidated_definition": "Keel block, a timber of the vessel on the keel, immediately adjacent to the bow, where the frame is secured.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Codaste"
+    "Codaste, madero de la embarcación sobre la quilla, inmediato a la proa, donde se sujeta el armazón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Keel block, a timber of the vessel on the keel, immediately adjacent to the bow, where the frame is secured."
+  ],
   "source": "https://tesoro.pr"
 }

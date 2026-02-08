@@ -3,9 +3,12 @@
   "term": "zar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cacique político de un pueblo o barrio",
+      "consolidated_definition": "Cacique político de un pueblo o barrio.",
+      "en_consolidated_definition": "Political chief of a town or neighborhood.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cacique político de un pueblo o barrio"
+    "Cacique político de un pueblo o barrio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Political chief of a town or neighborhood."
+  ],
   "source": "https://tesoro.pr"
 }

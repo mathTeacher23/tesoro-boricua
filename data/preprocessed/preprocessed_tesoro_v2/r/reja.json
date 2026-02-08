@@ -3,15 +3,18 @@
   "term": "reja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El dental del arado",
+      "consolidated_definition": "El dental del arado es una pieza del arado que entra en la tierra abriendo el surco.",
+      "en_consolidated_definition": "The plowshare is a part of the plow that enters the earth opening the furrow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5923",
         "semantic_similarity_score": 0.5923,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "El dental del arado"
+    "El dental del arado es una pieza del arado que entra en la tierra abriendo el surco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The plowshare is a part of the plow that enters the earth opening the furrow."
+  ],
   "source": "https://tesoro.pr"
 }

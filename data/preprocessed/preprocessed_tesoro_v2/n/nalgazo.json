@@ -3,9 +3,12 @@
   "term": "nalgazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe dado en las nalgas",
+      "consolidated_definition": "Golpe dado en las nalgas.",
+      "en_consolidated_definition": "Blow to the buttocks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Golpe dado en las nalgas"
+    "Golpe dado en las nalgas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Blow to the buttocks."
+  ],
   "source": "https://tesoro.pr"
 }

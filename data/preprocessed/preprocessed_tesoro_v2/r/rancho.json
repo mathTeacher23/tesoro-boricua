@@ -3,15 +3,18 @@
   "term": "rancho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cobertizo con paredes o sin ellas para preservar",
+      "consolidated_definition": "Un cobertizo es una estructura abierta o cerrada que protege objetos como frutas u otros artículos del clima adverso.",
+      "en_consolidated_definition": "A shelter or outbuilding is an open or enclosed structure that protects objects such as fruits or other items from adverse weather conditions.\n\nNota: En este contexto, \"cobertizo\" se refiere a una estructura que protege objetos del clima adverso, lo cual es común en Puerto Rico donde las estructuras de este tipo pueden ser utilizadas para proteger frutas y otros artículos de la lluvia o el sol.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4465",
-        "semantic_similarity_score": 0.4465,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4441",
+        "semantic_similarity_score": 0.4441,
+        "cluster_count": 6,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -63,20 +66,23 @@
           "Estructura rústica para diversos usos.",
           "Estructura de madera y zinc que tiene varios usos en la finca. Algunos están techados con paja de caña.",
           "Se puede hallar en el batey cierto cobertizo llamado rancho, con paredes o sin ellas, techado de zinc o con paja, útil para varios usos: guardar herramientas y maderos misceláneos, preservar de la intemperie frutos y otras cosas, como el forraje para el ganado, leña para el fuego doméstico, etc.",
-          "En el vocabulario activo de nuestra gente de campo, mención referida a su vivienda. T. ranchito, casa."
+          "En el vocabulario activo de nuestra gente de campo, … mención … referida a su vivienda. T. ranchito, casa."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "fig",
+      "consolidated_definition": "\"Fig\": Sustantivo que designa árbol frutal de la familia de las moráceas, originario del Mediterráneo y cultivado en todo el mundo por su fruto comestible.",
+      "en_consolidated_definition": "Fig: Noun designating a fruit tree of the Moraceae family, native to the Mediterranean and cultivated worldwide for its edible fruit.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.5101",
-        "semantic_similarity_score": 0.5101,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4971",
+        "semantic_similarity_score": 0.4971,
+        "cluster_count": 6,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -124,7 +130,7 @@
         "related_words": [],
         "reference_definitions": [
           "fig. Lazo, trampa.",
-          "Engaño, trampa.",
+          "(popular) Engaño, trampa.",
           "Trastada, engaño, fraude. “Le hicieron un rancho.”",
           "Celada. Trampa.",
           "Engaño, trampa.",
@@ -133,15 +139,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Antiguamente era especie de desayuno",
+      "consolidated_definition": "Alimento que se consume como primer curso en la mañana a base de garbanzos.",
+      "en_consolidated_definition": "Breakfast dish made from chickpeas, typically consumed as the first course in the morning.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4849",
         "semantic_similarity_score": 0.4849,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -170,9 +179,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Ver garrancho",
+      "consolidated_definition": "Ver garrancho .",
+      "en_consolidated_definition": "See garrancho.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -193,11 +205,16 @@
     }
   },
   "es_definitions": [
-    "Cobertizo con paredes o sin ellas para preservar",
-    "fig",
-    "Antiguamente era especie de desayuno",
-    "Ver garrancho"
+    "Un cobertizo es una estructura abierta o cerrada que protege objetos como frutas u otros artículos del clima adverso.",
+    "\"Fig\": Sustantivo que designa árbol frutal de la familia de las moráceas, originario del Mediterráneo y cultivado en todo el mundo por su fruto comestible.",
+    "Alimento que se consume como primer curso en la mañana a base de garbanzos.",
+    "Ver garrancho ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A shelter or outbuilding is an open or enclosed structure that protects objects such as fruits or other items from adverse weather conditions.\n\nNota: En este contexto, \"cobertizo\" se refiere a una estructura que protege objetos del clima adverso, lo cual es común en Puerto Rico donde las estructuras de este tipo pueden ser utilizadas para proteger frutas y otros artículos de la lluvia o el sol.",
+    "Fig: Noun designating a fruit tree of the Moraceae family, native to the Mediterranean and cultivated worldwide for its edible fruit.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "Breakfast dish made from chickpeas, typically consumed as the first course in the morning.",
+    "See garrancho."
+  ],
   "source": "https://tesoro.pr"
 }

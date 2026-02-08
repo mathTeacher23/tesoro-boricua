@@ -3,15 +3,18 @@
   "term": "pastelillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empanadilla corriente rellena de carne",
+      "consolidated_definition": "Empanadilla corriente rellena con carne, queso, dulce de guayaba o coco.",
+      "en_consolidated_definition": "Common empanada filled with meat, cheese, guava jam, or coconut.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.8294",
         "semantic_similarity_score": 0.8294,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -54,8 +57,10 @@
     }
   },
   "es_definitions": [
-    "Empanadilla corriente rellena de carne"
+    "Empanadilla corriente rellena con carne, queso, dulce de guayaba o coco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Common empanada filled with meat, cheese, guava jam, or coconut."
+  ],
   "source": "https://tesoro.pr"
 }

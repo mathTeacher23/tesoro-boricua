@@ -3,15 +3,18 @@
   "term": "padrejón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad del hombre",
+      "consolidated_definition": "Enfermedad del hombre: afección que afecta principalmente a los hombres, caracterizada por dolor en la boca del estómago y otras manifestaciones similares a las de la matriz en mujeres.",
+      "en_consolidated_definition": "Male Condition: a condition primarily affecting men, characterized by abdominal pain and other manifestations similar to those of dysmenorrhea in women.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
         "num_cleaned_definitions": 8,
         "definition_stability": "Stability: 0.465",
         "semantic_similarity_score": 0.465,
-        "cluster_count": null,
+        "cluster_count": 8,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -74,8 +77,10 @@
     }
   },
   "es_definitions": [
-    "Enfermedad del hombre"
+    "Enfermedad del hombre: afección que afecta principalmente a los hombres, caracterizada por dolor en la boca del estómago y otras manifestaciones similares a las de la matriz en mujeres."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Male Condition: a condition primarily affecting men, characterized by abdominal pain and other manifestations similar to those of dysmenorrhea in women."
+  ],
   "source": "https://tesoro.pr"
 }

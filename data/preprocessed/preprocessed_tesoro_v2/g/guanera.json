@@ -3,15 +3,18 @@
   "term": "guanera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bolsa de tela liviana rellena de alguna materia",
+      "consolidated_definition": "Una almohada es un objeto de tela liviana relleno de materia blanda, utilizado como soporte para descansar la cabeza o el cuello.",
+      "en_consolidated_definition": "A pillow is a lightweight textile object filled with soft material, used as support for resting the head or neck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5759",
-        "semantic_similarity_score": 0.5759,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5471",
+        "semantic_similarity_score": 0.5471,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,14 +43,17 @@
         "related_words": [],
         "reference_definitions": [
           "Bolsa de tela liviana rellena de alguna materia blanda, para ser usada como almohada. Antiguamente la rellenaban de guano.",
-          "utiliza para apoyar la cabeza una guanera o almohada que se rellena con la fibra suave, parecida al algodón, que da la semilla del árbol o palo de guano."
+          "El jíbaro moderno utiliza para apoyar la cabeza una guanera o almohada que se rellena con la fibra suave, parecida al algodón, que da la semilla del árbol o palo de guano."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Sitio poblado de guanos",
+      "consolidated_definition": "Sitio poblado de guanos.",
+      "en_consolidated_definition": "Guana-infested area.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "Bolsa de tela liviana rellena de alguna materia",
-    "Sitio poblado de guanos"
+    "Una almohada es un objeto de tela liviana relleno de materia blanda, utilizado como soporte para descansar la cabeza o el cuello.",
+    "Sitio poblado de guanos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A pillow is a lightweight textile object filled with soft material, used as support for resting the head or neck.",
+    "Guana-infested area."
+  ],
   "source": "https://tesoro.pr"
 }

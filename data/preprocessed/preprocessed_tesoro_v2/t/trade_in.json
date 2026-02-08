@@ -3,14 +3,17 @@
   "term": "trade in",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cambio",
+      "consolidated_definition": "Transacción comercial donde se obtienen rebajas entregando a cambio un producto de menor calidad o de una calidad parecida.",
+      "en_consolidated_definition": "Commercial transaction where discounts are obtained by exchanging a product of lower quality or similar quality in return.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3759",
-        "semantic_similarity_score": 0.3759,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,16 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Cambio, pronto , parte del pago. Los informantes señalaron que lo usaban en muchas ocasiones pero especialmente para la compra de un carro o beeper nuevo, porque los viejos los “daban en trade in”.",
-          "Transacción comercial donde se obtienen rebajas entregando a cambio un producto de menor calidad o de una calidad parecida.",
-          "Anticipo de pago por la compra de algo."
+          "Transacción comercial donde se obtienen rebajas entregando a cambio un producto de menor calidad o de una calidad parecida."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cambio"
+    "Transacción comercial donde se obtienen rebajas entregando a cambio un producto de menor calidad o de una calidad parecida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Commercial transaction where discounts are obtained by exchanging a product of lower quality or similar quality in return."
+  ],
   "source": "https://tesoro.pr"
 }

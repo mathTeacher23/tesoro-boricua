@@ -3,15 +3,18 @@
   "term": "chirreo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Práctica agrícola que consiste en limpiar una finca sin arrancar la hierba.",
+      "consolidated_definition": "Desyerbe con machete.",
+      "en_consolidated_definition": "Clear with machete.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.5678",
-        "semantic_similarity_score": 0.5678,
-        "cluster_count": 6,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -56,19 +59,16 @@
           "chirriar"
         ],
         "reference_definitions": [
-          "Procedimiento por el cual se limpia una finca sin arrancar la yerba.",
-          "Desyerbo a machete un poco más alto que el picatierra.",
-          "Acción y efecto de chirrear. Sinónimo: chapó.",
-          "Acción de desyerbo con machete.",
-          "Modo del desyerbo a machete.",
           "Desyerbe con machete."
         ]
       }
     }
   },
   "es_definitions": [
-    "Práctica agrícola que consiste en limpiar una finca sin arrancar la hierba."
+    "Desyerbe con machete."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Clear with machete."
+  ],
   "source": "https://tesoro.pr"
 }

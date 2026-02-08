@@ -3,9 +3,12 @@
   "term": "cuarta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que participa en un asunto con interés propio, siendo un compinche o amigo íntimo y sin rehuir responsabilidades ni aceptar sobornos.",
+      "consolidated_definition": "Persona que participa en un asunto con interés propio, siendo amigo o compinche, y sin rehuir responsabilidades ni aceptar sobornos.",
+      "en_consolidated_definition": "Person who participates in a matter with personal interest, being an associate or accomplice, and without shirking responsibilities nor accepting bribes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -51,15 +54,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Látigo: objeto de castigo o disciplina que consiste en un mango largo con una serie de cuerdas o correas finas y flexibles unidas a su extremidad.",
+      "consolidated_definition": "Cuba y P. Rico. Disciplina (instrumento para azotar).",
+      "en_consolidated_definition": "Cuba and P.Rico. Discipline (instrument of flogging).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2001",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3677",
-        "semantic_similarity_score": 0.3677,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -92,22 +98,23 @@
           "cuartear 1"
         ],
         "reference_definitions": [
-          ". Látigo. Ac1.",
-          ". Garrocha larga para picar a la yunta que hace de cuarta.",
           "Cuba y P. Rico. Disciplina (instrumento para azotar)."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Animal adicional que se une a un vehículo como fuerza de tiro.",
+      "consolidated_definition": "Yunta de bueyes, guía o animal que se agrega a un vehículo como fuerza de tiro.",
+      "en_consolidated_definition": "Ox team, draft animal, or additional vehicle used as a traction force.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.6624",
-        "semantic_similarity_score": 0.6624,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -155,24 +162,23 @@
           "cuartero"
         ],
         "reference_definitions": [
-          "(T. en Arg., C. Rica, Cuba y Ur.). Encuarte, guía o bestia que se agrega a un vehículo para ayudar a pasar un camino. (En Andalucía llaman cuarta a la mula de guía en los coches. Ac.).",
-          "Yunta de bueyes que ayuda a la yunta del tronco que va uncida a la carreta o al arado.",
-          "Segunda yunta de bueyes uncidos a una carreta.",
-          "La yunta de bueyes o la bestia individual que se agrega como refuerzo del tiro a la yunta del tronco que va uncida a la carreta o al arado.",
           "Yunta de bueyes, guía o animal que se agrega a un vehículo como fuerza de tiro."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "\"Palmo\": juego infantil de grupo que se practica con una moneda que se tira contra la pared.",
+      "consolidated_definition": "Juego infantil de grupo que se practica con una moneda que se tira contra la pared.",
+      "en_consolidated_definition": "Coin-throwing game played by a group of children with a coin thrown against a wall.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5205",
-        "semantic_similarity_score": 0.5205,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -200,21 +206,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Palmo, juego de chicos. “Y empezaban sus juegos favoritos: el tángano, la cuarta.” Meléndez Muñoz, , p. 167.",
           "Juego infantil de grupo que se practica con una moneda que se tira contra la pared."
         ]
       }
     },
     "5": {
-      "consolidated_definition": "Cuarta: medida, aplicable a longitud o peso, equivalente a una cuarta parte de un pie o a una cuarta parte de una botella de un litro, generalmente de una bebida alcohólica.",
+      "consolidated_definition": "Cuarta parte de una botella de un litro, generalmente de una bebida alcohólica.",
+      "en_consolidated_definition": "Quarter portion of a one-liter bottle, typically of an alcoholic beverage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.439",
-        "semantic_similarity_score": 0.439,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -251,20 +259,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "“Una cuarta, la cosa con que se mide.” “Cuarta, medida de la mano.”",
-          "Como voz de uso principalmente a nivel popular, se puede oír todavía, aplicada a longitud, en la medición comercial del tabaco hilado para mascar, se despacha a los usuarios más corrientemente por cuartas de pie (o sea, medidas de tres pulgadas), ya que comprarlo en mayor cantidad motiva que se reseque antes de usarlo, medido por metros o sus fracciones (“una cuarta (d)e tabaco”), y con más difusión, aplicada a peso por libras, en relación corrientemente con granos y otros productos sólidos (“una cuarta de habichuelas”, etc.).",
           "Cuarta parte de una botella de un litro, generalmente de una bebida alcohólica."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que participa en un asunto con interés propio, siendo un compinche o amigo íntimo y sin rehuir responsabilidades ni aceptar sobornos.",
-    "Látigo: objeto de castigo o disciplina que consiste en un mango largo con una serie de cuerdas o correas finas y flexibles unidas a su extremidad.",
-    "Animal adicional que se une a un vehículo como fuerza de tiro.",
-    "\"Palmo\": juego infantil de grupo que se practica con una moneda que se tira contra la pared.",
-    "Cuarta: medida, aplicable a longitud o peso, equivalente a una cuarta parte de un pie o a una cuarta parte de una botella de un litro, generalmente de una bebida alcohólica."
+    "Persona que participa en un asunto con interés propio, siendo amigo o compinche, y sin rehuir responsabilidades ni aceptar sobornos.",
+    "Cuba y P. Rico. Disciplina (instrumento para azotar).",
+    "Yunta de bueyes, guía o animal que se agrega a un vehículo como fuerza de tiro.",
+    "Juego infantil de grupo que se practica con una moneda que se tira contra la pared.",
+    "Cuarta parte de una botella de un litro, generalmente de una bebida alcohólica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who participates in a matter with personal interest, being an associate or accomplice, and without shirking responsibilities nor accepting bribes.",
+    "Cuba and P.Rico. Discipline (instrument of flogging).",
+    "Ox team, draft animal, or additional vehicle used as a traction force.",
+    "Coin-throwing game played by a group of children with a coin thrown against a wall.",
+    "Quarter portion of a one-liter bottle, typically of an alcoholic beverage."
+  ],
   "source": "https://tesoro.pr"
 }

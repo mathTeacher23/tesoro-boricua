@@ -3,15 +3,18 @@
   "term": "bachillerato",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El bachillerato es un título conferido al finalizar el primer nivel de estudios universitarios y también se refiere a los estudios secundarios que preceden a los superiores.",
+      "consolidated_definition": "Carrera universitaria y título equivalente a una licenciatura.",
+      "en_consolidated_definition": "University academic program and equivalent degree to a bachelor's degree.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5531",
-        "semantic_similarity_score": 0.5531,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Título conferido al finalizar el primer nivel de estudios universitarios; por extensión, los estudios. Desvío semántico, usual. DRAE 2001: estudios de enseñanza secundaria que preceden a los superiores. Posee un Bachillerato en Ciencias en Enfermería y una Maestría en Enfermería con especialidad en Medicina y Cirugía de la Pontificia Universidad Católica de Puerto Rico Recinto de Ponce (Universidad Interamericana, Ponce, consultado 11-10-08)",
           "Carrera universitaria y título equivalente a una licenciatura."
         ]
       }
     }
   },
   "es_definitions": [
-    "El bachillerato es un título conferido al finalizar el primer nivel de estudios universitarios y también se refiere a los estudios secundarios que preceden a los superiores."
+    "Carrera universitaria y título equivalente a una licenciatura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "University academic program and equivalent degree to a bachelor's degree."
+  ],
   "source": "https://tesoro.pr"
 }

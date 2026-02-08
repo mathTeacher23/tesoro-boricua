@@ -3,9 +3,12 @@
   "term": "workout",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rutina de ejercicios",
+      "consolidated_definition": "Rutina de ejercicios.",
+      "en_consolidated_definition": "Exercise routine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Rutina de ejercicios"
+    "Rutina de ejercicios."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Exercise routine."
+  ],
   "source": "https://tesoro.pr"
 }

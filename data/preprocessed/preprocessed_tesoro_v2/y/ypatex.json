@@ -3,15 +3,18 @@
   "term": "ypatex",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una de las variedades de la yuca que",
+      "consolidated_definition": "\"Yuca de Indias\": variedad de yuca considerada por Fernández de Oviedo como una de las mejores.",
+      "en_consolidated_definition": "\"Yuca de Indias\": variety of cassava considered by Fernández de Oviedo as one of the best.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6256",
         "semantic_similarity_score": 0.6256,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Una de las variedades de la yuca que"
+    "\"Yuca de Indias\": variedad de yuca considerada por Fernández de Oviedo como una de las mejores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "\"Yuca de Indias\": variety of cassava considered by Fernández de Oviedo as one of the best."
+  ],
   "source": "https://tesoro.pr"
 }

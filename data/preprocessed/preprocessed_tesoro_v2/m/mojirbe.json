@@ -3,9 +3,12 @@
   "term": "mojirbe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inservible",
+      "consolidated_definition": "Inservible.",
+      "en_consolidated_definition": "Unserviceable.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Inservible"
+    "Inservible."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Unserviceable."
+  ],
   "source": "https://tesoro.pr"
 }

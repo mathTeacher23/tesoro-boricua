@@ -3,15 +3,18 @@
   "term": "tanganazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Vulg. Trago grande de licor.",
+      "en_consolidated_definition": "Large shot of liquor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.3724",
         "semantic_similarity_score": 0.3724,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -54,12 +57,15 @@
       }
     },
     "2": {
-      "consolidated_definition": "Hechizo",
+      "consolidated_definition": "Hechizo.",
+      "en_consolidated_definition": "Enchantment \n\nNote: En este contexto, \"hechizo\" se refiere a un encanto mágico o una influencia sobrenatural, pero también puede referirse a una atracción o fascinación intensa hacia algo o alguien.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -90,16 +96,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hechizo.",
           "Hechizo."
         ]
       }
     }
   },
   "es_definitions": [
-    "vulg",
-    "Hechizo"
+    "Vulg. Trago grande de licor.",
+    "Hechizo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large shot of liquor.",
+    "Enchantment \n\nNote: En este contexto, \"hechizo\" se refiere a un encanto mágico o una influencia sobrenatural, pero también puede referirse a una atracción o fascinación intensa hacia algo o alguien."
+  ],
   "source": "https://tesoro.pr"
 }

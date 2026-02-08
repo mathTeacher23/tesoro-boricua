@@ -3,9 +3,12 @@
   "term": "lease",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alquiler",
+      "consolidated_definition": "Alquiler, arrendamiento financiero. Anglicismo crudo, poco frecuente. También leasing. Cada contrato disponía que el negocio era un lease y no una venta ()",
+      "en_consolidated_definition": "Financial leasing, financial rental. Raw anglicism, infrequently used. Also leasing. Each contract stipulated that the business was a lease and not a sale.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Alquiler, arrendamiento financiero. Anglicismo crudo, poco frecuente. También leasing. Cada contrato disponía que el negocio era un lease y no una venta"
+          "Alquiler, arrendamiento financiero. Anglicismo crudo, poco frecuente. También leasing. Cada contrato disponía que el negocio era un lease y no una venta ()"
         ]
       }
     }
   },
   "es_definitions": [
-    "Alquiler"
+    "Alquiler, arrendamiento financiero. Anglicismo crudo, poco frecuente. También leasing. Cada contrato disponía que el negocio era un lease y no una venta ()"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Financial leasing, financial rental. Raw anglicism, infrequently used. Also leasing. Each contract stipulated that the business was a lease and not a sale."
+  ],
   "source": "https://tesoro.pr"
 }

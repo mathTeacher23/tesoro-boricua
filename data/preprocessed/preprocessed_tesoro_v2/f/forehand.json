@@ -3,9 +3,12 @@
   "term": "forehand",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En tenis",
+      "consolidated_definition": "En tenis, golpe con la raqueta que se da con el brazo en posición frontal.",
+      "en_consolidated_definition": "In tennis, a shot struck with the racket arm in a frontal position.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En tenis"
+    "En tenis, golpe con la raqueta que se da con el brazo en posición frontal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In tennis, a shot struck with the racket arm in a frontal position."
+  ],
   "source": "https://tesoro.pr"
 }

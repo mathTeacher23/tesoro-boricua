@@ -3,9 +3,12 @@
   "term": "fallarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, batear y ser puesto fuera de juego.",
+      "en_consolidated_definition": "To strike out in baseball, to bat and be put out of the game.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, batear y ser puesto fuera de juego."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To strike out in baseball, to bat and be put out of the game."
+  ],
   "source": "https://tesoro.pr"
 }

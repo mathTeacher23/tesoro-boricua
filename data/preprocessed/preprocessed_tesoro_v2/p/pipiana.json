@@ -3,15 +3,18 @@
   "term": "pipiana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guisado de lechosa picada",
+      "consolidated_definition": "Postre culinario hecho con lechosa picada, leche de coco y especias.",
+      "en_consolidated_definition": "Culinary dessert made with grated yuca, coconut milk, and spices.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7258",
-        "semantic_similarity_score": 0.7258,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.7238",
+        "semantic_similarity_score": 0.7238,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,15 +48,17 @@
         "related_words": [],
         "reference_definitions": [
           "Guisado de lechosa picada, con leche de coco y especias.",
-          "de lechosa, coco y azúcar.",
+          "Postre de lechosa, coco y azúcar.",
           "Guisado de papaya picada condimentada con leche de coco y especias."
         ]
       }
     }
   },
   "es_definitions": [
-    "Guisado de lechosa picada"
+    "Postre culinario hecho con lechosa picada, leche de coco y especias."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Culinary dessert made with grated yuca, coconut milk, and spices."
+  ],
   "source": "https://tesoro.pr"
 }

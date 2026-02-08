@@ -3,9 +3,12 @@
   "term": "pusa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de garrocha empleada para impulsar el bote",
+      "consolidated_definition": "Especie de garrocha empleada para impulsar el bote cuando no se pueden usar los remos.",
+      "en_consolidated_definition": "A type of pike pole used to propel the boat when oars cannot be employed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Especie de garrocha empleada para impulsar el bote"
+    "Especie de garrocha empleada para impulsar el bote cuando no se pueden usar los remos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A type of pike pole used to propel the boat when oars cannot be employed."
+  ],
   "source": "https://tesoro.pr"
 }

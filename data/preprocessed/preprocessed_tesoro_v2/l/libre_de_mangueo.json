@@ -3,9 +3,12 @@
   "term": "libre de mangueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fuera de toda broma",
+      "consolidated_definition": "Fuera de toda broma. Con la mayor seriedad. Sin retozo.",
+      "en_consolidated_definition": "Sin broma alguna. Con la máxima seriedad. Sin retozo alguno.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Fuera de toda broma"
+    "Fuera de toda broma. Con la mayor seriedad. Sin retozo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sin broma alguna. Con la máxima seriedad. Sin retozo alguno."
+  ],
   "source": "https://tesoro.pr"
 }

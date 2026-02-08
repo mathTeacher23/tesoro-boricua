@@ -3,9 +3,12 @@
   "term": "muleto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Negro importado ya adulto",
+      "consolidated_definition": "Negro importado ya adulto.",
+      "en_consolidated_definition": "Imported adult blackbird.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Negro importado ya adulto"
+    "Negro importado ya adulto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Imported adult blackbird."
+  ],
   "source": "https://tesoro.pr"
 }

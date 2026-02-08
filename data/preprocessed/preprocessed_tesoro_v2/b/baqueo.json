@@ -3,15 +3,18 @@
   "term": "baqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Respaldo: garantía o apoyo económico o de otra naturaleza que proporciona estabilidad a algo o alguien.",
+      "consolidated_definition": "Respaldo, garantía.",
+      "en_consolidated_definition": "Backing, guarantee.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5999",
-        "semantic_similarity_score": 0.5999,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,16 +51,16 @@
           "baquear"
         ],
         "reference_definitions": [
-          "Respaldo. Garantía.",
-          "Apoyo. Respaldo económico o de otra naturaleza. Anglicismo adaptado, usual. Salgo a fiestas de vez en cuando, pero no estoy de party en party, ya que se gasta en gasolina, comida, bebida y si no hay un baqueo a la hora de pagar me puedo descuadrar",
           "Respaldo, garantía."
         ]
       }
     }
   },
   "es_definitions": [
-    "Respaldo: garantía o apoyo económico o de otra naturaleza que proporciona estabilidad a algo o alguien."
+    "Respaldo, garantía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Backing, guarantee."
+  ],
   "source": "https://tesoro.pr"
 }

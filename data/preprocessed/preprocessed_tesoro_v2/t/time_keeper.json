@@ -3,15 +3,18 @@
   "term": "time keeper",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cronometrador",
+      "consolidated_definition": "Cronometrador: Persona que medía y registra el tiempo en eventos deportivos o competiciones.",
+      "en_consolidated_definition": "Timekeeper: A person who measures and records time in sports events or competitions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.1154",
         "semantic_similarity_score": 0.1154,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Cronometrador"
+    "Cronometrador: Persona que medía y registra el tiempo en eventos deportivos o competiciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Timekeeper: A person who measures and records time in sports events or competitions."
+  ],
   "source": "https://tesoro.pr"
 }

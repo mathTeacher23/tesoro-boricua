@@ -3,9 +3,12 @@
   "term": "malambo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Canellaceae",
+      "consolidated_definition": "Canellaceae, Canella winterana.",
+      "en_consolidated_definition": "Canellaceae, Canella winterana.\n\nTranslation:\nCanellaceae, Canella winterana.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Antigua variante denominativa del machete en la zona",
+      "consolidated_definition": "Variante antigua del machete utilizado en la zona rural de Puerto Rico, documentado por Alonso en 1849.",
+      "en_consolidated_definition": "Antiguo machete rural utilizado en Puerto Rico, documentado por Alonso en 1849.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3011",
-        "semantic_similarity_score": 0.3011,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.319",
+        "semantic_similarity_score": 0.319,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,14 +88,17 @@
         "reference_definitions": [
           "Antigua variante denominativa del machete en la zona rural de Puerto Rico, según evidencia Alonso en 1849.",
           "“Jierro pa picá.” También machete o espadín.",
-          "Machete."
+          "(antiguo) Machete."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Cierto baile",
+      "consolidated_definition": "Cierto baile.",
+      "en_consolidated_definition": "Certain dance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -124,10 +133,14 @@
     }
   },
   "es_definitions": [
-    "Canellaceae",
-    "Antigua variante denominativa del machete en la zona",
-    "Cierto baile"
+    "Canellaceae, Canella winterana.",
+    "Variante antigua del machete utilizado en la zona rural de Puerto Rico, documentado por Alonso en 1849.",
+    "Cierto baile."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Canellaceae, Canella winterana.\n\nTranslation:\nCanellaceae, Canella winterana.",
+    "Antiguo machete rural utilizado en Puerto Rico, documentado por Alonso en 1849.",
+    "Certain dance."
+  ],
   "source": "https://tesoro.pr"
 }

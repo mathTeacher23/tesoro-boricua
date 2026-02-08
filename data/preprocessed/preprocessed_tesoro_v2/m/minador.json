@@ -3,15 +3,18 @@
   "term": "minador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Insecto muy dañino a las hojas del cafeto",
+      "consolidated_definition": "Insecto que causa daños significativos a las hojas del cafeto.",
+      "en_consolidated_definition": "Insect that causes significant damage to coffee plant leaves.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6805",
         "semantic_similarity_score": 0.6805,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Insecto muy dañino a las hojas del cafeto"
+    "Insecto que causa daños significativos a las hojas del cafeto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Insect that causes significant damage to coffee plant leaves."
+  ],
   "source": "https://tesoro.pr"
 }

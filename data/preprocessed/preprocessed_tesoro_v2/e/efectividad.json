@@ -3,9 +3,12 @@
   "term": "efectividad",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, grado de rendimiento logrado por un lanzador, que se calcula de acuerdo a la relación entre las entradas lanzadas y las carreras limpias permitidas.",
+      "en_consolidated_definition": "In baseball, a measure of performance achieved by a pitcher, calculated according to the ratio between innings pitched and clean runs allowed.\n\nNota: En este contexto, \"carreras limpias permitidas\" se refiere a las carreras que el lanzador permite sin haber sido anotadas por un bateador en base.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, grado de rendimiento logrado por un lanzador, que se calcula de acuerdo a la relación entre las entradas lanzadas y las carreras limpias permitidas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a measure of performance achieved by a pitcher, calculated according to the ratio between innings pitched and clean runs allowed.\n\nNota: En este contexto, \"carreras limpias permitidas\" se refiere a las carreras que el lanzador permite sin haber sido anotadas por un bateador en base."
+  ],
   "source": "https://tesoro.pr"
 }

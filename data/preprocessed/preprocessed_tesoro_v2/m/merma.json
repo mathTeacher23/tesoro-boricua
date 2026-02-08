@@ -3,9 +3,12 @@
   "term": "merma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Porciento de descuento que se hacía en las",
+      "consolidated_definition": "Porciento de descuento que se hacía en las entregas de tabaco calculando el peso que se iba a disminuir al tiempo de ser clasificado.",
+      "en_consolidated_definition": "Percentage of discount applied to tobacco deliveries based on the weight that would be reduced during classification.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Porciento de descuento que se hacía en las"
+    "Porciento de descuento que se hacía en las entregas de tabaco calculando el peso que se iba a disminuir al tiempo de ser clasificado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Percentage of discount applied to tobacco deliveries based on the weight that would be reduced during classification."
+  ],
   "source": "https://tesoro.pr"
 }

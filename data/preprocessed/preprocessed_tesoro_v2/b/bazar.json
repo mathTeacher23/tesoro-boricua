@@ -3,15 +3,18 @@
   "term": "bazar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rifa: evento en el que se venden objetos diversos a través de sorteos o juegos, organizado generalmente con fines benéficos durante festividades.",
+      "consolidated_definition": "Rifa o venta de objetos diversos que tiene lugar como parte de alguna festividad; incluye también juegos y se organiza generalmente con fines benéficos.",
+      "en_consolidated_definition": "Bazaar or sale of various objects that takes place as part of some festival; it also includes games and is generally organized for charitable purposes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Rifa: evento en el que se venden objetos diversos a través de sorteos o juegos, organizado generalmente con fines benéficos durante festividades."
+    "Rifa o venta de objetos diversos que tiene lugar como parte de alguna festividad; incluye también juegos y se organiza generalmente con fines benéficos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bazaar or sale of various objects that takes place as part of some festival; it also includes games and is generally organized for charitable purposes."
+  ],
   "source": "https://tesoro.pr"
 }

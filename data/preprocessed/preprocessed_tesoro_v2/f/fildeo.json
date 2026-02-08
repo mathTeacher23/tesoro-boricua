@@ -3,9 +3,12 @@
   "term": "fildeo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, captura de una pelota y lanzamiento posterior a un jugador del mismo equipo.",
+      "en_consolidated_definition": "In baseball, catch of a ball and subsequent throw to a player on the same team.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, captura de una pelota y lanzamiento posterior a un jugador del mismo equipo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, catch of a ball and subsequent throw to a player on the same team."
+  ],
   "source": "https://tesoro.pr"
 }

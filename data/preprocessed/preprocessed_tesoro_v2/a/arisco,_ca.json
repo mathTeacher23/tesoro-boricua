@@ -3,15 +3,18 @@
   "term": "arisco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Adjunto\": adjetivo que describe a una persona que tiene miedo excesivo o fácilmente asustadizo.",
+      "consolidated_definition": "Referido a persona, nerviosa.",
+      "en_consolidated_definition": "Referido a persona, agitada o ansiosa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4636",
-        "semantic_similarity_score": 0.4636,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -52,18 +55,16 @@
           "ariscar"
         ],
         "reference_definitions": [
-          ". Miedoso.",
-          "Amoscarse y amostazarse, poniendo en primer término la reserva y retraimiento del enfado, se usan como equivalentes a avergonzarse. Análoga razón puede haber motivado que arisco haya pasado a significar ‘miedoso’.",
-          "Nervioso, asustado, indócil, indómito.",
-          "Referido a persona, nerviosa.",
-          "Referido a persona, asustada, miedosa."
+          "Referido a persona, nerviosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Adjunto\": adjetivo que describe a una persona que tiene miedo excesivo o fácilmente asustadizo."
+    "Referido a persona, nerviosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a persona, agitada o ansiosa."
+  ],
   "source": "https://tesoro.pr"
 }

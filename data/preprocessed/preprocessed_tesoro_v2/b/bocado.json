@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "En el contexto de la equitación tradicional puertorriqueña, \"bocado\" es un término que se refiere al hierro utilizado en la boca del caballo, excepto en las islas de Caguas, Fajardo y Vieques, donde se le conoce como \"freno\".",
+      "en_consolidated_definition": "In the context of traditional Puerto Rican horse riding, \"bocado\" is a term referring to the iron used in the horse's mouth, except in Caguas Islands, Fajardo and Vieques where it is known as \"freno\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -47,15 +50,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Corte profundo en el tronco de un árbol para debilitarlo y facilitar su caída o tala.",
+      "consolidated_definition": "Corte profundo hecho en el tronco de un árbol para obligarlo a vencerse al talarlo.",
+      "en_consolidated_definition": "Deep gash made in the trunk of a tree to force it to topple when felled.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -85,8 +91,11 @@
   },
   "es_definitions": [
     "En el contexto de la equitación tradicional puertorriqueña, \"bocado\" es un término que se refiere al hierro utilizado en la boca del caballo, excepto en las islas de Caguas, Fajardo y Vieques, donde se le conoce como \"freno\".",
-    "Corte profundo en el tronco de un árbol para debilitarlo y facilitar su caída o tala."
+    "Corte profundo hecho en el tronco de un árbol para obligarlo a vencerse al talarlo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the context of traditional Puerto Rican horse riding, \"bocado\" is a term referring to the iron used in the horse's mouth, except in Caguas Islands, Fajardo and Vieques where it is known as \"freno\".",
+    "Deep gash made in the trunk of a tree to force it to topple when felled."
+  ],
   "source": "https://tesoro.pr"
 }

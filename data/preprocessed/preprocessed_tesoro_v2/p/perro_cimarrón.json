@@ -3,15 +3,18 @@
   "term": "perro cimarrón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Perro sin domesticar",
+      "consolidated_definition": "Un perro que no ha sido sometido a un proceso de domesticación o entrenamiento, clasificado como una especie salvaje.",
+      "en_consolidated_definition": "A dog that has not undergone a domestication or training process, classified as a feral species.\n\nNota: En este contexto, \"feral\" se utiliza para describir una especie que ha regresado a un estado salvaje después de haber sido domesticada anteriormente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4579",
         "semantic_similarity_score": 0.4579,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Perro sin domesticar"
+    "Un perro que no ha sido sometido a un proceso de domesticación o entrenamiento, clasificado como una especie salvaje."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A dog that has not undergone a domestication or training process, classified as a feral species.\n\nNota: En este contexto, \"feral\" se utiliza para describir una especie que ha regresado a un estado salvaje después de haber sido domesticada anteriormente."
+  ],
   "source": "https://tesoro.pr"
 }

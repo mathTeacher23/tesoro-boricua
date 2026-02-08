@@ -3,9 +3,12 @@
   "term": "segunda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Placenta de vaca",
+      "consolidated_definition": "Placenta de vaca.",
+      "en_consolidated_definition": "Cow placenta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Placenta de vaca"
+    "Placenta de vaca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cow placenta."
+  ],
   "source": "https://tesoro.pr"
 }

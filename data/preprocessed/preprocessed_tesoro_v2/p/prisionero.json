@@ -3,9 +3,12 @@
   "term": "prisionero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tornillo pequeño, relacionado con un mecanismo",
+      "consolidated_definition": "Tornillo pequeño, sin cabeza, que fija las poleas y las ruedas de un mecanismo a sus ejes. Fijo.",
+      "en_consolidated_definition": "Small, headless bolt that secures pulleys and wheels of a mechanism to their axles. Fixed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tornillo pequeño, relacionado con un mecanismo"
+    "Tornillo pequeño, sin cabeza, que fija las poleas y las ruedas de un mecanismo a sus ejes. Fijo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small, headless bolt that secures pulleys and wheels of a mechanism to their axles. Fixed."
+  ],
   "source": "https://tesoro.pr"
 }

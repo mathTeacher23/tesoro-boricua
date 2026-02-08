@@ -3,9 +3,12 @@
   "term": "zumo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sustancia aceitosa contenida en la cáscara de algunos",
+      "consolidated_definition": "Sustancia aceitosa contenida en la cáscara de algunos cítricos como la naranja o la mandarina.",
+      "en_consolidated_definition": "Citrus oil contained in the peel of certain citrus fruits such as oranges or tangerines.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sustancia aceitosa contenida en la cáscara de algunos"
+    "Sustancia aceitosa contenida en la cáscara de algunos cítricos como la naranja o la mandarina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Citrus oil contained in the peel of certain citrus fruits such as oranges or tangerines."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "abarrotamiento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Saturación del mercado se refiere al estado en que el suministro de un artículo o producto supera la demanda.",
+      "consolidated_definition": "Saturación del mercado con determinado artículo de consumo.",
+      "en_consolidated_definition": "Market saturation with a specific consumer good.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Saturación del mercado se refiere al estado en que el suministro de un artículo o producto supera la demanda."
+    "Saturación del mercado con determinado artículo de consumo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Market saturation with a specific consumer good."
+  ],
   "source": "https://tesoro.pr"
 }

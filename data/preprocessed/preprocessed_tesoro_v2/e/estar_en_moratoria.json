@@ -3,9 +3,12 @@
   "term": "estar en moratoria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando se pospone el pago de una deuda",
+      "consolidated_definition": "Cuando se pospone el pago de una deuda.",
+      "en_consolidated_definition": "Postponement of payment of a debt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Cuando se pospone el pago de una deuda"
+    "Cuando se pospone el pago de una deuda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Postponement of payment of a debt."
+  ],
   "source": "https://tesoro.pr"
 }

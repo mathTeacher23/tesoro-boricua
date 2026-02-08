@@ -3,9 +3,12 @@
   "term": "gadering",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte de la planta de lavado que lleva",
+      "consolidated_definition": "Parte de la planta de lavado que lleva la caña limpia.",
+      "en_consolidated_definition": "Part of the sugarcane plant that carries clean canes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Parte de la planta de lavado que lleva"
+    "Parte de la planta de lavado que lleva la caña limpia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Part of the sugarcane plant that carries clean canes."
+  ],
   "source": "https://tesoro.pr"
 }

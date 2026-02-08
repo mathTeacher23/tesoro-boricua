@@ -3,14 +3,17 @@
   "term": "talado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desyerbo hecho con el mocho para adentro y",
+      "consolidated_definition": "Corte del pasto con el mocho.",
+      "en_consolidated_definition": "Cutting of grass with a machete.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.775",
-        "semantic_similarity_score": 0.775,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Desyerbo hecho con el mocho para adentro y para afuera quedando el pasto un poco alto.",
-          "Desyerbo hecho con el machete que deja el pasto un poco alto.",
           "Corte del pasto con el mocho."
         ]
       }
     }
   },
   "es_definitions": [
-    "Desyerbo hecho con el mocho para adentro y"
+    "Corte del pasto con el mocho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cutting of grass with a machete."
+  ],
   "source": "https://tesoro.pr"
 }

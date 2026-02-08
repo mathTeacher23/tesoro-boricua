@@ -3,9 +3,12 @@
   "term": "montevideo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver carne montevideo",
+      "consolidated_definition": "Ver carne montevideo .",
+      "en_consolidated_definition": "See meat Montevideo style.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver carne montevideo"
+    "Ver carne montevideo ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See meat Montevideo style."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ser como un gallo viejo de pelea",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser persona ya desgastada en sus facultades fisicas",
+      "consolidated_definition": "Ser persona ya desgastada en sus facultades fisicas.",
+      "en_consolidated_definition": "Persona ya desgastada en sus facultades físicas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Ser persona ya desgastada en sus facultades fisicas"
+    "Ser persona ya desgastada en sus facultades fisicas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona ya desgastada en sus facultades físicas."
+  ],
   "source": "https://tesoro.pr"
 }

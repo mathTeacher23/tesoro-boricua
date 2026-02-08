@@ -3,9 +3,12 @@
   "term": "fino",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver mantequilla 3",
+      "consolidated_definition": "Ver mantequilla 3 .",
+      "en_consolidated_definition": "See butter 3.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,9 +28,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pez marino",
+      "consolidated_definition": "Pez marino.",
+      "en_consolidated_definition": "Marine fish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -61,9 +67,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Heroína",
+      "consolidated_definition": "Heroína.",
+      "en_consolidated_definition": "Heroine (n.) \n\nA female hero or a person who is admired for their courage and achievements.\n\nNota: En el contexto puertorriqueño, este término puede referirse específicamente a una mujer que ha demostrado valentía y determinación en la lucha por la independencia o los derechos de la comunidad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -98,10 +107,14 @@
     }
   },
   "es_definitions": [
-    "Ver mantequilla 3",
-    "Pez marino",
-    "Heroína"
+    "Ver mantequilla 3 .",
+    "Pez marino.",
+    "Heroína."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See butter 3.",
+    "Marine fish.",
+    "Heroine (n.) \n\nA female hero or a person who is admired for their courage and achievements.\n\nNota: En el contexto puertorriqueño, este término puede referirse específicamente a una mujer que ha demostrado valentía y determinación en la lucha por la independencia o los derechos de la comunidad."
+  ],
   "source": "https://tesoro.pr"
 }

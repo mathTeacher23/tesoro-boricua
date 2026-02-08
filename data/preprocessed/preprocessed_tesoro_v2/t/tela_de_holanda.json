@@ -3,9 +3,12 @@
   "term": "tela de holanda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Horganza",
+      "consolidated_definition": "Horganza.",
+      "en_consolidated_definition": "Horganza.\n\nTranslation:\nNetting.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Horganza"
+    "Horganza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Horganza.\n\nTranslation:\nNetting."
+  ],
   "source": "https://tesoro.pr"
 }

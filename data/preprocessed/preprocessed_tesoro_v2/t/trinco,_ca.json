@@ -3,9 +3,12 @@
   "term": "trinco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Borracho",
+      "consolidated_definition": "Borracho.",
+      "en_consolidated_definition": "Intoxicated person.\n\nNote: En este contexto, \"borracho\" se refiere a alguien que ha consumido excesivamente alcohol y está en estado de ebriedad. La traducción busca mantener el significado exacto del término original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,14 +46,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Son numerosos los adjetivos nacidos de participios fuertes",
+      "consolidated_definition": "Referido a persona, que se halla en tensión.",
+      "en_consolidated_definition": "Referido a persona que se halla en tensión.\n\nTensile, referring to a person who is under tension.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "num_cleaned_definitions": 10,
-        "definition_stability": "Stability: 0.4946",
-        "semantic_similarity_score": 0.4946,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -111,24 +117,18 @@
           "trincarse"
         ],
         "reference_definitions": [
-          "Son numerosos los adjetivos nacidos de participios fuertes: trinco, trincado.",
-          "Rígido. Ejemplo: garganta trinca.",
-          "Rígido; garganta trinca.",
-          "Rígido. Se dice: “trinco de la garganta” y “trinco de las piernas”.",
-          "Tieso. Rígido. Que no puede articular palabra.",
-          "Dícese de la prenda de vestir de talla más pequeña que la que corresponde a la persona.",
-          "Trincado.",
-          "Estado de tener una persona trabadas las quijadas, sin poder abrir la boca, debido a una afección o accidente. También trincao, a.",
-          "Referido a persona, que se halla en tensión.",
-          "Referido a persona, tiesa, rígida."
+          "Referido a persona, que se halla en tensión."
         ]
       }
     }
   },
   "es_definitions": [
-    "Borracho",
-    "Son numerosos los adjetivos nacidos de participios fuertes"
+    "Borracho.",
+    "Referido a persona, que se halla en tensión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Intoxicated person.\n\nNote: En este contexto, \"borracho\" se refiere a alguien que ha consumido excesivamente alcohol y está en estado de ebriedad. La traducción busca mantener el significado exacto del término original.",
+    "Referido a persona que se halla en tensión.\n\nTensile, referring to a person who is under tension."
+  ],
   "source": "https://tesoro.pr"
 }

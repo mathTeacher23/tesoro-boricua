@@ -3,9 +3,12 @@
   "term": "garbanzo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cataratas",
+      "consolidated_definition": "Cataratas. También tatarata, tátara.",
+      "en_consolidated_definition": "Waterfalls. Also tatarata, tátara.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,14 +43,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pequeña bolsita de papel conteniendo pólvora",
+      "consolidated_definition": "Bolsa pequeña de papel llena de pólvora que se hace estallar en el suelo en algunas celebraciones.",
+      "en_consolidated_definition": "Small paper pouch filled with gunpowder that is exploded on the ground in some celebrations.\n\nNota: En este contexto, \"celebraciones\" se refiere a eventos culturales específicos de Puerto Rico, como la Nochebuena o el Día de Reyes. Sin embargo, la traducción se mantiene general para abarcar diferentes contextos en los que podría utilizarse esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7521",
-        "semantic_similarity_score": 0.7521,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -78,16 +84,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pequeña bolsita de papel conteniendo pólvora , que al tirarla fuertemente contra el suelo estalla como un triquitraque. Lo usan los niños para hacer ruido en la medianoche del año viejo.",
           "Bolsa pequeña de papel llena de pólvora que se hace estallar en el suelo en algunas celebraciones."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cataratas",
-    "Pequeña bolsita de papel conteniendo pólvora"
+    "Cataratas. También tatarata, tátara.",
+    "Bolsa pequeña de papel llena de pólvora que se hace estallar en el suelo en algunas celebraciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Waterfalls. Also tatarata, tátara.",
+    "Small paper pouch filled with gunpowder that is exploded on the ground in some celebrations.\n\nNota: En este contexto, \"celebraciones\" se refiere a eventos culturales específicos de Puerto Rico, como la Nochebuena o el Día de Reyes. Sin embargo, la traducción se mantiene general para abarcar diferentes contextos en los que podría utilizarse esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

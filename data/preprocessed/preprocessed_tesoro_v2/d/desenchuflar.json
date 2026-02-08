@@ -3,9 +3,12 @@
   "term": "desenchuflar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Separar o desacoplar algo de aquello en que",
+      "consolidated_definition": "Separar o desacoplar algo de aquello en que está enchufado.",
+      "en_consolidated_definition": "Desacoplar o desconectar algo de aquello en que está conectado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Separar o desacoplar algo de aquello en que"
+    "Separar o desacoplar algo de aquello en que está enchufado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Desacoplar o desconectar algo de aquello en que está conectado."
+  ],
   "source": "https://tesoro.pr"
 }

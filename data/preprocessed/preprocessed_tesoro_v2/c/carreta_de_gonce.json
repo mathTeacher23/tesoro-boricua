@@ -3,15 +3,18 @@
   "term": "carreta de gonce",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El volquete se conoce también como carreta de gonce en Palmarejo y Cabo Rojo.",
+      "consolidated_definition": "Al volquete se le conoce con el nombre de carreta de gonce en Palmarejo y Cabo Rojo.",
+      "en_consolidated_definition": "In some regions, such as Palmarejo and Cabo Rojo, the dump truck is also known as a carreta de gonce.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El volquete se conoce también como carreta de gonce en Palmarejo y Cabo Rojo."
+    "Al volquete se le conoce con el nombre de carreta de gonce en Palmarejo y Cabo Rojo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In some regions, such as Palmarejo and Cabo Rojo, the dump truck is also known as a carreta de gonce."
+  ],
   "source": "https://tesoro.pr"
 }

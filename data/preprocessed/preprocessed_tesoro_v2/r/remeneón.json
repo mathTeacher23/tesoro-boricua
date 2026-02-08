@@ -3,9 +3,12 @@
   "term": "remeneón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sacudida fuerte",
+      "consolidated_definition": "Sacudida fuerte, violenta.",
+      "en_consolidated_definition": "Violent shock or jolt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sacudida fuerte"
+    "Sacudida fuerte, violenta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Violent shock or jolt."
+  ],
   "source": "https://tesoro.pr"
 }

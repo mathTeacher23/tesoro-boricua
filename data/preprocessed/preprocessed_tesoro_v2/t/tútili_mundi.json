@@ -3,9 +3,12 @@
   "term": "tútili mundi",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Todo el mundo",
+      "consolidated_definition": "Todo el mundo.",
+      "en_consolidated_definition": "Everyone in general or the entire population.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Todo el mundo"
+    "Todo el mundo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Everyone in general or the entire population."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ir a lo joyo abierto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guiar bien rápido",
+      "consolidated_definition": "Guiar bien rápido.",
+      "en_consolidated_definition": "Conducir con destreza y prontitud.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Guiar bien rápido"
+    "Guiar bien rápido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conducir con destreza y prontitud."
+  ],
   "source": "https://tesoro.pr"
 }

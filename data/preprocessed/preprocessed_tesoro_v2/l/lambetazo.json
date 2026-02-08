@@ -3,9 +3,12 @@
   "term": "lambetazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Elogio inmerecido",
+      "consolidated_definition": "Elogio inmerecido, adulación.",
+      "en_consolidated_definition": "Unhalo inmerecido, adulación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Elogio inmerecido"
+    "Elogio inmerecido, adulación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Unhalo inmerecido, adulación."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "gallo camagüey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo blanco con plumas amarillas o blanco con",
+      "consolidated_definition": "Gallo blanco con plumas amarillas o blanco con manchas rojas.",
+      "en_consolidated_definition": "White rooster with yellow or white feathers and red spots.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gallo blanco con plumas amarillas o blanco con"
+    "Gallo blanco con plumas amarillas o blanco con manchas rojas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "White rooster with yellow or white feathers and red spots."
+  ],
   "source": "https://tesoro.pr"
 }

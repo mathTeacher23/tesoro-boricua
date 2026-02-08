@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Pavo, ave. Ac.",
+      "en_consolidated_definition": "Turkey, bird. Ac.\n\nNota: La abreviatura \"Ac.\" se refiere a \"Aves\" en español, por lo que la traducción sería:\n\nBird, specifically Turkey. Birds.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,6 +45,8 @@
   "es_definitions": [
     ". Pavo, ave. Ac."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Turkey, bird. Ac.\n\nNota: La abreviatura \"Ac.\" se refiere a \"Aves\" en español, por lo que la traducción sería:\n\nBird, specifically Turkey. Birds."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "sotavento",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lado hacia donde va el viento",
+      "consolidated_definition": "Lado hacia donde va el viento, generalmente hacia el oeste. Aplícase a las áreas e islas al oeste de Puerto Rico.",
+      "en_consolidated_definition": "The direction towards which the wind blows, generally to the west. It applies to areas and islands to the west of Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Lado hacia donde va el viento"
+    "Lado hacia donde va el viento, generalmente hacia el oeste. Aplícase a las áreas e islas al oeste de Puerto Rico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The direction towards which the wind blows, generally to the west. It applies to areas and islands to the west of Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

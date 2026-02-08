@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "\"Chino\": piedra o guijarro utilizado para empedrar calles.",
+      "en_consolidated_definition": "\"Chino\": cobblestone or pebble used for paving streets.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -46,8 +49,11 @@
     },
     "2": {
       "consolidated_definition": "Árbol frutal que produce naranjas dulces.",
+      "en_consolidated_definition": "Citrus tree that produces sweet oranges.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -87,15 +93,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Cometa capuchino: objeto aéreo sencilla hecha con una hoja de papel diagonalmente colocada y sujetada por tres hilos en los ángulos superiores y un rabo interior.",
+      "consolidated_definition": "Cometa muy sencilla. En otros pueblos capuchino. Se hace sin varillaje con solo una hoja de papel en diagonal cogida con tres hilos en los ángulos superiores y un rabo en la parte interior.",
+      "en_consolidated_definition": "Simple kite. In other towns, capuchin. It is made without a frame with only one sheet of paper diagonally held together with three threads at the upper corners and a tail on the inner part.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -126,8 +135,12 @@
   "es_definitions": [
     "\"Chino\": piedra o guijarro utilizado para empedrar calles.",
     "Árbol frutal que produce naranjas dulces.",
-    "Cometa capuchino: objeto aéreo sencilla hecha con una hoja de papel diagonalmente colocada y sujetada por tres hilos en los ángulos superiores y un rabo interior."
+    "Cometa muy sencilla. En otros pueblos capuchino. Se hace sin varillaje con solo una hoja de papel en diagonal cogida con tres hilos en los ángulos superiores y un rabo en la parte interior."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "\"Chino\": cobblestone or pebble used for paving streets.",
+    "Citrus tree that produces sweet oranges.",
+    "Simple kite. In other towns, capuchin. It is made without a frame with only one sheet of paper diagonally held together with three threads at the upper corners and a tail on the inner part."
+  ],
   "source": "https://tesoro.pr"
 }

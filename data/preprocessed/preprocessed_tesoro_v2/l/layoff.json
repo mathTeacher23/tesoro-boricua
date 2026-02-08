@@ -3,9 +3,12 @@
   "term": "layoff",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Despido de un trabajador o destitución del empleo",
+      "consolidated_definition": "Despido de un trabajador o destitución del empleo que tenía.",
+      "en_consolidated_definition": "Dismissal of an employee or termination of their job position.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Despido de un trabajador o destitución del empleo"
+    "Despido de un trabajador o destitución del empleo que tenía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dismissal of an employee or termination of their job position."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "sustancia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alimento que contiene ingredientes ricos en proteínas",
+      "consolidated_definition": "Alimento que contiene ingredientes ricos en proteínas, generalmente aplicado al caldo del mondongo cocido.",
+      "en_consolidated_definition": "Food item rich in protein, typically applied to the broth of cooked tripe.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Alimento que contiene ingredientes ricos en proteínas"
+    "Alimento que contiene ingredientes ricos en proteínas, generalmente aplicado al caldo del mondongo cocido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Food item rich in protein, typically applied to the broth of cooked tripe."
+  ],
   "source": "https://tesoro.pr"
 }

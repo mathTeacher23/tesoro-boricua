@@ -3,9 +3,12 @@
   "term": "grúa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camión grúa que se usa para transportar la",
+      "consolidated_definition": "Camión grúa que se usa para transportar la caña desde el terreno al vehículo que la transporta.",
+      "en_consolidated_definition": "Harvester truck used to transport sugarcane from the field to the vehicle that transports it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,9 +46,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Mujer liviana",
+      "consolidated_definition": "Mujer liviana. Voz usada por prostitutas. Prostituta discreta.",
+      "en_consolidated_definition": "Woman of light build. Term used by prostitutes to refer to a discreet prostitute.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -80,9 +86,12 @@
     }
   },
   "es_definitions": [
-    "Camión grúa que se usa para transportar la",
-    "Mujer liviana"
+    "Camión grúa que se usa para transportar la caña desde el terreno al vehículo que la transporta.",
+    "Mujer liviana. Voz usada por prostitutas. Prostituta discreta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Harvester truck used to transport sugarcane from the field to the vehicle that transports it.",
+    "Woman of light build. Term used by prostitutes to refer to a discreet prostitute."
+  ],
   "source": "https://tesoro.pr"
 }

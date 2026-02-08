@@ -3,9 +3,12 @@
   "term": "hacer cucharas o cucharitas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar un niño a punto de llorar",
+      "consolidated_definition": "Estar un niño a punto de llorar.",
+      "en_consolidated_definition": "To be on the verge of tears as a child.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Estar un niño a punto de llorar"
+    "Estar un niño a punto de llorar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be on the verge of tears as a child."
+  ],
   "source": "https://tesoro.pr"
 }

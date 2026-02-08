@@ -3,9 +3,12 @@
   "term": "tcp",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Protocolo de Control de Transporte",
+      "consolidated_definition": "Protocolo de Control de Transporte. Conjunto de protocolos de comunicación que se encargan de la seguridad y la integridad de los datos que viajan por Internet. Sigla anglicada, poco frecuente. Utilizar el puerto 80 del protocolo Transmisión Control Protocolo para aquella parte de la comunicación con el programa de aplicaciones donde la información que se intercambie con el ciudadano no es confidencial y no tiene que estar protegida (Oficina de Gerencia y )",
+      "en_consolidated_definition": "Transportation Control Protocol (TCP) Security and Integrity Protocol Suite. A set of communication protocols responsible for the security and integrity of data traveling over the Internet. Anglicized acronym, relatively infrequent use. Utilize port 80 of the Transmission Control Protocol for that part of the communication with the application program where information exchanged with the citizen is non-confidential and does not require protection (Office of Management and Budget).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Protocolo de Control de Transporte. Conjunto de protocolos de comunicación que se encargan de la seguridad y la integridad de los datos que viajan por Internet. Sigla anglicada, poco frecuente. Utilizar el puerto 80 del protocolo Transmisión Control Protocolo para aquella parte de la comunicación con el programa de aplicaciones donde la información que se intercambie con el ciudadano no es confidencial y no tiene que estar protegida"
+          "Protocolo de Control de Transporte. Conjunto de protocolos de comunicación que se encargan de la seguridad y la integridad de los datos que viajan por Internet. Sigla anglicada, poco frecuente. Utilizar el puerto 80 del protocolo Transmisión Control Protocolo para aquella parte de la comunicación con el programa de aplicaciones donde la información que se intercambie con el ciudadano no es confidencial y no tiene que estar protegida (Oficina de Gerencia y )"
         ]
       }
     }
   },
   "es_definitions": [
-    "Protocolo de Control de Transporte"
+    "Protocolo de Control de Transporte. Conjunto de protocolos de comunicación que se encargan de la seguridad y la integridad de los datos que viajan por Internet. Sigla anglicada, poco frecuente. Utilizar el puerto 80 del protocolo Transmisión Control Protocolo para aquella parte de la comunicación con el programa de aplicaciones donde la información que se intercambie con el ciudadano no es confidencial y no tiene que estar protegida (Oficina de Gerencia y )"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Transportation Control Protocol (TCP) Security and Integrity Protocol Suite. A set of communication protocols responsible for the security and integrity of data traveling over the Internet. Anglicized acronym, relatively infrequent use. Utilize port 80 of the Transmission Control Protocol for that part of the communication with the application program where information exchanged with the citizen is non-confidential and does not require protection (Office of Management and Budget)."
+  ],
   "source": "https://tesoro.pr"
 }

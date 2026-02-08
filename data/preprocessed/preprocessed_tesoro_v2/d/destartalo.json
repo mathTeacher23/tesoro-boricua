@@ -3,9 +3,12 @@
   "term": "destartalo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Falta de orden",
+      "consolidated_definition": "Falta de orden, desarreglo.",
+      "en_consolidated_definition": "Disorderliness, lack of order, disarray.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Falta de orden"
+    "Falta de orden, desarreglo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Disorderliness, lack of order, disarray."
+  ],
   "source": "https://tesoro.pr"
 }

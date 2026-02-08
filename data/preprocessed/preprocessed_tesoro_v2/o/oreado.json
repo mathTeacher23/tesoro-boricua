@@ -3,9 +3,12 @@
   "term": "oreado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Breve momento de sol brillante al cesar la",
+      "consolidated_definition": "Breve momento de sol brillante al cesar la lluvia. “Hizo un oreao.”",
+      "en_consolidated_definition": "Momentary period of sunshine following a cessation of rain. \"Hizo un oreao.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Breve momento de sol brillante al cesar la"
+    "Breve momento de sol brillante al cesar la lluvia. “Hizo un oreao.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Momentary period of sunshine following a cessation of rain. \"Hizo un oreao.\""
+  ],
   "source": "https://tesoro.pr"
 }

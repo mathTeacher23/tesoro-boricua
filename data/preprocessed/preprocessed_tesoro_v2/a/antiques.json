@@ -3,15 +3,18 @@
   "term": "antiques",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Antigüedad\": objeto cuyo valor reside en haber sido creado hace muchos años, o color que lo imita, y también tienda que vende estos objetos.",
+      "consolidated_definition": "Antigüedades.",
+      "en_consolidated_definition": "Antiquities.\n\nNota: En algunos contextos, este término puede referirse a objetos o artefactos antiguos asociados con la cultura y la historia de Puerto Rico, como los llamados \"antigüedades\" en el contexto de la arqueología puertorriqueña.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4661",
-        "semantic_similarity_score": 0.4661,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino",
@@ -40,15 +43,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dec. Antigüedad. Objetos cuyo valor reside en haber sido hechos hace muchos años; también, color que los imita. En plural se usa como nombre de tienda. Anglicismo crudo, frecuente. Este diseño de la casa Fossil combina el elemento de un metal antique en la cerradura con un estilo ultramoderno en el bolso (El Nuevo Día, 02-09-07)",
           "Antigüedades."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Antigüedad\": objeto cuyo valor reside en haber sido creado hace muchos años, o color que lo imita, y también tienda que vende estos objetos."
+    "Antigüedades."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Antiquities.\n\nNota: En algunos contextos, este término puede referirse a objetos o artefactos antiguos asociados con la cultura y la historia de Puerto Rico, como los llamados \"antigüedades\" en el contexto de la arqueología puertorriqueña."
+  ],
   "source": "https://tesoro.pr"
 }

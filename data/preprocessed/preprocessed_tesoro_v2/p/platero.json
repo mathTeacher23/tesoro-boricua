@@ -3,9 +3,12 @@
   "term": "platero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Obrero que se encarga de los trabajos en",
+      "consolidated_definition": "Obrero que se encarga de los trabajos en el sitio donde se recoge el guarapo que sale del molino.",
+      "en_consolidated_definition": "Guarapo miller: Laborer responsible for tasks at the site where sugarcane juice is extracted from a mill.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Obrero que se encarga de los trabajos en"
+    "Obrero que se encarga de los trabajos en el sitio donde se recoge el guarapo que sale del molino."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Guarapo miller: Laborer responsible for tasks at the site where sugarcane juice is extracted from a mill."
+  ],
   "source": "https://tesoro.pr"
 }

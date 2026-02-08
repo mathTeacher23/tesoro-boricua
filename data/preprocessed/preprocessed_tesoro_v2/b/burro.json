@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Estante utilizado para emburrar la caña en el proceso de limpieza con mazas.",
+      "en_consolidated_definition": "Shelf used for \"emburrar la caña\" in the process of cleaning with mallets during sugarcane harvesting.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -47,15 +50,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Escalera de tijera\": objeto arquitectónico que combina escaleras rectas y curvas para conectar diferentes niveles en un edificio o estructura.",
+      "consolidated_definition": ". Escalera de tijera. Ac.",
+      "en_consolidated_definition": "Escalera de tijera, Ac. \n\nStaircase ladder, Ac.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,15 +89,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Banquillo utilizado por los zapateros para componer y ajustar el calzado.",
+      "consolidated_definition": "Banquillo que usan los zapateros para componer el calzado. (Igual en Segovia. Vergara, Cuatro mil palabras.).",
+      "en_consolidated_definition": "Workbench used by shoemakers to assemble footwear.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -121,15 +130,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Capparis es un arbusto caparidáceo con varias especies, entre las cuales se encuentran Capparis portorricensis y Capparis flexuosa.",
+      "consolidated_definition": "Arbusto caparidáceo del que hay varias especies. (Capparis portorricensis; flexuosa). Stahl, 1:44; 186.",
+      "en_consolidated_definition": "Thorny shrub of the caper family with several species. (Capparis portorricensis; flexuosa). Stahl, 1:44; 186.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -157,15 +169,18 @@
       }
     },
     "5": {
-      "consolidated_definition": "\"Homosexual\": Persona que siente atracción sexual o afectiva hacia miembros del mismo sexo.",
+      "consolidated_definition": "Homosexual.",
+      "en_consolidated_definition": "Homosexual person or individual who experiences romantic, emotional, or sexual attraction to members of the same sex.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -193,15 +208,18 @@
       }
     },
     "6": {
-      "consolidated_definition": "El micropogon furnieri, conocido como corvino en San Juan, es un pez de la familia Sciaenidae.",
+      "consolidated_definition": ". Pez de la familia Sciaenidae (corvinas). Micropogon furnieri. Conocido como corvino en San Juan.",
+      "en_consolidated_definition": "Fish of the family Sciaenidae (drums). Micropogon furnieri. Known as corvino in San Juan.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -231,12 +249,19 @@
   },
   "es_definitions": [
     "Estante utilizado para emburrar la caña en el proceso de limpieza con mazas.",
-    "\"Escalera de tijera\": objeto arquitectónico que combina escaleras rectas y curvas para conectar diferentes niveles en un edificio o estructura.",
-    "Banquillo utilizado por los zapateros para componer y ajustar el calzado.",
-    "Capparis es un arbusto caparidáceo con varias especies, entre las cuales se encuentran Capparis portorricensis y Capparis flexuosa.",
-    "\"Homosexual\": Persona que siente atracción sexual o afectiva hacia miembros del mismo sexo.",
-    "El micropogon furnieri, conocido como corvino en San Juan, es un pez de la familia Sciaenidae."
+    ". Escalera de tijera. Ac.",
+    "Banquillo que usan los zapateros para componer el calzado. (Igual en Segovia. Vergara, Cuatro mil palabras.).",
+    "Arbusto caparidáceo del que hay varias especies. (Capparis portorricensis; flexuosa). Stahl, 1:44; 186.",
+    "Homosexual.",
+    ". Pez de la familia Sciaenidae (corvinas). Micropogon furnieri. Conocido como corvino en San Juan."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Shelf used for \"emburrar la caña\" in the process of cleaning with mallets during sugarcane harvesting.",
+    "Escalera de tijera, Ac. \n\nStaircase ladder, Ac.",
+    "Workbench used by shoemakers to assemble footwear.",
+    "Thorny shrub of the caper family with several species. (Capparis portorricensis; flexuosa). Stahl, 1:44; 186.",
+    "Homosexual person or individual who experiences romantic, emotional, or sexual attraction to members of the same sex.",
+    "Fish of the family Sciaenidae (drums). Micropogon furnieri. Known as corvino in San Juan."
+  ],
   "source": "https://tesoro.pr"
 }

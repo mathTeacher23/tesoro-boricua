@@ -3,9 +3,12 @@
   "term": "zanjero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona cuyo oficio es hacer",
+      "consolidated_definition": "Dícese de la persona cuyo oficio es hacer zanjas de regadío en los sembrados, especialmente de la caña de azúcar.",
+      "en_consolidated_definition": "This is said of the person whose occupation is to dig irrigation ditches in fields, especially those of sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona cuyo oficio es hacer"
+    "Dícese de la persona cuyo oficio es hacer zanjas de regadío en los sembrados, especialmente de la caña de azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This is said of the person whose occupation is to dig irrigation ditches in fields, especially those of sugarcane."
+  ],
   "source": "https://tesoro.pr"
 }

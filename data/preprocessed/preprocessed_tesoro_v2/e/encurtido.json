@@ -3,9 +3,12 @@
   "term": "encurtido",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aderezo para las comidas preparado con vinagre",
+      "consolidated_definition": "Aderezo para las comidas preparado con vinagre, cebolla, ajos y ajíes bravos.",
+      "en_consolidated_definition": "Salsa criolla preparada con vinagre, cebolla, ajo y ajíes picantes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Aderezo para las comidas preparado con vinagre"
+    "Aderezo para las comidas preparado con vinagre, cebolla, ajos y ajíes bravos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Salsa criolla preparada con vinagre, cebolla, ajo y ajíes picantes."
+  ],
   "source": "https://tesoro.pr"
 }

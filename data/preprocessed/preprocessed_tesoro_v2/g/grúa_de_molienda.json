@@ -3,9 +3,12 @@
   "term": "grúa de molienda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Levanta la caña que viene a granel",
+      "consolidated_definition": "Levanta la caña que viene a granel.",
+      "en_consolidated_definition": "Harvests cane that comes in bulk.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Levanta la caña que viene a granel"
+    "Levanta la caña que viene a granel."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Harvests cane that comes in bulk."
+  ],
   "source": "https://tesoro.pr"
 }

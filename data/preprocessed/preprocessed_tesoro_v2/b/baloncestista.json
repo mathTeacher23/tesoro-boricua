@@ -3,15 +3,18 @@
   "term": "baloncestista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Dep\": abreviatura poco frecuente para designar a un jugador de baloncesto. También conocido como baloncelista.",
+      "consolidated_definition": "dep. Jugador de baloncesto. Poco frecuente. DRAE 2001. También baloncelista. Hasta hace unas horas, tres países se habían dado de baja del torneo baloncestista de los Juegos Centroamericanos y del Caribe, que se inauguran el 15 de este mes en Cartagena, Colombia (El Nuevo Día, 12-07-06)",
+      "en_consolidated_definition": "Basketball player. Infrequent usage. Also basketballist. Until recently, three countries had withdrawn from the Central American and Caribbean Games basketball tournament, which is set to open on July 15 in Cartagena, Colombia (El Nuevo Día, 12-07-06)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "\"Dep\": abreviatura poco frecuente para designar a un jugador de baloncesto. También conocido como baloncelista."
+    "dep. Jugador de baloncesto. Poco frecuente. DRAE 2001. También baloncelista. Hasta hace unas horas, tres países se habían dado de baja del torneo baloncestista de los Juegos Centroamericanos y del Caribe, que se inauguran el 15 de este mes en Cartagena, Colombia (El Nuevo Día, 12-07-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Basketball player. Infrequent usage. Also basketballist. Until recently, three countries had withdrawn from the Central American and Caribbean Games basketball tournament, which is set to open on July 15 in Cartagena, Colombia (El Nuevo Día, 12-07-06)"
+  ],
   "source": "https://tesoro.pr"
 }

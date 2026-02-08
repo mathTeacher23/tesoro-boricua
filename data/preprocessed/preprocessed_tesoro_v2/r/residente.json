@@ -3,9 +3,12 @@
   "term": "residente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reincidente",
+      "consolidated_definition": "Reincidente, en lenguaje de drogadictos.",
+      "en_consolidated_definition": "Repeat offender, in the language of drug addicts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Reincidente"
+    "Reincidente, en lenguaje de drogadictos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Repeat offender, in the language of drug addicts."
+  ],
   "source": "https://tesoro.pr"
 }

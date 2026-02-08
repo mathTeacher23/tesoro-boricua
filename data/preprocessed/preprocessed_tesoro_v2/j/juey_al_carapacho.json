@@ -3,9 +3,12 @@
   "term": "juey al carapacho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guisado de carne de cangrejo servido en la",
+      "consolidated_definition": "Guisado de carne de cangrejo servido en la concha del mismo animal.",
+      "en_consolidated_definition": "Steamed crab meat served in the shell of the same animal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Guisado de carne de cangrejo servido en la"
+    "Guisado de carne de cangrejo servido en la concha del mismo animal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Steamed crab meat served in the shell of the same animal."
+  ],
   "source": "https://tesoro.pr"
 }

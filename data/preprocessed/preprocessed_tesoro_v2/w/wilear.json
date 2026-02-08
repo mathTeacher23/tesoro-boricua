@@ -3,9 +3,12 @@
   "term": "wilear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Levantar la motora y correrla con la rueda",
+      "consolidated_definition": "Levantar la motora y correrla con la rueda trasera.",
+      "en_consolidated_definition": "Raise the motor and run it with the rear wheel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Levantar la motora y correrla con la rueda"
+    "Levantar la motora y correrla con la rueda trasera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Raise the motor and run it with the rear wheel."
+  ],
   "source": "https://tesoro.pr"
 }

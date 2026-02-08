@@ -3,9 +3,12 @@
   "term": "por ajuste",
   "superscripts": {
     "1": {
-      "consolidated_definition": "A destajo",
+      "consolidated_definition": "A destajo, de manera ajustada.",
+      "en_consolidated_definition": "At a fixed rate or in an efficient manner.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "A destajo"
+    "A destajo, de manera ajustada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "At a fixed rate or in an efficient manner."
+  ],
   "source": "https://tesoro.pr"
 }

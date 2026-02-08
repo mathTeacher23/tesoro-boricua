@@ -3,9 +3,12 @@
   "term": "mostro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Monstruo",
+      "consolidated_definition": "Monstruo.",
+      "en_consolidated_definition": "Creature.\n\nNota: En este caso, la palabra \"monstruo\" tiene un significado amplio y puede referirse a una criatura sobrenatural o a algo que se considera espantoso o inusual. La traducción al inglés mantiene el sentido general de la palabra original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Caballo",
+      "consolidated_definition": "Caballo, persona hábil.",
+      "en_consolidated_definition": "Skilled horseman, person skilled in horsemanship.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Monstruo",
-    "Caballo"
+    "Monstruo.",
+    "Caballo, persona hábil."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Creature.\n\nNota: En este caso, la palabra \"monstruo\" tiene un significado amplio y puede referirse a una criatura sobrenatural o a algo que se considera espantoso o inusual. La traducción al inglés mantiene el sentido general de la palabra original.",
+    "Skilled horseman, person skilled in horsemanship."
+  ],
   "source": "https://tesoro.pr"
 }

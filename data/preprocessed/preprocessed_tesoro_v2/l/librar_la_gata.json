@@ -3,9 +3,12 @@
   "term": "librar la gata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tener una moza relaciones sexuales por primera vez",
+      "consolidated_definition": "Tener una moza relaciones sexuales por primera vez.",
+      "en_consolidated_definition": "To have a first-time sexual encounter with someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Tener una moza relaciones sexuales por primera vez"
+    "Tener una moza relaciones sexuales por primera vez."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To have a first-time sexual encounter with someone."
+  ],
   "source": "https://tesoro.pr"
 }

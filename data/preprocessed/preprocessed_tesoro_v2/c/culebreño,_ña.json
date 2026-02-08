@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Gentilicio. Culebrense.",
+      "en_consolidated_definition": "Culebrense. Noun. Culebran inhabitant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -46,15 +49,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Relativo a la culebra\": que se refiere o está relacionado con las serpientes o cualquier aspecto asociado con ellas.",
+      "consolidated_definition": "Relativo a la culebra.",
+      "en_consolidated_definition": "Relative to the snake.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -83,8 +89,11 @@
   },
   "es_definitions": [
     "Gentilicio. Culebrense.",
-    "\"Relativo a la culebra\": que se refiere o está relacionado con las serpientes o cualquier aspecto asociado con ellas."
+    "Relativo a la culebra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Culebrense. Noun. Culebran inhabitant.",
+    "Relative to the snake."
+  ],
   "source": "https://tesoro.pr"
 }

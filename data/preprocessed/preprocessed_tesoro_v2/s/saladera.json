@@ -3,9 +3,12 @@
   "term": "saladera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mala suerte continua o general",
+      "consolidated_definition": "Mala suerte continua o general.",
+      "en_consolidated_definition": "Continuous or general bad luck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Mala suerte continua o general"
+    "Mala suerte continua o general."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Continuous or general bad luck."
+  ],
   "source": "https://tesoro.pr"
 }

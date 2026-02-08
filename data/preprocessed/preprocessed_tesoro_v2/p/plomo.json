@@ -3,14 +3,17 @@
   "term": "plomo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para medir la profundidad del mar",
+      "consolidated_definition": "En las actividades marítimas, instrumento que mide la profundidad del mar.",
+      "en_consolidated_definition": "Instrument used in maritime activities to measure the depth of the sea.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5593",
-        "semantic_similarity_score": 0.5593,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para medir la profundidad del mar. Cala, corricán, linia, rastro.",
           "En las actividades marítimas, instrumento que mide la profundidad del mar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Bala",
+      "consolidated_definition": "Bala.",
+      "en_consolidated_definition": "Bullet.\n\nNote: En este caso, la palabra \"bala\" puede referirse a un proyectil de arma de fuego o a una pelota redonda utilizada en juegos como el béisbol. Sin embargo, para mantener la precisión y evitar ambigüedad, se ha traducido como \"bullet\", que es el término más comúnmente utilizado en inglés para referirse a un proyectil de arma de fuego.\n\nSi se desea una traducción más específica al contexto puertorriqueño, podría ser:\n\nBullet (en el contexto del béisbol) o Cartridge (en el contexto de la caza o tiro deportivo).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Para medir la profundidad del mar",
-    "Bala"
+    "En las actividades marítimas, instrumento que mide la profundidad del mar.",
+    "Bala."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Instrument used in maritime activities to measure the depth of the sea.",
+    "Bullet.\n\nNote: En este caso, la palabra \"bala\" puede referirse a un proyectil de arma de fuego o a una pelota redonda utilizada en juegos como el béisbol. Sin embargo, para mantener la precisión y evitar ambigüedad, se ha traducido como \"bullet\", que es el término más comúnmente utilizado en inglés para referirse a un proyectil de arma de fuego.\n\nSi se desea una traducción más específica al contexto puertorriqueño, podría ser:\n\nBullet (en el contexto del béisbol) o Cartridge (en el contexto de la caza o tiro deportivo)."
+  ],
   "source": "https://tesoro.pr"
 }

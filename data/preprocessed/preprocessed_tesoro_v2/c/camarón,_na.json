@@ -3,15 +3,18 @@
   "term": "camarón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "fenómeno excepcional: evento, situación o circunstancia que se considera fuera de lo común, ya sea positiva o negativa.",
+      "consolidated_definition": "Referido a persona o cosa, buena o mala, pero fuera de lo común.",
+      "en_consolidated_definition": "Referido a persona o cosa, buena o mala, pero fuera de lo común.\n\nTranslation:\nReferring to a person or thing, good or bad, but extraordinary.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6622",
-        "semantic_similarity_score": 0.6622,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -38,21 +41,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cosa bien difícil, bueno o malo, fuera de lo común.",
           "Referido a persona o cosa, buena o mala, pero fuera de lo común."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ser muy ambicioso y egoísta.",
+      "consolidated_definition": "Ser muy ambicioso, egoísta.",
+      "en_consolidated_definition": "To be extremely ambitious and self-centered.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -80,9 +85,12 @@
     }
   },
   "es_definitions": [
-    "fenómeno excepcional: evento, situación o circunstancia que se considera fuera de lo común, ya sea positiva o negativa.",
-    "Ser muy ambicioso y egoísta."
+    "Referido a persona o cosa, buena o mala, pero fuera de lo común.",
+    "Ser muy ambicioso, egoísta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a persona o cosa, buena o mala, pero fuera de lo común.\n\nTranslation:\nReferring to a person or thing, good or bad, but extraordinary.",
+    "To be extremely ambitious and self-centered."
+  ],
   "source": "https://tesoro.pr"
 }

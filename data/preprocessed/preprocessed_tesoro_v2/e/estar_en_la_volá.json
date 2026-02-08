@@ -3,9 +3,12 @@
   "term": "estar en la volá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el conjunto de la bandada que se",
+      "consolidated_definition": "En el conjunto de la bandada que se alza en vuelo.",
+      "en_consolidated_definition": "In the aggregate of the flock that rises in flight.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -32,8 +35,10 @@
     }
   },
   "es_definitions": [
-    "En el conjunto de la bandada que se"
+    "En el conjunto de la bandada que se alza en vuelo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the aggregate of the flock that rises in flight."
+  ],
   "source": "https://tesoro.pr"
 }

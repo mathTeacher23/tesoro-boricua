@@ -3,9 +3,12 @@
   "term": "tora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer muy fuerte físicamente",
+      "consolidated_definition": "Mujer muy fuerte físicamente.",
+      "en_consolidated_definition": "Physically strong woman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Mujer muy fuerte físicamente"
+    "Mujer muy fuerte físicamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Physically strong woman."
+  ],
   "source": "https://tesoro.pr"
 }

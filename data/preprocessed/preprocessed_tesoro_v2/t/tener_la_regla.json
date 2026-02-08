@@ -3,9 +3,12 @@
   "term": "tener la regla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Menstruar",
+      "consolidated_definition": "Menstruar. También arreglar, estar en la regla.",
+      "en_consolidated_definition": "Menstruate. Also to regulate, be in one's period.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Menstruar"
+    "Menstruar. También arreglar, estar en la regla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Menstruate. Also to regulate, be in one's period."
+  ],
   "source": "https://tesoro.pr"
 }

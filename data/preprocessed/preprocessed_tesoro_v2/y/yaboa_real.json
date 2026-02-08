@@ -3,9 +3,12 @@
   "term": "yaboa real",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guanabá",
+      "consolidated_definition": "Guanabá. Ave garza de patas cortas, lomo negro, pecho grisáceo y pico grueso.",
+      "en_consolidated_definition": "Guanabá. Heron-like bird with short legs, black back, greyish breast, and thick bill.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Guanabá"
+    "Guanabá. Ave garza de patas cortas, lomo negro, pecho grisáceo y pico grueso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Guanabá. Heron-like bird with short legs, black back, greyish breast, and thick bill."
+  ],
   "source": "https://tesoro.pr"
 }

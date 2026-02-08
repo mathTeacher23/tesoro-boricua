@@ -3,9 +3,12 @@
   "term": "no ser ningún billete de cien pesos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No hay obligación o necesidad de gustarle a",
+      "consolidated_definition": "No hay obligación o necesidad de gustarle a todo el mundo.",
+      "en_consolidated_definition": "No hay obligación o necesidad de gustarle a todo el mundo.\n\nTraducción:\n\nThere is no obligation or need to be liked by everyone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "No hay obligación o necesidad de gustarle a"
+    "No hay obligación o necesidad de gustarle a todo el mundo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No hay obligación o necesidad de gustarle a todo el mundo.\n\nTraducción:\n\nThere is no obligation or need to be liked by everyone."
+  ],
   "source": "https://tesoro.pr"
 }

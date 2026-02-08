@@ -3,14 +3,17 @@
   "term": "tasajo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "cecina",
+      "consolidated_definition": "Carne seca y salada. También carne vieja.",
+      "en_consolidated_definition": "Dried and salted meat, also known as old meat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1995",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7165",
-        "semantic_similarity_score": 0.7165,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "cecina. También carne montevideo, carne vieja.",
-          "Carne cecina. Sinónimos montevideo, carnevieja, carne norte. Carnevieja.",
           "Carne seca y salada. También carne vieja."
         ]
       }
     }
   },
   "es_definitions": [
-    "cecina"
+    "Carne seca y salada. También carne vieja."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dried and salted meat, also known as old meat."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "barraco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Cerdo padre\": variedad de cerdo destinado a semental con pelaje oscuro o marrón.",
+      "consolidated_definition": "Cerdo que se destina a semental.",
+      "en_consolidated_definition": "Boar bred for stud purposes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4849",
-        "semantic_similarity_score": 0.4849,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,18 +61,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cerdo padrote.",
-          "(T. en Arg., Cuba, Méx. y R. Dom.). Cerdo padre.",
-          "Verraco. Cerdo que se usa como semental.",
-          "Dícese de la persona o animal muy excitable sexualmente. Verriondo.",
           "Cerdo que se destina a semental."
         ]
       }
     },
     "2": {
       "consolidated_definition": "\"Gusano de comején\": gusano que se alimenta de la madera podrida y pertenece a la categoría de insectos.",
+      "en_consolidated_definition": "Wood-boring beetle: a beetle that feeds on rotten wood and belongs to the category of insects.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -105,9 +107,12 @@
     }
   },
   "es_definitions": [
-    "\"Cerdo padre\": variedad de cerdo destinado a semental con pelaje oscuro o marrón.",
+    "Cerdo que se destina a semental.",
     "\"Gusano de comején\": gusano que se alimenta de la madera podrida y pertenece a la categoría de insectos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Boar bred for stud purposes.",
+    "Wood-boring beetle: a beetle that feeds on rotten wood and belongs to the category of insects."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tijerilla cucubano",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de gusano",
+      "consolidated_definition": "Variedad de gusano, de 2 pies de largo, que ataca la caña de azúcar.",
+      "en_consolidated_definition": "Variety of worm, 2 feet long, that attacks sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Variedad de gusano"
+    "Variedad de gusano, de 2 pies de largo, que ataca la caña de azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Variety of worm, 2 feet long, that attacks sugarcane."
+  ],
   "source": "https://tesoro.pr"
 }

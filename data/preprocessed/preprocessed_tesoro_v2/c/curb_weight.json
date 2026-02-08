@@ -3,15 +3,18 @@
   "term": "curb weight",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Autom. Peso bruto de un vehículo de motor con sus fluidos, excluyendo ocupantes y carga.",
+      "consolidated_definition": "autom. Peso de un vehículo de motor con sus fluidos con exclusión de ocupantes y carga. Anglicismo crudo, poco frecuente. Ajustes de peso podrán ser implementados para ecualizar la competencia. Todos los ajustes de peso serán a partir del curb weight de fábrica y no podrá exceder el 8% del mismo (Club de Corredores del Circuito de )",
+      "en_consolidated_definition": "Automobile. Gross weight of a motor vehicle with its fluids, excluding occupants and cargo. Raw anglicism, infrequently used. Weight adjustments may be implemented to equalize competition. All weight adjustments will be based on the factory curb weight and cannot exceed 8% of it (Circuit Drivers Club).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Autom. Peso bruto de un vehículo de motor con sus fluidos, excluyendo ocupantes y carga."
+    "autom. Peso de un vehículo de motor con sus fluidos con exclusión de ocupantes y carga. Anglicismo crudo, poco frecuente. Ajustes de peso podrán ser implementados para ecualizar la competencia. Todos los ajustes de peso serán a partir del curb weight de fábrica y no podrá exceder el 8% del mismo (Club de Corredores del Circuito de )"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Automobile. Gross weight of a motor vehicle with its fluids, excluding occupants and cargo. Raw anglicism, infrequently used. Weight adjustments may be implemented to equalize competition. All weight adjustments will be based on the factory curb weight and cannot exceed 8% of it (Circuit Drivers Club)."
+  ],
   "source": "https://tesoro.pr"
 }

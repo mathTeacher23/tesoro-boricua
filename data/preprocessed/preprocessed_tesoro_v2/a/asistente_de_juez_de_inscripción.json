@@ -3,15 +3,18 @@
   "term": "asistente de juez de inscripción",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que encarga trasladar y preparar los gallos para la pelea en el redondel, realizando también otros trabajos asignados.",
+      "consolidated_definition": "Oficial encargado de trasladar los gallos listos para combatir, al redondel. Allí los carean y los acomodan en los cajones para el inicio de la pelea; realizan también otros trabajos que se les asignen. A estos oficiales se les conoce como los muchachos.",
+      "en_consolidated_definition": "Official in charge of transporting the roosters ready for combat to the cockpit. There, they prepare and arrange them in the boxes for the start of the fight; they also perform other tasks assigned to them. These officials are also known as \"muchachos\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona que encarga trasladar y preparar los gallos para la pelea en el redondel, realizando también otros trabajos asignados."
+    "Oficial encargado de trasladar los gallos listos para combatir, al redondel. Allí los carean y los acomodan en los cajones para el inicio de la pelea; realizan también otros trabajos que se les asignen. A estos oficiales se les conoce como los muchachos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Official in charge of transporting the roosters ready for combat to the cockpit. There, they prepare and arrange them in the boxes for the start of the fight; they also perform other tasks assigned to them. These officials are also known as \"muchachos\"."
+  ],
   "source": "https://tesoro.pr"
 }

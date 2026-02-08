@@ -3,15 +3,18 @@
   "term": "rascamoño",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Molinillo",
+      "consolidated_definition": "El molinillo es un tipo de planta herbácea.",
+      "en_consolidated_definition": "The molinillo is a type of herbaceous plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6284",
         "semantic_similarity_score": 0.6284,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Molinillo"
+    "El molinillo es un tipo de planta herbácea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The molinillo is a type of herbaceous plant."
+  ],
   "source": "https://tesoro.pr"
 }

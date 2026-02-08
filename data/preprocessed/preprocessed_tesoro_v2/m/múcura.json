@@ -3,15 +3,18 @@
   "term": "múcura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El postre es miel de cañas",
+      "consolidated_definition": "Postre: Sustantivo que designa el plato final de la comida, compuesto por miel de caña y generalmente seguido del consumo de un vaso de agua.",
+      "en_consolidated_definition": "Dessert: Noun designating the final course of a meal, composed of sugarcane syrup and typically followed by the consumption of a glass of water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.6059",
         "semantic_similarity_score": 0.6059,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -59,9 +62,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Rémora",
+      "consolidated_definition": "Rémora. Cosa o persona muy pesada, molesta, fastidiosa.",
+      "en_consolidated_definition": "Drag. Something or person that is very burdensome, annoying, or tedious.\n\nNota: La palabra \"rémora\" se refiere a un pez que se adhiere a otros peces, pero en este contexto se utiliza como metáfora para describir algo o alguien que es pesado o molesto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -98,9 +104,12 @@
     }
   },
   "es_definitions": [
-    "El postre es miel de cañas",
-    "Rémora"
+    "Postre: Sustantivo que designa el plato final de la comida, compuesto por miel de caña y generalmente seguido del consumo de un vaso de agua.",
+    "Rémora. Cosa o persona muy pesada, molesta, fastidiosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dessert: Noun designating the final course of a meal, composed of sugarcane syrup and typically followed by the consumption of a glass of water.",
+    "Drag. Something or person that is very burdensome, annoying, or tedious.\n\nNota: La palabra \"rémora\" se refiere a un pez que se adhiere a otros peces, pero en este contexto se utiliza como metáfora para describir algo o alguien que es pesado o molesto."
+  ],
   "source": "https://tesoro.pr"
 }

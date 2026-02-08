@@ -3,9 +3,12 @@
   "term": "gumaracha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camarada",
+      "consolidated_definition": "Camarada. Compañero.",
+      "en_consolidated_definition": "Comrade. Fellow companion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver gumarracha",
+      "consolidated_definition": "Ver gumarracha .",
+      "en_consolidated_definition": "See gumarracha.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -62,9 +68,12 @@
     }
   },
   "es_definitions": [
-    "Camarada",
-    "Ver gumarracha"
+    "Camarada. Compañero.",
+    "Ver gumarracha ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Comrade. Fellow companion.",
+    "See gumarracha."
+  ],
   "source": "https://tesoro.pr"
 }

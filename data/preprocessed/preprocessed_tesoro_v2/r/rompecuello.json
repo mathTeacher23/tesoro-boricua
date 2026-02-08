@@ -3,9 +3,12 @@
   "term": "rompecuello",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Examen difícil de contestar",
+      "consolidated_definition": "Examen difícil de contestar.",
+      "en_consolidated_definition": "Difficult examination to answer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Examen difícil de contestar"
+    "Examen difícil de contestar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Difficult examination to answer."
+  ],
   "source": "https://tesoro.pr"
 }

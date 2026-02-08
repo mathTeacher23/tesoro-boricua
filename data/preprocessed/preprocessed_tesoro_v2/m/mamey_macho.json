@@ -3,9 +3,12 @@
   "term": "mamey macho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mammea americana",
+      "consolidated_definition": "Mammea americana. El que no da fruto, produce una resina medicinal.",
+      "en_consolidated_definition": "Mammea americana. The one that does not produce fruit yields a medicinal resin.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Mammea americana"
+    "Mammea americana. El que no da fruto, produce una resina medicinal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mammea americana. The one that does not produce fruit yields a medicinal resin."
+  ],
   "source": "https://tesoro.pr"
 }

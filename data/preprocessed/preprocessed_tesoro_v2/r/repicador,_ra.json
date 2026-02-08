@@ -3,15 +3,18 @@
   "term": "repicador, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Campanero",
+      "consolidated_definition": "\"Campanero\": Persona que es responsable de tocar la campana, especialmente en un reloj o en una iglesia.",
+      "en_consolidated_definition": "Bellringer: A person responsible for ringing the bell, especially in a clock or church.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3931",
         "semantic_similarity_score": 0.3931,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "adjetivo"
         ],
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Campanero"
+    "\"Campanero\": Persona que es responsable de tocar la campana, especialmente en un reloj o en una iglesia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bellringer: A person responsible for ringing the bell, especially in a clock or church."
+  ],
   "source": "https://tesoro.pr"
 }

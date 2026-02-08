@@ -3,9 +3,12 @@
   "term": "medio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Paramento de dos columnas que divide la sala",
+      "consolidated_definition": "Paramento de dos columnas que divide la sala del comedor en la casa puertorriqueña. También mampara.",
+      "en_consolidated_definition": "Partition of two columns that divides the dining room in a Puerto Rican house. Also, screen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Hoja del centro de la mata de tabaco, relacionado con un grupo",
+      "consolidated_definition": "Hoja del centro de la mata de tabaco llamada también grupo uno o manojo. Es la mejor y de mayor valor comercial.",
+      "en_consolidated_definition": "Leaf of the central stem of a tobacco plant also known as group one or cluster. It is the best and of greater commercial value.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Más o menos",
+      "consolidated_definition": "Más o menos.",
+      "en_consolidated_definition": "Approximately or roughly.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -111,10 +120,14 @@
     }
   },
   "es_definitions": [
-    "Paramento de dos columnas que divide la sala",
-    "Hoja del centro de la mata de tabaco, relacionado con un grupo",
-    "Más o menos"
+    "Paramento de dos columnas que divide la sala del comedor en la casa puertorriqueña. También mampara.",
+    "Hoja del centro de la mata de tabaco llamada también grupo uno o manojo. Es la mejor y de mayor valor comercial.",
+    "Más o menos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Partition of two columns that divides the dining room in a Puerto Rican house. Also, screen.",
+    "Leaf of the central stem of a tobacco plant also known as group one or cluster. It is the best and of greater commercial value.",
+    "Approximately or roughly."
+  ],
   "source": "https://tesoro.pr"
 }

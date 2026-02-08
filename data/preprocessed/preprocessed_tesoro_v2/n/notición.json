@@ -3,9 +3,12 @@
   "term": "notición",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona ligeramente borracha",
+      "consolidated_definition": "Persona ligeramente borracha.",
+      "en_consolidated_definition": "Persona ligeramente ebria.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Persona ligeramente borracha"
+    "Persona ligeramente borracha."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona ligeramente ebria."
+  ],
   "source": "https://tesoro.pr"
 }

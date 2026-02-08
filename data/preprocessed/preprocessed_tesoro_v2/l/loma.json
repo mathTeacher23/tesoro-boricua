@@ -3,9 +3,12 @@
   "term": "loma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuesta",
+      "consolidated_definition": "Cuesta.",
+      "en_consolidated_definition": "Cost. \n\nNota: En algunos contextos, \"cuesta\" puede referirse a un término coloquial en Puerto Rico que se utiliza para describir algo como costoso o caro. Sin embargo, la traducción literal del término es simplemente \"cost\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -35,14 +38,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En el beisbol, sitio en el centro del diamante donde se coloca el lanzador.",
+      "en_consolidated_definition": "In baseball, a location in the center of the diamond where the pitcher is placed.\n\nNota: En este contexto, \"diamante\" se refiere al área central del campo de juego de béisbol, que consta de cuatro bases (primera base, segunda base, tercera base y casa).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3772",
-        "semantic_similarity_score": 0.3772,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -76,17 +82,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En béisbol, sitio en el centro del diamante, donde se para el pitcher para lanzar la pelota al cacher. También dicen lomita.",
-          "Montículo .",
           "En el beisbol, sitio en el centro del diamante donde se coloca el lanzador."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cuesta",
-    "En béisbol"
+    "Cuesta.",
+    "En el beisbol, sitio en el centro del diamante donde se coloca el lanzador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cost. \n\nNota: En algunos contextos, \"cuesta\" puede referirse a un término coloquial en Puerto Rico que se utiliza para describir algo como costoso o caro. Sin embargo, la traducción literal del término es simplemente \"cost\".",
+    "In baseball, a location in the center of the diamond where the pitcher is placed.\n\nNota: En este contexto, \"diamante\" se refiere al área central del campo de juego de béisbol, que consta de cuatro bases (primera base, segunda base, tercera base y casa)."
+  ],
   "source": "https://tesoro.pr"
 }

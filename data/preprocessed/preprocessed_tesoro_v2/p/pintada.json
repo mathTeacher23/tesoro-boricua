@@ -3,9 +3,12 @@
   "term": "pintada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grano que comienza a madurar",
+      "consolidated_definition": "Grano que comienza a madurar, especialmente el del café.",
+      "en_consolidated_definition": "Bean that begins to ripen, especially coffee bean.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Grano que comienza a madurar"
+    "Grano que comienza a madurar, especialmente el del café."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bean that begins to ripen, especially coffee bean."
+  ],
   "source": "https://tesoro.pr"
 }

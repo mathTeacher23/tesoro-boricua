@@ -3,9 +3,12 @@
   "term": "hamaquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sacudir con fuerza a alguien",
+      "consolidated_definition": "Sacudir con fuerza a alguien, golpearlo.",
+      "en_consolidated_definition": "To shake or strike someone violently.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Sacudir con fuerza a alguien"
+    "Sacudir con fuerza a alguien, golpearlo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To shake or strike someone violently."
+  ],
   "source": "https://tesoro.pr"
 }

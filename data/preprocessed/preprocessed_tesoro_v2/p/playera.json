@@ -3,14 +3,17 @@
   "term": "playera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Flor y mata",
+      "consolidated_definition": "Apocynaceae; Vinca minor.",
+      "en_consolidated_definition": "Apocynaceae; Vinca minor.\n\nTranslation:\n\nFamily Apocynaceae; Periwinkle (Vinca minor).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.3542",
-        "semantic_similarity_score": 0.3542,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -54,26 +57,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Flor y mata.",
-          "Planta de jardín que produce una flor sencilla de varios colores, con un centro rojo. También buenas tardes.",
-          "decorativa.",
-          "Planta ornamental de flores frágiles con pétalos finos de diversos colores con el centro negro.",
-          "Buenas tardes.",
-          "Apocynaceae; Vinca minor.",
-          "Flor de la playera, frágil, de pétalos finos de color azul, violado, rosado o blanco."
+          "Apocynaceae; Vinca minor."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Variedad de uva",
+      "consolidated_definition": "La uva 'Morada' es una variedad de uva agridulce, pequeña, con un color morado intenso, semilla única y grande, que se consume aunque presenta un sabor ligeramente áspero. Produce el arbusto conocido como \"uva playera\", que crece en las tierras salitrosas de las costas.",
+      "en_consolidated_definition": "The 'Morada' grape is a variety of sweet-tart grape, small in size, with an intense purple color, single and large seed, that is consumed despite presenting a slightly harsh flavor. It produces the bush known as \"uva playera\", which grows on the saline soils of the coastlines.\n\nNota: La traducción de \"uva playera\" se mantiene en su forma original para preservar el contexto cultural específico de Puerto Rico, ya que no hay una equivalencia directa en inglés.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.499",
         "semantic_similarity_score": 0.499,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -104,9 +104,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Ver playero",
+      "consolidated_definition": "Ver playero .",
+      "en_consolidated_definition": "See playero.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -126,9 +129,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Ver sampedrito 1",
+      "consolidated_definition": "Ver sampedrito 1 .",
+      "en_consolidated_definition": "Ver sampedrito 1.\n\nSeems like there's no definition provided for \"sampedrito\" in the given text. However, I will provide a translation based on my knowledge of Puerto Rican Spanish and assuming that \"sampedrito\" is a term used in Puerto Rico.\n\nIf you could provide the actual definition or context for \"sampedrito\", I would be happy to assist you with an accurate translation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -149,11 +155,16 @@
     }
   },
   "es_definitions": [
-    "Flor y mata",
-    "Variedad de uva",
-    "Ver playero",
-    "Ver sampedrito 1"
+    "Apocynaceae; Vinca minor.",
+    "La uva 'Morada' es una variedad de uva agridulce, pequeña, con un color morado intenso, semilla única y grande, que se consume aunque presenta un sabor ligeramente áspero. Produce el arbusto conocido como \"uva playera\", que crece en las tierras salitrosas de las costas.",
+    "Ver playero .",
+    "Ver sampedrito 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Apocynaceae; Vinca minor.\n\nTranslation:\n\nFamily Apocynaceae; Periwinkle (Vinca minor).",
+    "The 'Morada' grape is a variety of sweet-tart grape, small in size, with an intense purple color, single and large seed, that is consumed despite presenting a slightly harsh flavor. It produces the bush known as \"uva playera\", which grows on the saline soils of the coastlines.\n\nNota: La traducción de \"uva playera\" se mantiene en su forma original para preservar el contexto cultural específico de Puerto Rico, ya que no hay una equivalencia directa en inglés.",
+    "See playero.",
+    "Ver sampedrito 1.\n\nSeems like there's no definition provided for \"sampedrito\" in the given text. However, I will provide a translation based on my knowledge of Puerto Rican Spanish and assuming that \"sampedrito\" is a term used in Puerto Rico.\n\nIf you could provide the actual definition or context for \"sampedrito\", I would be happy to assist you with an accurate translation."
+  ],
   "source": "https://tesoro.pr"
 }

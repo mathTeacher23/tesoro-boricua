@@ -3,9 +3,12 @@
   "term": "torero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona que",
+      "consolidated_definition": "Dícese de la persona que, al jugar pelota, falla.",
+      "en_consolidated_definition": "This is referred to as the person who, while playing ball, misses.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona que"
+    "Dícese de la persona que, al jugar pelota, falla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This is referred to as the person who, while playing ball, misses."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "loan mortage",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Préstamo hipotecario",
+      "consolidated_definition": "Préstamo hipotecario.",
+      "en_consolidated_definition": "Mortgage loan.\n\nNota: En algunos contextos, se puede considerar que \"préstamo hipotecario\" es equivalente a un \"mortgage\", pero en otros casos, podría ser más específico a un préstamo otorgado por una institución financiera en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Préstamo hipotecario"
+    "Préstamo hipotecario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mortgage loan.\n\nNota: En algunos contextos, se puede considerar que \"préstamo hipotecario\" es equivalente a un \"mortgage\", pero en otros casos, podría ser más específico a un préstamo otorgado por una institución financiera en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

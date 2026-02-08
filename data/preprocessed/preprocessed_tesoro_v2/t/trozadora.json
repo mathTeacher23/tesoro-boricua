@@ -3,9 +3,12 @@
   "term": "trozadora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Machete",
+      "consolidated_definition": "Machete.",
+      "en_consolidated_definition": "Machete: a long-bladed cutting tool used for clearing vegetation and other tasks, often associated with rural areas in Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Machete"
+    "Machete."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Machete: a long-bladed cutting tool used for clearing vegetation and other tasks, often associated with rural areas in Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

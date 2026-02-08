@@ -3,9 +3,12 @@
   "term": "enrejadura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Herida producida en la pata del buey por",
+      "consolidated_definition": "Herida producida en la pata del buey por la reja del arado.",
+      "en_consolidated_definition": "Wound inflicted on the ox's leg by the plowshare.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Herida producida en la pata del buey por"
+    "Herida producida en la pata del buey por la reja del arado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wound inflicted on the ox's leg by the plowshare."
+  ],
   "source": "https://tesoro.pr"
 }

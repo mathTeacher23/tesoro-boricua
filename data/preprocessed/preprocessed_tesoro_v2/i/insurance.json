@@ -3,14 +3,17 @@
   "term": "insurance",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Póliza de seguro",
+      "consolidated_definition": "Póliza de seguros, en especial para vehículos.",
+      "en_consolidated_definition": "Vehicle insurance policy, especially for automobiles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4285",
-        "semantic_similarity_score": 0.4285,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Póliza de seguro. Contrato que, mediante un acuerdo de pago, garantiza la protección contra pérdida o daño. Anglicismo crudo, poco frecuente. Con relacion a la hospitalisacion en USA, le dire que fui operado muchos años atrás en el mejor hospital de Miami de la vesícula biliar, sin seguro, sin dinero, y no me dejaron botado en la puerta del hospital, tampoco he visto a ningún ciudadano en este país morir en la puerta de un hospital por no tener insurance",
           "Póliza de seguros, en especial para vehículos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Póliza de seguro"
+    "Póliza de seguros, en especial para vehículos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Vehicle insurance policy, especially for automobiles."
+  ],
   "source": "https://tesoro.pr"
 }

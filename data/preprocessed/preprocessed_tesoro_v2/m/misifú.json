@@ -3,9 +3,12 @@
   "term": "misifú",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que suple al de una persona determinada",
+      "consolidated_definition": "Nombre que suple al de una persona determinada cuando no se quiere mencionar.",
+      "en_consolidated_definition": "Pseudónimo \n\nNombre que suple al de una persona determinada cuando no se quiere mencionar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Nombre que suple al de una persona determinada"
+    "Nombre que suple al de una persona determinada cuando no se quiere mencionar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pseudónimo \n\nNombre que suple al de una persona determinada cuando no se quiere mencionar."
+  ],
   "source": "https://tesoro.pr"
 }

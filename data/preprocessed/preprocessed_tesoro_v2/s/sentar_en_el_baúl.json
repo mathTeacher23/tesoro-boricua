@@ -3,9 +3,12 @@
   "term": "sentar en el baúl",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Controlar alguien a su pareja",
+      "consolidated_definition": "Controlar alguien a su pareja.",
+      "en_consolidated_definition": "Controlar a alguien en su relación con su pareja.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Controlar alguien a su pareja"
+    "Controlar alguien a su pareja."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Controlar a alguien en su relación con su pareja."
+  ],
   "source": "https://tesoro.pr"
 }

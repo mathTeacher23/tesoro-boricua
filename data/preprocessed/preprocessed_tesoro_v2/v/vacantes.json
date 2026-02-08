@@ -3,9 +3,12 @@
   "term": "vacantes",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vacaciones",
+      "consolidated_definition": "Vacaciones.",
+      "en_consolidated_definition": "Vacations or holiday periods, especially those taken during the summer months in Puerto Rico (verano).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Vacaciones"
+    "Vacaciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Vacations or holiday periods, especially those taken during the summer months in Puerto Rico (verano)."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "analista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la industria de la caña, se refiere a una persona que realiza análisis en la cala mecánica.",
+      "consolidated_definition": "En la industria de la caña, quien hace los análisis en la cala mecánica.",
+      "en_consolidated_definition": "In the sugarcane industry, the person responsible for conducting analyses in the mechanical dock.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En la industria de la caña, se refiere a una persona que realiza análisis en la cala mecánica."
+    "En la industria de la caña, quien hace los análisis en la cala mecánica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the sugarcane industry, the person responsible for conducting analyses in the mechanical dock."
+  ],
   "source": "https://tesoro.pr"
 }

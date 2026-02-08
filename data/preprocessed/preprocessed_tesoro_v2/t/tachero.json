@@ -3,9 +3,12 @@
   "term": "tachero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Químico tachero",
+      "consolidated_definition": "Químico tachero. En las centrales de caña, el encargado de químicos en la producción de azúcar.",
+      "en_consolidated_definition": "Sugar chemist or sugar chemist in charge. In sugarcane centrals, the person responsible for chemicals in the production of sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Químico tachero"
+    "Químico tachero. En las centrales de caña, el encargado de químicos en la producción de azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sugar chemist or sugar chemist in charge. In sugarcane centrals, the person responsible for chemicals in the production of sugar."
+  ],
   "source": "https://tesoro.pr"
 }

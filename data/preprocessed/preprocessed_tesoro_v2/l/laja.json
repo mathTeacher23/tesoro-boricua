@@ -3,9 +3,12 @@
   "term": "laja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona avarienta",
+      "consolidated_definition": "Dícese de la persona avarienta, mezquina.",
+      "en_consolidated_definition": "Frugal person, stingy individual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -38,14 +41,17 @@
       }
     },
     "2": {
-      "consolidated_definition": ". Piedra lisa y plana.",
+      "consolidated_definition": "Piedra plana.",
+      "en_consolidated_definition": "Flat stone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1995",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.8003",
-        "semantic_similarity_score": 0.8003,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -79,17 +85,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Piedra lisa y plana.",
-          "Piedra plana y ancha.",
           "Piedra plana."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dícese de la persona avarienta",
-    ". Piedra lisa y plana."
+    "Dícese de la persona avarienta, mezquina.",
+    "Piedra plana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Frugal person, stingy individual.",
+    "Flat stone."
+  ],
   "source": "https://tesoro.pr"
 }

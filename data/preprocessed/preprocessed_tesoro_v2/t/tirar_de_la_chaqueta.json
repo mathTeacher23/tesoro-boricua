@@ -3,9 +3,12 @@
   "term": "tirar de la chaqueta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reprender",
+      "consolidated_definition": "Reprender, regañar, desautorizar a un subalterno.",
+      "en_consolidated_definition": "Reprimand, reprove, or repudiate a subordinate.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Reprender"
+    "Reprender, regañar, desautorizar a un subalterno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Reprimand, reprove, or repudiate a subordinate."
+  ],
   "source": "https://tesoro.pr"
 }

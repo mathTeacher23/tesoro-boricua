@@ -3,9 +3,12 @@
   "term": "no calentarse con brusca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No coger vellones con facilidad",
+      "consolidated_definition": "No coger vellones con facilidad.",
+      "en_consolidated_definition": "No ser fácilmente susceptible a engaños o manipulación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "No coger vellones con facilidad"
+    "No coger vellones con facilidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No ser fácilmente susceptible a engaños o manipulación."
+  ],
   "source": "https://tesoro.pr"
 }

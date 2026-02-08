@@ -3,9 +3,12 @@
   "term": "membrecía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver membresía",
+      "consolidated_definition": "Ver membresía .",
+      "en_consolidated_definition": "See membership.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver membresía"
+    "Ver membresía ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See membership."
+  ],
   "source": "https://tesoro.pr"
 }

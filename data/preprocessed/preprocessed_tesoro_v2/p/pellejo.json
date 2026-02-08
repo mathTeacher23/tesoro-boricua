@@ -3,15 +3,18 @@
   "term": "pellejo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La corteza recia y fibrosa que envuelve a",
+      "consolidated_definition": "La corteza es el tejido externo recio y fibrosado que rodea la nuez del coco.",
+      "en_consolidated_definition": "The rind is the tough and fibrous outer tissue that surrounds the coconut kernel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6443",
-        "semantic_similarity_score": 0.6443,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6243",
+        "semantic_similarity_score": 0.6243,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,21 +42,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "La corteza recia y fibrosa que envuelve a la nuez del coco .",
-          "El tejido que envuelve el tronco del cocotero entre las palmas y los racimos Otros emplearon formas particulares que componen una abundante serie, en la cual acaso figuran ejemplos de mera aplicación personal: pellejo, Las Marías.",
+          "La corteza recia y fibrosa que envuelve a la nuez del coco ....",
+          "El tejido que envuelve el tronco del cocotero entre las palmas y los racimos ... Otros emplearon formas particulares que componen una abundante serie, en la cual acaso figuran ejemplos de mera aplicación personal: ... pellejo, Las Marías.",
           "Mención más bien local que registrara Navarro por la ruralía para la corteza de fibra dura que envuelve a la nuez del coco."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ". Mujer descarriada, prostituta, particularmente desmadejada o fea.",
+      "consolidated_definition": "Prostituta, en especial, la desmadejada y fea.",
+      "en_consolidated_definition": "Prostitute, especially the disheveled and ugly one.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6124",
-        "semantic_similarity_score": 0.6124,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -87,18 +93,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Mujer descarriada, prostituta, particularmente desmadejada o fea.",
-          "Se dice mujer descarriada y de mala reputación.",
-          "Prostituta. También dicen cuero.",
           "Prostituta, en especial, la desmadejada y fea."
         ]
       }
     }
   },
   "es_definitions": [
-    "La corteza recia y fibrosa que envuelve a",
-    ". Mujer descarriada, prostituta, particularmente desmadejada o fea."
+    "La corteza es el tejido externo recio y fibrosado que rodea la nuez del coco.",
+    "Prostituta, en especial, la desmadejada y fea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The rind is the tough and fibrous outer tissue that surrounds the coconut kernel.",
+    "Prostitute, especially the disheveled and ugly one."
+  ],
   "source": "https://tesoro.pr"
 }

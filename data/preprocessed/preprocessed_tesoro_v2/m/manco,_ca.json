@@ -3,15 +3,18 @@
   "term": "manco, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tratándose de las manos se dice manco del, relacionado con una organización",
+      "consolidated_definition": "\"Manco\": Persona que tiene una o ambas manos inútiles o que carece de algún miembro del cuerpo.",
+      "en_consolidated_definition": "Amputee: A person who has one or both hands rendered useless or lacks a body member.\n\nNota: En este contexto, el término \"manco\" se utiliza en Puerto Rico y otros países hispanohablantes para describir a una persona que ha perdido la función de una o ambas manos. La traducción al inglés es \"amputee\", que se refiere a alguien que ha sufrido una amputación, pero el término \"manco\" también puede implicar una disfunción o inutilidad de las manos sin necesariamente ser un resultado de una amputación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
         "num_cleaned_definitions": 9,
-        "definition_stability": "Stability: 0.5905",
-        "semantic_similarity_score": 0.5905,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5861",
+        "semantic_similarity_score": 0.5861,
+        "cluster_count": 9,
         "grammar": [
           "adjetivo"
         ],
@@ -72,18 +75,21 @@
           "La persona de brazo inútil. También tuñeco, tuyido, paralítico, ñoco.",
           "Al que le “falta una pieza”.",
           "Defecto en las manos.",
-          "Individuo que le falta una mano.",
+          "Individuo al que le falta una mano.",
           "La persona que tiene una mano inútil. También gambo.",
-          "Que está inútil del órgano .",
+          "Que está inútil del órgano (brazo, pierna, dedo, etc.).",
           "Inmovilidad de algún miembro del cuerpo.",
           "Persona a quien le falta un dedo, una mano o un brazo. También ñoco, soco, broco."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Bonito",
+      "consolidated_definition": "Bonito.",
+      "en_consolidated_definition": "Handsome.\n\nNota: La palabra \"bonito\" en español puede tener diferentes connotaciones y contextos, pero en general se refiere a algo o alguien que es agradable de ver o apuesto. En este caso, la traducción más adecuada sería \"handsome\", que se utiliza comúnmente en inglés para describir algo o alguien que es atractivo o elegante.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -117,9 +123,12 @@
     }
   },
   "es_definitions": [
-    "Tratándose de las manos se dice manco del, relacionado con una organización",
-    "Bonito"
+    "\"Manco\": Persona que tiene una o ambas manos inútiles o que carece de algún miembro del cuerpo.",
+    "Bonito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Amputee: A person who has one or both hands rendered useless or lacks a body member.\n\nNota: En este contexto, el término \"manco\" se utiliza en Puerto Rico y otros países hispanohablantes para describir a una persona que ha perdido la función de una o ambas manos. La traducción al inglés es \"amputee\", que se refiere a alguien que ha sufrido una amputación, pero el término \"manco\" también puede implicar una disfunción o inutilidad de las manos sin necesariamente ser un resultado de una amputación.",
+    "Handsome.\n\nNota: La palabra \"bonito\" en español puede tener diferentes connotaciones y contextos, pero en general se refiere a algo o alguien que es agradable de ver o apuesto. En este caso, la traducción más adecuada sería \"handsome\", que se utiliza comúnmente en inglés para describir algo o alguien que es atractivo o elegante."
+  ],
   "source": "https://tesoro.pr"
 }

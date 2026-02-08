@@ -3,9 +3,12 @@
   "term": "injerto tipo chino",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tallo colocado en un tronco con tierra",
+      "consolidated_definition": "Tallo colocado en un tronco con tierra, hasta que prende.",
+      "en_consolidated_definition": "Stem placed in a trunk with soil until it ignites.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tallo colocado en un tronco con tierra"
+    "Tallo colocado en un tronco con tierra, hasta que prende."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Stem placed in a trunk with soil until it ignites."
+  ],
   "source": "https://tesoro.pr"
 }

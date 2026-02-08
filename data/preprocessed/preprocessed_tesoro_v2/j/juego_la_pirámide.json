@@ -3,9 +3,12 @@
   "term": "juego la pirámide",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Juego fraudulento consistente en agrupar a tres personas, relacionado con un grupo",
+      "consolidated_definition": "Juego fraudulento consistente en agrupar a tres personas que aporten, por igual, una cantidad de dinero convenida. Luego, cada una de las tres personas traen al juego tres personas más que hagan igual aportación de dinero. Así, geométricamente, aumenta el número de participantes y el fondo de dinero. En cada ingreso de particpantes, sus antecedentes cobran el doble de su aportación y se retiran del juego. Como es natural, los últimos participantes aportan, pero no cobran ni lo aportado ni el beneficio que persiguieron, a menos que la pirámide crezca eternamente, cosa que es imposible.",
+      "en_consolidated_definition": "Pyramidal Scheme of Fraudulent Investment:\n\nA deceptive game in which three individuals contribute an agreed-upon amount of money equally. Each of the initial participants then recruits three additional people who make a similar monetary contribution. Geometrically, the number of participants and the pool of money increase with each new intake. In each round, the previous participants collect double their original contribution and withdraw from the game. As expected, the last participants to join contribute but neither receive back their investment nor any potential profit, unless the pyramid continues indefinitely, which is impossible.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Juego fraudulento consistente en agrupar a tres personas, relacionado con un grupo"
+    "Juego fraudulento consistente en agrupar a tres personas que aporten, por igual, una cantidad de dinero convenida. Luego, cada una de las tres personas traen al juego tres personas más que hagan igual aportación de dinero. Así, geométricamente, aumenta el número de participantes y el fondo de dinero. En cada ingreso de particpantes, sus antecedentes cobran el doble de su aportación y se retiran del juego. Como es natural, los últimos participantes aportan, pero no cobran ni lo aportado ni el beneficio que persiguieron, a menos que la pirámide crezca eternamente, cosa que es imposible."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pyramidal Scheme of Fraudulent Investment:\n\nA deceptive game in which three individuals contribute an agreed-upon amount of money equally. Each of the initial participants then recruits three additional people who make a similar monetary contribution. Geometrically, the number of participants and the pool of money increase with each new intake. In each round, the previous participants collect double their original contribution and withdraw from the game. As expected, the last participants to join contribute but neither receive back their investment nor any potential profit, unless the pyramid continues indefinitely, which is impossible."
+  ],
   "source": "https://tesoro.pr"
 }

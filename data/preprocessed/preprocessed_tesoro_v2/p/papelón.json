@@ -3,14 +3,17 @@
   "term": "papelón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablando de aves de corral",
+      "consolidated_definition": "Ave de corral, especialmente un gallo, de color amarillo tenue con plumas blanquecinas.",
+      "en_consolidated_definition": "Domestic fowl, particularly a rooster, of pale yellow color with white feathers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.6245",
-        "semantic_similarity_score": 0.6245,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -56,18 +59,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hablando de aves de corral, la que es de color amarillo bajo. “Sigue después el examen y filiación de cada gallo para saber si es papelón, giro, blanco...” Fernández Juncos, Tipos y..., 1882, p. 126.",
-          "Gallo color amarillo tenue con plumas blancuzcas. Es como un giro claro cuyas alas terminan en blanco.",
-          "Dícese del ave de corral que tiene el plumaje amarillo claro.",
-          "Gallo de color amarillo tenue con plumas blancuzcas.",
           "Ave de corral, especialmente un gallo, de color amarillo tenue con plumas blanquecinas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Acto necio",
+      "consolidated_definition": "Acto necio. Pachó.",
+      "en_consolidated_definition": "Foolish act. Pachó.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -102,9 +104,12 @@
     }
   },
   "es_definitions": [
-    "Hablando de aves de corral",
-    "Acto necio"
+    "Ave de corral, especialmente un gallo, de color amarillo tenue con plumas blanquecinas.",
+    "Acto necio. Pachó."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Domestic fowl, particularly a rooster, of pale yellow color with white feathers.",
+    "Foolish act. Pachó."
+  ],
   "source": "https://tesoro.pr"
 }

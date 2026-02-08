@@ -3,15 +3,18 @@
   "term": "gota coral",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Epilepsia",
+      "consolidated_definition": "Epilepsia. Trastorno neurológico caracterizado por convulsiones recurrentes y repentinas, que pueden variar en intensidad y duración.",
+      "en_consolidated_definition": "Epilepsy. Neurological disorder characterized by recurrent and sudden seizures that can vary in intensity and duration.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6964",
         "semantic_similarity_score": 0.6964,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Epilepsia"
+    "Epilepsia. Trastorno neurológico caracterizado por convulsiones recurrentes y repentinas, que pueden variar en intensidad y duración."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Epilepsy. Neurological disorder characterized by recurrent and sudden seizures that can vary in intensity and duration."
+  ],
   "source": "https://tesoro.pr"
 }

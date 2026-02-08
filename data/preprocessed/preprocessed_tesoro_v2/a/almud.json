@@ -3,15 +3,18 @@
   "term": "almud",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Decalitre es una unidad de medida empleada en la industria cafetalera equivalente a un decalitro.",
+      "consolidated_definition": "Unidad de medida que equivale a un decalitro empleada en la industria cafetalera.",
+      "en_consolidated_definition": "Unit of measurement equivalent to a decaliter used in the coffee industry.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.625",
-        "semantic_similarity_score": 0.625,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -55,18 +58,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Medida empleada en la industria del café, equivalente a un decalitro.",
-          "Medida de granos específica y exclusivamente aplicada aquí en la medición y peso del café, por las regiones del interior occidental de la Isla, donde radica su cultivo y cosecha.",
-          "Medida equivalente a veinte litros. El de café uva pesa 28 libras, y después de pelado, cinco libras.",
-          "Los granos de café que caben en un envase de latón con capacidad para cinco galones. Esta medida es para determinar y pagar la cantidad de granos recogidos por cada persona.",
           "Unidad de medida que equivale a un decalitro empleada en la industria cafetalera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Decalitre es una unidad de medida empleada en la industria cafetalera equivalente a un decalitro."
+    "Unidad de medida que equivale a un decalitro empleada en la industria cafetalera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Unit of measurement equivalent to a decaliter used in the coffee industry."
+  ],
   "source": "https://tesoro.pr"
 }

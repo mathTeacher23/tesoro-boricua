@@ -3,9 +3,12 @@
   "term": "eñangotao, tá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Que está en cuclillas",
+      "consolidated_definition": "Que está en cuclillas.",
+      "en_consolidated_definition": "Que está en posición de sentarse con las piernas dobladas hacia adelante y el cuerpo inclinado hacia abajo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Que está en cuclillas"
+    "Que está en cuclillas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Que está en posición de sentarse con las piernas dobladas hacia adelante y el cuerpo inclinado hacia abajo."
+  ],
   "source": "https://tesoro.pr"
 }

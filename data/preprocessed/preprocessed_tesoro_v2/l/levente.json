@@ -3,15 +3,18 @@
   "term": "levente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Levante (adverbio): Expresión regional que se utiliza para indicar algo o alguien en un estado de inestabilidad o inclinación leve.",
+      "en_consolidated_definition": "Levante (adverb): Regional expression used to indicate something or someone in a state of instability or slight inclination.\n\nNota: En este contexto, \"regional\" se refiere específicamente a una expresión utilizada en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
         "definition_stability": "Stability: 0.511",
         "semantic_similarity_score": 0.511,
-        "cluster_count": null,
+        "cluster_count": 6,
         "grammar": [
           "adjetivo"
         ],
@@ -68,9 +71,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, abstraída.",
+      "en_consolidated_definition": "Abstracted with respect to person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -104,9 +110,12 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    "Referido a persona"
+    "Levante (adverbio): Expresión regional que se utiliza para indicar algo o alguien en un estado de inestabilidad o inclinación leve.",
+    "Referido a persona, abstraída."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Levante (adverb): Regional expression used to indicate something or someone in a state of instability or slight inclination.\n\nNota: En este contexto, \"regional\" se refiere específicamente a una expresión utilizada en Puerto Rico.",
+    "Abstracted with respect to person."
+  ],
   "source": "https://tesoro.pr"
 }

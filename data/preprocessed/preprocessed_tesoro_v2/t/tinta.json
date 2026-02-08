@@ -3,9 +3,12 @@
   "term": "tinta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido al café",
+      "consolidated_definition": "Referido al café, negro y muy cargado.",
+      "en_consolidated_definition": "Referring to coffee, black and very strong.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referido al café"
+    "Referido al café, negro y muy cargado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referring to coffee, black and very strong."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "fusca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Limo de un manantial",
+      "consolidated_definition": "Limo de un manantial.",
+      "en_consolidated_definition": "Spring from a spring or fountain.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Limo de un manantial"
+    "Limo de un manantial."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Spring from a spring or fountain."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "pichón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Joven bien fornido",
+      "consolidated_definition": "Persona joven con buena condición física y robustez.",
+      "en_consolidated_definition": "Young person with good physical condition and robustness.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.4558",
         "semantic_similarity_score": 0.4558,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "adjetivo"
         ],
@@ -53,8 +56,10 @@
     }
   },
   "es_definitions": [
-    "Joven bien fornido"
+    "Persona joven con buena condición física y robustez."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Young person with good physical condition and robustness."
+  ],
   "source": "https://tesoro.pr"
 }

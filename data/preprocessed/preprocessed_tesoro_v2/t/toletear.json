@@ -3,14 +3,17 @@
   "term": "toletear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Macanear",
+      "consolidated_definition": "Golpear a alguien con un tolete.",
+      "en_consolidated_definition": "To strike someone with a tolete.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.3376",
-        "semantic_similarity_score": 0.3376,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -45,17 +48,16 @@
           "toletero, ra"
         ],
         "reference_definitions": [
-          "Macanear.",
-          "En béisbol, batear.",
-          "Golpear a alguien con un tolete.",
-          "En el beisbol, dar a la pelota con el bate, batear una línea fuerte."
+          "Golpear a alguien con un tolete."
         ]
       }
     }
   },
   "es_definitions": [
-    "Macanear"
+    "Golpear a alguien con un tolete."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To strike someone with a tolete."
+  ],
   "source": "https://tesoro.pr"
 }

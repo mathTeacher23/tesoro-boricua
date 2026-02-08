@@ -3,14 +3,17 @@
   "term": "partner",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Amigo íntimo",
+      "consolidated_definition": "Amigo íntimo, compañero inseparable.",
+      "en_consolidated_definition": "Intimate friend, inseparable companion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.49",
-        "semantic_similarity_score": 0.49,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -51,18 +54,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Amigo íntimo.",
-          "Amigo.",
-          "Colega, amigo, socio, pareja. Anglicismo crudo, poco frecuente. Véase pana. En Boston mi partner era J.C. y las cosas no nos iban bien a ninguno de los dos al principio, pero siempre nos dimos ánimo y estuvimos confiados en que había algo bueno para nosotros",
-          "soc. Parejo. Pareja de baile. Anglicismo crudo, poco frecuente. “Pegamos a hablar todo el tiempo y el partner mío se fue a la barra y no lo volví a ver”, relata",
           "Amigo íntimo, compañero inseparable."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Compañero de trabajo",
+      "consolidated_definition": "Compañero de trabajo.",
+      "en_consolidated_definition": "Colaborador laboral \n\nNota: En algunos contextos, \"colaborador laboral\" puede ser equivalente a \"coworker\", pero en otros casos se refiere específicamente a alguien que trabaja junto a otra persona en un proyecto o tarea determinada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -97,9 +99,12 @@
     }
   },
   "es_definitions": [
-    "Amigo íntimo",
-    "Compañero de trabajo"
+    "Amigo íntimo, compañero inseparable.",
+    "Compañero de trabajo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Intimate friend, inseparable companion.",
+    "Colaborador laboral \n\nNota: En algunos contextos, \"colaborador laboral\" puede ser equivalente a \"coworker\", pero en otros casos se refiere específicamente a alguien que trabaja junto a otra persona en un proyecto o tarea determinada."
+  ],
   "source": "https://tesoro.pr"
 }

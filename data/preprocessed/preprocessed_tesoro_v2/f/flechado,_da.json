@@ -3,9 +3,12 @@
   "term": "flechado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, enamorada.",
+      "en_consolidated_definition": "Enamorada de persona.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,9 +46,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona o cosa",
+      "consolidated_definition": "Referido a persona o cosa, especialmente un vehículo, que se mueve o actúa con mucha prisa.",
+      "en_consolidated_definition": "Referido a persona o cosa, especialmente un vehículo, que se mueve o actúa con mucha prisa.\n\nTranslation:\nReferring to a person or thing, especially a vehicle, that moves or acts with great haste.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -81,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Referido a persona",
-    "Referido a persona o cosa"
+    "Referido a persona, enamorada.",
+    "Referido a persona o cosa, especialmente un vehículo, que se mueve o actúa con mucha prisa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Enamorada de persona.",
+    "Referido a persona o cosa, especialmente un vehículo, que se mueve o actúa con mucha prisa.\n\nTranslation:\nReferring to a person or thing, especially a vehicle, that moves or acts with great haste."
+  ],
   "source": "https://tesoro.pr"
 }

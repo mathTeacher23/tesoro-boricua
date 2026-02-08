@@ -3,9 +3,12 @@
   "term": "policía acostado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En una vía pública",
+      "consolidated_definition": "En una vía pública, obstáculo artificial alomado que cruza de lado a lado para limitar la velocidad de los vehículos.",
+      "en_consolidated_definition": "In a public thoroughfare, an artificially elevated obstacle spanning from side to side to restrict the speed of vehicles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En una vía pública"
+    "En una vía pública, obstáculo artificial alomado que cruza de lado a lado para limitar la velocidad de los vehículos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In a public thoroughfare, an artificially elevated obstacle spanning from side to side to restrict the speed of vehicles."
+  ],
   "source": "https://tesoro.pr"
 }

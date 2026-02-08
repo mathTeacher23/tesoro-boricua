@@ -3,15 +3,18 @@
   "term": "alimoni",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alimonia: sustantivo que designa la acción y efecto de pagar o recibir una pensión para el mantenimiento de un hijo o cónyuge después de la separación o divorcio.",
+      "consolidated_definition": "Ver alimony .",
+      "en_consolidated_definition": "Maintenance payments made to a former spouse or partner for the support of their children.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Alimonia: sustantivo que designa la acción y efecto de pagar o recibir una pensión para el mantenimiento de un hijo o cónyuge después de la separación o divorcio."
+    "Ver alimony ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maintenance payments made to a former spouse or partner for the support of their children."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "guaraguaíllo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol",
+      "consolidated_definition": "Árbol: especie de guaraguao, correspondiente a las especies Guarea humilis o Guarea ramiflora.",
+      "en_consolidated_definition": "Tree: species of guaraguao corresponding to the Guarea humilis or Guarea ramiflora species.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7423",
-        "semantic_similarity_score": 0.7423,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.7912",
+        "semantic_similarity_score": 0.7912,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Árbol, especie de guaraguao. .",
+          "Árbol, especie de guaraguao. (Guarea humilis; ramiflora).",
           "Guarea ramiflora. Árbol meliáceo que no alcanza más de veinte metros de altura, y cuya madera es semejante a la del guaraguao. Crece en los montes húmedos de las alturas de la Isla, donde se le conoce con el nombre de guaraguao macho."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Guaraguao macho",
+      "consolidated_definition": "Guaraguao macho, ave rapaz.",
+      "en_consolidated_definition": "Male Guaraguao, male bird of prey.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "Árbol",
-    "Guaraguao macho"
+    "Árbol: especie de guaraguao, correspondiente a las especies Guarea humilis o Guarea ramiflora.",
+    "Guaraguao macho, ave rapaz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree: species of guaraguao corresponding to the Guarea humilis or Guarea ramiflora species.",
+    "Male Guaraguao, male bird of prey."
+  ],
   "source": "https://tesoro.pr"
 }

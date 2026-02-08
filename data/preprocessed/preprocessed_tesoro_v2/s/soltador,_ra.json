@@ -3,9 +3,12 @@
   "term": "soltador, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Operario que suelta las cadenas de los paquetes",
+      "consolidated_definition": "Operario que suelta las cadenas de los paquetes de caña una vez llegan a la plaza.",
+      "en_consolidated_definition": "Cortador de paquetes de caña que suelta las cadenas una vez los paquetes llegan a la plaza.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Operario que suelta las cadenas de los paquetes"
+    "Operario que suelta las cadenas de los paquetes de caña una vez llegan a la plaza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cortador de paquetes de caña que suelta las cadenas una vez los paquetes llegan a la plaza."
+  ],
   "source": "https://tesoro.pr"
 }

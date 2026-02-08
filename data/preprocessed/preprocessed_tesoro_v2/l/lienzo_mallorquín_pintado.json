@@ -3,9 +3,12 @@
   "term": "lienzo mallorquín pintado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tela estampada",
+      "consolidated_definition": "Tela estampada, a colores o sin ellos, con diferentes labores o dibujos.",
+      "en_consolidated_definition": "Printed fabric, colored or uncolored, with various embroidery or designs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tela estampada"
+    "Tela estampada, a colores o sin ellos, con diferentes labores o dibujos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Printed fabric, colored or uncolored, with various embroidery or designs."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "broza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Loíza: Sustantivo que se refiere a harina amarilla de maíz cocida.",
+      "consolidated_definition": "En la región de Loíza es harina amarilla de maíz cocida.",
+      "en_consolidated_definition": "In the Loíza region, cornmeal cooked into a yellow flour.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Restos de comida que sirven para alimentar a los cerdos también se conocen como \"recoges\".",
+      "consolidated_definition": "Restos de comida que sirven para alimentar a los cerdos.",
+      "en_consolidated_definition": "Remains of food used to feed pigs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7127",
-        "semantic_similarity_score": 0.7127,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -82,22 +88,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Restos de comida que sirven para alimentar a los cerdos. Los llaman también recoges.",
-          "El sobrante de comida que se va depositando en cierto envase para darlo luego a los cerdos.",
           "Restos de comida que sirven para alimentar a los cerdos."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Morralla: Sustantivo que designa pelea o riña entre personas, especialmente en un lugar público.",
+      "consolidated_definition": "Cebo.",
+      "en_consolidated_definition": "Baitfish \n\nNote: En este caso, \"cebo\" se refiere a un pez pequeño utilizado como cebo para pescar otros peces más grandes. La palabra \"cebo\" es común en Puerto Rico y se utiliza en el contexto de la pesca deportiva.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.324",
-        "semantic_similarity_score": 0.324,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -129,21 +136,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Morralla.",
           "Cebo."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "Gentuza: Persona que ocupa un lugar social intermedio entre la aristocracia y el pueblo común.",
+      "consolidated_definition": "Gentuza.",
+      "en_consolidated_definition": "Gentuza: \n\nRoughneck (en un contexto específico de Puerto Rico) \nor \nHillbilly (sin pérdida de significado cultural)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6621",
-        "semantic_similarity_score": 0.6621,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -172,21 +181,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Gentuza. Persona de medio pelo.",
           "Gentuza."
         ]
       }
     },
     "5": {
-      "consolidated_definition": "Ron de baja calidad o con características defectuosas.",
+      "consolidated_definition": "Ron de pésima calidad.",
+      "en_consolidated_definition": "Low-quality rum.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -215,12 +226,18 @@
     }
   },
   "es_definitions": [
-    "Loíza: Sustantivo que se refiere a harina amarilla de maíz cocida.",
-    "Restos de comida que sirven para alimentar a los cerdos también se conocen como \"recoges\".",
-    "Morralla: Sustantivo que designa pelea o riña entre personas, especialmente en un lugar público.",
-    "Gentuza: Persona que ocupa un lugar social intermedio entre la aristocracia y el pueblo común.",
-    "Ron de baja calidad o con características defectuosas."
+    "En la región de Loíza es harina amarilla de maíz cocida.",
+    "Restos de comida que sirven para alimentar a los cerdos.",
+    "Cebo.",
+    "Gentuza.",
+    "Ron de pésima calidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the Loíza region, cornmeal cooked into a yellow flour.",
+    "Remains of food used to feed pigs.",
+    "Baitfish \n\nNote: En este caso, \"cebo\" se refiere a un pez pequeño utilizado como cebo para pescar otros peces más grandes. La palabra \"cebo\" es común en Puerto Rico y se utiliza en el contexto de la pesca deportiva.",
+    "Gentuza: \n\nRoughneck (en un contexto específico de Puerto Rico) \nor \nHillbilly (sin pérdida de significado cultural)",
+    "Low-quality rum."
+  ],
   "source": "https://tesoro.pr"
 }

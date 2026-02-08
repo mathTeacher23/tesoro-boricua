@@ -3,15 +3,18 @@
   "term": "camandulero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que recoge camándulas y fabrica y vende collares y rosarios.",
+      "consolidated_definition": "Persona que recoge camándulas y hace y vende collares y rosarios.",
+      "en_consolidated_definition": "Person who collects candles and creates and sells rosaries and necklaces.\n\nNota: En este caso, \"camándulas\" se refiere a velas o cirios, que son un elemento común en la religión católica y en la cultura puertorriqueña. La traducción mantiene el contexto cultural original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Persona que recoge camándulas y fabrica y vende collares y rosarios."
+    "Persona que recoge camándulas y hace y vende collares y rosarios."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who collects candles and creates and sells rosaries and necklaces.\n\nNota: En este caso, \"camándulas\" se refiere a velas o cirios, que son un elemento común en la religión católica y en la cultura puertorriqueña. La traducción mantiene el contexto cultural original."
+  ],
   "source": "https://tesoro.pr"
 }

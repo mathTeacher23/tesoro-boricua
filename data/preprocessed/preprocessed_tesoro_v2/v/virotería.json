@@ -3,9 +3,12 @@
   "term": "virotería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de los virotes de una casa de",
+      "consolidated_definition": "Conjunto de los virotes de una casa de madera.",
+      "en_consolidated_definition": "Conjunto de los virotes de una casa de madera.\n\nTranslation:\n\nSet of the rafters of a wooden house.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Conjunto de los virotes de una casa de"
+    "Conjunto de los virotes de una casa de madera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conjunto de los virotes de una casa de madera.\n\nTranslation:\n\nSet of the rafters of a wooden house."
+  ],
   "source": "https://tesoro.pr"
 }

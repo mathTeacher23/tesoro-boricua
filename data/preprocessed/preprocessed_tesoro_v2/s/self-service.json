@@ -3,9 +3,12 @@
   "term": "self-service",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Autoservicio",
+      "consolidated_definition": "Autoservicio.",
+      "en_consolidated_definition": "Self-service.\n\nNota: En algunos contextos, se refiere a un sistema de atención al cliente en el que los clientes pueden realizar transacciones o solicitar servicios sin la intervención directa de personal del establecimiento.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Autoservicio"
+    "Autoservicio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Self-service.\n\nNota: En algunos contextos, se refiere a un sistema de atención al cliente en el que los clientes pueden realizar transacciones o solicitar servicios sin la intervención directa de personal del establecimiento."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "prueba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad o contratiempo causado por los espíritus",
+      "consolidated_definition": "Enfermedad o contratiempo causado por los espíritus.",
+      "en_consolidated_definition": "Affliction or mishap caused by spirits.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": ". Ejercicios acrobáticos; también, juegos de manos.",
+      "consolidated_definition": "(T. en Col., Chile y Perú). Ejercicios acrobáticos; también, juegos de manos.",
+      "en_consolidated_definition": "Acrobatic exercises; also, hand-to-hand games.\n\nNota: En este caso, no se menciona específicamente términos culturales de Puerto Rico, pero si lo hubiera sido, habría preservado el contexto y traducido con precisión.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -73,15 +79,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Ejercicios acrobáticos; también, juegos de manos."
+          "(T. en Col., Chile y Perú). Ejercicios acrobáticos; también, juegos de manos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enfermedad o contratiempo causado por los espíritus",
-    ". Ejercicios acrobáticos; también, juegos de manos."
+    "Enfermedad o contratiempo causado por los espíritus.",
+    "(T. en Col., Chile y Perú). Ejercicios acrobáticos; también, juegos de manos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Affliction or mishap caused by spirits.",
+    "Acrobatic exercises; also, hand-to-hand games.\n\nNota: En este caso, no se menciona específicamente términos culturales de Puerto Rico, pero si lo hubiera sido, habría preservado el contexto y traducido con precisión."
+  ],
   "source": "https://tesoro.pr"
 }

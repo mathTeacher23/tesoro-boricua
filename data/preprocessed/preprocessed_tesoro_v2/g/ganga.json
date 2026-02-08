@@ -3,14 +3,17 @@
   "term": "ganga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pandilla de jóvenes, relacionado con un grupo",
+      "consolidated_definition": "Pandilla o banda con tendencia al comportamiento agresivo o la delincuencia.",
+      "en_consolidated_definition": "Gang or band with a tendency towards aggressive behavior or delinquency.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "num_cleaned_definitions": 11,
-        "definition_stability": "Stability: 0.5624",
-        "semantic_similarity_score": 0.5624,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -72,29 +75,22 @@
           "ganguista"
         ],
         "reference_definitions": [
-          "Pandilla de jóvenes, generalmente delincuentes, o de maleantes.",
-          "Grupo de amigos que se reúnen para divertirse o andar juntos.",
-          "Grupo de trabajadores de un turno o tanda.",
-          "Grupo de maleantes.",
-          "Pandilla, grupo de trabajo, algo barato.",
-          "Grupo de maleantes jóvenes. Pandilla juvenil.",
-          "Pandilla callejera de mala reputación.",
-          "Pandilla, banda. Conjunto de personas delincuentes, que se comportan de modo violento y antisocial. Usual. DRAE 2001 La guerra resultante entre los dos bandos, con más de 50 muertes, llevó a la prensa a hablar de las gangas de Monacillos y Manuel A. Pérez",
-          "Pandilla. Grupo de amigos que se reúnen para divertirse o andar juntos. Anglicismo adaptado, poco frecuente. Allí le esperaba lista su agrupación –la ganga, como suele llamarle–, que de inmediato comenzó a tocar Hojas blancas, un himno que sirvió para realzar el cariño que le profesan sus allegados",
-          "Pandilla o banda con tendencia al comportamiento agresivo o la delincuencia.",
-          "Grupo de amigos que se reúnen para divertirse."
+          "Pandilla o banda con tendencia al comportamiento agresivo o la delincuencia."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Mercadería rebajada de su precio original",
+      "consolidated_definition": "Oferta de venta.",
+      "en_consolidated_definition": "Offer of sale.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2001",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3591",
-        "semantic_similarity_score": 0.3591,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -128,16 +124,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Mercadería rebajada de su precio original.",
-          "Baratillo.",
           "Oferta de venta."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Ave de hasta 30 cm de longitud",
+      "consolidated_definition": "Ave de hasta 30 cm de longitud, de color castaño oscuro con manchas más claras, cuello delgado y pico amarillo con la punta negra; su carne es muy apreciada. (Scolopacidae; Totanus bartramius).",
+      "en_consolidated_definition": "Bird of up to 30 cm in length, with dark brown plumage and lighter markings, slender neck, and yellow beak with black tip; its flesh is highly prized. (Scolopacidae; Totanus bartramius).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -166,16 +163,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ave de hasta 30 cm de longitud, de color castaño oscuro con manchas más claras, cuello delgado y pico amarillo con la punta negra; su carne es muy apreciada. ."
+          "Ave de hasta 30 cm de longitud, de color castaño oscuro con manchas más claras, cuello delgado y pico amarillo con la punta negra; su carne es muy apreciada. (Scolopacidae; Totanus bartramius)."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pandilla de jóvenes, relacionado con un grupo",
-    "Mercadería rebajada de su precio original",
-    "Ave de hasta 30 cm de longitud"
+    "Pandilla o banda con tendencia al comportamiento agresivo o la delincuencia.",
+    "Oferta de venta.",
+    "Ave de hasta 30 cm de longitud, de color castaño oscuro con manchas más claras, cuello delgado y pico amarillo con la punta negra; su carne es muy apreciada. (Scolopacidae; Totanus bartramius)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gang or band with a tendency towards aggressive behavior or delinquency.",
+    "Offer of sale.",
+    "Bird of up to 30 cm in length, with dark brown plumage and lighter markings, slender neck, and yellow beak with black tip; its flesh is highly prized. (Scolopacidae; Totanus bartramius)."
+  ],
   "source": "https://tesoro.pr"
 }

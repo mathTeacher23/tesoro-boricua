@@ -3,15 +3,18 @@
   "term": "brete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Relación sentimental no matrimonial.",
+      "consolidated_definition": "Amorío ilegítimo, enredo amoroso.",
+      "en_consolidated_definition": "Illegitimate love affair, romantic entanglement.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 17,
-        "num_cleaned_definitions": 17,
-        "definition_stability": "Stability: 0.4471",
-        "semantic_similarity_score": 0.4471,
-        "cluster_count": 13,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -97,30 +100,16 @@
           "embretarse"
         ],
         "reference_definitions": [
-          "Brete equivale a ‘amorío’, con límites más estrechos que los de su acepción de ‘apuro’ o ‘aprieto’.",
-          "Por amorío. “A lo mejor era algún listo que se aprovechaba de la superstición para quedarse fuera en algún bretecito.”",
-          "(general) Enredo amoroso al margen del matrimonio.",
-          "Ocupación o asunto que no se realiza abiertamente. “¿Qué brete se traen ustedes?”",
-          "Enredo amoroso al margen del matrimonio.",
-          "Enredo amoroso al margen del matrimonio.",
-          "Enredo amoroso al margen del matrimonio.",
-          "Enredo amoroso.",
-          "Trajín.",
-          "Amoríos ilegítimos.",
-          "Problemas por motivos de faldas.",
-          "Enredo.",
-          "Discusión prolongada y enojosa.",
-          "Amante.",
-          "Enredo amoroso.",
-          "Problema. Prisa.",
           "Amorío ilegítimo, enredo amoroso."
         ]
       }
     }
   },
   "es_definitions": [
-    "Relación sentimental no matrimonial."
+    "Amorío ilegítimo, enredo amoroso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Illegitimate love affair, romantic entanglement."
+  ],
   "source": "https://tesoro.pr"
 }

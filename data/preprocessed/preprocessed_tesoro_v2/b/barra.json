@@ -3,15 +3,18 @@
   "term": "barra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Establecimiento que sirve bebidas alcohólicas.",
+      "consolidated_definition": "Establecimiento que despacha bebidas alcohólicas.",
+      "en_consolidated_definition": "Establishment that dispenses alcoholic beverages.\n\nNota: En este caso, \"establecimiento\" es un término genérico que se utiliza en muchos países de habla hispana, incluyendo Puerto Rico. Sin embargo, si el contexto específico del diccionario requiere una traducción más precisa para la cultura puertorriqueña, podría ser \"bar\", \"cantina\" o \"tablado\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5187",
-        "semantic_similarity_score": 0.5187,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,23 +51,23 @@
           "bar 2"
         ],
         "reference_definitions": [
-          "“Se acercó a la barra estregándose las manos y pidió un palo de ron.” Cotto Thorner, Trópico en Manhattan. “Consumiendo licor en la tienda local o en la barra.” Pablo Morales Otero, Presente, vol. 1, núm. 4.",
-          "beb. Mostrador de bares y restaurantes para servir bebidas, también se encuentra en algunas casas. Anglicismo adaptado, usual. DRAE 2001 (barra americana). También bar. A medio camino entre la barra y la puerta que da al comedor, cerca de la entrada, sube una escalera de cemento tapiada en el último escalón ()",
-          "beb. Establecimiento donde se sirven bebidas alcohólicas. Anglicismo adaptado, usual. También bar. “Pero lo mismo uno encuentra un hombre bueno en una barra como uno malísimo en la iglesia. O sea que no hay una regla ni una fórmula para conseguir hombres buenos”, afirmó Lisandra (El Nuevo Día, 07-07-05)",
           "Establecimiento que despacha bebidas alcohólicas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Un colegio de abogados es una institución profesional que agrupa a los miembros del gremio legal en un país o región determinada.",
+      "consolidated_definition": "Colegio de abogados.",
+      "en_consolidated_definition": "Lawyers' Bar Association \n\nNota: En Puerto Rico, \"Colegio de Abogados\" se refiere a una organización profesional que representa a los abogados del país, similar a la American Bar Association en Estados Unidos. La traducción mantuvo el contexto y preservó el término cultural específico de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -94,15 +97,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Componente que mantiene en su lugar la rueda e impide que se desplace fuera de su eje.",
+      "consolidated_definition": "Pieza que sostiene la rueda e impide que salga de su eje.",
+      "en_consolidated_definition": "Component that supports the wheel and prevents it from leaving its axle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -130,15 +136,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Novio: Persona con quien se mantiene una relación romántica o sentimental, generalmente con la intención de establecer una pareja estable.",
+      "consolidated_definition": "Novio, pretendiente.",
+      "en_consolidated_definition": "Fiancé, suitor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -167,11 +176,16 @@
     }
   },
   "es_definitions": [
-    "Establecimiento que sirve bebidas alcohólicas.",
-    "Un colegio de abogados es una institución profesional que agrupa a los miembros del gremio legal en un país o región determinada.",
-    "Componente que mantiene en su lugar la rueda e impide que se desplace fuera de su eje.",
-    "Novio: Persona con quien se mantiene una relación romántica o sentimental, generalmente con la intención de establecer una pareja estable."
+    "Establecimiento que despacha bebidas alcohólicas.",
+    "Colegio de abogados.",
+    "Pieza que sostiene la rueda e impide que salga de su eje.",
+    "Novio, pretendiente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Establishment that dispenses alcoholic beverages.\n\nNota: En este caso, \"establecimiento\" es un término genérico que se utiliza en muchos países de habla hispana, incluyendo Puerto Rico. Sin embargo, si el contexto específico del diccionario requiere una traducción más precisa para la cultura puertorriqueña, podría ser \"bar\", \"cantina\" o \"tablado\".",
+    "Lawyers' Bar Association \n\nNota: En Puerto Rico, \"Colegio de Abogados\" se refiere a una organización profesional que representa a los abogados del país, similar a la American Bar Association en Estados Unidos. La traducción mantuvo el contexto y preservó el término cultural específico de Puerto Rico.",
+    "Component that supports the wheel and prevents it from leaving its axle.",
+    "Fiancé, suitor."
+  ],
   "source": "https://tesoro.pr"
 }

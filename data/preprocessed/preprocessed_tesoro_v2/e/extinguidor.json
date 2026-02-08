@@ -3,9 +3,12 @@
   "term": "extinguidor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Extintor, relacionado con un mecanismo",
+      "consolidated_definition": "Extintor, aparato para extinguir incendios.",
+      "en_consolidated_definition": "Fire Extinguisher, device for extinguishing fires.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Extintor, relacionado con un mecanismo"
+    "Extintor, aparato para extinguir incendios."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fire Extinguisher, device for extinguishing fires."
+  ],
   "source": "https://tesoro.pr"
 }

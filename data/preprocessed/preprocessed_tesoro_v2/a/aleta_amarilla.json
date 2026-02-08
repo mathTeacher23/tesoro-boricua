@@ -3,15 +3,18 @@
   "term": "aleta amarilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El atún es un pez de mar comestible que pertenece a la familia del atún y se describe similar al pez vaca.",
+      "consolidated_definition": "Pez de mar, comestible, perteneciente a la familia del atún. Su descripción corresponde bastante a la del pez vaca.",
+      "en_consolidated_definition": "Marine fish, edible, belonging to the tuna family. Its description is quite similar to that of the cowfish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "El atún es un pez de mar comestible que pertenece a la familia del atún y se describe similar al pez vaca."
+    "Pez de mar, comestible, perteneciente a la familia del atún. Su descripción corresponde bastante a la del pez vaca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine fish, edible, belonging to the tuna family. Its description is quite similar to that of the cowfish."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ir a hitiar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salir en libertad",
+      "consolidated_definition": "Salir en libertad.",
+      "en_consolidated_definition": "To be released on bail.\n\nAlternatively:\n\nTo be set free on bail.\n\nAlternatively:\n\nTo be granted bail and released from custody.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Salir en libertad"
+    "Salir en libertad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be released on bail.\n\nAlternatively:\n\nTo be set free on bail.\n\nAlternatively:\n\nTo be granted bail and released from custody."
+  ],
   "source": "https://tesoro.pr"
 }

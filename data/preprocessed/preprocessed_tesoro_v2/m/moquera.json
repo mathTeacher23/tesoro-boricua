@@ -3,9 +3,12 @@
   "term": "moquera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Secreción nasal continua",
+      "consolidated_definition": "Secreción nasal continua.",
+      "en_consolidated_definition": "Continua secreción nasal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Secreción nasal continua"
+    "Secreción nasal continua."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Continua secreción nasal."
+  ],
   "source": "https://tesoro.pr"
 }

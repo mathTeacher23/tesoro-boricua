@@ -3,9 +3,12 @@
   "term": "gondolero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En un supermercado",
+      "consolidated_definition": "En un supermercado, persona encargada de colocar las mercaderías en los lugares destinados para su exhibición y venta.",
+      "en_consolidated_definition": "In a supermarket, person responsible for placing merchandise in designated areas for display and sale.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En un supermercado"
+    "En un supermercado, persona encargada de colocar las mercaderías en los lugares destinados para su exhibición y venta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In a supermarket, person responsible for placing merchandise in designated areas for display and sale."
+  ],
   "source": "https://tesoro.pr"
 }

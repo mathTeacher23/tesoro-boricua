@@ -3,14 +3,17 @@
   "term": "perico",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Ave de unos 25 cm. de altura, especie de papagayo; da gritos desagradables y se domestica fácilmente. . Ac. ., relacionado con un grupo",
+      "consolidated_definition": "Persona que habla sin descanso.",
+      "en_consolidated_definition": "Persona que habla continuamente o sin cesar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.5613",
-        "semantic_similarity_score": 0.5613,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -59,26 +62,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Ave de unos 25 cm. de altura, especie de papagayo; da gritos desagradables y se domestica fácilmente. . Ac. .",
-          "fig. Locuaz, hablador. “Y se aprendió el silabario como un perico.” Fernández Juncos, La serenata, 1907.",
-          "Hablador; persona que descubre a un delincuente.",
-          "Dícese de la persona habladora.",
-          "Conversación extensa entre personas. “Montar un perico”: hablar con propósito de convencer, a costa de engaños, fanfarronadas, etc.",
-          "Persona que habla sin descanso.",
-          "Persona que delata a un delincuente."
+          "Persona que habla sin descanso."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cocaína",
+      "consolidated_definition": "Cocaína, alcaloide estimulante extraído del cactus Erythroxylum coca, conocido por sus efectos psicoactivos y adictivos.",
+      "en_consolidated_definition": "Cocaine, a stimulant alkaloid extracted from the Erythroxylum coca cactus, known for its psychoactive and addictive effects.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.7354",
         "semantic_similarity_score": 0.7354,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -119,9 +119,12 @@
     }
   },
   "es_definitions": [
-    ". Ave de unos 25 cm. de altura, especie de papagayo; da gritos desagradables y se domestica fácilmente. . Ac. ., relacionado con un grupo",
-    "Cocaína"
+    "Persona que habla sin descanso.",
+    "Cocaína, alcaloide estimulante extraído del cactus Erythroxylum coca, conocido por sus efectos psicoactivos y adictivos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que habla continuamente o sin cesar.",
+    "Cocaine, a stimulant alkaloid extracted from the Erythroxylum coca cactus, known for its psychoactive and addictive effects."
+  ],
   "source": "https://tesoro.pr"
 }

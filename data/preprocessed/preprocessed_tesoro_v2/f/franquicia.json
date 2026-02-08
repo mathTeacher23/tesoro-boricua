@@ -3,14 +3,17 @@
   "term": "franquicia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Concesión, relacionado con un grupo",
+      "consolidated_definition": "En el beisbol, derecho que se concede a un equipo para que se incorpore a una liga de este deporte.",
+      "en_consolidated_definition": "In baseball, right granted to a team to join a league of this sport.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5338",
-        "semantic_similarity_score": 0.5338,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,16 +44,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Concesión, licencia. Autorización concedida a un individuo o grupo por una compañía para representar o vender sus mercancías o servicios. Usual. DRAE: desde 2001. Maritere Rivera sabe la responsabilidad que conlleva manejar un negocio de ropa. Por ocho años fue propietaria de la franquicia de Ona Sáez en Puerto Rico y en busca de un respiro comenzó un proyecto que le apasiona y al que le dedica todas sus energías",
-          "dep. Derecho que se concede a un equipo para que se incorpore a una liga. Anglicismo adaptado, frecuente. A nivel profesional, Guaynabo ya tiene una franquicia de baloncesto y de voleibol",
           "En el beisbol, derecho que se concede a un equipo para que se incorpore a una liga de este deporte."
         ]
       }
     }
   },
   "es_definitions": [
-    "Concesión, relacionado con un grupo"
+    "En el beisbol, derecho que se concede a un equipo para que se incorpore a una liga de este deporte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, right granted to a team to join a league of this sport."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "llamada de larga distancia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llamada internacional",
+      "consolidated_definition": "Llamada telefónica a un lugar fuera de la localidad desde donde se hace.",
+      "en_consolidated_definition": "Outgoing call to a location outside the local area from which it is made.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6812",
-        "semantic_similarity_score": 0.6812,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Llamada internacional. Llamada de teléfono entre lugares distantes. Calco de estructura, usual. Actualmente, existen 10 zonas de llamadas dentro de Puerto Rico, por lo que si se origina una llamada de una zona hacia otra, se considera como llamada de larga distancia",
           "Llamada telefónica a un lugar fuera de la localidad desde donde se hace."
         ]
       }
     }
   },
   "es_definitions": [
-    "Llamada internacional"
+    "Llamada telefónica a un lugar fuera de la localidad desde donde se hace."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Outgoing call to a location outside the local area from which it is made."
+  ],
   "source": "https://tesoro.pr"
 }

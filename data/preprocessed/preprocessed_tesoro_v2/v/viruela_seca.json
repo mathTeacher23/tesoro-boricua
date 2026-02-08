@@ -3,9 +3,12 @@
   "term": "viruela seca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de viruela",
+      "consolidated_definition": "Variedad de viruela.",
+      "en_consolidated_definition": "Variety of smallpox.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Variedad de viruela"
+    "Variedad de viruela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Variety of smallpox."
+  ],
   "source": "https://tesoro.pr"
 }

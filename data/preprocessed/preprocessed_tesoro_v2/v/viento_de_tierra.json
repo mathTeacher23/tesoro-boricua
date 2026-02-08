@@ -3,9 +3,12 @@
   "term": "viento de tierra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Brisa de tierra",
+      "consolidated_definition": "Brisa de tierra.",
+      "en_consolidated_definition": "Land Breeze",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Brisa de tierra"
+    "Brisa de tierra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Land Breeze"
+  ],
   "source": "https://tesoro.pr"
 }

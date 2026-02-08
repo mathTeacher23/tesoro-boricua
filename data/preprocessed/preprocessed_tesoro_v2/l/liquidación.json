@@ -3,9 +3,12 @@
   "term": "liquidación",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando se vende un producto y se le",
+      "consolidated_definition": "Cuando se vende un producto y se le presenta la cuenta al agricultor para descontarle lo que ha tomado por adelantado con sus intereses y pagarle el balance.",
+      "en_consolidated_definition": "When a product is sold and the farmer's account is presented to deduct what they have taken in advance with interest and pay them the balance.\n\nNota: En este contexto, \"agricultor\" se refiere a un agricultor o productor de Puerto Rico que vende sus productos directamente al consumidor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Cuando se vende un producto y se le"
+    "Cuando se vende un producto y se le presenta la cuenta al agricultor para descontarle lo que ha tomado por adelantado con sus intereses y pagarle el balance."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "When a product is sold and the farmer's account is presented to deduct what they have taken in advance with interest and pay them the balance.\n\nNota: En este contexto, \"agricultor\" se refiere a un agricultor o productor de Puerto Rico que vende sus productos directamente al consumidor."
+  ],
   "source": "https://tesoro.pr"
 }

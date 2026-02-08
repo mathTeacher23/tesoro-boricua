@@ -3,9 +3,12 @@
   "term": "veril",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Borde al fondo del mar donde empieza un",
+      "consolidated_definition": "Borde al fondo del mar donde empieza un descanso brusco del mismo.",
+      "en_consolidated_definition": "The edge or boundary at the bottom of the sea where a sudden drop-off begins.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Borde al fondo del mar donde empieza un"
+    "Borde al fondo del mar donde empieza un descanso brusco del mismo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The edge or boundary at the bottom of the sea where a sudden drop-off begins."
+  ],
   "source": "https://tesoro.pr"
 }

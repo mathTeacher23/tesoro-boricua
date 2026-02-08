@@ -3,15 +3,18 @@
   "term": "sardina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Otro nombre para el pez llamado cascarua",
+      "consolidated_definition": "Nombre alternativo del pez Clupeidae, específicamente Sardinella macrophthalma y Sardinella humeralis.",
+      "en_consolidated_definition": "Alternative name for the fish Clupeidae, specifically Sardinella macrophthalma and Sardinella humeralis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.1329",
         "semantic_similarity_score": 0.1329,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -44,15 +47,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Contendiente flojo",
+      "consolidated_definition": "Persona que carece de fuerza o determinación en una competencia o disputa.",
+      "en_consolidated_definition": "Persona que carece de fuerza o determinación en una competencia o disputa.\n\nTranslation:\nPerson lacking strength or determination in a competition or dispute.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3956",
         "semantic_similarity_score": 0.3956,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    "Otro nombre para el pez llamado cascarua",
-    "Contendiente flojo"
+    "Nombre alternativo del pez Clupeidae, específicamente Sardinella macrophthalma y Sardinella humeralis.",
+    "Persona que carece de fuerza o determinación en una competencia o disputa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Alternative name for the fish Clupeidae, specifically Sardinella macrophthalma and Sardinella humeralis.",
+    "Persona que carece de fuerza o determinación en una competencia o disputa.\n\nTranslation:\nPerson lacking strength or determination in a competition or dispute."
+  ],
   "source": "https://tesoro.pr"
 }

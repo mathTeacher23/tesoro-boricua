@@ -3,15 +3,18 @@
   "term": "judas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muñeco de paja y trapo",
+      "consolidated_definition": "Persona hecha de paja y trapo, vestida con ropa usada.",
+      "en_consolidated_definition": "Persona compuesta de paja y trapo, vestida con ropa usada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5227",
         "semantic_similarity_score": 0.5227,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -56,8 +59,10 @@
     }
   },
   "es_definitions": [
-    "Muñeco de paja y trapo"
+    "Persona hecha de paja y trapo, vestida con ropa usada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona compuesta de paja y trapo, vestida con ropa usada."
+  ],
   "source": "https://tesoro.pr"
 }

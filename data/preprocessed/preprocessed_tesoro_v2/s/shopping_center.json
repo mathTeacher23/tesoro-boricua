@@ -3,9 +3,12 @@
   "term": "shopping center",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Centro comercial",
+      "consolidated_definition": "Centro comercial.",
+      "en_consolidated_definition": "Shopping center or Mall.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Centro comercial"
+    "Centro comercial."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Shopping center or Mall."
+  ],
   "source": "https://tesoro.pr"
 }

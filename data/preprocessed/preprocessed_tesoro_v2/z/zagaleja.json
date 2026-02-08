@@ -3,9 +3,12 @@
   "term": "zagaleja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muchacha cuando va pasando de niña a adolescente",
+      "consolidated_definition": "Muchacha cuando va pasando de niña a adolescente.",
+      "en_consolidated_definition": "Adolescente femenina en transición de la infancia a la edad adulta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Muchacha cuando va pasando de niña a adolescente"
+    "Muchacha cuando va pasando de niña a adolescente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Adolescente femenina en transición de la infancia a la edad adulta."
+  ],
   "source": "https://tesoro.pr"
 }

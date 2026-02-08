@@ -3,9 +3,12 @@
   "term": "plan de pago",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver lay away",
+      "consolidated_definition": "Ver lay away .",
+      "en_consolidated_definition": "To lay away \n\nNota: Esta expresión es similar a \"ver lay away\" en algunos contextos, pero su significado puede variar dependiendo del contexto específico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver lay away"
+    "Ver lay away ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To lay away \n\nNota: Esta expresión es similar a \"ver lay away\" en algunos contextos, pero su significado puede variar dependiendo del contexto específico."
+  ],
   "source": "https://tesoro.pr"
 }

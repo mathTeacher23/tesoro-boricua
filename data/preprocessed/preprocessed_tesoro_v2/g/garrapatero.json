@@ -3,14 +3,17 @@
   "term": "garrapatero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que algunos le dan al pájaro llamado",
+      "consolidated_definition": "Ave trepadora e insectívora de hasta 35 cm de longitud, de color negro con reflejos azules, pico corvo y vuelo lento. (Cuculidae; Crotophaga ani).",
+      "en_consolidated_definition": "Climbing bird of prey and insectivore, up to 35 cm in length, with black plumage featuring blue iridescence, a hooked beak, and slow flight (family Cuculidae; species Crotophaga ani).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2623",
-        "semantic_similarity_score": 0.2623,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Nombre que algunos le dan al pájaro llamado judío.",
-          "Ave trepadora e insectívora de hasta 35 cm de longitud, de color negro con reflejos azules, pico corvo y vuelo lento. ."
+          "Ave trepadora e insectívora de hasta 35 cm de longitud, de color negro con reflejos azules, pico corvo y vuelo lento. (Cuculidae; Crotophaga ani)."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Lugar lleno de garrapatas",
+      "consolidated_definition": "Lugar lleno de garrapatas.",
+      "en_consolidated_definition": "Area infested with ticks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -81,9 +86,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Gran cantidad de garrapatas",
+      "consolidated_definition": "Gran cantidad de garrapatas.",
+      "en_consolidated_definition": "A large quantity of ticks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -118,10 +126,14 @@
     }
   },
   "es_definitions": [
-    "Nombre que algunos le dan al pájaro llamado",
-    "Lugar lleno de garrapatas",
-    "Gran cantidad de garrapatas"
+    "Ave trepadora e insectívora de hasta 35 cm de longitud, de color negro con reflejos azules, pico corvo y vuelo lento. (Cuculidae; Crotophaga ani).",
+    "Lugar lleno de garrapatas.",
+    "Gran cantidad de garrapatas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Climbing bird of prey and insectivore, up to 35 cm in length, with black plumage featuring blue iridescence, a hooked beak, and slow flight (family Cuculidae; species Crotophaga ani).",
+    "Area infested with ticks.",
+    "A large quantity of ticks."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "superita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que usa un modo inflado en la",
+      "consolidated_definition": "Persona que usa un modo inflado en la conversación.",
+      "en_consolidated_definition": "Persona que utiliza un tono exagerado o afectado en la conversación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona que usa un modo inflado en la"
+    "Persona que usa un modo inflado en la conversación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que utiliza un tono exagerado o afectado en la conversación."
+  ],
   "source": "https://tesoro.pr"
 }

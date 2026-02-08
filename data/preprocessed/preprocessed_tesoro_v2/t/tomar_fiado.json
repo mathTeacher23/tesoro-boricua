@@ -3,9 +3,12 @@
   "term": "tomar fiado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comprar a crédito",
+      "consolidated_definition": "Comprar a crédito.",
+      "en_consolidated_definition": "Purchase on credit.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Comprar a crédito"
+    "Comprar a crédito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Purchase on credit."
+  ],
   "source": "https://tesoro.pr"
 }

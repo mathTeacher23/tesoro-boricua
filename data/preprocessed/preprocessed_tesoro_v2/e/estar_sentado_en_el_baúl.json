@@ -3,9 +3,12 @@
   "term": "estar sentado en el baúl",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sometido",
+      "consolidated_definition": "Sometido. Aplícase al marido dominado por su esposa.",
+      "en_consolidated_definition": "Subyugado. Se aplica al marido dominado por su esposa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Sometido"
+    "Sometido. Aplícase al marido dominado por su esposa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Subyugado. Se aplica al marido dominado por su esposa."
+  ],
   "source": "https://tesoro.pr"
 }

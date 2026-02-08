@@ -3,9 +3,12 @@
   "term": "hawaiana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camisa de hombre poco ceñida",
+      "consolidated_definition": "Camisa de hombre poco ceñida, abigarrada y de estampados vivos.",
+      "en_consolidated_definition": "Men's loose-fitting, multicolored shirt with lively prints.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Camisa de hombre poco ceñida"
+    "Camisa de hombre poco ceñida, abigarrada y de estampados vivos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Men's loose-fitting, multicolored shirt with lively prints."
+  ],
   "source": "https://tesoro.pr"
 }

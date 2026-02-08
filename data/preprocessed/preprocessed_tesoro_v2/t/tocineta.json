@@ -3,14 +3,17 @@
   "term": "tocineta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bacon",
+      "consolidated_definition": "Tira delgada de tocino con vetas de carne magra.",
+      "en_consolidated_definition": "Thin strip of bacon with streaks of lean meat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2145",
-        "semantic_similarity_score": 0.2145,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bacon.",
           "Tira delgada de tocino con vetas de carne magra."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Saltos rápidos en el juego de cuica",
+      "consolidated_definition": "Saltos rápidos en el juego de cuica.",
+      "en_consolidated_definition": "Rapid-fire jumps in the game of cuica.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Bacon",
-    "Saltos rápidos en el juego de cuica"
+    "Tira delgada de tocino con vetas de carne magra.",
+    "Saltos rápidos en el juego de cuica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Thin strip of bacon with streaks of lean meat.",
+    "Rapid-fire jumps in the game of cuica."
+  ],
   "source": "https://tesoro.pr"
 }

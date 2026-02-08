@@ -3,14 +3,17 @@
   "term": "parqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada en Hispanoamérica",
+      "consolidated_definition": "Estacionamiento, aparcamiento. Acción mediante la cual se estaciona un vehículo. Frecuente. DRAE 2001 Mercado aclaró que se pondrá en vigor un plan de control de acceso en horas del día en los meses de junio, julio y parte de agosto para evitar el doble parqueo y la ubicación de autos frente a las entradas (El Nuevo Día, 28-03-06)",
+      "en_consolidated_definition": "Parking, parking lot. Action of parking a vehicle. Frequent. \n\nNote: Para evitar el doble parqueo y la ubicación de autos frente a las entradas se pondrá en vigor un plan de control de acceso en horas del día en los meses de junio, julio y parte de agosto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2009",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5639",
-        "semantic_similarity_score": 0.5639,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -43,15 +46,16 @@
           "parquear"
         ],
         "reference_definitions": [
-          "Voz usada en Hispanoamérica. Aparcamiento. Estacionamiento. Acción y efecto de aparcar.",
-          "Estacionamiento, aparcamiento. Acción mediante la cual se estaciona un vehículo. Frecuente. DRAE 2001 Mercado aclaró que se pondrá en vigor un plan de control de acceso en horas del día en los meses de junio, julio y parte de agosto para evitar el doble parqueo y la ubicación de autos frente a las entradas"
+          "Estacionamiento, aparcamiento. Acción mediante la cual se estaciona un vehículo. Frecuente. DRAE 2001 Mercado aclaró que se pondrá en vigor un plan de control de acceso en horas del día en los meses de junio, julio y parte de agosto para evitar el doble parqueo y la ubicación de autos frente a las entradas (El Nuevo Día, 28-03-06)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Voz usada en Hispanoamérica"
+    "Estacionamiento, aparcamiento. Acción mediante la cual se estaciona un vehículo. Frecuente. DRAE 2001 Mercado aclaró que se pondrá en vigor un plan de control de acceso en horas del día en los meses de junio, julio y parte de agosto para evitar el doble parqueo y la ubicación de autos frente a las entradas (El Nuevo Día, 28-03-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Parking, parking lot. Action of parking a vehicle. Frequent. \n\nNote: Para evitar el doble parqueo y la ubicación de autos frente a las entradas se pondrá en vigor un plan de control de acceso en horas del día en los meses de junio, julio y parte de agosto."
+  ],
   "source": "https://tesoro.pr"
 }

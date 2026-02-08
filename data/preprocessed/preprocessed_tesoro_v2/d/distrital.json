@@ -3,9 +3,12 @@
   "term": "distrital",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Relativo al distrito",
+      "consolidated_definition": "Relativo al distrito.",
+      "en_consolidated_definition": "Relative to the district.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Relativo al distrito"
+    "Relativo al distrito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Relative to the district."
+  ],
   "source": "https://tesoro.pr"
 }

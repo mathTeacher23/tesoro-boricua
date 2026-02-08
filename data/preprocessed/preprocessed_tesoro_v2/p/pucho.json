@@ -3,9 +3,12 @@
   "term": "pucho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El cigarro que ya ha sido fumado casi",
+      "consolidated_definition": "El cigarro que ya ha sido fumado casi todo. “Deja fumarme este puchito.”",
+      "en_consolidated_definition": "Cigarro que ha sido fumado casi por completo. \"Leave me this little puff.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El cigarro que ya ha sido fumado casi"
+    "El cigarro que ya ha sido fumado casi todo. “Deja fumarme este puchito.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cigarro que ha sido fumado casi por completo. \"Leave me this little puff.\""
+  ],
   "source": "https://tesoro.pr"
 }

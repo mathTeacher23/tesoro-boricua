@@ -3,9 +3,12 @@
   "term": "poner en punto de venta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Preparar un producto para la venta",
+      "consolidated_definition": "Preparar un producto para la venta. “Después que se orea el café para ponerlo en punto de venta, se reseca en la caldera giratoria.”",
+      "en_consolidated_definition": "To prepare a product for sale. \"After the coffee is brewed to be placed on display for sale, it dries in the rotating caldron.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Preparar un producto para la venta"
+    "Preparar un producto para la venta. “Después que se orea el café para ponerlo en punto de venta, se reseca en la caldera giratoria.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To prepare a product for sale. \"After the coffee is brewed to be placed on display for sale, it dries in the rotating caldron.\""
+  ],
   "source": "https://tesoro.pr"
 }

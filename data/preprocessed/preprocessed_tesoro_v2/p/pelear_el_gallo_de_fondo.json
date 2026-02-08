@@ -3,9 +3,12 @@
   "term": "pelear el gallo de fondo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mantener el gallo su acometividad desde el principio",
+      "consolidated_definition": "Mantener el gallo su acometividad desde el principio hasta el fin de la pelea.",
+      "en_consolidated_definition": "Maintain the rooster's ferocity from the beginning to the end of the fight.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Mantener el gallo su acometividad desde el principio"
+    "Mantener el gallo su acometividad desde el principio hasta el fin de la pelea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maintain the rooster's ferocity from the beginning to the end of the fight."
+  ],
   "source": "https://tesoro.pr"
 }

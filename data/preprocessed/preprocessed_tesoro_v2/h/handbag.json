@@ -3,14 +3,17 @@
   "term": "handbag",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Maletín",
+      "consolidated_definition": "Maletín, generalmente para cosméticos.",
+      "en_consolidated_definition": "Makeup case, typically for cosmetics.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4388",
-        "semantic_similarity_score": 0.4388,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,17 +47,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Maletín.",
-          "Maleta de mano, de cosméticos.",
-          "Cartera de mano. Bolsa de tela o cuero que se lleva en la mano o colgada del hombro. Anglicismo crudo, poco frecuente. Véase bag. Se me ocurre que, para evitar complicaciones, debería llevar las maletas al aeropuerto antes de entregar el carro. ¡Y qué maletas! Siempre para este viaje traigo una maleta más grande de lo necesario para así poder acomodar la información que inevitablemente uno tiene que traer consigo. Pero esta vez fue algo que está fuera de serie. Tuve que distribuir el material del show entre todo mi equipaje, incluyendo un hand bag",
           "Maletín, generalmente para cosméticos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Maletín"
+    "Maletín, generalmente para cosméticos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Makeup case, typically for cosmetics."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "moledor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Obrero encargado de vigilar el acto específico de",
+      "consolidated_definition": "Obrero encargado de vigilar el acto específico de la molienda de las cañas.",
+      "en_consolidated_definition": "Cane mill watcher or cane grinder attendant responsible for overseeing the specific process of crushing sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Obrero encargado de vigilar el acto específico de"
+    "Obrero encargado de vigilar el acto específico de la molienda de las cañas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cane mill watcher or cane grinder attendant responsible for overseeing the specific process of crushing sugarcane."
+  ],
   "source": "https://tesoro.pr"
 }

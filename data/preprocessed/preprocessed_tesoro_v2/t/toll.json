@@ -3,15 +3,18 @@
   "term": "toll",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Peaje",
+      "consolidated_definition": "Peaje: cobro que se paga por el uso de una vía de comunicación.",
+      "en_consolidated_definition": "Tollgate: payment made for the use of a means of communication.\n\nNota: En algunos contextos, \"tollgate\" puede referirse específicamente a un cobro en una carretera o puente, pero se mantiene la traducción general para reflejar el significado del término \"peaje\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3585",
         "semantic_similarity_score": 0.3585,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Peaje"
+    "Peaje: cobro que se paga por el uso de una vía de comunicación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tollgate: payment made for the use of a means of communication.\n\nNota: En algunos contextos, \"tollgate\" puede referirse específicamente a un cobro en una carretera o puente, pero se mantiene la traducción general para reflejar el significado del término \"peaje\"."
+  ],
   "source": "https://tesoro.pr"
 }

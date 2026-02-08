@@ -3,9 +3,12 @@
   "term": "expreso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver café expreso",
+      "consolidated_definition": "Ver café expreso .",
+      "en_consolidated_definition": "See espresso coffee.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,9 +28,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Autovía",
+      "consolidated_definition": "Autovía. Carretera de varios carriles en la que, a diferencia de las autopistas, no se paga peaje. Neologismo anglicado, usual. La actividad tendrá lugar a las 7:00 de la noche del miércoles en el Auditorio de la Fundación, ubicada en la marginal del expreso de Río Piedras a Trujillo Alto (Primera Hora, 19-09-05)",
+      "en_consolidated_definition": "Highway. A multi-lane road where, unlike highways, tolls are not collected. Anglicized neologism, commonly used. The event will take place at 7:00 p.m. on Wednesday in the Auditorium of the Foundation, located on the marginal road of the Río Piedras to Trujillo Alto expressway (Primera Hora, 19-09-05).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -56,14 +62,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Autovía. Carretera de varios carriles en la que, a diferencia de las autopistas, no se paga peaje. Neologismo anglicado, usual. La actividad tendrá lugar a las 7:00 de la noche del miércoles en el Auditorio de la Fundación, ubicada en la marginal del expreso de Río Piedras a Trujillo Alto"
+          "Autovía. Carretera de varios carriles en la que, a diferencia de las autopistas, no se paga peaje. Neologismo anglicado, usual. La actividad tendrá lugar a las 7:00 de la noche del miércoles en el Auditorio de la Fundación, ubicada en la marginal del expreso de Río Piedras a Trujillo Alto (Primera Hora, 19-09-05)"
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Rápido, relacionado con un grupo",
+      "consolidated_definition": "Rápido. Transporte o servicio que opera con rapidez. Anglicismo adaptado, frecuente. Por tal razón, esta Ley dispone que todas las agencias y corporaciones del Estado Libre Asociado de Puerto Rico habrán de proveer una fila de servicio expreso para aquellas personas con impedimentos debidamente certificadas por el Departamento de Salud y para las personas de edad avanzada debidamente identificadas con tarjeta o cualquier otra prueba de edad expedida por autoridad estatal (Legislatura, Ley Núm. 51, 04-07-01)",
+      "en_consolidated_definition": "Express service. Rapid transportation or service. Adapted Anglicism, frequent. For this reason, this Law provides that all agencies and corporations of the Commonwealth of Puerto Rico shall provide an express service line for those individuals with duly certified disabilities by the Department of Health and for elderly persons duly identified with a card or any other proof of age issued by state authority (Legislature, Law No. 51, 04-07-01)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -93,16 +102,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Rápido. Transporte o servicio que opera con rapidez. Anglicismo adaptado, frecuente. Por tal razón, esta Ley dispone que todas las agencias y corporaciones del Estado Libre Asociado de Puerto Rico habrán de proveer una fila de servicio expreso para aquellas personas con impedimentos debidamente certificadas por el Departamento de Salud y para las personas de edad avanzada debidamente identificadas con tarjeta o cualquier otra prueba de edad expedida por autoridad estatal"
+          "Rápido. Transporte o servicio que opera con rapidez. Anglicismo adaptado, frecuente. Por tal razón, esta Ley dispone que todas las agencias y corporaciones del Estado Libre Asociado de Puerto Rico habrán de proveer una fila de servicio expreso para aquellas personas con impedimentos debidamente certificadas por el Departamento de Salud y para las personas de edad avanzada debidamente identificadas con tarjeta o cualquier otra prueba de edad expedida por autoridad estatal (Legislatura, Ley Núm. 51, 04-07-01)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Ver café expreso",
-    "Autovía",
-    "Rápido, relacionado con un grupo"
+    "Ver café expreso .",
+    "Autovía. Carretera de varios carriles en la que, a diferencia de las autopistas, no se paga peaje. Neologismo anglicado, usual. La actividad tendrá lugar a las 7:00 de la noche del miércoles en el Auditorio de la Fundación, ubicada en la marginal del expreso de Río Piedras a Trujillo Alto (Primera Hora, 19-09-05)",
+    "Rápido. Transporte o servicio que opera con rapidez. Anglicismo adaptado, frecuente. Por tal razón, esta Ley dispone que todas las agencias y corporaciones del Estado Libre Asociado de Puerto Rico habrán de proveer una fila de servicio expreso para aquellas personas con impedimentos debidamente certificadas por el Departamento de Salud y para las personas de edad avanzada debidamente identificadas con tarjeta o cualquier otra prueba de edad expedida por autoridad estatal (Legislatura, Ley Núm. 51, 04-07-01)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See espresso coffee.",
+    "Highway. A multi-lane road where, unlike highways, tolls are not collected. Anglicized neologism, commonly used. The event will take place at 7:00 p.m. on Wednesday in the Auditorium of the Foundation, located on the marginal road of the Río Piedras to Trujillo Alto expressway (Primera Hora, 19-09-05).",
+    "Express service. Rapid transportation or service. Adapted Anglicism, frequent. For this reason, this Law provides that all agencies and corporations of the Commonwealth of Puerto Rico shall provide an express service line for those individuals with duly certified disabilities by the Department of Health and for elderly persons duly identified with a card or any other proof of age issued by state authority (Legislature, Law No. 51, 04-07-01)"
+  ],
   "source": "https://tesoro.pr"
 }

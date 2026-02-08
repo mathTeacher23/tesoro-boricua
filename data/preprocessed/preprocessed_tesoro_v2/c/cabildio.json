@@ -3,15 +3,18 @@
   "term": "cabildio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El cabildo o corporación municipal es una corporación que se encarga de la administración y toma de decisiones en un municipio o ciudad.",
+      "consolidated_definition": "Corporación municipal.",
+      "en_consolidated_definition": "Municipal corporation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8251",
-        "semantic_similarity_score": 0.8251,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El cabildo o corporación municipal.",
           "Corporación municipal."
         ]
       }
     }
   },
   "es_definitions": [
-    "El cabildo o corporación municipal es una corporación que se encarga de la administración y toma de decisiones en un municipio o ciudad."
+    "Corporación municipal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Municipal corporation."
+  ],
   "source": "https://tesoro.pr"
 }

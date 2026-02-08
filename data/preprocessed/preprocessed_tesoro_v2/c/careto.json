@@ -3,15 +3,18 @@
   "term": "careto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Terreno que no es bastante fértil para dar buenas cosechas.",
+      "consolidated_definition": "Terreno que no es lo bastante fértil como para lograr buenas cosechas.",
+      "en_consolidated_definition": "Land that is not fertile enough to produce good harvests.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9487",
-        "semantic_similarity_score": 0.9487,
-        "cluster_count": 1,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Terreno que no es bastante fértil como para dar buena cosecha.",
           "Terreno que no es lo bastante fértil como para lograr buenas cosechas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "El término se refiere a un animal vacuno o caballar que tiene una mancha blanca en la frente.",
+      "consolidated_definition": "Referido a animal vacuno o caballar, que tiene una mancha blanca en la frente.",
+      "en_consolidated_definition": "Referido a bovino or equino, que tiene una mancha blanca en la frente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6995",
-        "semantic_similarity_score": 0.6995,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -88,17 +93,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Animal que tiene un lunar blanco en la frente.",
-          "Ganado con un lunar blanco en la frente.",
           "Referido a animal vacuno o caballar, que tiene una mancha blanca en la frente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Terreno que no es bastante fértil para dar buenas cosechas.",
-    "El término se refiere a un animal vacuno o caballar que tiene una mancha blanca en la frente."
+    "Terreno que no es lo bastante fértil como para lograr buenas cosechas.",
+    "Referido a animal vacuno o caballar, que tiene una mancha blanca en la frente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Land that is not fertile enough to produce good harvests.",
+    "Referido a bovino or equino, que tiene una mancha blanca en la frente."
+  ],
   "source": "https://tesoro.pr"
 }

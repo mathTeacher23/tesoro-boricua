@@ -3,9 +3,12 @@
   "term": "personal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de empleados de una empresa",
+      "consolidated_definition": "Conjunto de empleados de una empresa. Plantilla. También dicen empleomanía.",
+      "en_consolidated_definition": "Conjunto de empleados de una empresa. Personnel roster or staff. Also referred to as employomania.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Conjunto de empleados de una empresa"
+    "Conjunto de empleados de una empresa. Plantilla. También dicen empleomanía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conjunto de empleados de una empresa. Personnel roster or staff. Also referred to as employomania."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "meter el pico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Meterse en una conversación",
+      "consolidated_definition": "Meterse en una conversación.",
+      "en_consolidated_definition": "To insert oneself into a conversation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Meterse en una conversación"
+    "Meterse en una conversación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To insert oneself into a conversation."
+  ],
   "source": "https://tesoro.pr"
 }

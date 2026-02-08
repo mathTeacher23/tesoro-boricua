@@ -3,9 +3,12 @@
   "term": "sayón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Falda ancha y larga que cae hasta los",
+      "consolidated_definition": "Falda ancha y larga que cae hasta los tobillos.",
+      "en_consolidated_definition": "Wide and long skirt that falls to the ankles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Falda ancha y larga que cae hasta los"
+    "Falda ancha y larga que cae hasta los tobillos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wide and long skirt that falls to the ankles."
+  ],
   "source": "https://tesoro.pr"
 }

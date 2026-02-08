@@ -3,15 +3,18 @@
   "term": "manilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mazo de tabaco de 15 a 20 hojas",
+      "consolidated_definition": "Un mazo de tabaco es un conjunto de hojas de tabaco que se juntan en manojos de cuatro gavillas.",
+      "en_consolidated_definition": "A bundle of tobacco is a collection of tobacco leaves gathered into bundles of four sheaves.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
         "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.598",
-        "semantic_similarity_score": 0.598,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.604",
+        "semantic_similarity_score": 0.604,
+        "cluster_count": 7,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -53,7 +56,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Mazo de tabaco de 15 a 20 hojas. “...Formando manojos de cuatro gavillas .” Aguayo, Manual del cultivo del tabaco, 1884, p. 70.",
+          "Mazo de tabaco de 15 a 20 hojas. “...Formando manojos de cuatro gavillas (o manillas como se dice en esta isla).” Aguayo, Manual del cultivo del tabaco, 1884, p. 70.",
           ". Hablando del papel, conjunto de cinco pliegos, que es la vigésima parte de la resmilla.",
           "Tabaco preparado para mascar. “Aquel hombre bebía güisqui y mascaba maniya.” Meléndez Muñoz, Cuentos del , p. 64.",
           "Mazo de 15 a 20 hojas de tabaco ya seco y atadas del mismo cordón del que pendieron mientras se secaban.",
@@ -65,8 +68,10 @@
     }
   },
   "es_definitions": [
-    "Mazo de tabaco de 15 a 20 hojas"
+    "Un mazo de tabaco es un conjunto de hojas de tabaco que se juntan en manojos de cuatro gavillas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A bundle of tobacco is a collection of tobacco leaves gathered into bundles of four sheaves."
+  ],
   "source": "https://tesoro.pr"
 }

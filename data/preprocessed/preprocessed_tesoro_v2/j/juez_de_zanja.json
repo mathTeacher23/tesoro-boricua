@@ -3,9 +3,12 @@
   "term": "juez de zanja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Funcionario que falla en una carrera de caballos",
+      "consolidated_definition": "Funcionario que falla en una carrera de caballos.",
+      "en_consolidated_definition": "Jockey who fails in a horse racing career.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Funcionario que falla en una carrera de caballos"
+    "Funcionario que falla en una carrera de caballos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Jockey who fails in a horse racing career."
+  ],
   "source": "https://tesoro.pr"
 }

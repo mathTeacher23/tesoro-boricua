@@ -3,15 +3,18 @@
   "term": "varilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el antiguo trapiche azucarero cuatro postes o, relacionado con un grupo",
+      "consolidated_definition": "En el antiguo trapiche azucarero, cuatro postes o cureñas sostienen dos vigas paralelas unidas entre sí mediante otros maderos.",
+      "en_consolidated_definition": "In the old sugar mill's trapiche, four posts or cureñas support two parallel beams joined together by other wooden members.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5233",
-        "semantic_similarity_score": 0.5233,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5199",
+        "semantic_similarity_score": 0.5199,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,21 +51,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En el antiguo trapiche azucarero cuatro postes o cureñas sostenían dos vigas paralelas, varillas, unidas entre sí por otros maderos",
+          "En el antiguo trapiche azucarero cuatro postes o cureñas sostenían dos vigas paralelas, varillas, unidas entre sí por otros maderos ...",
           "Grupo de hojas de tabaco cosidas que se amarran en las puntas de una vara de madera y se cuelgan a secar.",
           "En el tabaco, las obreras llamadas cosedoras enlazan o atan juntas con cordón cierto número de hojas que forman el mazo nombrado ensarta, varilla o gavilla, el cual se cuelga en el ranchón para que se seque durante el espacio de tiempo determinado para dicho propósito."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Vara de refuerzo de acero que se pone",
+      "consolidated_definition": "Barra de hierro que se usa en la construcción para el proceso de colado.",
+      "en_consolidated_definition": "Iron bar used in construction for the casting process.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4267",
-        "semantic_similarity_score": 0.4267,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -96,15 +102,17 @@
           "varillero"
         ],
         "reference_definitions": [
-          "Vara de refuerzo de acero que se pone en el hormigón.",
           "Barra de hierro que se usa en la construcción para el proceso de colado."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Dícese de la persona bien vestida o vestida",
+      "consolidated_definition": "Dícese de la persona bien vestida o vestida con ropa nueva.",
+      "en_consolidated_definition": "Well-dressed person or one wearing new clothes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -138,10 +146,14 @@
     }
   },
   "es_definitions": [
-    "En el antiguo trapiche azucarero cuatro postes o, relacionado con un grupo",
-    "Vara de refuerzo de acero que se pone",
-    "Dícese de la persona bien vestida o vestida"
+    "En el antiguo trapiche azucarero, cuatro postes o cureñas sostienen dos vigas paralelas unidas entre sí mediante otros maderos.",
+    "Barra de hierro que se usa en la construcción para el proceso de colado.",
+    "Dícese de la persona bien vestida o vestida con ropa nueva."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the old sugar mill's trapiche, four posts or cureñas support two parallel beams joined together by other wooden members.",
+    "Iron bar used in construction for the casting process.",
+    "Well-dressed person or one wearing new clothes."
+  ],
   "source": "https://tesoro.pr"
 }

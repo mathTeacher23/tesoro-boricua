@@ -3,9 +3,12 @@
   "term": "pavita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo con cresta de pavo",
+      "consolidated_definition": "Gallo con cresta de pavo.",
+      "en_consolidated_definition": "Pheasant with peacock crest.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Gallo con cresta de pavo"
+    "Gallo con cresta de pavo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pheasant with peacock crest."
+  ],
   "source": "https://tesoro.pr"
 }

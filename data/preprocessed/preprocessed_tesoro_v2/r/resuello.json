@@ -3,15 +3,18 @@
   "term": "resuello",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Respiración",
+      "consolidated_definition": "Respiración. Es el proceso por el cual se ingiere oxígeno y se elimina dióxido de carbono a través del sistema respiratorio.",
+      "en_consolidated_definition": "Respiration. The process by which oxygen is inhaled and carbon dioxide is eliminated through the respiratory system.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Respiración"
+    "Respiración. Es el proceso por el cual se ingiere oxígeno y se elimina dióxido de carbono a través del sistema respiratorio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Respiration. The process by which oxygen is inhaled and carbon dioxide is eliminated through the respiratory system."
+  ],
   "source": "https://tesoro.pr"
 }

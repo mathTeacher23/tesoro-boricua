@@ -3,9 +3,12 @@
   "term": "verde",
   "superscripts": {
     "1": {
-      "consolidated_definition": "fest",
+      "consolidated_definition": "fest. El campo, en contraposición del pueblo o la ciudad. Me marcho al verde un par de meses.",
+      "en_consolidated_definition": "Rural area, in contrast to the town or city. I'm heading out to the countryside for a couple of months.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Café seco y pilado",
+      "consolidated_definition": "Café seco y pilado.",
+      "en_consolidated_definition": "Dried and ground coffee.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Billete de banco",
+      "consolidated_definition": "Billete de banco.",
+      "en_consolidated_definition": "Banknote.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -111,9 +120,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Hambriento",
+      "consolidated_definition": "Hambriento.",
+      "en_consolidated_definition": "Hungry \n\nNota: En algunos contextos culturales de Puerto Rico, este término puede referirse a alguien que está ansioso o apremiado por algo, pero en su acepción más general, se refiere a la condición física de tener hambre.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -149,11 +161,16 @@
     }
   },
   "es_definitions": [
-    "fest",
-    "Café seco y pilado",
-    "Billete de banco",
-    "Hambriento"
+    "fest. El campo, en contraposición del pueblo o la ciudad. Me marcho al verde un par de meses.",
+    "Café seco y pilado.",
+    "Billete de banco.",
+    "Hambriento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rural area, in contrast to the town or city. I'm heading out to the countryside for a couple of months.",
+    "Dried and ground coffee.",
+    "Banknote.",
+    "Hungry \n\nNota: En algunos contextos culturales de Puerto Rico, este término puede referirse a alguien que está ansioso o apremiado por algo, pero en su acepción más general, se refiere a la condición física de tener hambre."
+  ],
   "source": "https://tesoro.pr"
 }

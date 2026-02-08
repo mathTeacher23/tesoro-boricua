@@ -3,9 +3,12 @@
   "term": "sello de goma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser una persona servil o incondicional para hacer",
+      "consolidated_definition": "Ser una persona servil o incondicional para hacer lo que su superior ordena.",
+      "en_consolidated_definition": "To be an unconditionally subservient person who carries out the orders of one's superior without question or hesitation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ser una persona servil o incondicional para hacer"
+    "Ser una persona servil o incondicional para hacer lo que su superior ordena."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be an unconditionally subservient person who carries out the orders of one's superior without question or hesitation."
+  ],
   "source": "https://tesoro.pr"
 }

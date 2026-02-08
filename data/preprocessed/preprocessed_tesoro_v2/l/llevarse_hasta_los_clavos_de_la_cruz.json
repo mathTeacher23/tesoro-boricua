@@ -3,9 +3,12 @@
   "term": "llevarse hasta los clavos de la cruz",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Robar",
+      "consolidated_definition": "Robar, saquear alguien todo lo que se encuentre.",
+      "en_consolidated_definition": "Plunder or pillage someone of everything that can be found.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Robar"
+    "Robar, saquear alguien todo lo que se encuentre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Plunder or pillage someone of everything that can be found."
+  ],
   "source": "https://tesoro.pr"
 }

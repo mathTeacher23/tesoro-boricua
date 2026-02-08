@@ -3,15 +3,18 @@
   "term": "vivir del mamey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vivir del presupuesto del Estado",
+      "consolidated_definition": "Vivir del presupuesto del Estado.",
+      "en_consolidated_definition": "Live off the state budget.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.6287",
         "semantic_similarity_score": 0.6287,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "locución verbal"
         ],
@@ -61,8 +64,10 @@
     }
   },
   "es_definitions": [
-    "Vivir del presupuesto del Estado"
+    "Vivir del presupuesto del Estado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Live off the state budget."
+  ],
   "source": "https://tesoro.pr"
 }

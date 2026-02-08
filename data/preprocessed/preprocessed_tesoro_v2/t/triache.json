@@ -3,9 +3,12 @@
   "term": "triache",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Café de calidad inferior",
+      "consolidated_definition": "Café de calidad inferior, compuesto del residuo o desperdicio de los granos quemados, partidos, etc.",
+      "en_consolidated_definition": "Substandard coffee made from the residue or waste of burnt, broken, etc., grains.\n\nNota: En este contexto, \"granos quemados\" se refiere a granos de café que han sido quemados durante el proceso de tostado o molido, lo que da como resultado un residuo de baja calidad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Café de calidad inferior"
+    "Café de calidad inferior, compuesto del residuo o desperdicio de los granos quemados, partidos, etc."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Substandard coffee made from the residue or waste of burnt, broken, etc., grains.\n\nNota: En este contexto, \"granos quemados\" se refiere a granos de café que han sido quemados durante el proceso de tostado o molido, lo que da como resultado un residuo de baja calidad."
+  ],
   "source": "https://tesoro.pr"
 }

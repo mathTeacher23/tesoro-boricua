@@ -3,9 +3,12 @@
   "term": "desmonte arriba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Poda del ramaje superior de los árboles",
+      "consolidated_definition": "Poda del ramaje superior de los árboles, generalmente en el cultivo del café.",
+      "en_consolidated_definition": "Pruning of the upper canopy of trees, typically in coffee cultivation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Poda del ramaje superior de los árboles"
+    "Poda del ramaje superior de los árboles, generalmente en el cultivo del café."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pruning of the upper canopy of trees, typically in coffee cultivation."
+  ],
   "source": "https://tesoro.pr"
 }

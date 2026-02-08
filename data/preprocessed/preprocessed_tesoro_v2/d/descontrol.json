@@ -3,9 +3,12 @@
   "term": "descontrol",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, falta de dominio de un pícher para dirigir sus lanzamientos en la forma deseada.",
+      "en_consolidated_definition": "In baseball, lack of mastery by a pitcher to control his pitches in the desired manner.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, falta de dominio de un pícher para dirigir sus lanzamientos en la forma deseada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, lack of mastery by a pitcher to control his pitches in the desired manner."
+  ],
   "source": "https://tesoro.pr"
 }

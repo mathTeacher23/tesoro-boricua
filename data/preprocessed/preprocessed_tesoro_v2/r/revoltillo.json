@@ -3,9 +3,12 @@
   "term": "revoltillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Huevos fritos revueltos",
+      "consolidated_definition": "Huevos fritos revueltos.",
+      "en_consolidated_definition": "Scrambled fried eggs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Mal de estómago por mala digestión",
+      "consolidated_definition": "Mal de estómago por mala digestión, con náuseas. Revoltijo.",
+      "en_consolidated_definition": "Gastritis causada por mala digestión, acompañada de náuseas.\n\nNota: En este contexto, \"mal de estómago\" se refiere a una condición específica que puede variar en diferentes regiones y culturas. Sin embargo, la traducción proporcionada se centra en el significado literal del término.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Huevos fritos revueltos",
-    "Mal de estómago por mala digestión"
+    "Huevos fritos revueltos.",
+    "Mal de estómago por mala digestión, con náuseas. Revoltijo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Scrambled fried eggs.",
+    "Gastritis causada por mala digestión, acompañada de náuseas.\n\nNota: En este contexto, \"mal de estómago\" se refiere a una condición específica que puede variar en diferentes regiones y culturas. Sin embargo, la traducción proporcionada se centra en el significado literal del término."
+  ],
   "source": "https://tesoro.pr"
 }

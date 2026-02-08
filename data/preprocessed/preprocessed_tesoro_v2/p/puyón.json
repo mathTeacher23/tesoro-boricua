@@ -3,15 +3,18 @@
   "term": "puyón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Espuelas postizas",
+      "consolidated_definition": "Accesorios postizos: objetos que se colocan en los talones para simular la presencia de espuelas en un calzado.",
+      "en_consolidated_definition": "Artificial heel attachments: objects placed on the heels to simulate the presence of spurs in footwear.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5099",
         "semantic_similarity_score": 0.5099,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Púa grande",
+      "consolidated_definition": "Púa grande. También dicen puyero.",
+      "en_consolidated_definition": "Large thorn; also known as puyero.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "Espuelas postizas",
-    "Púa grande"
+    "Accesorios postizos: objetos que se colocan en los talones para simular la presencia de espuelas en un calzado.",
+    "Púa grande. También dicen puyero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Artificial heel attachments: objects placed on the heels to simulate the presence of spurs in footwear.",
+    "Large thorn; also known as puyero."
+  ],
   "source": "https://tesoro.pr"
 }

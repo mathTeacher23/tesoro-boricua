@@ -3,9 +3,12 @@
   "term": "pitipuá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fruto verde",
+      "consolidated_definition": "Fruto verde, redondo y comestible de la vaina de esta planta.",
+      "en_consolidated_definition": "Edible green fruit, round in shape, derived from the pod of this plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Fruto verde"
+    "Fruto verde, redondo y comestible de la vaina de esta planta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Edible green fruit, round in shape, derived from the pod of this plant."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mangonear",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Rapiñar, hurtar, refiriéndose a personas que ejercen algún cargo o puesto. “Ya el tiempo de mangonear —para ustedes se acabó.” Cintrón, Bombones de sal, 1910, p. 164., relacionado con un grupo",
+      "consolidated_definition": ". Rapiñar, hurtar, refiriéndose a personas que ejercen algún cargo o puesto. “Ya el tiempo de mangonear —para ustedes se acabó.” Cintrón, Bombones de sal, 1910, p. 164.",
+      "en_consolidated_definition": "To pilfer or plunder, referring to individuals holding a position of authority or office. \"The time for mangonear has come to an end for you.\" Cintrón, Bombones de sal, 1910, p. 164.\n\nNota: El término \"mangonear\" se refiere a un tipo de corrupción o abuso de poder en Puerto Rico, y su traducción literal sería \"to pilfer or plunder\", pero se ha mantenido el contexto original para preservar la autenticidad cultural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,14 +45,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Holgazanear",
+      "consolidated_definition": "Trabajar con lentitud, con pereza y vagancia.",
+      "en_consolidated_definition": "Toil with indolence and sloth.\n\nNota: La palabra \"vagancia\" puede ser traducida como \"loafing\" o \"lollygagging\", pero para mantener el tono formal y académico de un diccionario, he optado por la traducción más literal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4036",
-        "semantic_similarity_score": 0.4036,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -92,19 +98,18 @@
           "manguear"
         ],
         "reference_definitions": [
-          "Holgazanear.",
-          "Perder el tiempo.",
-          "Trabajar con lentitud con la intención de defraudar al patrono.",
-          "No hacer nada. Perder el tiempo.",
           "Trabajar con lentitud, con pereza y vagancia."
         ]
       }
     }
   },
   "es_definitions": [
-    ". Rapiñar, hurtar, refiriéndose a personas que ejercen algún cargo o puesto. “Ya el tiempo de mangonear —para ustedes se acabó.” Cintrón, Bombones de sal, 1910, p. 164., relacionado con un grupo",
-    "Holgazanear"
+    ". Rapiñar, hurtar, refiriéndose a personas que ejercen algún cargo o puesto. “Ya el tiempo de mangonear —para ustedes se acabó.” Cintrón, Bombones de sal, 1910, p. 164.",
+    "Trabajar con lentitud, con pereza y vagancia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To pilfer or plunder, referring to individuals holding a position of authority or office. \"The time for mangonear has come to an end for you.\" Cintrón, Bombones de sal, 1910, p. 164.\n\nNota: El término \"mangonear\" se refiere a un tipo de corrupción o abuso de poder en Puerto Rico, y su traducción literal sería \"to pilfer or plunder\", pero se ha mantenido el contexto original para preservar la autenticidad cultural.",
+    "Toil with indolence and sloth.\n\nNota: La palabra \"vagancia\" puede ser traducida como \"loafing\" o \"lollygagging\", pero para mantener el tono formal y académico de un diccionario, he optado por la traducción más literal."
+  ],
   "source": "https://tesoro.pr"
 }

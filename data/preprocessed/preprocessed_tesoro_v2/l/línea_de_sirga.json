@@ -3,9 +3,12 @@
   "term": "línea de sirga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver línea de mano",
+      "consolidated_definition": "Ver línea de mano .",
+      "en_consolidated_definition": "See hand line.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver línea de mano"
+    "Ver línea de mano ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See hand line."
+  ],
   "source": "https://tesoro.pr"
 }

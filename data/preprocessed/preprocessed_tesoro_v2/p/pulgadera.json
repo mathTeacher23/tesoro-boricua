@@ -3,9 +3,12 @@
   "term": "pulgadera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar de la fábrica donde se toma la",
+      "consolidated_definition": "Lugar de la fábrica donde se toma la muestra del guarapo para ver qué cantidad de sucio tiene.",
+      "en_consolidated_definition": "Area of the factory where a sample of guarapo is taken to determine its level of impurity. \n\nNota: El término \"guarapo\" se refiere a un líquido obtenido de la caña de azúcar durante el proceso de producción del ron en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Lugar de la fábrica donde se toma la"
+    "Lugar de la fábrica donde se toma la muestra del guarapo para ver qué cantidad de sucio tiene."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area of the factory where a sample of guarapo is taken to determine its level of impurity. \n\nNota: El término \"guarapo\" se refiere a un líquido obtenido de la caña de azúcar durante el proceso de producción del ron en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "rematar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando se compra una soga",
+      "consolidated_definition": "Cuando se compra una soga, hacer un nudo en las puntas para que no se deshile.",
+      "en_consolidated_definition": "When purchasing a rope, to tie a knot at the ends so that it does not fray.\n\nNota: En este contexto, \"soga\" se refiere a una cuerda o un cordón, y la acción de hacer un nudo en las puntas es común en Puerto Rico para evitar que la cuerda se deshile.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Cuando se compra una soga"
+    "Cuando se compra una soga, hacer un nudo en las puntas para que no se deshile."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "When purchasing a rope, to tie a knot at the ends so that it does not fray.\n\nNota: En este contexto, \"soga\" se refiere a una cuerda o un cordón, y la acción de hacer un nudo en las puntas es común en Puerto Rico para evitar que la cuerda se deshile."
+  ],
   "source": "https://tesoro.pr"
 }

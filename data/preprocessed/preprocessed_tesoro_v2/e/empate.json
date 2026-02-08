@@ -3,14 +3,17 @@
   "term": "empate",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Atadura mal hecha",
+      "consolidated_definition": "Unión o empalme de una cosa con otra.",
+      "en_consolidated_definition": "Unión o conexión entre dos cosas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.3589",
-        "semantic_similarity_score": 0.3589,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -51,19 +54,16 @@
           "empatar"
         ],
         "reference_definitions": [
-          "Atadura mal hecha. Como en Canarias añadido. Alvar, Tenerife, 168.",
-          ". Añadido.",
-          "Amarradura.",
-          "Empalme.",
-          "Unión o empalme de una cosa con otra.",
-          "Amarradura, atadura mal hecha."
+          "Unión o empalme de una cosa con otra."
         ]
       }
     }
   },
   "es_definitions": [
-    "Atadura mal hecha"
+    "Unión o empalme de una cosa con otra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Unión o conexión entre dos cosas."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mierda en cajeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Carne motosa de la semilla del algarrobo que",
+      "consolidated_definition": "Carne motosa de la semilla del algarrobo que tiene hedor a excremento.",
+      "en_consolidated_definition": "Meat of the carob seed with a foul odor reminiscent of feces.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Carne motosa de la semilla del algarrobo que"
+    "Carne motosa de la semilla del algarrobo que tiene hedor a excremento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Meat of the carob seed with a foul odor reminiscent of feces."
+  ],
   "source": "https://tesoro.pr"
 }

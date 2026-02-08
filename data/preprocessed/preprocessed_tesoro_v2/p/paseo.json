@@ -3,15 +3,18 @@
   "term": "paseo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajo o cosa fácil",
+      "consolidated_definition": "Trabajo o cosa fácil; término coloquial que puede referirse a diferentes conceptos, como un plato de comida (asopao, bilí, bofe o guame), dependiendo del contexto regional.",
+      "en_consolidated_definition": "Easy task or thing; colloquial term that can refer to different concepts, such as a dish of food (asopao, bilí, bofe, or guame), depending on the regional context.\n\nNota: Los términos \"asopao\", \"bilí\", \"bofe\" y \"guame\" son platos típicos de la cocina puertorriqueña.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4744",
-        "semantic_similarity_score": 0.4744,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4566",
+        "semantic_similarity_score": 0.4566,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -44,7 +47,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Trabajo o cosa fácil. También asopao, bilí, bofe, guame.",
+          "(general) Trabajo o cosa fácil. También asopao, bilí, bofe, guame.",
           "Cosa fácil de hacer o de conseguir. Guame. Ñame.",
           "Ganar en una competición con facilidad.",
           "Algo fácil."
@@ -52,14 +55,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Parte de la danza",
+      "consolidated_definition": "En algunas danzas, recorrido corto que se ejecuta antes de iniciar los pasos de baile correspondientes.",
+      "en_consolidated_definition": "Short passage or sequence of steps executed before initiating the corresponding dance movements.\n\nNota: En este caso, no se mencionan términos culturales específicos de Puerto Rico en la definición original, por lo que la traducción es directa y precisa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5294",
-        "semantic_similarity_score": 0.5294,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -93,17 +99,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Parte de la danza, sin cadencia bailable. “Su melodía era insulsa, circunscrita a una frase repetida de 8 compases, sin pensamiento determinado, a lo que daban el nombre de paseo.” Callejo, Música y..., 1915, p. 279. .",
-          "Primera parte de la danza puertorriqueña, que no es bailable.",
           "En algunas danzas, recorrido corto que se ejecuta antes de iniciar los pasos de baile correspondientes."
         ]
       }
     }
   },
   "es_definitions": [
-    "Trabajo o cosa fácil",
-    "Parte de la danza"
+    "Trabajo o cosa fácil; término coloquial que puede referirse a diferentes conceptos, como un plato de comida (asopao, bilí, bofe o guame), dependiendo del contexto regional.",
+    "En algunas danzas, recorrido corto que se ejecuta antes de iniciar los pasos de baile correspondientes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Easy task or thing; colloquial term that can refer to different concepts, such as a dish of food (asopao, bilí, bofe, or guame), depending on the regional context.\n\nNota: Los términos \"asopao\", \"bilí\", \"bofe\" y \"guame\" son platos típicos de la cocina puertorriqueña.",
+    "Short passage or sequence of steps executed before initiating the corresponding dance movements.\n\nNota: En este caso, no se mencionan términos culturales específicos de Puerto Rico en la definición original, por lo que la traducción es directa y precisa."
+  ],
   "source": "https://tesoro.pr"
 }

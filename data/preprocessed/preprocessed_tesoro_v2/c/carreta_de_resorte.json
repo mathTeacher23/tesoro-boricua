@@ -3,15 +3,18 @@
   "term": "carreta de resorte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El volquete se conoce también como carreta de resorte, de vira o tumbarón, en particular en la región de Rosario Alto.",
+      "consolidated_definition": "Al volquete se le conoce con el nombre de carreta de resorte, de vira y de tumbarón, en Rosario Alto.",
+      "en_consolidated_definition": "In Rosario Alto, it is also known as a spring wagon, a tilt truck, or a tumbarón.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El volquete se conoce también como carreta de resorte, de vira o tumbarón, en particular en la región de Rosario Alto."
+    "Al volquete se le conoce con el nombre de carreta de resorte, de vira y de tumbarón, en Rosario Alto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In Rosario Alto, it is also known as a spring wagon, a tilt truck, or a tumbarón."
+  ],
   "source": "https://tesoro.pr"
 }

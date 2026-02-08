@@ -3,14 +3,17 @@
   "term": "infielder",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "En el beisbol, jugador defensivo que ocupa una de las posiciones del cuadro o infield.",
+      "en_consolidated_definition": "In baseball, defensive player occupying one of the positions on the infield or infield.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7873",
-        "semantic_similarity_score": 0.7873,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -42,15 +45,16 @@
           "infield"
         ],
         "reference_definitions": [
-          "dep. En el juego de béisbol, uno de los cuatro jugadores defensivos estacionados en el cuadro interior. Anglicismo crudo, frecuente. En mi infancia el béisbol todavía se jugaba alegre. Félix Mantilla era conocido como el gato, había en sus movimientos, en su agilidad y cobertura de terreno, asombrosa para un infielder tan alto y anterior a David Concepción, cierto desparpajo exhibicionista",
           "En el beisbol, jugador defensivo que ocupa una de las posiciones del cuadro o infield."
         ]
       }
     }
   },
   "es_definitions": [
-    "dep"
+    "En el beisbol, jugador defensivo que ocupa una de las posiciones del cuadro o infield."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, defensive player occupying one of the positions on the infield or infield."
+  ],
   "source": "https://tesoro.pr"
 }

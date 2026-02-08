@@ -3,9 +3,12 @@
   "term": "maranda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Maranta",
+      "consolidated_definition": "Maranta, planta.",
+      "en_consolidated_definition": "Maranta, a plant species.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Maranta"
+    "Maranta, planta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maranta, a plant species."
+  ],
   "source": "https://tesoro.pr"
 }

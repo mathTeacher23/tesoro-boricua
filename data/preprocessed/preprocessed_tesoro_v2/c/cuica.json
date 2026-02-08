@@ -3,15 +3,18 @@
   "term": "cuica",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comba: juego infantil en el que se traza un patrón geométrico con tiza y se corre o salta sobre él.",
+      "consolidated_definition": "Comba, cuerda para saltar con la que juegan las niñas.",
+      "en_consolidated_definition": "Jump rope, cord used by girls to play a jumping game.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.7129",
-        "semantic_similarity_score": 0.7129,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -56,18 +59,17 @@
           "tocineta 2"
         ],
         "reference_definitions": [
-          "Comba o juego de niñas. “Mientras mi hermanita traza —geométrica ‘peregrina’ —en el piso de la plaza —con un pedazo de tiza, —yo corro que corro y salto —sobre el cordón de mi cuica.” Marta Lomar, Silabario de espuma, 1931, p. 87.",
-          "Juego de niños.",
-          "Comba; cuerda que saltan los niños.",
-          "Comba, cuerda de saltar con que juegan los niños.",
           "Comba, cuerda para saltar con la que juegan las niñas."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Güima.",
+      "en_consolidated_definition": "Güima: a type of traditional Puerto Rican folk music characterized by its lively and energetic rhythm, often played on the güira (a metal scraper instrument) and accompanied by percussion instruments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -108,9 +110,12 @@
     }
   },
   "es_definitions": [
-    "Comba: juego infantil en el que se traza un patrón geométrico con tiza y se corre o salta sobre él.",
+    "Comba, cuerda para saltar con la que juegan las niñas.",
     "Güima."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Jump rope, cord used by girls to play a jumping game.",
+    "Güima: a type of traditional Puerto Rican folk music characterized by its lively and energetic rhythm, often played on the güira (a metal scraper instrument) and accompanied by percussion instruments."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "esplacar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Quitar la licencia",
+      "consolidated_definition": "Quitar la licencia.",
+      "en_consolidated_definition": "Revoke a license.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Quitar la licencia"
+    "Quitar la licencia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Revoke a license."
+  ],
   "source": "https://tesoro.pr"
 }

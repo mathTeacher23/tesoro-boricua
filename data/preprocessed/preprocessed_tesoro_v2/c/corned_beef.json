@@ -3,15 +3,18 @@
   "term": "corned beef",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Alim\": carne de res enlatada y conservada con especias y sal, un alimento.",
+      "consolidated_definition": "Carne de ternera, curada con sal, enlatada; procede de Argentina, Uruguay y Brasil.",
+      "en_consolidated_definition": "Beef from cattle, cured with salt and canned; originates from Argentina, Uruguay, and Brazil.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4208",
-        "semantic_similarity_score": 0.4208,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "alim. Carne de res enlatada y conservada con especias y sal. Anglicismo crudo, usual. En múltiples menú el estudiante puede tener el arroz blanco y el arroz guisado, puede tener chuleta y corned beef",
           "Carne de ternera, curada con sal, enlatada; procede de Argentina, Uruguay y Brasil."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Alim\": carne de res enlatada y conservada con especias y sal, un alimento."
+    "Carne de ternera, curada con sal, enlatada; procede de Argentina, Uruguay y Brasil."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Beef from cattle, cured with salt and canned; originates from Argentina, Uruguay, and Brazil."
+  ],
   "source": "https://tesoro.pr"
 }

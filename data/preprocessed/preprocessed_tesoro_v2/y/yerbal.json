@@ -3,14 +3,17 @@
   "term": "yerbal",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Herbazal.",
+      "consolidated_definition": "Sitio poblado de hierba.",
+      "en_consolidated_definition": "Area densely populated with grass.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4145",
-        "semantic_similarity_score": 0.4145,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,16 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Herbazal.",
-          "Herbazal.",
           "Sitio poblado de hierba."
         ]
       }
     }
   },
   "es_definitions": [
-    ". Herbazal."
+    "Sitio poblado de hierba."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area densely populated with grass."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "halar la cadena",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dejar correr el asunto",
+      "consolidated_definition": "Dejar correr el asunto. Suspender el tema.",
+      "en_consolidated_definition": "To let the matter slide. To suspend discussion of a topic.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Dejar correr el asunto"
+    "Dejar correr el asunto. Suspender el tema."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To let the matter slide. To suspend discussion of a topic."
+  ],
   "source": "https://tesoro.pr"
 }

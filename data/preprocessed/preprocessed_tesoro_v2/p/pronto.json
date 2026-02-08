@@ -3,9 +3,12 @@
   "term": "pronto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cantidad de dinero que paga un comprador al",
+      "consolidated_definition": "Cantidad de dinero que paga un comprador al firmar un contrato de compraventa a plazos de artículos costosos, tales como muebles y autos. En España, señal.",
+      "en_consolidated_definition": "Amount of money paid by a buyer upon signing a contract for the purchase of expensive items on credit, such as furniture and vehicles. In Spain, down payment.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cantidad de dinero que paga un comprador al"
+    "Cantidad de dinero que paga un comprador al firmar un contrato de compraventa a plazos de artículos costosos, tales como muebles y autos. En España, señal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Amount of money paid by a buyer upon signing a contract for the purchase of expensive items on credit, such as furniture and vehicles. In Spain, down payment."
+  ],
   "source": "https://tesoro.pr"
 }

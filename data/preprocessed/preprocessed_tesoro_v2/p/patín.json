@@ -3,9 +3,12 @@
   "term": "patín",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte de la cortadora de caña que endereza",
+      "consolidated_definition": "Parte de la cortadora de caña que endereza la caña caída.",
+      "en_consolidated_definition": "Part of the sugarcane cutter that straightens fallen cane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Parte de la cortadora de caña que endereza"
+    "Parte de la cortadora de caña que endereza la caña caída."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Part of the sugarcane cutter that straightens fallen cane."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "gruero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona encargada de manejar una grúa",
+      "consolidated_definition": "Persona encargada de manejar una grúa.",
+      "en_consolidated_definition": "Grumete de grúa: Person in charge of operating a crane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona encargada de manejar una grúa"
+    "Persona encargada de manejar una grúa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Grumete de grúa: Person in charge of operating a crane."
+  ],
   "source": "https://tesoro.pr"
 }

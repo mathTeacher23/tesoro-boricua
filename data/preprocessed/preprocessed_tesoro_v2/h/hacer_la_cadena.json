@@ -3,9 +3,12 @@
   "term": "hacer la cadena",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En una reunión espiritista",
+      "consolidated_definition": "En una reunión espiritista, unir las manos todos los presentes.",
+      "en_consolidated_definition": "To join hands in a spiritist meeting, with all present participants holding hands together.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En una reunión espiritista"
+    "En una reunión espiritista, unir las manos todos los presentes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To join hands in a spiritist meeting, with all present participants holding hands together."
+  ],
   "source": "https://tesoro.pr"
 }

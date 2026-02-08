@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Guayabo: árbol frutal que produce frutos como guayabos, anones y corazones.",
+      "en_consolidated_definition": "Guayabo: fruit-bearing tree that produces fruits such as guavas, annonas and hearts.\n\nNota: En este contexto, \"corazones\" se refiere a una variedad de fruto similar a la anona.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
@@ -58,15 +61,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La expresión \"corazón\" se utiliza para referirse al sustantivo que designa la parte central y más dulce de la piña.",
+      "consolidated_definition": "A la moña de la piña se le llamó ... corazón, Peña Pobre.",
+      "en_consolidated_definition": "The part of the pineapple known as the moña is also referred to as... heart, Peña Pobre.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -94,15 +100,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "El dedo medio, también conocido como el dedo del corazón, es un término coloquial que se refiere al tercer dedo de la mano.",
+      "consolidated_definition": "Dedo medio. También del corazón.",
+      "en_consolidated_definition": "Middle finger. Also from the heart.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -130,15 +139,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "El acción de observar o contemplar paragüitos.",
+      "consolidated_definition": "Ver paragüitas .",
+      "en_consolidated_definition": "To see paragüitas.\n\nNota: \"Paragüitas\" es un término coloquial en español puertorriqueño que se refiere a las aves marinas conocidas como gaviotas o pájaros de cola larga, pero específicamente se utiliza para describir el comportamiento de estas aves cuando se acercan a los paragüitas (un tipo de embarcación tradicional en Puerto Rico) en busca de comida.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -154,10 +166,15 @@
   },
   "es_definitions": [
     "Guayabo: árbol frutal que produce frutos como guayabos, anones y corazones.",
-    "La expresión \"corazón\" se utiliza para referirse al sustantivo que designa la parte central y más dulce de la piña.",
-    "El dedo medio, también conocido como el dedo del corazón, es un término coloquial que se refiere al tercer dedo de la mano.",
-    "El acción de observar o contemplar paragüitos."
+    "A la moña de la piña se le llamó ... corazón, Peña Pobre.",
+    "Dedo medio. También del corazón.",
+    "Ver paragüitas ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Guayabo: fruit-bearing tree that produces fruits such as guavas, annonas and hearts.\n\nNota: En este contexto, \"corazones\" se refiere a una variedad de fruto similar a la anona.",
+    "The part of the pineapple known as the moña is also referred to as... heart, Peña Pobre.",
+    "Middle finger. Also from the heart.",
+    "To see paragüitas.\n\nNota: \"Paragüitas\" es un término coloquial en español puertorriqueño que se refiere a las aves marinas conocidas como gaviotas o pájaros de cola larga, pero específicamente se utiliza para describir el comportamiento de estas aves cuando se acercan a los paragüitas (un tipo de embarcación tradicional en Puerto Rico) en busca de comida."
+  ],
   "source": "https://tesoro.pr"
 }

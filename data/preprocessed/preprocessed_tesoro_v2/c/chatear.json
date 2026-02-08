@@ -3,15 +3,18 @@
   "term": "chatear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La acción de entrenar un gallo para enfrentarlo a otro en combate durante el traqueo y después del mismo para verificar su condición.",
+      "consolidated_definition": "En las peleas de gallos, entrenar al gallo enfrentándolo a su contrincante que le sirve de chato durante el traqueo.",
+      "en_consolidated_definition": "In cockfighting, to train a rooster by pitting it against its opponent, which serves as a \"chato\" during the pecking phase.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.8724",
-        "semantic_similarity_score": 0.8724,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -42,23 +45,23 @@
           "chata 1"
         ],
         "reference_definitions": [
-          "Entrenar el gallo enfrentándolo al contrincante que le sirve de chata durante el traqueo.",
-          "Probar al gallo después del traqueo enfrentándolo al contrincante que le sirve de chata para verificar si ha entrado en condición.",
-          "En las peleas de gallos, entrenar al gallo enfrentándolo a su contrincante que le sirve de chato durante el traqueo.",
-          "En las peleas de gallos, entrenar al gallo después del traqueo con el chato para verificar si está en buenas condiciones."
+          "En las peleas de gallos, entrenar al gallo enfrentándolo a su contrincante que le sirve de chato durante el traqueo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Comunicarse por escrito simultáneamente con dos o más personas en tiempo real a través de Internet.",
+      "consolidated_definition": "inform. Charlar. Comunicarse por escrito simultáneamente dos o más personas en tiempo real a través de Internet. Desvío semántico, frecuente. DRAE 2001: beber chatos . Normalmente el lunes después del programa Nuestra Voz, la gente accede al canal para chatear sobre el tema del programa (OrgulloBoricua.net, 2006)",
+      "en_consolidated_definition": "To chat informally. To communicate in writing simultaneously with two or more people in real-time through the Internet. Semantic shift, frequent. DRAE 2001: to drink chats. Normally, after the Nuestra Voz program on Monday, people access the channel to chat about the program's topic (OrgulloBoricua.net, 2006)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -91,9 +94,12 @@
     }
   },
   "es_definitions": [
-    "La acción de entrenar un gallo para enfrentarlo a otro en combate durante el traqueo y después del mismo para verificar su condición.",
-    "Comunicarse por escrito simultáneamente con dos o más personas en tiempo real a través de Internet."
+    "En las peleas de gallos, entrenar al gallo enfrentándolo a su contrincante que le sirve de chato durante el traqueo.",
+    "inform. Charlar. Comunicarse por escrito simultáneamente dos o más personas en tiempo real a través de Internet. Desvío semántico, frecuente. DRAE 2001: beber chatos . Normalmente el lunes después del programa Nuestra Voz, la gente accede al canal para chatear sobre el tema del programa (OrgulloBoricua.net, 2006)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In cockfighting, to train a rooster by pitting it against its opponent, which serves as a \"chato\" during the pecking phase.",
+    "To chat informally. To communicate in writing simultaneously with two or more people in real-time through the Internet. Semantic shift, frequent. DRAE 2001: to drink chats. Normally, after the Nuestra Voz program on Monday, people access the channel to chat about the program's topic (OrgulloBoricua.net, 2006)"
+  ],
   "source": "https://tesoro.pr"
 }

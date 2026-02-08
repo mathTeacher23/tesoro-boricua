@@ -3,15 +3,18 @@
   "term": "senteneja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Charco de agua que queda a la orilla",
+      "consolidated_definition": "Charco o estanque de agua que se forma en un lugar después de la lluvia o de otro fenómeno hidrológico.",
+      "en_consolidated_definition": "Pond or pool of water that forms in a place after rainfall or another hydrological phenomenon.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.5851",
         "semantic_similarity_score": 0.5851,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -55,8 +58,10 @@
     }
   },
   "es_definitions": [
-    "Charco de agua que queda a la orilla"
+    "Charco o estanque de agua que se forma en un lugar después de la lluvia o de otro fenómeno hidrológico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pond or pool of water that forms in a place after rainfall or another hydrological phenomenon."
+  ],
   "source": "https://tesoro.pr"
 }

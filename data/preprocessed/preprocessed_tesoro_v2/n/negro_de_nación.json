@@ -3,9 +3,12 @@
   "term": "negro de nación",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De nacimiento africano",
+      "consolidated_definition": "De nacimiento africano.",
+      "en_consolidated_definition": "Of African birth or ancestry.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "De nacimiento africano"
+    "De nacimiento africano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Of African birth or ancestry."
+  ],
   "source": "https://tesoro.pr"
 }

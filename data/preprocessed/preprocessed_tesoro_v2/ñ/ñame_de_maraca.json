@@ -3,9 +3,12 @@
   "term": "ñame de maraca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tubérculo comestible de algunas variedades de la planta",
+      "consolidated_definition": "Tubérculo comestible de algunas variedades de la planta de maraca.",
+      "en_consolidated_definition": "Edible tuber of certain varieties of the maraca plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Tubérculo comestible de algunas variedades de la planta"
+    "Tubérculo comestible de algunas variedades de la planta de maraca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Edible tuber of certain varieties of the maraca plant."
+  ],
   "source": "https://tesoro.pr"
 }

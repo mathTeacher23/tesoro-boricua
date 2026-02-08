@@ -3,15 +3,18 @@
   "term": "aguas usadas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aguas negras o residuales: aguas que proceden de viviendas, poblaciones o zonas industriales y arrastran suciedad y detritos.",
+      "consolidated_definition": "Aguas negras, aguas residuales. Aguas que proceden de viviendas, poblaciones o zonas industriales y arrastran suciedad y detritos. Calco de estructura, usual. Cordero Santiago indicó que los proyectos que no estarían sujetos a negociación porque son “prioritarios” son: el anillo de circunvalación que conectaría a la ciudad de sur a norte con la autopista Las Américas y con el desvío de la PR-2; la planta de filtración para procesar el agua del lago Cerrillos con sus cinco estaciones de bombas; las obras de infraestructura en el sector Punta Diamante; y las mejoras a la planta de tratamiento de aguas usadas del barrio El Tuque (El Nuevo Día, 14-11-00)",
+      "en_consolidated_definition": "Black waters, wastewater. Waters that originate from residences, populations or industrial areas and carry dirt and debris. \n\nNote: Las Américas is a highway in Puerto Rico, PR-2 is a road in Puerto Rico, El Tuque is a neighborhood in Puerto Rico, and Punta Diamante is a sector in Puerto Rico.\n\nBlack waters, wastewater. Waters that originate from residences, populations or industrial areas and carry dirt and debris.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino",
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Aguas negras o residuales: aguas que proceden de viviendas, poblaciones o zonas industriales y arrastran suciedad y detritos."
+    "Aguas negras, aguas residuales. Aguas que proceden de viviendas, poblaciones o zonas industriales y arrastran suciedad y detritos. Calco de estructura, usual. Cordero Santiago indicó que los proyectos que no estarían sujetos a negociación porque son “prioritarios” son: el anillo de circunvalación que conectaría a la ciudad de sur a norte con la autopista Las Américas y con el desvío de la PR-2; la planta de filtración para procesar el agua del lago Cerrillos con sus cinco estaciones de bombas; las obras de infraestructura en el sector Punta Diamante; y las mejoras a la planta de tratamiento de aguas usadas del barrio El Tuque (El Nuevo Día, 14-11-00)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Black waters, wastewater. Waters that originate from residences, populations or industrial areas and carry dirt and debris. \n\nNote: Las Américas is a highway in Puerto Rico, PR-2 is a road in Puerto Rico, El Tuque is a neighborhood in Puerto Rico, and Punta Diamante is a sector in Puerto Rico.\n\nBlack waters, wastewater. Waters that originate from residences, populations or industrial areas and carry dirt and debris."
+  ],
   "source": "https://tesoro.pr"
 }

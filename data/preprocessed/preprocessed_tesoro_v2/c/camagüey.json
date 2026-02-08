@@ -3,15 +3,18 @@
   "term": "camagüey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol corpulento que proporciona sombra y pertenece a la categoría de plantas adecuadas para cultivar café, especialmente en entornos montanos.",
+      "consolidated_definition": "Árbol corpulento de sombra buena para el café. Crece en la montaña.",
+      "en_consolidated_definition": "Tree of dense foliage providing good shade for coffee cultivation, native to mountainous regions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Canaguéy (también canagüey): ave gallina o gallo de color blanco con pintas amarillas o rojas.",
+      "consolidated_definition": "Gallo o gallina, de color blanco con pintas amarillas o rojas.",
+      "en_consolidated_definition": "White rooster or hen with yellow or red markings.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6351",
-        "semantic_similarity_score": 0.6351,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -84,18 +90,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Gallo o gallina de cierto color. La grafía canagüey es más usada. “Mi abuelo... era gallero...; mi padre era criador de los camagüeyes de Espinosa, que mataban en los tiros volaos.” Fernández Juncos, La última hornada, 1928, p. 12. Variante: canagüey.",
-          "Gallo considerado muy fino, es blanco con plumas amarillas o blanco con chapas coloradas. Oriundo de Cuba. Algunos informantes describieron su plumaje como blanco y marrón.",
-          "Se observará que en estas combinaciones del camagüey el blanco siempre está presente en su plumaje, como en la vestimenta del cubano la guayabera blanca.",
           "Gallo o gallina, de color blanco con pintas amarillas o rojas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Árbol corpulento que proporciona sombra y pertenece a la categoría de plantas adecuadas para cultivar café, especialmente en entornos montanos.",
-    "Canaguéy (también canagüey): ave gallina o gallo de color blanco con pintas amarillas o rojas."
+    "Árbol corpulento de sombra buena para el café. Crece en la montaña.",
+    "Gallo o gallina, de color blanco con pintas amarillas o rojas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree of dense foliage providing good shade for coffee cultivation, native to mountainous regions.",
+    "White rooster or hen with yellow or red markings."
+  ],
   "source": "https://tesoro.pr"
 }

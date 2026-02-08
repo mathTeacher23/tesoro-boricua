@@ -3,9 +3,12 @@
   "term": "guanábana de perro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guanábana cimarrona",
+      "consolidated_definition": "Guanábana cimarrona.",
+      "en_consolidated_definition": "Wild soursop.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Guanábana cimarrona"
+    "Guanábana cimarrona."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wild soursop."
+  ],
   "source": "https://tesoro.pr"
 }

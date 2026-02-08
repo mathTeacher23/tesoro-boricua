@@ -3,9 +3,12 @@
   "term": "dar un cipi",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver dar un sippy",
+      "consolidated_definition": "Ver dar un sippy .",
+      "en_consolidated_definition": "To give a sippy cup.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver dar un sippy"
+    "Ver dar un sippy ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To give a sippy cup."
+  ],
   "source": "https://tesoro.pr"
 }

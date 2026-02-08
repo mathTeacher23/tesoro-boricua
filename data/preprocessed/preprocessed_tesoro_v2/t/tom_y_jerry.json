@@ -3,9 +3,12 @@
   "term": "tom y jerry",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión usada por drogadictos",
+      "consolidated_definition": "Expresión usada por drogadictos. Pareja de policías que velan a los drogadictos.",
+      "en_consolidated_definition": "Term used by addicts to refer to a pair of police officers who monitor them.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Expresión usada por drogadictos"
+    "Expresión usada por drogadictos. Pareja de policías que velan a los drogadictos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Term used by addicts to refer to a pair of police officers who monitor them."
+  ],
   "source": "https://tesoro.pr"
 }

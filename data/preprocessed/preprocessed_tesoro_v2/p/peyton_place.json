@@ -3,9 +3,12 @@
   "term": "peyton place",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cárcel de Ponce",
+      "consolidated_definition": "Cárcel de Ponce.",
+      "en_consolidated_definition": "Ponce Jail or Ponce Prison.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Cárcel de Ponce"
+    "Cárcel de Ponce."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ponce Jail or Ponce Prison."
+  ],
   "source": "https://tesoro.pr"
 }

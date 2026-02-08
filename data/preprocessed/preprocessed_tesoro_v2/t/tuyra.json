@@ -3,15 +3,18 @@
   "term": "tuyra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un espíritu malo",
+      "consolidated_definition": "Entidad sobrenatural considerada maligna en la creencia india.",
+      "en_consolidated_definition": "Malevolent supernatural entity considered malignant in Indian belief.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4285",
         "semantic_similarity_score": 0.4285,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Un espíritu malo"
+    "Entidad sobrenatural considerada maligna en la creencia india."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Malevolent supernatural entity considered malignant in Indian belief."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "machinero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona dueña o administradora de una machina, relacionado con un mecanismo",
+      "consolidated_definition": "Persona dueña o administradora de una machina, máquina de un parque de diversiones.",
+      "en_consolidated_definition": "Operator or administrator of a machine, ride operator in an amusement park.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8933",
-        "semantic_similarity_score": 0.8933,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Persona dueña o administradora de una machina.",
           "Persona dueña o administradora de una machina, máquina de un parque de diversiones."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona dueña o administradora de una machina, relacionado con un mecanismo"
+    "Persona dueña o administradora de una machina, máquina de un parque de diversiones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Operator or administrator of a machine, ride operator in an amusement park."
+  ],
   "source": "https://tesoro.pr"
 }

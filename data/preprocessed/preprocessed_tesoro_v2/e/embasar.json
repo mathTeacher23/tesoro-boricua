@@ -3,9 +3,12 @@
   "term": "embasar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En béisbol, llegar un bateador a una base, especialmente a la primera, por haber paleado un jit.",
+      "en_consolidated_definition": "In baseball, a batter reaches a base, especially first base, after hitting a jit (a type of foul ball).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "En béisbol"
+    "En béisbol, llegar un bateador a una base, especialmente a la primera, por haber paleado un jit."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a batter reaches a base, especially first base, after hitting a jit (a type of foul ball)."
+  ],
   "source": "https://tesoro.pr"
 }

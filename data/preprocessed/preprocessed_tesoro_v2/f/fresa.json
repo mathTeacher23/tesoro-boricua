@@ -3,9 +3,12 @@
   "term": "fresa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, en especial a un joven, que viste, habla y se comporta como si perteneciera a la clase alta o adinerada, sea esto cierto o no.",
+      "en_consolidated_definition": "Referring to a person, especially a young individual, who dresses, speaks, and behaves as if they belong to the upper class or are affluent, regardless of whether this is actually true.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona"
+    "Referido a persona, en especial a un joven, que viste, habla y se comporta como si perteneciera a la clase alta o adinerada, sea esto cierto o no."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referring to a person, especially a young individual, who dresses, speaks, and behaves as if they belong to the upper class or are affluent, regardless of whether this is actually true."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tabla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer con senos pequeños",
+      "consolidated_definition": "Mujer con senos pequeños.",
+      "en_consolidated_definition": "Woman with small breasts.\n\nNota: Es importante mencionar que en algunos contextos culturales, el término utilizado en Puerto Rico puede variar y ser más específico. Sin embargo, la traducción proporcionada se mantiene dentro del marco formal y académico de un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,14 +44,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pelea de gallos en que ninguno resulta vencedor",
+      "consolidated_definition": "Empate. Se declara tabla cuando en medio de la pelea, los gallos dejan de tirarse por un minuto. Esta situación equivale a un empate. Actualmente la pelea dura 15 minutos. Anteriormente, duraba de 45 a 60 minutos.",
+      "en_consolidated_definition": "Draw. A draw is declared when, in the middle of a fight, the roosters stop fighting for one minute. This situation is equivalent to a draw. Currently, the fight lasts 15 minutes. Previously, it lasted from 45 to 60 minutes.\n\nNota: En este contexto, \"gallos\" se refiere a los gallos de pelea, que son aves domésticas utilizadas en la práctica del gallero, una tradición cultural en Puerto Rico y otros países hispanohablantes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1996",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4943",
-        "semantic_similarity_score": 0.4943,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -80,17 +86,18 @@
           "juez de valla"
         ],
         "reference_definitions": [
-          "Pelea de gallos en que ninguno resulta vencedor. Empate.",
-          "Empate. Se declara tabla cuando en medio de la pelea, los gallos dejan de tirarse por un minuto. Esta situación equivale a un empate. Actualmente la pelea dura 15 minutos. Anteriormente, duraba de 45 a 60 minutos.",
-          "pl. Parte cartilaginosa del cuello del gallo."
+          "Empate. Se declara tabla cuando en medio de la pelea, los gallos dejan de tirarse por un minuto. Esta situación equivale a un empate. Actualmente la pelea dura 15 minutos. Anteriormente, duraba de 45 a 60 minutos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Mujer con senos pequeños",
-    "Pelea de gallos en que ninguno resulta vencedor"
+    "Mujer con senos pequeños.",
+    "Empate. Se declara tabla cuando en medio de la pelea, los gallos dejan de tirarse por un minuto. Esta situación equivale a un empate. Actualmente la pelea dura 15 minutos. Anteriormente, duraba de 45 a 60 minutos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Woman with small breasts.\n\nNota: Es importante mencionar que en algunos contextos culturales, el término utilizado en Puerto Rico puede variar y ser más específico. Sin embargo, la traducción proporcionada se mantiene dentro del marco formal y académico de un diccionario.",
+    "Draw. A draw is declared when, in the middle of a fight, the roosters stop fighting for one minute. This situation is equivalent to a draw. Currently, the fight lasts 15 minutes. Previously, it lasted from 45 to 60 minutes.\n\nNota: En este contexto, \"gallos\" se refiere a los gallos de pelea, que son aves domésticas utilizadas en la práctica del gallero, una tradición cultural en Puerto Rico y otros países hispanohablantes."
+  ],
   "source": "https://tesoro.pr"
 }

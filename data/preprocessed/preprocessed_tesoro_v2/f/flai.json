@@ -3,9 +3,12 @@
   "term": "flai",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, pelota que va por el aire.",
+      "en_consolidated_definition": "In baseball, a ball in flight.\n\nNota: En este caso, \"beisbol\" se mantiene en su forma original ya que es un término cultural específico de Puerto Rico y Estados Unidos, pero no hay necesidad de traducirlo para mantener el contexto. Sin embargo, si fuera necesario, la traducción sería \"baseball\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, pelota que va por el aire."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a ball in flight.\n\nNota: En este caso, \"beisbol\" se mantiene en su forma original ya que es un término cultural específico de Puerto Rico y Estados Unidos, pero no hay necesidad de traducirlo para mantener el contexto. Sin embargo, si fuera necesario, la traducción sería \"baseball\"."
+  ],
   "source": "https://tesoro.pr"
 }

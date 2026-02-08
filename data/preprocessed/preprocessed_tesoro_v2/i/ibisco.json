@@ -3,9 +3,12 @@
   "term": "ibisco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver hibisco",
+      "consolidated_definition": "Ver hibisco .",
+      "en_consolidated_definition": "See hibiscus.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver hibisco"
+    "Ver hibisco ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See hibiscus."
+  ],
   "source": "https://tesoro.pr"
 }

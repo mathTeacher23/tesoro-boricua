@@ -3,9 +3,12 @@
   "term": "procurar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Buscar a alguien",
+      "consolidated_definition": "Buscar a alguien. Preguntar por alguien.",
+      "en_consolidated_definition": "To seek out someone. To inquire about someone's whereabouts or status.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Buscar a alguien"
+    "Buscar a alguien. Preguntar por alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To seek out someone. To inquire about someone's whereabouts or status."
+  ],
   "source": "https://tesoro.pr"
 }

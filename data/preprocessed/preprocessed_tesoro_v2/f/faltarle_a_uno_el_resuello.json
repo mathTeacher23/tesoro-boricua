@@ -3,15 +3,18 @@
   "term": "faltarle a uno el resuello",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Morirse",
+      "consolidated_definition": "En México, morir se refiere a la pérdida total del aliento o respiración.",
+      "en_consolidated_definition": "In Mexico, to die refers to the total loss of breath or respiration.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4821",
         "semantic_similarity_score": 0.4821,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "locución verbal"
         ],
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Morirse"
+    "En México, morir se refiere a la pérdida total del aliento o respiración."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In Mexico, to die refers to the total loss of breath or respiration."
+  ],
   "source": "https://tesoro.pr"
 }

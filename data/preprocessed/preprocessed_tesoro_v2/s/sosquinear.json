@@ -3,9 +3,12 @@
   "term": "sosquinear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "poner un mueble en ángulo algo",
+      "consolidated_definition": "Poner un mueble en ángulo obtuso con la pared.",
+      "en_consolidated_definition": "Place a piece of furniture at an obtuse angle to the wall.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "poner un mueble en ángulo algo"
+    "Poner un mueble en ángulo obtuso con la pared."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Place a piece of furniture at an obtuse angle to the wall."
+  ],
   "source": "https://tesoro.pr"
 }

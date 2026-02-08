@@ -3,15 +3,18 @@
   "term": "batear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el juego de pelota, batear es el acto de dar con el bate a la pelota.",
+      "consolidated_definition": "En el juego de pelota, dar con el bate a la pelota.",
+      "en_consolidated_definition": "To hit the ball with a bat in the game of pelota.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6345",
-        "semantic_similarity_score": 0.6345,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -49,22 +52,23 @@
           "bateo"
         ],
         "reference_definitions": [
-          ". En el juego de pelota, dar a la pelota con el bate. “No se aprende a jugar ‘base ball’....; se aprende lanzando, cogiendo y bateando la pelota.” José Padín, Tengo sobrados motivos..., 1933. “A unos bateadores tan peligrosos.” R. Viterbo Luciano, “De Ponce a San Juan”, El Mundo, núm. del 3 de noviembre de 1934.",
-          "dep. Dar a la pelota con el bate en el juego de béisbol. Usual. DRAE: desde 1984. Batear una bola a noventa millas por hora, o hacer contacto con una curva —algo todavía más difícil— requiere una destreza rarísima ()",
           "En el juego de pelota, dar con el bate a la pelota."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "\"Acertar sin preparación\": acción de lograr un resultado o respuesta correcta en una situación sin haber tenido previa información o conocimiento sobre el tema en cuestión.",
+      "consolidated_definition": "Acertar alguien sin preparación las preguntas formuladas en un examen o en otra circunstancia.",
+      "en_consolidated_definition": "To answer correctly without preparation the questions posed in an examination or in another circumstance.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4759",
-        "semantic_similarity_score": 0.4759,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -90,17 +94,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Acertar alguien sin preparación las preguntas formuladas en un examen o en otra circunstancia.",
-          "Responder certeramente a una pregunta o a un comentario.",
-          "Vencer o superar una prueba exitosamente."
+          "Acertar alguien sin preparación las preguntas formuladas en un examen o en otra circunstancia."
         ]
       }
     }
   },
   "es_definitions": [
-    "En el juego de pelota, batear es el acto de dar con el bate a la pelota.",
-    "\"Acertar sin preparación\": acción de lograr un resultado o respuesta correcta en una situación sin haber tenido previa información o conocimiento sobre el tema en cuestión."
+    "En el juego de pelota, dar con el bate a la pelota.",
+    "Acertar alguien sin preparación las preguntas formuladas en un examen o en otra circunstancia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To hit the ball with a bat in the game of pelota.",
+    "To answer correctly without preparation the questions posed in an examination or in another circumstance.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

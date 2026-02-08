@@ -3,12 +3,15 @@
   "term": "encanastar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el baloncesto, relacionado con una calificación",
+      "consolidated_definition": "En el baloncesto, encestar y anotar punto.",
+      "en_consolidated_definition": "To score and register a point in basketball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -40,15 +43,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En el baloncesto, encestar y anotar punto.",
           "En el baloncesto, encestar y anotar punto."
         ]
       }
     }
   },
   "es_definitions": [
-    "En el baloncesto, relacionado con una calificación"
+    "En el baloncesto, encestar y anotar punto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To score and register a point in basketball."
+  ],
   "source": "https://tesoro.pr"
 }

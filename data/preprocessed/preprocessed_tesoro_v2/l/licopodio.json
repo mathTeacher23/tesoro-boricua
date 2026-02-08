@@ -3,9 +3,12 @@
   "term": "licopodio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Polvo amarillento que repele el agua y es",
+      "consolidated_definition": "Polvo amarillento que repele el agua y es altamente inflamable.",
+      "en_consolidated_definition": "Yellowish powder that repels water and is highly flammable.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Polvo amarillento que repele el agua y es"
+    "Polvo amarillento que repele el agua y es altamente inflamable."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Yellowish powder that repels water and is highly flammable."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "estola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bufanda",
+      "consolidated_definition": "Bufanda.",
+      "en_consolidated_definition": "Scarf \n\nNota: En algunos contextos, \"bufanda\" puede referirse a una prenda de vestir similar a un pañuelo o un gorro, especialmente en el norte de Puerto Rico, donde se conoce como \"bufanda\" a una prenda que cubre la cabeza y las orejas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bufanda"
+    "Bufanda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Scarf \n\nNota: En algunos contextos, \"bufanda\" puede referirse a una prenda de vestir similar a un pañuelo o un gorro, especialmente en el norte de Puerto Rico, donde se conoce como \"bufanda\" a una prenda que cubre la cabeza y las orejas."
+  ],
   "source": "https://tesoro.pr"
 }

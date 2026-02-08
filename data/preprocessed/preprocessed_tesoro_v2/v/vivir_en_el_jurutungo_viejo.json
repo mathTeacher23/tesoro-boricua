@@ -3,9 +3,12 @@
   "term": "vivir en el jurutungo viejo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vivir muy lejos",
+      "consolidated_definition": "Vivir muy lejos.",
+      "en_consolidated_definition": "Residir a gran distancia.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Vivir muy lejos"
+    "Vivir muy lejos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Residir a gran distancia."
+  ],
   "source": "https://tesoro.pr"
 }

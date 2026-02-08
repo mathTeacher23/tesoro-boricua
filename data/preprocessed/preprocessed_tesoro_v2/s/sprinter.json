@@ -3,9 +3,12 @@
   "term": "sprinter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Corredor veloz",
+      "consolidated_definition": "Corredor veloz.",
+      "en_consolidated_definition": "Fast runner or swift pedestrian.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Corredor veloz"
+    "Corredor veloz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fast runner or swift pedestrian."
+  ],
   "source": "https://tesoro.pr"
 }

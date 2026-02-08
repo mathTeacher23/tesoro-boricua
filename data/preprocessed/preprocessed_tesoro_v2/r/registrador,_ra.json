@@ -3,9 +3,12 @@
   "term": "registrador, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Secretario general de una universidad a cargo del",
+      "consolidated_definition": "Secretario general de una universidad a cargo del registro de estudiantes.",
+      "en_consolidated_definition": "Vice Chancellor for Student Affairs at a university responsible for the registration of students.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Secretario general de una universidad a cargo del"
+    "Secretario general de una universidad a cargo del registro de estudiantes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Vice Chancellor for Student Affairs at a university responsible for the registration of students."
+  ],
   "source": "https://tesoro.pr"
 }

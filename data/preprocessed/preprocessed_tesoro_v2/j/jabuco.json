@@ -3,15 +3,18 @@
   "term": "jabuco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Canasta pequeña",
+      "consolidated_definition": "Una canasta es un recipiente pequeño hecho de bejucos, utilizado por los indígenas para diversos menesteres.",
+      "en_consolidated_definition": "A basket is a small container made of vines, used by the indigenous people for various purposes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.7655",
         "semantic_similarity_score": 0.7655,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -54,8 +57,10 @@
     }
   },
   "es_definitions": [
-    "Canasta pequeña"
+    "Una canasta es un recipiente pequeño hecho de bejucos, utilizado por los indígenas para diversos menesteres."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A basket is a small container made of vines, used by the indigenous people for various purposes."
+  ],
   "source": "https://tesoro.pr"
 }

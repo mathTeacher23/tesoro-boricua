@@ -3,15 +3,18 @@
   "term": "cáncamo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llagua de los caballos: llaga o herida en la pata de un caballo, generalmente causada por un objeto afilado o una lesión.",
+      "consolidated_definition": "Llaga de los caballos. También matadura.",
+      "en_consolidated_definition": "Gall or galled sore of horses. Also known as a galled wound.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Soga fuerte: tipo de soga con gran resistencia y fuerza, generalmente utilizada para realizar tareas pesadas o en entornos donde se requiere un alto nivel de seguridad.",
+      "consolidated_definition": "Soga fuerte.",
+      "en_consolidated_definition": "Strong cord or rope.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Llagua de los caballos: llaga o herida en la pata de un caballo, generalmente causada por un objeto afilado o una lesión.",
-    "Soga fuerte: tipo de soga con gran resistencia y fuerza, generalmente utilizada para realizar tareas pesadas o en entornos donde se requiere un alto nivel de seguridad."
+    "Llaga de los caballos. También matadura.",
+    "Soga fuerte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gall or galled sore of horses. Also known as a galled wound.",
+    "Strong cord or rope."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "king",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el juego cuarti-chole el término king se",
+      "consolidated_definition": "En el juego cuarti-chole el término king se refiere a un yac montado sobre otro.",
+      "en_consolidated_definition": "In the game cuarticho, the term king refers to a yac mounted on top of another.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el juego cuarti-chole el término king se"
+    "En el juego cuarti-chole el término king se refiere a un yac montado sobre otro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the game cuarticho, the term king refers to a yac mounted on top of another."
+  ],
   "source": "https://tesoro.pr"
 }

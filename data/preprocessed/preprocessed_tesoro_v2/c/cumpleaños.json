@@ -3,15 +3,18 @@
   "term": "cumpleaños",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El aniversario de la muerte de una persona, especialmente celebrado con la recitación de tres tercios del rosario.",
+      "consolidated_definition": "Aniversario de muerte de una persona en el que se rezan tres tercios de rosario.",
+      "en_consolidated_definition": "Anniversary of death of a person in which three thirds of the rosary are recited.\n\nNota: En este contexto, \"tercios\" se refiere a los tres tercios del rosario que se rezan en la tradición católica puertorriqueña.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "El aniversario de la muerte de una persona, especialmente celebrado con la recitación de tres tercios del rosario."
+    "Aniversario de muerte de una persona en el que se rezan tres tercios de rosario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Anniversary of death of a person in which three thirds of the rosary are recited.\n\nNota: En este contexto, \"tercios\" se refiere a los tres tercios del rosario que se rezan en la tradición católica puertorriqueña."
+  ],
   "source": "https://tesoro.pr"
 }

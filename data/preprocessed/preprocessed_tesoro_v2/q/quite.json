@@ -3,9 +3,12 @@
   "term": "quite",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el juego de azar",
+      "consolidated_definition": "En el juego de azar, desquite, revancha.",
+      "en_consolidated_definition": "Revenge match, rematch.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cosa fácil de ejecutar",
+      "consolidated_definition": "Cosa fácil de ejecutar.",
+      "en_consolidated_definition": "Something easily executed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "En el juego de azar",
-    "Cosa fácil de ejecutar"
+    "En el juego de azar, desquite, revancha.",
+    "Cosa fácil de ejecutar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Revenge match, rematch.",
+    "Something easily executed."
+  ],
   "source": "https://tesoro.pr"
 }

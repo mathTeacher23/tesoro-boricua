@@ -3,9 +3,12 @@
   "term": "meneo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Primer desyerbo del tabacal",
+      "consolidated_definition": "Primer desyerbo del tabacal.",
+      "en_consolidated_definition": "First sprout of the tobacco plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Manipulaciones por trasmano",
+      "consolidated_definition": "Manipulaciones por trasmano. Chanchullos ocultos.",
+      "en_consolidated_definition": "Hidden dealings or clandestine schemes involving the transfer of goods or services.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,9 +83,12 @@
     }
   },
   "es_definitions": [
-    "Primer desyerbo del tabacal",
-    "Manipulaciones por trasmano"
+    "Primer desyerbo del tabacal.",
+    "Manipulaciones por trasmano. Chanchullos ocultos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "First sprout of the tobacco plant.",
+    "Hidden dealings or clandestine schemes involving the transfer of goods or services."
+  ],
   "source": "https://tesoro.pr"
 }

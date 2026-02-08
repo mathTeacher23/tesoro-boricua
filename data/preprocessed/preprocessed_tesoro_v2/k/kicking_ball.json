@@ -3,9 +3,12 @@
   "term": "kicking ball",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Juego que consiste en golpear con el pie",
+      "consolidated_definition": "Juego que consiste en golpear con el pie la bola que envía el lanzador, parecido al juego de pelota pero sin bate.",
+      "en_consolidated_definition": "Game in which the ball is kicked with the foot by the batter, similar to baseball but without a bat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Juego que consiste en golpear con el pie"
+    "Juego que consiste en golpear con el pie la bola que envía el lanzador, parecido al juego de pelota pero sin bate."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Game in which the ball is kicked with the foot by the batter, similar to baseball but without a bat."
+  ],
   "source": "https://tesoro.pr"
 }

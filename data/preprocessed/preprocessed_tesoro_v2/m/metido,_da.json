@@ -3,14 +3,17 @@
   "term": "metido, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Borracho",
+      "consolidated_definition": "Referido a persona, ligeramente borracha.",
+      "en_consolidated_definition": "Referido a persona, ligeramente ebria o intoxicada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5884",
-        "semantic_similarity_score": 0.5884,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -50,22 +53,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Borracho. Calamocano. “¿Borracho yo? —Sí. —El que está metido eres tú.” Zeno Gandía, La charca, 1893, cap. X.",
-          "Borracho.",
-          "Metío, ‘entremetido’. El término se aplica más en el sentido de borrachera. Metido en palos, ‘un poco borracho’.",
           "Referido a persona, ligeramente borracha."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ". Entremetido. Ac.",
+      "consolidated_definition": "Referido a persona, entremetida, que se mete donde no la llaman.",
+      "en_consolidated_definition": "Referring to a person, meddlesome, who inserts themselves where they are not invited.\n\nNota: En este contexto, \"entremetida\" se refiere a una persona que se mete en asuntos ajenos o que se comporta de manera intrusiva. La traducción busca mantener el significado exacto y el tono formal adecuado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5203",
-        "semantic_similarity_score": 0.5203,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -108,19 +111,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Entremetido. Ac.",
-          "Entremetío.",
-          "Persona que trata de enterarse de todo.",
-          "‘Entrometido.’ Malaret.",
           "Referido a persona, entremetida, que se mete donde no la llaman."
         ]
       }
     }
   },
   "es_definitions": [
-    "Borracho",
-    ". Entremetido. Ac."
+    "Referido a persona, ligeramente borracha.",
+    "Referido a persona, entremetida, que se mete donde no la llaman."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a persona, ligeramente ebria o intoxicada.",
+    "Referring to a person, meddlesome, who inserts themselves where they are not invited.\n\nNota: En este contexto, \"entremetida\" se refiere a una persona que se mete en asuntos ajenos o que se comporta de manera intrusiva. La traducción busca mantener el significado exacto y el tono formal adecuado para un diccionario."
+  ],
   "source": "https://tesoro.pr"
 }

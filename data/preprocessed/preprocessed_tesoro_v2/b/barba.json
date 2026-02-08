@@ -3,15 +3,18 @@
   "term": "barba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El tejido fibroso de la palma.",
+      "consolidated_definition": "Raspajo del coco que no llega a granar.",
+      "en_consolidated_definition": "Coco husk that does not reach maturity or ripeness.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5485",
-        "semantic_similarity_score": 0.5485,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,17 +47,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El tejido que envuelve el tronco del cocotero recibió en varios lugares el nombre de hollejo .... Otros emplearon formas particulares que componen una abundante serie, en la cual acaso figuran ejemplos de mera aplicación ocasional: barba, Trujillo Alto.",
-          "Tejido fibroso de la palma.",
-          "Raspajo del coco que no llega a granar.",
-          "Tejido fibroso de la palma."
+          "Raspajo del coco que no llega a granar."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Barba: parte superior del mango de un cuchillo o herramienta afilada, que se encuentra en la zona más cercana a la hoja.",
+      "en_consolidated_definition": "Blade guard or bolster: the upper portion of a knife or tool's handle, located closest to the blade.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -100,15 +103,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Carnosidad roja en la parte inferior de la cabeza del gallo, que se elimina durante el proceso de acondicionamiento para peleas.",
+      "consolidated_definition": "Carnosidad roja en la parte inferior de la cabeza del gallo que se le corta para acondicionarlo a la pelea.",
+      "en_consolidated_definition": "Red comb or red hackle in the lower part of a rooster's head that is cut to condition it for fighting.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.799",
-        "semantic_similarity_score": 0.799,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -138,21 +144,23 @@
           "desbarbar"
         ],
         "reference_definitions": [
-          "Carnosidad roja en una parte inferior de la cabeza del gallo, de color rojo vivo, que se le corta al acondicionarlo para pelear.",
           "Carnosidad roja en la parte inferior de la cabeza del gallo que se le corta para acondicionarlo a la pelea."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "La quijada.",
+      "consolidated_definition": "Ver quijada 1 .",
+      "en_consolidated_definition": "See jaw 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -167,11 +175,16 @@
     }
   },
   "es_definitions": [
-    "El tejido fibroso de la palma.",
+    "Raspajo del coco que no llega a granar.",
     "Barba: parte superior del mango de un cuchillo o herramienta afilada, que se encuentra en la zona más cercana a la hoja.",
-    "Carnosidad roja en la parte inferior de la cabeza del gallo, que se elimina durante el proceso de acondicionamiento para peleas.",
-    "La quijada."
+    "Carnosidad roja en la parte inferior de la cabeza del gallo que se le corta para acondicionarlo a la pelea.",
+    "Ver quijada 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coco husk that does not reach maturity or ripeness.",
+    "Blade guard or bolster: the upper portion of a knife or tool's handle, located closest to the blade.",
+    "Red comb or red hackle in the lower part of a rooster's head that is cut to condition it for fighting.",
+    "See jaw 1."
+  ],
   "source": "https://tesoro.pr"
 }

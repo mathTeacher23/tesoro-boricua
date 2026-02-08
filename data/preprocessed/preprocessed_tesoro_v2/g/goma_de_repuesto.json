@@ -3,9 +3,12 @@
   "term": "goma de repuesto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver goma de repuesta",
+      "consolidated_definition": "Ver goma de repuesta .",
+      "en_consolidated_definition": "See rubber cement.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver goma de repuesta"
+    "Ver goma de repuesta ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See rubber cement."
+  ],
   "source": "https://tesoro.pr"
 }

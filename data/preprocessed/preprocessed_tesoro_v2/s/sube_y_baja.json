@@ -3,9 +3,12 @@
   "term": "sube y baja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pieza alargada puesta en equilibrio en un punto, relacionado con un grupo",
+      "consolidated_definition": "Pieza alargada puesta en equilibrio en un punto de apoyo, sobre la cual se balancean dos personas sentadas cada una en un extremo.",
+      "en_consolidated_definition": "Extended piece placed in balance on a point of support, upon which two individuals seated at opposite ends are balanced.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pieza alargada puesta en equilibrio en un punto, relacionado con un grupo"
+    "Pieza alargada puesta en equilibrio en un punto de apoyo, sobre la cual se balancean dos personas sentadas cada una en un extremo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extended piece placed in balance on a point of support, upon which two individuals seated at opposite ends are balanced."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "escarpín",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Espuelas de aluminio",
+      "consolidated_definition": "Espuelas de aluminio, cortas, de unos 6 cm, que se le ponen al gallo para la pelea.",
+      "en_consolidated_definition": "Short aluminum spurs, approximately 6 cm in length, attached to a rooster for fighting purposes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6024",
-        "semantic_similarity_score": 0.6024,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -42,17 +45,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Espuelas de aluminio, cortas, de una pulgada y seis centímetros que se le ponen a los gallos.",
-          "Navajitas. “Antiguamente se llegaron a usar navajitas en las patas de los gallos conocidas como escarpines. Se usaron muy poco.” . Hubo quien las describió como espuelas de acero “que se clavaban en un seto y no doblaban”.",
-          "Espuelas de aluminio, cortas, de unos 6 cm, que se le ponen al gallo para la pelea.",
-          "Espolón de los gallos de pelea que antiguamente hacía las veces de espuela."
+          "Espuelas de aluminio, cortas, de unos 6 cm, que se le ponen al gallo para la pelea."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Calzado de punto o de lana",
+      "consolidated_definition": "Calzado de punto o de lana, generalmente en forma de bota, que se pone a los bebés a modo de zapato.",
+      "en_consolidated_definition": "Knitted or woolen footwear, typically in the form of a boot, worn by infants as a shoe substitute.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -87,9 +90,12 @@
     }
   },
   "es_definitions": [
-    "Espuelas de aluminio",
-    "Calzado de punto o de lana"
+    "Espuelas de aluminio, cortas, de unos 6 cm, que se le ponen al gallo para la pelea.",
+    "Calzado de punto o de lana, generalmente en forma de bota, que se pone a los bebés a modo de zapato."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Short aluminum spurs, approximately 6 cm in length, attached to a rooster for fighting purposes.",
+    "Knitted or woolen footwear, typically in the form of a boot, worn by infants as a shoe substitute."
+  ],
   "source": "https://tesoro.pr"
 }

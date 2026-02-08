@@ -3,9 +3,12 @@
   "term": "tortita de calabazas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ciertas frituras hechas de calabazas",
+      "consolidated_definition": "Ciertas frituras hechas de calabazas. También chopaipas.",
+      "en_consolidated_definition": "Certain squash fritters, also known as chopaipas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ciertas frituras hechas de calabazas"
+    "Ciertas frituras hechas de calabazas. También chopaipas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Certain squash fritters, also known as chopaipas."
+  ],
   "source": "https://tesoro.pr"
 }

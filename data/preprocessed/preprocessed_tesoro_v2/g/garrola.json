@@ -3,9 +3,12 @@
   "term": "garrola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prostituta",
+      "consolidated_definition": "Prostituta. También dicen garrolilla.",
+      "en_consolidated_definition": "Prostitute. Also referred to as a garrolilla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Prostituta"
+    "Prostituta. También dicen garrolilla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Prostitute. Also referred to as a garrolilla."
+  ],
   "source": "https://tesoro.pr"
 }

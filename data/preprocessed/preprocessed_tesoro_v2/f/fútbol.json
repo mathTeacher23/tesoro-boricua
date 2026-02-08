@@ -3,9 +3,12 @@
   "term": "fútbol",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Juego de dos equipos que se realiza con",
+      "consolidated_definition": "Juego de dos equipos que se realiza con las manos y pies, muy parecido al rugby.",
+      "en_consolidated_definition": "Game played by two teams using hands and feet, closely resembling rugby.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Juego de dos equipos que se realiza con"
+    "Juego de dos equipos que se realiza con las manos y pies, muy parecido al rugby."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Game played by two teams using hands and feet, closely resembling rugby."
+  ],
   "source": "https://tesoro.pr"
 }

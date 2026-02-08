@@ -3,15 +3,18 @@
   "term": "plantón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enamorado a lo adivino que se pasa haciendo",
+      "consolidated_definition": "Persona que se siente profundamente enamorada y pasa largos períodos esperando a su pareja en la puerta de su hogar, sin saber si será recibida.",
+      "en_consolidated_definition": "Person who feels deeply in love and spends long periods waiting at the door of her home for her partner, without knowing if she will be received.\n\nNota: En este contexto, \"puerta de su hogar\" se refiere a la entrada principal de la casa, que en algunos contextos puertorriqueños puede ser una puerta exterior o una entrada más formal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5028",
         "semantic_similarity_score": 0.5028,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -47,9 +50,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Siembra agrupada de esquejes de ciertas plantas",
+      "consolidated_definition": "Siembra agrupada de esquejes de ciertas plantas, como la yuca.",
+      "en_consolidated_definition": "Clustered planting of cuttings from certain plants, such as cassava.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    "Enamorado a lo adivino que se pasa haciendo",
-    "Siembra agrupada de esquejes de ciertas plantas"
+    "Persona que se siente profundamente enamorada y pasa largos períodos esperando a su pareja en la puerta de su hogar, sin saber si será recibida.",
+    "Siembra agrupada de esquejes de ciertas plantas, como la yuca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who feels deeply in love and spends long periods waiting at the door of her home for her partner, without knowing if she will be received.\n\nNota: En este contexto, \"puerta de su hogar\" se refiere a la entrada principal de la casa, que en algunos contextos puertorriqueños puede ser una puerta exterior o una entrada más formal.",
+    "Clustered planting of cuttings from certain plants, such as cassava."
+  ],
   "source": "https://tesoro.pr"
 }

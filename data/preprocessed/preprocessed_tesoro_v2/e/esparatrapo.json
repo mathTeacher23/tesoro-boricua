@@ -3,9 +3,12 @@
   "term": "esparatrapo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Esparadrapo",
+      "consolidated_definition": "Esparadrapo. Paratrapo.",
+      "en_consolidated_definition": "Band-Aid. Adhesive strip.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Esparadrapo"
+    "Esparadrapo. Paratrapo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Band-Aid. Adhesive strip."
+  ],
   "source": "https://tesoro.pr"
 }

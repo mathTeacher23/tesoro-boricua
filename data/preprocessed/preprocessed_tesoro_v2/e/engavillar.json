@@ -3,9 +3,12 @@
   "term": "engavillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "poner las hojas de tabaco algo",
+      "consolidated_definition": "Poner las hojas de tabaco en mazos.",
+      "en_consolidated_definition": "To bundle or pack the tobacco leaves into bunches.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "poner las hojas de tabaco algo"
+    "Poner las hojas de tabaco en mazos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To bundle or pack the tobacco leaves into bunches."
+  ],
   "source": "https://tesoro.pr"
 }

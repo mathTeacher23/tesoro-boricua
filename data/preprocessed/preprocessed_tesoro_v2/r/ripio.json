@@ -3,15 +3,18 @@
   "term": "ripio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El mismo significado que el raspe",
+      "consolidated_definition": "Recoger lo último de la cosecha u obra.",
+      "en_consolidated_definition": "Harvest the last of the crop or work.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5759",
         "semantic_similarity_score": 0.5759,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -54,9 +57,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Alfajías que se colocan sobre las tijerillas de",
+      "consolidated_definition": "Alfajías que se colocan sobre las tijerillas de un techo y sobre las cuales se clava el zinc.",
+      "en_consolidated_definition": "Roofing tiles that are placed over the ridges of a roof and onto which galvanized metal is nailed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -94,9 +100,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Viruta que deja la acción de ripiar",
+      "consolidated_definition": "Viruta que deja la acción de ripiar.",
+      "en_consolidated_definition": "Residuo que resulta de la acción de ripiar.\n\nNota: Ripiar es un término coloquial en español puertorriqueño que se refiere a la acción de limpiar o despejar una superficie, especialmente en el contexto de la construcción o la reparación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -130,15 +139,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Menudo de dinero",
+      "consolidated_definition": "\"Sobrante\": expresión coloquial que se refiere a una cantidad considerable de dinero.",
+      "en_consolidated_definition": "Surplus: colloquial expression referring to a considerable amount of money.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3494",
         "semantic_similarity_score": 0.3494,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -170,11 +182,16 @@
     }
   },
   "es_definitions": [
-    "El mismo significado que el raspe",
-    "Alfajías que se colocan sobre las tijerillas de",
-    "Viruta que deja la acción de ripiar",
-    "Menudo de dinero"
+    "Recoger lo último de la cosecha u obra.",
+    "Alfajías que se colocan sobre las tijerillas de un techo y sobre las cuales se clava el zinc.",
+    "Viruta que deja la acción de ripiar.",
+    "\"Sobrante\": expresión coloquial que se refiere a una cantidad considerable de dinero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Harvest the last of the crop or work.",
+    "Roofing tiles that are placed over the ridges of a roof and onto which galvanized metal is nailed.",
+    "Residuo que resulta de la acción de ripiar.\n\nNota: Ripiar es un término coloquial en español puertorriqueño que se refiere a la acción de limpiar o despejar una superficie, especialmente en el contexto de la construcción o la reparación.",
+    "Surplus: colloquial expression referring to a considerable amount of money."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "vivir en el fondo del saco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vivir en sitio distante y miserable",
+      "consolidated_definition": "Vivir en sitio distante y miserable.",
+      "en_consolidated_definition": "To reside in a distant and wretched location.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Vivir en sitio distante y miserable"
+    "Vivir en sitio distante y miserable."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To reside in a distant and wretched location."
+  ],
   "source": "https://tesoro.pr"
 }

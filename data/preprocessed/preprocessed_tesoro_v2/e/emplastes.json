@@ -3,9 +3,12 @@
   "term": "emplastes",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ciertos afeites viscosos",
+      "consolidated_definition": "Ciertos afeites viscosos.",
+      "en_consolidated_definition": "Certain viscous cosmetics.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ciertos afeites viscosos"
+    "Ciertos afeites viscosos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Certain viscous cosmetics."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "enjollinarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Permanecer en la casa sin salir a ningún",
+      "consolidated_definition": "No salir de casa a ningún sitio.",
+      "en_consolidated_definition": "Remain at home and not venture out anywhere.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7026",
-        "semantic_similarity_score": 0.7026,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo pronominal"
@@ -40,15 +43,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Permanecer en la casa sin salir a ningún sitio. Se usa en sentido negativo. Malaret trae enfollinarse, enfadarse y emborracharse. Vocabulario, 169.",
           "No salir de casa a ningún sitio."
         ]
       }
     }
   },
   "es_definitions": [
-    "Permanecer en la casa sin salir a ningún"
+    "No salir de casa a ningún sitio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Remain at home and not venture out anywhere."
+  ],
   "source": "https://tesoro.pr"
 }

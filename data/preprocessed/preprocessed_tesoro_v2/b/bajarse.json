@@ -3,15 +3,18 @@
   "term": "bajarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ingerir una cierta cantidad de un líquido.",
+      "consolidated_definition": "Ingerir determinada cantidad de una bebida alcohólica o de cualquier otro líquido.",
+      "en_consolidated_definition": "To ingest a specified amount of an alcoholic beverage or any other liquid.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Ingerir una cierta cantidad de un líquido."
+    "Ingerir determinada cantidad de una bebida alcohólica o de cualquier otro líquido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To ingest a specified amount of an alcoholic beverage or any other liquid.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

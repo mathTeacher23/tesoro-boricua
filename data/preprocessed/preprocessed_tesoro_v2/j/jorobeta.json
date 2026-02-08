@@ -3,14 +3,17 @@
   "term": "jorobeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Molestia",
+      "consolidated_definition": "Ocupación o situación molesta.",
+      "en_consolidated_definition": "Occupation or situation that is annoying or troublesome.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4986",
-        "semantic_similarity_score": 0.4986,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -45,16 +48,16 @@
           "jorobón, na"
         ],
         "reference_definitions": [
-          "Molestia. Jodienda.",
-          "Ocupación o situación molesta.",
-          "Persona que resulta pesada y molesta."
+          "Ocupación o situación molesta."
         ]
       }
     }
   },
   "es_definitions": [
-    "Molestia"
+    "Ocupación o situación molesta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Occupation or situation that is annoying or troublesome."
+  ],
   "source": "https://tesoro.pr"
 }

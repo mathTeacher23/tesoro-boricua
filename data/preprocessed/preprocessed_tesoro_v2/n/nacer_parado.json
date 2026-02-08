@@ -3,9 +3,12 @@
   "term": "nacer parado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tener alguien buena suerte",
+      "consolidated_definition": "Tener alguien buena suerte.",
+      "en_consolidated_definition": "To have good fortune or luck bestowed upon someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Tener alguien buena suerte"
+    "Tener alguien buena suerte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To have good fortune or luck bestowed upon someone."
+  ],
   "source": "https://tesoro.pr"
 }

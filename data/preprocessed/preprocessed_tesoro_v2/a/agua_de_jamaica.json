@@ -3,15 +3,18 @@
   "term": "agua de jamaica",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bebida que se prepara hirviendo flores de Hibiscus sabdariffa en agua con azúcar.",
+      "consolidated_definition": "Bebida que se prepara hirviendo en agua pétalos de flor de jamaica y azúcar.",
+      "en_consolidated_definition": "Drink prepared by infusing hibiscus flower petals in boiling water and sugar.\n\nNota: En este contexto, \"flor de jamaica\" se refiere a la flor del hibisco (Hibiscus sabdariffa), que es una planta común en Puerto Rico y se utiliza para preparar un popular refresco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bebida que se prepara hirviendo flores de Hibiscus sabdariffa en agua con azúcar."
+    "Bebida que se prepara hirviendo en agua pétalos de flor de jamaica y azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Drink prepared by infusing hibiscus flower petals in boiling water and sugar.\n\nNota: En este contexto, \"flor de jamaica\" se refiere a la flor del hibisco (Hibiscus sabdariffa), que es una planta común en Puerto Rico y se utiliza para preparar un popular refresco."
+  ],
   "source": "https://tesoro.pr"
 }

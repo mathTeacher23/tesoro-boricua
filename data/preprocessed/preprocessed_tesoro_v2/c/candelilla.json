@@ -3,15 +3,18 @@
   "term": "candelilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Luciérnaga. Insecto bioluminiscente que emite luz en la oscuridad, comúnmente encontrado en América Latina y España.",
+      "consolidated_definition": "Luciérnaga. Lampyridae; Cladodes ater, Pyractonema nigripennis.",
+      "en_consolidated_definition": "Firefly; Lampyridae; Cladodes ater, Pyractonema nigripennis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4966",
-        "semantic_similarity_score": 0.4966,
-        "cluster_count": 6,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -59,25 +62,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(T. en Col., C. Rica, Cuba, Chile, Ecuad., y Hond.). Luciérnaga. Ac. (En España llaman candela al Lampyris noctiluca. Baráibar).",
-          "Luciérnaga (jíbaro). Insecto pequeño y negro que vive en ciertos árboles, como el laurel de la India, etc. Otras voces: piojo, piojillo, bichillo.",
-          "Insecto de casco duro y negro; se cría en ciertos árboles como el laurel de la India. Es del tamaño de una hormiga. En los ojos, arde extremadamente. También llamado piojo, piojillo de palo y bichillo.",
-          "Pequeño insecto negro del laurel de la India; piojo, piojillo, bichillo.",
-          "Luciérnaga.",
           "Luciérnaga. Lampyridae; Cladodes ater, Pyractonema nigripennis."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Candelita: pequeño objeto iluminador, similar a una vela o candelabro de tamaño reducido.",
+      "consolidated_definition": "Candelita. Juego infantil.",
+      "en_consolidated_definition": "Candlelight Game. Children's game.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -106,14 +107,17 @@
     },
     "3": {
       "consolidated_definition": "Luz o reflejo que produce el agua.",
+      "en_consolidated_definition": "Light or reflection produced by water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -141,17 +145,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Luz o reflejo que produce el agua.",
           "Luz o reflejo que produce el agua."
         ]
       }
     }
   },
   "es_definitions": [
-    "Luciérnaga. Insecto bioluminiscente que emite luz en la oscuridad, comúnmente encontrado en América Latina y España.",
-    "Candelita: pequeño objeto iluminador, similar a una vela o candelabro de tamaño reducido.",
+    "Luciérnaga. Lampyridae; Cladodes ater, Pyractonema nigripennis.",
+    "Candelita. Juego infantil.",
     "Luz o reflejo que produce el agua."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Firefly; Lampyridae; Cladodes ater, Pyractonema nigripennis.",
+    "Candlelight Game. Children's game.",
+    "Light or reflection produced by water."
+  ],
   "source": "https://tesoro.pr"
 }

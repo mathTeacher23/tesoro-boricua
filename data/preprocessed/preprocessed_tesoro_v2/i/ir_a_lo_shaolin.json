@@ -3,9 +3,12 @@
   "term": "ir a lo shaolin",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Efectuar algo sin ser visto ni escuchado",
+      "consolidated_definition": "Efectuar algo sin ser visto ni escuchado.",
+      "en_consolidated_definition": "Operar algo en secreto o sin ser percibido.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Efectuar algo sin ser visto ni escuchado"
+    "Efectuar algo sin ser visto ni escuchado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Operar algo en secreto o sin ser percibido."
+  ],
   "source": "https://tesoro.pr"
 }

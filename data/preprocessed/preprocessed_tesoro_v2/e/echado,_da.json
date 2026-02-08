@@ -3,14 +3,17 @@
   "term": "echado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acomodado en un puesto de gobierno bien retribuido",
+      "consolidated_definition": "Referido a persona, acomodada en un puesto gubernamental descansado y bien retribuido.",
+      "en_consolidated_definition": "Referido a person, accommodated in a government position that is well-compensated and offers a comfortable lifestyle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6104",
-        "semantic_similarity_score": 0.6104,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -40,15 +43,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Acomodado en un puesto de gobierno bien retribuido; una especie de canongía.",
           "Referido a persona, acomodada en un puesto gubernamental descansado y bien retribuido."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, que muestra lentitud o falta de ganas al actuar.",
+      "en_consolidated_definition": "Relativo a una persona que demuestra lentitud o falta de entusiasmo en su actuación.\n\nNota: Esta expresión puede ser utilizada para describir a alguien que se caracteriza por actuar con poca energía o interés, lo cual es comúnmente conocido como \"perezoso\" en inglés. Sin embargo, la traducción literal del término español mantiene el énfasis en la lentitud y falta de ganas, más que en la falta de motivación o interés.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Acomodado en un puesto de gobierno bien retribuido",
-    "Referido a persona"
+    "Referido a persona, acomodada en un puesto gubernamental descansado y bien retribuido.",
+    "Referido a persona, que muestra lentitud o falta de ganas al actuar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a person, accommodated in a government position that is well-compensated and offers a comfortable lifestyle.",
+    "Relativo a una persona que demuestra lentitud o falta de entusiasmo en su actuación.\n\nNota: Esta expresión puede ser utilizada para describir a alguien que se caracteriza por actuar con poca energía o interés, lo cual es comúnmente conocido como \"perezoso\" en inglés. Sin embargo, la traducción literal del término español mantiene el énfasis en la lentitud y falta de ganas, más que en la falta de motivación o interés."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "pieza de café",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cafetal",
+      "consolidated_definition": "Cafetal.",
+      "en_consolidated_definition": "Coffee plantation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Cafetal"
+    "Cafetal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coffee plantation."
+  ],
   "source": "https://tesoro.pr"
 }

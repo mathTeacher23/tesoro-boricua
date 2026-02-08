@@ -3,9 +3,12 @@
   "term": "recorrer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En carpintería",
+      "consolidated_definition": "En carpintería, cepillar levemente el canto de la madera o de una ventana o puerta para ajustarla al marco.",
+      "en_consolidated_definition": "To lightly plane the edge of wood or a window or door to adjust it to its frame in carpentry.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En carpintería"
+    "En carpintería, cepillar levemente el canto de la madera o de una ventana o puerta para ajustarla al marco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To lightly plane the edge of wood or a window or door to adjust it to its frame in carpentry."
+  ],
   "source": "https://tesoro.pr"
 }

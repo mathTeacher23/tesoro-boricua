@@ -3,9 +3,12 @@
   "term": "glorieta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pabellón abierto y circular que se encuentra en",
+      "consolidated_definition": "Pabellón abierto y circular que se encuentra en el centro de un parque.",
+      "en_consolidated_definition": "Circular pavilion located in the center of a park.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pabellón abierto y circular que se encuentra en"
+    "Pabellón abierto y circular que se encuentra en el centro de un parque."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Circular pavilion located in the center of a park."
+  ],
   "source": "https://tesoro.pr"
 }

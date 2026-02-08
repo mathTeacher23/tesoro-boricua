@@ -3,9 +3,12 @@
   "term": "limpiar el capital",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mantener la riqueza ajena con trabajo y esfuerzo",
+      "consolidated_definition": "Mantener la riqueza ajena con trabajo y esfuerzo de los empleados. “Le limpió el capital a X.”",
+      "en_consolidated_definition": "To maintain the wealth of others through the hard work and efforts of employees. \"He cleaned up X's capital.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Mantener la riqueza ajena con trabajo y esfuerzo"
+    "Mantener la riqueza ajena con trabajo y esfuerzo de los empleados. “Le limpió el capital a X.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To maintain the wealth of others through the hard work and efforts of employees. \"He cleaned up X's capital.\""
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,12 +3,15 @@
   "term": "metro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Taxímetro",
+      "consolidated_definition": "Taxímetro.",
+      "en_consolidated_definition": "Taximeter. \n\nNota: En algunos países de América Latina, especialmente en Puerto Rico, se utiliza el término \"taxímetro\" para referirse a un dispositivo que mide las distancias recorridas por un vehículo de transporte público o privado y calcula el costo del viaje según la tarifa establecida.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Taxímetro.",
           "Taxímetro."
         ]
       }
     }
   },
   "es_definitions": [
-    "Taxímetro"
+    "Taxímetro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Taximeter. \n\nNota: En algunos países de América Latina, especialmente en Puerto Rico, se utiliza el término \"taxímetro\" para referirse a un dispositivo que mide las distancias recorridas por un vehículo de transporte público o privado y calcula el costo del viaje según la tarifa establecida."
+  ],
   "source": "https://tesoro.pr"
 }

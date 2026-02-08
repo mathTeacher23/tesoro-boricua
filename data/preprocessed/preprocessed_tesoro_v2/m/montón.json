@@ -3,14 +3,17 @@
   "term": "montón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tierra apiñada en la labranza para sembrar la",
+      "consolidated_definition": "Tierra apiñada en la labranza para sembrar, especialmente yuca.",
+      "en_consolidated_definition": "Pileta de labranza para sembrar, especialmente yuca.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9402",
-        "semantic_similarity_score": 0.9402,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,20 +42,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tierra apiñada en la labranza para sembrar la yuca, etc.",
           "Tierra apiñada en la labranza para sembrar, especialmente yuca."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Órgano sexual femenino",
+      "consolidated_definition": "Promontorio donde se encuentra el órgano sexual femenino.",
+      "en_consolidated_definition": "Promontory where the female reproductive organ is located.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural puertorriqueño, ya que la definición es genérica y se refiere a un concepto biológico universal. Sin embargo, si fuera necesario, podría agregar contexto o información adicional para clarificar el significado en el contexto de la cultura puertorriqueña.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3998",
-        "semantic_similarity_score": 0.3998,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -86,16 +91,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Órgano sexual femenino.",
-          "Chocha. .",
           "Promontorio donde se encuentra el órgano sexual femenino."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Boñiga",
+      "consolidated_definition": "Boñiga. Excremento. También dicen moñingola.",
+      "en_consolidated_definition": "Manure. Excrement. Also referred to as moñingola.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -130,10 +136,14 @@
     }
   },
   "es_definitions": [
-    "Tierra apiñada en la labranza para sembrar la",
-    "Órgano sexual femenino",
-    "Boñiga"
+    "Tierra apiñada en la labranza para sembrar, especialmente yuca.",
+    "Promontorio donde se encuentra el órgano sexual femenino.",
+    "Boñiga. Excremento. También dicen moñingola."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pileta de labranza para sembrar, especialmente yuca.",
+    "Promontory where the female reproductive organ is located.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural puertorriqueño, ya que la definición es genérica y se refiere a un concepto biológico universal. Sin embargo, si fuera necesario, podría agregar contexto o información adicional para clarificar el significado en el contexto de la cultura puertorriqueña.",
+    "Manure. Excrement. Also referred to as moñingola."
+  ],
   "source": "https://tesoro.pr"
 }

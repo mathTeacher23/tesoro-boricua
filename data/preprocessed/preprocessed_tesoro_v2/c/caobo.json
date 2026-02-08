@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Caoba: Árbol tropical de la familia de las meliáceas.",
+      "en_consolidated_definition": "Mahogany: Tropical tree of the Meliaceae family.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -51,15 +54,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "El órgano sexual masculino es el caído o miembro viril, variante: caoba.",
+      "consolidated_definition": "Órgano sexual masculino. Variante: caoba.",
+      "en_consolidated_definition": "Male reproductive organ. Variant: caoba.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -89,8 +95,11 @@
   },
   "es_definitions": [
     "Caoba: Árbol tropical de la familia de las meliáceas.",
-    "El órgano sexual masculino es el caído o miembro viril, variante: caoba."
+    "Órgano sexual masculino. Variante: caoba."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mahogany: Tropical tree of the Meliaceae family.",
+    "Male reproductive organ. Variant: caoba."
+  ],
   "source": "https://tesoro.pr"
 }

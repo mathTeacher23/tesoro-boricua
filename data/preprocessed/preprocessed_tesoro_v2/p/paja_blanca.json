@@ -3,9 +3,12 @@
   "term": "paja blanca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte de la escoba que es la que",
+      "consolidated_definition": "Parte de la escoba … que es la que cubre el abono.",
+      "en_consolidated_definition": "Part of the broom that covers the fertilizer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Parte de la escoba que es la que cubre el abono."
+          "Parte de la escoba … que es la que cubre el abono."
         ]
       }
     }
   },
   "es_definitions": [
-    "Parte de la escoba que es la que"
+    "Parte de la escoba … que es la que cubre el abono."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Part of the broom that covers the fertilizer."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mamita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer muy hermosa",
+      "consolidated_definition": "Mujer muy hermosa.",
+      "en_consolidated_definition": "Beautiful woman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Se usa para dirigirse a la novia o",
+      "consolidated_definition": "Se usa para dirigirse a la novia o a la esposa, o a una niña pequeña de forma afectiva si el que habla es un adulto.",
+      "en_consolidated_definition": "It is used to address a fiancée or wife, or a young girl in an affectionate manner if the speaker is an adult.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Se usa entre mujeres para llamar a una",
+      "consolidated_definition": "Se usa entre mujeres para llamar a una niña o a otra mujer.",
+      "en_consolidated_definition": "This term is used among women to address a girl or another woman.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -112,10 +121,14 @@
     }
   },
   "es_definitions": [
-    "Mujer muy hermosa",
-    "Se usa para dirigirse a la novia o",
-    "Se usa entre mujeres para llamar a una"
+    "Mujer muy hermosa.",
+    "Se usa para dirigirse a la novia o a la esposa, o a una niña pequeña de forma afectiva si el que habla es un adulto.",
+    "Se usa entre mujeres para llamar a una niña o a otra mujer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Beautiful woman.",
+    "It is used to address a fiancée or wife, or a young girl in an affectionate manner if the speaker is an adult.",
+    "This term is used among women to address a girl or another woman.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

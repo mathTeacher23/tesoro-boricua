@@ -3,15 +3,18 @@
   "term": "flecha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pértiga",
+      "consolidated_definition": "Pértiga, lanza del carro o vehículo de carga.",
+      "en_consolidated_definition": "Pólder, pole of a cargo vehicle or carriage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5456",
-        "semantic_similarity_score": 0.5456,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5668",
+        "semantic_similarity_score": 0.5668,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -54,22 +57,25 @@
         "related_words": [],
         "reference_definitions": [
           "Pértiga, lanza del carro.",
-          "El timón del arado recibió varias denominaciones repartidas con visible orden geográfico en el sur, flecha, Magueyes, Palmarejo, Salinas.",
-          "Respecto al carro , en Duey, Palmarejo y Comerío se registró la denominación de flecha.",
+          "El timón del arado recibió varias denominaciones repartidas con visible orden geográfico ... en el sur, flecha, Magueyes, Palmarejo, Salinas.",
+          "Respecto al carro de yunta, en Duey, Palmarejo y Comerío se registró la denominación de flecha.",
           ". Por el sur y sureste central del país, nombre de la pértiga o lanza del carro de bueyes; la pieza que une el carro con los bueyes.",
           "Lanza del carruaje de caballos o del carro de mano."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Tirapiedras",
+      "consolidated_definition": "Juguete similar a una honda.",
+      "en_consolidated_definition": "Slingshot-like toy.\n\nNota: La palabra \"honda\" se refiere a un tipo de lanzadera utilizada en Puerto Rico y otros lugares de América Latina, similar a una slingshot.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5248",
-        "semantic_similarity_score": 0.5248,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -98,15 +104,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tirapiedras. Especie de juguete usado para perseguir aves pequeñas y para lanzarles piedras. También tirijala, honda.",
           "Juguete similar a una honda."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Parte de la grúa que sube la caña",
+      "consolidated_definition": "Parte de la grúa que sube la caña.",
+      "en_consolidated_definition": "Boom hoist section \n\nNota: En este caso, \"caña\" se refiere a la parte de la grúa que se utiliza para levantar objetos o materiales, y no al instrumento musical.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -141,10 +149,14 @@
     }
   },
   "es_definitions": [
-    "Pértiga",
-    "Tirapiedras",
-    "Parte de la grúa que sube la caña"
+    "Pértiga, lanza del carro o vehículo de carga.",
+    "Juguete similar a una honda.",
+    "Parte de la grúa que sube la caña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pólder, pole of a cargo vehicle or carriage.",
+    "Slingshot-like toy.\n\nNota: La palabra \"honda\" se refiere a un tipo de lanzadera utilizada en Puerto Rico y otros lugares de América Latina, similar a una slingshot.",
+    "Boom hoist section \n\nNota: En este caso, \"caña\" se refiere a la parte de la grúa que se utiliza para levantar objetos o materiales, y no al instrumento musical."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tirar el sacho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Anclar",
+      "consolidated_definition": "Anclar.",
+      "en_consolidated_definition": "To moor.\n\nNota: En este contexto, \"anclar\" se refiere a la acción de fijar un barco o una embarcación en un lugar específico utilizando un ancla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Anclar"
+    "Anclar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To moor.\n\nNota: En este contexto, \"anclar\" se refiere a la acción de fijar un barco o una embarcación en un lugar específico utilizando un ancla."
+  ],
   "source": "https://tesoro.pr"
 }

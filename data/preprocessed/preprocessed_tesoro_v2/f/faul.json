@@ -3,9 +3,12 @@
   "term": "faul",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En una competencia deportiva",
+      "consolidated_definition": "En una competencia deportiva, infracción del reglamento consistente en una entrada brusca de un jugador contra un rival.",
+      "en_consolidated_definition": "In a competitive sporting event, infraction of the rules consisting in a sudden entry by a player against an opponent.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En una competencia deportiva"
+    "En una competencia deportiva, infracción del reglamento consistente en una entrada brusca de un jugador contra un rival."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In a competitive sporting event, infraction of the rules consisting in a sudden entry by a player against an opponent."
+  ],
   "source": "https://tesoro.pr"
 }

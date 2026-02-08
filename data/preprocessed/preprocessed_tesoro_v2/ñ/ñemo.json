@@ -3,9 +3,12 @@
   "term": "ñemo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Niño pequeño",
+      "consolidated_definition": "Niño pequeño.",
+      "en_consolidated_definition": "Young child.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, cobarde.",
+      "en_consolidated_definition": "Despreciable; persona cobarde.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,9 +83,12 @@
     }
   },
   "es_definitions": [
-    "Niño pequeño",
-    "Referido a persona"
+    "Niño pequeño.",
+    "Referido a persona, cobarde."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Young child.",
+    "Despreciable; persona cobarde."
+  ],
   "source": "https://tesoro.pr"
 }

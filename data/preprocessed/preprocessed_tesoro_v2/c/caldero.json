@@ -3,15 +3,18 @@
   "term": "caldero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una olla es un objeto de metal, pesado y generalmente sin tapa, utilizada para cocinar alimentos en el fuego.",
+      "consolidated_definition": "Olla de hierro o de acero colado para cocer el arroz.",
+      "en_consolidated_definition": "Iron pot or cast iron vessel for cooking rice.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "num_cleaned_definitions": 9,
-        "definition_stability": "Stability: 0.5104",
-        "semantic_similarity_score": 0.5104,
-        "cluster_count": 9,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -70,22 +73,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(general). Cazuela sólida de metal, pesada y generalmente sin tapa.",
-          "Olla de aluminio, contrario al este de la Isla donde el caldero es la olla de hierro colado en la que se cuece el arroz. En Canarias también es la olla de aluminio. Alvar, Tenerife, 144.",
-          "La olla grande y pesada, generalmente de hierro. También olla.",
-          "De un metal más grueso que la olla; su fondo es ovalado y se usa para hervir arroz.",
-          ". Olla de aluminio.",
-          "(Otras partes de la Isla). Olla de hierro, de suelo casi semiesférico o cazuela sólida de metal, pesada y generalmente sin tapa.",
-          "Olla.",
-          "Cazuela sólida de metal.",
           "Olla de hierro o de acero colado para cocer el arroz."
         ]
       }
     }
   },
   "es_definitions": [
-    "Una olla es un objeto de metal, pesado y generalmente sin tapa, utilizada para cocinar alimentos en el fuego."
+    "Olla de hierro o de acero colado para cocer el arroz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Iron pot or cast iron vessel for cooking rice."
+  ],
   "source": "https://tesoro.pr"
 }

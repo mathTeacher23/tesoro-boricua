@@ -3,14 +3,17 @@
   "term": "nublazón",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Nublado, cerrazón.",
+      "consolidated_definition": "Nubosidad.",
+      "en_consolidated_definition": "Cloudiness.\n\nNota: Si se refiere a una nubosidad específica de Puerto Rico, como \"nubosidad de tormenta\" o \"nubosidad de montaña\", por favor proporciona más contexto para una traducción precisa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5401",
-        "semantic_similarity_score": 0.5401,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,22 +49,23 @@
           "nublado"
         ],
         "reference_definitions": [
-          ". Nublado, cerrazón.",
-          "Cielo cubierto de nubes cargadas de lluvia.",
           "Nubosidad."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Confusión en las ideas",
+      "consolidated_definition": "La confusión mental se refiere a un estado de turbación o desorientación que afecta tanto la claridad de las ideas como la capacidad de recordar información.",
+      "en_consolidated_definition": "Mental confusion refers to a state of turmoil or disorientation that affects both the clarity of ideas and the ability to recall information.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si necesitas traducir otros términos, por favor házmelo saber.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.416",
         "semantic_similarity_score": 0.416,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -95,9 +99,12 @@
     }
   },
   "es_definitions": [
-    ". Nublado, cerrazón.",
-    "Confusión en las ideas"
+    "Nubosidad.",
+    "La confusión mental se refiere a un estado de turbación o desorientación que afecta tanto la claridad de las ideas como la capacidad de recordar información."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cloudiness.\n\nNota: Si se refiere a una nubosidad específica de Puerto Rico, como \"nubosidad de tormenta\" o \"nubosidad de montaña\", por favor proporciona más contexto para una traducción precisa.",
+    "Mental confusion refers to a state of turmoil or disorientation that affects both the clarity of ideas and the ability to recall information.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si necesitas traducir otros términos, por favor házmelo saber."
+  ],
   "source": "https://tesoro.pr"
 }

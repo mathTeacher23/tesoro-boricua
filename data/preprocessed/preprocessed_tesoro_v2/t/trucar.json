@@ -3,14 +3,17 @@
   "term": "trucar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En el beisbol, lanzar el pícher tres bolas al bateador sin que este logre batear.",
+      "en_consolidated_definition": "In baseball, to pitch three balls to the batter without him hitting any of them.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6924",
-        "semantic_similarity_score": 0.6924,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -40,15 +43,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "En béisbol, lanzar el pitcher tres strikes al bateador sin que éste le dé a la pelota. Úsase prnl.",
           "En el beisbol, lanzar el pícher tres bolas al bateador sin que este logre batear."
         ]
       }
     }
   },
   "es_definitions": [
-    "En béisbol"
+    "En el beisbol, lanzar el pícher tres bolas al bateador sin que este logre batear."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, to pitch three balls to the batter without him hitting any of them."
+  ],
   "source": "https://tesoro.pr"
 }

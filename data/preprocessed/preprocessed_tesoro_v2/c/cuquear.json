@@ -3,15 +3,18 @@
   "term": "cuquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La preparación química de una sustancia medicinal o farmacéutica.",
+      "consolidated_definition": "Preparar la droga químicamente, cocinarla.",
+      "en_consolidated_definition": "Prepare the drug chemically, cook it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -42,21 +45,23 @@
           "cuque"
         ],
         "reference_definitions": [
-          "Preparar la droga químicamente, cocinarla.",
           "Preparar la droga químicamente, cocinarla."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Provocar o molestar a una persona o animal.",
+      "consolidated_definition": "Provocar, molestar a una persona o animal.",
+      "en_consolidated_definition": "To provoke or annoy a person or animal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -86,9 +91,12 @@
     }
   },
   "es_definitions": [
-    "La preparación química de una sustancia medicinal o farmacéutica.",
-    "Provocar o molestar a una persona o animal."
+    "Preparar la droga químicamente, cocinarla.",
+    "Provocar, molestar a una persona o animal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Prepare the drug chemically, cook it.",
+    "To provoke or annoy a person or animal."
+  ],
   "source": "https://tesoro.pr"
 }

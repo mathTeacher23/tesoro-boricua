@@ -3,14 +3,17 @@
   "term": "estrellazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golpe fuerte contra algo duro",
+      "consolidated_definition": "Golpe fuerte que se da contra algo duro.",
+      "en_consolidated_definition": "Blow or impact against a hard object.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.8115",
-        "semantic_similarity_score": 0.8115,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -51,17 +54,16 @@
           "estrellazo"
         ],
         "reference_definitions": [
-          "Golpe fuerte contra algo duro, cantazo.",
-          "Golpe fuerte contra algo duro, cantazo.",
-          "Golpe que se da uno mismo contra algo duro.",
           "Golpe fuerte que se da contra algo duro."
         ]
       }
     }
   },
   "es_definitions": [
-    "Golpe fuerte contra algo duro"
+    "Golpe fuerte que se da contra algo duro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Blow or impact against a hard object."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "worm",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform, relacionado con un mecanismo",
+      "consolidated_definition": "inform. Gusano. Programa informático que se autoduplica y autopropaga; en contraste con los virus, los gusanos suelen ser escritos para redes. Los gusanos de redes fueron definidos por primera vez por inform. Gusano. Programa informático que se autoduplica y autopropaga; en contraste con los virus, los gusanos suelen ser escritos para redes. Los gusanos de redes fueron definidos por primera vez por Navidad es un virus del tipo worm o gusano, lo que significa que se copia a él mismo, se propaga a través de los programas de correo electrónico Outlook y Outlook Express —al igual que los virus “Love Letter” y “Melissa”— y modifica el sistema de manera que es ejecutado cada vez que la máquina entra al sistema operativo Windows",
+      "en_consolidated_definition": "Inform. Computer worm. A computer program that self-duplicates and auto-propagates; in contrast to viruses, worms are typically written for networks. Network worms were first defined by John Brunner's science fiction novel \"Stand on Zanzibar\" (1968). \n\nA computer worm is a type of malware that replicates itself and spreads to other computers without the need for human interaction. Unlike viruses, which require a host program to replicate, worms are self-contained programs that can propagate independently.\n\nIn computing, a worm is a type of malicious software (malware) that replicates itself and spreads to other computers through networks, such as the internet or local area networks (LANs). Worms are often used to spread viruses, Trojan horses, and other types of malware.\n\nA computer worm is typically written in a programming language, such as C or assembly code, and is designed to exploit vulnerabilities in operating systems or applications. Once a worm infects a computer, it can replicate itself and spread to other computers on the network, often causing damage to data and disrupting system functionality.\n\nIn summary, a computer worm is a type of malware that self-replicates and spreads through networks, often causing harm to computers and their users.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "inform, relacionado con un mecanismo"
+    "inform. Gusano. Programa informático que se autoduplica y autopropaga; en contraste con los virus, los gusanos suelen ser escritos para redes. Los gusanos de redes fueron definidos por primera vez por inform. Gusano. Programa informático que se autoduplica y autopropaga; en contraste con los virus, los gusanos suelen ser escritos para redes. Los gusanos de redes fueron definidos por primera vez por Navidad es un virus del tipo worm o gusano, lo que significa que se copia a él mismo, se propaga a través de los programas de correo electrónico Outlook y Outlook Express —al igual que los virus “Love Letter” y “Melissa”— y modifica el sistema de manera que es ejecutado cada vez que la máquina entra al sistema operativo Windows"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Inform. Computer worm. A computer program that self-duplicates and auto-propagates; in contrast to viruses, worms are typically written for networks. Network worms were first defined by John Brunner's science fiction novel \"Stand on Zanzibar\" (1968). \n\nA computer worm is a type of malware that replicates itself and spreads to other computers without the need for human interaction. Unlike viruses, which require a host program to replicate, worms are self-contained programs that can propagate independently.\n\nIn computing, a worm is a type of malicious software (malware) that replicates itself and spreads to other computers through networks, such as the internet or local area networks (LANs). Worms are often used to spread viruses, Trojan horses, and other types of malware.\n\nA computer worm is typically written in a programming language, such as C or assembly code, and is designed to exploit vulnerabilities in operating systems or applications. Once a worm infects a computer, it can replicate itself and spread to other computers on the network, often causing damage to data and disrupting system functionality.\n\nIn summary, a computer worm is a type of malware that self-replicates and spreads through networks, often causing harm to computers and their users."
+  ],
   "source": "https://tesoro.pr"
 }

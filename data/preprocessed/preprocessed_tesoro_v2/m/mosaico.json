@@ -3,9 +3,12 @@
   "term": "mosaico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Loseta de cerámica",
+      "consolidated_definition": "Loseta de cerámica.",
+      "en_consolidated_definition": "Ceramic tile",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Particularismo de Medianía",
+      "consolidated_definition": "Particularismo de Medianía. Ron hecho de caña de azúcar.",
+      "en_consolidated_definition": "Medianía particularismo. Rum made from sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Mosaico era el nombre de una enfermedad o",
+      "consolidated_definition": "Mosaico era el nombre de una enfermedad o plaga que le dio a la caña hace tiempo.",
+      "en_consolidated_definition": "Mosaic disease was the name given to a pestilence or plague that affected sugarcane in the past.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -113,9 +122,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Combinación de diversos fragmentos de canciones o piezas",
+      "consolidated_definition": "Combinación de diversos fragmentos de canciones o piezas musicales que forman un todo.",
+      "en_consolidated_definition": "Combination of diverse fragments of songs or musical pieces that form a whole.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -150,11 +162,16 @@
     }
   },
   "es_definitions": [
-    "Loseta de cerámica",
-    "Particularismo de Medianía",
-    "Mosaico era el nombre de una enfermedad o",
-    "Combinación de diversos fragmentos de canciones o piezas"
+    "Loseta de cerámica.",
+    "Particularismo de Medianía. Ron hecho de caña de azúcar.",
+    "Mosaico era el nombre de una enfermedad o plaga que le dio a la caña hace tiempo.",
+    "Combinación de diversos fragmentos de canciones o piezas musicales que forman un todo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ceramic tile",
+    "Medianía particularismo. Rum made from sugarcane.",
+    "Mosaic disease was the name given to a pestilence or plague that affected sugarcane in the past.",
+    "Combination of diverse fragments of songs or musical pieces that form a whole.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

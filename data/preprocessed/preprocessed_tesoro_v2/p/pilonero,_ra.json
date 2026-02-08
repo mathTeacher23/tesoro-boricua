@@ -3,9 +3,12 @@
   "term": "pilonero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona cuyo trabajo es pilar café u otros",
+      "consolidated_definition": "Persona cuyo trabajo es pilar café u otros granos.",
+      "en_consolidated_definition": "Person who works with coffee beans or other grains as a mainstay.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona cuyo trabajo es pilar café u otros"
+    "Persona cuyo trabajo es pilar café u otros granos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who works with coffee beans or other grains as a mainstay."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "estar corto de tiempo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Faltar poco para salir en libertad un preso",
+      "consolidated_definition": "Faltar poco para salir en libertad un preso.",
+      "en_consolidated_definition": "To be on the verge of being released from prison.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Faltar poco para salir en libertad un preso"
+    "Faltar poco para salir en libertad un preso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be on the verge of being released from prison."
+  ],
   "source": "https://tesoro.pr"
 }

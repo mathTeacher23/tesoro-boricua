@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Árbol de gran tamaño, con madera oscura y dura, que puede alcanzar una altura de aproximadamente 40 pies.",
+      "en_consolidated_definition": "Large tree with dark and hard wood, capable of reaching a height of approximately 40 feet.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Torro canelo\": caballo de color acanelado, perteneciente a la raza de los toros.",
+      "consolidated_definition": "Referido a una mujer, mestiza, mulata.",
+      "en_consolidated_definition": "Referido a una mujer mestiza o mulata.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3458",
-        "semantic_similarity_score": 0.3458,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,7 +89,6 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "De color acanelado. “Toro canelo.” Marqués.",
           "Referido a una mujer, mestiza, mulata."
         ]
       }
@@ -91,8 +96,11 @@
   },
   "es_definitions": [
     "Árbol de gran tamaño, con madera oscura y dura, que puede alcanzar una altura de aproximadamente 40 pies.",
-    "\"Torro canelo\": caballo de color acanelado, perteneciente a la raza de los toros."
+    "Referido a una mujer, mestiza, mulata."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large tree with dark and hard wood, capable of reaching a height of approximately 40 feet.",
+    "Referido a una mujer mestiza o mulata."
+  ],
   "source": "https://tesoro.pr"
 }

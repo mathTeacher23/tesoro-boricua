@@ -3,9 +3,12 @@
   "term": "de guasa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De chanza",
+      "consolidated_definition": "De chanza, de broma.",
+      "en_consolidated_definition": "In jest, in jest.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "De chanza"
+    "De chanza, de broma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In jest, in jest."
+  ],
   "source": "https://tesoro.pr"
 }

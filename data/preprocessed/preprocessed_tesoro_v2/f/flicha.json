@@ -3,9 +3,12 @@
   "term": "flicha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona o animal",
+      "consolidated_definition": "Referido a persona o animal, muy flaco.",
+      "en_consolidated_definition": "Extremely thin or gaunt person or animal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona o animal"
+    "Referido a persona o animal, muy flaco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extremely thin or gaunt person or animal."
+  ],
   "source": "https://tesoro.pr"
 }

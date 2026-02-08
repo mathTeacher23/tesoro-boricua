@@ -3,9 +3,12 @@
   "term": "fuera de sintonía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando no está en lo que se hable",
+      "consolidated_definition": "Cuando no está en lo que se hable o use en el momento.",
+      "en_consolidated_definition": "When not in use or being spoken at the moment.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Cuando no está en lo que se hable"
+    "Cuando no está en lo que se hable o use en el momento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "When not in use or being spoken at the moment."
+  ],
   "source": "https://tesoro.pr"
 }

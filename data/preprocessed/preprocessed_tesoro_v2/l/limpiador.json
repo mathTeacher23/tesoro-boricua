@@ -3,9 +3,12 @@
   "term": "limpiador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El administrador de una limpiadera",
+      "consolidated_definition": "El administrador de una limpiadera.",
+      "en_consolidated_definition": "The sweeper's supervisor or the person in charge of a street sweeper.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El administrador de una limpiadera"
+    "El administrador de una limpiadera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The sweeper's supervisor or the person in charge of a street sweeper."
+  ],
   "source": "https://tesoro.pr"
 }

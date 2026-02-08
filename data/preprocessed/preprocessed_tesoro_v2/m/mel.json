@@ -3,9 +3,12 @@
   "term": "mel",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sustancia formada cuando se le añade agua al",
+      "consolidated_definition": "Sustancia formada cuando se le añade agua al azúcar para derretirla antes de iniciar el proceso de refinería.",
+      "en_consolidated_definition": "Substance formed when water is added to sugar to melt it before initiating the refining process.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sustancia formada cuando se le añade agua al"
+    "Sustancia formada cuando se le añade agua al azúcar para derretirla antes de iniciar el proceso de refinería."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Substance formed when water is added to sugar to melt it before initiating the refining process."
+  ],
   "source": "https://tesoro.pr"
 }

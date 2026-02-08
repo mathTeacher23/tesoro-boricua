@@ -3,9 +3,12 @@
   "term": "paquete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Veinticinco decks",
+      "consolidated_definition": "Veinticinco decks (un deck es como una cuarta parte de un cortar molida).",
+      "en_consolidated_definition": "Twenty-five decks (a deck is equivalent to a quarter of a cut leaf).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,19 +37,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Veinticinco decks ."
+          "Veinticinco decks (un deck es como una cuarta parte de un cortar molida)."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Mentira",
+      "consolidated_definition": "Mentira.",
+      "en_consolidated_definition": "Falsehood \n\nNota: En algunos contextos, esta palabra puede referirse a una mentira en el sentido de un engaño o una falsedad, especialmente en relación con la cultura puertorriqueña, donde se utiliza el término \"mentira\" para describir una situación o una afirmación que no es verdadera.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6899",
-        "semantic_similarity_score": 0.6899,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -84,21 +90,22 @@
           "paquetero, ra"
         ],
         "reference_definitions": [
-          "Mentira. Cosa inverosímil.",
-          "Embuste. Mentira.",
           "Mentira."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Conjunto de asuntos diversos que han de tratarse",
+      "consolidated_definition": "Conjunto de distintos males relacionados con una enfermedad.",
+      "en_consolidated_definition": "Conjunto de distintos males relacionados con una enfermedad.\n\nTranslation:\n\nAggregate of various afflictions related to a disease.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.4339",
-        "semantic_similarity_score": 0.4339,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -142,22 +149,20 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Conjunto de asuntos diversos que han de tratarse simultáneamente.",
-          "Conjunto de asuntos diversos que han de tratarse simultáneamente.",
-          "Calco del inglés cuando se usa con referencia a una ‘variedad de cosas relacionadas que se presentan en un solo conjunto o paquete’.",
-          "inform. Conjunto de programas o de datos que se transmiten a través de una red de comunicación electrónica. Frecuente. DRAE: desde 1992. Véase package. Ya podemos descargar la tercera oleada de actualizaciones para las aplicaciones de Windows Live, todas ellas disponible como versiones beta. Los programas que forman parte de este paquete a los que podemos acceder desde un instalador único lo forman los habituales",
-          "Conjunto, oferta. Variedad de artículos relacionados que se presentan en un solo conjunto en ofertas de turismo. Anglicismo adaptado, frecuente. Véase package. Según la Titular de Turismo, en cada juego un fanático fue seleccionado como ganador de un paquete vacacional a Puerto Rico. Durante la quinta entrada, cada fanático fue sorprendido por la comparsa “Pleneros con Sabor,” músicos puertorriqueños que deleitaron al público mientras funcionarios de Fenway anunciaron el nombre del ganador en la pizarra gigante",
-          "Conjunto de acciones, disposiciones, decisiones tomadas con una finalidad concreta. Frecuente. DRAE 2001 . Señaló que los empleados afectados por la reestructuración recibirán un paquete de beneficios y ayuda del programa de apoyo con el Departamento del Trabajo, para orientarlos sobre empleos disponibles para ellos en el mercado laboral",
           "Conjunto de distintos males relacionados con una enfermedad."
         ]
       }
     }
   },
   "es_definitions": [
-    "Veinticinco decks",
-    "Mentira",
-    "Conjunto de asuntos diversos que han de tratarse"
+    "Veinticinco decks (un deck es como una cuarta parte de un cortar molida).",
+    "Mentira.",
+    "Conjunto de distintos males relacionados con una enfermedad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Twenty-five decks (a deck is equivalent to a quarter of a cut leaf).",
+    "Falsehood \n\nNota: En algunos contextos, esta palabra puede referirse a una mentira en el sentido de un engaño o una falsedad, especialmente en relación con la cultura puertorriqueña, donde se utiliza el término \"mentira\" para describir una situación o una afirmación que no es verdadera.",
+    "Conjunto de distintos males relacionados con una enfermedad.\n\nTranslation:\n\nAggregate of various afflictions related to a disease."
+  ],
   "source": "https://tesoro.pr"
 }

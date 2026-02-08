@@ -3,14 +3,17 @@
   "term": "herramientas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Instrumentos que usan los adictos para inyectarse",
+      "consolidated_definition": "Instrumentos usados por los drogadictos para inyectarse.",
+      "en_consolidated_definition": "Injecting paraphernalia used by drug addicts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7796",
-        "semantic_similarity_score": 0.7796,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -42,15 +45,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Instrumentos que usan los adictos para inyectarse.",
           "Instrumentos usados por los drogadictos para inyectarse."
         ]
       }
     }
   },
   "es_definitions": [
-    "Instrumentos que usan los adictos para inyectarse"
+    "Instrumentos usados por los drogadictos para inyectarse."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Injecting paraphernalia used by drug addicts."
+  ],
   "source": "https://tesoro.pr"
 }

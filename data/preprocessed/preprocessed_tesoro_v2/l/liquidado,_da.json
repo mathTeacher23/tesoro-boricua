@@ -3,9 +3,12 @@
   "term": "liquidado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acabado",
+      "consolidated_definition": "Acabado. Destruido. Triste por una razón.",
+      "en_consolidated_definition": "Desolado. Destruído. Triste por una razón.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Acabado"
+    "Acabado. Destruido. Triste por una razón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Desolado. Destruído. Triste por una razón."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "manta",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Pez monstruoso de estos mares, de la familia de las rayas. Poey señala dos especies de los géneros Cephaloptera y Ceratoptera. . Ac.",
+      "consolidated_definition": "Pez monstruoso de la familia de las rayas, incluyendo especies como Manta birostris y Mobula hypostoma.",
+      "en_consolidated_definition": "Giant manta ray of the family Myliobatidae, including species such as Manta birostris and Mobula hypostoma.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5302",
-        "semantic_similarity_score": 0.5302,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6472",
+        "semantic_similarity_score": 0.6472,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Pez monstruoso de estos mares, de la familia de las rayas. Poey señala dos especies de los géneros Cephaloptera y Ceratoptera. . Ac.",
+          ". Pez monstruoso de estos mares, de la familia de las rayas. Poey señala dos especies de los géneros Cephaloptera y Ceratoptera. (Manta borostris, Walb.; Mobula hipostoma, Banc.). Ac.",
           "Pez, de la familia Mobulidae. Manta birostris."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Zángano",
+      "consolidated_definition": "Zángano.",
+      "en_consolidated_definition": "Honey bee (worker) \n\nNota: En algunos contextos, \"zángano\" se refiere específicamente a un macho de abeja que no es el rey, pero en general, se utiliza para describir a cualquier trabajador de la colonia de abejas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -81,9 +87,12 @@
     }
   },
   "es_definitions": [
-    ". Pez monstruoso de estos mares, de la familia de las rayas. Poey señala dos especies de los géneros Cephaloptera y Ceratoptera. . Ac.",
-    "Zángano"
+    "Pez monstruoso de la familia de las rayas, incluyendo especies como Manta birostris y Mobula hypostoma.",
+    "Zángano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Giant manta ray of the family Myliobatidae, including species such as Manta birostris and Mobula hypostoma.",
+    "Honey bee (worker) \n\nNota: En algunos contextos, \"zángano\" se refiere específicamente a un macho de abeja que no es el rey, pero en general, se utiliza para describir a cualquier trabajador de la colonia de abejas."
+  ],
   "source": "https://tesoro.pr"
 }

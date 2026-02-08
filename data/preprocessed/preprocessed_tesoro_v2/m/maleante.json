@@ -3,14 +3,17 @@
   "term": "maleante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Los adictos lo usan para designar al adicto",
+      "consolidated_definition": "Adicto que pretende convencer a un individuo de que use drogas.",
+      "en_consolidated_definition": "Individual who attempts to persuade another person to use drugs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5443",
-        "semantic_similarity_score": 0.5443,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Los adictos lo usan para designar al adicto que pretende convencer a un individuo a quien ellos llaman paraguayo o square.",
           "Adicto que pretende convencer a un individuo de que use drogas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Los adictos lo usan para designar al adicto"
+    "Adicto que pretende convencer a un individuo de que use drogas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Individual who attempts to persuade another person to use drugs."
+  ],
   "source": "https://tesoro.pr"
 }

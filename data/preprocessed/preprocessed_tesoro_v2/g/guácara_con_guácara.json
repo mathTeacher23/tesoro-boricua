@@ -3,9 +3,12 @@
   "term": "guácara con guácara",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referente al número 44 en la lotería",
+      "consolidated_definition": "Referente al número 44 en la lotería.",
+      "en_consolidated_definition": "Forty-four (44) in a lottery context.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Referente al número 44 en la lotería"
+    "Referente al número 44 en la lotería."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Forty-four (44) in a lottery context."
+  ],
   "source": "https://tesoro.pr"
 }

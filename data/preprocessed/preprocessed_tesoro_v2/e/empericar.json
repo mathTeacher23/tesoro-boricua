@@ -3,9 +3,12 @@
   "term": "empericar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Drogar a alguien con cocaína",
+      "consolidated_definition": "Drogar a alguien con cocaína.",
+      "en_consolidated_definition": "To cocaine someone with the intention of inducing a state of intoxication or addiction.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Drogar a alguien con cocaína"
+    "Drogar a alguien con cocaína."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To cocaine someone with the intention of inducing a state of intoxication or addiction."
+  ],
   "source": "https://tesoro.pr"
 }

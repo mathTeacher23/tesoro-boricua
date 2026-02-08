@@ -3,9 +3,12 @@
   "term": "de por sí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De todos modos",
+      "consolidated_definition": "De todos modos, en cualquier caso.",
+      "en_consolidated_definition": "In any case, nonetheless.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "De todos modos"
+    "De todos modos, en cualquier caso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In any case, nonetheless."
+  ],
   "source": "https://tesoro.pr"
 }

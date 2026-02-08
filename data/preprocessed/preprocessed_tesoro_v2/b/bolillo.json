@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Un carrete de hilo es un dispositivo que contiene y mantiene el hilo en su lugar, generalmente utilizado para tejer o coser.",
+      "en_consolidated_definition": "A spool of thread is a device that contains and holds the thread in place, generally used for knitting or sewing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -57,15 +60,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Palangana: instrumento utilizado para levantar pesos, especialmente en actividades relacionadas con la marina.",
+      "consolidated_definition": "Grúa para levantar pesos, especialmente en trabajos marineros.",
+      "en_consolidated_definition": "Crane for lifting weights, especially in maritime work.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8277",
-        "semantic_similarity_score": 0.8277,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -95,21 +101,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Instrumento para levantar pesos, sobre todo en las faenas marineras.",
           "Grúa para levantar pesos, especialmente en trabajos marineros."
         ]
       }
     },
     "3": {
       "consolidated_definition": "Automóvil pequeño.",
+      "en_consolidated_definition": "Compact car.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6366",
-        "semantic_similarity_score": 0.6366,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -137,7 +145,6 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Carro pequeño.",
           "Automóvil pequeño."
         ]
       }
@@ -145,9 +152,13 @@
   },
   "es_definitions": [
     "Un carrete de hilo es un dispositivo que contiene y mantiene el hilo en su lugar, generalmente utilizado para tejer o coser.",
-    "Palangana: instrumento utilizado para levantar pesos, especialmente en actividades relacionadas con la marina.",
+    "Grúa para levantar pesos, especialmente en trabajos marineros.",
     "Automóvil pequeño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A spool of thread is a device that contains and holds the thread in place, generally used for knitting or sewing.",
+    "Crane for lifting weights, especially in maritime work.",
+    "Compact car."
+  ],
   "source": "https://tesoro.pr"
 }

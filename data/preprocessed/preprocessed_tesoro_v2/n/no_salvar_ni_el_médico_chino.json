@@ -3,9 +3,12 @@
   "term": "no salvar ni el médico chino",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Resultar inevitable que alguien muera a causa de",
+      "consolidated_definition": "Resultar inevitable que alguien muera a causa de una enfermedad grave o de un accidente.",
+      "en_consolidated_definition": "To succumb inevitably to a serious illness or fatal accident.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Resultar inevitable que alguien muera a causa de"
+    "Resultar inevitable que alguien muera a causa de una enfermedad grave o de un accidente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To succumb inevitably to a serious illness or fatal accident."
+  ],
   "source": "https://tesoro.pr"
 }

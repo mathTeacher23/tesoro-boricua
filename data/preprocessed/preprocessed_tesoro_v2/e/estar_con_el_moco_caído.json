@@ -3,9 +3,12 @@
   "term": "estar con el moco caído",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Triste",
+      "consolidated_definition": "Triste, frustrado.",
+      "en_consolidated_definition": "Desalentado, frustrado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Triste"
+    "Triste, frustrado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Desalentado, frustrado."
+  ],
   "source": "https://tesoro.pr"
 }

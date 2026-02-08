@@ -3,9 +3,12 @@
   "term": "soterrado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pasadizo peatonal o de vehículos bajo el nivel",
+      "consolidated_definition": "Pasadizo peatonal o de vehículos bajo el nivel de otra vía o estructura. También dicen sotopaso.",
+      "en_consolidated_definition": "Pedestrian or vehicular passageway under the level of another road or structure. Also known as sotopaso.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pasadizo peatonal o de vehículos bajo el nivel"
+    "Pasadizo peatonal o de vehículos bajo el nivel de otra vía o estructura. También dicen sotopaso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pedestrian or vehicular passageway under the level of another road or structure. Also known as sotopaso."
+  ],
   "source": "https://tesoro.pr"
 }

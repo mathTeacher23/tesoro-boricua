@@ -3,9 +3,12 @@
   "term": "rima",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Herramienta en forma de lima redonda",
+      "consolidated_definition": "Herramienta en forma de lima redonda, usada para limpiar o para ajustar agujeros en el metal.",
+      "en_consolidated_definition": "Round file used for cleaning or adjusting holes in metal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Herramienta en forma de lima redonda"
+    "Herramienta en forma de lima redonda, usada para limpiar o para ajustar agujeros en el metal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Round file used for cleaning or adjusting holes in metal."
+  ],
   "source": "https://tesoro.pr"
 }

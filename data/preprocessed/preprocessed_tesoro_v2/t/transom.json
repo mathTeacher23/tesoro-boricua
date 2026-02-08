@@ -3,15 +3,18 @@
   "term": "transom",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pieza transversal en la parte superior del marco",
+      "consolidated_definition": "La moldura superior de un marco de puerta es una pieza transversal que se encuentra en la parte superior del marco.",
+      "en_consolidated_definition": "The upper molding of a door frame is a transverse piece located at the top of the frame.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6003",
         "semantic_similarity_score": 0.6003,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Pieza transversal en la parte superior del marco"
+    "La moldura superior de un marco de puerta es una pieza transversal que se encuentra en la parte superior del marco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The upper molding of a door frame is a transverse piece located at the top of the frame."
+  ],
   "source": "https://tesoro.pr"
 }

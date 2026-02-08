@@ -3,9 +3,12 @@
   "term": "poner de patitas en la calle",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expulsarle de mala manera",
+      "consolidated_definition": "Expulsarle de mala manera.",
+      "en_consolidated_definition": "Ejectarlo con mala intención o agresividad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Expulsarle de mala manera"
+    "Expulsarle de mala manera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ejectarlo con mala intención o agresividad."
+  ],
   "source": "https://tesoro.pr"
 }

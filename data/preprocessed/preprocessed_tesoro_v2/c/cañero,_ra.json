@@ -3,15 +3,18 @@
   "term": "cañero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Zona cañera\": área geográfica donde se cultiva y se encuentra caña de azúcar.",
+      "consolidated_definition": "Relativo a la caña de azúcar.",
+      "en_consolidated_definition": "Relative to sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6746",
-        "semantic_similarity_score": 0.6746,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -47,22 +50,23 @@
           "caña 1"
         ],
         "reference_definitions": [
-          "Lo relativo o concerniente a la caña. Zona cañera.",
-          "Lo relativo a las colonias o plantaciones de caña de azúcar.",
           "Relativo a la caña de azúcar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que cultiva la caña de azúcar o produce ron a base de caña o cañita.",
+      "consolidated_definition": "Persona que se dedica al cultivo de la caña de azúcar.",
+      "en_consolidated_definition": "Person who is engaged in the cultivation of sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5979",
-        "semantic_similarity_score": 0.5979,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -94,22 +98,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Fabricante de ron caña o cañita.",
-          "Persona que se dedica al cultivo de la caña de azúcar.",
-          "Vendedor de la caña dulce."
+          "Persona que se dedica al cultivo de la caña de azúcar."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Se refiere a una persona.",
+      "consolidated_definition": "Referido a persona, huraña.",
+      "en_consolidated_definition": "Deserted in a sullen manner.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -137,10 +142,14 @@
     }
   },
   "es_definitions": [
-    "\"Zona cañera\": área geográfica donde se cultiva y se encuentra caña de azúcar.",
-    "Persona que cultiva la caña de azúcar o produce ron a base de caña o cañita.",
-    "Se refiere a una persona."
+    "Relativo a la caña de azúcar.",
+    "Persona que se dedica al cultivo de la caña de azúcar.",
+    "Referido a persona, huraña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Relative to sugarcane.",
+    "Person who is engaged in the cultivation of sugarcane.",
+    "Deserted in a sullen manner."
+  ],
   "source": "https://tesoro.pr"
 }

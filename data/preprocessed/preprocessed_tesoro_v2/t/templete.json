@@ -3,9 +3,12 @@
   "term": "templete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tarima",
+      "consolidated_definition": "Tarima, podio o tribuna, con o sin techo.",
+      "en_consolidated_definition": "Platform, dais or podium, with or without a roof.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tarima"
+    "Tarima, podio o tribuna, con o sin techo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Platform, dais or podium, with or without a roof."
+  ],
   "source": "https://tesoro.pr"
 }

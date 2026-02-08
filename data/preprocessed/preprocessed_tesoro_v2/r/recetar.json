@@ -3,9 +3,12 @@
   "term": "recetar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Multar por infracción a las leyes de tránsito",
+      "consolidated_definition": "Multar por infracción a las leyes de tránsito.",
+      "en_consolidated_definition": "Fine a traffic laws.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Multar por infracción a las leyes de tránsito"
+    "Multar por infracción a las leyes de tránsito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fine a traffic laws."
+  ],
   "source": "https://tesoro.pr"
 }

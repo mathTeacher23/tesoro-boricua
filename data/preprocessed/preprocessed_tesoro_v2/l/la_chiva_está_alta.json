@@ -3,9 +3,12 @@
   "term": "la chiva está alta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El pescador tiene dinero",
+      "consolidated_definition": "El pescador tiene dinero.",
+      "en_consolidated_definition": "The fisherman has money.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "El pescador tiene dinero"
+    "El pescador tiene dinero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The fisherman has money."
+  ],
   "source": "https://tesoro.pr"
 }

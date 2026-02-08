@@ -3,15 +3,18 @@
   "term": "templar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El peón encargado de esta operación necesitaba saber",
+      "consolidated_definition": "Persona que prepara la caña para su procesamiento en un trapiche, requiere habilidad para ajustar su temperatura y cantidad de caña a introducir.",
+      "en_consolidated_definition": "Person who prepares sugarcane for processing in a trapiche, requiring skill to adjust its temperature and amount of cane to be introduced.\n\nNota: Un \"trapiche\" es un molino de azúcar tradicional en Puerto Rico y otros países de América Latina. Se utiliza para procesar la caña de azúcar y producir azúcar blanca.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5644",
-        "semantic_similarity_score": 0.5644,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6078",
+        "semantic_similarity_score": 0.6078,
+        "cluster_count": 2,
         "grammar": [
           "verbo transitivo"
         ],
@@ -40,15 +43,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El peón encargado de esta operación necesitaba saber templar el trapiche sin meter demasiada caña.",
-          "Saber determinar la cantidad adecuada de caña que habrá de hacer pasar por las mazas del trapiche."
+          "El peón encargado de esta operación emburrar la caña para hacerla pasar entre las mazas necesitaba saber templar el trapiche sin meter demasiada caña.",
+          "Saber determinar (un peón) la cantidad adecuada de caña que habrá de hacer pasar por las mazas del trapiche."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Afinar un instrumento musical de cuerdas",
+      "consolidated_definition": "Afinar un instrumento musical de cuerdas.",
+      "en_consolidated_definition": "To fine-tune a stringed musical instrument.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    "El peón encargado de esta operación necesitaba saber",
-    "Afinar un instrumento musical de cuerdas"
+    "Persona que prepara la caña para su procesamiento en un trapiche, requiere habilidad para ajustar su temperatura y cantidad de caña a introducir.",
+    "Afinar un instrumento musical de cuerdas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who prepares sugarcane for processing in a trapiche, requiring skill to adjust its temperature and amount of cane to be introduced.\n\nNota: Un \"trapiche\" es un molino de azúcar tradicional en Puerto Rico y otros países de América Latina. Se utiliza para procesar la caña de azúcar y producir azúcar blanca.",
+    "To fine-tune a stringed musical instrument."
+  ],
   "source": "https://tesoro.pr"
 }

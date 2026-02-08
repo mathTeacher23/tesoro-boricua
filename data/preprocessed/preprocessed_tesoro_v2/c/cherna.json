@@ -3,15 +3,18 @@
   "term": "cherna",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El pez es un tipo de pescado que se diferencia del mero. Serranidae; Epinephelus spp. Se cría entre rocas y puede alcanzar hasta 3 metros de longitud, con cabeza grande y aletas radiadas, presentando coloraciones que oscilan entre el pardo, el naranja y el rosado, con manchas y rayas de diferentes colores; es comestible.",
+      "consolidated_definition": "Pez marino de hasta 3 m de longitud, con cabeza grande y aletas radiadas, su coloración oscila entre el pardo, el naranja y el rosado, con manchas y rayas de diferentes colores; es comestible. Serranidae; Epinephelus spp.",
+      "en_consolidated_definition": "Marine fish reaching up to 3 m in length, with a large head and radiated fins, its coloration ranges from brown, orange, and pink, with spots and stripes of various colors; it is edible. Serranidae; Epinephelus spp.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.5776",
-        "semantic_similarity_score": 0.5776,
-        "cluster_count": 6,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -60,19 +63,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Pez distinto del mero. (Serranus striatum; Epinephelus morio; striatus).",
-          ". Pez. (Serranus striatum; Epinephelus morio; striatus).",
-          "Serranidae. Epinephelus striatus. Se cría entre rocas y se pesca con cordel. “Tiene manchas como paño prietas y amariyosas.”",
-          "Pez, de la familia Seranidae (meros). Epinephelus striatus.",
-          "Pez pequeño de mar que se usa para cebo de pescar. Pertenece a la familia de los meros. También dicen chesna.",
           "Pez marino de hasta 3 m de longitud, con cabeza grande y aletas radiadas, su coloración oscila entre el pardo, el naranja y el rosado, con manchas y rayas de diferentes colores; es comestible. Serranidae; Epinephelus spp."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Persona que se considera a sí misma inteligente o superior, pero en realidad es tonta o ingenua.",
+      "en_consolidated_definition": "Persona que se considera a sí misma inteligente o superior, pero en realidad carece de astucia o es ingenua.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -125,9 +126,12 @@
     }
   },
   "es_definitions": [
-    "El pez es un tipo de pescado que se diferencia del mero. Serranidae; Epinephelus spp. Se cría entre rocas y puede alcanzar hasta 3 metros de longitud, con cabeza grande y aletas radiadas, presentando coloraciones que oscilan entre el pardo, el naranja y el rosado, con manchas y rayas de diferentes colores; es comestible.",
+    "Pez marino de hasta 3 m de longitud, con cabeza grande y aletas radiadas, su coloración oscila entre el pardo, el naranja y el rosado, con manchas y rayas de diferentes colores; es comestible. Serranidae; Epinephelus spp.",
     "Persona que se considera a sí misma inteligente o superior, pero en realidad es tonta o ingenua."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine fish reaching up to 3 m in length, with a large head and radiated fins, its coloration ranges from brown, orange, and pink, with spots and stripes of various colors; it is edible. Serranidae; Epinephelus spp.",
+    "Persona que se considera a sí misma inteligente o superior, pero en realidad carece de astucia o es ingenua."
+  ],
   "source": "https://tesoro.pr"
 }

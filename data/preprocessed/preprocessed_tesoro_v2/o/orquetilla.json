@@ -3,9 +3,12 @@
   "term": "orquetilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deterioro del cabello consistente en la bifurcación de",
+      "consolidated_definition": "Deterioro del cabello consistente en la bifurcación de sus puntas.",
+      "en_consolidated_definition": "Split end, un tipo de deterioro del cabello caracterizado por la bifurcación de sus puntas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Deterioro del cabello consistente en la bifurcación de"
+    "Deterioro del cabello consistente en la bifurcación de sus puntas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Split end, un tipo de deterioro del cabello caracterizado por la bifurcación de sus puntas."
+  ],
   "source": "https://tesoro.pr"
 }

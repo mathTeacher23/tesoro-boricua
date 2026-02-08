@@ -3,9 +3,12 @@
   "term": "roaming",
   "superscripts": {
     "1": {
-      "consolidated_definition": "telecom",
+      "consolidated_definition": "telecom. Servicio de telefonía móvil que le permite al usuario usar el teléfono cuando se encuentra fuera de su área de cobertura. Anglicismo crudo, frecuente. Puede hacer y recibir llamadas sin tener que preocuparse de cargos por roaming (El Nuevo Día, 02-12-07)",
+      "en_consolidated_definition": "Mobile telephony service that allows the user to make and receive calls without worrying about roaming charges when outside their coverage area.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "telecom. Servicio de telefonía móvil que le permite al usuario usar el teléfono cuando se encuentra fuera de su área de cobertura. Anglicismo crudo, frecuente. Puede hacer y recibir llamadas sin tener que preocuparse de cargos por roaming"
+          "telecom. Servicio de telefonía móvil que le permite al usuario usar el teléfono cuando se encuentra fuera de su área de cobertura. Anglicismo crudo, frecuente. Puede hacer y recibir llamadas sin tener que preocuparse de cargos por roaming (El Nuevo Día, 02-12-07)"
         ]
       }
     }
   },
   "es_definitions": [
-    "telecom"
+    "telecom. Servicio de telefonía móvil que le permite al usuario usar el teléfono cuando se encuentra fuera de su área de cobertura. Anglicismo crudo, frecuente. Puede hacer y recibir llamadas sin tener que preocuparse de cargos por roaming (El Nuevo Día, 02-12-07)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mobile telephony service that allows the user to make and receive calls without worrying about roaming charges when outside their coverage area."
+  ],
   "source": "https://tesoro.pr"
 }

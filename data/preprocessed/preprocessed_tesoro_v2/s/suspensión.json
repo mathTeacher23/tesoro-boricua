@@ -3,9 +3,12 @@
   "term": "suspensión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expulsión temporal de un alumno",
+      "consolidated_definition": "Expulsión temporal de un alumno.",
+      "en_consolidated_definition": "Temporary expulsion of a student.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Expulsión temporal de un alumno"
+    "Expulsión temporal de un alumno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Temporary expulsion of a student."
+  ],
   "source": "https://tesoro.pr"
 }

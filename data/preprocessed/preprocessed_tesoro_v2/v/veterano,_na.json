@@ -3,9 +3,12 @@
   "term": "veterano, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estudiante con más de un año en la",
+      "consolidated_definition": "Estudiante con más de un año en la Universidad.",
+      "en_consolidated_definition": "University student with more than one year of attendance at the university.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Estudiante con más de un año en la"
+    "Estudiante con más de un año en la Universidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "University student with more than one year of attendance at the university."
+  ],
   "source": "https://tesoro.pr"
 }

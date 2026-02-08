@@ -3,9 +3,12 @@
   "term": "trifecta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las carreras de caballos",
+      "consolidated_definition": "En las carreras de caballos, apuesta en la que se acierta el orden de llegada de los tres primeros.",
+      "en_consolidated_definition": "In horse racing, a bet in which the order of arrival of the top three is correctly predicted.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En las carreras de caballos"
+    "En las carreras de caballos, apuesta en la que se acierta el orden de llegada de los tres primeros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In horse racing, a bet in which the order of arrival of the top three is correctly predicted."
+  ],
   "source": "https://tesoro.pr"
 }

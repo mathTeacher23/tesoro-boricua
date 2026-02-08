@@ -3,15 +3,18 @@
   "term": "varraco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Café negro",
+      "consolidated_definition": "Expresión que describe un tipo de café preparado con solo agua caliente y sin adición de azúcar ni crema.",
+      "en_consolidated_definition": "Expression that describes a type of coffee prepared with only hot water and without the addition of sugar or cream.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6572",
         "semantic_similarity_score": 0.6572,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Café negro"
+    "Expresión que describe un tipo de café preparado con solo agua caliente y sin adición de azúcar ni crema."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Expression that describes a type of coffee prepared with only hot water and without the addition of sugar or cream."
+  ],
   "source": "https://tesoro.pr"
 }

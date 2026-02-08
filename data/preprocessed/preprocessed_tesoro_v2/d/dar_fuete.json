@@ -3,15 +3,18 @@
   "term": "dar fuete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El golpe es un acto de impactar físicamente a alguien o algo con fuerza.",
+      "consolidated_definition": "Golpear a alguien con un fuete o correa.",
+      "en_consolidated_definition": "To strike someone with a whip or a lash.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "El golpe es un acto de impactar físicamente a alguien o algo con fuerza."
+    "Golpear a alguien con un fuete o correa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To strike someone with a whip or a lash."
+  ],
   "source": "https://tesoro.pr"
 }

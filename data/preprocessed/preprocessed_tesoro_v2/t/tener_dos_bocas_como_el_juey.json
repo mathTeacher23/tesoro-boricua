@@ -3,9 +3,12 @@
   "term": "tener dos bocas como el juey",
   "superscripts": {
     "1": {
-      "consolidated_definition": "a los que comen mucho",
+      "consolidated_definition": "a los que comen mucho.",
+      "en_consolidated_definition": "Those who eat a lot.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "a los que comen mucho"
+    "a los que comen mucho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Those who eat a lot."
+  ],
   "source": "https://tesoro.pr"
 }

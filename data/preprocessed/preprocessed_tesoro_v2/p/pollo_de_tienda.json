@@ -3,9 +3,12 @@
   "term": "pollo de tienda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pollo de jaula",
+      "consolidated_definition": "Pollo de jaula. Llaman así en los campos despectivamente a las aves que provienen de incubadoras al compararlas con las criadas en las fincas que crecen sueltas y son más sabrosas.",
+      "en_consolidated_definition": "Cage bird. This term is used derogatorily in fields to refer to birds that come from incubators by comparing them with those raised on farms that grow loose and are more flavorful.\n\nNota: En este contexto, \"fincas\" se refiere a granjas o fincas rurales en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pollo de jaula"
+    "Pollo de jaula. Llaman así en los campos despectivamente a las aves que provienen de incubadoras al compararlas con las criadas en las fincas que crecen sueltas y son más sabrosas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cage bird. This term is used derogatorily in fields to refer to birds that come from incubators by comparing them with those raised on farms that grow loose and are more flavorful.\n\nNota: En este contexto, \"fincas\" se refiere a granjas o fincas rurales en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

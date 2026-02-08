@@ -3,14 +3,17 @@
   "term": "tractor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vehículo automotor cuyas ruedas se adhieren fuertemente al, relacionado con un mecanismo",
+      "consolidated_definition": "Vehículo automotor que se usa para arrastrar otras máquinas: abonadora, arados, carretones, jaulas.",
+      "en_consolidated_definition": "Tractor o remolque que se utiliza para arrastrar otras máquinas agrícolas, como fertilizadoras, arados y carros de carga.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2005",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6743",
-        "semantic_similarity_score": 0.6743,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -48,16 +51,16 @@
           "tractorista"
         ],
         "reference_definitions": [
-          "Vehículo automotor cuyas ruedas se adhieren fuertemente al terreno, y se emplea para arrastrar arados, remolques, etc.",
-          "Para arrastrar el arado y otros propósitos se emplea modernamente en los trabajos del agro insular el vehículo llamado genéricamente tractor.",
           "Vehículo automotor que se usa para arrastrar otras máquinas: abonadora, arados, carretones, jaulas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Vehículo automotor cuyas ruedas se adhieren fuertemente al, relacionado con un mecanismo"
+    "Vehículo automotor que se usa para arrastrar otras máquinas: abonadora, arados, carretones, jaulas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tractor o remolque que se utiliza para arrastrar otras máquinas agrícolas, como fertilizadoras, arados y carros de carga."
+  ],
   "source": "https://tesoro.pr"
 }

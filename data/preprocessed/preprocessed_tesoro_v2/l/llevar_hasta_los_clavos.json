@@ -3,9 +3,12 @@
   "term": "llevar hasta los clavos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Saquear",
+      "consolidated_definition": "Saquear. Robar todo lo que se encuentra.",
+      "en_consolidated_definition": "Pillaje. Robar todo lo que se encuentra.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Saquear"
+    "Saquear. Robar todo lo que se encuentra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pillaje. Robar todo lo que se encuentra."
+  ],
   "source": "https://tesoro.pr"
 }

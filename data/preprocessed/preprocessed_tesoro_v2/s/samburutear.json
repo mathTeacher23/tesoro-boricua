@@ -3,9 +3,12 @@
   "term": "samburutear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lavar la ropa con sólo mojarla y exprimirla",
+      "consolidated_definition": "Lavar la ropa con sólo mojarla y exprimirla.",
+      "en_consolidated_definition": "Wash clothes by merely soaking them and wringing them out.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Lavar la ropa con sólo mojarla y exprimirla"
+    "Lavar la ropa con sólo mojarla y exprimirla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wash clothes by merely soaking them and wringing them out."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "trancarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Interrumpirse un juego porque no hay jugada posible, relacionado con un mecanismo",
+      "consolidated_definition": "Paralización del juego de dominó cuando no hay jugadas posibles.",
+      "en_consolidated_definition": "Paralysis of the domino game when no possible moves are available.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4392",
-        "semantic_similarity_score": 0.4392,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4354",
+        "semantic_similarity_score": 0.4354,
+        "cluster_count": 6,
         "grammar": [
           "verbo pronominal"
         ],
@@ -43,7 +46,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Interrumpirse un juego porque no hay jugada posible.",
+          "(general) Interrumpirse un juego porque no hay jugada posible.",
           "Hacerse insoluble una situación.",
           "Cerrar la acción como en el juego de dominó, cuando no se pueden colocar más fichas.",
           "Atascarse un mecanismo.",
@@ -53,9 +56,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Acabarse un juego porque no hay jugada posible",
+      "consolidated_definition": "Acabarse un juego porque no hay jugada posible.",
+      "en_consolidated_definition": "To end a game because no possible move is available.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -90,9 +96,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Atascarse algo",
+      "consolidated_definition": "Atascarse algo.",
+      "en_consolidated_definition": "To become stuck or jammed, typically due to a blockage or obstruction.\n\nNota: En este contexto, \"atascarse\" se refiere a un estado de obstrucción o bloqueo que impide el movimiento o funcionamiento normal de algo. La traducción busca mantener la precisión y formalidad del término original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -125,9 +134,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Sufrir alguien una preocupación",
+      "consolidated_definition": "Sufrir alguien una preocupación, frustración o angustia provocada por algo negativo o considerado como tal.",
+      "en_consolidated_definition": "To suffer from concern, frustration, or anxiety caused by something negative or considered as such.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -163,11 +175,16 @@
     }
   },
   "es_definitions": [
-    "Interrumpirse un juego porque no hay jugada posible, relacionado con un mecanismo",
-    "Acabarse un juego porque no hay jugada posible",
-    "Atascarse algo",
-    "Sufrir alguien una preocupación"
+    "Paralización del juego de dominó cuando no hay jugadas posibles.",
+    "Acabarse un juego porque no hay jugada posible.",
+    "Atascarse algo.",
+    "Sufrir alguien una preocupación, frustración o angustia provocada por algo negativo o considerado como tal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Paralysis of the domino game when no possible moves are available.",
+    "To end a game because no possible move is available.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "To become stuck or jammed, typically due to a blockage or obstruction.\n\nNota: En este contexto, \"atascarse\" se refiere a un estado de obstrucción o bloqueo que impide el movimiento o funcionamiento normal de algo. La traducción busca mantener la precisión y formalidad del término original.",
+    "To suffer from concern, frustration, or anxiety caused by something negative or considered as such.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

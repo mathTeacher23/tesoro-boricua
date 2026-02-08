@@ -3,9 +3,12 @@
   "term": "sobretrote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cierta andadura del caballo de tiro",
+      "consolidated_definition": "Cierta andadura del caballo de tiro.",
+      "en_consolidated_definition": "Certain gait of a draft horse.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cierta andadura del caballo de tiro"
+    "Cierta andadura del caballo de tiro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Certain gait of a draft horse."
+  ],
   "source": "https://tesoro.pr"
 }

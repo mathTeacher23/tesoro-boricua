@@ -3,9 +3,12 @@
   "term": "trabajar a medias",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajar una finca un agricultor rural repartiendo con",
+      "consolidated_definition": "Trabajar una finca un agricultor rural repartiendo con el dueño los beneficios a base de la mitad para éste.",
+      "en_consolidated_definition": "To work a farm as a rural farmer, dividing the profits with the owner on a basis of half to him.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Trabajar una finca un agricultor rural repartiendo con"
+    "Trabajar una finca un agricultor rural repartiendo con el dueño los beneficios a base de la mitad para éste."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To work a farm as a rural farmer, dividing the profits with the owner on a basis of half to him."
+  ],
   "source": "https://tesoro.pr"
 }

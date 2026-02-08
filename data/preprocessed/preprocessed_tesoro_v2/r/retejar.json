@@ -3,9 +3,12 @@
   "term": "retejar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En masonería",
+      "consolidated_definition": "En masonería, comprobar que una persona es o no es masón.",
+      "en_consolidated_definition": "To verify whether a person is or is not a Freemason.\n\nNota: En este contexto, \"Freemason\" se refiere a un miembro de la masonería, una organización secreta que enfatiza la amistad, la caridad y la moralidad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "En masonería"
+    "En masonería, comprobar que una persona es o no es masón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To verify whether a person is or is not a Freemason.\n\nNota: En este contexto, \"Freemason\" se refiere a un miembro de la masonería, una organización secreta que enfatiza la amistad, la caridad y la moralidad."
+  ],
   "source": "https://tesoro.pr"
 }

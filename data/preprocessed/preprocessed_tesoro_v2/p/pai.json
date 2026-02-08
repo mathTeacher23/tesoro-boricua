@@ -3,14 +3,17 @@
   "term": "pai",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada entre delincuentes",
+      "consolidated_definition": "Director o encargado de prisiones o de casa de rehabilitación de drogadictos.",
+      "en_consolidated_definition": "Warden or supervisor of prisons or a rehabilitation center for drug addicts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9313",
-        "semantic_similarity_score": 0.9313,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Voz usada entre delincuentes. Director o encargado de prisiones o casa de rehabilitación de drogadictos.",
           "Director o encargado de prisiones o de casa de rehabilitación de drogadictos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Padre",
+      "consolidated_definition": "Padre.",
+      "en_consolidated_definition": "Father \n\nNota: En algunos contextos culturales de Puerto Rico, este término puede referirse a un padre biológico o adoptivo, así como a un mentor o figura paterna que desempeña un papel importante en la vida de una persona.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Voz usada entre delincuentes",
-    "Padre"
+    "Director o encargado de prisiones o de casa de rehabilitación de drogadictos.",
+    "Padre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Warden or supervisor of prisons or a rehabilitation center for drug addicts.",
+    "Father \n\nNota: En algunos contextos culturales de Puerto Rico, este término puede referirse a un padre biológico o adoptivo, así como a un mentor o figura paterna que desempeña un papel importante en la vida de una persona."
+  ],
   "source": "https://tesoro.pr"
 }

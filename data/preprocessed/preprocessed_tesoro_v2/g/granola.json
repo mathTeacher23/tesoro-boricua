@@ -3,9 +3,12 @@
   "term": "granola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alimento que consiste en copos de avena y",
+      "consolidated_definition": "Alimento que consiste en copos de avena y de otros cereales, mezclados con frutos secos.",
+      "en_consolidated_definition": "Food made from oats and other grains, mixed with dried fruits.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Alimento que consiste en copos de avena y"
+    "Alimento que consiste en copos de avena y de otros cereales, mezclados con frutos secos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Food made from oats and other grains, mixed with dried fruits."
+  ],
   "source": "https://tesoro.pr"
 }

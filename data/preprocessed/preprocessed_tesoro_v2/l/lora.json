@@ -3,15 +3,18 @@
   "term": "lora",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Llaga de mal aspecto.",
+      "consolidated_definition": "Llaga: Herida o úlcera que presenta un aspecto desagradable o inusual.",
+      "en_consolidated_definition": "Wound or ulcer presenting an unpleasant or unusual appearance.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.6776",
         "semantic_similarity_score": 0.6776,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -57,9 +60,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Máquina de levantar carga pesada, relacionado con un mecanismo",
+      "consolidated_definition": "Máquina de levantar carga pesada.",
+      "en_consolidated_definition": "Crane for lifting heavy loads.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -93,9 +99,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Papagayo más pequeño que la guacamaya y más",
+      "consolidated_definition": "Papagayo más pequeño que la guacamaya y más grande que el perico, de pico corto y curvado, y de plumaje muy vistoso, en el que predomina el verde claro. Psittacidae, Amazona spp.",
+      "en_consolidated_definition": "Smaller parrot than the macaw and larger than the parakeet, with a short and curved beak, and very vibrant plumage in which light green predominates. Psittacidae, Amazona spp.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -130,10 +139,14 @@
     }
   },
   "es_definitions": [
-    ". Llaga de mal aspecto.",
-    "Máquina de levantar carga pesada, relacionado con un mecanismo",
-    "Papagayo más pequeño que la guacamaya y más"
+    "Llaga: Herida o úlcera que presenta un aspecto desagradable o inusual.",
+    "Máquina de levantar carga pesada.",
+    "Papagayo más pequeño que la guacamaya y más grande que el perico, de pico corto y curvado, y de plumaje muy vistoso, en el que predomina el verde claro. Psittacidae, Amazona spp."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wound or ulcer presenting an unpleasant or unusual appearance.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Crane for lifting heavy loads.",
+    "Smaller parrot than the macaw and larger than the parakeet, with a short and curved beak, and very vibrant plumage in which light green predominates. Psittacidae, Amazona spp."
+  ],
   "source": "https://tesoro.pr"
 }

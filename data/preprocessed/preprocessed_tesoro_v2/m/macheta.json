@@ -3,9 +3,12 @@
   "term": "macheta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Machete corto que se usa para labrar los",
+      "consolidated_definition": "Machete corto que se usa para labrar los palos de las escobas.",
+      "en_consolidated_definition": "Short machete used for cultivating broom handles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Machete corto que se usa para labrar los"
+    "Machete corto que se usa para labrar los palos de las escobas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Short machete used for cultivating broom handles."
+  ],
   "source": "https://tesoro.pr"
 }

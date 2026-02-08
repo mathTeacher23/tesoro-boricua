@@ -3,9 +3,12 @@
   "term": "ventanal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ventanaje",
+      "consolidated_definition": "Ventanaje. Conjunto de ventanas en una pared.",
+      "en_consolidated_definition": "Window array. A collection of windows in a wall.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Ventanaje"
+    "Ventanaje. Conjunto de ventanas en una pared."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Window array. A collection of windows in a wall."
+  ],
   "source": "https://tesoro.pr"
 }

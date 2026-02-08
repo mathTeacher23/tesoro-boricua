@@ -3,14 +3,17 @@
   "term": "desmayado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pobre",
+      "consolidated_definition": "Referido a persona, pobre.",
+      "en_consolidated_definition": "Referido a persona, pobre o de bajos recursos económicos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "num_cleaned_definitions": 10,
-        "definition_stability": "Stability: 0.4804",
-        "semantic_similarity_score": 0.4804,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -70,23 +73,16 @@
           "desmayamiento"
         ],
         "reference_definitions": [
-          "Pobre; muy interesado o egoísta.",
-          "Muy hambriento. El que está muerto de hambre.",
-          "Ser una persona interesada o egoísta.",
-          "Dícese de la persona: glotona; hambrienta; avara; egoísta; desmedidamente ambiciosa; sin dinero; mezquina.",
-          "Con hambre.",
-          "Hambriento.",
-          "‘Estar muy hambrienta ’, Álvarez Nazario. “Estoy esmayao, sí dice… para precipitarse hacia el olor a café que le mueve la tripa.” Ana Lydia Vega, Pasión de historia, p. 134.",
-          "Referido a persona, pobre.",
-          "Referido a persona, interesada y egoísta.",
-          "Referido a persona, avara, mezquina."
+          "Referido a persona, pobre."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pobre"
+    "Referido a persona, pobre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a persona, pobre o de bajos recursos económicos."
+  ],
   "source": "https://tesoro.pr"
 }

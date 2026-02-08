@@ -3,15 +3,18 @@
   "term": "peine",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rastrillo cuadrangular como de un metro, relacionado con un mecanismo",
+      "consolidated_definition": "Un rastrillo es un instrumento agrícola cuadrangular, generalmente hecho de madera o hierro, provisto de púas, utilizado para romper y desmenuzar los terrones del terreno arado.",
+      "en_consolidated_definition": "A cultivator rake is a quadrangular agricultural tool, typically made of wood or iron, equipped with tines, used to break up and pulverize clods of soil in the plowed field.\n\nNota: En este contexto, \"rastrillo\" se refiere a un instrumento agrícola común en Puerto Rico y otros lugares de América Latina. La traducción mantiene el significado exacto y utiliza vocabulario formal y apropiado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4954",
         "semantic_similarity_score": 0.4954,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -49,9 +52,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Peinilla corta con dientes muy juntos a ambos",
+      "consolidated_definition": "Peinilla corta con dientes muy juntos a ambos lados utilizada para despiojar.",
+      "en_consolidated_definition": "Short-bristled comb with closely set teeth on both sides used for de-lousing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -88,9 +94,12 @@
     }
   },
   "es_definitions": [
-    "Rastrillo cuadrangular como de un metro, relacionado con un mecanismo",
-    "Peinilla corta con dientes muy juntos a ambos"
+    "Un rastrillo es un instrumento agrícola cuadrangular, generalmente hecho de madera o hierro, provisto de púas, utilizado para romper y desmenuzar los terrones del terreno arado.",
+    "Peinilla corta con dientes muy juntos a ambos lados utilizada para despiojar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A cultivator rake is a quadrangular agricultural tool, typically made of wood or iron, equipped with tines, used to break up and pulverize clods of soil in the plowed field.\n\nNota: En este contexto, \"rastrillo\" se refiere a un instrumento agrícola común en Puerto Rico y otros lugares de América Latina. La traducción mantiene el significado exacto y utiliza vocabulario formal y apropiado para un diccionario.",
+    "Short-bristled comb with closely set teeth on both sides used for de-lousing."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "red fija",
   "superscripts": {
     "1": {
-      "consolidated_definition": ", la que se hala.",
+      "consolidated_definition": "En la pesca, la que se hala.",
+      "en_consolidated_definition": "The one that is hauled in fishing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ", la que se hala."
+          "En la pesca, la que se hala."
         ]
       }
     }
   },
   "es_definitions": [
-    ", la que se hala."
+    "En la pesca, la que se hala."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The one that is hauled in fishing."
+  ],
   "source": "https://tesoro.pr"
 }

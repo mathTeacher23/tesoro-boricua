@@ -3,9 +3,12 @@
   "term": "regulación",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reglamentación",
+      "consolidated_definition": "Reglamentación, norma.",
+      "en_consolidated_definition": "Regulatory provision, standard.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Reglamentación"
+    "Reglamentación, norma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Regulatory provision, standard."
+  ],
   "source": "https://tesoro.pr"
 }

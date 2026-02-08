@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "La campanilla azul es una flor silvestre en forma de campana que se produce en el bejuco de aguinaldo.",
+      "en_consolidated_definition": "The blue bellflower is a wild flower in the shape of a bell that grows on the Aguinaldo vine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Voz femenina caracterizada por ser aguda y rápida.",
+      "consolidated_definition": "Voz de mujer aguda y rápida.",
+      "en_consolidated_definition": "Voice of a female person with an acute and rapid tone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -81,15 +87,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Úvula. Es un pequeño trozo de tejido que se encuentra en la parte posterior del paladar blando y está conectado a las amígdalas.",
+      "consolidated_definition": "Úvula. También galillo.",
+      "en_consolidated_definition": "Uvula. Also uvular.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1995",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.8155",
-        "semantic_similarity_score": 0.8155,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -122,8 +131,6 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Úvula.",
-          "Úvula.",
           "Úvula. También galillo."
         ]
       }
@@ -131,9 +138,13 @@
   },
   "es_definitions": [
     "La campanilla azul es una flor silvestre en forma de campana que se produce en el bejuco de aguinaldo.",
-    "Voz femenina caracterizada por ser aguda y rápida.",
-    "Úvula. Es un pequeño trozo de tejido que se encuentra en la parte posterior del paladar blando y está conectado a las amígdalas."
+    "Voz de mujer aguda y rápida.",
+    "Úvula. También galillo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The blue bellflower is a wild flower in the shape of a bell that grows on the Aguinaldo vine.",
+    "Voice of a female person with an acute and rapid tone.",
+    "Uvula. Also uvular."
+  ],
   "source": "https://tesoro.pr"
 }

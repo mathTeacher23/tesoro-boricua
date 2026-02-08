@@ -3,9 +3,12 @@
   "term": "trincayo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Larva del mosquito",
+      "consolidated_definition": "Larva del mosquito. Sinónimo gusarapo.",
+      "en_consolidated_definition": "Culix larva or gusarapo larva.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Larva del mosquito"
+    "Larva del mosquito. Sinónimo gusarapo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Culix larva or gusarapo larva."
+  ],
   "source": "https://tesoro.pr"
 }

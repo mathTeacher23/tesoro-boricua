@@ -3,9 +3,12 @@
   "term": "látere",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver látele",
+      "consolidated_definition": "Ver látele .",
+      "en_consolidated_definition": "View the cattle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver látele"
+    "Ver látele ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "View the cattle."
+  ],
   "source": "https://tesoro.pr"
 }

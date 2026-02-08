@@ -3,9 +3,12 @@
   "term": "flonquiar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Suspender",
+      "consolidated_definition": "Suspender, desaprobar un examen.",
+      "en_consolidated_definition": "Fail or disapprove an examination.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Suspender"
+    "Suspender, desaprobar un examen."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fail or disapprove an examination."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "macarela",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caballa",
+      "consolidated_definition": "Caballa. Pez de mar, comestible, parecido al arenque, que generalmente se mercadea en salmuera.",
+      "en_consolidated_definition": "Mackerel. A marine fish, edible and similar to herring, that is generally marketed in brine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Caballa"
+    "Caballa. Pez de mar, comestible, parecido al arenque, que generalmente se mercadea en salmuera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mackerel. A marine fish, edible and similar to herring, that is generally marketed in brine."
+  ],
   "source": "https://tesoro.pr"
 }

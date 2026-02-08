@@ -3,14 +3,17 @@
   "term": "hablar malo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablar en forma soez",
+      "consolidated_definition": "Hablar en forma soez, con palabras malsonantes.",
+      "en_consolidated_definition": "Speak in a coarse or obscene manner, using profane words.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5317",
-        "semantic_similarity_score": 0.5317,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución verbal"
@@ -40,15 +43,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hablar en forma soez, malsonante, empleando palabras que se consideran tabúes. “Gerardo empuja a los que empujan, le hablan malo y alguien ha mostrado el filo de una cuchilla.” Juan Antonio Ramos, Vive y vacila, p. 78.",
           "Hablar en forma soez, con palabras malsonantes."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hablar en forma soez"
+    "Hablar en forma soez, con palabras malsonantes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Speak in a coarse or obscene manner, using profane words."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "de calle",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fácilmente",
+      "consolidated_definition": "Sin duda, seguramente.",
+      "en_consolidated_definition": "Sin duda alguna, con certeza.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3539",
-        "semantic_similarity_score": 0.3539,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución adverbial"
@@ -42,16 +45,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Fácilmente. “Eran tres flacas y sólo siete gordas, pero estas ganaron de calle.”",
-          "Con seguridad. Inevitable.",
           "Sin duda, seguramente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fácilmente"
+    "Sin duda, seguramente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sin duda alguna, con certeza."
+  ],
   "source": "https://tesoro.pr"
 }

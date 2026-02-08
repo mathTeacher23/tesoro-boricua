@@ -3,15 +3,18 @@
   "term": "tuntún",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mareo",
+      "consolidated_definition": "Mareo: sensación de vértigo o desequilibrio que se produce en respuesta a cambios en el entorno, como movimientos de barco o ascensores rápidos.",
+      "en_consolidated_definition": "Dizziness: sensation of vertigo or loss of balance that occurs in response to changes in the environment, such as movements on a boat or rapid elevator ascents.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Baile de negros con tambores llamados bombas",
+      "consolidated_definition": "El baile de negros con tambores llamados bombas se refiere a una fiesta tradicional que involucra la participación de músicos y bailarines, caracterizada por el uso de tambores en su ejecución.",
+      "en_consolidated_definition": "The bomba dance with drums refers to a traditional festival that involves the participation of musicians and dancers, characterized by the use of drums in its execution.\n\nNota: La \"bomba\" se refiere específicamente al baile tradicional de Puerto Rico que involucra tambores y movimientos rítmicos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5293",
         "semantic_similarity_score": 0.5293,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -85,9 +91,12 @@
     }
   },
   "es_definitions": [
-    "Mareo",
-    "Baile de negros con tambores llamados bombas"
+    "Mareo: sensación de vértigo o desequilibrio que se produce en respuesta a cambios en el entorno, como movimientos de barco o ascensores rápidos.",
+    "El baile de negros con tambores llamados bombas se refiere a una fiesta tradicional que involucra la participación de músicos y bailarines, caracterizada por el uso de tambores en su ejecución."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dizziness: sensation of vertigo or loss of balance that occurs in response to changes in the environment, such as movements on a boat or rapid elevator ascents.",
+    "The bomba dance with drums refers to a traditional festival that involves the participation of musicians and dancers, characterized by the use of drums in its execution.\n\nNota: La \"bomba\" se refiere específicamente al baile tradicional de Puerto Rico que involucra tambores y movimientos rítmicos."
+  ],
   "source": "https://tesoro.pr"
 }

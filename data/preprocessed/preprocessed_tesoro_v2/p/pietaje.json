@@ -3,14 +3,17 @@
   "term": "pietaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Película medida en pies",
+      "consolidated_definition": "Medidas de una casa.",
+      "en_consolidated_definition": "House measurements.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4424",
-        "semantic_similarity_score": 0.4424,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -43,16 +46,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Película medida en pies. Largo total del vídeo o película según se tomó por la cámara para edición posterior. Anglicismo de sentido, poco frecuente. Cuenta además con música original, animación digital, efectos especiales, tomas aéreas y combina el pietaje de las películas originales con pietaje actual",
-          "Medidas de una casa.",
-          "Largo de una cinta donde se graban sonidos."
+          "Medidas de una casa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Película medida en pies"
+    "Medidas de una casa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "House measurements."
+  ],
   "source": "https://tesoro.pr"
 }

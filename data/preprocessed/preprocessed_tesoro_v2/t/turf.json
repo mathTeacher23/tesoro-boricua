@@ -3,9 +3,12 @@
   "term": "turf",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pista de carreras de caballos",
+      "consolidated_definition": "Pista de carreras de caballos.",
+      "en_consolidated_definition": "Racing track for horses.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pista de carreras de caballos"
+    "Pista de carreras de caballos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Racing track for horses."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "nitidón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Algo muy nítido",
+      "consolidated_definition": "Algo muy nítido.",
+      "en_consolidated_definition": "Something very distinct or well-defined.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Algo muy nítido"
+    "Algo muy nítido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Something very distinct or well-defined."
+  ],
   "source": "https://tesoro.pr"
 }

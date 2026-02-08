@@ -3,15 +3,18 @@
   "term": "a final de cuentas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"En resumen\": expresión utilizada para sintetizar o resumir información previa de manera concisa.",
+      "consolidated_definition": "En resumen, en definitiva.",
+      "en_consolidated_definition": "In summary, in any case.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución adverbial"
         ],
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "\"En resumen\": expresión utilizada para sintetizar o resumir información previa de manera concisa."
+    "En resumen, en definitiva."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In summary, in any case."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "grosomodo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grosso modo",
+      "consolidated_definition": "Grosso modo. En conjunto, sin entrar en detalles.",
+      "en_consolidated_definition": "En conjunto, sin entrar en detalles; aproximadamente o en general.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Grosso modo"
+    "Grosso modo. En conjunto, sin entrar en detalles."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "En conjunto, sin entrar en detalles; aproximadamente o en general."
+  ],
   "source": "https://tesoro.pr"
 }

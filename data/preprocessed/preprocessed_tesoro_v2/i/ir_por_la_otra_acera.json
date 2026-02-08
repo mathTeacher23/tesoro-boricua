@@ -3,9 +3,12 @@
   "term": "ir por la otra acera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En una conversación",
+      "consolidated_definition": "En una conversación, hablar sobre un tema diferente al que los demás están tratando. Estar despistado.",
+      "en_consolidated_definition": "To divert from the main topic of conversation, to be off the subject; to be absent-minded or inattentive during a discussion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En una conversación"
+    "En una conversación, hablar sobre un tema diferente al que los demás están tratando. Estar despistado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To divert from the main topic of conversation, to be off the subject; to be absent-minded or inattentive during a discussion."
+  ],
   "source": "https://tesoro.pr"
 }

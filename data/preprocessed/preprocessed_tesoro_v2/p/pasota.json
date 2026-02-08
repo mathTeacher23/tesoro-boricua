@@ -3,15 +3,18 @@
   "term": "pasota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona anticuada",
+      "consolidated_definition": "Persona que se considera a sí misma o es percibida por los demás como conservadora en sus costumbres y opiniones.",
+      "en_consolidated_definition": "Person who considers themselves or is perceived by others as conservative in their customs and opinions.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4207",
         "semantic_similarity_score": 0.4207,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -40,9 +43,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Muchacha bonita",
+      "consolidated_definition": "Muchacha bonita.",
+      "en_consolidated_definition": "Pretty young woman.\n\nNota: La expresión \"muchacha bonita\" es una forma coloquial y culturalmente específica de Puerto Rico para referirse a una joven mujer atractiva. En el contexto de un diccionario formal, se puede traducir directamente como \"pretty young woman\", manteniendo la precisión y la formalidad requeridas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,9 +83,12 @@
     }
   },
   "es_definitions": [
-    "Persona anticuada",
-    "Muchacha bonita"
+    "Persona que se considera a sí misma o es percibida por los demás como conservadora en sus costumbres y opiniones.",
+    "Muchacha bonita."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who considers themselves or is perceived by others as conservative in their customs and opinions.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "Pretty young woman.\n\nNota: La expresión \"muchacha bonita\" es una forma coloquial y culturalmente específica de Puerto Rico para referirse a una joven mujer atractiva. En el contexto de un diccionario formal, se puede traducir directamente como \"pretty young woman\", manteniendo la precisión y la formalidad requeridas."
+  ],
   "source": "https://tesoro.pr"
 }

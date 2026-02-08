@@ -3,15 +3,18 @@
   "term": "arrollado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de alguien que no tiene dinero.",
+      "consolidated_definition": "Arrancado, que no tiene dinero.",
+      "en_consolidated_definition": "Broke, lacking funds.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6218",
-        "semantic_similarity_score": 0.6218,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -40,22 +43,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice de alguien en mala situación económica.",
-          "Arrancado, que no tiene dinero.",
-          "Que no tiene dinero."
+          "Arrancado, que no tiene dinero."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que se encuentra sobrecargada con tareas o responsabilidades adicionales y no puede completarlas en el plazo establecido.",
+      "consolidated_definition": "Referido a persona, que tiene demasiado trabajo que terminar.",
+      "en_consolidated_definition": "Overburdened individual with excessive tasks to complete.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7708",
-        "semantic_similarity_score": 0.7708,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -79,16 +83,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Referido a persona, que tiene demasiado trabajo que terminar.",
-          "Referido a persona, que tiene demasiado trabajo por habérsele asignado tareas que corresponden a otros, además de las propias."
+          "Referido a persona, que tiene demasiado trabajo que terminar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se dice de alguien que no tiene dinero.",
-    "Persona que se encuentra sobrecargada con tareas o responsabilidades adicionales y no puede completarlas en el plazo establecido."
+    "Arrancado, que no tiene dinero.",
+    "Referido a persona, que tiene demasiado trabajo que terminar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Broke, lacking funds.",
+    "Overburdened individual with excessive tasks to complete."
+  ],
   "source": "https://tesoro.pr"
 }

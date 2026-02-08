@@ -3,14 +3,17 @@
   "term": "güira",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Higüero, planta. Ac.; Grosourdy, 2: 389.",
+      "consolidated_definition": "Planta y fruto.",
+      "en_consolidated_definition": "Plant and fruit.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4149",
-        "semantic_similarity_score": 0.4149,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,22 +47,23 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          ". Higüero, planta. Ac.; Grosourdy, 2: 389.",
-          "Calabazo.",
           "Planta y fruto."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Conjunto de provisiones que se compran para usarse",
+      "consolidated_definition": "\"Jíbaro\": conjunto de provisiones de alimentos y productos básicos adquiridos por el jíbaro en el pueblo generalmente el día sábado para uso durante la semana.",
+      "en_consolidated_definition": "Jíbaro: a collection of food provisions and basic products acquired by the jíbaro in the town, typically on Saturday, for use during the week.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7882",
-        "semantic_similarity_score": 0.7882,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.8656",
+        "semantic_similarity_score": 0.8656,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -89,15 +93,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Conjunto de provisiones que se compran para usarse durante la semana.",
+          "(jíbaro) Conjunto de provisiones que se compran para usarse durante la semana.",
           "Conjunto de provisiones que compra el jíbaro en el pueblo, generalmente el día sábado, para uso durante la semana."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "despect",
+      "consolidated_definition": "despect. Cholla, cabeza.",
+      "en_consolidated_definition": "Derogatory term for a foolish or stupid person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -131,12 +138,15 @@
       }
     },
     "4": {
-      "consolidated_definition": "Cosa fácil",
+      "consolidated_definition": "Cosa fácil.",
+      "en_consolidated_definition": "Something easy to do or accomplish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -167,20 +177,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cosa fácil.",
           "Cosa fácil."
         ]
       }
     },
     "5": {
-      "consolidated_definition": "Nombre con el que se conoce el pez",
+      "consolidated_definition": "Pez. Carangidae, Caranx crysos.",
+      "en_consolidated_definition": "Fish. Family Carangidae, species Caranx crysos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3655",
-        "semantic_similarity_score": 0.3655,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -209,19 +221,24 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Nombre con el que se conoce el pez cojinúa en Barceloneta y Aguadilla.",
           "Pez. Carangidae, Caranx crysos."
         ]
       }
     }
   },
   "es_definitions": [
-    ". Higüero, planta. Ac.; Grosourdy, 2: 389.",
-    "Conjunto de provisiones que se compran para usarse",
-    "despect",
-    "Cosa fácil",
-    "Nombre con el que se conoce el pez"
+    "Planta y fruto.",
+    "\"Jíbaro\": conjunto de provisiones de alimentos y productos básicos adquiridos por el jíbaro en el pueblo generalmente el día sábado para uso durante la semana.",
+    "despect. Cholla, cabeza.",
+    "Cosa fácil.",
+    "Pez. Carangidae, Caranx crysos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Plant and fruit.",
+    "Jíbaro: a collection of food provisions and basic products acquired by the jíbaro in the town, typically on Saturday, for use during the week.",
+    "Derogatory term for a foolish or stupid person.",
+    "Something easy to do or accomplish.",
+    "Fish. Family Carangidae, species Caranx crysos."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "mall",
   "superscripts": {
     "1": {
-      "consolidated_definition": "comer, relacionado con un grupo",
+      "consolidated_definition": "Recinto de grandes dimensiones donde se encuentran localizados diversos establecimientos comerciales.",
+      "en_consolidated_definition": "Commercial complex or shopping center of large dimensions where various commercial establishments are located.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3749",
-        "semantic_similarity_score": 0.3749,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "comer. Centro comercial. Grupo de tiendas agrupadas en un mismo edificio bajo techo con amplio estacionamiento. Anglicismo crudo, usual. Forma el compuesto shopping mall. El pariseo interminable de los week-ends, el montón de días festivos en los que la televisión y el mall parecen ser los únicos destinos",
           "Recinto de grandes dimensiones donde se encuentran localizados diversos establecimientos comerciales."
         ]
       }
     }
   },
   "es_definitions": [
-    "comer, relacionado con un grupo"
+    "Recinto de grandes dimensiones donde se encuentran localizados diversos establecimientos comerciales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Commercial complex or shopping center of large dimensions where various commercial establishments are located."
+  ],
   "source": "https://tesoro.pr"
 }

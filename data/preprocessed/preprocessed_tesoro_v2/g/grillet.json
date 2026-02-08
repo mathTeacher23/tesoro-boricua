@@ -3,9 +3,12 @@
   "term": "grillet",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Calado de medio punto sobre el dintel de",
+      "consolidated_definition": "Calado de medio punto sobre el dintel de las puertas. También se hace de rejillas verticales.",
+      "en_consolidated_definition": "Midpoint arch over the lintel of doors. It is also made with vertical grilles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Calado de medio punto sobre el dintel de"
+    "Calado de medio punto sobre el dintel de las puertas. También se hace de rejillas verticales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Midpoint arch over the lintel of doors. It is also made with vertical grilles."
+  ],
   "source": "https://tesoro.pr"
 }

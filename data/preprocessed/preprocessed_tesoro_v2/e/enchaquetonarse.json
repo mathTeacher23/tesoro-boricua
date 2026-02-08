@@ -3,9 +3,12 @@
   "term": "enchaquetonarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vestirse un hombre con traje completo",
+      "consolidated_definition": "Vestirse un hombre con traje completo, corbata incluida.",
+      "en_consolidated_definition": "A man dressed in a complete suit, including tie.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Vestirse un hombre con traje completo"
+    "Vestirse un hombre con traje completo, corbata incluida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A man dressed in a complete suit, including tie."
+  ],
   "source": "https://tesoro.pr"
 }

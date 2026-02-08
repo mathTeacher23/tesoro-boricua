@@ -3,9 +3,12 @@
   "term": "prico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conversación interesante",
+      "consolidated_definition": "Conversación interesante.",
+      "en_consolidated_definition": "Engaging conversation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Conversación interesante"
+    "Conversación interesante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Engaging conversation."
+  ],
   "source": "https://tesoro.pr"
 }

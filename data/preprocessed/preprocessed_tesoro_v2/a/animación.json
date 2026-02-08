@@ -3,15 +3,18 @@
   "term": "animación",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La presentación es el acto de introducir al público en un programa de televisión o un espectáculo de variedades.",
+      "consolidated_definition": "Presentación de un programa de televisión o de un espectáculo de variedades.",
+      "en_consolidated_definition": "Teledifusión: Introduction to a television program or variety show.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La presentación es el acto de introducir al público en un programa de televisión o un espectáculo de variedades."
+    "Presentación de un programa de televisión o de un espectáculo de variedades."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Teledifusión: Introduction to a television program or variety show."
+  ],
   "source": "https://tesoro.pr"
 }

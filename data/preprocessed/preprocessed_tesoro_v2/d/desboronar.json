@@ -3,9 +3,12 @@
   "term": "desboronar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deshacer una cosa en porciones muy pequeñas",
+      "consolidated_definition": "Deshacer una cosa en porciones muy pequeñas.",
+      "en_consolidated_definition": "Reduce una cosa a fragmentos muy pequeños.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Deshacer una cosa en porciones muy pequeñas"
+    "Deshacer una cosa en porciones muy pequeñas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Reduce una cosa a fragmentos muy pequeños."
+  ],
   "source": "https://tesoro.pr"
 }

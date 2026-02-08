@@ -3,9 +3,12 @@
   "term": "ron party",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reunión para tomar licor",
+      "consolidated_definition": "Reunión para tomar licor.",
+      "en_consolidated_definition": "Social gathering for the consumption of liquor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Reunión para tomar licor"
+    "Reunión para tomar licor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Social gathering for the consumption of liquor."
+  ],
   "source": "https://tesoro.pr"
 }

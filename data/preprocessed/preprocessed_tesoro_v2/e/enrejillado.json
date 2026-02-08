@@ -3,9 +3,12 @@
   "term": "enrejillado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Piso de rejilla",
+      "consolidated_definition": "Piso de rejilla.",
+      "en_consolidated_definition": "Floor grid.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Piso de rejilla"
+    "Piso de rejilla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Floor grid."
+  ],
   "source": "https://tesoro.pr"
 }

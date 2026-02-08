@@ -3,9 +3,12 @@
   "term": "vivir del mantengo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Recibir mensualmente",
+      "consolidated_definition": "Recibir mensualmente, por parte del Gobierno, el sustento.",
+      "en_consolidated_definition": "Receive monthly support from the government.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Recibir mensualmente"
+    "Recibir mensualmente, por parte del Gobierno, el sustento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Receive monthly support from the government."
+  ],
   "source": "https://tesoro.pr"
 }

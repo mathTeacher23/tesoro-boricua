@@ -3,9 +3,12 @@
   "term": "llorar miserias",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Quejarse alguien sin motivos reales de no tener",
+      "consolidated_definition": "Quejarse alguien sin motivos reales de no tener dinero.",
+      "en_consolidated_definition": "To complain about not having money without any real grounds or justification.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Quejarse alguien sin motivos reales de no tener"
+    "Quejarse alguien sin motivos reales de no tener dinero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To complain about not having money without any real grounds or justification."
+  ],
   "source": "https://tesoro.pr"
 }

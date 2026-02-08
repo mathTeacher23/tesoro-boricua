@@ -3,15 +3,18 @@
   "term": "lapa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona pegajosa, relacionado con un grupo",
+      "consolidated_definition": "Persona que se mantiene cerca o pegada a su compañero, sin separarse de él.",
+      "en_consolidated_definition": "Persona que se mantiene cerca o pegada a su compañero, sin separarse de él.\n\nNota: Esta palabra puede estar relacionada con el término \"pegajosa\" en español puertorriqueño, pero no hay una traducción directa en inglés. Sin embargo, la definición anterior es lo más cercana posible al significado original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6139",
         "semantic_similarity_score": 0.6139,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Estudiante que pide prestado a sus compañeros apuntes",
+      "consolidated_definition": "Estudiante que pide prestado a sus compañeros apuntes y tareas de clase.",
+      "en_consolidated_definition": "Student who borrows class notes and assignments from their classmates.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona pegajosa, relacionado con un grupo",
-    "Estudiante que pide prestado a sus compañeros apuntes"
+    "Persona que se mantiene cerca o pegada a su compañero, sin separarse de él.",
+    "Estudiante que pide prestado a sus compañeros apuntes y tareas de clase."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que se mantiene cerca o pegada a su compañero, sin separarse de él.\n\nNota: Esta palabra puede estar relacionada con el término \"pegajosa\" en español puertorriqueño, pero no hay una traducción directa en inglés. Sin embargo, la definición anterior es lo más cercana posible al significado original.",
+    "Student who borrows class notes and assignments from their classmates."
+  ],
   "source": "https://tesoro.pr"
 }

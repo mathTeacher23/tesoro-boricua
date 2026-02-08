@@ -3,15 +3,18 @@
   "term": "suncho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cincha o cincho de caballería",
+      "consolidated_definition": "Cincha o cincho de caballería es un elemento de equipo utilizado para mantener la silla de montar en su lugar sobre el animal de carga.",
+      "en_consolidated_definition": "Saddle cinch or saddle cincho is an equipment element used to keep the riding saddle in place on the pack animal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6005",
         "semantic_similarity_score": 0.6005,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Cincha o cincho de caballería"
+    "Cincha o cincho de caballería es un elemento de equipo utilizado para mantener la silla de montar en su lugar sobre el animal de carga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Saddle cinch or saddle cincho is an equipment element used to keep the riding saddle in place on the pack animal."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "chopper",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se emplea para limpiar el terreno de malezas y fertilizar las plantas mediante la aplicación de tierra en su superficie.",
+      "consolidated_definition": "Se emplea para limpiar el terreno de yerbas dañinas y echar tierra a las plantas para fortalecerlas.",
+      "en_consolidated_definition": "It is used to clear the land of noxious weeds and mulch plants to strengthen them.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Un folleto publicitario es un material impreso que anuncia productos comerciales y a menudo se encuentra disponible en la entrada de establecimientos comerciales.",
+      "consolidated_definition": "Sobretiro de un periódico o cuadernillo que anuncia productos comerciales; a veces disponible en las puertas de las tiendas.",
+      "en_consolidated_definition": "Supplement or insert of a newspaper or pamphlet that advertises commercial products; sometimes available at store entrances.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -79,15 +85,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Motocicleta con manillar alto y horquilla extendida hacia delante; objeto poco frecuente en español.",
+      "consolidated_definition": "motoc. Motocicleta con el manillar muy alto y la horquilla de la rueda delantera extendida hacia delante. Anglicismo crudo, poco frecuente. Bienvenidos a MotogoChopper.com site creado para informar a nuestros clientes y amigos sobre las motoras tipo chopper 350 de alta calidad y estilo unico, somos distribuidores exclusivos para Puerto Rico y el Caribe, estamos convenientemente localizados (MotogoChopper PR, consultado 17-06-08)",
+      "en_consolidated_definition": "Motorcycle with a very high handlebar and an extended front fork. Raw anglicism, infrequently used.\n\nNote: MotogoChopper PR se refiere a una empresa que distribuye motocicletas tipo chopper en Puerto Rico y el Caribe. \n\nNota: La expresión \"motoras tipo chopper\" se traduce como \"motorcycles with a chopper style\", donde \"chopper\" se refiere a un estilo de motocicleta con características específicas, como una horquilla extendida y un manillar alto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -116,10 +125,14 @@
     }
   },
   "es_definitions": [
-    "Se emplea para limpiar el terreno de malezas y fertilizar las plantas mediante la aplicación de tierra en su superficie.",
-    "Un folleto publicitario es un material impreso que anuncia productos comerciales y a menudo se encuentra disponible en la entrada de establecimientos comerciales.",
-    "Motocicleta con manillar alto y horquilla extendida hacia delante; objeto poco frecuente en español."
+    "Se emplea para limpiar el terreno de yerbas dañinas y echar tierra a las plantas para fortalecerlas.",
+    "Sobretiro de un periódico o cuadernillo que anuncia productos comerciales; a veces disponible en las puertas de las tiendas.",
+    "motoc. Motocicleta con el manillar muy alto y la horquilla de la rueda delantera extendida hacia delante. Anglicismo crudo, poco frecuente. Bienvenidos a MotogoChopper.com site creado para informar a nuestros clientes y amigos sobre las motoras tipo chopper 350 de alta calidad y estilo unico, somos distribuidores exclusivos para Puerto Rico y el Caribe, estamos convenientemente localizados (MotogoChopper PR, consultado 17-06-08)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "It is used to clear the land of noxious weeds and mulch plants to strengthen them.",
+    "Supplement or insert of a newspaper or pamphlet that advertises commercial products; sometimes available at store entrances.",
+    "Motorcycle with a very high handlebar and an extended front fork. Raw anglicism, infrequently used.\n\nNote: MotogoChopper PR se refiere a una empresa que distribuye motocicletas tipo chopper en Puerto Rico y el Caribe. \n\nNota: La expresión \"motoras tipo chopper\" se traduce como \"motorcycles with a chopper style\", donde \"chopper\" se refiere a un estilo de motocicleta con características específicas, como una horquilla extendida y un manillar alto."
+  ],
   "source": "https://tesoro.pr"
 }

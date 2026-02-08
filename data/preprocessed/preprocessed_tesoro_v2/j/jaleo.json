@@ -3,14 +3,17 @@
   "term": "jaleo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Malestar en el estómago, relacionado con un grupo",
+      "consolidated_definition": "Malestar estomacal o intestinal, generalmente acompañado de náuseas.",
+      "en_consolidated_definition": "Gastrointestinal discomfort or intestinal distress, typically accompanied by nausea.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.4863",
-        "semantic_similarity_score": 0.4863,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -71,21 +74,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Malestar en el estómago.",
-          "Malestar en el estómago.",
-          "Sensación que algunas personas sienten por la mañana en el estómago y que desaparece después de haber tomado un poco de café.",
-          "Perturbación estomacal o intestinal.",
-          "Malestar de estómago.",
-          "Mal. Malestar.",
-          "Cierta sensación de malestar. Sensación de desmayo en la boca del estómago.",
           "Malestar estomacal o intestinal, generalmente acompañado de náuseas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Coito",
+      "consolidated_definition": "Coito.",
+      "en_consolidated_definition": "Coitus. \n\nNota: En algunos contextos culturales, \"coito\" puede referirse a una forma de danza tradicional en Puerto Rico, pero en este caso, se entiende como el acto sexual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -120,9 +119,12 @@
     }
   },
   "es_definitions": [
-    "Malestar en el estómago, relacionado con un grupo",
-    "Coito"
+    "Malestar estomacal o intestinal, generalmente acompañado de náuseas.",
+    "Coito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gastrointestinal discomfort or intestinal distress, typically accompanied by nausea.",
+    "Coitus. \n\nNota: En algunos contextos culturales, \"coito\" puede referirse a una forma de danza tradicional en Puerto Rico, pero en este caso, se entiende como el acto sexual."
+  ],
   "source": "https://tesoro.pr"
 }

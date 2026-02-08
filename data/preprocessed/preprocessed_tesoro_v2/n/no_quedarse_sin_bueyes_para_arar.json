@@ -3,9 +3,12 @@
   "term": "no quedarse sin bueyes para arar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No poner todos los huevos en una sola",
+      "consolidated_definition": "No poner todos los huevos en una sola canasta.",
+      "en_consolidated_definition": "No poner todos los huevos en una sola canasta se traduce como:\n\nDon't put all your eggs in one basket.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "No poner todos los huevos en una sola"
+    "No poner todos los huevos en una sola canasta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No poner todos los huevos en una sola canasta se traduce como:\n\nDon't put all your eggs in one basket."
+  ],
   "source": "https://tesoro.pr"
 }

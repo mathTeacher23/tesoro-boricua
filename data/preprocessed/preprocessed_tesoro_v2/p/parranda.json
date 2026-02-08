@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Serenata, reunión de gentes que van de fiesta con guitarras y otros instrumentos.",
+      "en_consolidated_definition": "Festive gathering, a group of people attending a party with guitars and other instruments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,6 +45,8 @@
   "es_definitions": [
     ". Serenata, reunión de gentes que van de fiesta con guitarras y otros instrumentos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Festive gathering, a group of people attending a party with guitars and other instruments."
+  ],
   "source": "https://tesoro.pr"
 }

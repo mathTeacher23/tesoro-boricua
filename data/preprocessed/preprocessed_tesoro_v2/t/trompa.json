@@ -3,14 +3,17 @@
   "term": "trompa",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Hocico, jeta.",
+      "consolidated_definition": "Hocico del cerdo.",
+      "en_consolidated_definition": "Pig snout.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7156",
-        "semantic_similarity_score": 0.7156,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,22 +47,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Hocico, jeta.",
-          "Hocico del cerdo.",
           "Hocico del cerdo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Otros con idea más precisa del asunto",
+      "consolidated_definition": "El arado antiguo con reja embutido en el dental se conoce también como 'trompa', especialmente en las islas de Vieques y Lares.",
+      "en_consolidated_definition": "The ancient plow with a reed inserted into the tine is also known as 'trompa', especially in the islands of Vieques and Lares.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.627",
-        "semantic_similarity_score": 0.627,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.7234",
+        "semantic_similarity_score": 0.7234,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -87,16 +91,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Otros con idea más precisa del asunto , pero incluyendo acaso dental y reja dentro del mismo nombre, dieron la variante trompa, en Lares y Vieques.",
-          "En puntos del interior occidental, interior oriental, sur y sureste, y este, el dental de este instrumento de labranza . También cabeza, púa, puya, cubo, hocico, hoza, sentaera, pico, punta."
+          "Otros con idea más precisa del asunto el arado antiguo, de reja embutido en el dental, pero incluyendo acaso dental y reja dentro del mismo nombre, dieron la variante trompa, en Lares y Vieques.",
+          "En puntos del interior occidental, interior oriental, sur y sureste, y este, el dental de este instrumento de labranza el arado antiguo, de reja embutida en el dental. También cabeza, púa, puya, cubo, hocico, hoza, senta(d)era, pico, punta."
         ]
       }
     }
   },
   "es_definitions": [
-    ". Hocico, jeta.",
-    "Otros con idea más precisa del asunto"
+    "Hocico del cerdo.",
+    "El arado antiguo con reja embutido en el dental se conoce también como 'trompa', especialmente en las islas de Vieques y Lares."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pig snout.",
+    "The ancient plow with a reed inserted into the tine is also known as 'trompa', especially in the islands of Vieques and Lares."
+  ],
   "source": "https://tesoro.pr"
 }

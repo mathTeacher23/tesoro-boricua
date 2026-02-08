@@ -3,9 +3,12 @@
   "term": "faltar al respeto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ofender a alguien",
+      "consolidated_definition": "Ofender a alguien, no respetar a alguien. “Le faltó al respeto.”",
+      "en_consolidated_definition": "To offend someone, to show disrespect towards someone. \"He lacked respect.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Ofender a alguien"
+    "Ofender a alguien, no respetar a alguien. “Le faltó al respeto.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To offend someone, to show disrespect towards someone. \"He lacked respect.\""
+  ],
   "source": "https://tesoro.pr"
 }

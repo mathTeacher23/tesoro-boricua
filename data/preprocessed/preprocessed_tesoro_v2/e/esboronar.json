@@ -3,9 +3,12 @@
   "term": "esboronar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deshacer en porciones",
+      "consolidated_definition": "Deshacer en porciones.",
+      "en_consolidated_definition": "To break down into portions or pieces.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Deshacer en porciones"
+    "Deshacer en porciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To break down into portions or pieces."
+  ],
   "source": "https://tesoro.pr"
 }

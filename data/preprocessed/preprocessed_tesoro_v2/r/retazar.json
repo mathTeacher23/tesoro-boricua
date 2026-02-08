@@ -3,9 +3,12 @@
   "term": "retazar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Economizar los materiales de un trabajo",
+      "consolidated_definition": "Economizar los materiales de un trabajo, usando los retazos.",
+      "en_consolidated_definition": "To economize on the materials of a work by using scraps or leftovers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Economizar los materiales de un trabajo"
+    "Economizar los materiales de un trabajo, usando los retazos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To economize on the materials of a work by using scraps or leftovers."
+  ],
   "source": "https://tesoro.pr"
 }

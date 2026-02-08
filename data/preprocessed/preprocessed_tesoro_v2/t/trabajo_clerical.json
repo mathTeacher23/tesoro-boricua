@@ -3,9 +3,12 @@
   "term": "trabajo clerical",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajo de oficina",
+      "consolidated_definition": "Trabajo de oficina, secretarial.",
+      "en_consolidated_definition": "Office work, secretarial tasks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Trabajo de oficina"
+    "Trabajo de oficina, secretarial."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Office work, secretarial tasks."
+  ],
   "source": "https://tesoro.pr"
 }

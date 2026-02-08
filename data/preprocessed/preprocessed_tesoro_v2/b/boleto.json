@@ -3,9 +3,12 @@
   "term": "boleto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Boleta: documento que se refiere a un billete para la entrada u ocupación de asiento en eventos como teatro, trenes, etc.",
+      "consolidated_definition": "Boleta: documento que se refiere a un billete para la entrada o reserva en eventos como teatro, trenes, etc.",
+      "en_consolidated_definition": "Ticket stub: document referring to a ticket for entry or reservation in events such as theater, trains, etc.\n\nNota: En este contexto, \"trenes\" se refiere a transporte público de Puerto Rico, que puede incluir autobuses o trenes urbanos. Sin embargo, para mantener la precisión y el tono formal, he mantenido la traducción literal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -59,8 +62,10 @@
     }
   },
   "es_definitions": [
-    "Boleta: documento que se refiere a un billete para la entrada u ocupación de asiento en eventos como teatro, trenes, etc."
+    "Boleta: documento que se refiere a un billete para la entrada o reserva en eventos como teatro, trenes, etc."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ticket stub: document referring to a ticket for entry or reservation in events such as theater, trains, etc.\n\nNota: En este contexto, \"trenes\" se refiere a transporte público de Puerto Rico, que puede incluir autobuses o trenes urbanos. Sin embargo, para mantener la precisión y el tono formal, he mantenido la traducción literal."
+  ],
   "source": "https://tesoro.pr"
 }

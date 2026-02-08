@@ -3,15 +3,18 @@
   "term": "corona",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Corona\": conjunto de hojas que rodea la base de la piña, incluyendo partes como el \"cabo rojo\" y el \"trujillo alto\".",
+      "consolidated_definition": "Moña de la piña.",
+      "en_consolidated_definition": "Coirón of the pineapple.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5079",
-        "semantic_similarity_score": 0.5079,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,22 +47,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para indicar el manojo de hojas que forman la corona de la fruta de la piña aparecieron entremezcladamente ... corona, Cabo Rojo y Trujillo Alto.",
-          "Moña de la piña. También semiya, cogoyo, cohoyo, semiyita, rabo, tayo, hoja de la piña, pesón de la piña, plantasión, resiembro.",
           "Moña de la piña."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "El estrato superior de hojas en una plantación de tabaco.",
+      "consolidated_definition": "Grupo de hojas más altas de la planta del tabaco.",
+      "en_consolidated_definition": "Group of higher leaves from the tobacco plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9509",
-        "semantic_similarity_score": 0.9509,
-        "cluster_count": 1,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -89,21 +93,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El grupo de hojas más altas en la plantación de tabaco.",
           "Grupo de hojas más altas de la planta del tabaco."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "El levantamiento del fondo marino se refiere al proceso de medir o mapear la profundidad y características del lecho marino utilizando instrumentos como sonares, corrientómetros y otros dispositivos especializados.",
+      "consolidated_definition": "Levantamiento del fondo marino.",
+      "en_consolidated_definition": "Elevación del fondo marino.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -131,15 +137,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Levantamiento del fondo marino.",
           "Levantamiento del fondo marino."
         ]
       }
     },
     "4": {
       "consolidated_definition": "Las mijarras formaban parte de un mecanismo que se juntaba en un eje movido por engranajes de ruedas o coronas, el cual, a su vez, movía las mazas (cilindros) destinadas a estrujar la caña.",
+      "en_consolidated_definition": "The mijarras formed part of a mechanism that joined on an axle driven by gear wheels or crowns, which in turn moved the mallets (cylinders) intended to crush the cane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -183,11 +191,16 @@
     }
   },
   "es_definitions": [
-    "\"Corona\": conjunto de hojas que rodea la base de la piña, incluyendo partes como el \"cabo rojo\" y el \"trujillo alto\".",
-    "El estrato superior de hojas en una plantación de tabaco.",
-    "El levantamiento del fondo marino se refiere al proceso de medir o mapear la profundidad y características del lecho marino utilizando instrumentos como sonares, corrientómetros y otros dispositivos especializados.",
+    "Moña de la piña.",
+    "Grupo de hojas más altas de la planta del tabaco.",
+    "Levantamiento del fondo marino.",
     "Las mijarras formaban parte de un mecanismo que se juntaba en un eje movido por engranajes de ruedas o coronas, el cual, a su vez, movía las mazas (cilindros) destinadas a estrujar la caña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coirón of the pineapple.",
+    "Group of higher leaves from the tobacco plant.",
+    "Elevación del fondo marino.",
+    "The mijarras formed part of a mechanism that joined on an axle driven by gear wheels or crowns, which in turn moved the mallets (cylinders) intended to crush the cane."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "verraco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo viejo",
+      "consolidated_definition": "Gallo viejo, matacán.",
+      "en_consolidated_definition": "Old rooster, machete.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1996",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3922",
-        "semantic_similarity_score": 0.3922,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -38,15 +41,17 @@
           "matacán"
         ],
         "reference_definitions": [
-          "Gallo viejo, matacán.",
-          "Es préstamo de la crianza porcina; designa al cerdo padrote."
+          "Gallo viejo, matacán."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ". Pez de la familia Pomadasyidae . Conodon nobilis. También llamado bureteado.",
+      "consolidated_definition": ". Pez de la familia Pomadasyidae (roncos). Conodon nobilis. También llamado bureteado.",
+      "en_consolidated_definition": "Fish of the family Pomadasyidae (drums). Conodon nobilis. Also known as bureteado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,15 +80,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Pez de la familia Pomadasyidae . Conodon nobilis. También llamado bureteado."
+          ". Pez de la familia Pomadasyidae (roncos). Conodon nobilis. También llamado bureteado."
         ]
       }
     }
   },
   "es_definitions": [
-    "Gallo viejo",
-    ". Pez de la familia Pomadasyidae . Conodon nobilis. También llamado bureteado."
+    "Gallo viejo, matacán.",
+    ". Pez de la familia Pomadasyidae (roncos). Conodon nobilis. También llamado bureteado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Old rooster, machete.",
+    "Fish of the family Pomadasyidae (drums). Conodon nobilis. Also known as bureteado."
+  ],
   "source": "https://tesoro.pr"
 }

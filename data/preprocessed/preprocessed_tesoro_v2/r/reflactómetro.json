@@ -3,9 +3,12 @@
   "term": "reflactómetro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Instrumento para analizar la muestra que se toma",
+      "consolidated_definition": "Instrumento para analizar la muestra que se toma del guarapo de caña.",
+      "en_consolidated_definition": "Device for analyzing the sample taken from sugarcane juice.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Instrumento para analizar la muestra que se toma"
+    "Instrumento para analizar la muestra que se toma del guarapo de caña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Device for analyzing the sample taken from sugarcane juice."
+  ],
   "source": "https://tesoro.pr"
 }

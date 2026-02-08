@@ -3,9 +3,12 @@
   "term": "lavadora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la industria azucarera",
+      "consolidated_definition": "En la industria azucarera, molino que separa el azúcar de la miel, después que sale de los tachos.",
+      "en_consolidated_definition": "Sugar mill that separates sugar from honey after it exits the vats in the sugar industry.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver lavadero",
+      "consolidated_definition": "Ver lavadero .",
+      "en_consolidated_definition": "See laundry area or see washbasin.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -64,9 +70,12 @@
     }
   },
   "es_definitions": [
-    "En la industria azucarera",
-    "Ver lavadero"
+    "En la industria azucarera, molino que separa el azúcar de la miel, después que sale de los tachos.",
+    "Ver lavadero ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sugar mill that separates sugar from honey after it exits the vats in the sugar industry.",
+    "See laundry area or see washbasin."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "wincha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grúa",
+      "consolidated_definition": "Camioneta grande y destartalada.",
+      "en_consolidated_definition": "Large and dilapidated pickup truck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4574",
-        "semantic_similarity_score": 0.4574,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Grúa, malacate. Equipo mecánico giratorio. Anglicismo adaptado, poco frecuente. La wincha es completamente nueva no esta usada, se abrió la caja para verificar que todo estubiera completo, es smith built con motor 5.5hp",
           "Camioneta grande y destartalada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Grúa"
+    "Camioneta grande y destartalada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large and dilapidated pickup truck."
+  ],
   "source": "https://tesoro.pr"
 }

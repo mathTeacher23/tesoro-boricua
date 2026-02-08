@@ -3,15 +3,18 @@
   "term": "arroz junto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arroz guisado con habichuelas u otros granos secos, como gandul, maíz o garbanzos.",
+      "consolidated_definition": "Arroz guisado con habichuelas u otro grano, como maíz, gandul o garbanzos.",
+      "en_consolidated_definition": "Rice stew with beans or other grains, such as corn, pigeon peas, or chickpeas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9655",
-        "semantic_similarity_score": 0.9655,
-        "cluster_count": 1,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Arroz guisado con habichuelas u otro grano seco, como gandul, maíz o garbanzo.",
           "Arroz guisado con habichuelas u otro grano, como maíz, gandul o garbanzos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Arroz guisado con habichuelas u otros granos secos, como gandul, maíz o garbanzos."
+    "Arroz guisado con habichuelas u otro grano, como maíz, gandul o garbanzos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rice stew with beans or other grains, such as corn, pigeon peas, or chickpeas."
+  ],
   "source": "https://tesoro.pr"
 }

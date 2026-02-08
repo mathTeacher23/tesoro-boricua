@@ -3,15 +3,18 @@
   "term": "perpetua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Condena por vida",
+      "consolidated_definition": "\"Condena por vida\": Sanción judicial que impone a un condenado pasar el resto de su vida en prisión o bajo vigilancia sin posibilidad de libertad condicional.",
+      "en_consolidated_definition": "\"Life sentence\": Judicial penalty that imposes a convicted individual to spend the remainder of their life in prison or under surveillance with no possibility of parole.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3336",
         "semantic_similarity_score": 0.3336,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -50,8 +53,10 @@
     }
   },
   "es_definitions": [
-    "Condena por vida"
+    "\"Condena por vida\": Sanción judicial que impone a un condenado pasar el resto de su vida en prisión o bajo vigilancia sin posibilidad de libertad condicional."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "\"Life sentence\": Judicial penalty that imposes a convicted individual to spend the remainder of their life in prison or under surveillance with no possibility of parole."
+  ],
   "source": "https://tesoro.pr"
 }

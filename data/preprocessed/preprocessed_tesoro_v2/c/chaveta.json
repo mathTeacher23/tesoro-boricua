@@ -3,9 +3,12 @@
   "term": "chaveta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Hoz\": Sustantivo que designa un objeto agrícola utilizado para cortar o recoger cosechas, especialmente en terrenos con barro o suelos blandos.",
+      "consolidated_definition": "\"Hoz\": Herramienta agrícola utilizada para cortar o recoger cosechas, especialmente en terrenos con barro o suelos blandos.",
+      "en_consolidated_definition": "Plow or Harvesting Tool: Agricultural implement used to cut or gather crops, especially in areas with mud or soft soils.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -53,15 +56,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cuchilla curva que sirve tanto para el cigarrero y el zapatero.",
+      "consolidated_definition": "Cuchilla de zapatero para cortar cueros.",
+      "en_consolidated_definition": "Shoe cobbler's knife for cutting leathers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6044",
-        "semantic_similarity_score": 0.6044,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -101,17 +107,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cuchilla curva que usan el cigarrero y el zapatero.",
-          "Tranchete; cuchilla de zapatero para cortar los cueros.",
-          "Herramienta de zapatero; plancha de metal con filo para levantar suela. También chambeta.",
           "Cuchilla de zapatero para cortar cueros."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Botón grande: un botón que tiene un diámetro mayor que el común.",
+      "consolidated_definition": "Botón grande: un botón de tamaño mayor que el común.",
+      "en_consolidated_definition": "Large button: a button of larger size than the common one.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -152,10 +158,14 @@
     }
   },
   "es_definitions": [
-    "\"Hoz\": Sustantivo que designa un objeto agrícola utilizado para cortar o recoger cosechas, especialmente en terrenos con barro o suelos blandos.",
-    "Cuchilla curva que sirve tanto para el cigarrero y el zapatero.",
-    "Botón grande: un botón que tiene un diámetro mayor que el común."
+    "\"Hoz\": Herramienta agrícola utilizada para cortar o recoger cosechas, especialmente en terrenos con barro o suelos blandos.",
+    "Cuchilla de zapatero para cortar cueros.",
+    "Botón grande: un botón de tamaño mayor que el común."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Plow or Harvesting Tool: Agricultural implement used to cut or gather crops, especially in areas with mud or soft soils.",
+    "Shoe cobbler's knife for cutting leathers.",
+    "Large button: a button of larger size than the common one."
+  ],
   "source": "https://tesoro.pr"
 }

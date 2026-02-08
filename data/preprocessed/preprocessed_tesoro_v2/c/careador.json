@@ -3,15 +3,18 @@
   "term": "careador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Gallero\": Persona que atiende y auxilia un gallo durante la pelea.",
+      "consolidated_definition": "En las peleas de gallos, persona que cuida del gallo durante la pelea.",
+      "en_consolidated_definition": "Gallero: In cockfighting, a person who cares for the rooster during the fight.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.5055",
-        "semantic_similarity_score": 0.5055,
-        "cluster_count": 6,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,19 +61,16 @@
           "carear"
         ],
         "reference_definitions": [
-          "Gallero.",
-          "El que atiende y auxilia un gallo durante la pelea.",
-          "Coleador.",
-          "El encargado de carear los gallos.",
-          "También coleador.",
           "En las peleas de gallos, persona que cuida del gallo durante la pelea."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Gallero\": Persona que atiende y auxilia un gallo durante la pelea."
+    "En las peleas de gallos, persona que cuida del gallo durante la pelea."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gallero: In cockfighting, a person who cares for the rooster during the fight."
+  ],
   "source": "https://tesoro.pr"
 }

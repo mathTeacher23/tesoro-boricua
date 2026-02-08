@@ -3,9 +3,12 @@
   "term": "mucama",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que se encarga de la limpieza de",
+      "consolidated_definition": "Persona que se encarga de la limpieza de una casa, hotel o edificio.",
+      "en_consolidated_definition": "Persona encargada de realizar las tareas de limpieza en una casa, hotel o edificio.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Persona que se encarga de la limpieza de"
+    "Persona que se encarga de la limpieza de una casa, hotel o edificio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona encargada de realizar las tareas de limpieza en una casa, hotel o edificio."
+  ],
   "source": "https://tesoro.pr"
 }

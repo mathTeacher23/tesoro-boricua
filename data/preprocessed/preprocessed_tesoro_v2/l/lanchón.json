@@ -3,9 +3,12 @@
   "term": "lanchón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Transbordador de carga en forma de ancón",
+      "consolidated_definition": "Transbordador de carga en forma de ancón, con motor.",
+      "en_consolidated_definition": "Cargo barge in the form of a catamaran with an engine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Transbordador de carga en forma de ancón"
+    "Transbordador de carga en forma de ancón, con motor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cargo barge in the form of a catamaran with an engine."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,14 +4,17 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Planta ornamental, perenne, de hasta 60 cm de altura, tallos y ramas de color verde rojizo, hojas alternas lanceoladas, elípticas y ovoides, y flores rojas. (Balsaminaceae, Impatiens wallerana).",
+      "en_consolidated_definition": "Ornamental perennial plant, up to 60 cm in height, stems and branches with a reddish-green color, alternate lanceolate, elliptical, and ovoid leaves, and red flowers (Balsaminaceae, Impatiens wallerana).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5839",
-        "semantic_similarity_score": 0.5839,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Planta decorativa.",
           "Planta ornamental, perenne, de hasta 60 cm de altura, tallos y ramas de color verde rojizo, hojas alternas lanceoladas, elípticas y ovoides, y flores rojas. (Balsaminaceae, Impatiens wallerana)."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Marihuana es un tipo de planta psicoactiva.",
+      "consolidated_definition": "Marihuana.",
+      "en_consolidated_definition": "Cannabis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -81,21 +86,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Marihuana.",
           "Marihuana."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Fruto seco del coco utilizado para preparar un dulce tradicional.",
+      "consolidated_definition": "Dulce típico hecho de coco.",
+      "en_consolidated_definition": "Coconut sweet typical made of coconut.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -125,9 +132,13 @@
   },
   "es_definitions": [
     "Planta ornamental, perenne, de hasta 60 cm de altura, tallos y ramas de color verde rojizo, hojas alternas lanceoladas, elípticas y ovoides, y flores rojas. (Balsaminaceae, Impatiens wallerana).",
-    "Marihuana es un tipo de planta psicoactiva.",
-    "Fruto seco del coco utilizado para preparar un dulce tradicional."
+    "Marihuana.",
+    "Dulce típico hecho de coco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ornamental perennial plant, up to 60 cm in height, stems and branches with a reddish-green color, alternate lanceolate, elliptical, and ovoid leaves, and red flowers (Balsaminaceae, Impatiens wallerana).",
+    "Cannabis.",
+    "Coconut sweet typical made of coconut."
+  ],
   "source": "https://tesoro.pr"
 }

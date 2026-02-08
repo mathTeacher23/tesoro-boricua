@@ -3,9 +3,12 @@
   "term": "ser culo de botella",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser una piedra falsa de joyería",
+      "consolidated_definition": "Ser una piedra falsa de joyería.",
+      "en_consolidated_definition": "To be a false gemstone in jewelry.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Ser una piedra falsa de joyería"
+    "Ser una piedra falsa de joyería."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be a false gemstone in jewelry."
+  ],
   "source": "https://tesoro.pr"
 }

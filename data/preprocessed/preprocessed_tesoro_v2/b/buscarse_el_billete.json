@@ -3,15 +3,18 @@
   "term": "buscarse el billete",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajar alguien, una persona que procurase o buscase el sustento diario.",
+      "consolidated_definition": "Trabajar alguien, procurarse el sustento diario.",
+      "en_consolidated_definition": "To labor for oneself, to procure one's daily sustenance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "locución verbal"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Trabajar alguien, una persona que procurase o buscase el sustento diario."
+    "Trabajar alguien, procurarse el sustento diario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To labor for oneself, to procure one's daily sustenance."
+  ],
   "source": "https://tesoro.pr"
 }

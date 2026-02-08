@@ -3,15 +3,18 @@
   "term": "pata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pie del caballo",
+      "consolidated_definition": "Parte del pie del caballo, que incluye la uña, el casco y la pezuña.",
+      "en_consolidated_definition": "Part of the horse's foot, including the hoof, the hoof wall, and the frog.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.7805",
         "semantic_similarity_score": 0.7805,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -52,9 +55,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Lesbiana",
+      "consolidated_definition": "Lesbiana.",
+      "en_consolidated_definition": "Lesbian woman \n\nNota: En este contexto, se refiere a una mujer que siente atracción romántica o sexual hacia otras mujeres.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -89,9 +95,12 @@
     }
   },
   "es_definitions": [
-    "Pie del caballo",
-    "Lesbiana"
+    "Parte del pie del caballo, que incluye la uña, el casco y la pezuña.",
+    "Lesbiana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Part of the horse's foot, including the hoof, the hoof wall, and the frog.",
+    "Lesbian woman \n\nNota: En este contexto, se refiere a una mujer que siente atracción romántica o sexual hacia otras mujeres."
+  ],
   "source": "https://tesoro.pr"
 }

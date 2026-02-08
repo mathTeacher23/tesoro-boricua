@@ -3,14 +3,17 @@
   "term": "jingle",
   "superscripts": {
     "1": {
-      "consolidated_definition": "mús",
+      "consolidated_definition": "Anuncio comercial cantado.",
+      "en_consolidated_definition": "Commercial jingle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4082",
-        "semantic_similarity_score": 0.4082,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "mús. Canción publicitaria corta y repetitiva que sirve de soporte a un anuncio por radio o televisión. Anglicismo crudo, frecuente. A través de su envolvimiento con su empresa, Luis se desenvuelve en el área de advertising produciendo, componiendo, ingeniería de sonido y arreglando jingles para radio y television al igual videos y Film Scoring",
           "Anuncio comercial cantado."
         ]
       }
     }
   },
   "es_definitions": [
-    "mús"
+    "Anuncio comercial cantado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Commercial jingle."
+  ],
   "source": "https://tesoro.pr"
 }

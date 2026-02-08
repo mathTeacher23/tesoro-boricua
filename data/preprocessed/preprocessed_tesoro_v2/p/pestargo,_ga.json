@@ -3,9 +3,12 @@
   "term": "pestargo, ga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Zángano",
+      "consolidated_definition": "Zángano.",
+      "en_consolidated_definition": "Honey bee (specifically the male of the species) or drone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Zángano"
+    "Zángano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Honey bee (specifically the male of the species) or drone."
+  ],
   "source": "https://tesoro.pr"
 }

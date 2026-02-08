@@ -3,15 +3,18 @@
   "term": "lisa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de la familia Migilidae",
+      "consolidated_definition": "El pez liza, miembro de la familia Migilidae, es una especie denominada Mugil liza.",
+      "en_consolidated_definition": "The striped mullet, a member of the family Mugilidae, is a species known as Mugil liza.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4547",
-        "semantic_similarity_score": 0.4547,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4456",
+        "semantic_similarity_score": 0.4456,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,7 +48,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez de la familia Migilidae . Mugil liza. También llamado lisa macho.",
+          "Pez de la familia Migilidae (lisas). Mugil liza. También llamado lisa macho.",
           "Mugilidae. Mugil curema. Pez.",
           "Trichiuris leptunos. Excelente pez comestible de río."
         ]
@@ -53,8 +56,10 @@
     }
   },
   "es_definitions": [
-    "Pez de la familia Migilidae"
+    "El pez liza, miembro de la familia Migilidae, es una especie denominada Mugil liza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The striped mullet, a member of the family Mugilidae, is a species known as Mugil liza."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "pala",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Socio",
+      "consolidated_definition": "Influencia, valimiento, poder.",
+      "en_consolidated_definition": "Influence, sway, authority.\n\nNota: La palabra \"valimiento\" puede ser un término específico de Puerto Rico que se refiere a la influencia o poder de una persona en el gobierno o en la sociedad. En este contexto, la traducción podría ser \"influence\" o \"sway\", dependiendo del contexto en el que se utilice.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.4924",
-        "semantic_similarity_score": 0.4924,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -61,26 +64,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Socio, compinche. Úsase en mala parte .",
-          "Sujeto influyente a quien se acude para que lo ayude a uno a conseguir algo.",
-          "Dícese de la persona que ayuda a otra a conseguir empleo, un préstamo o un negocio. Sinónimos palanca, enchufe.",
-          "Persona influyente.",
-          "Persona que ejerce influencia para conseguir algún beneficio para otro. Quien ayuda a otro en cualquier asunto de conseguir trabajo.",
-          "Influencia, valimiento, poder.",
-          "Palanca, persona influyente."
+          "Influencia, valimiento, poder."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Lo más ancho del machete",
+      "consolidated_definition": "La hoja de un machete se refiere al segmento más ancho y afilado del objeto, que también sirve como punta.",
+      "en_consolidated_definition": "The blade of a machete refers to the widest and most sharpened segment of the object, which also serves as the point.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5299",
-        "semantic_similarity_score": 0.5299,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6581",
+        "semantic_similarity_score": 0.6581,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -109,14 +109,17 @@
         "related_words": [],
         "reference_definitions": [
           "Lo más ancho del machete. También hoja, punta.",
-          "Parte ancha de la hoja cortante ."
+          "Parte ancha de la hoja cortante del machete."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Parte del remo que entra en el agua",
+      "consolidated_definition": "Parte del remo que entra en el agua.",
+      "en_consolidated_definition": "Part of the oar that enters the water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -153,10 +156,14 @@
     }
   },
   "es_definitions": [
-    "Socio",
-    "Lo más ancho del machete",
-    "Parte del remo que entra en el agua"
+    "Influencia, valimiento, poder.",
+    "La hoja de un machete se refiere al segmento más ancho y afilado del objeto, que también sirve como punta.",
+    "Parte del remo que entra en el agua."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Influence, sway, authority.\n\nNota: La palabra \"valimiento\" puede ser un término específico de Puerto Rico que se refiere a la influencia o poder de una persona en el gobierno o en la sociedad. En este contexto, la traducción podría ser \"influence\" o \"sway\", dependiendo del contexto en el que se utilice.",
+    "The blade of a machete refers to the widest and most sharpened segment of the object, which also serves as the point.",
+    "Part of the oar that enters the water."
+  ],
   "source": "https://tesoro.pr"
 }

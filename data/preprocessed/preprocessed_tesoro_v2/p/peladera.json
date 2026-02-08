@@ -3,14 +3,17 @@
   "term": "peladera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conversación negativa que versa sobre una persona ausente",
+      "consolidated_definition": "Murmuración continua que se hace sobre alguien que está ausente, chismorreo.",
+      "en_consolidated_definition": "Continuous murmuration about someone who is absent, gossip.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5159",
-        "semantic_similarity_score": 0.5159,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -42,20 +45,22 @@
           "pelar 2"
         ],
         "reference_definitions": [
-          "Conversación negativa que versa sobre una persona ausente.",
           "Murmuración continua que se hace sobre alguien que está ausente, chismorreo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pelambrera",
+      "consolidated_definition": "Situación económica difícil.",
+      "en_consolidated_definition": "Economic hardship situation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4104",
-        "semantic_similarity_score": 0.4104,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -86,15 +91,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pelambrera. Falta de dinero.",
           "Situación económica difícil."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Ver peladero",
+      "consolidated_definition": "Ver peladero .",
+      "en_consolidated_definition": "See a peladero.\n\nNota: No hay una traducción directa de \"peladero\" en el contexto de Puerto Rico, ya que es un término coloquial y regional. Sin embargo, se puede considerar como sinónimo de \"trampa\" o \"emboscada\". \n\nSi se desea una traducción más precisa, se podría utilizar la definición de \"ver peladero\" que apunta a la acción de ver una trampa o emboscada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -115,10 +122,14 @@
     }
   },
   "es_definitions": [
-    "Conversación negativa que versa sobre una persona ausente",
-    "Pelambrera",
-    "Ver peladero"
+    "Murmuración continua que se hace sobre alguien que está ausente, chismorreo.",
+    "Situación económica difícil.",
+    "Ver peladero ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Continuous murmuration about someone who is absent, gossip.",
+    "Economic hardship situation.",
+    "See a peladero.\n\nNota: No hay una traducción directa de \"peladero\" en el contexto de Puerto Rico, ya que es un término coloquial y regional. Sin embargo, se puede considerar como sinónimo de \"trampa\" o \"emboscada\". \n\nSi se desea una traducción más precisa, se podría utilizar la definición de \"ver peladero\" que apunta a la acción de ver una trampa o emboscada."
+  ],
   "source": "https://tesoro.pr"
 }

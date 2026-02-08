@@ -3,9 +3,12 @@
   "term": "rompehuelga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que acepta trabajar en una empresa cuyos",
+      "consolidated_definition": "Persona que acepta trabajar en una empresa cuyos empleados están en huelga.",
+      "en_consolidated_definition": "Persona que acepta trabajar en una empresa cuyos empleados están en huelga: Scab.\n\nNota: En este contexto, \"scab\" se refiere a un trabajador que reemplaza a los empleados de una empresa en huelga, sin ser miembro de la organización sindical.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver guineo morado colorado",
+      "consolidated_definition": "Ver guineo morado colorado .",
+      "en_consolidated_definition": "See guineo morado colorado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -62,9 +68,12 @@
     }
   },
   "es_definitions": [
-    "Persona que acepta trabajar en una empresa cuyos",
-    "Ver guineo morado colorado"
+    "Persona que acepta trabajar en una empresa cuyos empleados están en huelga.",
+    "Ver guineo morado colorado ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que acepta trabajar en una empresa cuyos empleados están en huelga: Scab.\n\nNota: En este contexto, \"scab\" se refiere a un trabajador que reemplaza a los empleados de una empresa en huelga, sin ser miembro de la organización sindical.",
+    "See guineo morado colorado."
+  ],
   "source": "https://tesoro.pr"
 }

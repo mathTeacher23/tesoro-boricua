@@ -3,9 +3,12 @@
   "term": "tirar el gui",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tirar objetos en desorden",
+      "consolidated_definition": "Tirar objetos en desorden.",
+      "en_consolidated_definition": "To scatter objects in disarray.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Tirar objetos en desorden"
+    "Tirar objetos en desorden."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To scatter objects in disarray."
+  ],
   "source": "https://tesoro.pr"
 }

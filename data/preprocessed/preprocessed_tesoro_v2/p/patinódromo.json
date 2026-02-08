@@ -3,9 +3,12 @@
   "term": "patinódromo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pista de patinaje competitivo",
+      "consolidated_definition": "Pista de patinaje competitivo.",
+      "en_consolidated_definition": "Competitive ice skating rink",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pista de patinaje competitivo"
+    "Pista de patinaje competitivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Competitive ice skating rink"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mediopie",
   "superscripts": {
     "1": {
-      "consolidated_definition": "San Pedrito",
+      "consolidated_definition": "San Pedrito, ave. Stahl, Catalog. 53.",
+      "en_consolidated_definition": "San Pedrito, Stahl's Catalog 53.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Gallo que tira sin fuerza",
+      "consolidated_definition": "Gallo que tira sin fuerza.",
+      "en_consolidated_definition": "Rooster that shoots with little force.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "San Pedrito",
-    "Gallo que tira sin fuerza"
+    "San Pedrito, ave. Stahl, Catalog. 53.",
+    "Gallo que tira sin fuerza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "San Pedrito, Stahl's Catalog 53.",
+    "Rooster that shoots with little force."
+  ],
   "source": "https://tesoro.pr"
 }

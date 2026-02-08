@@ -3,9 +3,12 @@
   "term": "narciso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta",
+      "consolidated_definition": "Planta. . Cook.",
+      "en_consolidated_definition": "Plant. Cooking plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ano",
+      "consolidated_definition": "Ano. También dicen narso.",
+      "en_consolidated_definition": "Year. Also said narso.\n\nNota: En este caso, \"narso\" es un término coloquial o regional que se utiliza en Puerto Rico para referirse a \"año\". Sin embargo, mantuve la traducción literal para reflejar el significado exacto del término en el diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Planta",
-    "Ano"
+    "Planta. . Cook.",
+    "Ano. También dicen narso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Plant. Cooking plant.",
+    "Year. Also said narso.\n\nNota: En este caso, \"narso\" es un término coloquial o regional que se utiliza en Puerto Rico para referirse a \"año\". Sin embargo, mantuve la traducción literal para reflejar el significado exacto del término en el diccionario."
+  ],
   "source": "https://tesoro.pr"
 }

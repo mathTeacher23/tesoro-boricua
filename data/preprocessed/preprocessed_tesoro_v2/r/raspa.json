@@ -3,14 +3,17 @@
   "term": "raspa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Azúcar sin refinar.",
+      "en_consolidated_definition": "Unrefined sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5716",
-        "semantic_similarity_score": 0.5716,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -51,17 +54,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg. . Raspadura o azúcar moreno.",
-          ". Raspadura o azúcar moreno que se va quedando pegado a la paila en los trapiches. También raspadura.",
-          "Zurrapa del azúcar cristalizada.",
           "Azúcar sin refinar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ". Reprimenda.",
+      "consolidated_definition": "(T. en Arg., Chile, Col., Ecuad., Pan. y Perú). Reprimenda.",
+      "en_consolidated_definition": "Reprimenda (T. en Argentina, Chile, Colombia, Ecuador, Panamá y Perú). Scolding.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -92,14 +95,17 @@
           "raspar"
         ],
         "reference_definitions": [
-          ". Reprimenda."
+          "(T. en Arg., Chile, Col., Ecuad., Pan. y Perú). Reprimenda."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Arroz pegado a la olla",
+      "consolidated_definition": "Arroz pegado a la olla; raspa de pegao.",
+      "en_consolidated_definition": "Rice stuck to the pot; scrape of rice residue.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -133,15 +139,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Recogida de café al final de la cosecha",
+      "consolidated_definition": "La recogida de café al final de la cosecha se refiere a la acción de recolectar y almacenar el café producido en un período determinado.",
+      "en_consolidated_definition": "The collection of coffee at the end of the harvest refers to the action of gathering and storing the coffee produced during a specified period.\n\nNota: En este contexto, \"cosecha\" se refiere a la temporada de recolección del café en Puerto Rico, pero se ha traducido literalmente para mantener el significado exacto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4135",
         "semantic_similarity_score": 0.4135,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -174,9 +183,12 @@
       }
     },
     "5": {
-      "consolidated_definition": "Herramienta de carpintería hecha de metal",
+      "consolidated_definition": "Herramienta de carpintería hecha de metal, plana y con el filo en forma de chaflán cortante. Raspador.",
+      "en_consolidated_definition": "Metal tool used in carpentry, flat and with a cutting edge in the form of a chisel-like blade. Scraper.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -211,12 +223,18 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    ". Reprimenda.",
-    "Arroz pegado a la olla",
-    "Recogida de café al final de la cosecha",
-    "Herramienta de carpintería hecha de metal"
+    "Azúcar sin refinar.",
+    "(T. en Arg., Chile, Col., Ecuad., Pan. y Perú). Reprimenda.",
+    "Arroz pegado a la olla; raspa de pegao.",
+    "La recogida de café al final de la cosecha se refiere a la acción de recolectar y almacenar el café producido en un período determinado.",
+    "Herramienta de carpintería hecha de metal, plana y con el filo en forma de chaflán cortante. Raspador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Unrefined sugar.",
+    "Reprimenda (T. en Argentina, Chile, Colombia, Ecuador, Panamá y Perú). Scolding.",
+    "Rice stuck to the pot; scrape of rice residue.",
+    "The collection of coffee at the end of the harvest refers to the action of gathering and storing the coffee produced during a specified period.\n\nNota: En este contexto, \"cosecha\" se refiere a la temporada de recolección del café en Puerto Rico, pero se ha traducido literalmente para mantener el significado exacto.",
+    "Metal tool used in carpentry, flat and with a cutting edge in the form of a chisel-like blade. Scraper."
+  ],
   "source": "https://tesoro.pr"
 }

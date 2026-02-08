@@ -3,15 +3,18 @@
   "term": "pitipuás",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz de origen francés",
+      "consolidated_definition": "Voz de origen francés: guisante.",
+      "en_consolidated_definition": "Bean of French origin.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5363",
         "semantic_similarity_score": 0.5363,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Voz de origen francés"
+    "Voz de origen francés: guisante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bean of French origin."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "gastar sin contador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gastar sin medida",
+      "consolidated_definition": "Gastar sin medida, sin control.",
+      "en_consolidated_definition": "Waste without restraint, out of control.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Gastar sin medida"
+    "Gastar sin medida, sin control."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Waste without restraint, out of control."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "seyba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol",
+      "consolidated_definition": "Árbol. Malvaceae; Ceiba pentandra.",
+      "en_consolidated_definition": "Tree. Malvaceae; Ceiba pentandra.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Árbol"
+    "Árbol. Malvaceae; Ceiba pentandra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree. Malvaceae; Ceiba pentandra."
+  ],
   "source": "https://tesoro.pr"
 }

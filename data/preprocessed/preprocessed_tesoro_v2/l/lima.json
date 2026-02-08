@@ -3,15 +3,18 @@
   "term": "lima",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fruta cítrica dulzona",
+      "consolidated_definition": "La fruta cítrica dulzona es una variedad que se caracteriza por tener una corteza lisa y un tamaño intermedio entre el limón agrio y la china del país. También conocida como limón dulce, produce frutos citrosos de color verde amarillento, con pulpa blanquecina y dulce, muy parecidos a los de la naranja dulce.",
+      "en_consolidated_definition": "The sweet citrus fruit is a variety characterized by having a smooth rind and an intermediate size between the sour lemon and the country orange. Also known as sweet lemon, it produces greenish-yellow citrous fruits with white and sweet pulp, very similar to those of the sweet orange.\n\nNota: He mantenido el término \"china del país\" como está en la definición original, ya que no se especifica qué tipo de fruta es exactamente. Si fuera necesario, podría traducirlo a \"country orange\", pero eso requeriría más contexto o información sobre la fruta específica a la que se refiere.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5487",
         "semantic_similarity_score": 0.5487,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,9 +51,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Al techar los ranchos de cuatro aguas con",
+      "consolidated_definition": "Al techar los ranchos de cuatro aguas con paja, los huecos que quedan a los lados son llamados limas.",
+      "en_consolidated_definition": "When thatching the four-water huts with straw, the gaps left on the sides are called limas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -85,9 +91,12 @@
     }
   },
   "es_definitions": [
-    "Fruta cítrica dulzona",
-    "Al techar los ranchos de cuatro aguas con"
+    "La fruta cítrica dulzona es una variedad que se caracteriza por tener una corteza lisa y un tamaño intermedio entre el limón agrio y la china del país. También conocida como limón dulce, produce frutos citrosos de color verde amarillento, con pulpa blanquecina y dulce, muy parecidos a los de la naranja dulce.",
+    "Al techar los ranchos de cuatro aguas con paja, los huecos que quedan a los lados son llamados limas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The sweet citrus fruit is a variety characterized by having a smooth rind and an intermediate size between the sour lemon and the country orange. Also known as sweet lemon, it produces greenish-yellow citrous fruits with white and sweet pulp, very similar to those of the sweet orange.\n\nNota: He mantenido el término \"china del país\" como está en la definición original, ya que no se especifica qué tipo de fruta es exactamente. Si fuera necesario, podría traducirlo a \"country orange\", pero eso requeriría más contexto o información sobre la fruta específica a la que se refiere.",
+    "When thatching the four-water huts with straw, the gaps left on the sides are called limas."
+  ],
   "source": "https://tesoro.pr"
 }

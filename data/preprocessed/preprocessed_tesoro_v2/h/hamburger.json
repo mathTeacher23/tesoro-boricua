@@ -3,14 +3,17 @@
   "term": "hamburger",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hamburguesa",
+      "consolidated_definition": "Hamburguesa.",
+      "en_consolidated_definition": "Burger (especially one made from ground beef and served on a bun) or Hamburger (in some regions of Puerto Rico).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.7216",
-        "semantic_similarity_score": 0.7216,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -49,17 +52,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Hamburguesa. Emparedado de carne molida.",
-          "Hamburguesa.",
-          "alim. Tortita de carne molida, frita o asada, servida con ensalada y aderezos en un panecillo. El término procede del nombre de la ciudad Hamburg. Anglicismo crudo, usual. Lo que significa que sale más barato comprarte un hamburger en un fast food que prepararlo en tu casa",
           "Hamburguesa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hamburguesa"
+    "Hamburguesa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Burger (especially one made from ground beef and served on a bun) or Hamburger (in some regions of Puerto Rico)."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "purgado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Refinado del azúcar cuando esta en sus hormas",
+      "consolidated_definition": "Refinado del azúcar cuando esta en sus hormas.",
+      "en_consolidated_definition": "Refinement of sugar when it is in its molds.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Refinado del azúcar cuando esta en sus hormas"
+    "Refinado del azúcar cuando esta en sus hormas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Refinement of sugar when it is in its molds."
+  ],
   "source": "https://tesoro.pr"
 }

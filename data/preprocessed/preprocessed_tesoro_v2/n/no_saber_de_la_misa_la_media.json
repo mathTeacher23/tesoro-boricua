@@ -3,9 +3,12 @@
   "term": "no saber de la misa la media",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No estar bien enterado de los puntos más",
+      "consolidated_definition": "No estar bien enterado de los puntos más importantes de un asunto.",
+      "en_consolidated_definition": "No estar bien enterado de los puntos más importantes de un asunto se conoce como falta de información o desconocimiento sobre los aspectos clave de una cuestión.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "No estar bien enterado de los puntos más"
+    "No estar bien enterado de los puntos más importantes de un asunto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No estar bien enterado de los puntos más importantes de un asunto se conoce como falta de información o desconocimiento sobre los aspectos clave de una cuestión."
+  ],
   "source": "https://tesoro.pr"
 }

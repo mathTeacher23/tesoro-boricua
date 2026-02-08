@@ -3,15 +3,18 @@
   "term": "piche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mafafo",
+      "consolidated_definition": "\"Guineo verde\": fruta del árbol guineo (Musa acuminata), caracterizada por su piel verde y pulpa blanca o amarilla.",
+      "en_consolidated_definition": "Green banana: fruit of the green banana tree (Musa acuminata), characterized by its green skin and white or yellow pulp.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 13,
         "num_cleaned_definitions": 13,
-        "definition_stability": "Stability: 0.475",
-        "semantic_similarity_score": 0.475,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4744",
+        "semantic_similarity_score": 0.4744,
+        "cluster_count": 12,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -89,7 +92,7 @@
           "El plátano vulgar y corriente recibe numerosos nombres, entre los cuales aparece como más regular el de piche.",
           "La denominación popular del plátano común es piche en el indicado núcleo de Utuado, Adjuntas y Jayuya y en algunos otros puntos contiguos.",
           "Otro nombre para el guineo mafafo .",
-          "Una clase de plátano, mafafo.",
+          "(popular) Una clase de plátano, mafafo.",
           "Variedad de guineo. También cuatrofilos.",
           "Chamaluco.",
           "Guineo verde hervido.",
@@ -102,15 +105,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Conocido también como espiche",
+      "consolidated_definition": "Especie de gorgojo que vive en el bejuco de la batata y al crecer se introduce en el tubérculo, causando su descomposición y making it unsuitable for consumption.",
+      "en_consolidated_definition": "Species of weevil that lives in the sweet potato vine and as it grows, it penetrates the tuber, causing its decomposition and rendering it unsuitable for consumption.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.4878",
         "semantic_similarity_score": 0.4878,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -154,9 +160,12 @@
     }
   },
   "es_definitions": [
-    "Mafafo",
-    "Conocido también como espiche"
+    "\"Guineo verde\": fruta del árbol guineo (Musa acuminata), caracterizada por su piel verde y pulpa blanca o amarilla.",
+    "Especie de gorgojo que vive en el bejuco de la batata y al crecer se introduce en el tubérculo, causando su descomposición y making it unsuitable for consumption."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Green banana: fruit of the green banana tree (Musa acuminata), characterized by its green skin and white or yellow pulp.",
+    "Species of weevil that lives in the sweet potato vine and as it grows, it penetrates the tuber, causing its decomposition and rendering it unsuitable for consumption."
+  ],
   "source": "https://tesoro.pr"
 }

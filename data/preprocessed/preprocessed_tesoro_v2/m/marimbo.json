@@ -3,14 +3,17 @@
   "term": "marimbo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Güiro",
+      "consolidated_definition": "Calabaza vacía para agua.",
+      "en_consolidated_definition": "Gourd used as a container for water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1995",
       "consolidation_metadata": {
         "num_definitions_analyzed": 27,
-        "num_cleaned_definitions": 27,
-        "definition_stability": "Stability: 0.4534",
-        "semantic_similarity_score": 0.4534,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -113,46 +116,23 @@
         "origin": "Africanismo",
         "related_words": [],
         "reference_definitions": [
-          "Güiro, en sus tres acepciones: nombre de cierta planta, instrumento músico y, despectivamente, cholla o cabeza. Stahl, 4, 175. “Oviedo confunde la calabaza alimenticia con el candungo o marimbo y con el fruto totumo o jigüero .” Coll y Toste, , p. 203. “Pero era de oírse el repiqueteo del tambor siguiendo con regularidad el chis chis del marimbo, rascado por la varilla de metal.” J. González Quiara, Vida amarga, 1897, p. 134.",
-          "Al calabacín largo y curvo producido por la planta llamada güiro se le dió alguna vez el mismo nombre de dicha planta, pero más frecuentemente fue denominado marimbo, calabazo y candungo.",
-          "De los datos reunidos se deduce en todo caso que el nombre más extendido del citado calabacín es en todo el país, el de marimbo.",
-          "el marimbo en que se guarda el café.",
-          "Nombre de la planta Cucurbita lagenaria L., también conocida por candungo amargo, carracho, güícharo, güiro, y la cual produce un calabacín largo y curvo que sirve de vasija en los campos, llamado más frecuentemente marimbo en el país.",
-          "Güiro o güícharo. Es nombre campesino ya decadente en este sentido.",
-          "Afronegrismo aplicado primariamente, por los llanos de la costa oriental, al calabacín largo y curvo y a la planta que lo produce, de cuyo fruto se hace el instrumento llamado candungo.",
-          "Planta de fruto útil para hacer vasijas y otras cosas.",
-          "Fruta. “Hay algunos amargos y otros dulces. Del amargo se hace el güiro. El dulce se come sancochao y en ensalada.” “Las hojas se usan para remedio.”",
-          "Calabacín largo y curvo. También güiro, candungo.",
-          "Güiro ; güícharo .",
-          "“Marimbo, fruta del candungo para cargar agua y separar el café gordo cuando se muele.” “Marimbo, tamborcito”.",
-          "El árbol que produce el calabacín largo. También candungo, mata de güícharo.",
-          "El calabacín largo y curvo.",
-          "Calabaza de forma alargada; güiro; güícharo.",
-          "Calabaza de forma alargada de la planta güiro, antes de ser convertida en instrumento. También güiro, güícharo, candungo, calabaza.",
-          "Más grande .",
-          "Alargado.",
-          "guarda café.",
-          "“De jigüera pa cargá agua”. Cucurbita lagenaria. No tiene gran vitalidad.",
-          "Se hace de la calabaza de la que se hacen los güiros.",
-          "Es de la higüera y se usa para llevar agua.",
-          "Güiro.",
-          "Planta trepadora que produce la baya llamada güiro o marimbo.",
-          "El fruto de dicha planta.",
-          "Variedad de güiro, instrumento musical, más grueso y más corto que el normal, que produce un sonido más grave.",
           "Calabaza vacía para agua."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Despectivamente",
+      "consolidated_definition": "Chola o cabeza: persona.",
+      "en_consolidated_definition": "Woman or head: person.\n\nNota: En este contexto, \"chola\" se refiere a una persona en general, y no necesariamente a un término peyorativo o específico de Puerto Rico. Sin embargo, es importante tener en cuenta que el término puede variar según la región y el contexto cultural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5388",
-        "semantic_similarity_score": 0.5388,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5401",
+        "semantic_similarity_score": 0.5401,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -192,7 +172,7 @@
         "reference_definitions": [
           "Despectivamente, chola o cabeza. “Y le dice a usté, alevantando la tranca: confiésate… o te rajo el marimbo.” Meléndez Muñoz, , p. 150.",
           "En el sentido despectivo, esta palabra significa ‘cabeza, chola’.",
-          "La cabeza, aparte de esta denominación normal y corriente en el idioma, se nombra igualmente con otras voces: marimbo, de origen afronegroide. “O si no te rajo el marimbo,” en Meléndez Muñoz.",
+          "La cabeza, aparte de esta denominación normal y corriente en el idioma, se nombra igualmente con otras voces: … marimbo, de origen afronegroide. “O si no te rajo el marimbo,” en Meléndez Muñoz.",
           "Cabeza de forma alargada.",
           "Cabeza alargada."
         ]
@@ -200,9 +180,12 @@
     }
   },
   "es_definitions": [
-    "Güiro",
-    "Despectivamente"
+    "Calabaza vacía para agua.",
+    "Chola o cabeza: persona."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gourd used as a container for water.",
+    "Woman or head: person.\n\nNota: En este contexto, \"chola\" se refiere a una persona en general, y no necesariamente a un término peyorativo o específico de Puerto Rico. Sin embargo, es importante tener en cuenta que el término puede variar según la región y el contexto cultural."
+  ],
   "source": "https://tesoro.pr"
 }

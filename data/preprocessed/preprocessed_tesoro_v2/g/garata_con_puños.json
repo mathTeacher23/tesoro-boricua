@@ -3,9 +3,12 @@
   "term": "garata con puños",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Riña o contienda violenta entre varias personas, relacionado con un grupo",
+      "consolidated_definition": "Riña o contienda violenta entre varias personas, generalmente debida a la disputa de algo material y de valor.",
+      "en_consolidated_definition": "Brawl or violent altercation between multiple individuals, typically resulting from a dispute over material goods of value.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Riña o contienda violenta entre varias personas, relacionado con un grupo"
+    "Riña o contienda violenta entre varias personas, generalmente debida a la disputa de algo material y de valor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Brawl or violent altercation between multiple individuals, typically resulting from a dispute over material goods of value."
+  ],
   "source": "https://tesoro.pr"
 }

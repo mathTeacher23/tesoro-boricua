@@ -3,9 +3,12 @@
   "term": "gente de medio palo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De clase media y no muy acaudalada",
+      "consolidated_definition": "De clase media y no muy acaudalada. También gente de orilla, gente de calle atrás.",
+      "en_consolidated_definition": "De clase media y no muy acaudalada; también gente de orilla, gente de calle atrás.\n\nNota: La expresión \"gente de orilla\" se refiere a personas que viven en áreas marginales o periféricas, mientras que \"gente de calle atrás\" puede ser una forma coloquial para describir a individuos que no tienen acceso a recursos económicos o sociales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "De clase media y no muy acaudalada"
+    "De clase media y no muy acaudalada. También gente de orilla, gente de calle atrás."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "De clase media y no muy acaudalada; también gente de orilla, gente de calle atrás.\n\nNota: La expresión \"gente de orilla\" se refiere a personas que viven en áreas marginales o periféricas, mientras que \"gente de calle atrás\" puede ser una forma coloquial para describir a individuos que no tienen acceso a recursos económicos o sociales."
+  ],
   "source": "https://tesoro.pr"
 }

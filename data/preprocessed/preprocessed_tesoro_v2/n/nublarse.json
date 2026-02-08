@@ -3,9 +3,12 @@
   "term": "nublarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver ir a llover",
+      "consolidated_definition": "Ver ir a llover .",
+      "en_consolidated_definition": "To see rain coming.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver ir a llover"
+    "Ver ir a llover ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To see rain coming."
+  ],
   "source": "https://tesoro.pr"
 }

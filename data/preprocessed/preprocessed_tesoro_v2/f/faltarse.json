@@ -3,9 +3,12 @@
   "term": "faltarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No acudir al trabajo",
+      "consolidated_definition": "No acudir al trabajo, a una reunión o a clases, justificada o injustificadamente.",
+      "en_consolidated_definition": "No asistir a trabajo, reunión o clases, con o sin justificación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "No acudir al trabajo"
+    "No acudir al trabajo, a una reunión o a clases, justificada o injustificadamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No asistir a trabajo, reunión o clases, con o sin justificación."
+  ],
   "source": "https://tesoro.pr"
 }

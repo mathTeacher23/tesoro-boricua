@@ -3,9 +3,12 @@
   "term": "laborear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajar",
+      "consolidated_definition": "Trabajar.",
+      "en_consolidated_definition": "Toil \n\nTo labor \n\nTo engage in physical or mental work \n\nTo exert oneself \n\nTo be employed",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Trabajar"
+    "Trabajar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Toil \n\nTo labor \n\nTo engage in physical or mental work \n\nTo exert oneself \n\nTo be employed"
+  ],
   "source": "https://tesoro.pr"
 }

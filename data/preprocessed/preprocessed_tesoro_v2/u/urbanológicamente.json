@@ -3,9 +3,12 @@
   "term": "urbanológicamente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Con arreglo a la urbanología",
+      "consolidated_definition": "Con arreglo a la urbanología.",
+      "en_consolidated_definition": "According to urban planning principles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Con arreglo a la urbanología"
+    "Con arreglo a la urbanología."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "According to urban planning principles."
+  ],
   "source": "https://tesoro.pr"
 }

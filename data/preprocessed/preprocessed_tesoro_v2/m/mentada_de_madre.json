@@ -3,9 +3,12 @@
   "term": "mentada de madre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Injuria u ofensa dirigida a alguien con insultos",
+      "consolidated_definition": "Injuria u ofensa dirigida a alguien con insultos contra su madre.",
+      "en_consolidated_definition": "Maternal insult or offense directed at someone with insults against their mother.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Injuria u ofensa dirigida a alguien con insultos"
+    "Injuria u ofensa dirigida a alguien con insultos contra su madre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maternal insult or offense directed at someone with insults against their mother."
+  ],
   "source": "https://tesoro.pr"
 }

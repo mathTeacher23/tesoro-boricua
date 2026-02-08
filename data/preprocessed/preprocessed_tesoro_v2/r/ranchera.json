@@ -3,15 +3,18 @@
   "term": "ranchera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rancho o cabaña en malas condiciones",
+      "consolidated_definition": "Rancho o cabaña en malas condiciones. También puede referirse a un techo de malojo y paja para escampar el agua o para guarecer los animales.",
+      "en_consolidated_definition": "Hut or cabin in poor condition. It may also refer to a thatched roof of badillo and straw used for shedding water or sheltering animals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4626",
         "semantic_similarity_score": 0.4626,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Rancho o cabaña en malas condiciones"
+    "Rancho o cabaña en malas condiciones. También puede referirse a un techo de malojo y paja para escampar el agua o para guarecer los animales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hut or cabin in poor condition. It may also refer to a thatched roof of badillo and straw used for shedding water or sheltering animals."
+  ],
   "source": "https://tesoro.pr"
 }

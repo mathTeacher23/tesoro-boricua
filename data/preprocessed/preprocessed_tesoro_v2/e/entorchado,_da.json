@@ -3,14 +3,17 @@
   "term": "entorchado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enojado",
+      "consolidated_definition": "Referido a persona, enojada.",
+      "en_consolidated_definition": "Enfadada (referido a persona).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5587",
-        "semantic_similarity_score": 0.5587,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -42,17 +45,16 @@
           "entorcharse"
         ],
         "reference_definitions": [
-          "Enojado.",
-          "Torcido.",
-          "Referido a persona, enojada.",
-          "Referido a cosa, torcida."
+          "Referido a persona, enojada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Enojado"
+    "Referido a persona, enojada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Enfadada (referido a persona)."
+  ],
   "source": "https://tesoro.pr"
 }

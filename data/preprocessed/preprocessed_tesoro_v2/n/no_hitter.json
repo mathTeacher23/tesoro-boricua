@@ -3,14 +3,17 @@
   "term": "no hitter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "En el beisbol, partido en el que el lanzador no permite que el equipo contrario batee un hit.",
+      "en_consolidated_definition": "In baseball, a game in which the pitcher prevents the opposing team from achieving a hit.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7437",
-        "semantic_similarity_score": 0.7437,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de béisbol, juego en el que el lanzador no permite que lleguen jugadores contrarios a las bases por medio de algún hit. Anglicismo crudo, poco frecuente. Si nos tiraban un no hitter era parte del juego",
           "En el beisbol, partido en el que el lanzador no permite que el equipo contrario batee un hit."
         ]
       }
     }
   },
   "es_definitions": [
-    "dep"
+    "En el beisbol, partido en el que el lanzador no permite que el equipo contrario batee un hit."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a game in which the pitcher prevents the opposing team from achieving a hit."
+  ],
   "source": "https://tesoro.pr"
 }

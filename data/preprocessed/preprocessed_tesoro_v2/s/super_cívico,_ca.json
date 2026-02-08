@@ -3,9 +3,12 @@
   "term": "super cívico, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona adinerada que desea ganar publicidad haciendo obras",
+      "consolidated_definition": "Persona adinerada que desea ganar publicidad haciendo obras de beneficencia.",
+      "en_consolidated_definition": "Wealthy individual seeking to gain publicity through philanthropic endeavors.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona adinerada que desea ganar publicidad haciendo obras"
+    "Persona adinerada que desea ganar publicidad haciendo obras de beneficencia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wealthy individual seeking to gain publicity through philanthropic endeavors."
+  ],
   "source": "https://tesoro.pr"
 }

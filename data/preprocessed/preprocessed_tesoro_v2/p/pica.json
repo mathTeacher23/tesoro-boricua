@@ -3,14 +3,17 @@
   "term": "pica",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ruleta, relacionado con un grupo",
+      "consolidated_definition": "Ruleta usada en las fiestas patronales, ferias o verbenas.",
+      "en_consolidated_definition": "Wheel of fortune used in patronal festivals, fairs or verbenas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.6798",
-        "semantic_similarity_score": 0.6798,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -62,19 +65,17 @@
           "piquero, ra"
         ],
         "reference_definitions": [
-          "Ruleta. “El grupo se confundió entre el gentío... por entre el maridaje de picas, puestos de refrescos.” Martínez Álvarez, , p. 216.",
-          "Especie de ruleta que se usa en las fiestas populares.",
-          "Ruleta u otro juego de azar en una feria, verbena o fiesta patronal.",
-          "Ruleta usada en los pueblos durante las fiestas patronales.",
-          ". Ruleta instalada en pabellones o quioscos construidos alrededor de la plaza pública o de la iglesia, para celebrar las fiestas patronales.",
           "Ruleta usada en las fiestas patronales, ferias o verbenas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Camino estrecho y rocoso",
+      "consolidated_definition": "Camino estrecho y rocoso. “Pica de Cayey.”",
+      "en_consolidated_definition": "Narrow and rocky path. \"Pica de Cayey.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -109,9 +110,12 @@
     }
   },
   "es_definitions": [
-    "Ruleta, relacionado con un grupo",
-    "Camino estrecho y rocoso"
+    "Ruleta usada en las fiestas patronales, ferias o verbenas.",
+    "Camino estrecho y rocoso. “Pica de Cayey.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wheel of fortune used in patronal festivals, fairs or verbenas.",
+    "Narrow and rocky path. \"Pica de Cayey.\""
+  ],
   "source": "https://tesoro.pr"
 }

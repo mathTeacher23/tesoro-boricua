@@ -3,9 +3,12 @@
   "term": "descongelar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Librar alguien los fondos retenidos de una cuenta",
+      "consolidated_definition": "Librar alguien los fondos retenidos de una cuenta bancaria.",
+      "en_consolidated_definition": "To release funds held in a bank account on behalf of someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Librar alguien los fondos retenidos de una cuenta"
+    "Librar alguien los fondos retenidos de una cuenta bancaria."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To release funds held in a bank account on behalf of someone."
+  ],
   "source": "https://tesoro.pr"
 }

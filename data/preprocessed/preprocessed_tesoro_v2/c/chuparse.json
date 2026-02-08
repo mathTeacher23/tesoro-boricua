@@ -3,15 +3,18 @@
   "term": "chuparse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aguantarse, soportar una situación o circunstancia incómoda o desagradable.",
+      "consolidated_definition": "Aguantarse, soportar algo desagradable.",
+      "en_consolidated_definition": "Endurar o tolerar algo desagradable.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Aguantarse, soportar una situación o circunstancia incómoda o desagradable."
+    "Aguantarse, soportar algo desagradable."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Endurar o tolerar algo desagradable."
+  ],
   "source": "https://tesoro.pr"
 }

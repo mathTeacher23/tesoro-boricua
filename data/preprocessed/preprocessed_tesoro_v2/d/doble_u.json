@@ -3,9 +3,12 @@
   "term": "doble u",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Uve doble",
+      "consolidated_definition": "Uve doble.",
+      "en_consolidated_definition": "Double grape (uva doble)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Uve doble"
+    "Uve doble."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Double grape (uva doble)"
+  ],
   "source": "https://tesoro.pr"
 }

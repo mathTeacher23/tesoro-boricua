@@ -3,9 +3,12 @@
   "term": "fish",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Individuo zángano",
+      "consolidated_definition": "Individuo zángano, torpe.",
+      "en_consolidated_definition": "Worker drone, inept individual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Individuo zángano"
+    "Individuo zángano, torpe."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Worker drone, inept individual."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "cuin",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El miedo es una emoción negativa que se caracteriza por la sensación de peligro o amenaza, acompañada de ansiedad y temor a un objeto, situación o resultado específico.",
+      "consolidated_definition": "Miedo, temor.",
+      "en_consolidated_definition": "Fear, apprehension.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El miedo es una emoción negativa que se caracteriza por la sensación de peligro o amenaza, acompañada de ansiedad y temor a un objeto, situación o resultado específico."
+    "Miedo, temor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fear, apprehension."
+  ],
   "source": "https://tesoro.pr"
 }

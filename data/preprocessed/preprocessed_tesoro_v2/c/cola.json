@@ -3,15 +3,18 @@
   "term": "cola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Cola de piña\": término coloquial utilizado para describir el manojo de hojas que forma la corona de la fruta piña.",
+      "consolidated_definition": "Corona de la piña.",
+      "en_consolidated_definition": "Crown of the pineapple.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6342",
-        "semantic_similarity_score": 0.6342,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para indicar el manojo de hojas que forman la corona de la fruta piña aparecieron entremezcladamente las palabras ... cola, Utuado.",
           "Corona de la piña."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "La hoja verde de la parte superior de la caña de azúcar que no contiene azúcar y se utiliza como abono o alimento para el ganado.",
+      "consolidated_definition": "Hoja verde de la parte superior de la caña que no contiene azúcar; cortada la caña, se deja sobre el terreno para abono o alimento de las reses.",
+      "en_consolidated_definition": "Upper green leaf of the cane that does not contain sugar; after cutting the cane, it is left on the ground as fertilizer or feed for livestock.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9114",
-        "semantic_similarity_score": 0.9114,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -81,21 +86,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hoja verde de la parte de arriba de la caña. No contiene azúcar y se deja sobre el terreno para abono o alimento de las reses. Esta hoja verde se deshecha sin perjuicio para el valor de la caña.",
           "Hoja verde de la parte superior de la caña que no contiene azúcar; cortada la caña, se deja sobre el terreno para abono o alimento de las reses."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Persona que realiza un trabajo con menor intensidad o eficiencia en comparación con sus compañeros.",
+      "consolidated_definition": "Peón flojo que rinde menos labor que los demás.",
+      "en_consolidated_definition": "Sluggish laborer who produces less work than the others.\n\nNota: En este caso, \"Peón flojo\" se refiere a un trabajador que no cumple con sus responsabilidades o que es poco productivo en su trabajo. La traducción busca mantener el significado exacto y el tono formal de un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -125,15 +132,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "\"Trasero\": parte posterior del cuerpo humano o de un animal, especialmente el área que se encuentra detrás de las caderas (sustantivo).",
+      "consolidated_definition": "Trasero, nalgas.",
+      "en_consolidated_definition": "Gluteus, buttocks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -162,11 +172,16 @@
     }
   },
   "es_definitions": [
-    "\"Cola de piña\": término coloquial utilizado para describir el manojo de hojas que forma la corona de la fruta piña.",
-    "La hoja verde de la parte superior de la caña de azúcar que no contiene azúcar y se utiliza como abono o alimento para el ganado.",
-    "Persona que realiza un trabajo con menor intensidad o eficiencia en comparación con sus compañeros.",
-    "\"Trasero\": parte posterior del cuerpo humano o de un animal, especialmente el área que se encuentra detrás de las caderas (sustantivo)."
+    "Corona de la piña.",
+    "Hoja verde de la parte superior de la caña que no contiene azúcar; cortada la caña, se deja sobre el terreno para abono o alimento de las reses.",
+    "Peón flojo que rinde menos labor que los demás.",
+    "Trasero, nalgas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Crown of the pineapple.",
+    "Upper green leaf of the cane that does not contain sugar; after cutting the cane, it is left on the ground as fertilizer or feed for livestock.",
+    "Sluggish laborer who produces less work than the others.\n\nNota: En este caso, \"Peón flojo\" se refiere a un trabajador que no cumple con sus responsabilidades o que es poco productivo en su trabajo. La traducción busca mantener el significado exacto y el tono formal de un diccionario.",
+    "Gluteus, buttocks."
+  ],
   "source": "https://tesoro.pr"
 }

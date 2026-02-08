@@ -3,9 +3,12 @@
   "term": "wall-to-wall",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a una alfombra o a un armario",
+      "consolidated_definition": "Referido a una alfombra o a un armario, que se extiende de pared a pared.",
+      "en_consolidated_definition": "Wall-to-wall carpeting or wall-to-wall furniture, specifically a floor-to-ceiling closet.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referido a una alfombra o a un armario"
+    "Referido a una alfombra o a un armario, que se extiende de pared a pared."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wall-to-wall carpeting or wall-to-wall furniture, specifically a floor-to-ceiling closet."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mamá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Chica bonita",
+      "consolidated_definition": "Chica bonita. Muchacha guapa.",
+      "en_consolidated_definition": "Attractive young woman. Pretty girl.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Chica bonita"
+    "Chica bonita. Muchacha guapa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Attractive young woman. Pretty girl."
+  ],
   "source": "https://tesoro.pr"
 }

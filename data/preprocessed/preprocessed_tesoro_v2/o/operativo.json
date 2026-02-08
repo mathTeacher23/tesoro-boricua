@@ -3,9 +3,12 @@
   "term": "operativo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción concertada de la policía o de un, relacionado con una organización",
+      "consolidated_definition": "Acción concertada de la policía o de un cuerpo militar.",
+      "en_consolidated_definition": "Action coordinated by the police or a military unit.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Acción concertada de la policía o de un, relacionado con una organización"
+    "Acción concertada de la policía o de un cuerpo militar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Action coordinated by the police or a military unit."
+  ],
   "source": "https://tesoro.pr"
 }

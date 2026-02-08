@@ -3,9 +3,12 @@
   "term": "piedrero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pedregal",
+      "consolidated_definition": "Pedregal.",
+      "en_consolidated_definition": "Pedregal: a rocky outcropping or area of rugged terrain, often found in areas with limestone bedrock, particularly in the karst regions of Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pedregal"
+    "Pedregal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pedregal: a rocky outcropping or area of rugged terrain, often found in areas with limestone bedrock, particularly in the karst regions of Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

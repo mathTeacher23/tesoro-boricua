@@ -3,9 +3,12 @@
   "term": "pinzote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver maslote",
+      "consolidated_definition": "Ver maslote .",
+      "en_consolidated_definition": "See maslote.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,15 +28,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pezón de una fruta, relacionado con una organización",
+      "consolidated_definition": "El pezón de una fruta es un saliente pequeño y carnoso que se encuentra en el centro o en un extremo de la fruta, como en las fresas o los tomates.",
+      "en_consolidated_definition": "The nipple of a fruit is a small, fleshy protrusion found at the center or an extremity of the fruit, such as in strawberries or tomatoes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4915",
         "semantic_similarity_score": 0.4915,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -69,9 +75,12 @@
     }
   },
   "es_definitions": [
-    "Ver maslote",
-    "Pezón de una fruta, relacionado con una organización"
+    "Ver maslote .",
+    "El pezón de una fruta es un saliente pequeño y carnoso que se encuentra en el centro o en un extremo de la fruta, como en las fresas o los tomates."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See maslote.",
+    "The nipple of a fruit is a small, fleshy protrusion found at the center or an extremity of the fruit, such as in strawberries or tomatoes."
+  ],
   "source": "https://tesoro.pr"
 }

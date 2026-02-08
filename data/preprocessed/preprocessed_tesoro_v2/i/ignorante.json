@@ -3,15 +3,18 @@
   "term": "ignorante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Modo despectivo de llamar al aguacate",
+      "consolidated_definition": "\"Aguacate\": fruta del árbol Persea americana.",
+      "en_consolidated_definition": "Avocado: fruit of the Persea americana tree.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.598",
         "semantic_similarity_score": 0.598,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Modo despectivo de llamar al aguacate"
+    "\"Aguacate\": fruta del árbol Persea americana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Avocado: fruit of the Persea americana tree."
+  ],
   "source": "https://tesoro.pr"
 }

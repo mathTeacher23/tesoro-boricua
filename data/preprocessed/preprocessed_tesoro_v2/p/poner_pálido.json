@@ -3,9 +3,12 @@
   "term": "poner pálido",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser generoso en aportar dinero",
+      "consolidated_definition": "Ser generoso en aportar dinero. Cooperar con dinero.",
+      "en_consolidated_definition": "Be generous in providing financial support. Cooperate financially.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Ser generoso en aportar dinero"
+    "Ser generoso en aportar dinero. Cooperar con dinero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Be generous in providing financial support. Cooperate financially."
+  ],
   "source": "https://tesoro.pr"
 }

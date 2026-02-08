@@ -3,15 +3,18 @@
   "term": "meladero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trapiche donde se muele la caña y se",
+      "consolidated_definition": "Trapiche en el que se procesa la caña de azúcar mediante su molienda y cocción para producir melaza.",
+      "en_consolidated_definition": "Sugar mill in which sugarcane is processed through its grinding and cooking to produce molasses.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.543",
         "semantic_similarity_score": 0.543,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Trapiche donde se muele la caña y se"
+    "Trapiche en el que se procesa la caña de azúcar mediante su molienda y cocción para producir melaza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sugar mill in which sugarcane is processed through its grinding and cooking to produce molasses."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "luenga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lengua",
+      "consolidated_definition": "Lengua.",
+      "en_consolidated_definition": "Language.\n\nNota: Si se refiere a una lengua específica hablada en Puerto Rico, es posible que deba incluirse un término cultural específico como \"puertorriqueño\" o \"criollo\", dependiendo del contexto de la definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Lengua"
+    "Lengua."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Language.\n\nNota: Si se refiere a una lengua específica hablada en Puerto Rico, es posible que deba incluirse un término cultural específico como \"puertorriqueño\" o \"criollo\", dependiendo del contexto de la definición."
+  ],
   "source": "https://tesoro.pr"
 }

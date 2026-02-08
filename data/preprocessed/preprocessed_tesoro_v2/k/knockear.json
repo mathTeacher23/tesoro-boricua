@@ -3,9 +3,12 @@
   "term": "knockear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el boxeo",
+      "consolidated_definition": "En el boxeo, dar el peleador un golpe muy fuerte a su contrincante, tirándolo a la lona.",
+      "en_consolidated_definition": "In boxing, to deliver a strong blow to an opponent, knocking them down to the canvas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "En el boxeo"
+    "En el boxeo, dar el peleador un golpe muy fuerte a su contrincante, tirándolo a la lona."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In boxing, to deliver a strong blow to an opponent, knocking them down to the canvas."
+  ],
   "source": "https://tesoro.pr"
 }

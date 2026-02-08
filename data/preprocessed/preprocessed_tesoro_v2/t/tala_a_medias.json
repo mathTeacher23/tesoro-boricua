@@ -3,9 +3,12 @@
   "term": "tala a medias",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sembrado que hace uno en una finca ajena",
+      "consolidated_definition": "Sembrado que hace uno en una finca ajena por el que recibe la mitad de la cosecha.",
+      "en_consolidated_definition": "Sharecropping that one plants on a neighbor's estate in exchange for half of the harvest.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sembrado que hace uno en una finca ajena"
+    "Sembrado que hace uno en una finca ajena por el que recibe la mitad de la cosecha."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sharecropping that one plants on a neighbor's estate in exchange for half of the harvest."
+  ],
   "source": "https://tesoro.pr"
 }

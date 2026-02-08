@@ -3,9 +3,12 @@
   "term": "faño, ña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fañoso",
+      "consolidated_definition": "Fañoso. “Es que soy faño.” (gangoso).",
+      "en_consolidated_definition": "Fanoso. \"I am a faño.\" (gangly or awkward in manner)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -37,14 +40,16 @@
           "fañosidad"
         ],
         "reference_definitions": [
-          "Fañoso. “Es que soy faño.” ."
+          "Fañoso. “Es que soy faño.” (gangoso)."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fañoso"
+    "Fañoso. “Es que soy faño.” (gangoso)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fanoso. \"I am a faño.\" (gangly or awkward in manner)"
+  ],
   "source": "https://tesoro.pr"
 }

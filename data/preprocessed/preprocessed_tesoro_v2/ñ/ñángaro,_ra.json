@@ -3,9 +3,12 @@
   "term": "ñángaro, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a cosa",
+      "consolidated_definition": "Referido a cosa, de mala calidad.",
+      "en_consolidated_definition": "Of poor quality, referring to something.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -38,14 +41,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Militante del Partido Comunista",
+      "consolidated_definition": "Militante del Partido Comunista.",
+      "en_consolidated_definition": "Communist Party militant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6538",
-        "semantic_similarity_score": 0.6538,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -69,20 +75,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Militante del Partido Comunista.",
-          "Militante o simpatizante de alguna ideología de izquierda, especialmente la marxista-leninista."
+          "Militante del Partido Comunista."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Alcahuete",
+      "consolidated_definition": "Referido a persona, soplona, que informa a su jefe sobre sus compañeros de trabajo.",
+      "en_consolidated_definition": "Informant, specifically a tattletale, who reports to their supervisor about their coworkers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5123",
-        "semantic_similarity_score": 0.5123,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -114,19 +122,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Alcahuete. Soplón que informa a su jefe sobre sus compañeros de trabajo.",
-          "Adulador político.",
-          "Referido a persona, soplona, que informa a su jefe sobre sus compañeros de trabajo.",
-          "Referido a persona, aduladora política."
+          "Referido a persona, soplona, que informa a su jefe sobre sus compañeros de trabajo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Referido a cosa",
-    "Militante del Partido Comunista",
-    "Alcahuete"
+    "Referido a cosa, de mala calidad.",
+    "Militante del Partido Comunista.",
+    "Referido a persona, soplona, que informa a su jefe sobre sus compañeros de trabajo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Of poor quality, referring to something.",
+    "Communist Party militant.",
+    "Informant, specifically a tattletale, who reports to their supervisor about their coworkers."
+  ],
   "source": "https://tesoro.pr"
 }

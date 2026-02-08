@@ -3,9 +3,12 @@
   "term": "papeo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comida",
+      "consolidated_definition": "Comida.",
+      "en_consolidated_definition": "Food.\n\nNota: Si se refiere a una comida específica de Puerto Rico, como \"arroz con gandules\" o \"empanada\", sería necesario obtener más contexto para proporcionar una traducción precisa y adecuada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Comida"
+    "Comida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Food.\n\nNota: Si se refiere a una comida específica de Puerto Rico, como \"arroz con gandules\" o \"empanada\", sería necesario obtener más contexto para proporcionar una traducción precisa y adecuada."
+  ],
   "source": "https://tesoro.pr"
 }

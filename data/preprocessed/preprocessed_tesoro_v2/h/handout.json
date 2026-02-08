@@ -3,9 +3,12 @@
   "term": "handout",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Material impreso",
+      "consolidated_definition": "Material impreso, de una o varias páginas, que contiene información relevante a alguna materia que se estudia. El material que deben estudiar se encuentra en el handout que les entregué la semana pasada. .",
+      "en_consolidated_definition": "Printed material, consisting of one or more pages, that contains relevant information on a subject being studied. The material to be studied can be found in the handout I distributed last week.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Material impreso"
+    "Material impreso, de una o varias páginas, que contiene información relevante a alguna materia que se estudia. El material que deben estudiar se encuentra en el handout que les entregué la semana pasada. ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Printed material, consisting of one or more pages, that contains relevant information on a subject being studied. The material to be studied can be found in the handout I distributed last week."
+  ],
   "source": "https://tesoro.pr"
 }

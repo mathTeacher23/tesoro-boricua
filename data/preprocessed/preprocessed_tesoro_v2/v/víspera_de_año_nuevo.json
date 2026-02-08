@@ -3,9 +3,12 @@
   "term": "víspera de año nuevo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nochevieja",
+      "consolidated_definition": "Nochevieja. También despedida de año.",
+      "en_consolidated_definition": "New Year's Eve. Also year-end farewell.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Nochevieja"
+    "Nochevieja. También despedida de año."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "New Year's Eve. Also year-end farewell."
+  ],
   "source": "https://tesoro.pr"
 }

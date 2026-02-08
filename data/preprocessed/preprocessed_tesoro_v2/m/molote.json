@@ -3,9 +3,12 @@
   "term": "molote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Riña",
+      "consolidated_definition": "Riña, alboroto.",
+      "en_consolidated_definition": "Brawl, commotion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Riña"
+    "Riña, alboroto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Brawl, commotion."
+  ],
   "source": "https://tesoro.pr"
 }

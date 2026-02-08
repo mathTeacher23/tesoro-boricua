@@ -3,9 +3,12 @@
   "term": "tripleta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Participación triple en las apuestas de las carreras",
+      "consolidated_definition": "Participación triple en las apuestas de las carreras de caballos.",
+      "en_consolidated_definition": "Triple wager in horse racing bets.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Participación triple en las apuestas de las carreras"
+    "Participación triple en las apuestas de las carreras de caballos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Triple wager in horse racing bets."
+  ],
   "source": "https://tesoro.pr"
 }

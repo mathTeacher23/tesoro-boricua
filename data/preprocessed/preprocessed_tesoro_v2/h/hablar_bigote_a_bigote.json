@@ -3,9 +3,12 @@
   "term": "hablar bigote a bigote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conversación personal",
+      "consolidated_definition": "Conversación personal.",
+      "en_consolidated_definition": "Personal conversation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Conversación personal"
+    "Conversación personal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Personal conversation."
+  ],
   "source": "https://tesoro.pr"
 }

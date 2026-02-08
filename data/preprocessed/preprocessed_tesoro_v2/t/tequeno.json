@@ -3,15 +3,18 @@
   "term": "tequeno",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de guineo",
+      "consolidated_definition": "\"Guineo largo y flaco\": variedad de plátano caracterizada por su longitud y forma estrecha.",
+      "en_consolidated_definition": "Long and slender banana variety: a type of plantain characterized by its length and narrow shape.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5943",
         "semantic_similarity_score": 0.5943,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Variedad de guineo"
+    "\"Guineo largo y flaco\": variedad de plátano caracterizada por su longitud y forma estrecha."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Long and slender banana variety: a type of plantain characterized by its length and narrow shape."
+  ],
   "source": "https://tesoro.pr"
 }

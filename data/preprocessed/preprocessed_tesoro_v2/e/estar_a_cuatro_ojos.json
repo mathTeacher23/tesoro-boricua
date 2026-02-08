@@ -3,15 +3,18 @@
   "term": "estar a cuatro ojos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estar alerta",
+      "consolidated_definition": "Estar alerta y consciente del entorno o de un objeto específico.",
+      "en_consolidated_definition": "Ser consciente y atento del entorno o de un objeto específico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5322",
         "semantic_similarity_score": 0.5322,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "locución verbal"
         ],
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Estar alerta"
+    "Estar alerta y consciente del entorno o de un objeto específico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ser consciente y atento del entorno o de un objeto específico."
+  ],
   "source": "https://tesoro.pr"
 }

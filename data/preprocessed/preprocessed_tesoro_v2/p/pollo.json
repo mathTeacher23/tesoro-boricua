@@ -3,9 +3,12 @@
   "term": "pollo",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Gallo o gallina de poca edad. “Con el real y medio compré una polla y la polla me puso tres huevos.” Ramírez, Folklore, 21.",
+      "consolidated_definition": "(T. en Arg., Cuba, Méx. y Perú). Gallo o gallina de poca edad. “Con el real y medio compré una polla y la polla me puso tres huevos.” Ramírez, Folklore, 21.",
+      "en_consolidated_definition": "Young rooster or hen of little age.\n\nNote: The term \"real y medio\" is a unit of currency in some Latin American countries and refers to a specific amount of money. \n\nIn this context, it's likely referring to the cost of purchasing a young rooster or hen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Gallo o gallina de poca edad. “Con el real y medio compré una polla y la polla me puso tres huevos.” Ramírez, Folklore, 21."
+          "(T. en Arg., Cuba, Méx. y Perú). Gallo o gallina de poca edad. “Con el real y medio compré una polla y la polla me puso tres huevos.” Ramírez, Folklore, 21."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ". Gargajo. .",
+      "consolidated_definition": "(T. en Arg., Chile y Perú). Gargajo. (Úsase en Madrid. Mugica).",
+      "en_consolidated_definition": "Gargajo (T. en Arg., Chile y Perú). Gargling sound. (Used in Madrid. Mugica)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -70,14 +76,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Gargajo. ."
+          "(T. en Arg., Chile y Perú). Gargajo. (Úsase en Madrid. Mugica)."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "fig",
+      "consolidated_definition": "fig. Hombre sagaz, astuto.",
+      "en_consolidated_definition": "Cunning man, astute person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -113,15 +122,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Nombre que algunos le dan al arbusto llamado",
+      "consolidated_definition": "El achiotillo es un arbusto que produce flores amarillentas en racimos, frutos verdes y hojas medicinales, comúnmente encontrado en zonas cálidas y húmedas.",
+      "en_consolidated_definition": "The achiotillo is a shrub that produces yellowish flowers in clusters, green fruits, and medicinal leaves, commonly found in warm and humid areas.\n\nNota: El término \"achiotillo\" es específico de Puerto Rico y se refiere a una planta nativa del país. La traducción mantiene el contexto cultural y la precisión del significado original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.2541",
         "semantic_similarity_score": 0.2541,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -158,11 +170,16 @@
     }
   },
   "es_definitions": [
-    ". Gallo o gallina de poca edad. “Con el real y medio compré una polla y la polla me puso tres huevos.” Ramírez, Folklore, 21.",
-    ". Gargajo. .",
-    "fig",
-    "Nombre que algunos le dan al arbusto llamado"
+    "(T. en Arg., Cuba, Méx. y Perú). Gallo o gallina de poca edad. “Con el real y medio compré una polla y la polla me puso tres huevos.” Ramírez, Folklore, 21.",
+    "(T. en Arg., Chile y Perú). Gargajo. (Úsase en Madrid. Mugica).",
+    "fig. Hombre sagaz, astuto.",
+    "El achiotillo es un arbusto que produce flores amarillentas en racimos, frutos verdes y hojas medicinales, comúnmente encontrado en zonas cálidas y húmedas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Young rooster or hen of little age.\n\nNote: The term \"real y medio\" is a unit of currency in some Latin American countries and refers to a specific amount of money. \n\nIn this context, it's likely referring to the cost of purchasing a young rooster or hen.",
+    "Gargajo (T. en Arg., Chile y Perú). Gargling sound. (Used in Madrid. Mugica)",
+    "Cunning man, astute person.",
+    "The achiotillo is a shrub that produces yellowish flowers in clusters, green fruits, and medicinal leaves, commonly found in warm and humid areas.\n\nNota: El término \"achiotillo\" es específico de Puerto Rico y se refiere a una planta nativa del país. La traducción mantiene el contexto cultural y la precisión del significado original."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "vivero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Predio donde se transplanta el arbolillo de café",
+      "consolidated_definition": "Área de cultivo temporal destinado a la aclimatación y crecimiento del arbolillo de café antes de su traslante definitivo.",
+      "en_consolidated_definition": "Area of temporary cultivation intended for the acclimation and growth of coffee shrub before its definitive transplant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.5164",
         "semantic_similarity_score": 0.5164,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -66,8 +69,10 @@
     }
   },
   "es_definitions": [
-    "Predio donde se transplanta el arbolillo de café"
+    "Área de cultivo temporal destinado a la aclimatación y crecimiento del arbolillo de café antes de su traslante definitivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area of temporary cultivation intended for the acclimation and growth of coffee shrub before its definitive transplant."
+  ],
   "source": "https://tesoro.pr"
 }

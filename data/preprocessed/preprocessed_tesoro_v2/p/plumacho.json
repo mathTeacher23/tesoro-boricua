@@ -3,9 +3,12 @@
   "term": "plumacho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mechón de plumas en un ave",
+      "consolidated_definition": "Mechón de plumas en un ave.",
+      "en_consolidated_definition": "Lock of feathers in a bird.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mechón de plumas en un ave"
+    "Mechón de plumas en un ave."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lock of feathers in a bird."
+  ],
   "source": "https://tesoro.pr"
 }

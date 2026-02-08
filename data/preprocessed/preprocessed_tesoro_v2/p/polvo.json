@@ -3,9 +3,12 @@
   "term": "polvo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Heroína",
+      "consolidated_definition": "Heroína.",
+      "en_consolidated_definition": "Heroine (n.) \n\nA female given name derived from the Greek word for \"heroine\" or \"daughter of an hero\". In some contexts, it may also refer to a woman who is considered a heroine or a female figure of great courage and strength.\n\nIn Puerto Rican culture, this term can also be associated with heroin, a highly addictive opioid drug.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Semen",
+      "consolidated_definition": "Semen (pronunciado /ˈsemɛn/): Espermatozoide o fluido seminal en biología.",
+      "en_consolidated_definition": "Semen (pronunciado /ˈsemɛn/): Spermatozoon or seminal fluid in biology.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.2119",
         "semantic_similarity_score": 0.2119,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -79,9 +85,12 @@
     }
   },
   "es_definitions": [
-    "Heroína",
-    "Semen"
+    "Heroína.",
+    "Semen (pronunciado /ˈsemɛn/): Espermatozoide o fluido seminal en biología."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Heroine (n.) \n\nA female given name derived from the Greek word for \"heroine\" or \"daughter of an hero\". In some contexts, it may also refer to a woman who is considered a heroine or a female figure of great courage and strength.\n\nIn Puerto Rican culture, this term can also be associated with heroin, a highly addictive opioid drug.",
+    "Semen (pronunciado /ˈsemɛn/): Spermatozoon or seminal fluid in biology."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "arenca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arenque: Pez marino de hasta 45 cm de longitud, de color azulado, pardusco o negruzco, con el vientre plateado, cuerpo lateralmente comprimido, mandíbula inferior prominente y base de la aleta caudal sin escamas; es comestible. (Clupeidae, Clupea harengus).",
+      "consolidated_definition": "Pez marino de hasta 45 cm de longitud, de color azulado, pardusco o negruzco, con el vientre plateado, cuerpo lateralmente comprimido, mandíbula inferior prominente y base de la aleta caudal sin escamas; es comestible. (Clupeidae, Clupea harengus).",
+      "en_consolidated_definition": "Marine fish reaching up to 45 cm in length, with a bluish, brownish or black coloration, and a silvery belly; its body is laterally compressed, the lower jaw is prominent, and the base of the caudal fin is scaleless; it is edible. (Clupeidae, Clupea harengus).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.402",
-        "semantic_similarity_score": 0.402,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -46,22 +49,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Arenque.",
-          "Arenque ahumado.",
           "Pez marino de hasta 45 cm de longitud, de color azulado, pardusco o negruzco, con el vientre plateado, cuerpo lateralmente comprimido, mandíbula inferior prominente y base de la aleta caudal sin escamas; es comestible. (Clupeidae, Clupea harengus)."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona muy delgada y huesuda.",
+      "consolidated_definition": "Persona muy delgada.",
+      "en_consolidated_definition": "Extremely slender person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.73",
-        "semantic_similarity_score": 0.73,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -91,16 +95,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dícese de la persona muy delgada y huesuda.",
           "Persona muy delgada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Arenque: Pez marino de hasta 45 cm de longitud, de color azulado, pardusco o negruzco, con el vientre plateado, cuerpo lateralmente comprimido, mandíbula inferior prominente y base de la aleta caudal sin escamas; es comestible. (Clupeidae, Clupea harengus).",
-    "Persona muy delgada y huesuda."
+    "Pez marino de hasta 45 cm de longitud, de color azulado, pardusco o negruzco, con el vientre plateado, cuerpo lateralmente comprimido, mandíbula inferior prominente y base de la aleta caudal sin escamas; es comestible. (Clupeidae, Clupea harengus).",
+    "Persona muy delgada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine fish reaching up to 45 cm in length, with a bluish, brownish or black coloration, and a silvery belly; its body is laterally compressed, the lower jaw is prominent, and the base of the caudal fin is scaleless; it is edible. (Clupeidae, Clupea harengus).",
+    "Extremely slender person."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "carro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Automóvil: vehículo a motor con cuatro ruedas, usualmente diseñado para el transporte de personas.",
+      "consolidated_definition": "Automóvil.",
+      "en_consolidated_definition": "Automobile.\n\nNota: En algunos contextos, puede referirse a un vehículo de cuatro ruedas diseñado para el transporte personal o de mercancías, especialmente en áreas rurales donde se utiliza un automóvil como medio de transporte público.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.8422",
-        "semantic_similarity_score": 0.8422,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -59,19 +62,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Automóvil.",
-          "Automóvil.",
-          "Automóvil.",
-          "Automóvil.",
-          "autom. Automóvil. Vehículo para uso personal o familiar que tiene un motor de combustión interno. Usual. DRAE 2001 Estacionaron el carro en el parking, debajo de unos tintillos enormes",
           "Automóvil."
         ]
       }
     }
   },
   "es_definitions": [
-    "Automóvil: vehículo a motor con cuatro ruedas, usualmente diseñado para el transporte de personas."
+    "Automóvil."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Automobile.\n\nNota: En algunos contextos, puede referirse a un vehículo de cuatro ruedas diseñado para el transporte personal o de mercancías, especialmente en áreas rurales donde se utiliza un automóvil como medio de transporte público."
+  ],
   "source": "https://tesoro.pr"
 }

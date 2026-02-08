@@ -3,9 +3,12 @@
   "term": "entripar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empapar",
+      "consolidated_definition": "Empapar, mojar a alguien.",
+      "en_consolidated_definition": "To soak or douse someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Empapar"
+    "Empapar, mojar a alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To soak or douse someone."
+  ],
   "source": "https://tesoro.pr"
 }

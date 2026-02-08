@@ -3,9 +3,12 @@
   "term": "encarcelación emocional",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sustitución de prisión de un condenado por ejercicios",
+      "consolidated_definition": "Sustitución de prisión de un condenado por ejercicios militares, tratamiento antidrogas, trabajos físicos y estudios.",
+      "en_consolidated_definition": "Substitution of a prisoner's sentence with military exercises, anti-drug treatment, physical labor, and studies.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sustitución de prisión de un condenado por ejercicios"
+    "Sustitución de prisión de un condenado por ejercicios militares, tratamiento antidrogas, trabajos físicos y estudios."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Substitution of a prisoner's sentence with military exercises, anti-drug treatment, physical labor, and studies."
+  ],
   "source": "https://tesoro.pr"
 }

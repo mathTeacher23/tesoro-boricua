@@ -3,9 +3,12 @@
   "term": "nuez moscada macho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver nuez moscada cimarrona",
+      "consolidated_definition": "Ver nuez moscada cimarrona .",
+      "en_consolidated_definition": "See wild nutmeg.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver nuez moscada cimarrona"
+    "Ver nuez moscada cimarrona ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See wild nutmeg."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "beautician",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Peluquera: persona que se dedica a peinar, cortar el pelo y crear accesorios capilares como pelucas o rizos en un local especializado.",
+      "consolidated_definition": "Estilista, especialista en peinados y en cosméticos.",
+      "en_consolidated_definition": "Hairstylist, specialist in hairstyles and cosmetics.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.548",
-        "semantic_similarity_score": 0.548,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -43,15 +46,16 @@
           "beauty (parlor)"
         ],
         "reference_definitions": [
-          "Peluquera. Especialista que tiene por oficio peinar, cortar el pelo y vender o hacer pelucas, rizos, etc. en un local para estos fines. Anglicismo crudo, usual. Casi se decide a irse cuando se le acerca una mano con reloj de oro, cutículas cuidadas (ella las reconoce bien; ella es beautician)",
           "Estilista, especialista en peinados y en cosméticos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Peluquera: persona que se dedica a peinar, cortar el pelo y crear accesorios capilares como pelucas o rizos en un local especializado."
+    "Estilista, especialista en peinados y en cosméticos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hairstylist, specialist in hairstyles and cosmetics."
+  ],
   "source": "https://tesoro.pr"
 }

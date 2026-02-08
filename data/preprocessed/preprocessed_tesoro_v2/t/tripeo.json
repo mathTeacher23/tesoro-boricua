@@ -3,14 +3,17 @@
   "term": "tripeo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada por drogadictos",
+      "consolidated_definition": "Hecho de estar drogado.",
+      "en_consolidated_definition": "State of being under the influence of a drug.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5563",
-        "semantic_similarity_score": 0.5563,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,22 +49,22 @@
           "tripear 1"
         ],
         "reference_definitions": [
-          "Voz usada por drogadictos. Acción y efecto de estar endrogado.",
-          "Fumada de pasto .",
-          "Hecho de estar drogado.",
-          "Fumada de marihuana."
+          "Hecho de estar drogado."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Relajo",
+      "consolidated_definition": "Buen rato, diversión.",
+      "en_consolidated_definition": "Good time, entertainment.\n\nNota: La expresión \"buen rato\" es un término coloquial en español puertorriqueño que se utiliza para describir una situación o momento agradable y divertido. En este contexto, la traducción literal sería \"good time\", pero se ha mantenido el significado original de la expresión para reflejar su uso cultural específico en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4722",
-        "semantic_similarity_score": 0.4722,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -90,16 +93,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Relajo, diversión. Estado de alegría y jolgorio entre amigos. Anglicismo adaptado, frecuente. Son canciones para todo tipo de público que invitan a la reflexión dentro del tripeo al que inducen sus integrantes: Josean Rosario , Harold Sanders , Eric De la Cruz y Jorge Colón",
           "Buen rato, diversión."
         ]
       }
     }
   },
   "es_definitions": [
-    "Voz usada por drogadictos",
-    "Relajo"
+    "Hecho de estar drogado.",
+    "Buen rato, diversión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "State of being under the influence of a drug.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Good time, entertainment.\n\nNota: La expresión \"buen rato\" es un término coloquial en español puertorriqueño que se utiliza para describir una situación o momento agradable y divertido. En este contexto, la traducción literal sería \"good time\", pero se ha mantenido el significado original de la expresión para reflejar su uso cultural específico en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

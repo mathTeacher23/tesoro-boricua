@@ -3,9 +3,12 @@
   "term": "peralto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Altura de una red",
+      "consolidated_definition": "Altura de una red, trasmallo o chinchorro.",
+      "en_consolidated_definition": "Height of a hammock or trammel net.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Altura de una red"
+    "Altura de una red, trasmallo o chinchorro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Height of a hammock or trammel net."
+  ],
   "source": "https://tesoro.pr"
 }

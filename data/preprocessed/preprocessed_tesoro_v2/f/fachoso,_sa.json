@@ -3,9 +3,12 @@
   "term": "fachoso, sa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona mal vestida",
+      "consolidated_definition": "Persona mal vestida, en mala facha.",
+      "en_consolidated_definition": "Persona mal vestida, en mala facha.\n\nTranslation:\nPerson poorly dressed, in a disreputable appearance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona mal vestida"
+    "Persona mal vestida, en mala facha."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona mal vestida, en mala facha.\n\nTranslation:\nPerson poorly dressed, in a disreputable appearance."
+  ],
   "source": "https://tesoro.pr"
 }

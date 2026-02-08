@@ -3,9 +3,12 @@
   "term": "tirarse del gancho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Levantarse de la cama",
+      "consolidated_definition": "Levantarse de la cama.",
+      "en_consolidated_definition": "Rise from bed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Levantarse de la cama"
+    "Levantarse de la cama."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rise from bed."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "zafarse el lápiz a alguien",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cobrar de más",
+      "consolidated_definition": "Cobrar de más.",
+      "en_consolidated_definition": "To charge more than what is owed or due.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Cobrar de más"
+    "Cobrar de más."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To charge more than what is owed or due."
+  ],
   "source": "https://tesoro.pr"
 }

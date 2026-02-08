@@ -3,9 +3,12 @@
   "term": "tragar miel de purga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Soportar lo indecible",
+      "consolidated_definition": "Soportar lo indecible. También tragar mierda.",
+      "en_consolidated_definition": "Endure the unspeakable. Also, swallow excrement.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Soportar lo indecible"
+    "Soportar lo indecible. También tragar mierda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Endure the unspeakable. Also, swallow excrement."
+  ],
   "source": "https://tesoro.pr"
 }

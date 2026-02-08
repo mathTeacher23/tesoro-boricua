@@ -3,14 +3,17 @@
   "term": "espumero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El encargado de templar los azúcares",
+      "consolidated_definition": "En la industria azucarera, empleado encargado de templar los azúcares.",
+      "en_consolidated_definition": "In the sugar industry, an employee responsible for tempering sugars.\n\nNota: En este contexto, \"templar\" se refiere a la acción de ajustar el punto de ebullición del azúcar para que sea adecuado para su uso en la industria azucarera.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.816",
-        "semantic_similarity_score": 0.816,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,18 +44,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El encargado de templar los azúcares.",
           "En la industria azucarera, empleado encargado de templar los azúcares."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ola que rompe mal",
+      "consolidated_definition": "Ola que rompe mal.",
+      "en_consolidated_definition": "Wave that breaks poorly.\n\nNota: La expresión \"ola que rompe mal\" es un término coloquial en español puertorriqueño que se refiere a una ola del mar que se rompe de manera violenta y destructiva.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -83,16 +88,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ola que rompe mal.",
           "Ola que rompe mal."
         ]
       }
     }
   },
   "es_definitions": [
-    "El encargado de templar los azúcares",
-    "Ola que rompe mal"
+    "En la industria azucarera, empleado encargado de templar los azúcares.",
+    "Ola que rompe mal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the sugar industry, an employee responsible for tempering sugars.\n\nNota: En este contexto, \"templar\" se refiere a la acción de ajustar el punto de ebullición del azúcar para que sea adecuado para su uso en la industria azucarera.",
+    "Wave that breaks poorly.\n\nNota: La expresión \"ola que rompe mal\" es un término coloquial en español puertorriqueño que se refiere a una ola del mar que se rompe de manera violenta y destructiva."
+  ],
   "source": "https://tesoro.pr"
 }

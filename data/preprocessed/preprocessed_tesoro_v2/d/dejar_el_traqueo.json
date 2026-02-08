@@ -3,9 +3,12 @@
   "term": "dejar el traqueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dejar lo que se está haciendo",
+      "consolidated_definition": "Dejar lo que se está haciendo.",
+      "en_consolidated_definition": "Abandonar lo que se está realizando.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Dejar lo que se está haciendo"
+    "Dejar lo que se está haciendo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Abandonar lo que se está realizando."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mantecudo, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grasoso",
+      "consolidated_definition": "Grasoso, muy grueso.",
+      "en_consolidated_definition": "Greasy, extremely coarse.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Grasoso"
+    "Grasoso, muy grueso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Greasy, extremely coarse."
+  ],
   "source": "https://tesoro.pr"
 }

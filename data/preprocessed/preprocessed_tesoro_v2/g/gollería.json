@@ -3,9 +3,12 @@
   "term": "gollería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción o proposición en la que sólo una",
+      "consolidated_definition": "Acción o proposición en la que sólo una de las partes se beneficia.",
+      "en_consolidated_definition": "Action or proposition in which only one of the parties benefits.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Acción o proposición en la que sólo una"
+    "Acción o proposición en la que sólo una de las partes se beneficia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Action or proposition in which only one of the parties benefits."
+  ],
   "source": "https://tesoro.pr"
 }

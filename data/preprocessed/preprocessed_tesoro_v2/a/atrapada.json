@@ -3,15 +3,18 @@
   "term": "atrapada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Dep\": acción en béisbol por la que un defensor atrapa y mantiene firmemente la pelota en su mano sin dejar que se le caiga. (acción)",
+      "consolidated_definition": "En el beisbol, acción de un jugador defensivo de coger en el aire una pelota bateada.",
+      "en_consolidated_definition": "In baseball, the act of a defensive player catching a batted ball in mid-air.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5772",
-        "semantic_similarity_score": 0.5772,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -41,15 +44,16 @@
           "atrapar"
         ],
         "reference_definitions": [
-          "dep. En el juego de béisbol, acto que ejecuta un jugador de la defensa cuando atrapa la pelota y la mantiene firmemente en la mano sin que se le caiga. Anglicismo de sentido, usual. Nunca habrás visto una atrapada de una bola foul como esta y no fue del jugador. No dejes de ver este video, uno de los más famosos en el internet (Noticias Online, 28-06-08)",
           "En el beisbol, acción de un jugador defensivo de coger en el aire una pelota bateada."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Dep\": acción en béisbol por la que un defensor atrapa y mantiene firmemente la pelota en su mano sin dejar que se le caiga. (acción)"
+    "En el beisbol, acción de un jugador defensivo de coger en el aire una pelota bateada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, the act of a defensive player catching a batted ball in mid-air."
+  ],
   "source": "https://tesoro.pr"
 }

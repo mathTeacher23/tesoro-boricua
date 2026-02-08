@@ -3,9 +3,12 @@
   "term": "sembrar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plantar",
+      "consolidated_definition": "Plantar, meter en tierra una planta, un vástago, un esqueje o tubérculo, para que arraigue.",
+      "en_consolidated_definition": "To plant, to set a plant, a stem, a cutting or tuber in the ground so that it takes root.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Plantar"
+    "Plantar, meter en tierra una planta, un vástago, un esqueje o tubérculo, para que arraigue."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To plant, to set a plant, a stem, a cutting or tuber in the ground so that it takes root."
+  ],
   "source": "https://tesoro.pr"
 }

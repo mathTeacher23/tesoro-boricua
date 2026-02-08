@@ -3,9 +3,12 @@
   "term": "dejar a medio palo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sin terminar",
+      "consolidated_definition": "Sin terminar. “Cuando la llamaron, Sara se fue enseguida y dejó a medio palo el vestido que cosía.”",
+      "en_consolidated_definition": "Incomplete. \"When they called her, Sara left immediately and abandoned the dress she was sewing halfway.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Sin terminar"
+    "Sin terminar. “Cuando la llamaron, Sara se fue enseguida y dejó a medio palo el vestido que cosía.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Incomplete. \"When they called her, Sara left immediately and abandoned the dress she was sewing halfway.\""
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "rile",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Moneda que sólo tenía valor en la hacienda",
+      "consolidated_definition": "Moneda local sin valor fuera del lugar de emisión, equivalente a fichas utilizadas privadamente en el siglo XIX por muchos dueños de haciendas de café, en sustitución de la moneda legal, como pago del jornal que ganaban los obreros, válida únicamente en la tienda de la propia hacienda.",
+      "en_consolidated_definition": "Local currency with no value outside the place of issue, equivalent to privately used tokens employed by many coffee plantation owners in the 19th century as a substitute for legal tender, valid only at the owner's own plantation store, used to pay wages earned by workers.\n\nNota: He mantenido el término \"hacienda de café\" para preservar la cultura y contexto específico de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4212",
         "semantic_similarity_score": 0.4212,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -51,8 +54,10 @@
     }
   },
   "es_definitions": [
-    "Moneda que sólo tenía valor en la hacienda"
+    "Moneda local sin valor fuera del lugar de emisión, equivalente a fichas utilizadas privadamente en el siglo XIX por muchos dueños de haciendas de café, en sustitución de la moneda legal, como pago del jornal que ganaban los obreros, válida únicamente en la tienda de la propia hacienda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Local currency with no value outside the place of issue, equivalent to privately used tokens employed by many coffee plantation owners in the 19th century as a substitute for legal tender, valid only at the owner's own plantation store, used to pay wages earned by workers.\n\nNota: He mantenido el término \"hacienda de café\" para preservar la cultura y contexto específico de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

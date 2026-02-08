@@ -3,15 +3,18 @@
   "term": "tiña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad propia de las aves de corral",
+      "consolidated_definition": "La enfermedad parasítica propia de las aves de corral conocida como \"gallina tiñosa\" se caracteriza por manchas en la cabeza de los gallos y gallinas.",
+      "en_consolidated_definition": "The parasitic disease characteristic of domestic fowl known as \"gallina tiñosa\" is distinguished by spots on the heads of roosters and hens.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.4971",
         "semantic_similarity_score": 0.4971,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -59,8 +62,10 @@
     }
   },
   "es_definitions": [
-    "Enfermedad propia de las aves de corral"
+    "La enfermedad parasítica propia de las aves de corral conocida como \"gallina tiñosa\" se caracteriza por manchas en la cabeza de los gallos y gallinas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The parasitic disease characteristic of domestic fowl known as \"gallina tiñosa\" is distinguished by spots on the heads of roosters and hens."
+  ],
   "source": "https://tesoro.pr"
 }

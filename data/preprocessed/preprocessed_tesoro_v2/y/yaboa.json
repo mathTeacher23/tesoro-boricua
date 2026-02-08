@@ -3,14 +3,17 @@
   "term": "yaboa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ave acuática",
+      "consolidated_definition": "Ave de hasta 50 cm de longitud, de plumaje azul grisáceo con manchas más claras, pico negro con punta amarilla y patas verdes. Ardeidae Nyctanassa violacea bancroft.",
+      "en_consolidated_definition": "Bird of up to 50 cm in length, with a greyish-blue plumage and lighter patches, black bill with yellow tip, and green legs. Ardeidae Nyctanassa violacea bancrofti.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.407",
-        "semantic_similarity_score": 0.407,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -61,26 +64,23 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Ave acuática, color variado de amarillo canelo, gris y blanco. . Stahl, Catalog., 56. “Yo cogí mucha guabina —con él, pol el río Toa, —y he matao mucha yaboa —y he pescao mucha sardina.” Ferd. R. Cestero, No pico, 1932.",
-          "Ave zancuda de cabeza pequeña con un moño negro o amarillo.",
-          "Ave de la costa que “corre por los mangles como una paloma”. . Guanabá.",
-          "Tres clases de aves distintas figuran con este nombre: Nyctanassa violacea, que es ave acuática, de color ceniciento azulado, de tonos más oscuros por el lomo que por debajo; es común en la Isla, donde se encuentra en lagos y ciénagas, ríos y manglares de la costa; se alimenta de cangrejos que pesca durante la noche; emite un graznido fuerte y ronco, parecido a la sílaba cuá. Yaboa real : es de color negro verdoso por la espalda; pescuezo, frente y partes inferiores, de color blanco, y la rabadilla y alas de color gris ceniciento; mide alrededor de dos pies de largo y su cabeza ostenta dos plumas largas y angostas, de ocho pulgadas de largo; es animal de hábitos seminocturnos y se encuentra en lagunas y ciénagas de la costa; se alimenta de peces, sapos y otros animalitos acuáticos. Yaboa americana : esta ave es migratoria y llega a Puerto Rico durante el invierno; es mayor que las anteriores; su color es leonado y negruzco y tiene una mancha negra a cada lado del cuello.",
-          "Garza nocturna.",
-          "Nyctanasa violacea. Nicticorax boactli. Ave zancuda acuática y comestible de las lagunas.",
           "Ave de hasta 50 cm de longitud, de plumaje azul grisáceo con manchas más claras, pico negro con punta amarilla y patas verdes. Ardeidae Nyctanassa violacea bancroft."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Zapato grande",
+      "consolidated_definition": "\"Zapato grande\": calzado que cubre el pie con un tamaño mayor al normal.",
+      "en_consolidated_definition": "Big shoe: footwear that covers the foot with a size larger than normal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.7766",
         "semantic_similarity_score": 0.7766,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -123,9 +123,12 @@
     }
   },
   "es_definitions": [
-    "Ave acuática",
-    "Zapato grande"
+    "Ave de hasta 50 cm de longitud, de plumaje azul grisáceo con manchas más claras, pico negro con punta amarilla y patas verdes. Ardeidae Nyctanassa violacea bancroft.",
+    "\"Zapato grande\": calzado que cubre el pie con un tamaño mayor al normal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bird of up to 50 cm in length, with a greyish-blue plumage and lighter patches, black bill with yellow tip, and green legs. Ardeidae Nyctanassa violacea bancrofti.",
+    "Big shoe: footwear that covers the foot with a size larger than normal."
+  ],
   "source": "https://tesoro.pr"
 }

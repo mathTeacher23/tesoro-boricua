@@ -3,14 +3,17 @@
   "term": "guillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Robar",
+      "consolidated_definition": "Huir, escapar alguien.",
+      "en_consolidated_definition": "Fugitivo, escape de alguien.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5705",
-        "semantic_similarity_score": 0.5705,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -40,17 +43,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Robar. Quedarse con parte de lo que pertenece a otra persona.",
-          "Huir, escapar alguien.",
-          "Robar, quedarse alguien con parte de las pertenencias de otra persona.",
-          "Hacer alguien algo sin permiso o consentimiento."
+          "Huir, escapar alguien."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Presumir alguien de algo",
+      "consolidated_definition": "Presumir alguien de algo.",
+      "en_consolidated_definition": "To presume someone of something.\n\nNota: En este contexto, \"presumir\" se utiliza en el sentido de atribuir algo a alguien sin evidencia o justificación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -86,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Robar",
-    "Presumir alguien de algo"
+    "Huir, escapar alguien.",
+    "Presumir alguien de algo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fugitivo, escape de alguien.",
+    "To presume someone of something.\n\nNota: En este contexto, \"presumir\" se utiliza en el sentido de atribuir algo a alguien sin evidencia o justificación."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "picatierra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desyerbo de machete a ras de tierra",
+      "consolidated_definition": "Desyerbo a machete a ras de tierra.",
+      "en_consolidated_definition": "Clears land with a machete at ground level.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.9853",
         "semantic_similarity_score": 0.9853,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Desyerbo de machete a ras de tierra"
+    "Desyerbo a machete a ras de tierra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Clears land with a machete at ground level."
+  ],
   "source": "https://tesoro.pr"
 }

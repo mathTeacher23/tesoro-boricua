@@ -3,9 +3,12 @@
   "term": "telemaratón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Programa especial de televisión que dura muchas horas",
+      "consolidated_definition": "Programa especial de televisión que dura muchas horas, en el que participan muchos artistas gratuitamente, generalmente con fines benéficos.",
+      "en_consolidated_definition": "Maratón televisivo beneficente que dura muchas horas y en el que participan varios artistas gratuitamente con fines benéficos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Programa especial de televisión que dura muchas horas"
+    "Programa especial de televisión que dura muchas horas, en el que participan muchos artistas gratuitamente, generalmente con fines benéficos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maratón televisivo beneficente que dura muchas horas y en el que participan varios artistas gratuitamente con fines benéficos."
+  ],
   "source": "https://tesoro.pr"
 }

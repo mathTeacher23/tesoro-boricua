@@ -3,9 +3,12 @@
   "term": "prendorio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada por campesinos",
+      "consolidated_definition": "Voz usada por campesinos. Enamoramiento.",
+      "en_consolidated_definition": "Rustic infatuation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Voz usada por campesinos"
+    "Voz usada por campesinos. Enamoramiento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rustic infatuation."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "asimilismo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La política de anexión es un tipo de estrategia o movimiento que busca convertir a Puerto Rico en el 51º estado de los Estados Unidos de América.",
+      "consolidated_definition": "Política que pretende hacer de Puerto Rico un estado de los Estados Unidos.",
+      "en_consolidated_definition": "Policy aimed at making Puerto Rico a state of the United States.\n\nNota: En este caso, no se utilizó el término \"estadidad\" que es específico de Puerto Rico y se optó por la expresión más formal \"state\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "El asimilismo fue un ideal político del siglo 19 que buscaba integrar Puerto Rico como provincia de España, considerándolo una extensión de la metrópoli en aspectos políticos, económicos y sociales.",
+      "consolidated_definition": "Ideal político del siglo 19 cuyo propósito era hacer de Puerto Rico una provincia de España. El “asimilismo” de los territorios como provincias españolas, parte integrante de la propia Monarquía, los convirtió, aparentemente, en una extensión de la metrópoli desde el punto de vista político, económico y social. Pero las diferencias entre la Península y las islas eran patentes en los tres aspectos citados y ello se iba a poner de manifiesto a finales de siglo.",
+      "en_consolidated_definition": "Political ideal of the 19th century whose purpose was to make Puerto Rico a province of Spain. The \"asimilismo\" of territories as Spanish provinces, integral part of the Monarchy itself, made them appear, ostensibly, an extension of the metropolis from a political, economic, and social perspective. However, differences between the Peninsula and the islands were evident in the three aforementioned aspects, which would become apparent at the end of the century.\n\nNota: El término \"asimilismo\" se refiere al proceso de asimilación cultural y política que buscaba hacer que las colonias españolas en América se integraran plenamente a la metrópoli española. En este contexto, se utiliza para describir el ideal político del siglo 19 que buscaba convertir a Puerto Rico en una provincia de España.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "La política de anexión es un tipo de estrategia o movimiento que busca convertir a Puerto Rico en el 51º estado de los Estados Unidos de América.",
-    "El asimilismo fue un ideal político del siglo 19 que buscaba integrar Puerto Rico como provincia de España, considerándolo una extensión de la metrópoli en aspectos políticos, económicos y sociales."
+    "Política que pretende hacer de Puerto Rico un estado de los Estados Unidos.",
+    "Ideal político del siglo 19 cuyo propósito era hacer de Puerto Rico una provincia de España. El “asimilismo” de los territorios como provincias españolas, parte integrante de la propia Monarquía, los convirtió, aparentemente, en una extensión de la metrópoli desde el punto de vista político, económico y social. Pero las diferencias entre la Península y las islas eran patentes en los tres aspectos citados y ello se iba a poner de manifiesto a finales de siglo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Policy aimed at making Puerto Rico a state of the United States.\n\nNota: En este caso, no se utilizó el término \"estadidad\" que es específico de Puerto Rico y se optó por la expresión más formal \"state\".",
+    "Political ideal of the 19th century whose purpose was to make Puerto Rico a province of Spain. The \"asimilismo\" of territories as Spanish provinces, integral part of the Monarchy itself, made them appear, ostensibly, an extension of the metropolis from a political, economic, and social perspective. However, differences between the Peninsula and the islands were evident in the three aforementioned aspects, which would become apparent at the end of the century.\n\nNota: El término \"asimilismo\" se refiere al proceso de asimilación cultural y política que buscaba hacer que las colonias españolas en América se integraran plenamente a la metrópoli española. En este contexto, se utiliza para describir el ideal político del siglo 19 que buscaba convertir a Puerto Rico en una provincia de España."
+  ],
   "source": "https://tesoro.pr"
 }

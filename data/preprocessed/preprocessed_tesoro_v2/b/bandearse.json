@@ -3,15 +3,18 @@
   "term": "bandearse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inclinarse una persona, un animal o un vehículo hacia un lado al desplazarse para evitar contacto con alguien o algo.",
+      "consolidated_definition": "Inclinarse una persona, un animal o un vehículo hacia un lado al desplazarse.",
+      "en_consolidated_definition": "To lean or incline oneself, an animal, or a vehicle to one side while in motion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5691",
-        "semantic_similarity_score": 0.5691,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -49,22 +52,23 @@
           "bandazo"
         ],
         "reference_definitions": [
-          "Irse de lado una persona, un animal o un vehículo.",
-          "intr. (T. brincar de lado y lado, dar bandazos). Balancearse la embarcación.",
           "Inclinarse una persona, un animal o un vehículo hacia un lado al desplazarse."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "La autodefensa se refiere al acto de proteger o cuidar a uno mismo, física o emocionalmente.",
+      "consolidated_definition": "Defenderse uno mismo, ayudarse.",
+      "en_consolidated_definition": "Defenderse uno mismo, ayudarse.\n\nSelf-defense, to assist oneself.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -94,9 +98,12 @@
     }
   },
   "es_definitions": [
-    "Inclinarse una persona, un animal o un vehículo hacia un lado al desplazarse para evitar contacto con alguien o algo.",
-    "La autodefensa se refiere al acto de proteger o cuidar a uno mismo, física o emocionalmente."
+    "Inclinarse una persona, un animal o un vehículo hacia un lado al desplazarse.",
+    "Defenderse uno mismo, ayudarse."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To lean or incline oneself, an animal, or a vehicle to one side while in motion.",
+    "Defenderse uno mismo, ayudarse.\n\nSelf-defense, to assist oneself."
+  ],
   "source": "https://tesoro.pr"
 }

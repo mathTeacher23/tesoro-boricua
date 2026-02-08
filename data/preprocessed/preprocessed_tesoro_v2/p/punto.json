@@ -3,15 +3,18 @@
   "term": "punto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Posta en un juego",
+      "consolidated_definition": "Entidad o valor asociado a un juego, patrocinio o mérito.",
+      "en_consolidated_definition": "Entity or value associated with a game, sponsorship, or merit.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4695",
         "semantic_similarity_score": 0.4695,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Lugar común de reunión de cierto grupo, relacionado con un grupo",
+      "consolidated_definition": "Área donde uno vive.",
+      "en_consolidated_definition": "Residencia o lugar de habitación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.2879",
         "semantic_similarity_score": 0.2879,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -88,9 +94,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Mojón",
+      "consolidated_definition": "Mojón.",
+      "en_consolidated_definition": "Boundary marker.\n\nNota: En algunos contextos, \"mojón\" puede referirse a un poste o una señal que indica límites en el territorio de Puerto Rico, especialmente en áreas rurales. Sin embargo, la traducción general es \"boundary marker\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -124,9 +133,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Penitenciaría estatal",
+      "consolidated_definition": "Penitenciaría estatal.",
+      "en_consolidated_definition": "State Penitentiary.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -163,11 +175,16 @@
     }
   },
   "es_definitions": [
-    "Posta en un juego",
-    "Lugar común de reunión de cierto grupo, relacionado con un grupo",
-    "Mojón",
-    "Penitenciaría estatal"
+    "Entidad o valor asociado a un juego, patrocinio o mérito.",
+    "Área donde uno vive.",
+    "Mojón.",
+    "Penitenciaría estatal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Entity or value associated with a game, sponsorship, or merit.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Residencia o lugar de habitación.",
+    "Boundary marker.\n\nNota: En algunos contextos, \"mojón\" puede referirse a un poste o una señal que indica límites en el territorio de Puerto Rico, especialmente en áreas rurales. Sin embargo, la traducción general es \"boundary marker\".",
+    "State Penitentiary."
+  ],
   "source": "https://tesoro.pr"
 }

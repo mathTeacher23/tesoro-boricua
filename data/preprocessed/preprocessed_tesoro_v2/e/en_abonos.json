@@ -3,9 +3,12 @@
   "term": "en abonos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mediante pagos parciales y periódicos",
+      "consolidated_definition": "Mediante pagos parciales y periódicos.",
+      "en_consolidated_definition": "Through periodic and partial payments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Mediante pagos parciales y periódicos"
+    "Mediante pagos parciales y periódicos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Through periodic and partial payments."
+  ],
   "source": "https://tesoro.pr"
 }

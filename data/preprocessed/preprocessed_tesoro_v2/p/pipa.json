@@ -3,14 +3,17 @@
   "term": "pipa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Barriga abultada.",
+      "en_consolidated_definition": "Distended abdomen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5578",
-        "semantic_similarity_score": 0.5578,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -49,17 +52,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg. . Barriga. “Papá, mira: ¡pipa... pipa! Como quien dice: ¡Papá, mírame la barriga!” González García, La primera cría, 1892, p. 40.",
-          "Voz usada en otros países de Hispanoamérica. Barriga. Panza. Vientre abultado.",
-          "La barriga.",
           "Barriga abultada."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver cachimba 1",
+      "consolidated_definition": "Ver cachimba 1 .",
+      "en_consolidated_definition": "See caja de humo 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -80,9 +83,12 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    "Ver cachimba 1"
+    "Barriga abultada.",
+    "Ver cachimba 1 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Distended abdomen.",
+    "See caja de humo 1."
+  ],
   "source": "https://tesoro.pr"
 }

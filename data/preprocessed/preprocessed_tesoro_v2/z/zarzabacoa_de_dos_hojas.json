@@ -3,9 +3,12 @@
   "term": "zarzabacoa de dos hojas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver zarzabacoa",
+      "consolidated_definition": "Ver zarzabacoa .",
+      "en_consolidated_definition": "See zarzabacoa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver zarzabacoa"
+    "Ver zarzabacoa ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See zarzabacoa."
+  ],
   "source": "https://tesoro.pr"
 }

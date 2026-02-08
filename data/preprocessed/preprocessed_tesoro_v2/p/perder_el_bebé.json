@@ -3,9 +3,12 @@
   "term": "perder el bebé",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abortar",
+      "consolidated_definition": "Abortar. También malparir, tener un aborto.",
+      "en_consolidated_definition": "Abort. Also to miscarry or have a miscarriage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Abortar"
+    "Abortar. También malparir, tener un aborto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Abort. Also to miscarry or have a miscarriage."
+  ],
   "source": "https://tesoro.pr"
 }

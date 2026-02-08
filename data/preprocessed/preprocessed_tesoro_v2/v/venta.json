@@ -3,9 +3,12 @@
   "term": "venta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Particularismo de Medianía",
+      "consolidated_definition": "Particularismo de Medianía, se usa únicamente para referirse a los productos hechos con yuca y jueyes.",
+      "en_consolidated_definition": "Medianía particularism of Yuca and Jueyes products, used exclusively to refer to items made from yuca and jueyes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Particularismo de Medianía"
+    "Particularismo de Medianía, se usa únicamente para referirse a los productos hechos con yuca y jueyes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Medianía particularism of Yuca and Jueyes products, used exclusively to refer to items made from yuca and jueyes."
+  ],
   "source": "https://tesoro.pr"
 }

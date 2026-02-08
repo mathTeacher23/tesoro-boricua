@@ -3,14 +3,17 @@
   "term": "estaqueada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Palizada hecha con estacas grandes y fuertes",
+      "consolidated_definition": "Palizada hecha con estacas grandes y fuertes en una playa para evitar que entren peces peligrosos.",
+      "en_consolidated_definition": "Fish trap made with large and sturdy stakes on a beach to prevent the entry of dangerous fish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5396",
-        "semantic_similarity_score": 0.5396,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -45,16 +48,16 @@
           "estaqueado"
         ],
         "reference_definitions": [
-          "Palizada hecha con estacas grandes y fuertes, en una playa de mar para evitar la entrada de peces peligrosos.",
-          "Conjunto de tablones clavados.",
           "Palizada hecha con estacas grandes y fuertes en una playa para evitar que entren peces peligrosos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Palizada hecha con estacas grandes y fuertes"
+    "Palizada hecha con estacas grandes y fuertes en una playa para evitar que entren peces peligrosos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fish trap made with large and sturdy stakes on a beach to prevent the entry of dangerous fish."
+  ],
   "source": "https://tesoro.pr"
 }

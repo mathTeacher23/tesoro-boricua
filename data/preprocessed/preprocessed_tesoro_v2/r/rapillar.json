@@ -3,9 +3,12 @@
   "term": "rapillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En pintura de edificios",
+      "consolidated_definition": "En pintura de edificios, raspar con espátula o con cepillo de alambre las paredes y plafones antes de aplicar la pintura.",
+      "en_consolidated_definition": "In painting buildings, scrape walls and ceilings with a spatula or wire brush before applying paint.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En pintura de edificios"
+    "En pintura de edificios, raspar con espátula o con cepillo de alambre las paredes y plafones antes de aplicar la pintura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In painting buildings, scrape walls and ceilings with a spatula or wire brush before applying paint."
+  ],
   "source": "https://tesoro.pr"
 }

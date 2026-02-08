@@ -3,9 +3,12 @@
   "term": "graje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Beso apasionado",
+      "consolidated_definition": "Beso apasionado.",
+      "en_consolidated_definition": "Passionate kiss",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Beso apasionado"
+    "Beso apasionado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Passionate kiss"
+  ],
   "source": "https://tesoro.pr"
 }

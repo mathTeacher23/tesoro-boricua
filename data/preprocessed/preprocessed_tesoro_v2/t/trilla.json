@@ -3,14 +3,17 @@
   "term": "trilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Paseo corto en un vehículo o sobre un",
+      "consolidated_definition": "Paseo corto a caballo o en vehículo.",
+      "en_consolidated_definition": "Short ride on horseback or in a vehicle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.5641",
-        "semantic_similarity_score": 0.5641,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -62,26 +65,23 @@
           "trillita"
         ],
         "reference_definitions": [
-          "Paseo corto en un vehículo o sobre un animal. Otra forma: vueltón.",
-          "Paseíto, carrerita.",
-          "Caminito estrecho que conduce al camino real.",
-          "Paseo corto a caballo o en un vehículo.",
-          "Paseo corto.",
-          "Carrera. Vuelta.",
           "Paseo corto a caballo o en vehículo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Se dice del café que se recoge del",
+      "consolidated_definition": "Café recogido del suelo, objeto de inferior calidad.",
+      "en_consolidated_definition": "Coffee grounds collected from the floor, an object of inferior quality.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
         "num_cleaned_definitions": 11,
-        "definition_stability": "Stability: 0.6248",
-        "semantic_similarity_score": 0.6248,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.626",
+        "semantic_similarity_score": 0.626,
+        "cluster_count": 11,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -145,7 +145,7 @@
         ],
         "reference_definitions": [
           "Se dice del café que se recoge del suelo y es de inferior calidad; café triache.",
-          "Café de calidad inferior. Otra forma: triache.",
+          "(jíbaro) Café de calidad inferior. Otra forma: triache.",
           "Café trilla, últimos granos en la despulpadora de café.",
           "Café de calidad inferior, grano de café que salta en el caldero cuando se tuesta.",
           "Grano de café raquítico.",
@@ -159,14 +159,17 @@
       }
     },
     "3": {
-      "consolidated_definition": "Zurra",
+      "consolidated_definition": "Tunda o castigo que alguien recibe, especialmente con azotes o golpes.",
+      "en_consolidated_definition": "Fustigación o castigo que alguien recibe, especialmente con azotes o golpes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4593",
-        "semantic_similarity_score": 0.4593,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -200,18 +203,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Zurra, felpa. Pateadura.",
-          "And. Chile y P. Rico. Zurra, felpa, pateadura.",
           "Tunda o castigo que alguien recibe, especialmente con azotes o golpes."
         ]
       }
     }
   },
   "es_definitions": [
-    "Paseo corto en un vehículo o sobre un",
-    "Se dice del café que se recoge del",
-    "Zurra"
+    "Paseo corto a caballo o en vehículo.",
+    "Café recogido del suelo, objeto de inferior calidad.",
+    "Tunda o castigo que alguien recibe, especialmente con azotes o golpes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Short ride on horseback or in a vehicle.",
+    "Coffee grounds collected from the floor, an object of inferior quality.",
+    "Fustigación o castigo que alguien recibe, especialmente con azotes o golpes."
+  ],
   "source": "https://tesoro.pr"
 }

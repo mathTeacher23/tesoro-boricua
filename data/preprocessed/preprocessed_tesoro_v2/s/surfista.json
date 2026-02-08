@@ -3,9 +3,12 @@
   "term": "surfista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "dep. Persona que practica el surfing. Poco frecuente. DRAE 2001. Un surfista australiano salvó a un canguro desorientado que nadaba con dificultad en una zona donde habitualmente merodean tiburones en el mar del estado de Queensland",
+      "en_consolidated_definition": "Surfer (raro). A surfer from Australia rescued a disoriented kangaroo that was struggling to swim in an area where sharks commonly roam in the sea off Queensland state.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "dep"
+    "dep. Persona que practica el surfing. Poco frecuente. DRAE 2001. Un surfista australiano salvó a un canguro desorientado que nadaba con dificultad en una zona donde habitualmente merodean tiburones en el mar del estado de Queensland"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Surfer (raro). A surfer from Australia rescued a disoriented kangaroo that was struggling to swim in an area where sharks commonly roam in the sea off Queensland state."
+  ],
   "source": "https://tesoro.pr"
 }

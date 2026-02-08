@@ -3,9 +3,12 @@
   "term": "interín",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tiempo que dura el desempeño interino de un",
+      "consolidated_definition": "Tiempo que dura el desempeño interino de un cargo.",
+      "en_consolidated_definition": "Duration of interim tenure in a position.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Tiempo que dura el desempeño interino de un"
+    "Tiempo que dura el desempeño interino de un cargo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Duration of interim tenure in a position."
+  ],
   "source": "https://tesoro.pr"
 }

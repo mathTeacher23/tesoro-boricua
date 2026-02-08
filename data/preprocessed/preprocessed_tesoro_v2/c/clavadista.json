@@ -3,15 +3,18 @@
   "term": "clavadista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Atleta que se especializa en la práctica de clavados o saltos de trampolín.",
+      "consolidated_definition": "Deportista que practica clavados o saltos de trampolín.",
+      "en_consolidated_definition": "Diver or springboard diver: an athlete who practices diving or springboard jumping.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Atleta que se especializa en la práctica de clavados o saltos de trampolín."
+    "Deportista que practica clavados o saltos de trampolín."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Diver or springboard diver: an athlete who practices diving or springboard jumping."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "echar el caqui",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enlistarse como soldado",
+      "consolidated_definition": "Enlistarse como soldado.",
+      "en_consolidated_definition": "Enlistarse como soldado.\n\nTo enlist as a soldier.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Enlistarse como soldado"
+    "Enlistarse como soldado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Enlistarse como soldado.\n\nTo enlist as a soldier."
+  ],
   "source": "https://tesoro.pr"
 }

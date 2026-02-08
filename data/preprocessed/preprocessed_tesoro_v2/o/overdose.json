@@ -3,9 +3,12 @@
   "term": "overdose",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dosis exagerada de algo",
+      "consolidated_definition": "Dosis exagerada de algo, especialmente de droga.",
+      "en_consolidated_definition": "Excessive dose of something, especially a drug.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Dosis exagerada de algo"
+    "Dosis exagerada de algo, especialmente de droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Excessive dose of something, especially a drug."
+  ],
   "source": "https://tesoro.pr"
 }

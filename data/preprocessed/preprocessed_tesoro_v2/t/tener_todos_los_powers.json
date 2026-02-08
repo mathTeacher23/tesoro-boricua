@@ -3,9 +3,12 @@
   "term": "tener todos los powers",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Algo o alguien que no tiene faltas",
+      "consolidated_definition": "Algo o alguien que no tiene faltas. También tener todos los hierros.",
+      "en_consolidated_definition": "Someone or something that has no flaws. Also to have all one's ducks in a row.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Algo o alguien que no tiene faltas"
+    "Algo o alguien que no tiene faltas. También tener todos los hierros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Someone or something that has no flaws. Also to have all one's ducks in a row."
+  ],
   "source": "https://tesoro.pr"
 }

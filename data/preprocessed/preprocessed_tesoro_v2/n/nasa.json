@@ -3,15 +3,18 @@
   "term": "nasa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Naso",
+      "consolidated_definition": "\"Naso\" (también \"nasa\"): red de pescar.",
+      "en_consolidated_definition": "Naso (also \"nasa\"): fishing net.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
         "num_cleaned_definitions": 10,
-        "definition_stability": "Stability: 0.5622",
-        "semantic_similarity_score": 0.5622,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5539",
+        "semantic_similarity_score": 0.5539,
+        "cluster_count": 10,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -76,7 +79,7 @@
         "reference_definitions": [
           "Naso. Nasa, red de pescar. “Y les ponen nasos y tarrayas.” Meléndez Muñoz, , p. 10.",
           "El cambio de género es usual en naso, por nasa, red de pescar.",
-          "Red algo menor que el chinchorro, usada en la pesca.",
+          "(general) Red algo menor que el chinchorro, usada en la pesca.",
           "Arte de pesca en forma de jaula hecha de tela metálica y madera de mangle. Naso.",
           "Red menor que el chinchorro usada en la pesca.",
           "Trampa para pescar.",
@@ -88,14 +91,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Vara larga con un recipiente en la punta",
+      "consolidated_definition": "Vara larga con un recipiente en la punta usada para coger aguacates y otras frutas.",
+      "en_consolidated_definition": "Long-handled tool with a container at the end used to pick avocados and other fruits.\n\nNota: En este contexto, \"aguacates\" se refiere a los frutos del árbol Persea americana, que es una planta común en Puerto Rico y otros países de América Latina. La traducción mantiene el término original para mantener la precisión cultural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9041",
-        "semantic_similarity_score": 0.9041,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -126,16 +132,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Vara larga con un recipiente en la punta que se usa para tumbar aguacates y otras frutas.",
           "Vara larga con un recipiente en la punta usada para coger aguacates y otras frutas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Naso",
-    "Vara larga con un recipiente en la punta"
+    "\"Naso\" (también \"nasa\"): red de pescar.",
+    "Vara larga con un recipiente en la punta usada para coger aguacates y otras frutas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Naso (also \"nasa\"): fishing net.",
+    "Long-handled tool with a container at the end used to pick avocados and other fruits.\n\nNota: En este contexto, \"aguacates\" se refiere a los frutos del árbol Persea americana, que es una planta común en Puerto Rico y otros países de América Latina. La traducción mantiene el término original para mantener la precisión cultural."
+  ],
   "source": "https://tesoro.pr"
 }

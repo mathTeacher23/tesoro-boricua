@@ -3,15 +3,18 @@
   "term": "segueta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Instrumento de trabajo",
+      "consolidated_definition": "Instrumento de trabajo: herramienta o dispositivo diseñado para facilitar la realización de tareas específicas en un proceso laboral.",
+      "en_consolidated_definition": "Work Instrument: a tool or device designed to facilitate the performance of specific tasks in a work process.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4246",
-        "semantic_similarity_score": 0.4246,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4194",
+        "semantic_similarity_score": 0.4194,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -54,14 +57,17 @@
           "Instrumento de trabajo.",
           "Instrumento que se usa en los establos. Consta éste de dos partes: la antigua hoz, y un tronco fino, al que se une en forma de cruz por lo que era el mango. Sirve para acercar al ganado la hierba que se quedó hacia arriba o en el fondo del establo mientras el animal comía la que tenía cerca. Se coge por el tronco, a manera de gancho. También serreta.",
           "Hoz. También serreta, sierra.",
-          "Por confusión, se oyó nombrar así a la hoz por Mayagüez."
+          "Por confusión, … se oyó nombrar así a la hoz por Mayagüez."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Pequeña sierra de acero templado para cortar metales",
+      "consolidated_definition": "Pequeña sierra de acero templado para cortar metales.",
+      "en_consolidated_definition": "Small tempered steel saw for cutting metals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -96,9 +102,12 @@
     }
   },
   "es_definitions": [
-    "Instrumento de trabajo",
-    "Pequeña sierra de acero templado para cortar metales"
+    "Instrumento de trabajo: herramienta o dispositivo diseñado para facilitar la realización de tareas específicas en un proceso laboral.",
+    "Pequeña sierra de acero templado para cortar metales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Work Instrument: a tool or device designed to facilitate the performance of specific tasks in a work process.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Small tempered steel saw for cutting metals."
+  ],
   "source": "https://tesoro.pr"
 }

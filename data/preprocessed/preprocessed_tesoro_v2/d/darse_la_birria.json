@@ -3,9 +3,12 @@
   "term": "darse la birria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tomar cerveza",
+      "consolidated_definition": "Tomar cerveza.",
+      "en_consolidated_definition": "To consume beer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Tomar cerveza"
+    "Tomar cerveza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To consume beer."
+  ],
   "source": "https://tesoro.pr"
 }

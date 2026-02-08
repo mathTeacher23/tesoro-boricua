@@ -3,9 +3,12 @@
   "term": "foam rubber",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Material de relleno",
+      "consolidated_definition": "Material de relleno, caucho, en piezas de pequeño tamaño.",
+      "en_consolidated_definition": "Rubber filler material, in small-sized pieces.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Material de relleno"
+    "Material de relleno, caucho, en piezas de pequeño tamaño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rubber filler material, in small-sized pieces."
+  ],
   "source": "https://tesoro.pr"
 }

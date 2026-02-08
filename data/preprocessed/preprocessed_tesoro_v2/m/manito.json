@@ -3,14 +3,17 @@
   "term": "manito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Manecita",
+      "consolidated_definition": "Manecita, manita.",
+      "en_consolidated_definition": "Handlet, handlet (informal), small hand or fist, often used to refer to a person's ability to accomplish something with ease.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6337",
-        "semantic_similarity_score": 0.6337,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,22 +47,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Manecita. En otros lugares se prefiere manita.",
-          "Diminutivo de mano, usado por manecita o manita.",
           "Manecita, manita."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Diminutivo de hermano",
+      "consolidated_definition": "Nombre que se refiere a un hermano en un contexto afectivo.",
+      "en_consolidated_definition": "Sibling in an affective context.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5589",
         "semantic_similarity_score": 0.5589,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -95,9 +99,12 @@
     }
   },
   "es_definitions": [
-    "Manecita",
-    "Diminutivo de hermano"
+    "Manecita, manita.",
+    "Nombre que se refiere a un hermano en un contexto afectivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Handlet, handlet (informal), small hand or fist, often used to refer to a person's ability to accomplish something with ease.",
+    "Sibling in an affective context."
+  ],
   "source": "https://tesoro.pr"
 }

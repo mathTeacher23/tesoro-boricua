@@ -3,15 +3,18 @@
   "term": "afinque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La interpretación musical caracterizada por un alto nivel de habilidad y destreza en la ejecución de la música, especialmente cuando realizada por una orquesta tropical.",
+      "consolidated_definition": "Virtuosismo con el que una orquesta tropical interpreta la música.",
+      "en_consolidated_definition": "Tropical virtuosity with which a tropical orchestra interprets music.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.616",
-        "semantic_similarity_score": 0.616,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -34,21 +37,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Virtuosismo con el que una orquesta tropical interpreta la música.",
-          "Capacidad de cautivar a la audiencia, especialmente una orquesta tropical."
+          "Virtuosismo con el que una orquesta tropical interpreta la música."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "La cercanía corporal entre una pareja en un baile de salón, caracterizada por la proximidad física y el contacto entre ellos.",
+      "consolidated_definition": "En un baile de salón, cercanía corporal entre una pareja.",
+      "en_consolidated_definition": "In a ballroom dance, bodily proximity between partners.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -76,15 +81,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "El grado de afianzamiento es la medida en que alguien se siente seguro y estable en su vida personal o profesional.",
+      "consolidated_definition": "Grado de afianzamiento de alguien o de algo.",
+      "en_consolidated_definition": "Degree of consolidation of someone or something.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -113,10 +121,14 @@
     }
   },
   "es_definitions": [
-    "La interpretación musical caracterizada por un alto nivel de habilidad y destreza en la ejecución de la música, especialmente cuando realizada por una orquesta tropical.",
-    "La cercanía corporal entre una pareja en un baile de salón, caracterizada por la proximidad física y el contacto entre ellos.",
-    "El grado de afianzamiento es la medida en que alguien se siente seguro y estable en su vida personal o profesional."
+    "Virtuosismo con el que una orquesta tropical interpreta la música.",
+    "En un baile de salón, cercanía corporal entre una pareja.",
+    "Grado de afianzamiento de alguien o de algo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tropical virtuosity with which a tropical orchestra interprets music.",
+    "In a ballroom dance, bodily proximity between partners.",
+    "Degree of consolidation of someone or something."
+  ],
   "source": "https://tesoro.pr"
 }

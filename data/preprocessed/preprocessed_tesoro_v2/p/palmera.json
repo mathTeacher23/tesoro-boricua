@@ -3,15 +3,18 @@
   "term": "palmera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Palmerota",
+      "consolidated_definition": "Palmerota: variedad de yautía inferior usada para alimentar cerdos. También llamada yautía de puerco.",
+      "en_consolidated_definition": "Palmelota: variety of yautía used as pig feed, also known as pig yautía.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.607",
         "semantic_similarity_score": 0.607,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -49,9 +52,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Nombre que algunos le dan al helecho gigante",
+      "consolidated_definition": "Nombre que algunos le dan al helecho gigante.",
+      "en_consolidated_definition": "Name given by some to the giant fern.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -86,9 +92,12 @@
     }
   },
   "es_definitions": [
-    "Palmerota",
-    "Nombre que algunos le dan al helecho gigante"
+    "Palmerota: variedad de yautía inferior usada para alimentar cerdos. También llamada yautía de puerco.",
+    "Nombre que algunos le dan al helecho gigante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Palmelota: variety of yautía used as pig feed, also known as pig yautía.",
+    "Name given by some to the giant fern."
+  ],
   "source": "https://tesoro.pr"
 }

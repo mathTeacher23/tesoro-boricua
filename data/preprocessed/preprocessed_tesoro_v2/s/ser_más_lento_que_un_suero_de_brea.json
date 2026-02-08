@@ -3,9 +3,12 @@
   "term": "ser más lento que un suero de brea",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Extremadamente lento",
+      "consolidated_definition": "Extremadamente lento.",
+      "en_consolidated_definition": "Extremely slow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Extremadamente lento"
+    "Extremadamente lento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extremely slow."
+  ],
   "source": "https://tesoro.pr"
 }

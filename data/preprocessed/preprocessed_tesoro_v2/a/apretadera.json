@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Denominación regional para el cincho, faja de cáñamo, esparto o cuero con que se asegura por detrás la silla o albarda sobre la cabalgadura, ciñéndola por debajo del rabo de la bestia.",
+      "en_consolidated_definition": "Regional designation for the cinch, a strip of hemp, esparto, or leather used to secure the saddle or pack saddle behind the animal's back, encircling it below the animal's tail.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -53,15 +56,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Condición financiera inestable o difícil.",
+      "consolidated_definition": "Estado económico precario.",
+      "en_consolidated_definition": "Economic precariousness or instability.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -91,8 +97,11 @@
   },
   "es_definitions": [
     "Denominación regional para el cincho, faja de cáñamo, esparto o cuero con que se asegura por detrás la silla o albarda sobre la cabalgadura, ciñéndola por debajo del rabo de la bestia.",
-    "Condición financiera inestable o difícil."
+    "Estado económico precario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Regional designation for the cinch, a strip of hemp, esparto, or leather used to secure the saddle or pack saddle behind the animal's back, encircling it below the animal's tail.",
+    "Economic precariousness or instability."
+  ],
   "source": "https://tesoro.pr"
 }

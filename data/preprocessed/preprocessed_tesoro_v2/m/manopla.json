@@ -3,9 +3,12 @@
   "term": "manopla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arma de hierro en forma de eslabón",
+      "consolidated_definition": "Arma de hierro en forma de eslabón, con agujeros por los que pasan los cuatro últimos dedos y que, una vez cerrado el puño, se usa para golpear.",
+      "en_consolidated_definition": "Iron chain weapon with holes for the four last fingers to pass through, used to strike once the fist is closed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Arma de hierro en forma de eslabón"
+    "Arma de hierro en forma de eslabón, con agujeros por los que pasan los cuatro últimos dedos y que, una vez cerrado el puño, se usa para golpear."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Iron chain weapon with holes for the four last fingers to pass through, used to strike once the fist is closed."
+  ],
   "source": "https://tesoro.pr"
 }

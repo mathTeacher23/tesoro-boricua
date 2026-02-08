@@ -3,9 +3,12 @@
   "term": "enganchador de cadena",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El obrero que amarra los paquetes de caña",
+      "consolidated_definition": "El obrero que amarra los paquetes de caña a las grúas.",
+      "en_consolidated_definition": "The worker who ties bundles of sugarcane to the cranes.\n\nNota: En este caso, \"caña\" se refiere a la caña de azúcar, que es una industria importante en Puerto Rico. La traducción mantiene el contexto cultural específico del término.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "El obrero que amarra los paquetes de caña"
+    "El obrero que amarra los paquetes de caña a las grúas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The worker who ties bundles of sugarcane to the cranes.\n\nNota: En este caso, \"caña\" se refiere a la caña de azúcar, que es una industria importante en Puerto Rico. La traducción mantiene el contexto cultural específico del término."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mataero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio donde ha estado acostado un animal",
+      "consolidated_definition": "Sitio donde ha estado acostado un animal. Se conoce por el pasto doblado y en parte amortiguado.",
+      "en_consolidated_definition": "Area where an animal has lain, identified by bent grass and partially cushioned ground.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Sitio donde ha estado acostado un animal"
+    "Sitio donde ha estado acostado un animal. Se conoce por el pasto doblado y en parte amortiguado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area where an animal has lain, identified by bent grass and partially cushioned ground."
+  ],
   "source": "https://tesoro.pr"
 }

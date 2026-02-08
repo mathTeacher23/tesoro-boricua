@@ -3,9 +3,12 @@
   "term": "snorkel",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tubo que se utiliza para respirar bajo el",
+      "consolidated_definition": "Tubo que se utiliza para respirar bajo el agua.",
+      "en_consolidated_definition": "Underwater breathing tube.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tubo que se utiliza para respirar bajo el"
+    "Tubo que se utiliza para respirar bajo el agua."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Underwater breathing tube."
+  ],
   "source": "https://tesoro.pr"
 }

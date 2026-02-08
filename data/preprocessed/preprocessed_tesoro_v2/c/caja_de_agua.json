@@ -3,15 +3,18 @@
   "term": "caja de agua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Depósito subterráneo o superficial, generalmente de cemento, diseñado para recoger y almacenar el agua de lluvia en campos agrícolas.",
+      "consolidated_definition": "Recipiente subterráneo, generalmente de cemento, donde se recoge el agua de lluvia en los campos.",
+      "en_consolidated_definition": "Subterranean reservoir, typically made of concrete, where rainwater is collected in fields.\n\nNota: En este contexto, \"campos\" se refiere a áreas agrícolas o terrenos rurales en Puerto Rico, donde la recolección de agua de lluvia es común.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8103",
-        "semantic_similarity_score": 0.8103,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Caja, por lo regular de cemento, donde se recoge el agua de lluvia en los campos. Puede estar bajo tierra al igual que el aljibe pero comúnmente está en una parte alta para que el agua baje por gravedad.",
           "Recipiente subterráneo, generalmente de cemento, donde se recoge el agua de lluvia en los campos."
         ]
       }
     }
   },
   "es_definitions": [
-    "Depósito subterráneo o superficial, generalmente de cemento, diseñado para recoger y almacenar el agua de lluvia en campos agrícolas."
+    "Recipiente subterráneo, generalmente de cemento, donde se recoge el agua de lluvia en los campos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Subterranean reservoir, typically made of concrete, where rainwater is collected in fields.\n\nNota: En este contexto, \"campos\" se refiere a áreas agrícolas o terrenos rurales en Puerto Rico, donde la recolección de agua de lluvia es común."
+  ],
   "source": "https://tesoro.pr"
 }

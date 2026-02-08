@@ -3,15 +3,18 @@
   "term": "pisón",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Pisotón.",
+      "consolidated_definition": "Pisotón: (en algunos países de América) sustantivo que designa el sonido producido al pisar con fuerza.",
+      "en_consolidated_definition": "Stomp sound: (in some countries of the Americas) noun designating the sound produced by stepping forcefully.\n\nNota: En este contexto, \"some countries of the Americas\" se refiere a países de América donde el término es utilizado, como Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9571",
-        "semantic_similarity_score": 0.9571,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5583",
+        "semantic_similarity_score": 0.5583,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Pisotón.",
+          "(T. en Am. Cen., Col., Ecuad., Méx. y Ven.). Pisotón.",
           "Pisotón."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En la industria cafetalera",
+      "consolidated_definition": "En la industria cafetalera, rueda para moler los granos de café provistos todavía de su cascarilla.",
+      "en_consolidated_definition": "In the coffee industry, a roller used to grind coffee beans still encased in their husks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    ". Pisotón.",
-    "En la industria cafetalera"
+    "Pisotón: (en algunos países de América) sustantivo que designa el sonido producido al pisar con fuerza.",
+    "En la industria cafetalera, rueda para moler los granos de café provistos todavía de su cascarilla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Stomp sound: (in some countries of the Americas) noun designating the sound produced by stepping forcefully.\n\nNota: En este contexto, \"some countries of the Americas\" se refiere a países de América donde el término es utilizado, como Puerto Rico.",
+    "In the coffee industry, a roller used to grind coffee beans still encased in their husks."
+  ],
   "source": "https://tesoro.pr"
 }

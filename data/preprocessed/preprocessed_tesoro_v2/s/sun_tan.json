@@ -3,9 +3,12 @@
   "term": "sun tan",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bronceado de la piel por la exposición al",
+      "consolidated_definition": "Bronceado de la piel por la exposición al sol.",
+      "en_consolidated_definition": "Solarium complexion resulting from exposure to sunlight.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Bronceado de la piel por la exposición al"
+    "Bronceado de la piel por la exposición al sol."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Solarium complexion resulting from exposure to sunlight."
+  ],
   "source": "https://tesoro.pr"
 }

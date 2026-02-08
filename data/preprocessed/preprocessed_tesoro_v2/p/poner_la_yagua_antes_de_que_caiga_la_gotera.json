@@ -3,9 +3,12 @@
   "term": "poner la yagua antes de que caiga la gotera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver poner la yagua antes que caiga la",
+      "consolidated_definition": "Ver poner la yagua antes que caiga la gotera .",
+      "en_consolidated_definition": "Observe the yagua being placed before the leak occurs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver poner la yagua antes que caiga la"
+    "Ver poner la yagua antes que caiga la gotera ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Observe the yagua being placed before the leak occurs."
+  ],
   "source": "https://tesoro.pr"
 }

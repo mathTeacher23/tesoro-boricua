@@ -3,14 +3,17 @@
   "term": "food court",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cafetería colectiva o espacio donde varios concesionarios de, relacionado con un grupo",
+      "consolidated_definition": "Zona dedicada a restaurantes y comida rápida en un centro comercial.",
+      "en_consolidated_definition": "Food Court \n\nNota: Un food court es una zona dentro de un centro comercial donde se encuentran varios restaurantes y establecimientos de comida rápida.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5964",
-        "semantic_similarity_score": 0.5964,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -41,15 +44,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Cafetería colectiva o espacio donde varios concesionarios de comida rápida ofrecen sus servicios. Suelen estar en los grandes hoteles y en los centros comerciales. Anglicismo crudo, poco frecuente. El food court acomoda a cerca de 100 personas sentadas y cuenta con acondicionador de aire. El espacio tiene una presentación sencilla. Lo que podría faltarle en elegancia se compensa con la variedad y precios económicos",
           "Zona dedicada a restaurantes y comida rápida en un centro comercial."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cafetería colectiva o espacio donde varios concesionarios de, relacionado con un grupo"
+    "Zona dedicada a restaurantes y comida rápida en un centro comercial."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Food Court \n\nNota: Un food court es una zona dentro de un centro comercial donde se encuentran varios restaurantes y establecimientos de comida rápida."
+  ],
   "source": "https://tesoro.pr"
 }

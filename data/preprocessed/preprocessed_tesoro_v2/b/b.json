@@ -3,15 +3,18 @@
   "term": "b",
   "superscripts": {
     "1": {
-      "consolidated_definition": "educ. Símbolo numérico entre 2.5 y 3.4 o entre 80 y 89 utilizado para calificar trabajos académicos en español, correspondiente a Notable.",
+      "consolidated_definition": "Calificación académica correspondiente a Notable.",
+      "en_consolidated_definition": "Academic grade corresponding to Outstanding.\n\nNota: En algunos contextos académicos de Puerto Rico, \"Notable\" se considera equivalente a \"Sobresaliente\", que en otros países hispanohablantes se traduce como \"Outstanding\". Sin embargo, para mantener la precisión y el contexto cultural específico de Puerto Rico, he utilizado la traducción original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4274",
-        "semantic_similarity_score": 0.4274,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,15 +45,16 @@
           "B+"
         ],
         "reference_definitions": [
-          "educ. Símbolo de la calificación recibida en un curso, examen o cualquier otro tipo de trabajo, cuyo valor en términos numéricos oscila entre 2.5 y 3.4 ó entre 80 y 89. Siempre pronunciado en español. Anglicismo adaptado, usual. Actualmente un 88% de los estudiantes que recientemente ingresaron a la UPR cuentan con un promedio general de escuela superior de 3.0 en adelante, lo que equivale a una B (Expresión, septiembre 2003)",
           "Calificación académica correspondiente a Notable."
         ]
       }
     }
   },
   "es_definitions": [
-    "educ. Símbolo numérico entre 2.5 y 3.4 o entre 80 y 89 utilizado para calificar trabajos académicos en español, correspondiente a Notable."
+    "Calificación académica correspondiente a Notable."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Academic grade corresponding to Outstanding.\n\nNota: En algunos contextos académicos de Puerto Rico, \"Notable\" se considera equivalente a \"Sobresaliente\", que en otros países hispanohablantes se traduce como \"Outstanding\". Sin embargo, para mantener la precisión y el contexto cultural específico de Puerto Rico, he utilizado la traducción original."
+  ],
   "source": "https://tesoro.pr"
 }

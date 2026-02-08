@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Cárcel: lugar de reclusión o prisión, especialmente referido a una cárcel o centro penitenciario.",
+      "en_consolidated_definition": "Jail: place of confinement or prison, especially referring to a jail or penal institution.\n\nNota: En este contexto, el término \"cárcel\" se refiere específicamente a un lugar de reclusión o prisión, lo que es equivalente al término inglés \"jail\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -46,8 +49,11 @@
     },
     "2": {
       "consolidated_definition": "Trasto: vehículo viejo y en mal estado, generalmente de baja calidad.",
+      "en_consolidated_definition": "Vehículo antiquado y deteriorado, generalmente de baja calidad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
@@ -106,6 +112,9 @@
     "Cárcel: lugar de reclusión o prisión, especialmente referido a una cárcel o centro penitenciario.",
     "Trasto: vehículo viejo y en mal estado, generalmente de baja calidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Jail: place of confinement or prison, especially referring to a jail or penal institution.\n\nNota: En este contexto, el término \"cárcel\" se refiere específicamente a un lugar de reclusión o prisión, lo que es equivalente al término inglés \"jail\".",
+    "Vehículo antiquado y deteriorado, generalmente de baja calidad."
+  ],
   "source": "https://tesoro.pr"
 }

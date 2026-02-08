@@ -3,14 +3,17 @@
   "term": "palillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pierna muy delgada",
+      "consolidated_definition": "Barrita de madera o de material plástico para revolver bebidas alcohólicas combinadas.",
+      "en_consolidated_definition": "Wooden or plastic stick used to stir mixed alcoholic beverages.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5743",
-        "semantic_similarity_score": 0.5743,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -43,21 +46,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pierna muy delgada.",
-          "Pequeña barrita de madera o de plástico usada para revolver bebidas alcohólicas combinadas.",
           "Barrita de madera o de material plástico para revolver bebidas alcohólicas combinadas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cigarrillo de marihuana",
+      "consolidated_definition": "Cigarrillo de marihuana.",
+      "en_consolidated_definition": "Marijuana cigarette.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.8784",
-        "semantic_similarity_score": 0.8784,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -93,16 +97,17 @@
           "palito 3"
         ],
         "reference_definitions": [
-          "Cigarrillo de marihuana.",
-          "Voz usada por drogadictos. Cigarrillo de marihuana.",
           "Cigarrillo de marihuana."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Instrumento musical consistente en dos palitos cortos",
+      "consolidated_definition": "Instrumento musical consistente en dos palitos cortos, no muy gruesos, hechos de madera dura y sonora, que al darle a uno con el otro producen un sonido armónico.",
+      "en_consolidated_definition": "Musical instrument consisting of two short, not very thick, pieces made of hard and sonorous wood, which when struck against each other produce a harmonic sound.\n\nNota: En este contexto, \"madera dura y sonora\" se refiere a la calidad de la madera utilizada para fabricar los palitos, que es común en instrumentos musicales tradicionales de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -142,10 +147,14 @@
     }
   },
   "es_definitions": [
-    "Pierna muy delgada",
-    "Cigarrillo de marihuana",
-    "Instrumento musical consistente en dos palitos cortos"
+    "Barrita de madera o de material plástico para revolver bebidas alcohólicas combinadas.",
+    "Cigarrillo de marihuana.",
+    "Instrumento musical consistente en dos palitos cortos, no muy gruesos, hechos de madera dura y sonora, que al darle a uno con el otro producen un sonido armónico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wooden or plastic stick used to stir mixed alcoholic beverages.",
+    "Marijuana cigarette.",
+    "Musical instrument consisting of two short, not very thick, pieces made of hard and sonorous wood, which when struck against each other produce a harmonic sound.\n\nNota: En este contexto, \"madera dura y sonora\" se refiere a la calidad de la madera utilizada para fabricar los palitos, que es común en instrumentos musicales tradicionales de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

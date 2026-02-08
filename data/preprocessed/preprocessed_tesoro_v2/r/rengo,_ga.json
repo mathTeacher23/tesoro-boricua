@@ -3,9 +3,12 @@
   "term": "rengo, ga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La persona que arrastra una pierna",
+      "consolidated_definition": "La persona que arrastra una pierna. También arrengado.",
+      "en_consolidated_definition": "The person who drags a leg. Also crippled.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "La persona que arrastra una pierna"
+    "La persona que arrastra una pierna. También arrengado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The person who drags a leg. Also crippled."
+  ],
   "source": "https://tesoro.pr"
 }

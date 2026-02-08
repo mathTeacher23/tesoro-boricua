@@ -3,9 +3,12 @@
   "term": "milejos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mazorca de maíz de granos escasos y separados",
+      "consolidated_definition": "Mazorca de maíz de granos escasos y separados unos de otros. Milejoh.",
+      "en_consolidated_definition": "Ear of corn with sparse and separated grains. Milejoh.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mazorca de maíz de granos escasos y separados"
+    "Mazorca de maíz de granos escasos y separados unos de otros. Milejoh."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ear of corn with sparse and separated grains. Milejoh."
+  ],
   "source": "https://tesoro.pr"
 }

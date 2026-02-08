@@ -3,9 +3,12 @@
   "term": "masas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cilindros de acero que extraen el líquido de",
+      "consolidated_definition": "Cilindros de acero que extraen el líquido de la caña en el molino. Cada sección del molino consta de tres masas. Muestra del volumen de materia que se produce en los tachos.",
+      "en_consolidated_definition": "Steel cylinders that extract the liquid from sugarcane in the mill. Each section of the mill consists of three masses. Example of the volume of material produced in the vats.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Cilindros de acero que extraen el líquido de"
+    "Cilindros de acero que extraen el líquido de la caña en el molino. Cada sección del molino consta de tres masas. Muestra del volumen de materia que se produce en los tachos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Steel cylinders that extract the liquid from sugarcane in the mill. Each section of the mill consists of three masses. Example of the volume of material produced in the vats."
+  ],
   "source": "https://tesoro.pr"
 }

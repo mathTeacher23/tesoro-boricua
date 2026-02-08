@@ -3,9 +3,12 @@
   "term": "mensaje de texto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "telecom",
+      "consolidated_definition": "telecom. Mensaje telefónico grabado mediante un sistema especial de telefonía. Calco de estructura, frecuente. Envío de mensajes de texto con este servicio el cliente puede enviar mensajes de texto a números celulares y se le descuenta un minuto por cada mensaje de texto enviado (Junta Reglamentadora de Telecomunicaciones de Puerto Rico, 08-09-06)",
+      "en_consolidated_definition": "Telecom. Pre-recorded telephone message recorded through a special telecommunications system. Calque of structure, frequent. With this service, the customer can send text messages to cellular numbers and is charged one minute per sent text message (Puerto Rico Telecommunications Regulatory Board, 08-09-06)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -36,14 +39,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "telecom. Mensaje telefónico grabado mediante un sistema especial de telefonía. Calco de estructura, frecuente. Envío de mensajes de texto con este servicio el cliente puede enviar mensajes de texto a números celulares y se le descuenta un minuto por cada mensaje de texto enviado"
+          "telecom. Mensaje telefónico grabado mediante un sistema especial de telefonía. Calco de estructura, frecuente. Envío de mensajes de texto con este servicio el cliente puede enviar mensajes de texto a números celulares y se le descuenta un minuto por cada mensaje de texto enviado (Junta Reglamentadora de Telecomunicaciones de Puerto Rico, 08-09-06)"
         ]
       }
     }
   },
   "es_definitions": [
-    "telecom"
+    "telecom. Mensaje telefónico grabado mediante un sistema especial de telefonía. Calco de estructura, frecuente. Envío de mensajes de texto con este servicio el cliente puede enviar mensajes de texto a números celulares y se le descuenta un minuto por cada mensaje de texto enviado (Junta Reglamentadora de Telecomunicaciones de Puerto Rico, 08-09-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Telecom. Pre-recorded telephone message recorded through a special telecommunications system. Calque of structure, frequent. With this service, the customer can send text messages to cellular numbers and is charged one minute per sent text message (Puerto Rico Telecommunications Regulatory Board, 08-09-06)"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "potranca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bulto que hace la hernia testicular avanzada",
+      "consolidated_definition": "Bulto que hace la hernia testicular avanzada.",
+      "en_consolidated_definition": "Tumor que forma la hernia testicular avanzada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Muchacha bonita",
+      "consolidated_definition": "Muchacha bonita, elegante y guapa.",
+      "en_consolidated_definition": "Attractive and elegant young woman.\n\nNota: La palabra \"muchacha\" puede ser considerada un término coloquial en algunos contextos, pero en este caso se utiliza para describir a una joven mujer de manera formal y respetuosa. En inglés, la traducción busca mantener el énfasis en la belleza y elegancia de la persona descrita.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
     }
   },
   "es_definitions": [
-    "Bulto que hace la hernia testicular avanzada",
-    "Muchacha bonita"
+    "Bulto que hace la hernia testicular avanzada.",
+    "Muchacha bonita, elegante y guapa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tumor que forma la hernia testicular avanzada.",
+    "Attractive and elegant young woman.\n\nNota: La palabra \"muchacha\" puede ser considerada un término coloquial en algunos contextos, pero en este caso se utiliza para describir a una joven mujer de manera formal y respetuosa. En inglés, la traducción busca mantener el énfasis en la belleza y elegancia de la persona descrita."
+  ],
   "source": "https://tesoro.pr"
 }

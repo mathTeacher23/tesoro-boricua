@@ -3,9 +3,12 @@
   "term": "drain conveyor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Canal para la conducción de la caña desde",
+      "consolidated_definition": "Canal para la conducción de la caña desde la planta de lavado.",
+      "en_consolidated_definition": "Conduit for the transportation of sugarcane from the washing plant.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Canal para la conducción de la caña desde"
+    "Canal para la conducción de la caña desde la planta de lavado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conduit for the transportation of sugarcane from the washing plant."
+  ],
   "source": "https://tesoro.pr"
 }

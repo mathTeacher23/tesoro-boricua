@@ -3,15 +3,18 @@
   "term": "sobrado, da",
   "superscripts": {
     "2": {
-      "consolidated_definition": "Muchacha coqueta",
+      "consolidated_definition": "Persona impertinente: persona que se esfuerza por llamar la atención o atraer a alguien con su apariencia y comportamiento.",
+      "en_consolidated_definition": "Person impertinent: person who makes an effort to draw attention or attract someone with their appearance and behavior.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3604",
         "semantic_similarity_score": 0.3604,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "adjetivo"
         ],
@@ -39,9 +42,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, que se toma excesiva confianza con el sexo opuesto.",
+      "en_consolidated_definition": "Desconfiado o presumido con respecto a los miembros del sexo opuesto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
     }
   },
   "es_definitions": [
-    "Muchacha coqueta",
-    "Referido a persona"
+    "Persona impertinente: persona que se esfuerza por llamar la atención o atraer a alguien con su apariencia y comportamiento.",
+    "Referido a persona, que se toma excesiva confianza con el sexo opuesto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person impertinent: person who makes an effort to draw attention or attract someone with their appearance and behavior.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "Desconfiado o presumido con respecto a los miembros del sexo opuesto."
+  ],
   "source": "https://tesoro.pr"
 }

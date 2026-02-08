@@ -3,9 +3,12 @@
   "term": "sótano",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Posición más baja en la clasificación de una",
+      "consolidated_definition": "Posición más baja en la clasificación de una competencia deportiva.",
+      "en_consolidated_definition": "Position of lowest rank in the classification of a sports competition.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Posición más baja en la clasificación de una"
+    "Posición más baja en la clasificación de una competencia deportiva."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Position of lowest rank in the classification of a sports competition."
+  ],
   "source": "https://tesoro.pr"
 }

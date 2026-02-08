@@ -3,9 +3,12 @@
   "term": "pignorar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Adelantar una cantidad de dinero por un producto",
+      "consolidated_definition": "Adelantar una cantidad de dinero por un producto para dar el resto cuando este se venda.",
+      "en_consolidated_definition": "To advance a sum of money for a product with the intention of receiving the remainder when it is sold.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Adelantar una cantidad de dinero por un producto"
+    "Adelantar una cantidad de dinero por un producto para dar el resto cuando este se venda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To advance a sum of money for a product with the intention of receiving the remainder when it is sold."
+  ],
   "source": "https://tesoro.pr"
 }

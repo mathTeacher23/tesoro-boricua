@@ -3,9 +3,12 @@
   "term": "lisa morón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Otro nombre para el pez llamado morón",
+      "consolidated_definition": "Otro nombre para el pez llamado morón.",
+      "en_consolidated_definition": "Another name for the fish known as morón.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Otro nombre para el pez llamado morón"
+    "Otro nombre para el pez llamado morón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Another name for the fish known as morón."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ray trú",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver right true",
+      "consolidated_definition": "Ver right true .",
+      "en_consolidated_definition": "Verify right true.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver right true"
+    "Ver right true ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Verify right true."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "no ser pariente ni doliente de otro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No haber entre dos personas ningún parentesco, relacionado con un grupo",
+      "consolidated_definition": "No haber entre dos personas ningún parentesco.",
+      "en_consolidated_definition": "No existir entre dos personas ningún vínculo de parentesco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "No haber entre dos personas ningún parentesco, relacionado con un grupo"
+    "No haber entre dos personas ningún parentesco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No existir entre dos personas ningún vínculo de parentesco."
+  ],
   "source": "https://tesoro.pr"
 }

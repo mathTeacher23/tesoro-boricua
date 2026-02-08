@@ -3,9 +3,12 @@
   "term": "pingonilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Punta del pie",
+      "consolidated_definition": "Punta del pie.",
+      "en_consolidated_definition": "Toe tip of the foot.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Punta del pie"
+    "Punta del pie."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Toe tip of the foot."
+  ],
   "source": "https://tesoro.pr"
 }

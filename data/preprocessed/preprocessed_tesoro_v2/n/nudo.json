@@ -3,9 +3,12 @@
   "term": "nudo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tocón de la espuela del gallo",
+      "consolidated_definition": "Tocón de la espuela del gallo.",
+      "en_consolidated_definition": "Tip of the rooster's spur.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tocón de la espuela del gallo"
+    "Tocón de la espuela del gallo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tip of the rooster's spur."
+  ],
   "source": "https://tesoro.pr"
 }

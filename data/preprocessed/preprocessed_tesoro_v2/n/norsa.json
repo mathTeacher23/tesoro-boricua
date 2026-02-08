@@ -3,15 +3,18 @@
   "term": "norsa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermera",
+      "consolidated_definition": "\"Enfermera\": persona que brinda atención médica y cuidado a pacientes en hospitales, clínicas y otros entornos de salud.",
+      "en_consolidated_definition": "Nurse: a person who provides medical care and attention to patients in hospitals, clinics, and other healthcare settings.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": null,
+        "cluster_count": 1,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -64,8 +67,10 @@
     }
   },
   "es_definitions": [
-    "Enfermera"
+    "\"Enfermera\": persona que brinda atención médica y cuidado a pacientes en hospitales, clínicas y otros entornos de salud."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Nurse: a person who provides medical care and attention to patients in hospitals, clinics, and other healthcare settings."
+  ],
   "source": "https://tesoro.pr"
 }

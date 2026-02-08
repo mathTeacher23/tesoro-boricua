@@ -3,15 +3,18 @@
   "term": "caricaturas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cómic: Serie de imágenes o viñetas que narran una historia a través de diálogos y descripciones gráficas.",
+      "consolidated_definition": "Cómic, serie de viñetas.",
+      "en_consolidated_definition": "Comic strip series of panels.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4399",
-        "semantic_similarity_score": 0.4399,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino",
@@ -35,16 +38,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cómic, serie de viñetas.",
-          "Serie de dibujos animados.",
-          "Película, generalmente largometraje, de animación."
+          "Cómic, serie de viñetas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cómic: Serie de imágenes o viñetas que narran una historia a través de diálogos y descripciones gráficas."
+    "Cómic, serie de viñetas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Comic strip series of panels."
+  ],
   "source": "https://tesoro.pr"
 }

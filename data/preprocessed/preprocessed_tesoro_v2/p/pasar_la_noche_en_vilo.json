@@ -3,9 +3,12 @@
   "term": "pasar la noche en vilo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pasar la noche sin dormir",
+      "consolidated_definition": "Pasar la noche sin dormir.",
+      "en_consolidated_definition": "Stay awake through the night.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Pasar la noche sin dormir"
+    "Pasar la noche sin dormir."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Stay awake through the night."
+  ],
   "source": "https://tesoro.pr"
 }

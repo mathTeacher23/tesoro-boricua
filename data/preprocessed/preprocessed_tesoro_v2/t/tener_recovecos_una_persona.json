@@ -3,9 +3,12 @@
   "term": "tener recovecos una persona",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tener pensamientos inconfesables",
+      "consolidated_definition": "Tener pensamientos inconfesables.",
+      "en_consolidated_definition": "To harbor unconfessable thoughts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Tener pensamientos inconfesables"
+    "Tener pensamientos inconfesables."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To harbor unconfessable thoughts."
+  ],
   "source": "https://tesoro.pr"
 }

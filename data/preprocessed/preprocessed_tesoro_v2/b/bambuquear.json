@@ -3,15 +3,18 @@
   "term": "bambuquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El bambucar se refiere al acto de bailar el bambuco, un estilo tradicional de baile colombiano.",
+      "consolidated_definition": "Bailar alguien el bambuco.",
+      "en_consolidated_definition": "To dance the bambuco to someone.\n\nNota: El bambuco es un estilo de música y baile tradicional en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "El bambucar se refiere al acto de bailar el bambuco, un estilo tradicional de baile colombiano."
+    "Bailar alguien el bambuco."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To dance the bambuco to someone.\n\nNota: El bambuco es un estilo de música y baile tradicional en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

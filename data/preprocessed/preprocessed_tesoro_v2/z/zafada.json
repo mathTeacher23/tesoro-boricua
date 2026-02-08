@@ -3,9 +3,12 @@
   "term": "zafada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dislocación de algo",
+      "consolidated_definition": "Dislocación de algo, especialmente de una coyuntura.",
+      "en_consolidated_definition": "Dislocation of something, especially a situation or juncture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Dislocación de algo"
+    "Dislocación de algo, especialmente de una coyuntura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dislocation of something, especially a situation or juncture."
+  ],
   "source": "https://tesoro.pr"
 }

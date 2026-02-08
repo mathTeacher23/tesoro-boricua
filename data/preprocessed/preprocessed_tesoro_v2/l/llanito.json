@@ -3,9 +3,12 @@
   "term": "llanito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver vega",
+      "consolidated_definition": "Ver vega .",
+      "en_consolidated_definition": "See vega.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver vega"
+    "Ver vega ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See vega."
+  ],
   "source": "https://tesoro.pr"
 }

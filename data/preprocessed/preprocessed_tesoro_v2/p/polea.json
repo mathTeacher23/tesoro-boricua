@@ -3,9 +3,12 @@
   "term": "polea",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Correa para conectar el movimiento de dos ruedas, relacionado con un mecanismo",
+      "consolidated_definition": "Correa para conectar el movimiento de dos ruedas o rodetes de un mecanismo.",
+      "en_consolidated_definition": "Chain for connecting the movement of two wheels or pulleys in a mechanism.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Correa para conectar el movimiento de dos ruedas, relacionado con un mecanismo"
+    "Correa para conectar el movimiento de dos ruedas o rodetes de un mecanismo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Chain for connecting the movement of two wheels or pulleys in a mechanism."
+  ],
   "source": "https://tesoro.pr"
 }

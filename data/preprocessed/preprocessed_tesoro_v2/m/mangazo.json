@@ -3,9 +3,12 @@
   "term": "mangazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Manguerazo",
+      "consolidated_definition": "Manguerazo. Echar agua con manguera.",
+      "en_consolidated_definition": "Manguerazo. To spray water with a hose.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Manguerazo"
+    "Manguerazo. Echar agua con manguera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Manguerazo. To spray water with a hose."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "bajo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Paraje de poco fondo: área geográfica acuática con un relieve suave o ligeramente inclinado, caracterizado por una disminución gradual en la profundidad del terreno.",
+      "consolidated_definition": "Paraje acuático de poco fondo.",
+      "en_consolidated_definition": "Shallow water area.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5643",
-        "semantic_similarity_score": 0.5643,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -51,18 +54,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Paraje de poco fondo.",
-          "Pesca del bajo: la que se hace hasta 40 ó 50 brazas a partir de la tierra. Pasada esa profundidad, ya es de lo alto. Peces del bajo, los que habitan dichas aguas.",
-          "Elevación del fondo.",
-          "Se llama con este término a las tierras bajas localizadas particularmente por las cercanías del litoral marino.",
           "Paraje acuático de poco fondo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Paraje de poco fondo: área geográfica acuática con un relieve suave o ligeramente inclinado, caracterizado por una disminución gradual en la profundidad del terreno."
+    "Paraje acuático de poco fondo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Shallow water area."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "attendant",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Attendant\": Persona que atiende a los asistentes en una actividad y les ayuda cuando sea necesario, especialmente en relación con máquinas tragamonedas que no pagan totalmente el jackpot ganado.",
+      "consolidated_definition": "tur. Persona que atiende a los asistentes a una actividad y les ayuda de ser necesario. Anglicismo crudo, poco frecuente. Un rótulo localizado en un lugar conspicuo en la parte del frente de la máquina tragamonedas que se ilumina automáticamente y un timbre que suena automáticamente cuando un jugador gana un jackpot que la máquina tragamonedas no paga total y automáticamente, notificando al jugador que debe ver a un attendant para recibir el pago total (Compañía de Turismo, 02-02-06)",
+      "en_consolidated_definition": "Person who attends to attendees at an activity and assists them as needed. Raw Anglicism, infrequently used.\n\nA local sign located in a conspicuous place on the front of a slot machine that illuminates automatically and a bell that sounds automatically when a player wins a jackpot that the slot machine does not pay out fully and automatically, notifying the player to see an attendant for the total payout (Tourism Company, 02-02-06)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "\"Attendant\": Persona que atiende a los asistentes en una actividad y les ayuda cuando sea necesario, especialmente en relación con máquinas tragamonedas que no pagan totalmente el jackpot ganado."
+    "tur. Persona que atiende a los asistentes a una actividad y les ayuda de ser necesario. Anglicismo crudo, poco frecuente. Un rótulo localizado en un lugar conspicuo en la parte del frente de la máquina tragamonedas que se ilumina automáticamente y un timbre que suena automáticamente cuando un jugador gana un jackpot que la máquina tragamonedas no paga total y automáticamente, notificando al jugador que debe ver a un attendant para recibir el pago total (Compañía de Turismo, 02-02-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who attends to attendees at an activity and assists them as needed. Raw Anglicism, infrequently used.\n\nA local sign located in a conspicuous place on the front of a slot machine that illuminates automatically and a bell that sounds automatically when a player wins a jackpot that the slot machine does not pay out fully and automatically, notifying the player to see an attendant for the total payout (Tourism Company, 02-02-06)"
+  ],
   "source": "https://tesoro.pr"
 }

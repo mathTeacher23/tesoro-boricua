@@ -3,9 +3,12 @@
   "term": "orilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lados del camino donde hay pasto que comen, relacionado con un grupo",
+      "consolidated_definition": "Lados del camino donde hay pasto que comen las reses realengas o las de aquellas personas que no tienen terreno suficiente con la yerba necesaria para que ellos coman.",
+      "en_consolidated_definition": "Areas alongside the path where grass is present for grazing by cattle of royal descent or those owned by individuals lacking sufficient land with necessary pasture for their consumption.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Lados del camino donde hay pasto que comen, relacionado con un grupo"
+    "Lados del camino donde hay pasto que comen las reses realengas o las de aquellas personas que no tienen terreno suficiente con la yerba necesaria para que ellos coman."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Areas alongside the path where grass is present for grazing by cattle of royal descent or those owned by individuals lacking sufficient land with necessary pasture for their consumption."
+  ],
   "source": "https://tesoro.pr"
 }

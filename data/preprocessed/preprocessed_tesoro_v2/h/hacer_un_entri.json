@@ -3,9 +3,12 @@
   "term": "hacer un entri",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Combinación entre varias personas para comprar droga, relacionado con un grupo",
+      "consolidated_definition": "Combinación entre varias personas para comprar droga.",
+      "en_consolidated_definition": "Combination of several individuals to purchase illicit substances.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Combinación entre varias personas para comprar droga, relacionado con un grupo"
+    "Combinación entre varias personas para comprar droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Combination of several individuals to purchase illicit substances."
+  ],
   "source": "https://tesoro.pr"
 }

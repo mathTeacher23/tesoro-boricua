@@ -3,9 +3,12 @@
   "term": "fantasía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Joyería de baja calidad",
+      "consolidated_definition": "Joyería de baja calidad. Prendas de fantasía.",
+      "en_consolidated_definition": "Low-quality jewelry. Costume accessories.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Joyería de baja calidad"
+    "Joyería de baja calidad. Prendas de fantasía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Low-quality jewelry. Costume accessories."
+  ],
   "source": "https://tesoro.pr"
 }

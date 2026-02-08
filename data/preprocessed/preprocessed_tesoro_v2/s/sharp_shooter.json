@@ -3,9 +3,12 @@
   "term": "sharp shooter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tirador de gran precisión",
+      "consolidated_definition": "Tirador de gran precisión.",
+      "en_consolidated_definition": "Marksmen of high precision.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Tirador de gran precisión"
+    "Tirador de gran precisión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marksmen of high precision."
+  ],
   "source": "https://tesoro.pr"
 }

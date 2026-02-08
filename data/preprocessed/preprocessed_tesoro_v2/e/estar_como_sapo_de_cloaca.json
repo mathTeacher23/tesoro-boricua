@@ -3,9 +3,12 @@
   "term": "estar como sapo de cloaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Harto",
+      "consolidated_definition": "Harto. Se dice del que ha comido mucho.",
+      "en_consolidated_definition": "Sated. Said of one who has eaten a great deal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Harto"
+    "Harto. Se dice del que ha comido mucho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sated. Said of one who has eaten a great deal."
+  ],
   "source": "https://tesoro.pr"
 }

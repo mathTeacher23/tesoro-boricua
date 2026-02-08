@@ -3,9 +3,12 @@
   "term": "fonda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Establecimiento público donde se sirven comidas propias de",
+      "consolidated_definition": "Establecimiento público donde se sirven comidas propias de la región.",
+      "en_consolidated_definition": "Public eating establishment serving regional cuisine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Establecimiento público donde se sirven comidas propias de"
+    "Establecimiento público donde se sirven comidas propias de la región."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Public eating establishment serving regional cuisine."
+  ],
   "source": "https://tesoro.pr"
 }

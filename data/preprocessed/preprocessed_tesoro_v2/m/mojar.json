@@ -3,14 +3,17 @@
   "term": "mojar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sobornar",
+      "consolidated_definition": "Sobornar a alguien.",
+      "en_consolidated_definition": "To bribe someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4566",
-        "semantic_similarity_score": 0.4566,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -40,16 +43,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Sobornar.",
-          "Remojar, dar propina.",
           "Sobornar a alguien."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Regar",
+      "consolidated_definition": "Regar. Conducir agua al terreno.",
+      "en_consolidated_definition": "Irrigate. To conduct water to the terrain.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +88,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "En un negocio",
+      "consolidated_definition": "En un negocio, obtener algún beneficio o ganancia, generalmente de forma ilegal.",
+      "en_consolidated_definition": "En un business, obtain some benefit or gain, generally in an illegal manner.\n\nNota: En este contexto, \"business\" se refiere a cualquier actividad comercial o empresarial, y no necesariamente a una empresa formal. \n\nAlternativamente:\n\nIn a business, derive illicit profit or gain.\n\nOtra opción:\n\nObtain illicit profits or gains in a business setting.\n\nTodas estas opciones mantienen el tono formal y académico de un diccionario y traducen con precisión la definición original en español.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -122,10 +129,14 @@
     }
   },
   "es_definitions": [
-    "Sobornar",
-    "Regar",
-    "En un negocio"
+    "Sobornar a alguien.",
+    "Regar. Conducir agua al terreno.",
+    "En un negocio, obtener algún beneficio o ganancia, generalmente de forma ilegal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To bribe someone.",
+    "Irrigate. To conduct water to the terrain.",
+    "En un business, obtain some benefit or gain, generally in an illegal manner.\n\nNota: En este contexto, \"business\" se refiere a cualquier actividad comercial o empresarial, y no necesariamente a una empresa formal. \n\nAlternativamente:\n\nIn a business, derive illicit profit or gain.\n\nOtra opción:\n\nObtain illicit profits or gains in a business setting.\n\nTodas estas opciones mantienen el tono formal y académico de un diccionario y traducen con precisión la definición original en español."
+  ],
   "source": "https://tesoro.pr"
 }

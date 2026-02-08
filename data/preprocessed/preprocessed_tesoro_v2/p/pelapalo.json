@@ -3,9 +3,12 @@
   "term": "pelapalo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto parásito",
+      "consolidated_definition": "Arbusto parásito.",
+      "en_consolidated_definition": "Parasitic shrub.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Arbusto parásito"
+    "Arbusto parásito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Parasitic shrub."
+  ],
   "source": "https://tesoro.pr"
 }

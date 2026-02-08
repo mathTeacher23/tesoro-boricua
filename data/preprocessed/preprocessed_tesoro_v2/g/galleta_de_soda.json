@@ -3,9 +3,12 @@
   "term": "galleta de soda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Galleta fermentada con bicarbonato de soda y cremor",
+      "consolidated_definition": "Galleta fermentada con bicarbonato de soda y cremor tártaro.",
+      "en_consolidated_definition": "Biscuit fermented with baking soda and tartaric cream of tartar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Galleta fermentada con bicarbonato de soda y cremor"
+    "Galleta fermentada con bicarbonato de soda y cremor tártaro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Biscuit fermented with baking soda and tartaric cream of tartar."
+  ],
   "source": "https://tesoro.pr"
 }

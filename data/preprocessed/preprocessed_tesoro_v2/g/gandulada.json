@@ -3,14 +3,17 @@
   "term": "gandulada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comida hecha con abundancia de gandules",
+      "consolidated_definition": "Comida hecha con abundancia de semillas de gandul.",
+      "en_consolidated_definition": "Food made with an abundance of pigeon peas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.91",
-        "semantic_similarity_score": 0.91,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Comida hecha con abundancia de gandules.",
           "Comida hecha con abundancia de semillas de gandul."
         ]
       }
     }
   },
   "es_definitions": [
-    "Comida hecha con abundancia de gandules"
+    "Comida hecha con abundancia de semillas de gandul."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Food made with an abundance of pigeon peas."
+  ],
   "source": "https://tesoro.pr"
 }

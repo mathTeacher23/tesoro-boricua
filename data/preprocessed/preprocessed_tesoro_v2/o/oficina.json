@@ -3,9 +3,12 @@
   "term": "oficina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El cuarto de servicio de damas",
+      "consolidated_definition": "El cuarto de servicio de damas.",
+      "en_consolidated_definition": "The ladies' service quarters.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "El cuarto de servicio de damas"
+    "El cuarto de servicio de damas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The ladies' service quarters."
+  ],
   "source": "https://tesoro.pr"
 }

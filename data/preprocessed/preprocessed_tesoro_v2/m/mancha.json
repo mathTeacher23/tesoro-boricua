@@ -3,15 +3,18 @@
   "term": "mancha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un conjunto o grupo, relacionado con un grupo",
+      "consolidated_definition": "Un conjunto o grupo de peces se refiere a un agrupamiento de individuos de la clase Pisces.",
+      "en_consolidated_definition": "A school or group of fish refers to an aggregation of individuals belonging to the class Pisces.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3723",
-        "semantic_similarity_score": 0.3723,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4631",
+        "semantic_similarity_score": 0.4631,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -43,15 +46,18 @@
           "bando de pejes"
         ],
         "reference_definitions": [
-          "Un conjunto o grupo .",
+          "Un conjunto o grupo de peces.",
           "Banco de pescado. Bando de peje."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Al cultivo del café",
+      "consolidated_definition": "Al cultivo del café, otro de los frutos mayores del país, corresponden vocablos del tenor de mancha o moña, ‘conjunto de árboles sembrados en determinado lugar’ (empleo léxico el primero de antecedentes dialectales en Canarias, aplicado allí más bien, con sentido marinero, a una bandada o nubada de peces). “Una mancha de café que había salvado de la ruina.” Meléndez Muñoz.",
+      "en_consolidated_definition": "To the cultivation of coffee, one of the country's major crops, correspond terms such as stain or moña, 'a group of trees planted in a specific location' (the first term employs lexical usage from dialectal antecedents in the Canary Islands, applied there more specifically, with a nautical sense, to a school or cloud of fish). \"A coffee stain that had saved it from ruin.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,15 +90,18 @@
           "moña 2"
         ],
         "reference_definitions": [
-          "Al cultivo del café, otro de los frutos mayores del país, corresponden vocablos del tenor de mancha o moña, ‘conjunto de árboles sembrados en determinado lugar’ . “Una mancha de café que había salvado de la ruina.” Meléndez Muñoz."
+          "Al cultivo del café, otro de los frutos mayores del país, corresponden vocablos del tenor de mancha o moña, ‘conjunto de árboles sembrados en determinado lugar’ (empleo léxico el primero de antecedentes dialectales en Canarias, aplicado allí más bien, con sentido marinero, a una bandada o nubada de peces). “Una mancha de café que había salvado de la ruina.” Meléndez Muñoz."
         ]
       }
     }
   },
   "es_definitions": [
-    "Un conjunto o grupo, relacionado con un grupo",
-    "Al cultivo del café"
+    "Un conjunto o grupo de peces se refiere a un agrupamiento de individuos de la clase Pisces.",
+    "Al cultivo del café, otro de los frutos mayores del país, corresponden vocablos del tenor de mancha o moña, ‘conjunto de árboles sembrados en determinado lugar’ (empleo léxico el primero de antecedentes dialectales en Canarias, aplicado allí más bien, con sentido marinero, a una bandada o nubada de peces). “Una mancha de café que había salvado de la ruina.” Meléndez Muñoz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A school or group of fish refers to an aggregation of individuals belonging to the class Pisces.",
+    "To the cultivation of coffee, one of the country's major crops, correspond terms such as stain or moña, 'a group of trees planted in a specific location' (the first term employs lexical usage from dialectal antecedents in the Canary Islands, applied there more specifically, with a nautical sense, to a school or cloud of fish). \"A coffee stain that had saved it from ruin.\""
+  ],
   "source": "https://tesoro.pr"
 }

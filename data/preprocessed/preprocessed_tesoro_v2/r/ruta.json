@@ -3,9 +3,12 @@
   "term": "ruta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jolgorio",
+      "consolidated_definition": "Jolgorio, corrida, especialmente de noche.",
+      "en_consolidated_definition": "Nightly revelry, nocturnal procession, especially at night.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cagarruta",
+      "consolidated_definition": "Cagarruta.",
+      "en_consolidated_definition": "Cagarruta: a type of small, usually edible, fruit or seed pod, often found in tropical regions, particularly in Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Jolgorio",
-    "Cagarruta"
+    "Jolgorio, corrida, especialmente de noche.",
+    "Cagarruta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Nightly revelry, nocturnal procession, especially at night.",
+    "Cagarruta: a type of small, usually edible, fruit or seed pod, often found in tropical regions, particularly in Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

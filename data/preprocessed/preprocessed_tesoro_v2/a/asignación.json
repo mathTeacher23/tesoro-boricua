@@ -3,15 +3,18 @@
   "term": "asignación",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tarea: actividad o trabajo que se debe realizar o completar, generalmente asignado a un estudiante.",
+      "consolidated_definition": "Tarea, trabajo, deber de los escolares.",
+      "en_consolidated_definition": "School task, school work, or academic responsibility of students.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.6323",
-        "semantic_similarity_score": 0.6323,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -59,19 +62,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Deber escolar. Se usa generalmente. en plural.",
-          "Tarea, deber escolar.",
-          "Tarea, deber escolar.",
-          "Deber (ejercicio que se encarga al alumno).",
-          "Deberes escolares. Tarea que se asigna a una persona, generalmente a un estudiante. Usual. DRAE 2001 Bueno no como otras, ¿verdad Andrés? nosotros hacemos las asignaciones en dos patás y todos tenemos Aes, no es difícil esa escuela",
           "Tarea, trabajo, deber de los escolares."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tarea: actividad o trabajo que se debe realizar o completar, generalmente asignado a un estudiante."
+    "Tarea, trabajo, deber de los escolares."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "School task, school work, or academic responsibility of students."
+  ],
   "source": "https://tesoro.pr"
 }

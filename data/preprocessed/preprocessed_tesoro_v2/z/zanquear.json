@@ -3,9 +3,12 @@
   "term": "zanquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caminar de tienda en tienda buscando un artículo",
+      "consolidated_definition": "Caminar de tienda en tienda buscando un artículo difícil de conseguir.",
+      "en_consolidated_definition": "To browse from store to store in search of a hard-to-find item.\n\nNota: En este caso, \"tienda\" se refiere a una tienda de comercio minorista, y no necesariamente a un establecimiento específico de Puerto Rico. Sin embargo, si fuera necesario preservar el contexto cultural, la traducción podría ser:\n\nTo browse from store to store in search of a hard-to-find item, often at local shops or markets.\n\nPero dado que la instrucción es mantener el significado exacto y no agregar explicaciones adicionales, se opta por la primera opción.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Caminar de tienda en tienda buscando un artículo"
+    "Caminar de tienda en tienda buscando un artículo difícil de conseguir."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To browse from store to store in search of a hard-to-find item.\n\nNota: En este caso, \"tienda\" se refiere a una tienda de comercio minorista, y no necesariamente a un establecimiento específico de Puerto Rico. Sin embargo, si fuera necesario preservar el contexto cultural, la traducción podría ser:\n\nTo browse from store to store in search of a hard-to-find item, often at local shops or markets.\n\nPero dado que la instrucción es mantener el significado exacto y no agregar explicaciones adicionales, se opta por la primera opción."
+  ],
   "source": "https://tesoro.pr"
 }

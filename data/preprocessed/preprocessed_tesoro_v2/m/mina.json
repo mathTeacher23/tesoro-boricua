@@ -3,9 +3,12 @@
   "term": "mina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Zona cargada de arbolillos",
+      "consolidated_definition": "Zona cargada de arbolillos.",
+      "en_consolidated_definition": "Area laden with saplings.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pez de agua dulce, relacionado con una organización",
+      "consolidated_definition": "Pez de agua dulce, de hasta 10 cm de longitud, con aletas radiadas, cabeza corta y cuerpo comprimido de color oliva gris, con bandas negras en los costados y vientre casi blanco. Cyprinidae, Pimephales promelas.",
+      "en_consolidated_definition": "Freshwater fish, up to 10 cm in length, with radiated fins, short head and compressed body of olive-gray color, with black bands on the sides and almost white belly. Cyprinidae, Pimephales promelas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Zona cargada de arbolillos",
-    "Pez de agua dulce, relacionado con una organización"
+    "Zona cargada de arbolillos.",
+    "Pez de agua dulce, de hasta 10 cm de longitud, con aletas radiadas, cabeza corta y cuerpo comprimido de color oliva gris, con bandas negras en los costados y vientre casi blanco. Cyprinidae, Pimephales promelas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area laden with saplings.",
+    "Freshwater fish, up to 10 cm in length, with radiated fins, short head and compressed body of olive-gray color, with black bands on the sides and almost white belly. Cyprinidae, Pimephales promelas."
+  ],
   "source": "https://tesoro.pr"
 }

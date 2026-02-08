@@ -3,15 +3,18 @@
   "term": "azucarero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Maestro de labores en ingenio de azúcar: Persona que se encarga del control y supervisión de las operaciones en un ingenio de azúcar.",
+      "consolidated_definition": "Dueño de una finca de cañas o de un central azucarero.",
+      "en_consolidated_definition": "Owner of a sugarcane plantation or a sugar refinery.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5646",
-        "semantic_similarity_score": 0.5646,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,18 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Maestro de labores en ingenio de azúcar. Ac.",
-          ". Dueño de un ingenio o finca de cañas. “Entonces era el cosechero de café el tipo del ricacho agricultor, y los azucareros andaban de capa caída.” Luis Sánchez Morales, La bola del escándalo, 1933.",
-          "Trabaja en los tachos; se encarga de la elaboración del azúcar.",
-          "Dueño de una finca de cañas o de un central azucarero.",
-          "En la industria azucarera, maestro de labores en un central."
+          "Dueño de una finca de cañas o de un central azucarero."
         ]
       }
     }
   },
   "es_definitions": [
-    "Maestro de labores en ingenio de azúcar: Persona que se encarga del control y supervisión de las operaciones en un ingenio de azúcar."
+    "Dueño de una finca de cañas o de un central azucarero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Owner of a sugarcane plantation or a sugar refinery."
+  ],
   "source": "https://tesoro.pr"
 }

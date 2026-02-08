@@ -3,9 +3,12 @@
   "term": "fuleteado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lleno",
+      "consolidated_definition": "Lleno.",
+      "en_consolidated_definition": "Full.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Lleno"
+    "Lleno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Full."
+  ],
   "source": "https://tesoro.pr"
 }

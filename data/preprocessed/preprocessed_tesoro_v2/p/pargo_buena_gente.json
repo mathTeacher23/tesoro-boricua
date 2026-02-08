@@ -3,9 +3,12 @@
   "term": "pargo buena gente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cliente de la prostituta que paga bien sus",
+      "consolidated_definition": "Cliente de la prostituta que paga bien sus servicios.",
+      "en_consolidated_definition": "Client of a prostitute who pays well for her services.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Cliente de la prostituta que paga bien sus"
+    "Cliente de la prostituta que paga bien sus servicios."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Client of a prostitute who pays well for her services."
+  ],
   "source": "https://tesoro.pr"
 }

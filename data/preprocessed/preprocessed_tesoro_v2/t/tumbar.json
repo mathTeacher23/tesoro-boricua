@@ -3,15 +3,18 @@
   "term": "tumbar",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Talar árboles; desmochar. Ac. “A su derecha toma asiento Juan Cojo, tumbador de palma.” Morales Cabrera, Cuentos populares, 1914, p. 5.",
+      "consolidated_definition": "Talador de árboles; persona que tala o desmochará árboles, incluyendo la acción de derribar o castrar un árbol.",
+      "en_consolidated_definition": "Tree logger; person who fells or lops trees, including the act of toppling or castrating a tree.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4567",
-        "semantic_similarity_score": 0.4567,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4467",
+        "semantic_similarity_score": 0.4467,
+        "cluster_count": 2,
         "grammar": [
           "verbo transitivo"
         ],
@@ -42,15 +45,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Talar árboles; desmochar. Ac. “A su derecha toma asiento Juan Cojo, tumbador de palma.” Morales Cabrera, Cuentos populares, 1914, p. 5.",
+          "(T. en Ant., Col. y Ven.). Talar árboles; desmochar. Ac. “A su derecha toma asiento Juan Cojo, tumbador de palma.” Morales Cabrera, Cuentos populares, 1914, p. 5.",
           "Voz usada entre delincuentes. Matar. Asesinar."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dirigirse",
+      "consolidated_definition": "Dirigirse, coger rumbo. En Puerto Rico es uso principalmente campesino, ya en decadencia: “Tumbó pa(ra) allá”.",
+      "en_consolidated_definition": "To take direction or course; to head in a particular direction. Primarily a rural usage in Puerto Rico, now in decline: \"to fall or go in that direction\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,14 +84,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dirigirse, coger rumbo. En Puerto Rico es uso principalmente campesino, ya en decadencia: “Tumbó pa allá”."
+          "Dirigirse, coger rumbo. En Puerto Rico es uso principalmente campesino, ya en decadencia: “Tumbó pa(ra) allá”."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Callarse o no hablar más de algún tema",
+      "consolidated_definition": "Callarse o no hablar más de algún tema.",
+      "en_consolidated_definition": "To remain silent or refrain from speaking further about a particular subject.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -120,9 +129,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Robar a alguien aprovechando su ingenuidad o descuido",
+      "consolidated_definition": "Robar a alguien aprovechando su ingenuidad o descuido.",
+      "en_consolidated_definition": "To take advantage of someone's naivety or carelessness in order to steal from them.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -157,9 +169,12 @@
       }
     },
     "5": {
-      "consolidated_definition": "Suspender algo",
+      "consolidated_definition": "Suspender algo.",
+      "en_consolidated_definition": "To suspend something.\n\nAlternatively:\n\nTo put on hold or postpone something.\n\nOr also:\n\nTo defer or delay the implementation or execution of something.\n\nNote: Las opciones anteriores son equivalentes y todas mantienen el significado exacto de la definición original en español.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -193,12 +208,18 @@
     }
   },
   "es_definitions": [
-    ". Talar árboles; desmochar. Ac. “A su derecha toma asiento Juan Cojo, tumbador de palma.” Morales Cabrera, Cuentos populares, 1914, p. 5.",
-    "Dirigirse",
-    "Callarse o no hablar más de algún tema",
-    "Robar a alguien aprovechando su ingenuidad o descuido",
-    "Suspender algo"
+    "Talador de árboles; persona que tala o desmochará árboles, incluyendo la acción de derribar o castrar un árbol.",
+    "Dirigirse, coger rumbo. En Puerto Rico es uso principalmente campesino, ya en decadencia: “Tumbó pa(ra) allá”.",
+    "Callarse o no hablar más de algún tema.",
+    "Robar a alguien aprovechando su ingenuidad o descuido.",
+    "Suspender algo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree logger; person who fells or lops trees, including the act of toppling or castrating a tree.",
+    "To take direction or course; to head in a particular direction. Primarily a rural usage in Puerto Rico, now in decline: \"to fall or go in that direction\".",
+    "To remain silent or refrain from speaking further about a particular subject.",
+    "To take advantage of someone's naivety or carelessness in order to steal from them.",
+    "To suspend something.\n\nAlternatively:\n\nTo put on hold or postpone something.\n\nOr also:\n\nTo defer or delay the implementation or execution of something.\n\nNote: Las opciones anteriores son equivalentes y todas mantienen el significado exacto de la definición original en español."
+  ],
   "source": "https://tesoro.pr"
 }

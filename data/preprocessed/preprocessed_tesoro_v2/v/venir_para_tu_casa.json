@@ -3,9 +3,12 @@
   "term": "venir para tu casa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Frase que se le dice al drogadicto reincidente",
+      "consolidated_definition": "Frase que se le dice al drogadicto reincidente.",
+      "en_consolidated_definition": "Phrase used to address a repeat offender with a substance abuse problem.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Frase que se le dice al drogadicto reincidente"
+    "Frase que se le dice al drogadicto reincidente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Phrase used to address a repeat offender with a substance abuse problem."
+  ],
   "source": "https://tesoro.pr"
 }

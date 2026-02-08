@@ -3,15 +3,18 @@
   "term": "rosario de la cruz",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fiesta con rosario a la Santa Cruz",
+      "consolidated_definition": "Una celebración religiosa que incluye el rezo de un rosario en honor a la Santa Cruz.",
+      "en_consolidated_definition": "A religious celebration that includes the recitation of a rosary in honor of the Holy Cross.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.7176",
         "semantic_similarity_score": 0.7176,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Fiesta con rosario a la Santa Cruz"
+    "Una celebración religiosa que incluye el rezo de un rosario en honor a la Santa Cruz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A religious celebration that includes the recitation of a rosary in honor of the Holy Cross."
+  ],
   "source": "https://tesoro.pr"
 }

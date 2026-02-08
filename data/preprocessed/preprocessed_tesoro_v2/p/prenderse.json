@@ -3,15 +3,18 @@
   "term": "prenderse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Embriagarse",
+      "consolidated_definition": "\"Embriagarse\": persona que se encuentra afectado por el alcohol después de beber en exceso.",
+      "en_consolidated_definition": "Person affected by alcohol after excessive drinking.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.3016",
         "semantic_similarity_score": 0.3016,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "verbo pronominal"
         ],
@@ -51,8 +54,10 @@
     }
   },
   "es_definitions": [
-    "Embriagarse"
+    "\"Embriagarse\": persona que se encuentra afectado por el alcohol después de beber en exceso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person affected by alcohol after excessive drinking."
+  ],
   "source": "https://tesoro.pr"
 }

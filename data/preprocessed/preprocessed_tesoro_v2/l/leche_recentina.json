@@ -3,9 +3,12 @@
   "term": "leche recentina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Primera leche de la vaca después de parida",
+      "consolidated_definition": "Primera leche de la vaca después de parida.",
+      "en_consolidated_definition": "First milk of the cow after calving.\n\nNota: En este caso, \"primera leche\" se refiere a la primera producción de leche después del parto de la vaca, y no necesariamente a una leche específica o especial. Si fuera necesario, podría traducirse como \"colostrum\" para ser más preciso en el contexto veterinario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Primera leche de la vaca después de parida"
+    "Primera leche de la vaca después de parida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "First milk of the cow after calving.\n\nNota: En este caso, \"primera leche\" se refiere a la primera producción de leche después del parto de la vaca, y no necesariamente a una leche específica o especial. Si fuera necesario, podría traducirse como \"colostrum\" para ser más preciso en el contexto veterinario."
+  ],
   "source": "https://tesoro.pr"
 }

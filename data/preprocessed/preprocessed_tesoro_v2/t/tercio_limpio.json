@@ -3,9 +3,12 @@
   "term": "tercio limpio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando el medianero pone todo menos el terreno",
+      "consolidated_definition": "Cuando el medianero pone todo menos el terreno y paga al dueño con una tercera parte de la cosecha. Puede ser también a la cuarta limpia.",
+      "en_consolidated_definition": "When the mediator provides everything except the land and pays the owner with a third of the harvest. It can also be at the fourth clean.\n\nNota: En este contexto, \"tercera parte de la cosecha\" se refiere a una forma de pago en que el mediador paga al dueño con un tercio del valor de la cosecha, y \"a la cuarta limpia\" es una variante de esta práctica.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Cuando el medianero pone todo menos el terreno"
+    "Cuando el medianero pone todo menos el terreno y paga al dueño con una tercera parte de la cosecha. Puede ser también a la cuarta limpia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "When the mediator provides everything except the land and pays the owner with a third of the harvest. It can also be at the fourth clean.\n\nNota: En este contexto, \"tercera parte de la cosecha\" se refiere a una forma de pago en que el mediador paga al dueño con un tercio del valor de la cosecha, y \"a la cuarta limpia\" es una variante de esta práctica."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "apoyada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Vaca lista para ser ordeñada\": término coloquial que se refiere a una vaca que ha alcanzado la madurez reproductiva y está preparada para el ordeño.",
+      "consolidated_definition": "Referido a una vaca, que está lista para ser ordeñada.",
+      "en_consolidated_definition": "Ready for milking, referring to a cow that is prepared or suitable for being milked.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8927",
-        "semantic_similarity_score": 0.8927,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -42,15 +45,16 @@
           "apoyo"
         ],
         "reference_definitions": [
-          "Se dice de la vaca cuando está lista para ser ordeñada.",
           "Referido a una vaca, que está lista para ser ordeñada."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Vaca lista para ser ordeñada\": término coloquial que se refiere a una vaca que ha alcanzado la madurez reproductiva y está preparada para el ordeño."
+    "Referido a una vaca, que está lista para ser ordeñada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ready for milking, referring to a cow that is prepared or suitable for being milked."
+  ],
   "source": "https://tesoro.pr"
 }

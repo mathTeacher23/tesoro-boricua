@@ -3,14 +3,17 @@
   "term": "muffler",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tubo de escape, relacionado con un mecanismo",
+      "consolidated_definition": "Dispositivo y tubo de escape.",
+      "en_consolidated_definition": "Exhaust System Component and Exhaust Pipe.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.622",
-        "semantic_similarity_score": 0.622,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,16 +49,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Tubo de escape.",
-          "Amortiguador, tubo de escape, silenciador. Anglicismo crudo, frecuente. Véase mofle. El convertidor catalítico y el muffler podrán ser reemplazados siempre y cuando lleven la misma ruta de fábrica",
           "Dispositivo y tubo de escape."
         ]
       }
     }
   },
   "es_definitions": [
-    "Tubo de escape, relacionado con un mecanismo"
+    "Dispositivo y tubo de escape."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Exhaust System Component and Exhaust Pipe."
+  ],
   "source": "https://tesoro.pr"
 }

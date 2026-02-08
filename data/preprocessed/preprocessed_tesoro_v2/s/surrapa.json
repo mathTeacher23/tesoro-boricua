@@ -3,9 +3,12 @@
   "term": "surrapa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Azúcar sin refinar que se cristaliza",
+      "consolidated_definition": "Azúcar sin refinar que se cristaliza. Sobrante de alguna golosina que queda en la olla en que se cuece.",
+      "en_consolidated_definition": "Unrefined sugar that crystallizes. Leftover from some sweet treat that remains in the pot in which it is cooked.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Hijo menor",
+      "consolidated_definition": "Hijo menor. Regalón.",
+      "en_consolidated_definition": "Younger son; spoiled child.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Azúcar sin refinar que se cristaliza",
-    "Hijo menor"
+    "Azúcar sin refinar que se cristaliza. Sobrante de alguna golosina que queda en la olla en que se cuece.",
+    "Hijo menor. Regalón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Unrefined sugar that crystallizes. Leftover from some sweet treat that remains in the pot in which it is cooked.",
+    "Younger son; spoiled child."
+  ],
   "source": "https://tesoro.pr"
 }

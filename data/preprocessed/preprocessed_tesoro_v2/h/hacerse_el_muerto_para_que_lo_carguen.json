@@ -3,9 +3,12 @@
   "term": "hacerse el muerto para que lo carguen",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Indica que alguien se hace la víctima",
+      "consolidated_definition": "Indica que alguien se hace la víctima, el sufrido.",
+      "en_consolidated_definition": "Pretender víctima o sufrido.\n\nNota: En este contexto, se refiere a la actitud de alguien que se hace pasar como víctima o sufrido para obtener simpatía o atención de los demás.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Indica que alguien se hace la víctima"
+    "Indica que alguien se hace la víctima, el sufrido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pretender víctima o sufrido.\n\nNota: En este contexto, se refiere a la actitud de alguien que se hace pasar como víctima o sufrido para obtener simpatía o atención de los demás."
+  ],
   "source": "https://tesoro.pr"
 }

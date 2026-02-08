@@ -3,14 +3,17 @@
   "term": "paquetero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mentiroso",
+      "consolidated_definition": "Referido a persona, mentirosa, embustera.",
+      "en_consolidated_definition": "Decepcionada, embustera.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6271",
-        "semantic_similarity_score": 0.6271,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -53,17 +56,16 @@
           "paquete 2"
         ],
         "reference_definitions": [
-          "Mentiroso, embaucador.",
-          "Dícese de la persona que dice paquetes, mentiras, cosas inverosímiles.",
-          "Embustero. Mentiroso.",
           "Referido a persona, mentirosa, embustera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Mentiroso"
+    "Referido a persona, mentirosa, embustera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Decepcionada, embustera."
+  ],
   "source": "https://tesoro.pr"
 }

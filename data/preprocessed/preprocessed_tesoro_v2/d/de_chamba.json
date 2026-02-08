@@ -3,9 +3,12 @@
   "term": "de chamba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por carambola",
+      "consolidated_definition": "Por carambola; fortuitamente.",
+      "en_consolidated_definition": "By chance; fortuitously.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Por carambola"
+    "Por carambola; fortuitamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "By chance; fortuitously."
+  ],
   "source": "https://tesoro.pr"
 }

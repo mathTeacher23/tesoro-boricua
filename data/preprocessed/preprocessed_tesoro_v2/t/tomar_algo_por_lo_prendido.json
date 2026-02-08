@@ -3,9 +3,12 @@
   "term": "tomar algo por lo prendido",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tomar algo con doble sentido",
+      "consolidated_definition": "Tomar algo con doble sentido.",
+      "en_consolidated_definition": "To take something with a double meaning or connotation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Tomar algo con doble sentido"
+    "Tomar algo con doble sentido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To take something with a double meaning or connotation."
+  ],
   "source": "https://tesoro.pr"
 }

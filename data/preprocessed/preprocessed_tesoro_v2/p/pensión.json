@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Casa de huéspedes.",
+      "en_consolidated_definition": "Guest house.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Dolor físico",
+      "consolidated_definition": "Dolor físico.",
+      "en_consolidated_definition": "Physical pain.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
         "num_cleaned_definitions": 9,
-        "definition_stability": "Stability: 0.3439",
-        "semantic_similarity_score": 0.3439,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.3338",
+        "semantic_similarity_score": 0.3338,
+        "cluster_count": 8,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -101,7 +107,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dolor físico.",
+          "(jíbaro) Dolor físico.",
           "Dolor físico.",
           "Dolor físico.",
           "Se aplica sólo a los dolores de estómago.",
@@ -109,15 +115,18 @@
           "Dolor fuerte y continuo.",
           "Pendencia.",
           "Molestia.",
-          "Dolor agudo y punzante. También punción, puntaa."
+          "Dolor agudo y punzante. También punción, punta(d)a."
         ]
       }
     }
   },
   "es_definitions": [
     ". Casa de huéspedes.",
-    "Dolor físico"
+    "Dolor físico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Guest house.",
+    "Physical pain."
+  ],
   "source": "https://tesoro.pr"
 }

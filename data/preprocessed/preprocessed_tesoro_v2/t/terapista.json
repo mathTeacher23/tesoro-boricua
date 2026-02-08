@@ -3,15 +3,18 @@
   "term": "terapista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Individuo que se encarga de convencer a una",
+      "consolidated_definition": "Persona que se dedica a persuadir a otros para que consuman sustancias psicoactivas.",
+      "en_consolidated_definition": "Persona que se dedica a persuadir a otros para que consuman sustancias psicoactivas.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.7793",
         "semantic_similarity_score": 0.7793,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona que se dedica a la terapéutica",
+      "consolidated_definition": "Persona que se dedica a la terapéutica.",
+      "en_consolidated_definition": "Therapist \n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que \"terapéutica\" es un concepto generalmente reconocido en el ámbito médico y psicológico. Sin embargo, si fuera necesario, podría incluirse una nota para aclarar su uso o contexto en la cultura puertorriqueña.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "Individuo que se encarga de convencer a una",
-    "Persona que se dedica a la terapéutica"
+    "Persona que se dedica a persuadir a otros para que consuman sustancias psicoactivas.",
+    "Persona que se dedica a la terapéutica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que se dedica a persuadir a otros para que consuman sustancias psicoactivas.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Therapist \n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que \"terapéutica\" es un concepto generalmente reconocido en el ámbito médico y psicológico. Sin embargo, si fuera necesario, podría incluirse una nota para aclarar su uso o contexto en la cultura puertorriqueña."
+  ],
   "source": "https://tesoro.pr"
 }

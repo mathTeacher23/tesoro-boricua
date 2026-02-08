@@ -3,9 +3,12 @@
   "term": "peineta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para indicar el manojo de hojas que forman",
+      "consolidated_definition": "Para indicar el manojo de hojas que forman la corona de la fruta de la piña aparecieron entremezcladamente las palabras ... peineta, Palmarejo.",
+      "en_consolidated_definition": "To indicate the cluster of leaves that form the crown of a pineapple fruit, the words ... peineta and Palmarejo have become intertwined.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,19 +37,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Para indicar el manojo de hojas que forman la corona de la fruta aparecieron entremezcladamente las palabras peineta, Palmarejo."
+          "Para indicar el manojo de hojas que forman la corona de la fruta de la piña aparecieron entremezcladamente las palabras ... peineta, Palmarejo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dentadura prominente y saliente",
+      "consolidated_definition": "Dentadura prominente y muy saliente.",
+      "en_consolidated_definition": "Prominently projecting dentition.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9718",
-        "semantic_similarity_score": 0.9718,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -75,16 +81,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dentadura prominente y saliente.",
           "Dentadura prominente y muy saliente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Para indicar el manojo de hojas que forman",
-    "Dentadura prominente y saliente"
+    "Para indicar el manojo de hojas que forman la corona de la fruta de la piña aparecieron entremezcladamente las palabras ... peineta, Palmarejo.",
+    "Dentadura prominente y muy saliente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To indicate the cluster of leaves that form the crown of a pineapple fruit, the words ... peineta and Palmarejo have become intertwined.",
+    "Prominently projecting dentition."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "semanal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Día de la semana de trabajo sin paga",
+      "consolidated_definition": "Día de la semana de trabajo sin paga que daban los peones para construir un camino o cualquier otra cosa que los beneficiaría a todos.",
+      "en_consolidated_definition": "Day of the week when laborers would work without pay to construct a road or any other project that would benefit them all collectively.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Día de la semana de trabajo sin paga"
+    "Día de la semana de trabajo sin paga que daban los peones para construir un camino o cualquier otra cosa que los beneficiaría a todos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Day of the week when laborers would work without pay to construct a road or any other project that would benefit them all collectively."
+  ],
   "source": "https://tesoro.pr"
 }

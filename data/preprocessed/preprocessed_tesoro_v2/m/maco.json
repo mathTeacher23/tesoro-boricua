@@ -3,9 +3,12 @@
   "term": "maco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Llaman así los chicos en su juego de",
+      "consolidated_definition": "Llaman así los chicos en su juego de macos a una especie de caracolitos lisos y lustrosos, y a unas especies de granos amarillos o colorados también llamados matos.",
+      "en_consolidated_definition": "They call them \"macos\" in their game to a type of smooth and shiny snails, and to certain species of yellow or reddish grains also called \"matos\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ojo",
+      "consolidated_definition": "Órgano del sentido de la vista.",
+      "en_consolidated_definition": "Organ of the sense of sight.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4464",
-        "semantic_similarity_score": 0.4464,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4531",
+        "semantic_similarity_score": 0.4531,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -89,8 +95,8 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Ojo, el órgano de la vista. . “Cuando volví a abrir los macos...” Timothée, Cuentos populares, 1917, p. 125.",
-          "Ojo.",
+          "Ojo, el órgano de la vista. (Sólo tiene uso en tono festivo). “Cuando volví a abrir los macos...” Timothée, Cuentos populares, 1917, p. 125.",
+          "(popular) Ojo.",
           "Significa ojo, según el uso popular, aunque se utiliza más en la forma plural macos, en frases como: “Macos grandes, ojos grandes” o “abrió así de grandes los macos”.",
           "Ojo.",
           "Con voluntad más bien festiva, se oye decir macos ‘ojos’ ("
@@ -99,9 +105,12 @@
     }
   },
   "es_definitions": [
-    "Llaman así los chicos en su juego de",
-    "Ojo"
+    "Llaman así los chicos en su juego de macos a una especie de caracolitos lisos y lustrosos, y a unas especies de granos amarillos o colorados también llamados matos.",
+    "Órgano del sentido de la vista."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "They call them \"macos\" in their game to a type of smooth and shiny snails, and to certain species of yellow or reddish grains also called \"matos\".",
+    "Organ of the sense of sight."
+  ],
   "source": "https://tesoro.pr"
 }

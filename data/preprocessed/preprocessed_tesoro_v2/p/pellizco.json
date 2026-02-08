@@ -3,9 +3,12 @@
   "term": "pellizco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Participación",
+      "consolidated_definition": "Participación, mediante pago, en el juego de compras por azar, quitando de un papel o cartulina que tiene números cubiertos que corresponden a los artículos que se ofrecen en un catálogo.",
+      "en_consolidated_definition": "Participation, through payment, in a game of chance purchases, by removing from a paper or cardboard sheet that has covered numbers corresponding to the items offered in a catalog.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Idiota",
+      "consolidated_definition": "Idiota. Persona que molesta mucho o le gusta molestar a los demás. Estúpido.",
+      "en_consolidated_definition": "Simpleton. Person who greatly annoys others or takes pleasure in annoying them. Foolish person.\n\nNota: En este contexto, el término \"simpleton\" se utiliza para describir a alguien que es considerado estúpido o molesto, pero sin connotaciones peyorativas extremas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Participación",
-    "Idiota"
+    "Participación, mediante pago, en el juego de compras por azar, quitando de un papel o cartulina que tiene números cubiertos que corresponden a los artículos que se ofrecen en un catálogo.",
+    "Idiota. Persona que molesta mucho o le gusta molestar a los demás. Estúpido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Participation, through payment, in a game of chance purchases, by removing from a paper or cardboard sheet that has covered numbers corresponding to the items offered in a catalog.",
+    "Simpleton. Person who greatly annoys others or takes pleasure in annoying them. Foolish person.\n\nNota: En este contexto, el término \"simpleton\" se utiliza para describir a alguien que es considerado estúpido o molesto, pero sin connotaciones peyorativas extremas."
+  ],
   "source": "https://tesoro.pr"
 }

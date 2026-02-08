@@ -3,15 +3,18 @@
   "term": "cachipa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Residuo fibroso resultante de la ralladura de un coco o cualquier otro fruto.",
+      "consolidated_definition": "Residuo del coco o de cualquier otra fruta rallada.",
+      "en_consolidated_definition": "Coconut or any other grated fruit pulp.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 23,
-        "num_cleaned_definitions": 23,
-        "definition_stability": "Stability: 0.5404",
-        "semantic_similarity_score": 0.5404,
-        "cluster_count": 23,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -109,36 +112,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Lo que queda del coco o de cualquier fruto rallado.",
-          "Yesca o corteza fibrosa del coco.",
-          "La corteza recia y fibrosa que envuelve a la nuez del coco fue llamada corrientemente cachipa en el oeste y cáscara en el este. Los nombres de cachipa y cachaza, formados sobre la misma raíz de cachar, son sinónimos con referencia a la parte fibrosa de la cubierta del coco.",
-          "Envoltura del coco. También gazpacho, pelusa, cáscara, bagazo.",
-          "(general) Viruta.",
-          "Residuo de la tela o carne del coco después de guayada y exprimida.",
-          "Residuo o corteza de algunas frutas. Variantes: cachihpa, cachispa.",
-          "Covarrubias indica que se deriva de gachas porque cacho vale ‘pedazo’ y la g y la c se permutan. Malaret la define como: ‘lo que queda del coco o de cualquier fruto rallado’, ‘yesca, corteza fibrosa del coco’. Vocabulario, 70.",
-          "La corteza del coco. También cachispa, concha de coco, catibía, cáscara rallada.",
-          "Paja. También cachipa.",
-          "Envoltura del coco. También gazpacho, corteza, pelusa, cáscara, pajuncia.",
-          "Se usa para aludir a lo que queda del coco. Por el oeste insular, la corteza de fibra dura que envuelve a la nuez del coco. Alterna con cachispa. También cachaza, cáscara, corteza, gafofia, gamuza, gazpacho, paja, pellejo, yesca.",
-          "Envoltura del coco. También gaspacho, caparazón, carapacho.",
-          "Residuo de la tela o carne del coco después de rallada y exprimida. Residuo o corteza de algunas frutas.",
-          "La tela guayada o molida del coco.",
-          "Parte fibrosa de la cubierta del coco.",
-          "Residuo de la carne del coco.",
-          "Paja que queda, una vez que el coco se ha guayao y se le saca la leche.",
-          "Cualquier fruto rallado.",
-          "Pulpa del coco rallado.",
-          "Viruta.",
-          "Residuo del coco o de cualquier otra fruta rallada.",
-          "Corteza fibrosa del coco."
+          "Residuo del coco o de cualquier otra fruta rallada."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Las cachipas son los residuos sólidos resultantes del proceso de cocción del guarapo, que se acumulan en las pailas.",
+      "en_consolidated_definition": "Cachipas are the solid residues resulting from the cooking process of guarapo, which accumulate in the cauldrons.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -185,15 +169,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "El término \"corteza\" se refiere al residuo que produce un lápiz cuando se le saca punta.",
+      "consolidated_definition": "Residuo que produce un lápiz cuando se le saca punta.",
+      "en_consolidated_definition": "Punta de lápiz desechable.\n\nNota: En este caso, \"lápiz\" se refiere a un lápiz de grafito o un lápiz de carbono, y no a un lápiz de cera o un lápiz de colores.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -222,10 +209,14 @@
     }
   },
   "es_definitions": [
-    "Residuo fibroso resultante de la ralladura de un coco o cualquier otro fruto.",
+    "Residuo del coco o de cualquier otra fruta rallada.",
     "Las cachipas son los residuos sólidos resultantes del proceso de cocción del guarapo, que se acumulan en las pailas.",
-    "El término \"corteza\" se refiere al residuo que produce un lápiz cuando se le saca punta."
+    "Residuo que produce un lápiz cuando se le saca punta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coconut or any other grated fruit pulp.",
+    "Cachipas are the solid residues resulting from the cooking process of guarapo, which accumulate in the cauldrons.",
+    "Punta de lápiz desechable.\n\nNota: En este caso, \"lápiz\" se refiere a un lápiz de grafito o un lápiz de carbono, y no a un lápiz de cera o un lápiz de colores."
+  ],
   "source": "https://tesoro.pr"
 }

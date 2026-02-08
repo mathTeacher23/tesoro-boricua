@@ -3,14 +3,17 @@
   "term": "trabajo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hechizo",
+      "consolidated_definition": "Conjuro con el que se pretende proteger o perjudicar a una persona mediante prácticas supersticiosas.",
+      "en_consolidated_definition": "Spell or charm used to protect or harm a person through superstitious practices.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4398",
-        "semantic_similarity_score": 0.4398,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,22 +47,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hechizo. Maleficio. Trabajito.",
-          "Obra de beneficio o perjuicio respecto de una persona, que se efectúa invocando a los espíritus.",
           "Conjuro con el que se pretende proteger o perjudicar a una persona mediante prácticas supersticiosas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Nombre para el acto de robar",
+      "consolidated_definition": "El término se refiere a un sustantivo que designa el acto de tomar algo a alguien sin su consentimiento con la intención de apropiárselo.",
+      "en_consolidated_definition": "The term refers to a noun that designates the act of taking something from someone without their consent with the intention of appropriating it.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si necesitas traducir otros términos, por favor házmelo saber.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.5348",
         "semantic_similarity_score": 0.5348,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -102,9 +106,12 @@
     }
   },
   "es_definitions": [
-    "Hechizo",
-    "Nombre para el acto de robar"
+    "Conjuro con el que se pretende proteger o perjudicar a una persona mediante prácticas supersticiosas.",
+    "El término se refiere a un sustantivo que designa el acto de tomar algo a alguien sin su consentimiento con la intención de apropiárselo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Spell or charm used to protect or harm a person through superstitious practices.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "The term refers to a noun that designates the act of taking something from someone without their consent with the intention of appropriating it.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si necesitas traducir otros términos, por favor házmelo saber."
+  ],
   "source": "https://tesoro.pr"
 }

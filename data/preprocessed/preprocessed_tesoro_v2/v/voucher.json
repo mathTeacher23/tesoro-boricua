@@ -3,14 +3,17 @@
   "term": "voucher",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vale, relacionado con un grupo",
+      "consolidated_definition": "Comprobante que se emite al realizar una transacción con tarjeta de crédito o de débito.",
+      "en_consolidated_definition": "Receipt issued upon completing a transaction with a credit or debit card.\n\nNota: En este caso, no se utilizan términos culturales específicos de Puerto Rico en la definición original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.49",
-        "semantic_similarity_score": 0.49,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,16 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Vale. Documento que puede ser cambiado por alimentos o servicios, o como pago de alquiler de vivienda. Anglicismo crudo, frecuente. La percepción de que no es conveniente alquilar propiedades a personas que tienen beneficios de la Sección 8 del Departamento de la Vivienda ha causado que sólo el 60% de los recipientes del voucher o vale logren conseguir una casa en un periodo de dos meses",
-          "Comprobante que se emite al realizar una transacción con tarjeta de crédito o de débito.",
-          "Vale que da derecho a quien lo posee a adquirir determinados artículos o al disfrute de un servicio."
+          "Comprobante que se emite al realizar una transacción con tarjeta de crédito o de débito."
         ]
       }
     }
   },
   "es_definitions": [
-    "Vale, relacionado con un grupo"
+    "Comprobante que se emite al realizar una transacción con tarjeta de crédito o de débito."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Receipt issued upon completing a transaction with a credit or debit card.\n\nNota: En este caso, no se utilizan términos culturales específicos de Puerto Rico en la definición original."
+  ],
   "source": "https://tesoro.pr"
 }

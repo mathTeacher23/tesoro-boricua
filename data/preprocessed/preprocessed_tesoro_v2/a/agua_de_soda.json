@@ -3,15 +3,18 @@
   "term": "agua de soda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Agua efervescente, un tipo de agua natural a la que se le ha añadido dióxido de carbono.",
+      "consolidated_definition": "alim. Agua con gas, agua de Seltz. Agua efervescente producida al añadirle dióxido de carbón al agua natural. Calco de estructura, usual. El ponche necesita entre otros ingredientes: 6 tazas de jugo de naranja fresco, 4 botellas de 10 onzas de cerveza y una botella de 12 onzas de agua de soda (Comida Puerto Rico, 31-05-06)",
+      "en_consolidated_definition": "Carbonated water, Seltzer water. Effervescent water produced by adding carbon dioxide to natural water. Calque of structure, usual.\n\nThe punch requires among other ingredients: 6 cups of fresh orange juice, 4 bottles of 10 oz beer and a 12 oz bottle of soda water (Puerto Rico Food, 31-05-06)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Agua efervescente, un tipo de agua natural a la que se le ha añadido dióxido de carbono."
+    "alim. Agua con gas, agua de Seltz. Agua efervescente producida al añadirle dióxido de carbón al agua natural. Calco de estructura, usual. El ponche necesita entre otros ingredientes: 6 tazas de jugo de naranja fresco, 4 botellas de 10 onzas de cerveza y una botella de 12 onzas de agua de soda (Comida Puerto Rico, 31-05-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Carbonated water, Seltzer water. Effervescent water produced by adding carbon dioxide to natural water. Calque of structure, usual.\n\nThe punch requires among other ingredients: 6 cups of fresh orange juice, 4 bottles of 10 oz beer and a 12 oz bottle of soda water (Puerto Rico Food, 31-05-06)"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "chavonería",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona o situación que causa incomodidad o irritación.",
+      "consolidated_definition": "Molestia.",
+      "en_consolidated_definition": "Discomfort \n\nDisturbance \n\nAnnoyance \n\nIrritation",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4022",
-        "semantic_similarity_score": 0.4022,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -43,15 +46,16 @@
           "chavón, na"
         ],
         "reference_definitions": [
-          "Cosa o acción molestosa. También chavienda.",
           "Molestia."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona o situación que causa incomodidad o irritación."
+    "Molestia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Discomfort \n\nDisturbance \n\nAnnoyance \n\nIrritation"
+  ],
   "source": "https://tesoro.pr"
 }

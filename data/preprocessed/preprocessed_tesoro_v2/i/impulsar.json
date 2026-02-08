@@ -3,9 +3,12 @@
   "term": "impulsar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol, relacionado con una calificación",
+      "consolidated_definition": "En el beisbol, dar un batazo que permite anotar carrera a un jugador.",
+      "en_consolidated_definition": "In baseball, to hit a blow that allows a player to score a run.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol, relacionado con una calificación"
+    "En el beisbol, dar un batazo que permite anotar carrera a un jugador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, to hit a blow that allows a player to score a run."
+  ],
   "source": "https://tesoro.pr"
 }

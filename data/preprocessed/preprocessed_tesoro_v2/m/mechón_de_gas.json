@@ -3,9 +3,12 @@
   "term": "mechón de gas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Antiguo sistema de alumbrado a base de gas",
+      "consolidated_definition": "Antiguo sistema de alumbrado a base de gas Kerosén.",
+      "en_consolidated_definition": "Old kerosene-based lighting system.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Antiguo sistema de alumbrado a base de gas"
+    "Antiguo sistema de alumbrado a base de gas Kerosén."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Old kerosene-based lighting system."
+  ],
   "source": "https://tesoro.pr"
 }

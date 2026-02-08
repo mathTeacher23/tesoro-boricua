@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Faralá: pieza circular y ancha que se utiliza como cinturón o adorno en la falda de un vestido femenino.",
+      "en_consolidated_definition": "Faralá: circular and wide piece used as a belt or ornament on the skirt of a female dress.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "(T. en Col., C Rica y Perú). Juguete consistente en un palo terminado en punta y una bola sujeta por un cordón al palo, el cual se procura ensartar en la punta al ser lanzado al aire.",
+      "consolidated_definition": "(T. en Col., C. Rica y Perú). Boliche juguete que se forma de un palo terminado en punta y de una bola taladrada sujeta por un cordón al palo, la cual, lanzada al aire, se procura ensartar en la punta. Ac.",
+      "en_consolidated_definition": "(Term used in Colombia, Costa Rica, and Peru). Toy yo-yo-like device formed from a pointed stick and a bored ball attached to the stick by a cord, which, when thrown into the air, is attempted to be caught on the point. Ac.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -81,15 +87,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "En los campos de cultivo de tabaco, \"a\" se refiere a la zona inferior del rancho destinada al secado de las hojas de tabaco, cubierta con planchas de zinc.",
+      "consolidated_definition": "Llaman así en los campos a la parte de abajo del rancho de secar las hojas de tabaco que se cerca con planchas de zinc.",
+      "en_consolidated_definition": "In the fields, they refer to this part of the tobacco leaf drying shed, covered with zinc sheets, as the lower section.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -119,9 +128,13 @@
   },
   "es_definitions": [
     "Faralá: pieza circular y ancha que se utiliza como cinturón o adorno en la falda de un vestido femenino.",
-    "(T. en Col., C Rica y Perú). Juguete consistente en un palo terminado en punta y una bola sujeta por un cordón al palo, el cual se procura ensartar en la punta al ser lanzado al aire.",
-    "En los campos de cultivo de tabaco, \"a\" se refiere a la zona inferior del rancho destinada al secado de las hojas de tabaco, cubierta con planchas de zinc."
+    "(T. en Col., C. Rica y Perú). Boliche juguete que se forma de un palo terminado en punta y de una bola taladrada sujeta por un cordón al palo, la cual, lanzada al aire, se procura ensartar en la punta. Ac.",
+    "Llaman así en los campos a la parte de abajo del rancho de secar las hojas de tabaco que se cerca con planchas de zinc."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Faralá: circular and wide piece used as a belt or ornament on the skirt of a female dress.",
+    "(Term used in Colombia, Costa Rica, and Peru). Toy yo-yo-like device formed from a pointed stick and a bored ball attached to the stick by a cord, which, when thrown into the air, is attempted to be caught on the point. Ac.",
+    "In the fields, they refer to this part of the tobacco leaf drying shed, covered with zinc sheets, as the lower section."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "La margarita silvestre, conocida también como clavellina, es una planta que se encuentra en áreas costeras, con variante clavellina dispersa entre el este y oeste, especialmente en salinas y Jayuya.",
+      "en_consolidated_definition": "Wild Marguerite, also known as Clavellina, is a plant found in coastal areas, with the variant Clavellina dispersed between east and west, particularly in salt pans and Jayuya.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Caesalpinia pulcherrima: arbusto originario de América del Sur, con flores rojas y amarillas.",
+      "consolidated_definition": "Bejuco leñoso, trepador, de hasta 10 m de altura, con espinas, hojas alternas ovadas, flores en grandes grupos terminales de color blanco, y fruto capsular; se utiliza en la medicina tradicional. (Nyctaginaceae; Bougainvillea spp.).",
+      "en_consolidated_definition": "Woody vine, climbing, up to 10 m in height, with thorns, alternate ovate leaves, flowers in large terminal groups of white color, and capsular fruit; used in traditional medicine (Nyctaginaceae; Bougainvillea spp.).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5023",
-        "semantic_similarity_score": 0.5023,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -86,18 +92,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Arbusto de flores rojas y amarillas. (Caesalpinia pulcherrima). Stahl, 3, 123. “No has visto al céfiro suave —Que entre las ramas se agita —Cómo besa enamorado —Las pintadas clavellinas.” José M. Monge, “En el campo”, 1866 Poesías y , p. 158.",
-          "Flor, parecida a la trinitaria, es blanca y de corola roja. También tocador.",
-          "Bejuco leñoso, trepador, de hasta 10 m de altura, con espinas, hojas alternas ovadas, flores en grandes grupos terminales de color blanco, y fruto capsular; se utiliza en la medicina tradicional. (Nyctaginaceae; Bougainvillea spp.).",
-          "Árbol de hasta 5 m de altura, de copa muy extendida, hojas compuestas, paripinnadas, inflorescencia en racimos grandes, terminales y axilares, flores rojas o anaranjadas y fruto en forma de vaina aplanada; se utiliza en la medicina tradicional. (Fabaceae; Caesalpinia pulcherrima)."
+          "Bejuco leñoso, trepador, de hasta 10 m de altura, con espinas, hojas alternas ovadas, flores en grandes grupos terminales de color blanco, y fruto capsular; se utiliza en la medicina tradicional. (Nyctaginaceae; Bougainvillea spp.)."
         ]
       }
     }
   },
   "es_definitions": [
     "La margarita silvestre, conocida también como clavellina, es una planta que se encuentra en áreas costeras, con variante clavellina dispersa entre el este y oeste, especialmente en salinas y Jayuya.",
-    "Caesalpinia pulcherrima: arbusto originario de América del Sur, con flores rojas y amarillas."
+    "Bejuco leñoso, trepador, de hasta 10 m de altura, con espinas, hojas alternas ovadas, flores en grandes grupos terminales de color blanco, y fruto capsular; se utiliza en la medicina tradicional. (Nyctaginaceae; Bougainvillea spp.)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wild Marguerite, also known as Clavellina, is a plant found in coastal areas, with the variant Clavellina dispersed between east and west, particularly in salt pans and Jayuya.",
+    "Woody vine, climbing, up to 10 m in height, with thorns, alternate ovate leaves, flowers in large terminal groups of white color, and capsular fruit; used in traditional medicine (Nyctaginaceae; Bougainvillea spp.)."
+  ],
   "source": "https://tesoro.pr"
 }

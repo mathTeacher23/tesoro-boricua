@@ -3,9 +3,12 @@
   "term": "madurada grande",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La madurada más copiosa en las fincas de",
+      "consolidated_definition": "La madurada más copiosa en las fincas de café que por lo regular es de octubre a noviembre.",
+      "en_consolidated_definition": "The most abundant harvest in coffee plantations that usually occurs from October to November.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La madurada más copiosa en las fincas de"
+    "La madurada más copiosa en las fincas de café que por lo regular es de octubre a noviembre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The most abundant harvest in coffee plantations that usually occurs from October to November."
+  ],
   "source": "https://tesoro.pr"
 }

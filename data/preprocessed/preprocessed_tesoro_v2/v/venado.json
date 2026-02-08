@@ -3,9 +3,12 @@
   "term": "venado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombre homosexual",
+      "consolidated_definition": "Hombre homosexual.",
+      "en_consolidated_definition": "Gay man \n\nNota: En este contexto, se refiere a un hombre que identifica como homosexual.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Hombre al que le ha sido infiel su",
+      "consolidated_definition": "Hombre al que le ha sido infiel su pareja.",
+      "en_consolidated_definition": "Adultero",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Hombre homosexual",
-    "Hombre al que le ha sido infiel su"
+    "Hombre homosexual.",
+    "Hombre al que le ha sido infiel su pareja."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Gay man \n\nNota: En este contexto, se refiere a un hombre que identifica como homosexual.",
+    "Adultero"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "asfixiado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que se encuentra sobrecargada de responsabilidades o tareas, lo que le impide atender a otras necesidades o actividades.",
+      "consolidated_definition": "(general) Demasiado ocupado.",
+      "en_consolidated_definition": "Overly engaged or preoccupied.\n\nNota: En este caso, \"demasiado ocupado\" se traduce como \"overly engaged or preoccupied\", ya que \"ocupado\" puede tener diferentes connotaciones en español y no siempre se refiere a estar ocupado en el sentido de tener una carga de trabajo pesada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -38,15 +41,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona con tendencias o deseos sexuales.",
+      "consolidated_definition": "Referido a persona, que tiene deseos sexuales.",
+      "en_consolidated_definition": "Person who has sexual desires.\n\nNota: En este contexto, se refiere a una persona que experimenta atracción o deseo sexual hacia otros.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Persona que se encuentra sobrecargada de responsabilidades o tareas, lo que le impide atender a otras necesidades o actividades.",
-    "Persona con tendencias o deseos sexuales."
+    "(general) Demasiado ocupado.",
+    "Referido a persona, que tiene deseos sexuales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Overly engaged or preoccupied.\n\nNota: En este caso, \"demasiado ocupado\" se traduce como \"overly engaged or preoccupied\", ya que \"ocupado\" puede tener diferentes connotaciones en español y no siempre se refiere a estar ocupado en el sentido de tener una carga de trabajo pesada.",
+    "Person who has sexual desires.\n\nNota: En este contexto, se refiere a una persona que experimenta atracción o deseo sexual hacia otros."
+  ],
   "source": "https://tesoro.pr"
 }

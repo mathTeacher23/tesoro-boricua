@@ -3,14 +3,17 @@
   "term": "retiro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pensión",
+      "consolidated_definition": "Jubilación. Estado de una persona que ha dejado de trabajar porque ha llegado a la edad estipulada por ley para hacerlo; también, pensión que recibe. Usual. DRAE: desde 1992. Compuestos: plan de retiro, programa de retiro, retiro temprano. “Estuve allí dos años y medio”, puntualizó la muchacha. “Me retiré dos veces, una de ellas después de completar totalmente mi segundo año. Y después rescindí mi retiro porque no estaba completamente segura” (El Nuevo Día, 14-12-04)",
+      "en_consolidated_definition": "Retirement. State of a person who has stopped working because they have reached the age specified by law for doing so; also, pension received. Usual. DRAE: since 1992. Compounds: retirement plan, retirement program, early retirement.\n\nNota: El término \"DRAE\" se refiere al Diccionario de la Real Academia Española, que es una autoridad en la definición del español estándar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2009",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5562",
-        "semantic_similarity_score": 0.5562,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,15 +47,16 @@
           "retirarse"
         ],
         "reference_definitions": [
-          "Pensión. Jubilación.",
-          "Jubilación. Estado de una persona que ha dejado de trabajar porque ha llegado a la edad estipulada por ley para hacerlo; también, pensión que recibe. Usual. DRAE: desde 1992. Compuestos: plan de retiro, programa de retiro, retiro temprano. “Estuve allí dos años y medio”, puntualizó la muchacha. “Me retiré dos veces, una de ellas después de completar totalmente mi segundo año. Y después rescindí mi retiro porque no estaba completamente segura”"
+          "Jubilación. Estado de una persona que ha dejado de trabajar porque ha llegado a la edad estipulada por ley para hacerlo; también, pensión que recibe. Usual. DRAE: desde 1992. Compuestos: plan de retiro, programa de retiro, retiro temprano. “Estuve allí dos años y medio”, puntualizó la muchacha. “Me retiré dos veces, una de ellas después de completar totalmente mi segundo año. Y después rescindí mi retiro porque no estaba completamente segura” (El Nuevo Día, 14-12-04)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Pensión"
+    "Jubilación. Estado de una persona que ha dejado de trabajar porque ha llegado a la edad estipulada por ley para hacerlo; también, pensión que recibe. Usual. DRAE: desde 1992. Compuestos: plan de retiro, programa de retiro, retiro temprano. “Estuve allí dos años y medio”, puntualizó la muchacha. “Me retiré dos veces, una de ellas después de completar totalmente mi segundo año. Y después rescindí mi retiro porque no estaba completamente segura” (El Nuevo Día, 14-12-04)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Retirement. State of a person who has stopped working because they have reached the age specified by law for doing so; also, pension received. Usual. DRAE: since 1992. Compounds: retirement plan, retirement program, early retirement.\n\nNota: El término \"DRAE\" se refiere al Diccionario de la Real Academia Española, que es una autoridad en la definición del español estándar."
+  ],
   "source": "https://tesoro.pr"
 }

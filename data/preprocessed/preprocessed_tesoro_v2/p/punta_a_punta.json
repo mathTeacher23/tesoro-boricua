@@ -3,9 +3,12 @@
   "term": "punta a punta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Combate de gallos con espuelas naturales",
+      "consolidated_definition": "Combate de gallos con espuelas naturales. Isabela.",
+      "en_consolidated_definition": "Fight of roosters with natural spurs. Isabela.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Combate de gallos con espuelas naturales"
+    "Combate de gallos con espuelas naturales. Isabela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fight of roosters with natural spurs. Isabela."
+  ],
   "source": "https://tesoro.pr"
 }

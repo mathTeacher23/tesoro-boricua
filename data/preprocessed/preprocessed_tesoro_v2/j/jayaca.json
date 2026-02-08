@@ -3,9 +3,12 @@
   "term": "jayaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tamal",
+      "consolidated_definition": "Tamal.",
+      "en_consolidated_definition": "Tamal: a dish made from masa harina filled with meat, vegetables, or other ingredients, typically steamed in a leaf wrapper.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tamal"
+    "Tamal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tamal: a dish made from masa harina filled with meat, vegetables, or other ingredients, typically steamed in a leaf wrapper."
+  ],
   "source": "https://tesoro.pr"
 }

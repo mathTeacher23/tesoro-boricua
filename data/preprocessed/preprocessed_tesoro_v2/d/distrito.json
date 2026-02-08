@@ -3,9 +3,12 @@
   "term": "distrito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Circunscripción territorial más pequeña del país en que",
+      "consolidated_definition": "Circunscripción territorial más pequeña del país en que se divide una provincia y cuyo gobierno está a cargo de una municipalidad distrital o municipio regido por un alcalde.",
+      "en_consolidated_definition": "Territorial subdivision of the country that is smallest in size within a province and whose government is under the jurisdiction of a district municipal government or municipality governed by a mayor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Circunscripción territorial más pequeña del país en que"
+    "Circunscripción territorial más pequeña del país en que se divide una provincia y cuyo gobierno está a cargo de una municipalidad distrital o municipio regido por un alcalde."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Territorial subdivision of the country that is smallest in size within a province and whose government is under the jurisdiction of a district municipal government or municipality governed by a mayor."
+  ],
   "source": "https://tesoro.pr"
 }

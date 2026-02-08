@@ -3,9 +3,12 @@
   "term": "tétrico, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Asunto o cosa relacionada con la muerte",
+      "consolidated_definition": "Asunto o cosa relacionada con la muerte. Lo relativo a la muerte.",
+      "en_consolidated_definition": "Matter or thing related to death. Relating to death.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Asunto o cosa relacionada con la muerte"
+    "Asunto o cosa relacionada con la muerte. Lo relativo a la muerte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Matter or thing related to death. Relating to death."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "zapapico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Herramienta agrícola que tiene pico en un extremo",
+      "consolidated_definition": "Herramienta agrícola que tiene pico en un extremo y pala en el otro, con mango de una yarda de largo, usada para hacer hoyos en la tierra.",
+      "en_consolidated_definition": "Agricultural tool with a pick at one end and a shovel at the other, having a handle of approximately one yard in length, used for digging holes in the earth.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Herramienta agrícola que tiene pico en un extremo"
+    "Herramienta agrícola que tiene pico en un extremo y pala en el otro, con mango de una yarda de largo, usada para hacer hoyos en la tierra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Agricultural tool with a pick at one end and a shovel at the other, having a handle of approximately one yard in length, used for digging holes in the earth."
+  ],
   "source": "https://tesoro.pr"
 }

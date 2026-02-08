@@ -3,9 +3,12 @@
   "term": "garuba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bachata",
+      "consolidated_definition": "Bachata.",
+      "en_consolidated_definition": "Bachata: a style of romantic music and dance originating from the Dominican Republic, popularized in Puerto Rico through its fusion with local rhythms such as bomba y plena.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Bachata"
+    "Bachata."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bachata: a style of romantic music and dance originating from the Dominican Republic, popularized in Puerto Rico through its fusion with local rhythms such as bomba y plena."
+  ],
   "source": "https://tesoro.pr"
 }

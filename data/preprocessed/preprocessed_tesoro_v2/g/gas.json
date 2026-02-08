@@ -3,9 +3,12 @@
   "term": "gas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Keroseno o queroseno",
+      "consolidated_definition": "Keroseno o queroseno; destilado del petróleo usado para cocinar y alumbrar. También querosina.",
+      "en_consolidated_definition": "Kerosene or kerosine; a distillate of used petroleum for cooking and lighting purposes, also known as paraffin oil.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ver moratoria",
+      "consolidated_definition": "Ver moratoria .",
+      "en_consolidated_definition": "See moratoria.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -64,9 +70,12 @@
     }
   },
   "es_definitions": [
-    "Keroseno o queroseno",
-    "Ver moratoria"
+    "Keroseno o queroseno; destilado del petróleo usado para cocinar y alumbrar. También querosina.",
+    "Ver moratoria ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Kerosene or kerosine; a distillate of used petroleum for cooking and lighting purposes, also known as paraffin oil.",
+    "See moratoria."
+  ],
   "source": "https://tesoro.pr"
 }

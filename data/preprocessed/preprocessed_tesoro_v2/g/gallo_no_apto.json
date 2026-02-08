@@ -3,9 +3,12 @@
   "term": "gallo no apto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo que no cumple con los requisitos establecidos",
+      "consolidated_definition": "Gallo que no cumple con los requisitos establecidos en el Reglamento de Gallos para permitirle pelear.",
+      "en_consolidated_definition": "Rooster that does not meet the requirements established in the Rooster Regulation to allow it to fight.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gallo que no cumple con los requisitos establecidos"
+    "Gallo que no cumple con los requisitos establecidos en el Reglamento de Gallos para permitirle pelear."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rooster that does not meet the requirements established in the Rooster Regulation to allow it to fight."
+  ],
   "source": "https://tesoro.pr"
 }

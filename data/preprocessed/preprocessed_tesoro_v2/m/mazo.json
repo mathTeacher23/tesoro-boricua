@@ -3,15 +3,18 @@
   "term": "mazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grupo de pedazos de caña recién cortada reunidos, relacionado con un grupo",
+      "consolidated_definition": "Montón de cañas frescas y recién cortadas reunidas para su transporte.",
+      "en_consolidated_definition": "Pile of fresh and newly cut reeds gathered for transportation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5613",
         "semantic_similarity_score": 0.5613,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Grupo de pedazos de caña recién cortada reunidos, relacionado con un grupo"
+    "Montón de cañas frescas y recién cortadas reunidas para su transporte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pile of fresh and newly cut reeds gathered for transportation."
+  ],
   "source": "https://tesoro.pr"
 }

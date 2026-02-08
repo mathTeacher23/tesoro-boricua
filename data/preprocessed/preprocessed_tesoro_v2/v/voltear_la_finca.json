@@ -3,9 +3,12 @@
   "term": "voltear la finca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Actividad diaria de recorrer la finca rural que",
+      "consolidated_definition": "Actividad diaria de recorrer la finca rural que hace el dueño o el capataz para inspeccionar las siembras y otras actividades relativas al trabajo cotidiano.",
+      "en_consolidated_definition": "Daily farm inspection activity undertaken by the landowner or foreman to inspect plantings and other daily work-related activities.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Actividad diaria de recorrer la finca rural que"
+    "Actividad diaria de recorrer la finca rural que hace el dueño o el capataz para inspeccionar las siembras y otras actividades relativas al trabajo cotidiano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Daily farm inspection activity undertaken by the landowner or foreman to inspect plantings and other daily work-related activities."
+  ],
   "source": "https://tesoro.pr"
 }

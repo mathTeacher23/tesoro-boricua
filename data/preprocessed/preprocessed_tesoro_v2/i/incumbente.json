@@ -3,14 +3,17 @@
   "term": "incumbente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que está en posesión de algún empleo",
+      "consolidated_definition": "Persona que está en posesión de algún empleo público de relevancia.",
+      "en_consolidated_definition": "Persona que ocupa un cargo público de importancia.\n\nNota: En este contexto, se refiere a una posición de relevancia en el gobierno o administración pública.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5929",
-        "semantic_similarity_score": 0.5929,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -51,17 +54,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Persona que está en posesión de algún empleo público. “Cuando el Dr. Chardón era incumbente.”",
-          "Mandatario público de relevancia. Jefe.",
-          "En política, la persona que controla una oficina del gobierno. Anglicismo adaptado, usual. Este problema, que podríamos llamar la “ventaja injusta del incumbente”, permite que el gobernante de turno utilice fondos públicos con el fin de resaltar su imagen y la de su gobierno ante la opinión pública",
           "Persona que está en posesión de algún empleo público de relevancia."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que está en posesión de algún empleo"
+    "Persona que está en posesión de algún empleo público de relevancia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que ocupa un cargo público de importancia.\n\nNota: En este contexto, se refiere a una posición de relevancia en el gobierno o administración pública."
+  ],
   "source": "https://tesoro.pr"
 }

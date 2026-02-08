@@ -3,9 +3,12 @@
   "term": "gran cultivo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Caña que se siembra adelantada",
+      "consolidated_definition": "Caña que se siembra adelantada. También cultura.",
+      "en_consolidated_definition": "Early planting or crop. Also culture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Caña que se siembra adelantada"
+    "Caña que se siembra adelantada. También cultura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Early planting or crop. Also culture."
+  ],
   "source": "https://tesoro.pr"
 }

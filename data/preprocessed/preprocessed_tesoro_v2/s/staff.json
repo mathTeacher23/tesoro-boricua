@@ -3,14 +3,17 @@
   "term": "staff",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plantilla de directores en una organización, relacionado con un grupo o una organización",
+      "consolidated_definition": "Personal directivo, equipo directivo. Cuerpo de personas que dirigen un negocio o una actividad. Anglicismo crudo, frecuente. A veces, en las reuniones de staff en que evalúan las promociones que se producen en Telemundo para mejorar la calidad de vida en el País, Hillary Hattler se siente avasallada por el contenido de los servicios públicos y llora delante de sus compañeros (El Nuevo Día, 04-07-07)",
+      "en_consolidated_definition": "Executive staff, management team. Body of people who direct a business or an activity. Raw anglicism, frequent. Sometimes, in staff meetings where they evaluate promotions at Telemundo to improve the quality of life in the country, Hillary Hattler feels overwhelmed by the content of public services and cries in front of her colleagues (El Nuevo Día, 04-07-07)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2009",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5536",
-        "semantic_similarity_score": 0.5536,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,17 +49,17 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Plantilla de directores en una organización.",
-          "Junta, grupo directivo, gerencia.",
-          "Personal directivo, equipo directivo. Cuerpo de personas que dirigen un negocio o una actividad. Anglicismo crudo, frecuente. A veces, en las reuniones de staff en que evalúan las promociones que se producen en Telemundo para mejorar la calidad de vida en el País, Hillary Hattler se siente avasallada por el contenido de los servicios públicos y llora delante de sus compañeros",
-          "Personal, plantilla. Conjunto de trabajadores fijos de una empresa. Anglicismo crudo, frecuente. Tras crear el menú y dirigir al staff los primeros dos meses, José partió camino a Barcelona, donde se ha propuesto seguir aprendiendo alta cocina"
+          "Personal directivo, equipo directivo. Cuerpo de personas que dirigen un negocio o una actividad. Anglicismo crudo, frecuente. A veces, en las reuniones de staff en que evalúan las promociones que se producen en Telemundo para mejorar la calidad de vida en el País, Hillary Hattler se siente avasallada por el contenido de los servicios públicos y llora delante de sus compañeros (El Nuevo Día, 04-07-07)"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, conjunto de lanzadores de un equipo.",
+      "en_consolidated_definition": "In baseball, a group of pitchers from the same team.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -93,9 +96,12 @@
     }
   },
   "es_definitions": [
-    "Plantilla de directores en una organización, relacionado con un grupo o una organización",
-    "En el beisbol"
+    "Personal directivo, equipo directivo. Cuerpo de personas que dirigen un negocio o una actividad. Anglicismo crudo, frecuente. A veces, en las reuniones de staff en que evalúan las promociones que se producen en Telemundo para mejorar la calidad de vida en el País, Hillary Hattler se siente avasallada por el contenido de los servicios públicos y llora delante de sus compañeros (El Nuevo Día, 04-07-07)",
+    "En el beisbol, conjunto de lanzadores de un equipo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Executive staff, management team. Body of people who direct a business or an activity. Raw anglicism, frequent. Sometimes, in staff meetings where they evaluate promotions at Telemundo to improve the quality of life in the country, Hillary Hattler feels overwhelmed by the content of public services and cries in front of her colleagues (El Nuevo Día, 04-07-07)",
+    "In baseball, a group of pitchers from the same team."
+  ],
   "source": "https://tesoro.pr"
 }

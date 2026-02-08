@@ -3,14 +3,17 @@
   "term": "manicure",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Manicura",
+      "consolidated_definition": "Manicura, operación de cuidado y embellecimiento de las manos y uñas.",
+      "en_consolidated_definition": "Manicure, operation of care and beautification of the hands and nails.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6136",
-        "semantic_similarity_score": 0.6136,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Manicura, arreglo de uñas.",
-          "Manicura, arreglo de uñas. Limpieza y pulido de las uñas, generalmente realizado por una persona especializada en ello. Anglicismo crudo, usual. En esta edición contamos la historia de Dharma Rodríguez, quien se dio cuenta de que en su ciudad no había locales para manicure, juntó dinero, creó un nombre pegajoso: “Pintauñas” y abrió dos locales que han marchado con mucho éxito",
           "Manicura, operación de cuidado y embellecimiento de las manos y uñas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Manicura"
+    "Manicura, operación de cuidado y embellecimiento de las manos y uñas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Manicure, operation of care and beautification of the hands and nails."
+  ],
   "source": "https://tesoro.pr"
 }

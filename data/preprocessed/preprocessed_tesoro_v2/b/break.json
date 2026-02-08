@@ -3,9 +3,12 @@
   "term": "break",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Droga que se obtiene o adquiere de forma no oficial, implicando un préstamo monetario.",
+      "consolidated_definition": "Droga que se obtiene o adquiere de manera no oficial, implicando un préstamo monetario.",
+      "en_consolidated_definition": "Illicit substance obtained or acquired through unofficial means involving a monetary loan.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural puertorriqueño, ya que la definición es general y aplicable en diferentes contextos. Sin embargo, si fuera necesario traducir un término cultural específico, lo haría con precisión y respetando el contexto original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -42,15 +45,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pausa breve en un discurso o actividad.",
+      "consolidated_definition": "Pausa, interrupción.",
+      "en_consolidated_definition": "Pause, interruption.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5131",
-        "semantic_similarity_score": 0.5131,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -90,19 +96,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Oportunidad. Chance. Pausa. Dicen breic.",
-          "Oportunidad para hacer algo.",
-          "Receso, oportunidad, descanso, pausa. Pausa laboral o de otro tipo. Anglicismo crudo, usual. Compuestos: coffee break, spring break. Ahí se entabla la discusión política, se reflexiona una situación privada, se asume el tiempo libre o el break en el trabajo...",
-          "Pausa, interrupción.",
-          "Descanso, breve intermedio de una actividad."
+          "Pausa, interrupción."
         ]
       }
     }
   },
   "es_definitions": [
-    "Droga que se obtiene o adquiere de forma no oficial, implicando un préstamo monetario.",
-    "Pausa breve en un discurso o actividad."
+    "Droga que se obtiene o adquiere de manera no oficial, implicando un préstamo monetario.",
+    "Pausa, interrupción."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Illicit substance obtained or acquired through unofficial means involving a monetary loan.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural puertorriqueño, ya que la definición es general y aplicable en diferentes contextos. Sin embargo, si fuera necesario traducir un término cultural específico, lo haría con precisión y respetando el contexto original.",
+    "Pause, interruption."
+  ],
   "source": "https://tesoro.pr"
 }

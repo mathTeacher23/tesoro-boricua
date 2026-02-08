@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "\"Caranx ruber\": especie de pez cojinúa comestible y abundante en la costa de Aguadilla.",
+      "en_consolidated_definition": "Caranx ruber: species of edible cojinúa fish abundant in the coast of Aguadilla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -59,15 +62,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La ave Julián Chiví es una ave pequeña.",
+      "consolidated_definition": "Ave pequeñita cuyo nombre completo es Julián Chiví.",
+      "en_consolidated_definition": "Small bird whose full name is Julián Chiví.\n\nNota: No hay información disponible sobre una ave con el nombre de \"Julián Chiví\", por lo que es posible que se trate de un término humorístico o ficticio. Si tienes más contexto, estaré encantado de ayudarte a traducirlo de manera adecuada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -97,8 +103,11 @@
   },
   "es_definitions": [
     "\"Caranx ruber\": especie de pez cojinúa comestible y abundante en la costa de Aguadilla.",
-    "La ave Julián Chiví es una ave pequeña."
+    "Ave pequeñita cuyo nombre completo es Julián Chiví."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Caranx ruber: species of edible cojinúa fish abundant in the coast of Aguadilla.",
+    "Small bird whose full name is Julián Chiví.\n\nNota: No hay información disponible sobre una ave con el nombre de \"Julián Chiví\", por lo que es posible que se trate de un término humorístico o ficticio. Si tienes más contexto, estaré encantado de ayudarte a traducirlo de manera adecuada."
+  ],
   "source": "https://tesoro.pr"
 }

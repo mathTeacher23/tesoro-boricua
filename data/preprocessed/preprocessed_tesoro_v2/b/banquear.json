@@ -3,15 +3,18 @@
   "term": "banquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Preparar el terreno para el cultivo, haciendo zanjas y levantando simultáneamente los bancos.",
+      "consolidated_definition": "Preparar alguien un terreno para el cultivo haciendo zanjas y bancos.",
+      "en_consolidated_definition": "Prepare the land for cultivation by digging trenches and banks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.6449",
-        "semantic_similarity_score": 0.6449,
-        "cluster_count": 7,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -63,26 +66,23 @@
           "banqueo"
         ],
         "reference_definitions": [
-          "(jíbaro) Preparar el terreno para el cultivo haciendo zanjas y levantando al mismo tiempo los bancos.",
-          "Hacer las calles en la pieza de caña o en la tala para luego sembrar. También, alinear la paja de la caña. “Para un resiembro hay que banquear”, dice el campesino.",
-          "Preparar el terreno zanjeándolo o surcándolo para formar los bancos.",
-          "Preparación del terreno para siembra haciendo zanjas y levantando bancos.",
-          "Preparar el terreno con el arado para el cultivo, haciendo los surcos y levantando a la vez los bancos.",
-          "Preparar alguien un terreno para el cultivo haciendo zanjas y bancos.",
-          "Alinear alguien la paja de la caña."
+          "Preparar alguien un terreno para el cultivo haciendo zanjas y bancos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "La persona que ejerce las funciones de un banquero en el juego de naipes o de dados.",
+      "consolidated_definition": "En el juego de naipes, hacer alguien de banquero.",
+      "en_consolidated_definition": "To make someone the banker in a card game.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4654",
-        "semantic_similarity_score": 0.4654,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -114,23 +114,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hacer de banquero en el juego de naipes o de dados.",
-          "Respaldar. Garantizar.",
-          "Cometer fraude de los fondos que se le confían a una persona. Desfalcar.",
           "En el juego de naipes, hacer alguien de banquero."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "En el juego de billar, \"dar con el mingo\" es un movimiento que consiste en hacer que la bola deseada rebote contra una banda para introducirse en la tronera de la banda opuesta.",
+      "consolidated_definition": "En el juego de billar, dar con el mingo a la bola deseada para que esta rebote contra una banda y se meta en la tronera de la banda opuesta.",
+      "en_consolidated_definition": "In the game of pool, to strike the cue ball so that it hits the object ball desired and rebounds against a rail, entering the pocket of the opposite rail.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -160,10 +160,14 @@
     }
   },
   "es_definitions": [
-    "Preparar el terreno para el cultivo, haciendo zanjas y levantando simultáneamente los bancos.",
-    "La persona que ejerce las funciones de un banquero en el juego de naipes o de dados.",
-    "En el juego de billar, \"dar con el mingo\" es un movimiento que consiste en hacer que la bola deseada rebote contra una banda para introducirse en la tronera de la banda opuesta."
+    "Preparar alguien un terreno para el cultivo haciendo zanjas y bancos.",
+    "En el juego de naipes, hacer alguien de banquero.",
+    "En el juego de billar, dar con el mingo a la bola deseada para que esta rebote contra una banda y se meta en la tronera de la banda opuesta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Prepare the land for cultivation by digging trenches and banks.",
+    "To make someone the banker in a card game.",
+    "In the game of pool, to strike the cue ball so that it hits the object ball desired and rebounds against a rail, entering the pocket of the opposite rail."
+  ],
   "source": "https://tesoro.pr"
 }

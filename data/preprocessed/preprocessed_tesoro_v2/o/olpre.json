@@ -3,9 +3,12 @@
   "term": "olpre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la elaboración del azúcar",
+      "consolidated_definition": "En la elaboración del azúcar, muestra que se toma en los viejos preevaporadores.",
+      "en_consolidated_definition": "In the production of sugar, indicates that it is taken in old pre-evaporators.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En la elaboración del azúcar"
+    "En la elaboración del azúcar, muestra que se toma en los viejos preevaporadores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the production of sugar, indicates that it is taken in old pre-evaporators."
+  ],
   "source": "https://tesoro.pr"
 }

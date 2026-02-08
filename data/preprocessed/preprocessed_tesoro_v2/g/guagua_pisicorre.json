@@ -3,9 +3,12 @@
   "term": "guagua pisicorre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Autobús interurbano",
+      "consolidated_definition": "Autobús interurbano. También pisicorre, station wagon, Volkswagen.",
+      "en_consolidated_definition": "Interurban bus. Also known as station wagon or Volkswagen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Autobús interurbano"
+    "Autobús interurbano. También pisicorre, station wagon, Volkswagen."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Interurban bus. Also known as station wagon or Volkswagen."
+  ],
   "source": "https://tesoro.pr"
 }

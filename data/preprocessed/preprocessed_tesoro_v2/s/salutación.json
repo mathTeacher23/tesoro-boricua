@@ -3,9 +3,12 @@
   "term": "salutación",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Felicitación",
+      "consolidated_definition": "Felicitación. Congratulación.",
+      "en_consolidated_definition": "Congratulation. Expression of good wishes or praise on a special occasion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Felicitación"
+    "Felicitación. Congratulación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Congratulation. Expression of good wishes or praise on a special occasion."
+  ],
   "source": "https://tesoro.pr"
 }

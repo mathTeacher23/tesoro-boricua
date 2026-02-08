@@ -3,9 +3,12 @@
   "term": "fijo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tornillo corto de cabeza de igual diámetro",
+      "consolidated_definition": "Tornillo corto de cabeza de igual diámetro, ranurada, usado para fijar ruedas o poleas a su eje.",
+      "en_consolidated_definition": "Short bolt with a head of equal diameter, grooved, used to secure wheels or pulleys to their axle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Tornillo corto de cabeza de igual diámetro"
+    "Tornillo corto de cabeza de igual diámetro, ranurada, usado para fijar ruedas o poleas a su eje."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Short bolt with a head of equal diameter, grooved, used to secure wheels or pulleys to their axle."
+  ],
   "source": "https://tesoro.pr"
 }

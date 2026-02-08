@@ -3,15 +3,18 @@
   "term": "fil",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fondo del campo de béisbol",
+      "consolidated_definition": "Área del campo de béisbol ubicada más alejada del home plate.",
+      "en_consolidated_definition": "Area of the baseball field located farthest from home plate.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4154",
         "semantic_similarity_score": 0.4154,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Fondo del campo de béisbol"
+    "Área del campo de béisbol ubicada más alejada del home plate."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area of the baseball field located farthest from home plate."
+  ],
   "source": "https://tesoro.pr"
 }

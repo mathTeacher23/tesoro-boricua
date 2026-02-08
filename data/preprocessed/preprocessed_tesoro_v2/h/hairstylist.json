@@ -3,9 +3,12 @@
   "term": "hairstylist",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Estilista",
+      "consolidated_definition": "Estilista, peluquero, beautician.",
+      "en_consolidated_definition": "Hairstylist, barber, beautician.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Estilista"
+    "Estilista, peluquero, beautician."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Hairstylist, barber, beautician."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "estaquillado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Procedimiento rústico para asegurar los tacones del calzado",
+      "consolidated_definition": "Procedimiento rústico para asegurar los tacones del calzado.",
+      "en_consolidated_definition": "Rustic procedure for securing the heels of footwear.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Procedimiento rústico para asegurar los tacones del calzado"
+    "Procedimiento rústico para asegurar los tacones del calzado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rustic procedure for securing the heels of footwear."
+  ],
   "source": "https://tesoro.pr"
 }

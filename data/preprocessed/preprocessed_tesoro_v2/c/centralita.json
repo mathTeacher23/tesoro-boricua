@@ -3,15 +3,18 @@
   "term": "centralita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pequeño ingenio azucarero: objeto pequeño utilizado para medir y dispensar azúcar en la mesa.",
+      "consolidated_definition": "Pequeño ingenio azucarero.",
+      "en_consolidated_definition": "Small sugar refinery.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -43,15 +46,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Vulva de prostituta: Zona genital externa femenina.",
+      "consolidated_definition": "Vulva de prostituta.",
+      "en_consolidated_definition": "Prostitute's vulva.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "Pequeño ingenio azucarero: objeto pequeño utilizado para medir y dispensar azúcar en la mesa.",
-    "Vulva de prostituta: Zona genital externa femenina."
+    "Pequeño ingenio azucarero.",
+    "Vulva de prostituta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small sugar refinery.",
+    "Prostitute's vulva."
+  ],
   "source": "https://tesoro.pr"
 }

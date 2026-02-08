@@ -3,15 +3,18 @@
   "term": "recao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de ingredientes vegetales para condimentar las comidas",
+      "consolidated_definition": "Conjunto de ingredientes vegetales para condimentar comidas.",
+      "en_consolidated_definition": "Conjunto de ingredientes vegetales para condimentar comidas.\n\nTranslation:\nCollection of plant-based ingredients for seasoning meals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6601",
-        "semantic_similarity_score": 0.6601,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6609",
+        "semantic_similarity_score": 0.6609,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -49,7 +52,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Conjunto de ingredientes vegetales para condimentar las comidas, como cilantro, cilantrillo, ají.",
+          "(general) Conjunto de ingredientes vegetales para condimentar las comidas, como cilantro, cilantrillo, ají.",
           "Ingredientes que se le añaden a la comida para aumentar su poder alimenticio y para darle mejor gusto. Por ejemplo: tomates, pimientos, ajos, cebollas, etc.",
           "Conjunto de yerbas para condimentar comidas.",
           "Conjunto de condimentos para comidas."
@@ -58,8 +61,10 @@
     }
   },
   "es_definitions": [
-    "Conjunto de ingredientes vegetales para condimentar las comidas"
+    "Conjunto de ingredientes vegetales para condimentar comidas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conjunto de ingredientes vegetales para condimentar comidas.\n\nTranslation:\nCollection of plant-based ingredients for seasoning meals."
+  ],
   "source": "https://tesoro.pr"
 }

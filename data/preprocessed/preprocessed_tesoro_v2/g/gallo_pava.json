@@ -3,9 +3,12 @@
   "term": "gallo pava",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo de cresta de escaso crecimiento",
+      "consolidated_definition": "Gallo de cresta de escaso crecimiento.",
+      "en_consolidated_definition": "Crested cockerel with limited growth.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "com",
+      "consolidated_definition": "com. Se dice de la persona que sobresale en algo. “Ese sí que es orador... -No, don Gaspar... porque ¿adónde me deja el pitirre de Ponce y el gallo pava?” Meléndez Muñoz, Lecturas..., 1919, p. 159.",
+      "en_consolidated_definition": "Person who excels in something. \"That's a true orator... -No, Don Gaspar... because where does the Ponce pitirre and the rooster pava leave me?\" Meléndez Muñoz, Lecturas..., 1919, p. 159.\n\nNota: \n- El término \"pitirre\" se refiere a un tipo de ave que es común en Puerto Rico y se utiliza como sinónimo de \"gallo\".\n- El término \"gallo pava\" también se refiere a una variedad de gallo que es originaria de la isla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Gallo de cresta de escaso crecimiento",
-    "com"
+    "Gallo de cresta de escaso crecimiento.",
+    "com. Se dice de la persona que sobresale en algo. “Ese sí que es orador... -No, don Gaspar... porque ¿adónde me deja el pitirre de Ponce y el gallo pava?” Meléndez Muñoz, Lecturas..., 1919, p. 159."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Crested cockerel with limited growth.",
+    "Person who excels in something. \"That's a true orator... -No, Don Gaspar... because where does the Ponce pitirre and the rooster pava leave me?\" Meléndez Muñoz, Lecturas..., 1919, p. 159.\n\nNota: \n- El término \"pitirre\" se refiere a un tipo de ave que es común en Puerto Rico y se utiliza como sinónimo de \"gallo\".\n- El término \"gallo pava\" también se refiere a una variedad de gallo que es originaria de la isla."
+  ],
   "source": "https://tesoro.pr"
 }

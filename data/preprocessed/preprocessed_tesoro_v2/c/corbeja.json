@@ -3,15 +3,18 @@
   "term": "corbeja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pelo largo que se encuentra en la zona circundante a las orejas o el cogote.",
+      "consolidated_definition": "Pelo largo, especialmente alrededor de las orejas o del cogote.",
+      "en_consolidated_definition": "Long hair, especially around the ears or nape of the neck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Prostituta: Persona que se dedica a la prostitución, es decir, a ofrecer servicios sexuales a cambio de dinero o otros beneficios.",
+      "consolidated_definition": "Prostituta.",
+      "en_consolidated_definition": "Sex worker \n\nNota: En algunos contextos, esta traducción puede variar dependiendo del tono y el registro deseado. Sin embargo, en un diccionario formal y académico, \"sex worker\" es una opción comúnmente aceptada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Pelo largo que se encuentra en la zona circundante a las orejas o el cogote.",
-    "Prostituta: Persona que se dedica a la prostitución, es decir, a ofrecer servicios sexuales a cambio de dinero o otros beneficios."
+    "Pelo largo, especialmente alrededor de las orejas o del cogote.",
+    "Prostituta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Long hair, especially around the ears or nape of the neck.",
+    "Sex worker \n\nNota: En algunos contextos, esta traducción puede variar dependiendo del tono y el registro deseado. Sin embargo, en un diccionario formal y académico, \"sex worker\" es una opción comúnmente aceptada."
+  ],
   "source": "https://tesoro.pr"
 }

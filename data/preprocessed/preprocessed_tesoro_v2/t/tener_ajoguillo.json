@@ -3,9 +3,12 @@
   "term": "tener ajoguillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sufrir un ataque de asma",
+      "consolidated_definition": "Sufrir un ataque de asma.",
+      "en_consolidated_definition": "To experience an asthma attack.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Sufrir un ataque de asma"
+    "Sufrir un ataque de asma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To experience an asthma attack."
+  ],
   "source": "https://tesoro.pr"
 }

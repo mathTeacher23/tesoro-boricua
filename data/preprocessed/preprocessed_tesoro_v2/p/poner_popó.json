@@ -3,9 +3,12 @@
   "term": "poner popó",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vestirse elegantemente",
+      "consolidated_definition": "Vestirse elegantemente.",
+      "en_consolidated_definition": "Dress elegantly.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Vestirse elegantemente"
+    "Vestirse elegantemente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dress elegantly."
+  ],
   "source": "https://tesoro.pr"
 }

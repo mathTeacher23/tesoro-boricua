@@ -3,9 +3,12 @@
   "term": "girotiro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Máquina que se emplea en la industria de, relacionado con un mecanismo",
+      "consolidated_definition": "Máquina que se emplea en la industria de la caña.",
+      "en_consolidated_definition": "Sugar cane machine used in the sugar industry.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Máquina que se emplea en la industria de, relacionado con un mecanismo"
+    "Máquina que se emplea en la industria de la caña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sugar cane machine used in the sugar industry."
+  ],
   "source": "https://tesoro.pr"
 }

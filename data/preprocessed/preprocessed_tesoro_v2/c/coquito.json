@@ -3,15 +3,18 @@
   "term": "coquito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de turrón hecho a base de leche de coco con azúcar, formado en barras.",
+      "consolidated_definition": "Dulce pequeño en forma de bola hecho con coco rallado bañado en caramelo.",
+      "en_consolidated_definition": "Small sweet ball made with shredded coconut coated in caramel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4285",
-        "semantic_similarity_score": 0.4285,
-        "cluster_count": 6,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,19 +61,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Especie de turrón hecho a base de leche de coco con azúcar, en forma de barras.",
-          "Turrón dulce.",
-          "Mamplé.",
-          "Dulce hecho con leche de coco y azúcar.",
-          "Turrón de leche de coco, con coco, azúcar, ron, leche y huevos.",
           "Dulce pequeño en forma de bola hecho con coco rallado bañado en caramelo."
         ]
       }
     },
     "2": {
       "consolidated_definition": "Coquí, planta: especie vegetal del género Eleutherococcus o Podocarpus, comúnmente asociada con Puerto Rico.",
+      "en_consolidated_definition": "Coquí, plant: species of the genus Eleutherococcus or Podocarpus, commonly associated with Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -110,15 +111,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Bebida hecha a base de coco es un líquido consumible obtenido a partir del jugo o leche de coco, que puede ser mezclado con otros ingredientes para crear variaciones como ron curado en un coco seco, una bebida típica navideña con leche de coco y ron, o una preparación tradicional navideña hecha con leche de coco, ron, huevos, azúcar y canela.",
+      "consolidated_definition": "Bebida preparada con leche de coco, ron, huevos, azúcar y canela, típica de la época navideña.",
+      "en_consolidated_definition": "Beverage prepared with coconut milk, rum, eggs, sugar, and cinnamon, characteristic of the Christmas season.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.6341",
-        "semantic_similarity_score": 0.6341,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -163,20 +167,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bebida hecha a base de coco.",
-          "Ron caña curado en un coco seco.",
-          "Bebida hecha con leche de coco, huevos, limón, ron, azúcar y canela.",
-          ". Bebida típica navideña, cuyos ingredientes básicos son leche de coco y ron.",
           "Bebida preparada con leche de coco, ron, huevos, azúcar y canela, típica de la época navideña."
         ]
       }
     }
   },
   "es_definitions": [
-    "Especie de turrón hecho a base de leche de coco con azúcar, formado en barras.",
+    "Dulce pequeño en forma de bola hecho con coco rallado bañado en caramelo.",
     "Coquí, planta: especie vegetal del género Eleutherococcus o Podocarpus, comúnmente asociada con Puerto Rico.",
-    "Bebida hecha a base de coco es un líquido consumible obtenido a partir del jugo o leche de coco, que puede ser mezclado con otros ingredientes para crear variaciones como ron curado en un coco seco, una bebida típica navideña con leche de coco y ron, o una preparación tradicional navideña hecha con leche de coco, ron, huevos, azúcar y canela."
+    "Bebida preparada con leche de coco, ron, huevos, azúcar y canela, típica de la época navideña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small sweet ball made with shredded coconut coated in caramel.",
+    "Coquí, plant: species of the genus Eleutherococcus or Podocarpus, commonly associated with Puerto Rico.",
+    "Beverage prepared with coconut milk, rum, eggs, sugar, and cinnamon, characteristic of the Christmas season."
+  ],
   "source": "https://tesoro.pr"
 }

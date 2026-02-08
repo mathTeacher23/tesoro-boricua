@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "\"Stahl\": arbusto que produce flores grandes y amarillas.",
+      "en_consolidated_definition": "Stahl: a shrub that produces large and yellow flowers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
@@ -63,15 +66,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Ave criolla cantora de pequeño tamaño, de color amarillo brillante con manchitas verde oliva, común en las selvas de América del Sur. (Dendroica petechia, también conocida como Tanagra solateri).",
+      "consolidated_definition": "Ave criolla cantora de pequeño tamaño, de color amarillo brillante con manchitas verde oliva. Parulidae; Dendroica petechia.",
+      "en_consolidated_definition": "Bird species native to the island, a small songbird with bright yellow plumage and olive green spots.\n\nClassification: Parulidae; Dendroica petechia.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.3376",
-        "semantic_similarity_score": 0.3376,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -114,24 +120,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Avecilla criolla parecida a la europea. (Tanagra solateri, Sundewall; Dendroica petechia, Stahl). Stahl, Catalogue, 59. “Canarios de un oro tenue —salpican las verdes selvas.” E. Rivera Chevremont, Sinfonía en amarillo, 1933.",
-          "Pájaro.",
-          "Ave amarilla que canta muy bonito. Puede ser también de otros colores.",
-          "Ave.",
           "Ave criolla cantora de pequeño tamaño, de color amarillo brillante con manchitas verde oliva. Parulidae; Dendroica petechia."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Equino de color amarillento.",
+      "consolidated_definition": "Caballo de color amarillo.",
+      "en_consolidated_definition": "Yellow horse.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -159,21 +164,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Caballo de color amarillo.",
           "Caballo de color amarillo."
         ]
       }
     },
     "4": {
       "consolidated_definition": "Color amarillento.",
+      "en_consolidated_definition": "Yellowish color.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -201,15 +208,18 @@
       }
     },
     "5": {
-      "consolidated_definition": "El pez ronco es un miembro de la familia Pomadasyidae, Anisotremus virginicus.",
+      "consolidated_definition": "Pez de la familia Pomadasyidae (roncos). Anisotremus virginicus.",
+      "en_consolidated_definition": "Fish of the family Pomadasyidae (drumfish). Anisotremus virginicus.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -239,11 +249,17 @@
   },
   "es_definitions": [
     "\"Stahl\": arbusto que produce flores grandes y amarillas.",
-    "Ave criolla cantora de pequeño tamaño, de color amarillo brillante con manchitas verde oliva, común en las selvas de América del Sur. (Dendroica petechia, también conocida como Tanagra solateri).",
-    "Equino de color amarillento.",
+    "Ave criolla cantora de pequeño tamaño, de color amarillo brillante con manchitas verde oliva. Parulidae; Dendroica petechia.",
+    "Caballo de color amarillo.",
     "Color amarillento.",
-    "El pez ronco es un miembro de la familia Pomadasyidae, Anisotremus virginicus."
+    "Pez de la familia Pomadasyidae (roncos). Anisotremus virginicus."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Stahl: a shrub that produces large and yellow flowers.",
+    "Bird species native to the island, a small songbird with bright yellow plumage and olive green spots.\n\nClassification: Parulidae; Dendroica petechia.",
+    "Yellow horse.",
+    "Yellowish color.",
+    "Fish of the family Pomadasyidae (drumfish). Anisotremus virginicus."
+  ],
   "source": "https://tesoro.pr"
 }

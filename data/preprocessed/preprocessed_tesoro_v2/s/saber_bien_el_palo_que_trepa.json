@@ -3,9 +3,12 @@
   "term": "saber bien el palo que trepa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Saber alguien con quién se mete",
+      "consolidated_definition": "Saber alguien con quién se mete.",
+      "en_consolidated_definition": "Conocer a quién alguien se relaciona o asocia.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Saber alguien con quién se mete"
+    "Saber alguien con quién se mete."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conocer a quién alguien se relaciona o asocia."
+  ],
   "source": "https://tesoro.pr"
 }

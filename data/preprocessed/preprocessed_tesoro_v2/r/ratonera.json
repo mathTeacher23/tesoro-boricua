@@ -3,14 +3,17 @@
   "term": "ratonera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Tienda de una central azucarera o hacienda donde los obreros hacen sus compras.",
+      "en_consolidated_definition": "Store of a sugar refinery or estate where workers make their purchases.\n\nNota: En este caso, \"central azucarera\" se traduce como \"sugar refinery\", y \"hacienda\" se mantiene en su forma original ya que es un término cultural específico de Puerto Rico que se refiere a una gran propiedad rural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.438",
-        "semantic_similarity_score": 0.438,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,22 +49,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg. . Ventorrillo, tenducho.",
-          "Tienda de una hacienda donde se obliga a los peones a gastar su jornal.",
-          "Tienda de central azucarera o de hacienda, donde los obreros hacen sus compras y pagan con vales que les dan en pago de los salarios.",
           "Tienda de una central azucarera o hacienda donde los obreros hacen sus compras."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Institución de rehabilitación, relacionado con una organización",
+      "consolidated_definition": "Institución de rehabilitación de delincuentes.",
+      "en_consolidated_definition": "Rehabilitation institution for offenders.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.907",
-        "semantic_similarity_score": 0.907,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -90,15 +93,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Institución de rehabilitación .",
           "Institución de rehabilitación de delincuentes."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Lugar bien protegido",
+      "consolidated_definition": "Lugar bien protegido, vigilado o con alarmas, difícil de robar.",
+      "en_consolidated_definition": "Lugar bien protegido, vigilado o con alarmas, difícil de robar.\n\nSecure location, closely monitored or equipped with alarms, resistant to theft.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -135,10 +140,14 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    "Institución de rehabilitación, relacionado con una organización",
-    "Lugar bien protegido"
+    "Tienda de una central azucarera o hacienda donde los obreros hacen sus compras.",
+    "Institución de rehabilitación de delincuentes.",
+    "Lugar bien protegido, vigilado o con alarmas, difícil de robar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Store of a sugar refinery or estate where workers make their purchases.\n\nNota: En este caso, \"central azucarera\" se traduce como \"sugar refinery\", y \"hacienda\" se mantiene en su forma original ya que es un término cultural específico de Puerto Rico que se refiere a una gran propiedad rural.",
+    "Rehabilitation institution for offenders.",
+    "Lugar bien protegido, vigilado o con alarmas, difícil de robar.\n\nSecure location, closely monitored or equipped with alarms, resistant to theft."
+  ],
   "source": "https://tesoro.pr"
 }

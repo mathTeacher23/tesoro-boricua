@@ -3,15 +3,18 @@
   "term": "malungo, ga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice del gallo o gallina grande",
+      "consolidated_definition": "Se dice del gallo o gallina grande.",
+      "en_consolidated_definition": "Large rooster or hen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.7775",
-        "semantic_similarity_score": 0.7775,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.77",
+        "semantic_similarity_score": 0.77,
+        "cluster_count": 5,
         "grammar": [
           "adjetivo"
         ],
@@ -52,16 +55,19 @@
         "reference_definitions": [
           "Se dice del gallo o gallina grande.",
           "Se dice del gallo o gallina grande. Es voz rural hoy apenas usada.",
-          "Se dice manilo, la, e igualmente malungo, ga, del gallo o gallina grande.",
+          "Se dice manilo, la, e igualmente … malungo, ga, del gallo o gallina grande.",
           "Gallo o gallina grande. Mafolongo.",
           "Dícese del gallo o gallina muy grande que no sirve para peleas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, que tiene conocimientos muy limitados y cualidades poco sobresalientes.",
+      "en_consolidated_definition": "Referido a persona que tiene conocimientos muy limitados y cualidades poco destacadas.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -95,9 +101,12 @@
     }
   },
   "es_definitions": [
-    "Se dice del gallo o gallina grande",
-    "Referido a persona"
+    "Se dice del gallo o gallina grande.",
+    "Referido a persona, que tiene conocimientos muy limitados y cualidades poco sobresalientes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large rooster or hen.",
+    "Referido a persona que tiene conocimientos muy limitados y cualidades poco destacadas.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

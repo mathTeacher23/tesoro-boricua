@@ -3,9 +3,12 @@
   "term": "término",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada en las fondas y cafeterías para",
+      "consolidated_definition": "Voz usada en las fondas y cafeterías para describir el café con leche no muy oscuro. Café término.",
+      "en_consolidated_definition": "Coffee term used in diners and cafes to describe coffee with milk that is not very dark.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Voz usada en las fondas y cafeterías para"
+    "Voz usada en las fondas y cafeterías para describir el café con leche no muy oscuro. Café término."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coffee term used in diners and cafes to describe coffee with milk that is not very dark."
+  ],
   "source": "https://tesoro.pr"
 }

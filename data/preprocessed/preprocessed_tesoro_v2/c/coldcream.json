@@ -3,15 +3,18 @@
   "term": "coldcream",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La crema facial es un producto cosmético que se aplica sobre la piel del rostro.",
+      "consolidated_definition": "Crema facial.",
+      "en_consolidated_definition": "Facial cream.\n\nNota: En algunos contextos, se refiere a una crema facial específica utilizada en Puerto Rico, conocida como \"crema de aloe vera\" o \"crema para la piel sensible\", pero esta traducción general se aplica a cualquier tipo de crema facial.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La crema facial es un producto cosmético que se aplica sobre la piel del rostro."
+    "Crema facial."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Facial cream.\n\nNota: En algunos contextos, se refiere a una crema facial específica utilizada en Puerto Rico, conocida como \"crema de aloe vera\" o \"crema para la piel sensible\", pero esta traducción general se aplica a cualquier tipo de crema facial."
+  ],
   "source": "https://tesoro.pr"
 }

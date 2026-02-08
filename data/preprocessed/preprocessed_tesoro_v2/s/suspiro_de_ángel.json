@@ -3,9 +3,12 @@
   "term": "suspiro de ángel",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Golosina hecha con yema de huevo y azúcar",
+      "consolidated_definition": "Golosina hecha con yema de huevo y azúcar. Yemitas.",
+      "en_consolidated_definition": "Egg yolk confection made with egg yolks and sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Golosina hecha con yema de huevo y azúcar"
+    "Golosina hecha con yema de huevo y azúcar. Yemitas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Egg yolk confection made with egg yolks and sugar."
+  ],
   "source": "https://tesoro.pr"
 }

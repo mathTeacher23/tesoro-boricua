@@ -4,14 +4,17 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Día en que niños y jóvenes no tienen la obligación de ir al colegio con uniforme.",
+      "en_consolidated_definition": "Day when children and young people are not required to attend school in uniform.\n\nNota: En este contexto, \"uniforme\" se refiere a la vestimenta obligatoria en las escuelas de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4693",
-        "semantic_similarity_score": 0.4693,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -41,7 +44,6 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Día en que, para recaudar fondos, los discípulos o maestros pagan por ir a la escuela vestidos con ropa informal. Anglicismo crudo, frecuente. La misma tarde en que tuvieron su primer casual day compartieron en una actividad de confraternización junto a otros compañeros de la empresa (Boletín de la Empacadora Hill Brothers, octubre 2004)",
           "Día en que niños y jóvenes no tienen la obligación de ir al colegio con uniforme."
         ]
       }
@@ -50,6 +52,8 @@
   "es_definitions": [
     "Día en que niños y jóvenes no tienen la obligación de ir al colegio con uniforme."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Day when children and young people are not required to attend school in uniform.\n\nNota: En este contexto, \"uniforme\" se refiere a la vestimenta obligatoria en las escuelas de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

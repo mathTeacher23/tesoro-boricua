@@ -3,9 +3,12 @@
   "term": "tienda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mercado pequeño en el campo",
+      "consolidated_definition": "Mercado pequeño en el campo.",
+      "en_consolidated_definition": "Small market in the field.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mercado pequeño en el campo"
+    "Mercado pequeño en el campo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small market in the field."
+  ],
   "source": "https://tesoro.pr"
 }

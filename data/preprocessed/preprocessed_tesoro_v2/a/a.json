@@ -3,15 +3,18 @@
   "term": "a",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nota o calificación académica máxima equivalente a un sistema numérico entre 3.5 y 4.0, que se traduce en 90-100 puntos.",
+      "consolidated_definition": "Calificación académica máxima.",
+      "en_consolidated_definition": "Académico supremo o máximo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3898",
-        "semantic_similarity_score": 0.3898,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,15 +45,16 @@
           "A+"
         ],
         "reference_definitions": [
-          "Símbolo de la calificación recibida en un curso, examen o cualquier otro tipo de trabajo cuyo valor en términos numéricos oscila entre 3.5 y 4.0, ó entre 90 y 100. Siempre pronunciado en español. Anglicismo adaptado, usual. El sistema de calificaciones de la Universidad de Puerto Rico en Cayey es el siguiente: A-Sobresaliente; B-Bueno; C-Satisfactorio; D-Aprobado (UPR, Cayey, consultado 27- 07-08)",
           "Calificación académica máxima."
         ]
       }
     }
   },
   "es_definitions": [
-    "Nota o calificación académica máxima equivalente a un sistema numérico entre 3.5 y 4.0, que se traduce en 90-100 puntos."
+    "Calificación académica máxima."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Académico supremo o máximo."
+  ],
   "source": "https://tesoro.pr"
 }

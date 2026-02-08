@@ -3,9 +3,12 @@
   "term": "gozadera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Diversión intensa",
+      "consolidated_definition": "Diversión intensa, jolgorio.",
+      "en_consolidated_definition": "Intense merriment, revelry.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Diversión intensa"
+    "Diversión intensa, jolgorio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Intense merriment, revelry."
+  ],
   "source": "https://tesoro.pr"
 }

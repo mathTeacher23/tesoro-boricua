@@ -3,9 +3,12 @@
   "term": "renglón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cada uno de los artículos a vender en",
+      "consolidated_definition": "Cada uno de los artículos a vender en una tienda. Artículo de comercio.",
+      "en_consolidated_definition": "Each one of the items to be sold in a store. Merchandise article.\n\nNota: En este contexto, \"artículo de comercio\" se refiere a un término genérico que puede ser utilizado en diferentes países y culturas. Sin embargo, si se tratara de una definición específica relacionada con la cultura puertorriqueña, como por ejemplo \"artículo de tienda\" o \"mercancía\", podría requerir una traducción más precisa y contextualizada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cada uno de los artículos a vender en"
+    "Cada uno de los artículos a vender en una tienda. Artículo de comercio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Each one of the items to be sold in a store. Merchandise article.\n\nNota: En este contexto, \"artículo de comercio\" se refiere a un término genérico que puede ser utilizado en diferentes países y culturas. Sin embargo, si se tratara de una definición específica relacionada con la cultura puertorriqueña, como por ejemplo \"artículo de tienda\" o \"mercancía\", podría requerir una traducción más precisa y contextualizada."
+  ],
   "source": "https://tesoro.pr"
 }

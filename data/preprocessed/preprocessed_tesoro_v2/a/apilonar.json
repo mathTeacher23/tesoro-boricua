@@ -3,15 +3,18 @@
   "term": "apilonar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empilado o apilar: Colocar objetos en pilas.",
+      "consolidated_definition": "(T. en Col., Cuba, Ecuad. y Méx.). Apilar. “El objeto de esta operación es poner el tabaco en las condiciones necesarias para proceder a su fermentación por medio del empilado o apilonado.” R. C. Aguayo, Manual del cultivo del tabaco, 1884, p. 65. (Úsase en catalán. Alcover y Moll). Empilonar . Apilar.",
+      "en_consolidated_definition": "To pile or stack (in Col., Cuba, Ecuador, and Mexico). \"The purpose of this operation is to place the tobacco in the necessary conditions to proceed with its fermentation through piling or stacking.\" R. C. Aguayo, Manual del cultivo del tabaco, 1884, p. 65. (Used in Catalan; Alcover and Moll). To pile or stack.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pilar, objeto utilizado para moler el café en un pilón.",
+      "consolidated_definition": "Pilar, descascarar o moler el café en un pilón hecho para tal fin.",
+      "en_consolidated_definition": "To grind or crush coffee in a pilón specifically designed for this purpose.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -77,15 +83,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "La acción de reunir varias cosas para formar un conjunto o un todo.",
+      "consolidated_definition": "Reunir alguien cosas formando con ellas pilones o montones.",
+      "en_consolidated_definition": "To heap or pile up things with someone, forming piles or heaps together.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -115,10 +124,14 @@
     }
   },
   "es_definitions": [
-    "Empilado o apilar: Colocar objetos en pilas.",
-    "Pilar, objeto utilizado para moler el café en un pilón.",
-    "La acción de reunir varias cosas para formar un conjunto o un todo."
+    "(T. en Col., Cuba, Ecuad. y Méx.). Apilar. “El objeto de esta operación es poner el tabaco en las condiciones necesarias para proceder a su fermentación por medio del empilado o apilonado.” R. C. Aguayo, Manual del cultivo del tabaco, 1884, p. 65. (Úsase en catalán. Alcover y Moll). Empilonar . Apilar.",
+    "Pilar, descascarar o moler el café en un pilón hecho para tal fin.",
+    "Reunir alguien cosas formando con ellas pilones o montones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To pile or stack (in Col., Cuba, Ecuador, and Mexico). \"The purpose of this operation is to place the tobacco in the necessary conditions to proceed with its fermentation through piling or stacking.\" R. C. Aguayo, Manual del cultivo del tabaco, 1884, p. 65. (Used in Catalan; Alcover and Moll). To pile or stack.",
+    "To grind or crush coffee in a pilón specifically designed for this purpose.",
+    "To heap or pile up things with someone, forming piles or heaps together."
+  ],
   "source": "https://tesoro.pr"
 }

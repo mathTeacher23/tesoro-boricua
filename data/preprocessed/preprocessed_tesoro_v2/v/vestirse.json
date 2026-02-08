@@ -3,9 +3,12 @@
   "term": "vestirse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cambiarse de ropa casera y ponerse ropa de",
+      "consolidated_definition": "Cambiarse de ropa casera y ponerse ropa de salir a la calle.",
+      "en_consolidated_definition": "To change out of casual clothing and put on streetwear.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Cambiarse de ropa casera y ponerse ropa de"
+    "Cambiarse de ropa casera y ponerse ropa de salir a la calle."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To change out of casual clothing and put on streetwear."
+  ],
   "source": "https://tesoro.pr"
 }

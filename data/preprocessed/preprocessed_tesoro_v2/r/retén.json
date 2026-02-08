@@ -3,9 +3,12 @@
   "term": "retén",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Policía que está de guardia en un sitio",
+      "consolidated_definition": "Policía que está de guardia en un sitio fijo.",
+      "en_consolidated_definition": "Officer on duty at a fixed post.\n\nNota: En este contexto, \"post\" se refiere a un lugar fijo de trabajo o responsabilidad, en lugar de una estructura física como una torre de vigilancia.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Policía que está de guardia en un sitio"
+    "Policía que está de guardia en un sitio fijo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Officer on duty at a fixed post.\n\nNota: En este contexto, \"post\" se refiere a un lugar fijo de trabajo o responsabilidad, en lugar de una estructura física como una torre de vigilancia."
+  ],
   "source": "https://tesoro.pr"
 }

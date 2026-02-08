@@ -3,15 +3,18 @@
   "term": "cuadrangular",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Home run\": batazo en el béisbol que permite al jugador anotar carrera al cubrir todas las bases del campo.",
+      "consolidated_definition": "Jonrón, batazo.",
+      "en_consolidated_definition": "Home run, crushing blow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2529",
-        "semantic_similarity_score": 0.2529,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En béisbol, batazo que permite al jugador anotar carrera corriendo las cuatro bases.",
           "Jonrón, batazo."
         ]
       }
     }
   },
   "es_definitions": [
-    "\"Home run\": batazo en el béisbol que permite al jugador anotar carrera al cubrir todas las bases del campo."
+    "Jonrón, batazo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Home run, crushing blow."
+  ],
   "source": "https://tesoro.pr"
 }

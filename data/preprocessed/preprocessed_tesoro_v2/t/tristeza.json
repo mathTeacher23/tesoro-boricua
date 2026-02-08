@@ -3,9 +3,12 @@
   "term": "tristeza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad virosa que le da a algunas cítricas",
+      "consolidated_definition": "Enfermedad virosa que le da a algunas cítricas.",
+      "en_consolidated_definition": "Virus disease that affects certain citrus fruits.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Enfermedad virosa que le da a algunas cítricas"
+    "Enfermedad virosa que le da a algunas cítricas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Virus disease that affects certain citrus fruits."
+  ],
   "source": "https://tesoro.pr"
 }

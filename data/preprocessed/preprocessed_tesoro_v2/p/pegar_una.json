@@ -3,9 +3,12 @@
   "term": "pegar una",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Neg",
+      "consolidated_definition": "Neg: no pegar ni una. “No acertar en nada,” Del Rosario.",
+      "en_consolidated_definition": "No pegar ni una: to fail utterly or completely at anything.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Neg"
+    "Neg: no pegar ni una. “No acertar en nada,” Del Rosario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No pegar ni una: to fail utterly or completely at anything."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "rosario de cruz",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rosario cantado que se celebra anualmente por campos",
+      "consolidated_definition": "Rosario cantado que se celebra anualmente por campos y pueblos para conmemorar la festividad de la Santa Cruz.",
+      "en_consolidated_definition": "Sung Rosary procession held annually in fields and towns to commemorate the feast of the Holy Cross.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Rosario cantado que se celebra anualmente por campos"
+    "Rosario cantado que se celebra anualmente por campos y pueblos para conmemorar la festividad de la Santa Cruz."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sung Rosary procession held annually in fields and towns to commemorate the feast of the Holy Cross."
+  ],
   "source": "https://tesoro.pr"
 }

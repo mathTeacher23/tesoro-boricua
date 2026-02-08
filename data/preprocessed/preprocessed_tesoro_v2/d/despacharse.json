@@ -3,9 +3,12 @@
   "term": "despacharse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comerse el alimento rápidamente",
+      "consolidated_definition": "Comerse el alimento rápidamente.",
+      "en_consolidated_definition": "To consume food hastily.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Comerse el alimento rápidamente"
+    "Comerse el alimento rápidamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To consume food hastily."
+  ],
   "source": "https://tesoro.pr"
 }

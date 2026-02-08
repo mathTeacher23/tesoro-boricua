@@ -3,9 +3,12 @@
   "term": "retorno",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando en los campos se bajaba alguna carga",
+      "consolidated_definition": "Cuando en los campos se bajaba alguna carga en el carro de bueyes por una jalda muy empinada, para evitar que el impulso que tomara el carro obligara a los bueyes a caminar demasiado ligero con el peligro de que pudieran lesionarse o hasta matarse, se usaba otra yunta detrás con una cadena cogida del eje de la carreta. Así esta pareja evitaba que la carreta tomara impulso y defendía la seguridad de los bueyes que iban al frente. A tal acción se la llamaba retorno.",
+      "en_consolidated_definition": "When a load was lowered onto the ox-drawn cart on a very steep incline in the fields, to prevent the cart from gaining momentum and forcing the oxen to walk too quickly with the risk of injury or even death, another yoke was used behind it, secured by a chain attached to the axle of the cart. This pair thus prevented the cart from gaining momentum and safeguarded the safety of the oxen in front. This action was referred to as \"retorno\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Canal pequeño que lleva el bagazo al conductor",
+      "consolidated_definition": "Canal pequeño que lleva el bagazo al conductor general.",
+      "en_consolidated_definition": "Small channel that conveys bagasse to the main conveyor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -80,9 +86,12 @@
     }
   },
   "es_definitions": [
-    "Cuando en los campos se bajaba alguna carga",
-    "Canal pequeño que lleva el bagazo al conductor"
+    "Cuando en los campos se bajaba alguna carga en el carro de bueyes por una jalda muy empinada, para evitar que el impulso que tomara el carro obligara a los bueyes a caminar demasiado ligero con el peligro de que pudieran lesionarse o hasta matarse, se usaba otra yunta detrás con una cadena cogida del eje de la carreta. Así esta pareja evitaba que la carreta tomara impulso y defendía la seguridad de los bueyes que iban al frente. A tal acción se la llamaba retorno.",
+    "Canal pequeño que lleva el bagazo al conductor general."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "When a load was lowered onto the ox-drawn cart on a very steep incline in the fields, to prevent the cart from gaining momentum and forcing the oxen to walk too quickly with the risk of injury or even death, another yoke was used behind it, secured by a chain attached to the axle of the cart. This pair thus prevented the cart from gaining momentum and safeguarded the safety of the oxen in front. This action was referred to as \"retorno\".",
+    "Small channel that conveys bagasse to the main conveyor."
+  ],
   "source": "https://tesoro.pr"
 }

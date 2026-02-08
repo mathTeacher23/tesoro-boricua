@@ -3,9 +3,12 @@
   "term": "sentadilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ejercicio físico que consiste en flexionar las rodillas",
+      "consolidated_definition": "Ejercicio físico que consiste en flexionar las rodillas, sin despegar los pies del suelo y manteniendo la columna recta.",
+      "en_consolidated_definition": "Physical exercise that involves bending the knees without lifting the feet off the ground and maintaining a straight back.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ejercicio físico que consiste en flexionar las rodillas"
+    "Ejercicio físico que consiste en flexionar las rodillas, sin despegar los pies del suelo y manteniendo la columna recta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Physical exercise that involves bending the knees without lifting the feet off the ground and maintaining a straight back."
+  ],
   "source": "https://tesoro.pr"
 }

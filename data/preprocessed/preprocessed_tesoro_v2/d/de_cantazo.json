@@ -3,15 +3,18 @@
   "term": "de cantazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De canto",
+      "consolidated_definition": "Pago al contado. Pago de cantazo.",
+      "en_consolidated_definition": "Cash payment upfront. Down payment.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5651",
         "semantic_similarity_score": 0.5651,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "locución adverbial"
         ],
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "De canto"
+    "Pago al contado. Pago de cantazo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cash payment upfront. Down payment."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "remansar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuando el mar picado comienza a estar tranquilo",
+      "consolidated_definition": "Cuando el mar picado comienza a estar tranquilo.",
+      "en_consolidated_definition": "When the choppy sea begins to calm down.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Cuando el mar picado comienza a estar tranquilo"
+    "Cuando el mar picado comienza a estar tranquilo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "When the choppy sea begins to calm down."
+  ],
   "source": "https://tesoro.pr"
 }

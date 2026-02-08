@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Dinero.",
+      "en_consolidated_definition": "Finanzas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Ver vellocinio\": observar o percibir el objeto de vellocinio.",
+      "consolidated_definition": "Ver vellocinio .",
+      "en_consolidated_definition": "Ver vellocinio.\n\nSe refiere a una persona que se caracteriza por su velocidad y agilidad en el movimiento o en la realización de tareas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -69,8 +75,11 @@
   },
   "es_definitions": [
     "Dinero.",
-    "\"Ver vellocinio\": observar o percibir el objeto de vellocinio."
+    "Ver vellocinio ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Finanzas.",
+    "Ver vellocinio.\n\nSe refiere a una persona que se caracteriza por su velocidad y agilidad en el movimiento o en la realización de tareas."
+  ],
   "source": "https://tesoro.pr"
 }

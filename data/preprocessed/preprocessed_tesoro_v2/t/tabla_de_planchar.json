@@ -3,9 +3,12 @@
   "term": "tabla de planchar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La que se usa para planchar la ropa",
+      "consolidated_definition": "La que se usa para planchar la ropa.",
+      "en_consolidated_definition": "Iron used for ironing clothing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "La que se usa para planchar la ropa"
+    "La que se usa para planchar la ropa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Iron used for ironing clothing."
+  ],
   "source": "https://tesoro.pr"
 }

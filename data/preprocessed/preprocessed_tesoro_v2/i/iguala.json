@@ -3,9 +3,12 @@
   "term": "iguala",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En asuntos ilegales",
+      "consolidated_definition": "En asuntos ilegales, soborno en pagos periódicos.",
+      "en_consolidated_definition": "In illegal matters, periodic bribery in payments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "En asuntos ilegales"
+    "En asuntos ilegales, soborno en pagos periódicos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In illegal matters, periodic bribery in payments."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "agitarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La acción de respirar artificialmente a alguien para mantener la vida pulmonar.",
+      "consolidated_definition": "Respirar una persona con dificultad.",
+      "en_consolidated_definition": "Respirar con dificultad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Molestarse: persona que siente incómodo o irritado por algo o alguien.",
+      "consolidated_definition": "Molestarse, enojarse alguien.",
+      "en_consolidated_definition": "To take umbrage with someone, to become annoyed or irritated with someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -79,15 +85,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Ahitarse. Sustantivo que designa el acto de comer en exceso hasta sentirse indispuesto o experimentar malestar digestivo.",
+      "consolidated_definition": "Ahitarse. Comer hasta padecer indigestión.",
+      "en_consolidated_definition": "To gorge oneself. To eat to the point of suffering from indigestion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo pronominal"
         ],
@@ -117,10 +126,14 @@
     }
   },
   "es_definitions": [
-    "La acción de respirar artificialmente a alguien para mantener la vida pulmonar.",
-    "Molestarse: persona que siente incómodo o irritado por algo o alguien.",
-    "Ahitarse. Sustantivo que designa el acto de comer en exceso hasta sentirse indispuesto o experimentar malestar digestivo."
+    "Respirar una persona con dificultad.",
+    "Molestarse, enojarse alguien.",
+    "Ahitarse. Comer hasta padecer indigestión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Respirar con dificultad.",
+    "To take umbrage with someone, to become annoyed or irritated with someone.",
+    "To gorge oneself. To eat to the point of suffering from indigestion."
+  ],
   "source": "https://tesoro.pr"
 }

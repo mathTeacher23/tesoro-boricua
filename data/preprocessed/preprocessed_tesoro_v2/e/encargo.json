@@ -3,14 +3,17 @@
   "term": "encargo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Embarazo",
+      "consolidated_definition": "Embarazo.",
+      "en_consolidated_definition": "Pregnancy.\n\nNota: En algunos contextos culturales de Puerto Rico, este término puede referirse específicamente a un embarazo durante el cual la madre y el feto están expuestos a factores ambientales o sociales que pueden afectar su salud y bienestar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7596",
-        "semantic_similarity_score": 0.7596,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,22 +49,23 @@
           "encargar"
         ],
         "reference_definitions": [
-          "Embarazo. Es eufemismo.",
-          "Embarazo.",
           "Embarazo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cada uno de los artículos comestibles que se",
+      "consolidated_definition": "Artículos comestibles que se adquieren en un establecimiento comercial especializado en venta de productos frescos.",
+      "en_consolidated_definition": "Edible articles acquired in a commercial establishment specializing in the sale of fresh products.\n\nNota: En este contexto, \"artículos comestibles\" se refiere a productos frescos como frutas y verduras, pero también puede incluir otros alimentos como carnes y pescados. El término \"establecimiento comercial especializado en venta de productos frescos\" se traduce literalmente para mantener la precisión y formalidad del lenguaje.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.67",
         "semantic_similarity_score": 0.67,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -98,9 +102,12 @@
     }
   },
   "es_definitions": [
-    "Embarazo",
-    "Cada uno de los artículos comestibles que se"
+    "Embarazo.",
+    "Artículos comestibles que se adquieren en un establecimiento comercial especializado en venta de productos frescos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pregnancy.\n\nNota: En algunos contextos culturales de Puerto Rico, este término puede referirse específicamente a un embarazo durante el cual la madre y el feto están expuestos a factores ambientales o sociales que pueden afectar su salud y bienestar.",
+    "Edible articles acquired in a commercial establishment specializing in the sale of fresh products.\n\nNota: En este contexto, \"artículos comestibles\" se refiere a productos frescos como frutas y verduras, pero también puede incluir otros alimentos como carnes y pescados. El término \"establecimiento comercial especializado en venta de productos frescos\" se traduce literalmente para mantener la precisión y formalidad del lenguaje."
+  ],
   "source": "https://tesoro.pr"
 }

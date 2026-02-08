@@ -3,9 +3,12 @@
   "term": "fumar hasta el cabo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "‘Soportar hasta lo último’",
+      "consolidated_definition": "‘Soportar hasta lo último’ .",
+      "en_consolidated_definition": "Endure until the very end.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "‘Soportar hasta lo último’"
+    "‘Soportar hasta lo último’ ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Endure until the very end."
+  ],
   "source": "https://tesoro.pr"
 }

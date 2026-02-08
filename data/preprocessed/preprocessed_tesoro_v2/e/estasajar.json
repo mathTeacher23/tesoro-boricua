@@ -3,9 +3,12 @@
   "term": "estasajar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver destasajar",
+      "consolidated_definition": "Ver destasajar .",
+      "en_consolidated_definition": "See destasajar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver destasajar"
+    "Ver destasajar ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See destasajar."
+  ],
   "source": "https://tesoro.pr"
 }

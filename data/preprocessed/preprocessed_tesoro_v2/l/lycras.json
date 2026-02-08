@@ -3,9 +3,12 @@
   "term": "lycras",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pantalón ajustado de fibra sintética elástica",
+      "consolidated_definition": "Pantalón ajustado de fibra sintética elástica.",
+      "en_consolidated_definition": "Synthetically elastic fiber pant leg.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pantalón ajustado de fibra sintética elástica"
+    "Pantalón ajustado de fibra sintética elástica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Synthetically elastic fiber pant leg."
+  ],
   "source": "https://tesoro.pr"
 }

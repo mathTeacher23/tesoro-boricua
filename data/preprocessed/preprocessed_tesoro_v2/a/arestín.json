@@ -3,15 +3,18 @@
   "term": "arestín",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La dermatitis equina es una condición cutánea en caballos caracterizada por una descamación exfoliativa crónica.",
+      "consolidated_definition": "Enfermedad de la piel propia del caballo. Es una especie de caspa que se riega por todo el cuerpo de la bestia.",
+      "en_consolidated_definition": "Skin disease peculiar to horses, characterized by a type of dandruff that affects the entire body of the animal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "La dermatitis equina es una condición cutánea en caballos caracterizada por una descamación exfoliativa crónica."
+    "Enfermedad de la piel propia del caballo. Es una especie de caspa que se riega por todo el cuerpo de la bestia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Skin disease peculiar to horses, characterized by a type of dandruff that affects the entire body of the animal."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "enguaraparse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver aguaraparse",
+      "consolidated_definition": "Ver aguaraparse .",
+      "en_consolidated_definition": "See aguaraparse.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver aguaraparse"
+    "Ver aguaraparse ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See aguaraparse."
+  ],
   "source": "https://tesoro.pr"
 }

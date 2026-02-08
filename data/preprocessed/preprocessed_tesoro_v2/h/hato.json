@@ -3,14 +3,17 @@
   "term": "hato",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Criadero de ganado",
+      "consolidated_definition": "Hacienda de campo, generalmente destinada a la cría de toda clase de ganado, y principalmente del mayor.",
+      "en_consolidated_definition": "Rural estate, generally intended for the breeding of all kinds of livestock, and primarily large cattle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.713",
-        "semantic_similarity_score": 0.713,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Criadero de ganado.",
-          "Granja destinada a la cría de ganado.",
           "Hacienda de campo, generalmente destinada a la cría de toda clase de ganado, y principalmente del mayor."
         ]
       }
     }
   },
   "es_definitions": [
-    "Criadero de ganado"
+    "Hacienda de campo, generalmente destinada a la cría de toda clase de ganado, y principalmente del mayor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rural estate, generally intended for the breeding of all kinds of livestock, and primarily large cattle."
+  ],
   "source": "https://tesoro.pr"
 }

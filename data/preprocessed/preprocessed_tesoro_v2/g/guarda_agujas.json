@@ -3,9 +3,12 @@
   "term": "guarda agujas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver guardagujas",
+      "consolidated_definition": "Ver guardagujas .",
+      "en_consolidated_definition": "See buoys.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver guardagujas"
+    "Ver guardagujas ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See buoys."
+  ],
   "source": "https://tesoro.pr"
 }

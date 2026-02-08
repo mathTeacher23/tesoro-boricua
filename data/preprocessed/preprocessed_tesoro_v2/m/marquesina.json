@@ -3,14 +3,17 @@
   "term": "marquesina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Terraza a la entrada de una casa",
+      "consolidated_definition": "Lugar de una casa destinado a guardar los automóviles.",
+      "en_consolidated_definition": "Garage: A section of a house designed for storing automobiles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3434",
-        "semantic_similarity_score": 0.3434,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Terraza a la entrada de una casa, con o sin techo.",
-          "Garaje.",
           "Lugar de una casa destinado a guardar los automóviles."
         ]
       }
     }
   },
   "es_definitions": [
-    "Terraza a la entrada de una casa"
+    "Lugar de una casa destinado a guardar los automóviles."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Garage: A section of a house designed for storing automobiles."
+  ],
   "source": "https://tesoro.pr"
 }

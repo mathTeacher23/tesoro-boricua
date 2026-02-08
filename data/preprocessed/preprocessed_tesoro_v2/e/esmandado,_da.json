@@ -3,15 +3,18 @@
   "term": "esmandado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Persona que va con rapidez a toda prisa.",
+      "consolidated_definition": "Persona que se desplaza con gran velocidad o precipitación.",
+      "en_consolidated_definition": "Persona que se desplaza con gran velocidad o precipitación.\n\nTranslation:\nPerson who moves with great speed or haste.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4062",
-        "semantic_similarity_score": 0.4062,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.3952",
+        "semantic_similarity_score": 0.3952,
+        "cluster_count": 3,
         "grammar": [
           "adjetivo"
         ],
@@ -47,16 +50,19 @@
           "esmandarse"
         ],
         "reference_definitions": [
-          ". Persona que va con rapidez a toda prisa.",
+          "(general). Persona que va con rapidez a toda prisa.",
           "Dícese de la persona, animal o vehículo que va a gran velocidad.",
           "Ligero."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver desmamoneado",
+      "consolidated_definition": "Ver desmamoneado, da .",
+      "en_consolidated_definition": "To see a desmamoneado, da. \n\nNota: Desmamoneado es un término cultural específico de Puerto Rico que se refiere a una persona que ha sido abandonada por sus padres o cuidadores desde muy joven y ha tenido que criar a sí misma.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,9 +83,12 @@
     }
   },
   "es_definitions": [
-    ". Persona que va con rapidez a toda prisa.",
-    "Ver desmamoneado"
+    "Persona que se desplaza con gran velocidad o precipitación.",
+    "Ver desmamoneado, da ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que se desplaza con gran velocidad o precipitación.\n\nTranslation:\nPerson who moves with great speed or haste.",
+    "To see a desmamoneado, da. \n\nNota: Desmamoneado es un término cultural específico de Puerto Rico que se refiere a una persona que ha sido abandonada por sus padres o cuidadores desde muy joven y ha tenido que criar a sí misma."
+  ],
   "source": "https://tesoro.pr"
 }

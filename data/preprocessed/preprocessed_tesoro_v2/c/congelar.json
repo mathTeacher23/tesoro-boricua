@@ -3,15 +3,18 @@
   "term": "congelar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Congelar\": detener temporalmente o paralizar la ejecución de un proceso o actividad en una computadora.",
+      "consolidated_definition": "inform. Detenerse. Paralizarse una computadora y dejar de ejecutar las instrucciones que se le imparten. Desvío semántico, usual. DRAE 2001: tr. detener un proceso o una actividad por tiempo indefinido. Otro programa, denominado freeze, congela la computadora por un período predeterminado que puede ser hasta de varias horas (Pontificia Universidad Católica, 05-05-03)",
+      "en_consolidated_definition": "To halt or come to a standstill. To paralyze a computer and cease executing the instructions given to it. Semantic diversion, common usage. DRAE 2001: to stop a process or activity indefinitely. Another program, known as freeze, freezes the computer for a predetermined period that can last several hours (Pontificia Universidad Católica, 05-05-03)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "\"Congelar\": detener temporalmente o paralizar la ejecución de un proceso o actividad en una computadora."
+    "inform. Detenerse. Paralizarse una computadora y dejar de ejecutar las instrucciones que se le imparten. Desvío semántico, usual. DRAE 2001: tr. detener un proceso o una actividad por tiempo indefinido. Otro programa, denominado freeze, congela la computadora por un período predeterminado que puede ser hasta de varias horas (Pontificia Universidad Católica, 05-05-03)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To halt or come to a standstill. To paralyze a computer and cease executing the instructions given to it. Semantic diversion, common usage. DRAE 2001: to stop a process or activity indefinitely. Another program, known as freeze, freezes the computer for a predetermined period that can last several hours (Pontificia Universidad Católica, 05-05-03)"
+  ],
   "source": "https://tesoro.pr"
 }

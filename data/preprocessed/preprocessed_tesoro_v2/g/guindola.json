@@ -3,9 +3,12 @@
   "term": "guindola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hamaca ordinaria de tela gruesa",
+      "consolidated_definition": "Hamaca ordinaria de tela gruesa.",
+      "en_consolidated_definition": "Heavy-duty canvas hammock.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Hamaca ordinaria de tela gruesa"
+    "Hamaca ordinaria de tela gruesa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Heavy-duty canvas hammock."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "gorgojo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Insecto",
+      "consolidated_definition": "Insecto. Especie de vaquita, negra. Hay dos variedades: de la caña y del ñame.",
+      "en_consolidated_definition": "Insect. Species of grasshopper, black. There are two varieties: sugarcane and yam.\n\nNota: En este contexto, \"vaquita\" se refiere a una especie de grillo en español puertorriqueño, no al animal marino conocido como vaquita.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Insecto"
+    "Insecto. Especie de vaquita, negra. Hay dos variedades: de la caña y del ñame."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Insect. Species of grasshopper, black. There are two varieties: sugarcane and yam.\n\nNota: En este contexto, \"vaquita\" se refiere a una especie de grillo en español puertorriqueño, no al animal marino conocido como vaquita."
+  ],
   "source": "https://tesoro.pr"
 }

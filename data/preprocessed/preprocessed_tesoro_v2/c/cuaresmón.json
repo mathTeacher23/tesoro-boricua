@@ -3,15 +3,18 @@
   "term": "cuaresmón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aguacero: precipitación atmosférica que no se produce pese a los signos previos en el cielo, especialmente común durante la Cuaresma.",
+      "consolidated_definition": "Aguacero que no llega a producirse, a pesar de los síntomas atmosféricos que lo anuncian; es frecuente durante la Cuaresma.",
+      "en_consolidated_definition": "Precipitación que no se produce a pesar de los síntomas atmosféricos que la anuncian; es frecuente durante la Lent.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Aguacero: precipitación atmosférica que no se produce pese a los signos previos en el cielo, especialmente común durante la Cuaresma."
+    "Aguacero que no llega a producirse, a pesar de los síntomas atmosféricos que lo anuncian; es frecuente durante la Cuaresma."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Precipitación que no se produce a pesar de los síntomas atmosféricos que la anuncian; es frecuente durante la Lent."
+  ],
   "source": "https://tesoro.pr"
 }

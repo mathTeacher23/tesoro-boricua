@@ -3,9 +3,12 @@
   "term": "unidad",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Centro de servicios comunales del gobierno en los",
+      "consolidated_definition": "Centro de servicios comunales del gobierno en los centros residenciales, suburbanos o rurales.",
+      "en_consolidated_definition": "Community Services Center of the government in residential centers, suburban areas or rural regions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Centro de servicios comunales del gobierno en los"
+    "Centro de servicios comunales del gobierno en los centros residenciales, suburbanos o rurales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Community Services Center of the government in residential centers, suburban areas or rural regions."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "rana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Colilla de cigarrillo",
+      "consolidated_definition": "Colilla de cigarrillo de marihuana.",
+      "en_consolidated_definition": "Marijuana cigarette butt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Colilla de cigarrillo ."
+          "Colilla de cigarrillo de marihuana."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Gallo de pata corta",
+      "consolidated_definition": "Gallo de pata corta. También sapo y pato.",
+      "en_consolidated_definition": "Short-legged rooster. Also toad and duck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -75,9 +81,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Pez",
+      "consolidated_definition": "Pez, de la familia Antennariidae (peces ranas). Histrio histrio. También llamado sapo.",
+      "en_consolidated_definition": "Fish of the family Antennariidae (frogfish). Histrio histrio. Also known as sapos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -106,16 +115,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez, de la familia Antennariidae . Histrio histrio. También llamado sapo."
+          "Pez, de la familia Antennariidae (peces ranas). Histrio histrio. También llamado sapo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Colilla de cigarrillo",
-    "Gallo de pata corta",
-    "Pez"
+    "Colilla de cigarrillo de marihuana.",
+    "Gallo de pata corta. También sapo y pato.",
+    "Pez, de la familia Antennariidae (peces ranas). Histrio histrio. También llamado sapo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marijuana cigarette butt.",
+    "Short-legged rooster. Also toad and duck.",
+    "Fish of the family Antennariidae (frogfish). Histrio histrio. Also known as sapos."
+  ],
   "source": "https://tesoro.pr"
 }

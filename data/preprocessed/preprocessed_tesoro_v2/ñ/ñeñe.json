@@ -3,14 +3,17 @@
   "term": "ñeñe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Torpe, de poca inteligencia.",
+      "en_consolidated_definition": "Cretino, de poca inteligencia o capacidad mental.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.3985",
-        "semantic_similarity_score": 0.3985,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -47,17 +50,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "vulg. Mongo, bobo.",
-          "Retardado mental.",
-          "Torpe, de poca inteligencia.",
-          "Referido a persona, retardada mental."
+          "Torpe, de poca inteligencia."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, aniñada.",
+      "en_consolidated_definition": "Referido a persona, infantilizado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -91,9 +94,12 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    "Referido a persona"
+    "Torpe, de poca inteligencia.",
+    "Referido a persona, aniñada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cretino, de poca inteligencia o capacidad mental.",
+    "Referido a persona, infantilizado."
+  ],
   "source": "https://tesoro.pr"
 }

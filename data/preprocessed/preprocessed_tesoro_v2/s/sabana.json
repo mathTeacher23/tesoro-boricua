@@ -3,15 +3,18 @@
   "term": "sabana",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Planicie, llanura. Ac. “Al despuntar la aurora cada mañana —vuela una golondrina por la sabana.” Manuel Padilla Dávila, , p. 26.",
+      "consolidated_definition": "Planicie o llanura: extensión de tierra llana y abierta, cubierta de yerba y con poca arboleda.",
+      "en_consolidated_definition": "Flat or plain area: an expanse of level and open land covered with grass and having sparse tree cover.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
         "num_cleaned_definitions": 7,
         "definition_stability": "Stability: 0.581",
         "semantic_similarity_score": 0.581,
-        "cluster_count": null,
+        "cluster_count": 7,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -78,9 +81,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Además de su acepción general de ‘campiña llana’",
+      "consolidated_definition": "Además de su acepción general de ‘campiña llana’, la sabana es también en la zona de Ponce el nombre de una yerba menuda no aprovechable para pasto.",
+      "en_consolidated_definition": "In addition to its general meaning of 'flat countryside', the savanna is also in the Ponce area the name of a small, unutilizable grass not suitable for pasture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -115,9 +121,12 @@
     }
   },
   "es_definitions": [
-    ". Planicie, llanura. Ac. “Al despuntar la aurora cada mañana —vuela una golondrina por la sabana.” Manuel Padilla Dávila, , p. 26.",
-    "Además de su acepción general de ‘campiña llana’"
+    "Planicie o llanura: extensión de tierra llana y abierta, cubierta de yerba y con poca arboleda.",
+    "Además de su acepción general de ‘campiña llana’, la sabana es también en la zona de Ponce el nombre de una yerba menuda no aprovechable para pasto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Flat or plain area: an expanse of level and open land covered with grass and having sparse tree cover.",
+    "In addition to its general meaning of 'flat countryside', the savanna is also in the Ponce area the name of a small, unutilizable grass not suitable for pasture."
+  ],
   "source": "https://tesoro.pr"
 }

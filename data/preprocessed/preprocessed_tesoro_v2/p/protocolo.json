@@ -3,9 +3,12 @@
   "term": "protocolo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "inform",
+      "consolidated_definition": "inform. Conjunto de reglas estandarizadas que gobiernan el intercambio de datos o la transmisión de ellos a través de canales de comunicación electrónica. Desvío semántico, frecuente. DRAE 2001: plan escrito y detallado de un experimento científico o una operación médica. En específico, cada vez que recibimos una solicitud de protocolo de transmisión de hipertexto (un http request), recolectamos y mantenemos en nuestros archivos la fecha y la hora de la solicitud, la dirección del protocolo de Internet de donde se origina la solicitud, y el objeto de la solicitud en sí (Instituto de Cultura Puertorriqueña, consultado 13-02-08)",
+      "en_consolidated_definition": "Informatics. A standardized set of rules governing the exchange or transmission of data through electronic communication channels. Frequent semantic deviation. DRAE 2001: A written and detailed plan for a scientific experiment or medical operation. Specifically, each time we receive an HTTP request, we collect and store in our archives the date and time of the request, the Internet Protocol address from which the request originates, and the object of the request itself (Institute of Puerto Rican Culture, consulted 02-13-08).\n\nNota: Instituto de Cultura Puertorriqueña se traduce como Institute of Puerto Rican Culture para mantener el contexto cultural específico de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Conjunto de reglas estandarizadas que gobiernan el intercambio de datos o la transmisión de ellos a través de canales de comunicación electrónica. Desvío semántico, frecuente. DRAE 2001: plan escrito y detallado de un experimento científico o una operación médica. En específico, cada vez que recibimos una solicitud de protocolo de transmisión de hipertexto , recolectamos y mantenemos en nuestros archivos la fecha y la hora de la solicitud, la dirección del protocolo de Internet de donde se origina la solicitud, y el objeto de la solicitud en sí"
+          "inform. Conjunto de reglas estandarizadas que gobiernan el intercambio de datos o la transmisión de ellos a través de canales de comunicación electrónica. Desvío semántico, frecuente. DRAE 2001: plan escrito y detallado de un experimento científico o una operación médica. En específico, cada vez que recibimos una solicitud de protocolo de transmisión de hipertexto (un http request), recolectamos y mantenemos en nuestros archivos la fecha y la hora de la solicitud, la dirección del protocolo de Internet de donde se origina la solicitud, y el objeto de la solicitud en sí (Instituto de Cultura Puertorriqueña, consultado 13-02-08)"
         ]
       }
     }
   },
   "es_definitions": [
-    "inform"
+    "inform. Conjunto de reglas estandarizadas que gobiernan el intercambio de datos o la transmisión de ellos a través de canales de comunicación electrónica. Desvío semántico, frecuente. DRAE 2001: plan escrito y detallado de un experimento científico o una operación médica. En específico, cada vez que recibimos una solicitud de protocolo de transmisión de hipertexto (un http request), recolectamos y mantenemos en nuestros archivos la fecha y la hora de la solicitud, la dirección del protocolo de Internet de donde se origina la solicitud, y el objeto de la solicitud en sí (Instituto de Cultura Puertorriqueña, consultado 13-02-08)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Informatics. A standardized set of rules governing the exchange or transmission of data through electronic communication channels. Frequent semantic deviation. DRAE 2001: A written and detailed plan for a scientific experiment or medical operation. Specifically, each time we receive an HTTP request, we collect and store in our archives the date and time of the request, the Internet Protocol address from which the request originates, and the object of the request itself (Institute of Puerto Rican Culture, consulted 02-13-08).\n\nNota: Instituto de Cultura Puertorriqueña se traduce como Institute of Puerto Rican Culture para mantener el contexto cultural específico de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

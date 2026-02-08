@@ -3,14 +3,17 @@
   "term": "finca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se usa para designar cualquier pedazo de tierra",
+      "consolidated_definition": "Recipiente de pequeño tamaño destinado a sembrar marihuana.",
+      "en_consolidated_definition": "Small container designed for planting marijuana.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4875",
-        "semantic_similarity_score": 0.4875,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -65,25 +68,23 @@
           "fincar"
         ],
         "reference_definitions": [
-          "Se usa para designar cualquier pedazo de tierra destinada a sembrar marihuana. Puede ser hasta una lata de leche o galletas donde se siembra la marihuana y que se esconde debajo de la cama.",
-          "Finca rústica. Predio de terreno dedicado a la agricultura. El concepto no incluye los inmuebles urbanos.",
-          "Totalidad del terreno privado que se dedica a la siembra de caña.",
-          "Es más corriente en nuestro tiempo que se aluda a los referidos fundos rurales con la voz en diminutuivo, finquita",
-          "Terreno cultivado.",
           "Recipiente de pequeño tamaño destinado a sembrar marihuana."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Órgano sexual femenino",
+      "consolidated_definition": "El órgano sexual femenino se refiere al vulva, que incluye la vagina, el clítoris y los labios genitales externos.",
+      "en_consolidated_definition": "The female genital organ refers to the vulva, which includes the vagina, clitoris, and external genital lips.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4447",
         "semantic_similarity_score": 0.4447,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -126,9 +127,12 @@
     }
   },
   "es_definitions": [
-    "Se usa para designar cualquier pedazo de tierra",
-    "Órgano sexual femenino"
+    "Recipiente de pequeño tamaño destinado a sembrar marihuana.",
+    "El órgano sexual femenino se refiere al vulva, que incluye la vagina, el clítoris y los labios genitales externos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small container designed for planting marijuana.",
+    "The female genital organ refers to the vulva, which includes the vagina, clitoris, and external genital lips.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

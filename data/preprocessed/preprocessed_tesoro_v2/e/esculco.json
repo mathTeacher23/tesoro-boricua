@@ -3,9 +3,12 @@
   "term": "esculco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción y efecto de esculcar",
+      "consolidated_definition": "Acción y efecto de esculcar, buscar.",
+      "en_consolidated_definition": "Action and effect of rummaging or searching.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Acción y efecto de esculcar"
+    "Acción y efecto de esculcar, buscar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Action and effect of rummaging or searching."
+  ],
   "source": "https://tesoro.pr"
 }

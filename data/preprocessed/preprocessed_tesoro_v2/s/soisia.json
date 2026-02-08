@@ -3,9 +3,12 @@
   "term": "soisia",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gramínea de color verde esmeralda",
+      "consolidated_definition": "Gramínea de color verde esmeralda, de hoja fina y fuerte.",
+      "en_consolidated_definition": "Perennial grass of emerald green color, with fine and strong leaf.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gramínea de color verde esmeralda"
+    "Gramínea de color verde esmeralda, de hoja fina y fuerte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Perennial grass of emerald green color, with fine and strong leaf."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "lechón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona",
+      "consolidated_definition": "Persona, especialmente la mujer, muy gorda.",
+      "en_consolidated_definition": "Person, especially a woman, who is notably obese.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Persona"
+    "Persona, especialmente la mujer, muy gorda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person, especially a woman, who is notably obese."
+  ],
   "source": "https://tesoro.pr"
 }

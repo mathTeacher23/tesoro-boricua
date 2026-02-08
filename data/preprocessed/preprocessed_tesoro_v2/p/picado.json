@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Trocha o camino.",
+      "en_consolidated_definition": "Path or trail.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Equino de andar muy corto y casi truncado",
+      "consolidated_definition": "Equino de andar muy corto y casi truncado.",
+      "en_consolidated_definition": "Gait of very short and almost truncated walk.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,8 +83,11 @@
   },
   "es_definitions": [
     ". Trocha o camino.",
-    "Equino de andar muy corto y casi truncado"
+    "Equino de andar muy corto y casi truncado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Path or trail.",
+    "Gait of very short and almost truncated walk."
+  ],
   "source": "https://tesoro.pr"
 }

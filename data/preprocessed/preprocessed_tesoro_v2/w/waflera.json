@@ -3,9 +3,12 @@
   "term": "waflera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Utensilio doméstico",
+      "consolidated_definition": "Utensilio doméstico, eléctrico o no, en forma de plancha para hacer wafles.",
+      "en_consolidated_definition": "Domestic appliance, electric or not, in the form of a griddle for making waffles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Utensilio doméstico"
+    "Utensilio doméstico, eléctrico o no, en forma de plancha para hacer wafles."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Domestic appliance, electric or not, in the form of a griddle for making waffles."
+  ],
   "source": "https://tesoro.pr"
 }

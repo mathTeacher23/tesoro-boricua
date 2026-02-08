@@ -3,9 +3,12 @@
   "term": "de fatiga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a una prenda de vestir",
+      "consolidated_definition": "Referido a una prenda de vestir, que tiene diseños y colores semejantes a la usada por los soldados.",
+      "en_consolidated_definition": "Referido a una prenda de vestir que tiene diseños y colores semejantes a los utilizados por las fuerzas armadas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referido a una prenda de vestir"
+    "Referido a una prenda de vestir, que tiene diseños y colores semejantes a la usada por los soldados."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a una prenda de vestir que tiene diseños y colores semejantes a los utilizados por las fuerzas armadas."
+  ],
   "source": "https://tesoro.pr"
 }

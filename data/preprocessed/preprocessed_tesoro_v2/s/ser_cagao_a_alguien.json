@@ -3,9 +3,12 @@
   "term": "ser cagao a alguien",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parecerse en extremo al padre o a la",
+      "consolidated_definition": "Parecerse en extremo al padre o a la madre.",
+      "en_consolidated_definition": "Bear a striking resemblance to one's father or mother.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Parecerse en extremo al padre o a la"
+    "Parecerse en extremo al padre o a la madre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bear a striking resemblance to one's father or mother."
+  ],
   "source": "https://tesoro.pr"
 }

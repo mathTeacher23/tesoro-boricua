@@ -3,15 +3,18 @@
   "term": "virus",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gripe",
+      "consolidated_definition": "La gripe es una enfermedad infecciosa aguda causada por virus que afecta principalmente el sistema respiratorio.",
+      "en_consolidated_definition": "Influenza is an acute infectious disease caused by viruses that primarily affects the respiratory system.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.1345",
         "semantic_similarity_score": 0.1345,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "inform",
+      "consolidated_definition": "inform. Programa cuyo objetivo es causar daño en los archivos de un sistema informático. Usual. DRAE: desde 2001. Es decir, se riegan como un virus por toda la Web (El Nuevo Día, 02-02-08)",
+      "en_consolidated_definition": "Inform. A program whose objective is to cause damage to the files of a computer system. Usual. First recorded in DRAE (Diccionario de la Real Academia Española) since 2001. That is, it spreads like a virus throughout the Web (The New Day, 02-02-08).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,15 +82,18 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "inform. Programa cuyo objetivo es causar daño en los archivos de un sistema informático. Usual. DRAE: desde 2001. Es decir, se riegan como un virus por toda la Web"
+          "inform. Programa cuyo objetivo es causar daño en los archivos de un sistema informático. Usual. DRAE: desde 2001. Es decir, se riegan como un virus por toda la Web (El Nuevo Día, 02-02-08)"
         ]
       }
     }
   },
   "es_definitions": [
-    "Gripe",
-    "inform"
+    "La gripe es una enfermedad infecciosa aguda causada por virus que afecta principalmente el sistema respiratorio.",
+    "inform. Programa cuyo objetivo es causar daño en los archivos de un sistema informático. Usual. DRAE: desde 2001. Es decir, se riegan como un virus por toda la Web (El Nuevo Día, 02-02-08)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Influenza is an acute infectious disease caused by viruses that primarily affects the respiratory system.",
+    "Inform. A program whose objective is to cause damage to the files of a computer system. Usual. First recorded in DRAE (Diccionario de la Real Academia Española) since 2001. That is, it spreads like a virus throughout the Web (The New Day, 02-02-08)."
+  ],
   "source": "https://tesoro.pr"
 }

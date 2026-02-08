@@ -3,9 +3,12 @@
   "term": "quemado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice del gallo que ha sufrido exceso",
+      "consolidated_definition": "Se dice del gallo que ha sufrido exceso de enfrentamiento. Hay que ponerlo en descanso por un mes en un rejón o darle una bota larga como si fuera una pelea para sacarlo de esa condición y comenzar su preparación nuevamente.. Se le llama también gallo pasao de cabuya. y gallo pasao de cuido.",
+      "en_consolidated_definition": "This is said of a rooster that has suffered excessive fighting. It must be placed on rest for a month in a stake or given a long spur as if it were a fight to get it out of this condition and start its preparation again. It is also called a spent rooster from cabuya and a spent rooster from cuido.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,14 +43,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Se dice de quien tiene malestar producido por",
+      "consolidated_definition": "Referido a persona, que tiene resaca.",
+      "en_consolidated_definition": "Referido a persona que padece resaca.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5609",
-        "semantic_similarity_score": 0.5609,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -85,22 +91,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice de quien tiene malestar producido por exceso de alcohol. Está quemado o ardido.",
-          "Dícese de la persona que está pasando los efectos de una borrachera.",
-          "Estado de alguien después de pasar una borrachera.",
           "Referido a persona, que tiene resaca."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Acabado",
+      "consolidated_definition": "Referido a un jugador, que ha perdido sus aptitudes.",
+      "en_consolidated_definition": "Referido a un jugador que ha perdido sus habilidades deportivas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5887",
-        "semantic_similarity_score": 0.5887,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -135,19 +141,20 @@
           "quemar 2"
         ],
         "reference_definitions": [
-          "Acabado. En el juego, que ya no vale como jugador.",
-          "Dícese de la persona convicta en un tribunal de justicia.",
-          "Referido a un jugador, que ha perdido sus aptitudes.",
-          "Referido a persona, convicta en un tribunal de justicia."
+          "Referido a un jugador, que ha perdido sus aptitudes."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se dice del gallo que ha sufrido exceso",
-    "Se dice de quien tiene malestar producido por",
-    "Acabado"
+    "Se dice del gallo que ha sufrido exceso de enfrentamiento. Hay que ponerlo en descanso por un mes en un rejón o darle una bota larga como si fuera una pelea para sacarlo de esa condición y comenzar su preparación nuevamente.. Se le llama también gallo pasao de cabuya. y gallo pasao de cuido.",
+    "Referido a persona, que tiene resaca.",
+    "Referido a un jugador, que ha perdido sus aptitudes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This is said of a rooster that has suffered excessive fighting. It must be placed on rest for a month in a stake or given a long spur as if it were a fight to get it out of this condition and start its preparation again. It is also called a spent rooster from cabuya and a spent rooster from cuido.",
+    "Referido a persona que padece resaca.",
+    "Referido a un jugador que ha perdido sus habilidades deportivas."
+  ],
   "source": "https://tesoro.pr"
 }

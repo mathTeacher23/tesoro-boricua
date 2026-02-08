@@ -3,9 +3,12 @@
   "term": "trotar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Correr largas distancias con paso corto y regulado",
+      "consolidated_definition": "Correr largas distancias con paso corto y regulado.",
+      "en_consolidated_definition": "To cover long distances with a short and regular gait.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Correr largas distancias con paso corto y regulado"
+    "Correr largas distancias con paso corto y regulado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To cover long distances with a short and regular gait."
+  ],
   "source": "https://tesoro.pr"
 }

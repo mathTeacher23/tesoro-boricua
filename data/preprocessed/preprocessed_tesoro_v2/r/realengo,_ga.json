@@ -3,14 +3,17 @@
   "term": "realengo, ga",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Se dice del que es callejero o está de vago. Ahora no trabajo; ando realengo.",
+      "consolidated_definition": ". Col., P. Rico y Ven. Holgazán.",
+      "en_consolidated_definition": "Lazily.\n\nNota: La expresión \"Col., P. Rico y Ven.\" se refiere a Colombia, Puerto Rico y Venezuela respectivamente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2001",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4331",
-        "semantic_similarity_score": 0.4331,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -40,16 +43,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Se dice del que es callejero o está de vago. Ahora no trabajo; ando realengo.",
-          ". Col., P. Rico y Ven. Holgazán.",
-          "Méx., P. Rico, R. Dom. y Ven. Dicho especialmente de un animal: Que no tiene dueño."
+          ". Col., P. Rico y Ven. Holgazán."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, que no tiene pareja.",
+      "en_consolidated_definition": "Soltero/a referido a persona que no tiene pareja.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -85,9 +89,12 @@
     }
   },
   "es_definitions": [
-    ". Se dice del que es callejero o está de vago. Ahora no trabajo; ando realengo.",
-    "Referido a persona"
+    ". Col., P. Rico y Ven. Holgazán.",
+    "Referido a persona, que no tiene pareja."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lazily.\n\nNota: La expresión \"Col., P. Rico y Ven.\" se refiere a Colombia, Puerto Rico y Venezuela respectivamente.",
+    "Soltero/a referido a persona que no tiene pareja."
+  ],
   "source": "https://tesoro.pr"
 }

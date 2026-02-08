@@ -3,9 +3,12 @@
   "term": "marginado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona de escasos recursos económicos",
+      "consolidated_definition": "Dícese de la persona de escasos recursos económicos, de poca escolaridad.",
+      "en_consolidated_definition": "Persona con escasos recursos económicos y poca escolaridad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona de escasos recursos económicos"
+    "Dícese de la persona de escasos recursos económicos, de poca escolaridad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona con escasos recursos económicos y poca escolaridad."
+  ],
   "source": "https://tesoro.pr"
 }

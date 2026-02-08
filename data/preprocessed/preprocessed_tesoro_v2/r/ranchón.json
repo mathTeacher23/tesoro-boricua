@@ -3,15 +3,18 @@
   "term": "ranchón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Casa grande de madera destinada a vivienda de",
+      "consolidated_definition": "Un caserón de madera destinado a vivienda colectiva, especialmente para personas de bajos recursos.",
+      "en_consolidated_definition": "A wooden dwelling designed for collective housing, particularly for individuals of low socioeconomic status.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4453",
         "semantic_similarity_score": 0.4453,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Edificio rural donde se pondrán a secar",
+      "consolidated_definition": "Edificio rural donde las hojas de tabaco se pondrán a secar.",
+      "en_consolidated_definition": "Rural tobacco drying building.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,15 +84,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Edificio rural donde se pondrán a secar."
+          "Edificio rural donde las hojas de tabaco se pondrán a secar."
         ]
       }
     }
   },
   "es_definitions": [
-    "Casa grande de madera destinada a vivienda de",
-    "Edificio rural donde se pondrán a secar"
+    "Un caserón de madera destinado a vivienda colectiva, especialmente para personas de bajos recursos.",
+    "Edificio rural donde las hojas de tabaco se pondrán a secar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A wooden dwelling designed for collective housing, particularly for individuals of low socioeconomic status.",
+    "Rural tobacco drying building."
+  ],
   "source": "https://tesoro.pr"
 }

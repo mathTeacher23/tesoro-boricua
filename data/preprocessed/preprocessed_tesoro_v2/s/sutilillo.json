@@ -3,15 +3,18 @@
   "term": "sutilillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plástico con cuatro anzuelos y una plomada",
+      "consolidated_definition": "Liña de mano plástica con cuatro anzuelos y una base.",
+      "en_consolidated_definition": "Plastic fishing line with four hooks and a base.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3907",
         "semantic_similarity_score": 0.3907,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Plástico con cuatro anzuelos y una plomada"
+    "Liña de mano plástica con cuatro anzuelos y una base."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Plastic fishing line with four hooks and a base."
+  ],
   "source": "https://tesoro.pr"
 }

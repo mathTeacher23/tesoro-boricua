@@ -3,9 +3,12 @@
   "term": "pegar la uña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Salir corriendo",
+      "consolidated_definition": "Salir corriendo.",
+      "en_consolidated_definition": "To make a hasty exit.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Salir corriendo"
+    "Salir corriendo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To make a hasty exit."
+  ],
   "source": "https://tesoro.pr"
 }

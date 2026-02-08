@@ -3,9 +3,12 @@
   "term": "incachable",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Que no se puede atrapar",
+      "consolidated_definition": "Que no se puede atrapar.",
+      "en_consolidated_definition": "Incapaz de ser capturado o atrapado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Que no se puede atrapar"
+    "Que no se puede atrapar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Incapaz de ser capturado o atrapado."
+  ],
   "source": "https://tesoro.pr"
 }

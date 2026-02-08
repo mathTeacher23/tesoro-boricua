@@ -3,9 +3,12 @@
   "term": "ful",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a cosa o lugar",
+      "consolidated_definition": "Referido a cosa o lugar, lleno, repleto.",
+      "en_consolidated_definition": "Filled or replete with reference to a thing or place.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Referido a cosa o lugar"
+    "Referido a cosa o lugar, lleno, repleto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Filled or replete with reference to a thing or place."
+  ],
   "source": "https://tesoro.pr"
 }

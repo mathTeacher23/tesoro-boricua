@@ -3,9 +3,12 @@
   "term": "descachazar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver cachazar",
+      "consolidated_definition": "Ver cachazar .",
+      "en_consolidated_definition": "See cachazar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver cachazar"
+    "Ver cachazar ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See cachazar."
+  ],
   "source": "https://tesoro.pr"
 }

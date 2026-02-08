@@ -3,9 +3,12 @@
   "term": "izquierda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dinero de ingresos no declarados al gobierno",
+      "consolidated_definition": "Dinero de ingresos no declarados al gobierno.",
+      "en_consolidated_definition": "Income not reported to the government.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Mujer amante de un hombre casado",
+      "consolidated_definition": "Mujer amante de un hombre casado.",
+      "en_consolidated_definition": "Woman who is the lover of a married man.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Dinero de ingresos no declarados al gobierno",
-    "Mujer amante de un hombre casado"
+    "Dinero de ingresos no declarados al gobierno.",
+    "Mujer amante de un hombre casado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Income not reported to the government.",
+    "Woman who is the lover of a married man."
+  ],
   "source": "https://tesoro.pr"
 }

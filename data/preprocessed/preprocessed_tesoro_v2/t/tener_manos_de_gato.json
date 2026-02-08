@@ -3,9 +3,12 @@
   "term": "tener manos de gato",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tener manos hábiles para hacer cosas de gran",
+      "consolidated_definition": "Tener manos hábiles para hacer cosas de gran cuidado y precisión, delicadas.",
+      "en_consolidated_definition": "Tener destreza manual para realizar tareas que requieren gran cuidado y precisión, delicadas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Tener manos hábiles para hacer cosas de gran"
+    "Tener manos hábiles para hacer cosas de gran cuidado y precisión, delicadas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tener destreza manual para realizar tareas que requieren gran cuidado y precisión, delicadas."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mediasangre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Producto del cruce del gallo de raza con",
+      "consolidated_definition": "Producto del cruce del gallo de raza con gallina criolla o viceversa o de dos razas buenas distintas entre sí.",
+      "en_consolidated_definition": "Product of the cross between a rooster of a breed with a native hen or vice versa, or two distinct good breeds between them.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Producto del cruce del gallo de raza con"
+    "Producto del cruce del gallo de raza con gallina criolla o viceversa o de dos razas buenas distintas entre sí."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Product of the cross between a rooster of a breed with a native hen or vice versa, or two distinct good breeds between them."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "morfi",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Morfina",
+      "consolidated_definition": "Morfina. Apócope de morfina, un alcaloide opioide naturalmente producido en la planta del opio (Papaver somniferum).",
+      "en_consolidated_definition": "Morphine. Apocope of morphine, a naturally occurring opiate alkaloid produced in the opium poppy plant (Papaver somniferum).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6458",
         "semantic_similarity_score": 0.6458,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Morfina"
+    "Morfina. Apócope de morfina, un alcaloide opioide naturalmente producido en la planta del opio (Papaver somniferum)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Morphine. Apocope of morphine, a naturally occurring opiate alkaloid produced in the opium poppy plant (Papaver somniferum)."
+  ],
   "source": "https://tesoro.pr"
 }

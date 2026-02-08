@@ -3,14 +3,17 @@
   "term": "tembleque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dulce que se prepara con coco",
+      "consolidated_definition": "Dulce de consistencia blanda preparado con coco, leche, maicena, azúcar, clavo de especias, y polvoreado de canela.",
+      "en_consolidated_definition": "Sweet prepared with coconut, milk, cornstarch, sugar, clove spice, and sprinkled with cinnamon.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.7661",
-        "semantic_similarity_score": 0.7661,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -69,21 +72,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Dulce que se prepara con coco, maicena y azúcar.",
-          "de azúcar, harina, coco y leche.",
-          "Crema que se prepara con leche de coco, maicena y azúcar.",
-          "Crema que se prepara con la leche del coco, maicena y azúcar.",
-          "Dulce hecho con maicena, leche de coco, azúcar, sal y vainilla.",
-          "Crema preparada con leche de coco, maicena y azúcar.",
-          "Preparación a base de maicena, azúcar y leche de coco.",
           "Dulce de consistencia blanda preparado con coco, leche, maicena, azúcar, clavo de especias, y polvoreado de canela."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Temblor",
+      "consolidated_definition": "Temblor, temblequera.",
+      "en_consolidated_definition": "Tremor, tremblera.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -118,9 +117,12 @@
     }
   },
   "es_definitions": [
-    "Dulce que se prepara con coco",
-    "Temblor"
+    "Dulce de consistencia blanda preparado con coco, leche, maicena, azúcar, clavo de especias, y polvoreado de canela.",
+    "Temblor, temblequera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sweet prepared with coconut, milk, cornstarch, sugar, clove spice, and sprinkled with cinnamon.",
+    "Tremor, tremblera."
+  ],
   "source": "https://tesoro.pr"
 }

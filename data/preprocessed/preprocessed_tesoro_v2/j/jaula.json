@@ -3,15 +3,18 @@
   "term": "jaula",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cárcel",
+      "consolidated_definition": "Cárcel, establecimiento penitenciario donde se encierran a personas condenadas por delitos o infracciones penales.",
+      "en_consolidated_definition": "Prisión, penal institution where individuals convicted of crimes or penal infractions are incarcerated.\n\nNota: En este contexto, \"prisión\" es una traducción adecuada para el término \"cárcel\", manteniendo la formalidad y precisión requeridas en un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4143",
         "semantic_similarity_score": 0.4143,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -50,9 +53,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Se usa para transportar caña suelta desde el",
+      "consolidated_definition": "Se usa para transportar caña suelta desde el terreno a la central. Se remolca con un tractor.",
+      "en_consolidated_definition": "It is used to transport loose cane from the field to the central. It is pulled by a tractor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -89,9 +95,12 @@
     }
   },
   "es_definitions": [
-    "Cárcel",
-    "Se usa para transportar caña suelta desde el"
+    "Cárcel, establecimiento penitenciario donde se encierran a personas condenadas por delitos o infracciones penales.",
+    "Se usa para transportar caña suelta desde el terreno a la central. Se remolca con un tractor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Prisión, penal institution where individuals convicted of crimes or penal infractions are incarcerated.\n\nNota: En este contexto, \"prisión\" es una traducción adecuada para el término \"cárcel\", manteniendo la formalidad y precisión requeridas en un diccionario.",
+    "It is used to transport loose cane from the field to the central. It is pulled by a tractor."
+  ],
   "source": "https://tesoro.pr"
 }

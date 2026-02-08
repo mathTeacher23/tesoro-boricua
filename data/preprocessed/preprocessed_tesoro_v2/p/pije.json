@@ -3,9 +3,12 @@
   "term": "pije",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pene de niño",
+      "consolidated_definition": "Pene de niño.",
+      "en_consolidated_definition": "Boy's penis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pene de niño"
+    "Pene de niño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Boy's penis."
+  ],
   "source": "https://tesoro.pr"
 }

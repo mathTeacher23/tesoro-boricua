@@ -3,15 +3,18 @@
   "term": "ceibal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol tropical de gran tamaño perteneciente a la familia Malvaceae.",
+      "consolidated_definition": "Lugar poblado de ceibas.",
+      "en_consolidated_definition": "Ceiba grove or ceiba thicket",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5729",
-        "semantic_similarity_score": 0.5729,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -51,17 +54,16 @@
           "ceibo"
         ],
         "reference_definitions": [
-          "Plantación o conjunto de árboles de ceiba o ceibo.",
-          "Lugar donde abundan los árboles de ceiba.",
-          "Lugar poblado de ceibas.",
-          "Conjunto de estos árboles."
+          "Lugar poblado de ceibas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Árbol tropical de gran tamaño perteneciente a la familia Malvaceae."
+    "Lugar poblado de ceibas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ceiba grove or ceiba thicket"
+  ],
   "source": "https://tesoro.pr"
 }

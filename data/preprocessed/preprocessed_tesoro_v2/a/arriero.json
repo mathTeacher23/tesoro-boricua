@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "\"Ratón pequeño\": término coloquial que designa a un individuo débil o insignificante.",
+      "en_consolidated_definition": "Small rodent: colloquial term referring to a weak or insignificant individual.\n\nNota: En este contexto, el término \"ratón\" se utiliza de manera coloquial para describir a alguien débil o insignificante, en lugar de referirse al animal pequeño.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -57,15 +60,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "El sauroterio (Cuculidae Saurothera merlini) es un pájaro de tamaño mediano, con plumaje verde y grisáceo, anillos oculares rojos prominentes y un pico y cola muy largos.",
+      "consolidated_definition": "Pájaro de hasta 50 cm de longitud, de color verde y grisáceo, con grandes anillos oculares rojos, pico y cola muy largos. Cuculidae Saurothera merline.",
+      "en_consolidated_definition": "Bird of up to 50 cm in length, with a green and greyish coloration, featuring large red orbital rings, long beak, and tail. Cuculidae Saurothera merline.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -95,8 +101,11 @@
   },
   "es_definitions": [
     "\"Ratón pequeño\": término coloquial que designa a un individuo débil o insignificante.",
-    "El sauroterio (Cuculidae Saurothera merlini) es un pájaro de tamaño mediano, con plumaje verde y grisáceo, anillos oculares rojos prominentes y un pico y cola muy largos."
+    "Pájaro de hasta 50 cm de longitud, de color verde y grisáceo, con grandes anillos oculares rojos, pico y cola muy largos. Cuculidae Saurothera merline."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small rodent: colloquial term referring to a weak or insignificant individual.\n\nNota: En este contexto, el término \"ratón\" se utiliza de manera coloquial para describir a alguien débil o insignificante, en lugar de referirse al animal pequeño.",
+    "Bird of up to 50 cm in length, with a green and greyish coloration, featuring large red orbital rings, long beak, and tail. Cuculidae Saurothera merline."
+  ],
   "source": "https://tesoro.pr"
 }

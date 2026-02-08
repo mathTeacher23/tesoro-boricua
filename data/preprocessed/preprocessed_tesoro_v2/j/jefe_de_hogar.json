@@ -3,9 +3,12 @@
   "term": "jefe de hogar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que administra y encabeza una familia",
+      "consolidated_definition": "Persona que administra y encabeza una familia, generalmente el padre o la madre.",
+      "en_consolidated_definition": "Persona que administra y encabeza una familia, generalmente el padre o la madre.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Persona que administra y encabeza una familia"
+    "Persona que administra y encabeza una familia, generalmente el padre o la madre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que administra y encabeza una familia, generalmente el padre o la madre."
+  ],
   "source": "https://tesoro.pr"
 }

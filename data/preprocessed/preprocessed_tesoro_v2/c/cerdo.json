@@ -3,15 +3,18 @@
   "term": "cerdo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que se encarga de mantener el orden y la seguridad en un lugar o comunidad, generalmente perteneciente a las fuerzas de policía.",
+      "consolidated_definition": "Guardia, agente de policía.",
+      "en_consolidated_definition": "Police officer or patrolman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.7291",
-        "semantic_similarity_score": 0.7291,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,17 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Guardia. Oficial de la policía. Agente del NIC. Agente del orden.",
-          "Camarón. Policía encubierto.",
-          "Guardia, agente de policía.",
-          "Policía encubierto."
+          "Guardia, agente de policía."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que se encarga de mantener el orden y la seguridad en un lugar o comunidad, generalmente perteneciente a las fuerzas de policía."
+    "Guardia, agente de policía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Police officer or patrolman."
+  ],
   "source": "https://tesoro.pr"
 }

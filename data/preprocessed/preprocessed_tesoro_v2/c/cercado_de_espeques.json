@@ -3,15 +3,18 @@
   "term": "cercado de espeques",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cercado de estacas: objeto formado por estacas colocadas en el suelo para delimitar un área o proteger contra intrusos.",
+      "consolidated_definition": "Cercado de estacas.",
+      "en_consolidated_definition": "Enclosed by stakes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cercado de estacas: objeto formado por estacas colocadas en el suelo para delimitar un área o proteger contra intrusos."
+    "Cercado de estacas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Enclosed by stakes."
+  ],
   "source": "https://tesoro.pr"
 }

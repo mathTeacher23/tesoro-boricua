@@ -3,9 +3,12 @@
   "term": "tomar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ingerir bebidas alcohólicas",
+      "consolidated_definition": "Ingerir bebidas alcohólicas, especialmente en exceso y por vicio.",
+      "en_consolidated_definition": "To indulge in alcoholic beverages, especially to excess and out of habit or addiction.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Ingerir bebidas alcohólicas"
+    "Ingerir bebidas alcohólicas, especialmente en exceso y por vicio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To indulge in alcoholic beverages, especially to excess and out of habit or addiction."
+  ],
   "source": "https://tesoro.pr"
 }

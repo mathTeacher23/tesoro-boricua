@@ -3,15 +3,18 @@
   "term": "check in",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Check-in: proceso durante el cual se presenta la documentación para registrarse en un hotel o aeropuerto y acceder a un avión.",
+      "consolidated_definition": "tur. Registro. Proceso durante el cual se presenta la documentación para registrarse en un hotel o en un aeropuerto para acceder a un avión. Anglicismo crudo, frecuente. El check-in comienza a las 3:00 pm y el check-out a las 12:00 pm (UPR, Recinto de Ciencias Médicas, 23-07-04)",
+      "en_consolidated_definition": "Check-in: Registration process during which documentation is presented to register at a hotel or airport for access to an airplane. Raw anglicism, frequent. Check-in begins at 3:00 pm and check-out at 12:00 pm (UPR, Medical Sciences Campus, 23-07-04)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Disponibilidad en una biblioteca de un recurso indicada mediante un sistema computarizado y verificable en el estado del libro.",
+      "consolidated_definition": "bibl. Disponible. En bibliotecas, condición de disponibilidad de un recurso utilizando un sistema computarizado. Anglicismo crudo, poco frecuente. Puedes localizar el recurso o solicitar la ayuda del bibliotecario. Recuerde verificar en status que el libro esté disponible o en check in para usarlo (Pontificia Universidad Católica de Puerto Rico, Biblioteca, )",
+      "en_consolidated_definition": "Available. In libraries, condition of availability of a resource utilizing a computerized system. Raw Anglicism, infrequently used. You can locate the resource or request assistance from the librarian. Please verify in status that the book is available or in check-in to use it (Pontificia Universidad Católica de Puerto Rico, Library).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -75,9 +81,12 @@
     }
   },
   "es_definitions": [
-    "Check-in: proceso durante el cual se presenta la documentación para registrarse en un hotel o aeropuerto y acceder a un avión.",
-    "Disponibilidad en una biblioteca de un recurso indicada mediante un sistema computarizado y verificable en el estado del libro."
+    "tur. Registro. Proceso durante el cual se presenta la documentación para registrarse en un hotel o en un aeropuerto para acceder a un avión. Anglicismo crudo, frecuente. El check-in comienza a las 3:00 pm y el check-out a las 12:00 pm (UPR, Recinto de Ciencias Médicas, 23-07-04)",
+    "bibl. Disponible. En bibliotecas, condición de disponibilidad de un recurso utilizando un sistema computarizado. Anglicismo crudo, poco frecuente. Puedes localizar el recurso o solicitar la ayuda del bibliotecario. Recuerde verificar en status que el libro esté disponible o en check in para usarlo (Pontificia Universidad Católica de Puerto Rico, Biblioteca, )"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Check-in: Registration process during which documentation is presented to register at a hotel or airport for access to an airplane. Raw anglicism, frequent. Check-in begins at 3:00 pm and check-out at 12:00 pm (UPR, Medical Sciences Campus, 23-07-04)",
+    "Available. In libraries, condition of availability of a resource utilizing a computerized system. Raw Anglicism, infrequently used. You can locate the resource or request assistance from the librarian. Please verify in status that the book is available or in check-in to use it (Pontificia Universidad Católica de Puerto Rico, Library)."
+  ],
   "source": "https://tesoro.pr"
 }

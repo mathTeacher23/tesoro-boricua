@@ -3,9 +3,12 @@
   "term": "muela",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empresa o individuo reaccionarios y explotadores del obrero",
+      "consolidated_definition": "Empresa o individuo reaccionarios y explotadores del obrero.",
+      "en_consolidated_definition": "Reactionary and exploitative employer of the worker.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Molestia",
+      "consolidated_definition": "Molestia.",
+      "en_consolidated_definition": "Discomfort \n\nNote: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Empresa o individuo reaccionarios y explotadores del obrero",
-    "Molestia"
+    "Empresa o individuo reaccionarios y explotadores del obrero.",
+    "Molestia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Reactionary and exploitative employer of the worker.",
+    "Discomfort \n\nNote: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

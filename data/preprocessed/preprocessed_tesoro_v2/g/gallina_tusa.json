@@ -3,9 +3,12 @@
   "term": "gallina tusa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallina sin cola",
+      "consolidated_definition": "Gallina sin cola, rabona, recula.",
+      "en_consolidated_definition": "Chicken without a tail, backward walker, reculer.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Gallina sin cola"
+    "Gallina sin cola, rabona, recula."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Chicken without a tail, backward walker, reculer."
+  ],
   "source": "https://tesoro.pr"
 }

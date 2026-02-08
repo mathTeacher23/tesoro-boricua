@@ -3,15 +3,18 @@
   "term": "conference call",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reunión telefónica entre dos o más personas, especialmente utilizada para discutir casos legales.",
+      "consolidated_definition": "Llamada en la que participan más de dos personas. Vamos a llamar a los abogados en ‘conference call’ y que el juez determine ver un caso en la mañana, otro en la tarde.",
+      "en_consolidated_definition": "Multilateral call: A meeting or conference involving more than two people. For example, lawyers may participate in a 'conference call' and the judge will determine which case to review in the morning and another in the afternoon.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Reunión telefónica entre dos o más personas, especialmente utilizada para discutir casos legales."
+    "Llamada en la que participan más de dos personas. Vamos a llamar a los abogados en ‘conference call’ y que el juez determine ver un caso en la mañana, otro en la tarde."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Multilateral call: A meeting or conference involving more than two people. For example, lawyers may participate in a 'conference call' and the judge will determine which case to review in the morning and another in the afternoon."
+  ],
   "source": "https://tesoro.pr"
 }

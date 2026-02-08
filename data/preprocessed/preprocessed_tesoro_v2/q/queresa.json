@@ -3,15 +3,18 @@
   "term": "queresa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de hongo que ataca la corteza de",
+      "consolidated_definition": "Patógeno fúngico que infecta y daña la corteza de las cítricas.",
+      "en_consolidated_definition": "Fungal pathogen that infects and damages the rind of citrus fruits.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.469",
         "semantic_similarity_score": 0.469,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -51,8 +54,10 @@
     }
   },
   "es_definitions": [
-    "Variedad de hongo que ataca la corteza de"
+    "Patógeno fúngico que infecta y daña la corteza de las cítricas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fungal pathogen that infects and damages the rind of citrus fruits."
+  ],
   "source": "https://tesoro.pr"
 }

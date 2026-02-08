@@ -3,15 +3,18 @@
   "term": "azúcar regular",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El azúcar blanco o refinado es un tipo de edulcorante obtenido a partir del maíz o caña de azúcar mediante procesos de producción y purificación.",
+      "consolidated_definition": "Azúcar blanca o refinada, en comparación con la azúcar morena o demás edulcorantes. —¿Quieres azúcar regular o de dieta? —De dieta, mija, que me sube el azúcar. —Pero, si te acabas de comer un pedazo enorme de lasaña con arroz blanco por el la’o y un jugo de parcha. —Ah, la parcha es pa’ bajar la presión, pero, no pedí postre, solo un cafecito con leche y azúcar de dieta porque tengo diabetes.",
+      "en_consolidated_definition": "Refined white sugar, in comparison to brown sugar or other sweeteners.\n\nRegular sugar or diet sugar? —Diet, mija, it raises my blood sugar. —But, if you just ate a huge piece of lasagna with white rice from the la' o and a parcha juice. —Ah, parcha is for lowering pressure, but I didn't order dessert, I only asked for a coffee with milk and diet sugar because I have diabetes.\n\nRefined white sugar, in comparison to brown sugar or other sweeteners.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El azúcar blanco o refinado es un tipo de edulcorante obtenido a partir del maíz o caña de azúcar mediante procesos de producción y purificación."
+    "Azúcar blanca o refinada, en comparación con la azúcar morena o demás edulcorantes. —¿Quieres azúcar regular o de dieta? —De dieta, mija, que me sube el azúcar. —Pero, si te acabas de comer un pedazo enorme de lasaña con arroz blanco por el la’o y un jugo de parcha. —Ah, la parcha es pa’ bajar la presión, pero, no pedí postre, solo un cafecito con leche y azúcar de dieta porque tengo diabetes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Refined white sugar, in comparison to brown sugar or other sweeteners.\n\nRegular sugar or diet sugar? —Diet, mija, it raises my blood sugar. —But, if you just ate a huge piece of lasagna with white rice from the la' o and a parcha juice. —Ah, parcha is for lowering pressure, but I didn't order dessert, I only asked for a coffee with milk and diet sugar because I have diabetes.\n\nRefined white sugar, in comparison to brown sugar or other sweeteners."
+  ],
   "source": "https://tesoro.pr"
 }

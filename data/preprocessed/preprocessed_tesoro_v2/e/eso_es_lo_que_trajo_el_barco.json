@@ -3,9 +3,12 @@
   "term": "eso es lo que trajo el barco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "colq",
+      "consolidated_definition": "colq. Eso es lo único que hay disponible, lo coges o lo dejas.",
+      "en_consolidated_definition": "That's the only option available; take it or leave it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -37,8 +40,10 @@
     }
   },
   "es_definitions": [
-    "colq"
+    "colq. Eso es lo único que hay disponible, lo coges o lo dejas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "That's the only option available; take it or leave it."
+  ],
   "source": "https://tesoro.pr"
 }

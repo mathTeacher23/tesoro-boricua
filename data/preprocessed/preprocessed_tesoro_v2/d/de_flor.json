@@ -3,9 +3,12 @@
   "term": "de flor",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muy bueno",
+      "consolidated_definition": "Muy bueno.",
+      "en_consolidated_definition": "Extremely good.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Muy bueno"
+    "Muy bueno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extremely good."
+  ],
   "source": "https://tesoro.pr"
 }

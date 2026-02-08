@@ -3,9 +3,12 @@
   "term": "pajarita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vulva de niña",
+      "consolidated_definition": "Vulva de niña.",
+      "en_consolidated_definition": "Vulva infantil.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Vulva de niña"
+    "Vulva de niña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Vulva infantil."
+  ],
   "source": "https://tesoro.pr"
 }

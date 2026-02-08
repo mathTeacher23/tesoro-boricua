@@ -3,9 +3,12 @@
   "term": "pámpano",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La extremidad en forma de borla del racimo",
+      "consolidated_definition": "La extremidad en forma de borla del racimo de plátanos fue llamada simplemente pámpano.",
+      "en_consolidated_definition": "The extremity in the form of a tuft or cluster at the end of a banana bunch was simply called a pámpano.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,14 +42,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pez, relacionado con una organización",
+      "consolidated_definition": "Pez marino de más de 50 cm de longitud, de cuerpo corto y comprimido, con el dorso gris y el vientre blanco, hocico corto y redondeado y aleta caudal bifurcada; es comestible. Carangidae, Trachinotus falcatus.",
+      "en_consolidated_definition": "Marine fish exceeding 50 cm in length, with a short and compressed body, grey back, white belly, short and rounded snout, and forked caudal fin; it is edible. Family Carangidae, Trachinotus falcatus.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.3805",
-        "semantic_similarity_score": 0.3805,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -88,17 +94,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez.",
-          "Pez de la familia Carangidae. Trachinotus falcatus.",
-          "Pez de mar, comestible, de la familia del jurel.",
           "Pez marino de más de 50 cm de longitud, de cuerpo corto y comprimido, con el dorso gris y el vientre blanco, hocico corto y redondeado y aleta caudal bifurcada; es comestible. Carangidae, Trachinotus falcatus."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Tallo",
+      "consolidated_definition": "Tallo.",
+      "en_consolidated_definition": "Stem or stalk.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -132,9 +138,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Ver bihao",
+      "consolidated_definition": "Ver bihao .",
+      "en_consolidated_definition": "See bihao.\n\nNota: La palabra \"bihao\" es un término específico del español puertorriqueño que se utiliza en el contexto de la cultura y la historia de Puerto Rico. En este caso, la traducción literal sería \"see bihao\", pero es posible que sea necesario proporcionar una explicación adicional para contextualizar el término.\n\nSin embargo, si solo se requiere la traducción literal, entonces:\n\nSee bihao.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -155,11 +164,16 @@
     }
   },
   "es_definitions": [
-    "La extremidad en forma de borla del racimo",
-    "Pez, relacionado con una organización",
-    "Tallo",
-    "Ver bihao"
+    "La extremidad en forma de borla del racimo de plátanos fue llamada simplemente pámpano.",
+    "Pez marino de más de 50 cm de longitud, de cuerpo corto y comprimido, con el dorso gris y el vientre blanco, hocico corto y redondeado y aleta caudal bifurcada; es comestible. Carangidae, Trachinotus falcatus.",
+    "Tallo.",
+    "Ver bihao ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The extremity in the form of a tuft or cluster at the end of a banana bunch was simply called a pámpano.",
+    "Marine fish exceeding 50 cm in length, with a short and compressed body, grey back, white belly, short and rounded snout, and forked caudal fin; it is edible. Family Carangidae, Trachinotus falcatus.",
+    "Stem or stalk.",
+    "See bihao.\n\nNota: La palabra \"bihao\" es un término específico del español puertorriqueño que se utiliza en el contexto de la cultura y la historia de Puerto Rico. En este caso, la traducción literal sería \"see bihao\", pero es posible que sea necesario proporcionar una explicación adicional para contextualizar el término.\n\nSin embargo, si solo se requiere la traducción literal, entonces:\n\nSee bihao."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "encabezado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Capataz",
+      "consolidated_definition": "En el contexto histórico de las fincas azucareras, un capataz era una persona que supervisaba a los trabajadores indígenas asignados a su cargo.",
+      "en_consolidated_definition": "In the historical context of sugar plantations, a capataz was an individual who oversaw indigenous workers assigned to their charge.\n\nNota: En este contexto, \"fincas azucareras\" se refiere a las plantaciones de azúcar que existieron en Puerto Rico durante el período colonial.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5023",
         "semantic_similarity_score": 0.5023,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Encabezamiento",
+      "consolidated_definition": "\"Encabezamiento\": título o parte superior de un documento, texto o lista que resume su contenido principal.",
+      "en_consolidated_definition": "Heading: title or upper part of a document, text, or list that summarizes its main content.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3248",
         "semantic_similarity_score": 0.3248,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Capataz",
-    "Encabezamiento"
+    "En el contexto histórico de las fincas azucareras, un capataz era una persona que supervisaba a los trabajadores indígenas asignados a su cargo.",
+    "\"Encabezamiento\": título o parte superior de un documento, texto o lista que resume su contenido principal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the historical context of sugar plantations, a capataz was an individual who oversaw indigenous workers assigned to their charge.\n\nNota: En este contexto, \"fincas azucareras\" se refiere a las plantaciones de azúcar que existieron en Puerto Rico durante el período colonial.",
+    "Heading: title or upper part of a document, text, or list that summarizes its main content.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

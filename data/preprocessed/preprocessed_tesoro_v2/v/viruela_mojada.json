@@ -3,9 +3,12 @@
   "term": "viruela mojada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de viruela que ataca a los gallos",
+      "consolidated_definition": "Variedad de viruela que ataca a los gallos. Se distingue de la viruela seca.",
+      "en_consolidated_definition": "Variety of smallpox that attacks roosters. It is distinguished from dry smallpox.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Variedad de viruela que ataca a los gallos"
+    "Variedad de viruela que ataca a los gallos. Se distingue de la viruela seca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Variety of smallpox that attacks roosters. It is distinguished from dry smallpox."
+  ],
   "source": "https://tesoro.pr"
 }

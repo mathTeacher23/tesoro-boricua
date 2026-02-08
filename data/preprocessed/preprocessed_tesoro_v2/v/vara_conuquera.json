@@ -3,15 +3,18 @@
   "term": "vara conuquera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Medida imaginaria del campesino",
+      "consolidated_definition": "Un cuadno es una medida equivalente a tres varas castellanas.",
+      "en_consolidated_definition": "A cuadno is a measure equivalent to three Castilian varas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.541",
         "semantic_similarity_score": 0.541,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -56,8 +59,10 @@
     }
   },
   "es_definitions": [
-    "Medida imaginaria del campesino"
+    "Un cuadno es una medida equivalente a tres varas castellanas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A cuadno is a measure equivalent to three Castilian varas."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tener de hijo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ganar reiteradamente a un mismo adversario en competencias",
+      "consolidated_definition": "Ganar reiteradamente a un mismo adversario en competencias deportivas.",
+      "en_consolidated_definition": "Repetidamente vencer a un mismo oponente en competiciones deportivas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Ganar reiteradamente a un mismo adversario en competencias"
+    "Ganar reiteradamente a un mismo adversario en competencias deportivas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Repetidamente vencer a un mismo oponente en competiciones deportivas."
+  ],
   "source": "https://tesoro.pr"
 }

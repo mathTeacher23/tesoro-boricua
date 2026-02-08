@@ -3,15 +3,18 @@
   "term": "patiporsuelo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Vulg. Persona que pertenece a la clase social más baja o plebeya.",
+      "en_consolidated_definition": "Persona perteneciente a la clase social más baja o plebeya.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5588",
-        "semantic_similarity_score": 0.5588,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5408",
+        "semantic_similarity_score": 0.5408,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -53,15 +56,18 @@
         "reference_definitions": [
           "vulg. Plebeyo, de ínfima clase social. “Democracia es conversar —con cualquier patiporsuelo.” G. . Cintrón, “Bombitas lacrimógenas”, El Diluvio, 2 de marzo de 1935.",
           "La pobreza significada por la falta de cabalgadura dio lugar al nombre de patiporsuelo, con el que se designa al individuo de ínfima clase social.",
-          "Persona grosera o plebeya . En Santo Domingo: pataporsuelo.",
+          "(general) Persona grosera o plebeya (es voz arcaica). En Santo Domingo: pataporsuelo.",
           "Designa peyorativamente al individuo de ínfima clase social, quien en su plebeyez se veía obligado a carecer de montura."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Dícese de la persona de piernas muy delgadas",
+      "consolidated_definition": "Dícese de la persona de piernas muy delgadas.",
+      "en_consolidated_definition": "Person with very slender legs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -96,9 +102,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Dícese del fruto que madura",
+      "consolidated_definition": "Dícese del fruto que madura, pero no tiene el desarrollo normal.",
+      "en_consolidated_definition": "This fruit matures but does not have normal development.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -131,9 +140,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Dícese del fruto que madura",
+      "consolidated_definition": "Dícese del fruto que madura, pero no tiene el desarrollo normal.",
+      "en_consolidated_definition": "This fruit matures but does not have normal development.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -169,11 +181,16 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    "Dícese de la persona de piernas muy delgadas",
-    "Dícese del fruto que madura",
-    "Dícese del fruto que madura"
+    "Vulg. Persona que pertenece a la clase social más baja o plebeya.",
+    "Dícese de la persona de piernas muy delgadas.",
+    "Dícese del fruto que madura, pero no tiene el desarrollo normal.",
+    "Dícese del fruto que madura, pero no tiene el desarrollo normal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona perteneciente a la clase social más baja o plebeya.",
+    "Person with very slender legs.",
+    "This fruit matures but does not have normal development.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "This fruit matures but does not have normal development."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "coliblanco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ave de corral con algunas plumas blancas en el rabo.",
+      "consolidated_definition": "Gallo de cualquier color, con plumas blancas en las patas.",
+      "en_consolidated_definition": "Rooster of any color, with white feathers on the legs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.6343",
-        "semantic_similarity_score": 0.6343,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -53,19 +56,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ave con algunas plumas blancas en el rabo.",
-          "Aplicado a las aves de corral, ave con algunas plumas blancas en el rabo.",
-          "Gallo de cualquier color, pero de plumas blancas en las patas.",
-          "También le llaman calsao.",
-          "Gallo de cualquier color, con plumas blancas en las patas.",
-          "Ave de corral con algunas plumas blancas en la cola."
+          "Gallo de cualquier color, con plumas blancas en las patas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ave de corral con algunas plumas blancas en el rabo."
+    "Gallo de cualquier color, con plumas blancas en las patas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rooster of any color, with white feathers on the legs."
+  ],
   "source": "https://tesoro.pr"
 }

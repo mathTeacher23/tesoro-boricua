@@ -3,9 +3,12 @@
   "term": "ir de pinchjiter",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ir de acompañante de otro",
+      "consolidated_definition": "Ir de acompañante de otro, como refuerzo o sustituto.",
+      "en_consolidated_definition": "Accompaniment of another as reinforcement or substitute.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Ir de acompañante de otro"
+    "Ir de acompañante de otro, como refuerzo o sustituto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Accompaniment of another as reinforcement or substitute."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "cámara de representantes",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La cámara baja es el órgano legislativo inferior en un sistema parlamentario bicameral, que generalmente se elige directamente del pueblo y tiene poderes limitados para aprobar o rechazar las decisiones de la cámara alta.",
+      "consolidated_definition": "Cámara baja en el parlamento.",
+      "en_consolidated_definition": "Lower House of Parliament.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La cámara baja es el órgano legislativo inferior en un sistema parlamentario bicameral, que generalmente se elige directamente del pueblo y tiene poderes limitados para aprobar o rechazar las decisiones de la cámara alta."
+    "Cámara baja en el parlamento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lower House of Parliament."
+  ],
   "source": "https://tesoro.pr"
 }

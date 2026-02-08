@@ -3,15 +3,18 @@
   "term": "güincho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El utensilio de dientes de hierro que alterna",
+      "consolidated_definition": "\"Güincho\": herramienta de dientes de hierro utilizada para mezclar abonos y limpiar tierras, también conocida en la isla de Vieques como una variante de la horca ordinaria.",
+      "en_consolidated_definition": "Güincho: iron-toothed tool used to mix fertilizers and clean lands, also known in Vieques Island as a variant of the ordinary gallows.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5852",
-        "semantic_similarity_score": 0.5852,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.587",
+        "semantic_similarity_score": 0.587,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,20 +44,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El utensilio de dientes de hierro que alterna con la horca ordinaria en la mezcla de abonos y limpieza de tierras. En Vieques, el sujeto de Playa Grande, siguiendo el orden indicado, decía güincho.",
+          "El utensilio de dientes de hierro que alterna con la horca ordinaria en la mezcla de abonos y limpieza de tierras. ... En Vieques, el sujeto de Playa Grande, siguiendo el orden indicado, decía güincho.",
           "La herramienta con dientes de hierro que se utiliza para trabajar la tierra."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Falco carolinense",
+      "consolidated_definition": "Ave acuática, de gran tamaño, blanca por debajo con algo de color castaño, con manchas blancas en la cabeza y la nuca. (Falconidae; Falco carolinense).",
+      "en_consolidated_definition": "Waterbird of large size, white below with some brown coloration, with white spots on the head and nape. (Falconidae; Falco carolinense).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4972",
-        "semantic_similarity_score": 0.4972,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -93,18 +99,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Falco carolinense. Ave acuática, conocida también como águila marina. Es migratoria y frecuenta las costas de las islas de Vieques, Culebra y Mona. Pesca en las lagunas y carga la presa a un sitio alto, para devorarla. Es de color blanco por debajo, con algo de color castaño, y tiene manchas blancas en la cabeza y la nuca.",
-          "Ave marina migratoria, de gran tamaño, cuyo nombre es águila de mar.",
-          "Ave acuática de patas largas.",
-          "Ave acuática, de gran tamaño, blanca por debajo con algo de color castaño, con manchas blancas en la cabeza y la nuca. ."
+          "Ave acuática, de gran tamaño, blanca por debajo con algo de color castaño, con manchas blancas en la cabeza y la nuca. (Falconidae; Falco carolinense)."
         ]
       }
     }
   },
   "es_definitions": [
-    "El utensilio de dientes de hierro que alterna",
-    "Falco carolinense"
+    "\"Güincho\": herramienta de dientes de hierro utilizada para mezclar abonos y limpiar tierras, también conocida en la isla de Vieques como una variante de la horca ordinaria.",
+    "Ave acuática, de gran tamaño, blanca por debajo con algo de color castaño, con manchas blancas en la cabeza y la nuca. (Falconidae; Falco carolinense)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Güincho: iron-toothed tool used to mix fertilizers and clean lands, also known in Vieques Island as a variant of the ordinary gallows.",
+    "Waterbird of large size, white below with some brown coloration, with white spots on the head and nape. (Falconidae; Falco carolinense)."
+  ],
   "source": "https://tesoro.pr"
 }

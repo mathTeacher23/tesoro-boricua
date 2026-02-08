@@ -3,15 +3,18 @@
   "term": "aguaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El ademán es un gesto o movimiento corporal que expresa intenciones o emociones, incluyendo amenazas y bravuconería.",
+      "consolidated_definition": "Simulación o gesticulación exagerada de alguien.",
+      "en_consolidated_definition": "Exaggerated simulation or gesticulation of someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 13,
-        "num_cleaned_definitions": 13,
-        "definition_stability": "Stability: 0.4136",
-        "semantic_similarity_score": 0.4136,
-        "cluster_count": 10,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -87,32 +90,23 @@
           "aguajero, ra"
         ],
         "reference_definitions": [
-          ". Amenaza que no tiene valor. “Y de que esto no es aguaje...” Pedro R. de Diego, , p. 193.",
-          "Mentira. “Eso, que fue un aguaje. Si llega a ser de verdad...” El Diluvio, núm. del 8 de diciembre de 1934.",
-          "(general) Ademán. Amenaza.",
-          "Aparición .",
-          "Ademán, amenaza.",
-          "Ademán; amenaza.",
-          "Ademán, amenaza.",
-          "Ademán, amenaza.",
-          "Movimiento de la superficie del agua causado por un pez u otro animal.",
-          "Ruido que supuestamente hace un difunto aparecido.",
-          "Cuba y P. Rico. Bravuconada.",
-          "Simulación o gesticulación exagerada de alguien.",
-          "Fanfarronería, jactancia, alarde de alguien, especialmente de un bravucón."
+          "Simulación o gesticulación exagerada de alguien."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Rastro o estela que se forma en la superficie del agua al pasar un cardumen.",
+      "consolidated_definition": "Estela que dejan a su paso los cardúmenes en la superficie del agua.",
+      "en_consolidated_definition": "Track or wake left by a cardumen in the surface of the water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -140,15 +134,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Trabajo o proyecto inconcluso o que no ha llegado a su máxima expresión.",
+      "consolidated_definition": "Labor o proyecto inconcluso o que no ha llegado a su máxima expresión.",
+      "en_consolidated_definition": "Un proyecto o labor inconcluso que no ha alcanzado su máximo potencial o expresión.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -177,10 +174,14 @@
     }
   },
   "es_definitions": [
-    "El ademán es un gesto o movimiento corporal que expresa intenciones o emociones, incluyendo amenazas y bravuconería.",
-    "Rastro o estela que se forma en la superficie del agua al pasar un cardumen.",
-    "Trabajo o proyecto inconcluso o que no ha llegado a su máxima expresión."
+    "Simulación o gesticulación exagerada de alguien.",
+    "Estela que dejan a su paso los cardúmenes en la superficie del agua.",
+    "Labor o proyecto inconcluso o que no ha llegado a su máxima expresión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Exaggerated simulation or gesticulation of someone.",
+    "Track or wake left by a cardumen in the surface of the water.",
+    "Un proyecto o labor inconcluso que no ha alcanzado su máximo potencial o expresión."
+  ],
   "source": "https://tesoro.pr"
 }

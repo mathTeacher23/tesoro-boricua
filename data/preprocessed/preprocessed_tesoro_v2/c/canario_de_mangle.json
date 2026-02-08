@@ -3,15 +3,18 @@
   "term": "canario de mangle",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El pájaro autóctono de Puerto Rico y las Islas Vírgenes se caracteriza por su plumaje castaño en la cabeza, amarillo y oliva en la rabadilla, oscuro en las alas y el rabo con orillas amarillas y lados de la cabeza amarillo brillante.",
+      "consolidated_definition": "Pequeño pájaro autóctono de Puerto Rico y de las Islas Vírgenes; de plumaje castaño en la cabeza, amarillo y oliva en la rabadilla, oscuro en las alas y el rabo con las orillas amarillas y los lados de la cabeza amarillo brillante.",
+      "en_consolidated_definition": "Small indigenous bird of Puerto Rico and the Virgin Islands; with a brown head, yellow and olive tail, dark wings and tail with yellow edges and bright yellow sides to the head.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El pájaro autóctono de Puerto Rico y las Islas Vírgenes se caracteriza por su plumaje castaño en la cabeza, amarillo y oliva en la rabadilla, oscuro en las alas y el rabo con orillas amarillas y lados de la cabeza amarillo brillante."
+    "Pequeño pájaro autóctono de Puerto Rico y de las Islas Vírgenes; de plumaje castaño en la cabeza, amarillo y oliva en la rabadilla, oscuro en las alas y el rabo con las orillas amarillas y los lados de la cabeza amarillo brillante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small indigenous bird of Puerto Rico and the Virgin Islands; with a brown head, yellow and olive tail, dark wings and tail with yellow edges and bright yellow sides to the head."
+  ],
   "source": "https://tesoro.pr"
 }

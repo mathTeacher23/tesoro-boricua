@@ -3,15 +3,18 @@
   "term": "ñame de mina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El mismo ñame de agua",
+      "consolidated_definition": "\"Ñame de agua\": variedad de ñame que crece en aguas continentales y es apreciada por su comestibilidad.",
+      "en_consolidated_definition": "Water Yam: a variety of yam that grows in continental waters and is prized for its edibility.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5959",
         "semantic_similarity_score": 0.5959,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -52,8 +55,10 @@
     }
   },
   "es_definitions": [
-    "El mismo ñame de agua"
+    "\"Ñame de agua\": variedad de ñame que crece en aguas continentales y es apreciada por su comestibilidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Water Yam: a variety of yam that grows in continental waters and is prized for its edibility."
+  ],
   "source": "https://tesoro.pr"
 }

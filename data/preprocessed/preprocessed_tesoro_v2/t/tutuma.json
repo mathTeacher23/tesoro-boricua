@@ -3,14 +3,17 @@
   "term": "tutuma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Totuma",
+      "consolidated_definition": "Totuma, vasija y recipiente.",
+      "en_consolidated_definition": "Totuma, vessel and container.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6396",
-        "semantic_similarity_score": 0.6396,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -36,15 +39,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Totuma, vasija y recipiente.",
-          "Vasija fabricada con la corteza seca del fruto del totumo."
+          "Totuma, vasija y recipiente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Totuma"
+    "Totuma, vasija y recipiente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Totuma, vessel and container."
+  ],
   "source": "https://tesoro.pr"
 }

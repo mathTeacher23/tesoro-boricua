@@ -53,7 +53,27 @@ def test_single_file():
                 print(f"     Superscript {sup}:")
                 print(f"       Definitions analyzed: {result.get('raw_definition_count', 0)}")
                 print(f"       Stability: {result.get('stability', 0.0)}")
-                print(f"       Consolidated: {consolidated_def[:80]}...")
+
+                # NEW: Show optimization status
+                skipped = result.get('skipped_consolidation', False)
+                if skipped:
+                    skip_reason = result.get('skip_reason', 'unknown')
+                    metadata = result.get('selected_definition_metadata', {})
+                    print(f"       ⚡ OPTIMIZATION: Skipped LLM consolidation")
+                    print(f"          Reason: {skip_reason}")
+                    if metadata:
+                        print(f"          Source year: {metadata.get('year', 'N/A')}")
+                else:
+                    print(f"       ⚙️  Full consolidation performed")
+
+                print(f"       Consolidated (ES): {consolidated_def[:80]}...")
+
+                # Show translation
+                en_def = result.get('en_definition', '')
+                if en_def:
+                    print(f"       Translation (EN): {en_def[:80]}...")
+                else:
+                    print(f"       Translation (EN): [NO TRANSLATION]")
 
         print("\n[3/3] Writing preprocessed output...")
         word = test_file.stem
@@ -75,12 +95,14 @@ def test_single_file():
             print(f"  Term: {output_data['term']}")
             print(f"  Superscripts: {list(output_data['superscripts'].keys())}")
             print(f"  ES Definitions: {len(output_data['es_definitions'])}")
+            print(f"  EN Definitions: {len(output_data.get('en_definitions', []))}")
 
             # Show first superscript details
             first_sup = list(output_data['superscripts'].keys())[0]
             sup_data = output_data['superscripts'][first_sup]
             print(f"\n  Superscript '{first_sup}' details:")
-            print(f"    Consolidated definition: {sup_data['consolidated_definition'][:60]}...")
+            print(f"    ES Consolidated definition: {sup_data['consolidated_definition'][:60]}...")
+            print(f"    EN Consolidated definition: {sup_data.get('en_consolidated_definition', '[NONE]')[:60]}...")
             print(f"    Could not consolidate: {sup_data['could_not_consolidate']}")
             print(f"    Metadata keys: {list(sup_data['consolidation_metadata'].keys())}")
 

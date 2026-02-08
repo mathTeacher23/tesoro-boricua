@@ -3,9 +3,12 @@
   "term": "estar en faldetas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver estar en faldeta",
+      "consolidated_definition": "Ver estar en faldeta .",
+      "en_consolidated_definition": "See faldeta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver estar en faldeta"
+    "Ver estar en faldeta ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See faldeta."
+  ],
   "source": "https://tesoro.pr"
 }

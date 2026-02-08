@@ -3,15 +3,18 @@
   "term": "varar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parar un barco",
+      "consolidated_definition": "Embarcación detenida en la orilla.",
+      "en_consolidated_definition": "Vehículo marítimo detenido en la orilla del agua.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.5081",
         "semantic_similarity_score": 0.5081,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "verbo transitivo"
         ],
@@ -54,8 +57,10 @@
     }
   },
   "es_definitions": [
-    "Parar un barco"
+    "Embarcación detenida en la orilla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Vehículo marítimo detenido en la orilla del agua."
+  ],
   "source": "https://tesoro.pr"
 }

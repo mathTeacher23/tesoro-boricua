@@ -3,9 +3,12 @@
   "term": "sabina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Supina",
+      "consolidated_definition": "Supina. Ignorancia supina.",
+      "en_consolidated_definition": "Supine ignorance.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Supina"
+    "Supina. Ignorancia supina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Supine ignorance."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "laborar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajar",
+      "consolidated_definition": "Trabajar, tener una ocupación remunerada.",
+      "en_consolidated_definition": "To work, have a paid occupation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Trabajar"
+    "Trabajar, tener una ocupación remunerada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To work, have a paid occupation."
+  ],
   "source": "https://tesoro.pr"
 }

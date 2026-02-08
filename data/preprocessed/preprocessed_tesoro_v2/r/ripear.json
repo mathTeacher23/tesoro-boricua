@@ -3,15 +3,18 @@
   "term": "ripear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arrancar las yerbas perjudiciales",
+      "consolidated_definition": "Eliminación de plantas dañinas o perjudiciales.",
+      "en_consolidated_definition": "Elimination of noxious or injurious plants.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 14,
         "num_cleaned_definitions": 14,
-        "definition_stability": "Stability: 0.5311",
-        "semantic_similarity_score": 0.5311,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5309",
+        "semantic_similarity_score": 0.5309,
+        "cluster_count": 14,
         "grammar": [
           "verbo transitivo"
         ],
@@ -82,7 +85,7 @@
           "Recoger los últimos granos de una cosecha.",
           ". Desmenuzar, hacer trizas. Ac.",
           "Dar, pegar con una cosa dura, como significando que al dar con ella se ha hecho trizas.”Le ripió un palo en las espaldas”.",
-          "Desyerbar, quitar la maleza; recoger los residuos de una cosecha.",
+          "(jíbaro) Desyerbar, quitar la maleza; recoger los residuos de una cosecha.",
           "Arrancar los yerbajos de una finca. En el cultivo del café ripiar el último grano, la última recogida. Como verbo reflexivo, ripiarse un trabajo, realizar un trabajo fuerte y sin ayuda. “Se ripió todo el camino a pie”: ‘realizó una larga caminata’.",
           "Desyerbar las matas de una tala, recoger residuos de una cosecha o los sobrantes de una construcción.",
           "Desyerbar, recoger los residuos de una cosecha.",
@@ -90,15 +93,18 @@
           "Recoger lo último de la cosecha.",
           "Repasar con el machete el desyerbo en los sitios intrincados.",
           "Apurar un sobrante.",
-          "Utiliza el campesino verbos de signo criollo como ripear, que presentan estrecha cercanía a talar, ‘desyerbar con el machete en preparación de la tierra para el arado y la siembra’. También chapear, chapodear.",
+          "Utiliza el campesino verbos de signo criollo como ripear, que presentan estrecha cercanía … a talar, ‘desyerbar con el machete en preparación de la tierra para el arado y la siembra’. También chapear, chapodear.",
           "Recoger lo último de la cosecha de cierto fruto."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Colocar ripios en un techo",
+      "consolidated_definition": "Colocar ripios en un techo.",
+      "en_consolidated_definition": "To place ripios on a roof.\n\nNota: En este contexto, \"ripios\" se refiere a los fragmentos de techo o materiales de construcción que se han desprendido y deben ser reemplazados para asegurar la estabilidad del edificio.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -135,9 +141,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Robar",
+      "consolidated_definition": "Robar.",
+      "en_consolidated_definition": "To steal.\n\nNota: Esta palabra es un verbo que se utiliza para describir el acto de tomar algo a alguien sin su permiso o consentimiento, generalmente con intención de apropiárselo para sí mismo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -173,10 +182,14 @@
     }
   },
   "es_definitions": [
-    "Arrancar las yerbas perjudiciales",
-    "Colocar ripios en un techo",
-    "Robar"
+    "Eliminación de plantas dañinas o perjudiciales.",
+    "Colocar ripios en un techo.",
+    "Robar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Elimination of noxious or injurious plants.",
+    "To place ripios on a roof.\n\nNota: En este contexto, \"ripios\" se refiere a los fragmentos de techo o materiales de construcción que se han desprendido y deben ser reemplazados para asegurar la estabilidad del edificio.",
+    "To steal.\n\nNota: Esta palabra es un verbo que se utiliza para describir el acto de tomar algo a alguien sin su permiso o consentimiento, generalmente con intención de apropiárselo para sí mismo."
+  ],
   "source": "https://tesoro.pr"
 }

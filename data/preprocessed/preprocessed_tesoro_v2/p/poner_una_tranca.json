@@ -3,9 +3,12 @@
   "term": "poner una tranca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No hablar",
+      "consolidated_definition": "No hablar.",
+      "en_consolidated_definition": "Remain silent.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "No hablar"
+    "No hablar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Remain silent."
+  ],
   "source": "https://tesoro.pr"
 }

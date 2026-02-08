@@ -3,9 +3,12 @@
   "term": "deschapar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Quitar la tapa de metal a una botella",
+      "consolidated_definition": "Quitar la tapa de metal a una botella.",
+      "en_consolidated_definition": "Remove the metal cap from a bottle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Quitar la tapa de metal a una botella"
+    "Quitar la tapa de metal a una botella."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Remove the metal cap from a bottle."
+  ],
   "source": "https://tesoro.pr"
 }

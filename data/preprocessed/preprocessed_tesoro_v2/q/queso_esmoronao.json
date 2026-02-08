@@ -3,9 +3,12 @@
   "term": "queso esmoronao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Queso blanco desmoronado",
+      "consolidated_definition": "Queso blanco desmoronado.",
+      "en_consolidated_definition": "Crumbly white cheese.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Queso blanco desmoronado"
+    "Queso blanco desmoronado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Crumbly white cheese."
+  ],
   "source": "https://tesoro.pr"
 }

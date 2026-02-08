@@ -3,9 +3,12 @@
   "term": "jugar el pollo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver lo que el hijo es capaz de",
+      "consolidated_definition": "Ver lo que el hijo es capaz de hacer por sí solo.",
+      "en_consolidated_definition": "Observe lo que el hijo es capaz de hacer por sí mismo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Ver lo que el hijo es capaz de"
+    "Ver lo que el hijo es capaz de hacer por sí solo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Observe lo que el hijo es capaz de hacer por sí mismo."
+  ],
   "source": "https://tesoro.pr"
 }

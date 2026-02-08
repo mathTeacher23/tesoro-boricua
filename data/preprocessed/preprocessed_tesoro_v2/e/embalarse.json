@@ -3,9 +3,12 @@
   "term": "embalarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Huir",
+      "consolidated_definition": "Huir, escapar.",
+      "en_consolidated_definition": "Fugitivo, escape.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Huir"
+    "Huir, escapar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fugitivo, escape."
+  ],
   "source": "https://tesoro.pr"
 }

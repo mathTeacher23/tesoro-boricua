@@ -3,9 +3,12 @@
   "term": "pincelero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pintamonas",
+      "consolidated_definition": "Pintamonas.",
+      "en_consolidated_definition": "Painted face mask worn by participants in the traditional Puerto Rican festival of Carnaval.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Pintamonas"
+    "Pintamonas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Painted face mask worn by participants in the traditional Puerto Rican festival of Carnaval."
+  ],
   "source": "https://tesoro.pr"
 }

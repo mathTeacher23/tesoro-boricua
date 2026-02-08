@@ -3,9 +3,12 @@
   "term": "estar como cucaracha en baile de gallinas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Muy asustado",
+      "consolidated_definition": "Muy asustado.",
+      "en_consolidated_definition": "Extremely frightened.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Muy asustado"
+    "Muy asustado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extremely frightened."
+  ],
   "source": "https://tesoro.pr"
 }

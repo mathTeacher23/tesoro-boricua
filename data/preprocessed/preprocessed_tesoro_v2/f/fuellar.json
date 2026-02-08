@@ -3,15 +3,18 @@
   "term": "fuellar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Respirar en forma audible",
+      "consolidated_definition": "Respiración audible caracterizada por un sonido perceptible.",
+      "en_consolidated_definition": "Audible respiration characterized by a perceptible sound.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5415",
         "semantic_similarity_score": 0.5415,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Respirar en forma audible"
+    "Respiración audible caracterizada por un sonido perceptible."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Audible respiration characterized by a perceptible sound."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "dropearse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "educ",
+      "consolidated_definition": "Abandonar los estudios.",
+      "en_consolidated_definition": "Abandonar los estudios = To drop out of school.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5479",
-        "semantic_similarity_score": 0.5479,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo pronominal"
@@ -44,15 +47,16 @@
           "dropear"
         ],
         "reference_definitions": [
-          "educ. Darse de baja. Abandonar prematuramente un curso escolar o programa académico. Anglicismo adaptado, frecuente. Ahora si elijen a Juan del Pueblo, aquel que se dropeó de la escuela superior, para ser legislador, pues haría el mismo trabajo por $12,000 anuales",
           "Abandonar los estudios."
         ]
       }
     }
   },
   "es_definitions": [
-    "educ"
+    "Abandonar los estudios."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Abandonar los estudios = To drop out of school."
+  ],
   "source": "https://tesoro.pr"
 }

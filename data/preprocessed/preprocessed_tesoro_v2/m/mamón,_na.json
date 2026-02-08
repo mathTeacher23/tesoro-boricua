@@ -3,9 +3,12 @@
   "term": "mamón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empleado político del gobierno",
+      "consolidated_definition": "Empleado político del gobierno.",
+      "en_consolidated_definition": "Government appointee or official.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Empleado político del gobierno"
+    "Empleado político del gobierno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Government appointee or official."
+  ],
   "source": "https://tesoro.pr"
 }

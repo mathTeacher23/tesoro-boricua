@@ -3,9 +3,12 @@
   "term": "doñita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se usa como tratamiento de cortesía a una",
+      "consolidated_definition": "Se usa como tratamiento de cortesía a una señora.",
+      "en_consolidated_definition": "Used as a term of courtesy to address a lady.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Se usa como tratamiento de cortesía a una"
+    "Se usa como tratamiento de cortesía a una señora."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Used as a term of courtesy to address a lady."
+  ],
   "source": "https://tesoro.pr"
 }

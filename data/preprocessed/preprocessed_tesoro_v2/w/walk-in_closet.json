@@ -3,9 +3,12 @@
   "term": "walk-in closet",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vestidor contiguo al dormitorio",
+      "consolidated_definition": "Vestidor contiguo al dormitorio, con amplios armarios",
+      "en_consolidated_definition": "Adyacente bedroom closet with spacious wardrobes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Vestidor contiguo al dormitorio"
+    "Vestidor contiguo al dormitorio, con amplios armarios"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Adyacente bedroom closet with spacious wardrobes."
+  ],
   "source": "https://tesoro.pr"
 }

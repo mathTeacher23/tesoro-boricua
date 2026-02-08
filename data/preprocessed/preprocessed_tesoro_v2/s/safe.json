@@ -3,14 +3,17 @@
   "term": "safe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "En el beisbol, llegada legal de un jugador a una de las bases o al plato.",
+      "en_consolidated_definition": "In baseball, a legal arrival of a player to one of the bases or home plate.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5992",
-        "semantic_similarity_score": 0.5992,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. Seguro. En el juego de béisbol, jugada bateada en la que el corredor ha alcanzado legalmente una base; también, la acción misma. Anglicismo crudo, frecuente. Siempre hay jugadas cerradas. Lo que frustró a mis nueve jugadores es que ninguna de las jugadas que pueden quizás ser safe o out fueron a nuestro favor",
           "En el beisbol, llegada legal de un jugador a una de las bases o al plato."
         ]
       }
     }
   },
   "es_definitions": [
-    "dep"
+    "En el beisbol, llegada legal de un jugador a una de las bases o al plato."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a legal arrival of a player to one of the bases or home plate."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mozo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Camarero",
+      "consolidated_definition": "Camarero.",
+      "en_consolidated_definition": "Waiter \n\nNote: En este contexto, \"camarero\" se refiere a un servidor en un restaurante o establecimiento de comida y bebida, pero también puede hacer referencia a un empleado que atiende a los clientes en otros contextos, como hoteles u otros servicios.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Otra pieza del carro que se distingue por",
+      "consolidated_definition": "\"Tentemozo\": nombre coloquial para referirse a diferentes partes del carro, como el mozo, al este, vegas, patillas, maunabo o humacao.",
+      "en_consolidated_definition": "Tentemozo: colloquial term referring to various parts of a car, such as the trunk (mozo), east side (este), valleys (vegas), fenders (patillas), or specific locations in Puerto Rico like Maunabo or Humacao.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6875",
-        "semantic_similarity_score": 0.6875,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6891",
+        "semantic_similarity_score": 0.6891,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,17 +81,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Otra pieza del carro que se distingue por su variedad denominativa es el tentemozo : mozo, al este, Vegas, Patillas, Maunabo, Humacao.",
-          "En lugares del interior y sur central, el tentemozo o palo que cuelga del pértigo, y, puesto de punta contra el suelo, impide que el carro caiga hacia adelante. También: descanso, palo, muñeco, aguantadero, muchacho, niño, peón, tentemozo, retención, bastón, aguantador.",
+          "Otra pieza del carro que se distingue por su variedad denominativa es el tentemozo ...: mozo, al este, Vegas, Patillas, Maunabo, Humacao.",
+          "En lugares del interior y sur central, mozo es el tentemozo o palo que cuelga del pértigo, y, puesto de punta contra el suelo, impide que el carro caiga hacia adelante. También: descanso, palo, muñeco, aguantadero, muchacho, niño, peón, tentemozo, retención, bastón, aguantador.",
           "El tentemozo del: carro."
         ]
       }
     }
   },
   "es_definitions": [
-    "Camarero",
-    "Otra pieza del carro que se distingue por"
+    "Camarero.",
+    "\"Tentemozo\": nombre coloquial para referirse a diferentes partes del carro, como el mozo, al este, vegas, patillas, maunabo o humacao."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Waiter \n\nNote: En este contexto, \"camarero\" se refiere a un servidor en un restaurante o establecimiento de comida y bebida, pero también puede hacer referencia a un empleado que atiende a los clientes en otros contextos, como hoteles u otros servicios.",
+    "Tentemozo: colloquial term referring to various parts of a car, such as the trunk (mozo), east side (este), valleys (vegas), fenders (patillas), or specific locations in Puerto Rico like Maunabo or Humacao."
+  ],
   "source": "https://tesoro.pr"
 }

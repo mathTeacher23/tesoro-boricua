@@ -3,9 +3,12 @@
   "term": "sapear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Actuar irregularmente en un grupo, relacionado con un grupo",
+      "consolidated_definition": "Actuar irregularmente en un grupo. Molestar.",
+      "en_consolidated_definition": "Act in an irregular manner within a group; to bother or disturb others.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Actuar irregularmente en un grupo, relacionado con un grupo"
+    "Actuar irregularmente en un grupo. Molestar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Act in an irregular manner within a group; to bother or disturb others."
+  ],
   "source": "https://tesoro.pr"
 }

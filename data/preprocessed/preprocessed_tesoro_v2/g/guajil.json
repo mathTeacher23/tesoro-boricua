@@ -3,15 +3,18 @@
   "term": "guajil",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mycteroperca venenosa",
+      "consolidated_definition": "\"Mycteroperca venenosa\": especie de pez marino comestible común en las costas de Puerto Rico, también conocida como \"mero pinto\".",
+      "en_consolidated_definition": "Venomous Mycteroperca: a common edible marine fish species found along the coasts of Puerto Rico, also known as \"painted grouper\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.322",
-        "semantic_similarity_score": 0.322,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.323",
+        "semantic_similarity_score": 0.323,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -52,7 +55,7 @@
         "related_words": [],
         "reference_definitions": [
           "Mycteroperca venenosa. Pez abundante en las costas de Puerto Rico, conocido popularmente como mero pinto.",
-          "Pez, de la familia Seranidae . Mycteroperca venenosa. También llamado mero pinto.",
+          "Pez, de la familia Seranidae (meros). Mycteroperca venenosa. También llamado mero pinto.",
           "Nombre que en algunos sitios le dan al pez mero que tiene pintas.",
           "Pez comestible."
         ]
@@ -60,8 +63,10 @@
     }
   },
   "es_definitions": [
-    "Mycteroperca venenosa"
+    "\"Mycteroperca venenosa\": especie de pez marino comestible común en las costas de Puerto Rico, también conocida como \"mero pinto\"."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Venomous Mycteroperca: a common edible marine fish species found along the coasts of Puerto Rico, also known as \"painted grouper\"."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "trufar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rellenar con carne condimentada el ave que va",
+      "consolidated_definition": "Rellenar con carne condimentada el ave que va a ser asada.",
+      "en_consolidated_definition": "To stuff the bird to be roasted with seasoned meat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Rellenar con carne condimentada el ave que va"
+    "Rellenar con carne condimentada el ave que va a ser asada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To stuff the bird to be roasted with seasoned meat."
+  ],
   "source": "https://tesoro.pr"
 }

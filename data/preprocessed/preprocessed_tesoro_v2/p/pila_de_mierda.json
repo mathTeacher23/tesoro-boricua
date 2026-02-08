@@ -3,9 +3,12 @@
   "term": "pila de mierda",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La excreta",
+      "consolidated_definition": "La excreta.",
+      "en_consolidated_definition": "Excremento.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La excreta"
+    "La excreta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Excremento."
+  ],
   "source": "https://tesoro.pr"
 }

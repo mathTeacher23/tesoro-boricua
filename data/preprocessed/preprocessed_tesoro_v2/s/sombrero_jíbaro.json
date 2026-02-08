@@ -3,9 +3,12 @@
   "term": "sombrero jíbaro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sombrero campesino hecho de hoja de palma",
+      "consolidated_definition": "Sombrero campesino hecho de hoja de palma, de ala ancha y generalmente levantada por el frente.",
+      "en_consolidated_definition": "Rural hat made of palm leaf, with a wide brim and generally raised at the front.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sombrero campesino hecho de hoja de palma"
+    "Sombrero campesino hecho de hoja de palma, de ala ancha y generalmente levantada por el frente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rural hat made of palm leaf, with a wide brim and generally raised at the front."
+  ],
   "source": "https://tesoro.pr"
 }

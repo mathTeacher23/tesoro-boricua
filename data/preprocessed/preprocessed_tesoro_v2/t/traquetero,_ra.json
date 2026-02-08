@@ -3,14 +3,17 @@
   "term": "traquetero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que está envuelta en drogas",
+      "consolidated_definition": "Referido a persona, que está envuelta en negocios turbios e ilegales.",
+      "en_consolidated_definition": "Referido a una persona que está involucrada en actividades comerciales ilícitas y poco éticas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6664",
-        "semantic_similarity_score": 0.6664,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -45,15 +48,16 @@
           "traqueteo"
         ],
         "reference_definitions": [
-          "Persona que está envuelta en drogas.",
           "Referido a persona, que está envuelta en negocios turbios e ilegales."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que está envuelta en drogas"
+    "Referido a persona, que está envuelta en negocios turbios e ilegales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a una persona que está involucrada en actividades comerciales ilícitas y poco éticas."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "chiripazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión coloquial utilizada en algunos países de Hispanoamérica que describe un acierto o resultado favorable no esperado.",
+      "consolidated_definition": "Acierto o logro casual.",
+      "en_consolidated_definition": "Casual achievement or success.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6296",
-        "semantic_similarity_score": 0.6296,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,16 @@
           "chiripa"
         ],
         "reference_definitions": [
-          "Voz usada en otros países de Hispanoamérica. Acierto casual.",
           "Acierto o logro casual."
         ]
       }
     }
   },
   "es_definitions": [
-    "Expresión coloquial utilizada en algunos países de Hispanoamérica que describe un acierto o resultado favorable no esperado."
+    "Acierto o logro casual."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Casual achievement or success."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "muellero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Obrero que trabaja en los muelles",
+      "consolidated_definition": "Trabajador que carga y descarga mercancías de los barcos, estibador.",
+      "en_consolidated_definition": "Stevedore: a worker who loads and unloads cargo from ships.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5091",
-        "semantic_similarity_score": 0.5091,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,16 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Obrero que trabaja en los muelles.",
-          "Estibador.",
           "Trabajador que carga y descarga mercancías de los barcos, estibador."
         ]
       }
     }
   },
   "es_definitions": [
-    "Obrero que trabaja en los muelles"
+    "Trabajador que carga y descarga mercancías de los barcos, estibador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Stevedore: a worker who loads and unloads cargo from ships."
+  ],
   "source": "https://tesoro.pr"
 }

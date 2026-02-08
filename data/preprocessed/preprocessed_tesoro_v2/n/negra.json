@@ -3,9 +3,12 @@
   "term": "negra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se refiere a una muchacha",
+      "consolidated_definition": "Se refiere a una muchacha. Muchacha.",
+      "en_consolidated_definition": "Girl; young woman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pez",
+      "consolidated_definition": "Pez de mar comestible que pertenece a la familia del pargo. Caracterizado por tener aletas y escamas, con forma ovalada, cabeza alargada, boca grande y ojo amarillo con el centro negro. Su aleta dorsal es fuerte con espinas gruesas que se extiende desde el centro hasta la cola. La cola es vertical en forma de brocha. Crece hasta 40 cm. Sus escamas son rojas, más blancuzcas en la parte abdominal. Es algo barrigudo.",
+      "en_consolidated_definition": "Fish of the sea that is edible and belongs to the family of snappers. Characterized by having fins and scales, with an oval shape, a long head, a large mouth, and a yellow eye with a black center. Its dorsal fin is strong with thick spines that extends from the center to the tail. The tail is vertical in brush-like form. It grows up to 40 cm. Its scales are red, paler on the abdominal part. It has a somewhat rounded belly.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3624",
-        "semantic_similarity_score": 0.3624,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.3874",
+        "semantic_similarity_score": 0.3874,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -83,16 +89,19 @@
         "related_words": [],
         "reference_definitions": [
           "Pez.",
-          "Pez de la familia Lutjanidea . Lutjanus buccanella.",
+          "Pez de la familia Lutjanidea (pargos). Lutjanus buccanella.",
           "Pez de mar, comestible, que pertenece a la familia del pargo. De forma ovalada, con la cabeza alargada, la boca grande y el ojo amarillo con el centro negro. Su aleta dorsal es fuerte con espinas gruesas que se extiende desde el centro hasta la cola. La cola es vertical en forma de brocha. Crece hasta 40 cm. Sus escamas son rojas, más blancuzcas en la parte abdominal. Es algo barrigudo."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se refiere a una muchacha",
-    "Pez"
+    "Se refiere a una muchacha. Muchacha.",
+    "Pez de mar comestible que pertenece a la familia del pargo. Caracterizado por tener aletas y escamas, con forma ovalada, cabeza alargada, boca grande y ojo amarillo con el centro negro. Su aleta dorsal es fuerte con espinas gruesas que se extiende desde el centro hasta la cola. La cola es vertical en forma de brocha. Crece hasta 40 cm. Sus escamas son rojas, más blancuzcas en la parte abdominal. Es algo barrigudo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Girl; young woman.",
+    "Fish of the sea that is edible and belongs to the family of snappers. Characterized by having fins and scales, with an oval shape, a long head, a large mouth, and a yellow eye with a black center. Its dorsal fin is strong with thick spines that extends from the center to the tail. The tail is vertical in brush-like form. It grows up to 40 cm. Its scales are red, paler on the abdominal part. It has a somewhat rounded belly.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada."
+  ],
   "source": "https://tesoro.pr"
 }

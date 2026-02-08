@@ -3,9 +3,12 @@
   "term": "picuero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Obrero que se encarga de cortar la caña, relacionado con un mecanismo",
+      "consolidated_definition": "Obrero que se encarga de cortar la caña que no corta la máquina.",
+      "en_consolidated_definition": "Laborer responsible for cutting cane that the machine fails to cut.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Obrero que se encarga de cortar la caña, relacionado con un mecanismo"
+    "Obrero que se encarga de cortar la caña que no corta la máquina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Laborer responsible for cutting cane that the machine fails to cut."
+  ],
   "source": "https://tesoro.pr"
 }

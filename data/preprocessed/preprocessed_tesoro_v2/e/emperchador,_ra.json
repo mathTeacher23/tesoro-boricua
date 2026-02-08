@@ -3,9 +3,12 @@
   "term": "emperchador, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aplícase a la persona que coloca el tabaco",
+      "consolidated_definition": "Aplícase a la persona que coloca el tabaco en rama en las perchas.",
+      "en_consolidated_definition": "Person who places tobacco stalks on the hooks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Aplícase a la persona que coloca el tabaco"
+    "Aplícase a la persona que coloca el tabaco en rama en las perchas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who places tobacco stalks on the hooks."
+  ],
   "source": "https://tesoro.pr"
 }

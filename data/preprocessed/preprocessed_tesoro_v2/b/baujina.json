@@ -3,15 +3,18 @@
   "term": "baujina",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Ver mariposa\": observar a una insecto en movimiento o descansando.",
+      "consolidated_definition": "Ver mariposa 5 .",
+      "en_consolidated_definition": "See butterfly 5.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "\"Ver mariposa\": observar a una insecto en movimiento o descansando."
+    "Ver mariposa 5 ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See butterfly 5."
+  ],
   "source": "https://tesoro.pr"
 }

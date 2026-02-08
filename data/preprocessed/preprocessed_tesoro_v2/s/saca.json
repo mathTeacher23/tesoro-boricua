@@ -3,14 +3,17 @@
   "term": "saca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de pollos que saca una gallina en",
+      "consolidated_definition": "Conjunto de pollos que tiene una gallina en una puesta.",
+      "en_consolidated_definition": "A brood of chickens that has a hen in lay.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.7316",
-        "semantic_similarity_score": 0.7316,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -64,24 +67,22 @@
           "sacar 1"
         ],
         "reference_definitions": [
-          "Conjunto de pollos que saca una gallina en una echadura.",
-          "Cada una de las veces que la gallina produce su pollada.",
-          "Incubación de polluelos que nacen de una vez.",
-          "Pollos que incuba una gallina de una vez.",
-          "Cada una de las veces que produce la gallina su pollada, y asimismo denomina esta palabra el conjunto de pollos nacidos.",
           "Conjunto de pollos que tiene una gallina en una puesta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Funda de papel",
+      "consolidated_definition": "Funda de papel usada en los colmados para colocar la mercancía comprada.",
+      "en_consolidated_definition": "Paper bag used in convenience stores to place purchased merchandise.\n\nNota: En este caso, \"colmados\" se refiere a tiendas de conveniencia o pequeños almacenes que venden productos básicos y artículos de primera necesidad en Puerto Rico. La traducción mantiene el contexto cultural específico del término.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5779",
-        "semantic_similarity_score": 0.5779,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -112,16 +113,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Funda de papel, por lo regular llamada en el pueblo cartucho en la que los colmados entregan los artículos comprados.",
           "Funda de papel usada en los colmados para colocar la mercancía comprada."
         ]
       }
     }
   },
   "es_definitions": [
-    "Conjunto de pollos que saca una gallina en",
-    "Funda de papel"
+    "Conjunto de pollos que tiene una gallina en una puesta.",
+    "Funda de papel usada en los colmados para colocar la mercancía comprada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A brood of chickens that has a hen in lay.",
+    "Paper bag used in convenience stores to place purchased merchandise.\n\nNota: En este caso, \"colmados\" se refiere a tiendas de conveniencia o pequeños almacenes que venden productos básicos y artículos de primera necesidad en Puerto Rico. La traducción mantiene el contexto cultural específico del término."
+  ],
   "source": "https://tesoro.pr"
 }

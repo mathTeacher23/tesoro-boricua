@@ -3,9 +3,12 @@
   "term": "pena",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vergüenza o timidez que siente alguien al hacer",
+      "consolidated_definition": "Vergüenza o timidez que siente alguien al hacer o decir algo.",
+      "en_consolidated_definition": "Modesto temor o timidez que siente alguien al realizar o expresar algo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Vergüenza o timidez que siente alguien al hacer"
+    "Vergüenza o timidez que siente alguien al hacer o decir algo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Modesto temor o timidez que siente alguien al realizar o expresar algo."
+  ],
   "source": "https://tesoro.pr"
 }

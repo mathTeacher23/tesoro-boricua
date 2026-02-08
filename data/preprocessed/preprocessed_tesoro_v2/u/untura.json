@@ -3,15 +3,18 @@
   "term": "untura",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ungüento",
+      "consolidated_definition": "Ungüento: preparado líquido o semilíquido para aplicar sobre la piel, generalmente de naturaleza medicinal o cosmética.",
+      "en_consolidated_definition": "Topical preparation: a liquid or semi-liquid substance applied to the skin, typically of medicinal or cosmetic nature.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3364",
         "semantic_similarity_score": 0.3364,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Ungüento"
+    "Ungüento: preparado líquido o semilíquido para aplicar sobre la piel, generalmente de naturaleza medicinal o cosmética."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Topical preparation: a liquid or semi-liquid substance applied to the skin, typically of medicinal or cosmetic nature."
+  ],
   "source": "https://tesoro.pr"
 }

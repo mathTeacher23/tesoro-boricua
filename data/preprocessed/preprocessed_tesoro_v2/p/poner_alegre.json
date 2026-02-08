@@ -3,9 +3,12 @@
   "term": "poner alegre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fumar o inyectarse",
+      "consolidated_definition": "Fumar o inyectarse droga.",
+      "en_consolidated_definition": "To smoke or inject drugs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -35,14 +38,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Fumar o inyectarse ."
+          "Fumar o inyectarse droga."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fumar o inyectarse"
+    "Fumar o inyectarse droga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To smoke or inject drugs."
+  ],
   "source": "https://tesoro.pr"
 }

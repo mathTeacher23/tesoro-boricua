@@ -3,15 +3,18 @@
   "term": "oveja de enjambre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abeja",
+      "consolidated_definition": "El insecto abeja se distingue de la oveja y el chivo por su forma y características específicas.",
+      "en_consolidated_definition": "The bee insect is distinguished from the sheep and the goat by its specific form and characteristics.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3906",
         "semantic_similarity_score": 0.3906,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Abeja"
+    "El insecto abeja se distingue de la oveja y el chivo por su forma y características específicas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The bee insect is distinguished from the sheep and the goat by its specific form and characteristics."
+  ],
   "source": "https://tesoro.pr"
 }

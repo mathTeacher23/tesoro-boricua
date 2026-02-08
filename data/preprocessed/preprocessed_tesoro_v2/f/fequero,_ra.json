@@ -3,14 +3,17 @@
   "term": "fequero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mentiroso",
+      "consolidated_definition": "Referido a persona, mentirosa.",
+      "en_consolidated_definition": "Decepcionada en cuanto a persona.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4431",
-        "semantic_similarity_score": 0.4431,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -42,15 +45,16 @@
           "feca"
         ],
         "reference_definitions": [
-          "Mentiroso, impostor. Persona que dice falsedades o pretende ser lo que no es. Anglicismo adaptado, poco frecuente. Lynx es sendo fequero porque dice que es de Ponce pero su ID Info dice que es de San German, y para colmo entra a reganar a DonQ por simplemente decir la verdad sobre el equipo de San German, del cual Lynx dice no ser fanático",
           "Referido a persona, mentirosa."
         ]
       }
     }
   },
   "es_definitions": [
-    "Mentiroso"
+    "Referido a persona, mentirosa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Decepcionada en cuanto a persona."
+  ],
   "source": "https://tesoro.pr"
 }

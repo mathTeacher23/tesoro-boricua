@@ -3,15 +3,18 @@
   "term": "cebaera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Establo\": edificio destinado a albergar ganado, especialmente caballos.",
+      "consolidated_definition": "Establo.",
+      "en_consolidated_definition": "Barn or stable, especially one used for horses in a rural area of Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "\"Establo\": edificio destinado a albergar ganado, especialmente caballos."
+    "Establo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Barn or stable, especially one used for horses in a rural area of Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "rabilucho",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver chimbolo",
+      "consolidated_definition": "Ver chimbolo .",
+      "en_consolidated_definition": "See chimbolo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver chimbolo"
+    "Ver chimbolo ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See chimbolo."
+  ],
   "source": "https://tesoro.pr"
 }

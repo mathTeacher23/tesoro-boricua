@@ -3,15 +3,18 @@
   "term": "pollito, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Adolescente, hombre muy joven o moza nueva, joven que empieza a prometer.",
+      "consolidated_definition": "Un adolescente es una persona que se encuentra en etapa de transición hacia la edad adulta, caracterizada por el comienzo de la madurez y la toma de responsabilidades.",
+      "en_consolidated_definition": "An adolescent is an individual in the transitional stage towards adulthood, characterized by the onset of maturity and the assumption of responsibilities.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.539",
         "semantic_similarity_score": 0.539,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -54,9 +57,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cría de la gallina",
+      "consolidated_definition": "Cría de la gallina.",
+      "en_consolidated_definition": "Chick of a hen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -91,9 +97,12 @@
     }
   },
   "es_definitions": [
-    ". Adolescente, hombre muy joven o moza nueva, joven que empieza a prometer.",
-    "Cría de la gallina"
+    "Un adolescente es una persona que se encuentra en etapa de transición hacia la edad adulta, caracterizada por el comienzo de la madurez y la toma de responsabilidades.",
+    "Cría de la gallina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "An adolescent is an individual in the transitional stage towards adulthood, characterized by the onset of maturity and the assumption of responsibilities.",
+    "Chick of a hen."
+  ],
   "source": "https://tesoro.pr"
 }

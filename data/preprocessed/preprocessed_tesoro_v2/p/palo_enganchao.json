@@ -3,9 +3,12 @@
   "term": "palo enganchao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arbusto entremezclado o enredado con otro",
+      "consolidated_definition": "Arbusto entremezclado o enredado con otro, de tal suerte que su producción es limitada.",
+      "en_consolidated_definition": "Intermingled or entwined shrub with another, such that its production is limited.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -38,8 +41,10 @@
     }
   },
   "es_definitions": [
-    "Arbusto entremezclado o enredado con otro"
+    "Arbusto entremezclado o enredado con otro, de tal suerte que su producción es limitada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Intermingled or entwined shrub with another, such that its production is limited."
+  ],
   "source": "https://tesoro.pr"
 }

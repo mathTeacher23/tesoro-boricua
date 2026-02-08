@@ -3,9 +3,12 @@
   "term": "taladrador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de escarabajo que ataca el tallo de",
+      "consolidated_definition": "Especie de escarabajo que ataca el tallo de los cafetos.",
+      "en_consolidated_definition": "Species of beetle that attacks the stalks of coffee plants.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Especie de escarabajo que ataca el tallo de"
+    "Especie de escarabajo que ataca el tallo de los cafetos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Species of beetle that attacks the stalks of coffee plants."
+  ],
   "source": "https://tesoro.pr"
 }

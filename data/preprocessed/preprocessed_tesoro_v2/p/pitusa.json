@@ -3,9 +3,12 @@
   "term": "pitusa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Niña chiquita y traviesa",
+      "consolidated_definition": "Niña chiquita y traviesa.",
+      "en_consolidated_definition": "Young and mischievous girl.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Niña chiquita y traviesa"
+    "Niña chiquita y traviesa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Young and mischievous girl."
+  ],
   "source": "https://tesoro.pr"
 }

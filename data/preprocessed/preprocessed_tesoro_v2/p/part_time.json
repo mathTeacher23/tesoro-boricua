@@ -3,14 +3,17 @@
   "term": "part time",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese del trabajo o la cosa que se",
+      "consolidated_definition": "Trabajo a tiempo parcial.",
+      "en_consolidated_definition": "Part-time employment or work.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.5672",
-        "semantic_similarity_score": 0.5672,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -61,19 +64,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Dícese del trabajo o la cosa que se hace a ratos, por algunas horas, pero con cierta permanencia y regularidad.",
-          "Trabajo poco importante y ocasional.",
-          "Obrero eventual. También temporero.",
-          "Tiempo parcial o jornada parcial de trabajo.",
-          "Jornada parcial. Se dice del trabajo o de los estudios que se realizan en una porción del día o sólo algunos días de la semana. Anglicismo crudo, frecuente. Véase full time. Yo lo hago también, me pongo en turno, pero como yo había tenido un part time hasta octubre, entonces pues tuve que dejarlo",
           "Trabajo a tiempo parcial."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dícese del trabajo o la cosa que se"
+    "Trabajo a tiempo parcial."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Part-time employment or work."
+  ],
   "source": "https://tesoro.pr"
 }

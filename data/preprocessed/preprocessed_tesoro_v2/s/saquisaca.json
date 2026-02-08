@@ -3,9 +3,12 @@
   "term": "saquisaca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gasto continuo de dinero",
+      "consolidated_definition": "Gasto continuo de dinero.",
+      "en_consolidated_definition": "Continuous expenditure of money.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gasto continuo de dinero"
+    "Gasto continuo de dinero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Continuous expenditure of money."
+  ],
   "source": "https://tesoro.pr"
 }

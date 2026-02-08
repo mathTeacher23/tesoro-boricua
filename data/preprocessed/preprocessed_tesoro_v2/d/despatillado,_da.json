@@ -3,9 +3,12 @@
   "term": "despatillado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, que camina muy rápidamente.",
+      "en_consolidated_definition": "Referido a persona, que camina con gran celeridad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona"
+    "Referido a persona, que camina muy rápidamente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a persona, que camina con gran celeridad."
+  ],
   "source": "https://tesoro.pr"
 }

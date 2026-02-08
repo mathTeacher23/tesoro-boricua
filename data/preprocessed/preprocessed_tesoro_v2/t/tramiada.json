@@ -3,9 +3,12 @@
   "term": "tramiada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de la cosecha cuando viene por",
+      "consolidated_definition": "Se dice de la cosecha cuando viene por etapas, aunque la siembra haya sido uniforme.",
+      "en_consolidated_definition": "This crop is said to be harvested in stages, although the planting was uniform.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Se dice de la cosecha cuando viene por"
+    "Se dice de la cosecha cuando viene por etapas, aunque la siembra haya sido uniforme."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This crop is said to be harvested in stages, although the planting was uniform.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

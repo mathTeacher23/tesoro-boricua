@@ -3,9 +3,12 @@
   "term": "gente de orilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De clase media y no muy acaudalada",
+      "consolidated_definition": "De clase media y no muy acaudalada. También gente de medio palo, gente de calle atrás.",
+      "en_consolidated_definition": "De clase media y no muy acaudalada; también gente de medio palo, gente de calle atrás.\n\nNota: \"Medio palo\" es un término coloquial en Puerto Rico que se refiere a alguien que tiene una posición social intermedia, pero no es rico ni pobre. \"Calle atrás\" se refiere a la zona rural o suburbana de una ciudad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "De clase media y no muy acaudalada"
+    "De clase media y no muy acaudalada. También gente de medio palo, gente de calle atrás."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "De clase media y no muy acaudalada; también gente de medio palo, gente de calle atrás.\n\nNota: \"Medio palo\" es un término coloquial en Puerto Rico que se refiere a alguien que tiene una posición social intermedia, pero no es rico ni pobre. \"Calle atrás\" se refiere a la zona rural o suburbana de una ciudad."
+  ],
   "source": "https://tesoro.pr"
 }

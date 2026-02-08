@@ -3,9 +3,12 @@
   "term": "gallo patimorado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo de pata amarilla y prieta",
+      "consolidated_definition": "Gallo de pata amarilla y prieta. Corta mucho .",
+      "en_consolidated_definition": "Rooster with yellow and black legs. Cuts much.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gallo de pata amarilla y prieta"
+    "Gallo de pata amarilla y prieta. Corta mucho ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rooster with yellow and black legs. Cuts much."
+  ],
   "source": "https://tesoro.pr"
 }

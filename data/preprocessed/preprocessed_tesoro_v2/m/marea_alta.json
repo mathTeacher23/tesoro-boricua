@@ -3,9 +3,12 @@
   "term": "marea alta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Flujo",
+      "consolidated_definition": "Flujo.",
+      "en_consolidated_definition": "Current or flow of water.\n\nStream.\n\nFlowing current.\n\nTidal current.\n\nWatercourse.\n\nRiver.\n\nBrook.\n\nCreek.\n\nRunoff.\n\nDischarge.\n\nOutflow.\n\nInflux.\n\nSurge.\n\nTide.\n\nFlood.\n\nFreshwater.\n\nBrackish water.\n\nSaline water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Flujo"
+    "Flujo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Current or flow of water.\n\nStream.\n\nFlowing current.\n\nTidal current.\n\nWatercourse.\n\nRiver.\n\nBrook.\n\nCreek.\n\nRunoff.\n\nDischarge.\n\nOutflow.\n\nInflux.\n\nSurge.\n\nTide.\n\nFlood.\n\nFreshwater.\n\nBrackish water.\n\nSaline water."
+  ],
   "source": "https://tesoro.pr"
 }

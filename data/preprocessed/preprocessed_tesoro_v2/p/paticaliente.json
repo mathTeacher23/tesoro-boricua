@@ -3,14 +3,17 @@
   "term": "paticaliente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Andariego",
+      "consolidated_definition": "Referido a persona, que camina mucho, andariega.",
+      "en_consolidated_definition": "Peripatética, referido a persona que camina mucho.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.7252",
-        "semantic_similarity_score": 0.7252,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo"
@@ -58,19 +61,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Andariego.",
-          "Andariego.",
-          "Andariego.",
-          "Andariego.",
-          "Andariego, ga.",
           "Referido a persona, que camina mucho, andariega."
         ]
       }
     }
   },
   "es_definitions": [
-    "Andariego"
+    "Referido a persona, que camina mucho, andariega."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Peripatética, referido a persona que camina mucho."
+  ],
   "source": "https://tesoro.pr"
 }

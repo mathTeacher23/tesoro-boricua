@@ -3,9 +3,12 @@
   "term": "no hay cráneo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No",
+      "consolidated_definition": "No.",
+      "en_consolidated_definition": "Negative response or refusal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "No"
+    "No."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Negative response or refusal."
+  ],
   "source": "https://tesoro.pr"
 }

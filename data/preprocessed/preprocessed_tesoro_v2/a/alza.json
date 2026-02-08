@@ -3,15 +3,18 @@
   "term": "alza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Borrachera: Sustantivo que designa el exceso de alcohol consumido en un período corto de tiempo, caracterizado por alteraciones en la conducta y el estado de ánimo.",
+      "consolidated_definition": "Borrachera.",
+      "en_consolidated_definition": "Excess of intoxication, typically resulting from excessive consumption of alcohol, often associated with festive or celebratory contexts in Puerto Rican culture.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Borrachera: Sustantivo que designa el exceso de alcohol consumido en un período corto de tiempo, caracterizado por alteraciones en la conducta y el estado de ánimo."
+    "Borrachera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Excess of intoxication, typically resulting from excessive consumption of alcohol, often associated with festive or celebratory contexts in Puerto Rican culture."
+  ],
   "source": "https://tesoro.pr"
 }

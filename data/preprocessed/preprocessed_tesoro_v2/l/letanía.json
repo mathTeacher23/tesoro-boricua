@@ -3,9 +3,12 @@
   "term": "letanía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Discurso repetitivo y largo",
+      "consolidated_definition": "Discurso repetitivo y largo.",
+      "en_consolidated_definition": "Prolongado discurso repetitivo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Discurso repetitivo y largo"
+    "Discurso repetitivo y largo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Prolongado discurso repetitivo."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "romperse el bejuco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inyectarse en la vena",
+      "consolidated_definition": "Inyectarse en la vena.",
+      "en_consolidated_definition": "Self-administer an injection into a vein.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Inyectarse en la vena"
+    "Inyectarse en la vena."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Self-administer an injection into a vein."
+  ],
   "source": "https://tesoro.pr"
 }

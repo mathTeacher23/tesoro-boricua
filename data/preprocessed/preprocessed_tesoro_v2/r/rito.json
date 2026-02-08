@@ -3,9 +3,12 @@
   "term": "rito",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sistema de trabajo de una logia masónica",
+      "consolidated_definition": "Sistema de trabajo de una logia masónica. Hay dos, el Rito de York y el Rito Escocés.",
+      "en_consolidated_definition": "System of work of a Masonic lodge. There are two, the York Rite and the Scottish Rite.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Sistema de trabajo de una logia masónica"
+    "Sistema de trabajo de una logia masónica. Hay dos, el Rito de York y el Rito Escocés."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "System of work of a Masonic lodge. There are two, the York Rite and the Scottish Rite."
+  ],
   "source": "https://tesoro.pr"
 }

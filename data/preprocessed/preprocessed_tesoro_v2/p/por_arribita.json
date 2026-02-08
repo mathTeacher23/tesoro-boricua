@@ -3,9 +3,12 @@
   "term": "por arribita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De manera superficial",
+      "consolidated_definition": "De manera superficial, sin profundizar.",
+      "en_consolidated_definition": "Superficialmente, sin profundizar en detalle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "De manera superficial"
+    "De manera superficial, sin profundizar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Superficialmente, sin profundizar en detalle."
+  ],
   "source": "https://tesoro.pr"
 }

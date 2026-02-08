@@ -3,15 +3,18 @@
   "term": "tuesta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Turca o borrachera",
+      "consolidated_definition": "\"Turca o borrachera\": estado de embriaguez excesiva y descontrolada.",
+      "en_consolidated_definition": "State of excessive and uncontrolled intoxication.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.6604",
         "semantic_similarity_score": 0.6604,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -52,15 +55,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Zurra",
+      "consolidated_definition": "La zurra o tunda se refiere a un proceso de cocción o calentamiento que se aplica a algo para darle una tostadura característica.",
+      "en_consolidated_definition": "The zurra or tunda refers to a cooking or heating process applied to something in order to give it a characteristic toastiness.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.596",
-        "semantic_similarity_score": 0.596,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6189",
+        "semantic_similarity_score": 0.6189,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -88,16 +94,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Zurra, tunda .",
+          "Zurra, tunda (tueste, en castellano, significa tostadura).",
           "Voz usada en otros países de Hispanoamérica. Zurra. Tunda."
         ]
       }
     }
   },
   "es_definitions": [
-    "Turca o borrachera",
-    "Zurra"
+    "\"Turca o borrachera\": estado de embriaguez excesiva y descontrolada.",
+    "La zurra o tunda se refiere a un proceso de cocción o calentamiento que se aplica a algo para darle una tostadura característica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "State of excessive and uncontrolled intoxication.",
+    "The zurra or tunda refers to a cooking or heating process applied to something in order to give it a characteristic toastiness."
+  ],
   "source": "https://tesoro.pr"
 }

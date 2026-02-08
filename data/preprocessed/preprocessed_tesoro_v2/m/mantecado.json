@@ -3,9 +3,12 @@
   "term": "mantecado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Helado",
+      "consolidated_definition": "Helado.",
+      "en_consolidated_definition": "Ice cream.\n\nNota: En este caso, la palabra \"helado\" es un término común en español y su traducción directa al inglés es \"ice cream\". No hay necesidad de agregar explicaciones o contextos culturales específicos de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Helado"
+    "Helado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ice cream.\n\nNota: En este caso, la palabra \"helado\" es un término común en español y su traducción directa al inglés es \"ice cream\". No hay necesidad de agregar explicaciones o contextos culturales específicos de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

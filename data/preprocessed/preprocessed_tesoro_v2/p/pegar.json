@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": ". Trabajar. “Busqué en qué pegar en San Juan y nada encontré.” Ángel . Parra, , p. 9.",
+      "en_consolidated_definition": "Toil or labor. \"I searched for something to do in San Juan and found nothing.\" Ángel Parra, p. 9.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,9 +43,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "La acción de castigar con azotes a un",
+      "consolidated_definition": "La acción de castigar con azotes a un niño por la falta cometida. También flecar.",
+      "en_consolidated_definition": "The act of punishing a child with lashes for the offense committed. Also known as fletar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,14 +83,17 @@
       }
     },
     "3": {
-      "consolidated_definition": "Acertar",
+      "consolidated_definition": "Acertar, decir alguien algo correcto, aunque por casualidad.",
+      "en_consolidated_definition": "To hit the mark, to say something correct by chance.\n\nNota: En este caso, no se utilizó un término cultural específico de Puerto Rico, pero si se hubiera utilizado uno, se habría preservado el contexto en la traducción.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4886",
-        "semantic_similarity_score": 0.4886,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo intransitivo"
@@ -126,18 +135,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Acertar.",
-          "Decir algo correcto.",
-          "Acertar, por casualidad.",
-          "Acertar, decir alguien algo correcto, aunque por casualidad.",
-          "Ganar alguien en un juego de azar."
+          "Acertar, decir alguien algo correcto, aunque por casualidad."
         ]
       }
     },
     "4": {
-      "consolidated_definition": "Empezar a hacer algo de repente y con",
+      "consolidated_definition": "Empezar a hacer algo de repente y con fuerza.",
+      "en_consolidated_definition": "To begin doing something suddenly and with force.\n\nNota: Esta traducción mantiene el significado exacto de la definición original y utiliza vocabulario formal y apropiado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -172,10 +180,15 @@
   },
   "es_definitions": [
     ". Trabajar. “Busqué en qué pegar en San Juan y nada encontré.” Ángel . Parra, , p. 9.",
-    "La acción de castigar con azotes a un",
-    "Acertar",
-    "Empezar a hacer algo de repente y con"
+    "La acción de castigar con azotes a un niño por la falta cometida. También flecar.",
+    "Acertar, decir alguien algo correcto, aunque por casualidad.",
+    "Empezar a hacer algo de repente y con fuerza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Toil or labor. \"I searched for something to do in San Juan and found nothing.\" Ángel Parra, p. 9.",
+    "The act of punishing a child with lashes for the offense committed. Also known as fletar.",
+    "To hit the mark, to say something correct by chance.\n\nNota: En este caso, no se utilizó un término cultural específico de Puerto Rico, pero si se hubiera utilizado uno, se habría preservado el contexto en la traducción.",
+    "To begin doing something suddenly and with force.\n\nNota: Esta traducción mantiene el significado exacto de la definición original y utiliza vocabulario formal y apropiado para un diccionario."
+  ],
   "source": "https://tesoro.pr"
 }

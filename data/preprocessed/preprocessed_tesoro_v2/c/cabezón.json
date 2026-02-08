@@ -3,15 +3,18 @@
   "term": "cabezón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Carey\": árbol tropical de la familia de las palmeras.",
+      "consolidated_definition": "Variedad de carey.",
+      "en_consolidated_definition": "Variety of manatee.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"pez\": nombre común que se refiere a un animal acuático de la familia Atherinidae, específicamente a Atherinomorus stipes, también conocido como cabezote.",
+      "consolidated_definition": "\"pez\": nombre común que se refiere a un animal acuático con escamas y aletas, perteneciente a la familia Atherinidae. También conocido como cabezote o mijúa.",
+      "en_consolidated_definition": "Fish: common noun referring to a aquatic animal with scales and fins, belonging to the family Atherinidae. Also known as head or mijoa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
@@ -88,9 +94,12 @@
     }
   },
   "es_definitions": [
-    "\"Carey\": árbol tropical de la familia de las palmeras.",
-    "\"pez\": nombre común que se refiere a un animal acuático de la familia Atherinidae, específicamente a Atherinomorus stipes, también conocido como cabezote."
+    "Variedad de carey.",
+    "\"pez\": nombre común que se refiere a un animal acuático con escamas y aletas, perteneciente a la familia Atherinidae. También conocido como cabezote o mijúa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Variety of manatee.",
+    "Fish: common noun referring to a aquatic animal with scales and fins, belonging to the family Atherinidae. Also known as head or mijoa."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,12 +3,15 @@
   "term": "sereno",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rocío",
+      "consolidated_definition": "Rocío.",
+      "en_consolidated_definition": "Dewfall.\n\nAlternatively:\n\n Dew or Dampness that falls from the sky, typically in a light and intermittent manner, often associated with tropical climates such as those found in Puerto Rico.\n\nOr more formally:\n\n Dew or Moisture that precipitates from the atmosphere, characterized by its gentle and sporadic nature, commonly observed in humid regions like Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_1995",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
         "cluster_count": null,
@@ -39,20 +42,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Rocío.",
           "Rocío."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Llovizna con sol",
+      "consolidated_definition": "Lluvia menuda y de corta duración.",
+      "en_consolidated_definition": "Light drizzle of short duration.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5697",
-        "semantic_similarity_score": 0.5697,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -83,16 +88,18 @@
           "serenito"
         ],
         "reference_definitions": [
-          "Llovizna con sol, ‘agua fina que casi no moja’. Se le llama también mojabobo, flor de tigüero y paja de tigüero. En Canarias y Colombia es llovizna. Alvar, Tenerife, 235. .",
           "Lluvia menuda y de corta duración."
         ]
       }
     }
   },
   "es_definitions": [
-    "Rocío",
-    "Llovizna con sol"
+    "Rocío.",
+    "Lluvia menuda y de corta duración."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dewfall.\n\nAlternatively:\n\n Dew or Dampness that falls from the sky, typically in a light and intermittent manner, often associated with tropical climates such as those found in Puerto Rico.\n\nOr more formally:\n\n Dew or Moisture that precipitates from the atmosphere, characterized by its gentle and sporadic nature, commonly observed in humid regions like Puerto Rico.",
+    "Light drizzle of short duration."
+  ],
   "source": "https://tesoro.pr"
 }

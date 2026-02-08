@@ -3,9 +3,12 @@
   "term": "guamá venezolano",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inga quaternata",
+      "consolidated_definition": "Inga quaternata.",
+      "en_consolidated_definition": "Inga quaternata.\n\nTranslation:\nInga quaternata.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Inga quaternata"
+    "Inga quaternata."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Inga quaternata.\n\nTranslation:\nInga quaternata."
+  ],
   "source": "https://tesoro.pr"
 }

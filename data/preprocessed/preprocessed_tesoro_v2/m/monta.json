@@ -3,9 +3,12 @@
   "term": "monta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cabalgadura",
+      "consolidated_definition": "Cabalgadura.",
+      "en_consolidated_definition": "Ride or mount (specifically referring to a horseback ride in Puerto Rico)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Cabalgadura"
+    "Cabalgadura."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ride or mount (specifically referring to a horseback ride in Puerto Rico)"
+  ],
   "source": "https://tesoro.pr"
 }

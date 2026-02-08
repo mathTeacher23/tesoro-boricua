@@ -3,15 +3,18 @@
   "term": "restaurán",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Por restaurante",
+      "consolidated_definition": "Persona que trabaja en un restaurante.",
+      "en_consolidated_definition": "Persona que trabaja en un restaurante.\n\nPersona employed in a restaurant.\n\nNota: En algunos contextos, se puede utilizar el término \"waiter/waitress\" o \"server\", pero para mantener la precisión y formalidad, se ha optado por la traducción literal de \"persona employed in a restaurant\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6684",
         "semantic_similarity_score": 0.6684,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Por restaurante"
+    "Persona que trabaja en un restaurante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que trabaja en un restaurante.\n\nPersona employed in a restaurant.\n\nNota: En algunos contextos, se puede utilizar el término \"waiter/waitress\" o \"server\", pero para mantener la precisión y formalidad, se ha optado por la traducción literal de \"persona employed in a restaurant\"."
+  ],
   "source": "https://tesoro.pr"
 }

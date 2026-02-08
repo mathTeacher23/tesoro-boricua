@@ -3,15 +3,18 @@
   "term": "mango",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cabo",
+      "consolidated_definition": "El cabo se refiere a un extremo o fin de algo, especialmente en el contexto de objetos físicos como cables, líneas o estructuras. También se usa para designar el extremo del mango de herramientas como palas y machetes.",
+      "en_consolidated_definition": "The end or extremity of something, especially in the context of physical objects such as cables, lines, or structures. It also refers to the end of the handle of tools like shovels and machetes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5374",
-        "semantic_similarity_score": 0.5374,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5406",
+        "semantic_similarity_score": 0.5406,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -53,20 +56,23 @@
           "El cabo de la pala. También asa, cabo, palo.",
           "Asa de la pala. También cabo, empuñadura.",
           "El cabo de la empuñadura del machete.",
-          "Menciones adicionales numerosas para el asa del mango , a través de la Isla: -asa, abrazadera, agarradero, brazo, cogedero, empuñadura, gancho, garrador, garfio, lazo, mango, manigueta, ojo-, conjunto en el cual se le revelaron a Navarro como más corrientes empuñadura por el este, manigueta, por el centro, y mango por el oeste."
+          "Menciones adicionales numerosas para el asa del mango de la pala, a través de la Isla: -asa, abrazadera, agarradero, brazo, cogedero, empuñadura, gancho, garrador, garfio, lazo, mango, manigueta, ojo-, conjunto en el cual se le revelaron a Navarro como más corrientes empuñadura por el este, manigueta, por el centro, y mango por el oeste."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Timón",
+      "consolidated_definition": "El timón es un dispositivo que controla el rumbo de un barco o avión, permitiendo cambiar la dirección de su movimiento.",
+      "en_consolidated_definition": "The helm is a device that controls the course of a ship or aircraft, allowing for changes in its direction of movement.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5174",
         "semantic_similarity_score": 0.5174,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -101,9 +107,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Mangó",
+      "consolidated_definition": "Mangó.",
+      "en_consolidated_definition": "Mango (fruit) \n\nNote: En este contexto, \"mangó\" se refiere a la fruta del mango, que es una planta tropical originaria de Asia y ampliamente cultivada en Puerto Rico.\n\nAlternatively:\n\nMango (tree)\n\nNote: Si el contexto fuera referirse al árbol de mango, entonces la traducción sería esta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -138,10 +147,14 @@
     }
   },
   "es_definitions": [
-    "Cabo",
-    "Timón",
-    "Mangó"
+    "El cabo se refiere a un extremo o fin de algo, especialmente en el contexto de objetos físicos como cables, líneas o estructuras. También se usa para designar el extremo del mango de herramientas como palas y machetes.",
+    "El timón es un dispositivo que controla el rumbo de un barco o avión, permitiendo cambiar la dirección de su movimiento.",
+    "Mangó."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The end or extremity of something, especially in the context of physical objects such as cables, lines, or structures. It also refers to the end of the handle of tools like shovels and machetes.",
+    "The helm is a device that controls the course of a ship or aircraft, allowing for changes in its direction of movement.",
+    "Mango (fruit) \n\nNote: En este contexto, \"mangó\" se refiere a la fruta del mango, que es una planta tropical originaria de Asia y ampliamente cultivada en Puerto Rico.\n\nAlternatively:\n\nMango (tree)\n\nNote: Si el contexto fuera referirse al árbol de mango, entonces la traducción sería esta."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "achocado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de una persona que experimenta un dolor intenso o agudo en la cabeza.",
+      "consolidated_definition": "Referido a persona, drogada.",
+      "en_consolidated_definition": "Referido a persona, intoxicada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 11,
-        "num_cleaned_definitions": 11,
-        "definition_stability": "Stability: 0.5996",
-        "semantic_similarity_score": 0.5996,
-        "cluster_count": 11,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -66,30 +69,23 @@
           "achocar 1"
         ],
         "reference_definitions": [
-          "Tener mucho dolor de cabeza. Estar achocado de la cabeza.",
-          "(general) Con mucho dolor de cabeza.",
-          "Con fuerte dolor de la cabeza.",
-          "Dícese de la persona que tiene mucho dolor de cabeza.",
-          "Dícese del que ha recibido un fuerte golpe en la cabeza y está inconsciente.",
-          "Dícese del endrogado.",
-          "Estar sin sentido por efecto de un golpe recibido en la cabeza.",
-          "Referido a persona, drogada.",
-          "Referido a persona, que tiene mucho dolor de cabeza.",
-          "Referido a persona, que está en cama por enfermedad pasajera.",
-          "Referido a persona, inconsciente por haber recibido un fuerte golpe en la cabeza."
+          "Referido a persona, drogada."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Referido a persona, que experimenta un estado de somnolencia excesiva o prolongada.",
+      "consolidated_definition": "Referido a persona, que tiene mucho sueño.",
+      "en_consolidated_definition": "Referido a persona que tiene mucho sueño.\n\nPersona characterized by excessive somnolence.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6522",
-        "semantic_similarity_score": 0.6522,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -113,16 +109,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Referido a persona, que tiene mucho sueño.",
-          "Referido a persona, profundamente dormida."
+          "Referido a persona, que tiene mucho sueño."
         ]
       }
     }
   },
   "es_definitions": [
-    "Dícese de una persona que experimenta un dolor intenso o agudo en la cabeza.",
-    "Referido a persona, que experimenta un estado de somnolencia excesiva o prolongada."
+    "Referido a persona, drogada.",
+    "Referido a persona, que tiene mucho sueño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a persona, intoxicada.",
+    "Referido a persona que tiene mucho sueño.\n\nPersona characterized by excessive somnolence."
+  ],
   "source": "https://tesoro.pr"
 }

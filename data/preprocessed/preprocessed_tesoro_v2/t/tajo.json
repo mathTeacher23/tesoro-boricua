@@ -3,14 +3,17 @@
   "term": "tajo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el argot hípico es el caballo que",
+      "consolidated_definition": "En el mundo de la hípica, caballo de calidad inferior que gana una carrera por casualidad.",
+      "en_consolidated_definition": "In the world of horse racing, a subpar horse that wins a race by chance.\n\nNota: En este contexto, \"hípica\" se refiere al mundo de las carreras de caballos y no necesariamente a la hípica en general. \n\nSi deseas una traducción más formal, podría ser:\n\nIn the equestrian world of horse racing, a subpar horse that wins a race by chance.\n\nAquí he mantenido el término \"equestrian\" para reflejar el contexto específico de las carreras de caballos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.6338",
-        "semantic_similarity_score": 0.6338,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -68,26 +71,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En el argot hípico es el caballo que, siendo de inferiores formas, suele ganar por casualidad. “Y a fin de que no pierda la yegua, que asegura la vieja ser el tajo más grande de la tarde...” César A. Toro, .",
-          "Ganancia en una contienda por casualidad o inesperadamente; persona que obtiene algo inesperadamente.",
-          "Ganancia casual o inesperada.",
-          "Ganancia en una contienda por casualidad o inesperadamente.",
-          "En hipismo, el caballo ganador que no era el favorito.",
-          "‘En el argot hípico es el caballo que, siendo de inferiores formas, suele ganar por casualidad’, según Malaret. “Y a fin de que no pierda la yegua, que asegura la vieja ser el tajo más grande de la tarde…” César A. Toro, .",
           "En el mundo de la hípica, caballo de calidad inferior que gana una carrera por casualidad."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Tirada",
+      "consolidated_definition": "\"Tirada\": engaño o estafa que consiste en obtener dinero o bienes sin el consentimiento del afectado.",
+      "en_consolidated_definition": "Scam or swindle that involves obtaining money or goods without the consent of the affected party.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5027",
         "semantic_similarity_score": 0.5027,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -122,9 +122,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Ver chifle 1",
+      "consolidated_definition": "Ver chifle 1 .",
+      "en_consolidated_definition": "See joke 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -144,9 +147,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Ruta o sitio fijado por el capataz a",
+      "consolidated_definition": "Ruta o sitio fijado por el capataz a sus hombres de acuerdo a como se ha organizado el trabajo.",
+      "en_consolidated_definition": "Route or site assigned by the foreman to his men in accordance with how the work has been organized.\n\nNota: En este contexto, \"capataz\" se refiere a un supervisor o jefe de equipo en el trabajo. Se mantiene la traducción literal para mantener el significado exacto y el tono formal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -182,9 +188,12 @@
       }
     },
     "5": {
-      "consolidated_definition": "Persona que obtiene algo inesperadamente",
+      "consolidated_definition": "Persona que obtiene algo inesperadamente, especialmente una ganancia de dinero.",
+      "en_consolidated_definition": "Persona que obtiene algo inesperadamente, especialmente una ganancia de dinero.\n\nTranslation:\n\nPerson who obtains something unexpectedly, especially an unexpected gain of money.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -219,12 +228,18 @@
     }
   },
   "es_definitions": [
-    "En el argot hípico es el caballo que",
-    "Tirada",
-    "Ver chifle 1",
-    "Ruta o sitio fijado por el capataz a",
-    "Persona que obtiene algo inesperadamente"
+    "En el mundo de la hípica, caballo de calidad inferior que gana una carrera por casualidad.",
+    "\"Tirada\": engaño o estafa que consiste en obtener dinero o bienes sin el consentimiento del afectado.",
+    "Ver chifle 1 .",
+    "Ruta o sitio fijado por el capataz a sus hombres de acuerdo a como se ha organizado el trabajo.",
+    "Persona que obtiene algo inesperadamente, especialmente una ganancia de dinero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the world of horse racing, a subpar horse that wins a race by chance.\n\nNota: En este contexto, \"hípica\" se refiere al mundo de las carreras de caballos y no necesariamente a la hípica en general. \n\nSi deseas una traducción más formal, podría ser:\n\nIn the equestrian world of horse racing, a subpar horse that wins a race by chance.\n\nAquí he mantenido el término \"equestrian\" para reflejar el contexto específico de las carreras de caballos.",
+    "Scam or swindle that involves obtaining money or goods without the consent of the affected party.",
+    "See joke 1.",
+    "Route or site assigned by the foreman to his men in accordance with how the work has been organized.\n\nNota: En este contexto, \"capataz\" se refiere a un supervisor o jefe de equipo en el trabajo. Se mantiene la traducción literal para mantener el significado exacto y el tono formal.",
+    "Persona que obtiene algo inesperadamente, especialmente una ganancia de dinero.\n\nTranslation:\n\nPerson who obtains something unexpectedly, especially an unexpected gain of money."
+  ],
   "source": "https://tesoro.pr"
 }

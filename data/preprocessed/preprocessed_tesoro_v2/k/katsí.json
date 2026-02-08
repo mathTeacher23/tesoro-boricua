@@ -3,9 +3,12 @@
   "term": "katsí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver kasti",
+      "consolidated_definition": "Ver kasti .",
+      "en_consolidated_definition": "Ver kasti.\n\nTranslation:\nSee Castilian.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver kasti"
+    "Ver kasti ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ver kasti.\n\nTranslation:\nSee Castilian."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "lane",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Carril",
+      "consolidated_definition": "Carril, vía de circulación en una calle o carretera.",
+      "en_consolidated_definition": "Lane, path of circulation in a street or highway.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4581",
-        "semantic_similarity_score": 0.4581,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,17 +47,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Carril.",
-          "Trocha.",
-          "Carril, vía. Cada una de las divisiones con líneas a lo largo de una avenida destinada al tránsito de una sola fila de vehículos, también en las pistas de correr y otros deportes o juegos. Anglicismo crudo, frecuente. Además, durante la actividad, los participantes disfrutaron de un desayuno bufé y se les proveyó zapatos especiales para jugar, así como la reservación de un lane o carril de bolos, todo libre de costo",
           "Carril, vía de circulación en una calle o carretera."
         ]
       }
     }
   },
   "es_definitions": [
-    "Carril"
+    "Carril, vía de circulación en una calle o carretera."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lane, path of circulation in a street or highway."
+  ],
   "source": "https://tesoro.pr"
 }

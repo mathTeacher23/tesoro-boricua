@@ -3,9 +3,12 @@
   "term": "mantequilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de oruga que come la hoja del",
+      "consolidated_definition": "Variedad de oruga que come la hoja del tabaco. También llamado casimir.",
+      "en_consolidated_definition": "Variety of caterpillar that feeds on tobacco leaves, also known as casimir.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Heroína",
+      "consolidated_definition": "Heroína, droga.",
+      "en_consolidated_definition": "Heroine, illicit drug.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -77,15 +83,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Nombre de dos peces",
+      "consolidated_definition": "Epinephelus fulvus y Epinephelus cruentatus son dos especies de peces de la familia Serranidae (meros), conocidas como negrita o fino en diferentes regiones.",
+      "en_consolidated_definition": "Epinephelus fulvus and Epinephelus cruentatus are two species of fish in the family Serranidae (groupers), known as negrita or fino in different regions.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4572",
-        "semantic_similarity_score": 0.4572,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5382",
+        "semantic_similarity_score": 0.5382,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -115,17 +124,21 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Nombre de dos peces, de la familia Serranidae . Epinephelus fulvus y E. cruentatus. El primero se conoce en Mayagüez como negrita, y en Patillas, como fino.",
+          "Nombre de dos peces, de la familia Serranidae (meros). Epinephelus fulvus y E. cruentatus. El primero se conoce en Mayagüez como negrita, y en Patillas, como fino.",
           "Pez de mar, comestible, de la familia de los meros."
         ]
       }
     }
   },
   "es_definitions": [
-    "Variedad de oruga que come la hoja del",
-    "Heroína",
-    "Nombre de dos peces"
+    "Variedad de oruga que come la hoja del tabaco. También llamado casimir.",
+    "Heroína, droga.",
+    "Epinephelus fulvus y Epinephelus cruentatus son dos especies de peces de la familia Serranidae (meros), conocidas como negrita o fino en diferentes regiones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Variety of caterpillar that feeds on tobacco leaves, also known as casimir.",
+    "Heroine, illicit drug.",
+    "Epinephelus fulvus and Epinephelus cruentatus are two species of fish in the family Serranidae (groupers), known as negrita or fino in different regions."
+  ],
   "source": "https://tesoro.pr"
 }

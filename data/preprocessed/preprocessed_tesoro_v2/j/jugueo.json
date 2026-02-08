@@ -3,9 +3,12 @@
   "term": "jugueo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Entretenimiento",
+      "consolidated_definition": "Entretenimiento.",
+      "en_consolidated_definition": "Recreación o entretenimiento.\n\nOcasionalmente se refiere a actividades como los festivales de música y baile típicos en Puerto Rico, conocidos como \"fiestas\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Entretenimiento"
+    "Entretenimiento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Recreación o entretenimiento.\n\nOcasionalmente se refiere a actividades como los festivales de música y baile típicos en Puerto Rico, conocidos como \"fiestas\"."
+  ],
   "source": "https://tesoro.pr"
 }

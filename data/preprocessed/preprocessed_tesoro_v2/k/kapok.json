@@ -3,9 +3,12 @@
   "term": "kapok",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de lana vegetal muy liviana obtenida de",
+      "consolidated_definition": "Especie de lana vegetal muy liviana obtenida de la semilla de la ceiba.",
+      "en_consolidated_definition": "A type of very lightweight vegetable wool obtained from the seed of the ceiba tree.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Especie de lana vegetal muy liviana obtenida de"
+    "Especie de lana vegetal muy liviana obtenida de la semilla de la ceiba."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A type of very lightweight vegetable wool obtained from the seed of the ceiba tree."
+  ],
   "source": "https://tesoro.pr"
 }

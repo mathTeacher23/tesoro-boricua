@@ -3,14 +3,17 @@
   "term": "nickel",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cinco dólares de heroína",
+      "consolidated_definition": "Dosis equivalente a cinco dólares de heroína.",
+      "en_consolidated_definition": "Equivalent dose of five dollars' worth of heroin.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9321",
-        "semantic_similarity_score": 0.9321,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Cinco dólares de heroína.",
           "Dosis equivalente a cinco dólares de heroína."
         ]
       }
     }
   },
   "es_definitions": [
-    "Cinco dólares de heroína"
+    "Dosis equivalente a cinco dólares de heroína."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Equivalent dose of five dollars' worth of heroin."
+  ],
   "source": "https://tesoro.pr"
 }

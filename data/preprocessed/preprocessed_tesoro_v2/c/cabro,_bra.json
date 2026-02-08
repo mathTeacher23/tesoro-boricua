@@ -3,15 +3,18 @@
   "term": "cabro, bra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se refiere a un individuo o ser humano, impertinente.",
+      "consolidated_definition": "Referido a persona, impertinente.",
+      "en_consolidated_definition": "Impertinente en relación con una persona.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona ágil que sube o salta con facilidad.",
+      "consolidated_definition": "Referido a persona, ágil, que sube o salta con facilidad.",
+      "en_consolidated_definition": "Referring to a person, agile, who ascends or leaps with ease.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo"
         ],
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Se refiere a un individuo o ser humano, impertinente.",
-    "Persona ágil que sube o salta con facilidad."
+    "Referido a persona, impertinente.",
+    "Referido a persona, ágil, que sube o salta con facilidad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Impertinente en relación con una persona.",
+    "Referring to a person, agile, who ascends or leaps with ease.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

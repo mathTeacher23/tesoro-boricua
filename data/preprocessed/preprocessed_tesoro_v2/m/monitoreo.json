@@ -3,14 +3,17 @@
   "term": "monitoreo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vigilancia, relacionado con un grupo o un mecanismo",
+      "consolidated_definition": "Control o seguimiento realizado con un monitor o aparato electrónico visual o acústico.",
+      "en_consolidated_definition": "Monitoring or tracking performed with a visual or acoustic electronic device or monitor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5217",
-        "semantic_similarity_score": 0.5217,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -50,17 +53,16 @@
           "monitorear"
         ],
         "reference_definitions": [
-          "Vigilancia. Según nuestros informantes, se utiliza en los hospitales haciendo referencia al ‘proceso de vigilancia que lleva a cabo un equipo electrónico especializado que detecta los signos vitales de los pacientes’. Igualmente se extiende a cualquier otro sistema o proceso de control. Así, en el equipo electrónico hace referencia a programas especiales y a los que controlan la señal en las transmisiones de radio. También se ha extendido a la supervisión de hijos y empleados.",
-          "Seguimiento, supervisión. Proceso de vigilancia que se lleva a cabo para vigilar el comportamiento de personas, cosas o entidades, generalmente con un equipo electrónico especializado. Neologismo anglicado, usual. Sin embargo, el secretario de Recursos Naturales y Ambientales, Javier Vélez Arocho, señaló que no era imprescindible el desalojo de esas familias en tanto esa agencia y el gobierno municipal estaban en continuo monitoreo de la montaña",
-          "Control o seguimiento realizado con un monitor o aparato electrónico visual o acústico.",
-          "Supervisión o control de algo."
+          "Control o seguimiento realizado con un monitor o aparato electrónico visual o acústico."
         ]
       }
     }
   },
   "es_definitions": [
-    "Vigilancia, relacionado con un grupo o un mecanismo"
+    "Control o seguimiento realizado con un monitor o aparato electrónico visual o acústico."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Monitoring or tracking performed with a visual or acoustic electronic device or monitor."
+  ],
   "source": "https://tesoro.pr"
 }

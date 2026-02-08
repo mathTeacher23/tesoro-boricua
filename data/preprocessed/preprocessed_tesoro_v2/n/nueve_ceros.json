@@ -3,9 +3,12 @@
   "term": "nueve ceros",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, resultado de un juego en el que un equipo gana sin permitir carreras al contrario.",
+      "en_consolidated_definition": "In baseball, result of a game in which one team wins without allowing runs to the opposing team.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, resultado de un juego en el que un equipo gana sin permitir carreras al contrario."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, result of a game in which one team wins without allowing runs to the opposing team."
+  ],
   "source": "https://tesoro.pr"
 }

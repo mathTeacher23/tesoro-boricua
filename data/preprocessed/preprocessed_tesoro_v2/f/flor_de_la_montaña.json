@@ -3,9 +3,12 @@
   "term": "flor de la montaña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Jíbara agraciada",
+      "consolidated_definition": "Jíbara agraciada, pero sin escolaridad.",
+      "en_consolidated_definition": "Well-educated but unschooled woman from a rural area of Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Jíbara agraciada"
+    "Jíbara agraciada, pero sin escolaridad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Well-educated but unschooled woman from a rural area of Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

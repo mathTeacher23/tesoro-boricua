@@ -3,9 +3,12 @@
   "term": "flor de caña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La flor de la caña",
+      "consolidated_definition": "La flor de la caña. También guajana, espiga.",
+      "en_consolidated_definition": "The flower of the cane. Also guajana, spike.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "La flor de la caña"
+    "La flor de la caña. También guajana, espiga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The flower of the cane. Also guajana, spike."
+  ],
   "source": "https://tesoro.pr"
 }

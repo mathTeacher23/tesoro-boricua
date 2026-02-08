@@ -3,15 +3,18 @@
   "term": "aguacatero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Relativo al aguacate\": se refiere a algo que pertenece o está relacionado con el aguacate, incluyendo su cultivo, consumo o características.",
+      "consolidated_definition": "Relativo al aguacate.",
+      "en_consolidated_definition": "Relativo al aguacate.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Aguacatero: Persona que cultiva o vende aguacates.",
+      "consolidated_definition": "Referido a persona, que cultiva o vende aguacates.",
+      "en_consolidated_definition": "Person referred to as a cultivator or vendor of avocados.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6745",
-        "semantic_similarity_score": 0.6745,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -81,17 +87,17 @@
           "aguacate 1"
         ],
         "reference_definitions": [
-          "Persona que vende aguacates.",
-          "Persona a quien gusta la fruta.",
-          "Referido a persona, que cultiva o vende aguacates.",
-          "Referido a persona, que siente predilección por los aguacates."
+          "Referido a persona, que cultiva o vende aguacates."
         ]
       }
     },
     "3": {
       "consolidated_definition": "Persona que estudia o analiza posibles relaciones entre la producción de aguacates en Puerto Rico y la frecuencia o intensidad de los ciclones en la región.",
+      "en_consolidated_definition": "Person who studies or analyzes possible relationships between avocado production in Puerto Rico and the frequency or intensity of hurricanes in the region.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
@@ -144,10 +150,14 @@
     }
   },
   "es_definitions": [
-    "\"Relativo al aguacate\": se refiere a algo que pertenece o está relacionado con el aguacate, incluyendo su cultivo, consumo o características.",
-    "Aguacatero: Persona que cultiva o vende aguacates.",
+    "Relativo al aguacate.",
+    "Referido a persona, que cultiva o vende aguacates.",
     "Persona que estudia o analiza posibles relaciones entre la producción de aguacates en Puerto Rico y la frecuencia o intensidad de los ciclones en la región."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Relativo al aguacate.",
+    "Person referred to as a cultivator or vendor of avocados.",
+    "Person who studies or analyzes possible relationships between avocado production in Puerto Rico and the frequency or intensity of hurricanes in the region."
+  ],
   "source": "https://tesoro.pr"
 }

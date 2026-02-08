@@ -3,9 +3,12 @@
   "term": "restante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Saldo pendiente de pago de una deuda",
+      "consolidated_definition": "Saldo pendiente de pago de una deuda.",
+      "en_consolidated_definition": "Outstanding balance of a debt to be paid.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Saldo pendiente de pago de una deuda"
+    "Saldo pendiente de pago de una deuda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Outstanding balance of a debt to be paid."
+  ],
   "source": "https://tesoro.pr"
 }

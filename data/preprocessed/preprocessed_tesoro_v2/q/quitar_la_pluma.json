@@ -3,9 +3,12 @@
   "term": "quitar la pluma",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Entre adolescentes",
+      "consolidated_definition": "Entre adolescentes, invitar a uno a pelear.",
+      "en_consolidated_definition": "To challenge to a fight among adolescents.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Entre adolescentes"
+    "Entre adolescentes, invitar a uno a pelear."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To challenge to a fight among adolescents."
+  ],
   "source": "https://tesoro.pr"
 }

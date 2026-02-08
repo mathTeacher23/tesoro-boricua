@@ -3,15 +3,18 @@
   "term": "maíz",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Su agricultura se reducía a una corta sementera",
+      "consolidated_definition": "La agricultura de los indígenas se limitaba a una pequeña sementera de maíz y batatas.",
+      "en_consolidated_definition": "The indigenous agriculture was limited to a small plot of corn and sweet potatoes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.2958",
-        "semantic_similarity_score": 0.2958,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4156",
+        "semantic_similarity_score": 0.4156,
+        "cluster_count": 6,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -68,19 +71,22 @@
           "maizal"
         ],
         "reference_definitions": [
-          "Su agricultura se reducía a una corta sementera de maíz, batatas…",
-          ".",
+          "Su de los indígenas agricultura se reducía a una corta sementera de maíz, batatas…",
+          "(Las Casas, 5,315 y Oviedo, 1, 264 escribieron mahiz, ‘h’ aspirada; Herrera, 1, 31, escribió mayz, y Castellanos, maíz, grafía aceptada. En el Arauco domado, Cantos IV y se dice máiz, pronunciación que conserva el vulgo).",
           "Zea Mays. Planta gramínea que se cree sea indígena del Perú, de tallo grueso y algunos metros de altura, hojas largas y planas, la cual produce una mazorca de seis a ocho pulgadas de largo, llena de granos comestibles. Estos granos, que llevan el mismo nombre de la planta, son de color rojo, amarillo, morado o manchados, según la variedad. Se introdujo en Europa, donde se cultiva, después del descubrimiento de América.",
           "Planta de tallo grueso y alto que produce mazorcas con granos amarillos rojizos nutritivos.",
           "Planta.",
-          "Nombre que proceden del sustrato taíno, el de las matas de maíz ."
+          "Nombre que proceden del sustrato taíno, el de las matas de maíz (cuya mazorca provee un grano de diverso aprovechamiento en el sustento humano)."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Fetiche usado en brujería y curandería, relacionado con una organización",
+      "consolidated_definition": "Fetiche usado en brujería y curandería. Granos de maíz secos, que puestos al sereno y luego humedecidos con perfumes y aguas preparadas, los ensartan en hilos para colgarlos al cuello y llevarlos como amuletos y guardacuerpo.",
+      "en_consolidated_definition": "Dried corn kernels used in witchcraft and folk healing. Placed under the moonlight and then moistened with prepared perfumes and waters, they are strung onto threads to be worn as amulets and talismans around the neck.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -115,9 +121,12 @@
     }
   },
   "es_definitions": [
-    "Su agricultura se reducía a una corta sementera",
-    "Fetiche usado en brujería y curandería, relacionado con una organización"
+    "La agricultura de los indígenas se limitaba a una pequeña sementera de maíz y batatas.",
+    "Fetiche usado en brujería y curandería. Granos de maíz secos, que puestos al sereno y luego humedecidos con perfumes y aguas preparadas, los ensartan en hilos para colgarlos al cuello y llevarlos como amuletos y guardacuerpo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The indigenous agriculture was limited to a small plot of corn and sweet potatoes.",
+    "Dried corn kernels used in witchcraft and folk healing. Placed under the moonlight and then moistened with prepared perfumes and waters, they are strung onto threads to be worn as amulets and talismans around the neck."
+  ],
   "source": "https://tesoro.pr"
 }

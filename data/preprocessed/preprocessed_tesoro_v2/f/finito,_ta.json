@@ -3,15 +3,18 @@
   "term": "finito, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Escaso de algo",
+      "consolidated_definition": "Persona que carece de recursos financieros o tiene un ingreso limitado.",
+      "en_consolidated_definition": "Persona que carece de recursos financieros o tiene un ingreso limitado.\n\nPersona con ingresos insuficientes o limitados.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4643",
-        "semantic_similarity_score": 0.4643,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4616",
+        "semantic_similarity_score": 0.4616,
+        "cluster_count": 4,
         "grammar": [
           "adjetivo"
         ],
@@ -47,7 +50,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Escaso de algo; con poco dinero disponible.",
+          "(general) Escaso de algo; con poco dinero disponible.",
           "Delgado, flaco.",
           "Persona o cosa muy delgada.",
           "Escaso de dinero."
@@ -56,8 +59,10 @@
     }
   },
   "es_definitions": [
-    "Escaso de algo"
+    "Persona que carece de recursos financieros o tiene un ingreso limitado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que carece de recursos financieros o tiene un ingreso limitado.\n\nPersona con ingresos insuficientes o limitados."
+  ],
   "source": "https://tesoro.pr"
 }

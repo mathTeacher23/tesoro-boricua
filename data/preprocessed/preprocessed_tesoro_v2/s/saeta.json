@@ -3,9 +3,12 @@
   "term": "saeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Puya",
+      "consolidated_definition": "Puya. Cuchufleta.",
+      "en_consolidated_definition": "Puya. Coqueta or coquette.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Bomba",
+      "consolidated_definition": "Bomba, estrofa de cuatro versos que se recita en los bailes para embromar a determinada persona.",
+      "en_consolidated_definition": "Stanza, a four-line verse recited during dances to mock or tease a specific person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Puya",
-    "Bomba"
+    "Puya. Cuchufleta.",
+    "Bomba, estrofa de cuatro versos que se recita en los bailes para embromar a determinada persona."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Puya. Coqueta or coquette.",
+    "Stanza, a four-line verse recited during dances to mock or tease a specific person."
+  ],
   "source": "https://tesoro.pr"
 }

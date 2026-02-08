@@ -3,15 +3,18 @@
   "term": "regatear",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Contender dos o más caballos o carruajes en la carretera.",
+      "consolidated_definition": "Competir varios vehículos en un mismo espacio de circulación, especialmente entre conductores para pugnar por pasajeros.",
+      "en_consolidated_definition": "Ride-hailing competition among multiple vehicles in the same traffic space, particularly among drivers vying for passengers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3805",
         "semantic_similarity_score": 0.3805,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -52,8 +55,10 @@
     }
   },
   "es_definitions": [
-    ". Contender dos o más caballos o carruajes en la carretera."
+    "Competir varios vehículos en un mismo espacio de circulación, especialmente entre conductores para pugnar por pasajeros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ride-hailing competition among multiple vehicles in the same traffic space, particularly among drivers vying for passengers."
+  ],
   "source": "https://tesoro.pr"
 }

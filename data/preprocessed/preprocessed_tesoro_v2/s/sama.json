@@ -3,15 +3,18 @@
   "term": "sama",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de río",
+      "consolidated_definition": "Pez. Animal acuático que pertenece a la clase de los peces, caracterizado por tener aletas y escamas.",
+      "en_consolidated_definition": "Fish. Aquatic animal belonging to the class of fish, characterized by having fins and scales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.3851",
-        "semantic_similarity_score": 0.3851,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4187",
+        "semantic_similarity_score": 0.4187,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -59,9 +62,9 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez de río. . Stahl, Catalog, 77. .",
+          "Pez de río. (Serranus inermis; Lobotes surinamensis, Cuv). Stahl, Catalog, 77. (En Asturias llaman sama al pez rubiel o pajiel. Ac).",
           "Pez.",
-          "Pez de la familia Lutjanidea . Lutjanus analis.",
+          "Pez de la familia Lutjanidea (pargos). Lutjanus analis.",
           "Lobotidae. Lobotes surinamensis. “Este peje uno no puede distinguir el macho de la hembra.”",
           "Pez de mar, comestible, de la familia del pargo.",
           "Pez."
@@ -70,8 +73,10 @@
     }
   },
   "es_definitions": [
-    "Pez de río"
+    "Pez. Animal acuático que pertenece a la clase de los peces, caracterizado por tener aletas y escamas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fish. Aquatic animal belonging to the class of fish, characterized by having fins and scales."
+  ],
   "source": "https://tesoro.pr"
 }

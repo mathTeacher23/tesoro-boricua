@@ -3,9 +3,12 @@
   "term": "malogrado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No logrado",
+      "consolidated_definition": "No logrado. El hijo que por algún motivo murió al nacer, nació muerto o se perdió por aborto u otra causa.",
+      "en_consolidated_definition": "Stillborn child. The child that died at birth due to some reason, was born dead or miscarried or lost due to abortion or other cause.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "No logrado"
+    "No logrado. El hijo que por algún motivo murió al nacer, nació muerto o se perdió por aborto u otra causa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Stillborn child. The child that died at birth due to some reason, was born dead or miscarried or lost due to abortion or other cause."
+  ],
   "source": "https://tesoro.pr"
 }

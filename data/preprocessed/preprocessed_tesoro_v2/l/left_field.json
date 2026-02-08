@@ -3,14 +3,17 @@
   "term": "left field",
   "superscripts": {
     "1": {
-      "consolidated_definition": "dep",
+      "consolidated_definition": "En el beisbol, jardín izquierdo.",
+      "en_consolidated_definition": "Left field in baseball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5519",
-        "semantic_similarity_score": 0.5519,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "dep. En el juego de béisbol, posición que está en el lado izquierdo, vista desde el área central del juego; por extensión, jugador que está en esa posición. Anglicismo crudo, frecuente. Véase jardín izquierdo. También left fielder. Doblete de “Bam Bam” Ortiz por la línea del left field impulsó a Nieves con la tercera carrera para Cidra",
           "En el beisbol, jardín izquierdo."
         ]
       }
     }
   },
   "es_definitions": [
-    "dep"
+    "En el beisbol, jardín izquierdo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Left field in baseball."
+  ],
   "source": "https://tesoro.pr"
 }

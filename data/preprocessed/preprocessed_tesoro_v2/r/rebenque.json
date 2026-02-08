@@ -3,15 +3,18 @@
   "term": "rebenque",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Cascarrabias.",
+      "consolidated_definition": "\"Cascarrabias\": Persona malhumorada o irritante.",
+      "en_consolidated_definition": "Crabbed person or someone prone to irritability.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4932",
         "semantic_similarity_score": 0.4932,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -46,9 +49,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Flacucho",
+      "consolidated_definition": "Flacucho.",
+      "en_consolidated_definition": "Thin or scrawny person.\n\nNota: En este contexto, \"flacucho\" se refiere a una persona que tiene un físico delgado o escuálido, pero no necesariamente con connotaciones negativas. La traducción busca mantener el significado exacto y la tonalidad formal de un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +90,12 @@
     }
   },
   "es_definitions": [
-    ". Cascarrabias.",
-    "Flacucho"
+    "\"Cascarrabias\": Persona malhumorada o irritante.",
+    "Flacucho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Crabbed person or someone prone to irritability.",
+    "Thin or scrawny person.\n\nNota: En este contexto, \"flacucho\" se refiere a una persona que tiene un físico delgado o escuálido, pero no necesariamente con connotaciones negativas. La traducción busca mantener el significado exacto y la tonalidad formal de un diccionario."
+  ],
   "source": "https://tesoro.pr"
 }

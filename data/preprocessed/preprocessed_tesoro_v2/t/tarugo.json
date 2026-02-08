@@ -3,9 +3,12 @@
   "term": "tarugo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Clavija de madera",
+      "consolidated_definition": "Clavija de madera.",
+      "en_consolidated_definition": "Wooden dowel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Voz usada en otros países de Hispanoamérica",
+      "consolidated_definition": "Voz usada en otros países de Hispanoamérica. Empleado accidental en un cine, teatro o circo, quien generalmente trabaja por el derecho a la admisión a las funciones.",
+      "en_consolidated_definition": "Person employed accidentally in a cinema, theater, or circus, who generally works in exchange for admission to the performances.\n\nNota: En este contexto, \"empleado accidental\" se refiere a un trabajador que no es parte del personal fijo de la institución, sino que se beneficia de la admisión gratuita en reemplazo de su trabajo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Clavija de madera",
-    "Voz usada en otros países de Hispanoamérica"
+    "Clavija de madera.",
+    "Voz usada en otros países de Hispanoamérica. Empleado accidental en un cine, teatro o circo, quien generalmente trabaja por el derecho a la admisión a las funciones."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wooden dowel.",
+    "Person employed accidentally in a cinema, theater, or circus, who generally works in exchange for admission to the performances.\n\nNota: En este contexto, \"empleado accidental\" se refiere a un trabajador que no es parte del personal fijo de la institución, sino que se beneficia de la admisión gratuita en reemplazo de su trabajo."
+  ],
   "source": "https://tesoro.pr"
 }

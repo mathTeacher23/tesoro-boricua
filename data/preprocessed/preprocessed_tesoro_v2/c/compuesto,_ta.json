@@ -3,15 +3,18 @@
   "term": "compuesto, ta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que está bien ataviado y engalanado.",
+      "consolidated_definition": "Se dice de quien está bien ataviado y engalanado.",
+      "en_consolidated_definition": "Well-dressed and elaborately attired person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona que está bien ataviado y engalanado."
+    "Se dice de quien está bien ataviado y engalanado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Well-dressed and elaborately attired person."
+  ],
   "source": "https://tesoro.pr"
 }

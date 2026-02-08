@@ -3,9 +3,12 @@
   "term": "menta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Algo dulce",
+      "consolidated_definition": "Algo dulce.",
+      "en_consolidated_definition": "Something sweet.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Algo dulce"
+    "Algo dulce."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Something sweet."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "lira",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver amapola",
+      "consolidated_definition": "Ver amapola .",
+      "en_consolidated_definition": "See poppy (ver amapola).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,9 +28,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "antic",
+      "consolidated_definition": "antic. (T. en Cuba, Chile, Ecuad. y Perú). Pieza de metal en forma de instrumento músico del mismo nombre, que se usa en las casas para sostener el quinqué. “Cuando la sirvienta hubo encendido la lira.” Laguerre, La llamarada, 1936, p. 29.",
+      "en_consolidated_definition": "Antic. (Used in Cuba, Chile, Ecuador, and Peru). Metal piece in the shape of a musical instrument of the same name, used in homes to hold the quinqué.\n\nNote: La lira se refiere a un tipo de lámpara o quinqué, y no al instrumento musical.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -58,15 +64,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "antic. . Pieza de metal en forma de instrumento músico del mismo nombre, que se usa en las casas para sostener el quinqué. “Cuando la sirvienta hubo encendido la lira.” Laguerre, La llamarada, 1936, p. 29."
+          "antic. (T. en Cuba, Chile, Ecuad. y Perú). Pieza de metal en forma de instrumento músico del mismo nombre, que se usa en las casas para sostener el quinqué. “Cuando la sirvienta hubo encendido la lira.” Laguerre, La llamarada, 1936, p. 29."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ver amapola",
-    "antic"
+    "Ver amapola .",
+    "antic. (T. en Cuba, Chile, Ecuad. y Perú). Pieza de metal en forma de instrumento músico del mismo nombre, que se usa en las casas para sostener el quinqué. “Cuando la sirvienta hubo encendido la lira.” Laguerre, La llamarada, 1936, p. 29."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See poppy (ver amapola).",
+    "Antic. (Used in Cuba, Chile, Ecuador, and Peru). Metal piece in the shape of a musical instrument of the same name, used in homes to hold the quinqué.\n\nNote: La lira se refiere a un tipo de lámpara o quinqué, y no al instrumento musical."
+  ],
   "source": "https://tesoro.pr"
 }

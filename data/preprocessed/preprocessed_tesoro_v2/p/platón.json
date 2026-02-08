@@ -3,15 +3,18 @@
   "term": "platón",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Fuente o plato grande para servir a la mesa las viandas., relacionado con un grupo",
+      "consolidated_definition": "Plato grande para servir comidas en la mesa.",
+      "en_consolidated_definition": "Large serving platter for the table.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.603",
-        "semantic_similarity_score": 0.603,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5706",
+        "semantic_similarity_score": 0.5706,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Fuente o plato grande para servir a la mesa las viandas.",
+          "(T. en Am. Cen., Ven. y Méx.). Fuente o plato grande para servir a la mesa las viandas.",
           "Voz usada en otros países de Hispanoamérica. Plato grande de forma ovalada usado para servir comidas para varias personas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Bandejas que recogen el líquido que se extrae",
+      "consolidated_definition": "Bandejas que recogen el líquido que se extrae en los molinos.",
+      "en_consolidated_definition": "Pans or receptacles that collect the liquid extracted in mills.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -87,9 +93,12 @@
     }
   },
   "es_definitions": [
-    ". Fuente o plato grande para servir a la mesa las viandas., relacionado con un grupo",
-    "Bandejas que recogen el líquido que se extrae"
+    "Plato grande para servir comidas en la mesa.",
+    "Bandejas que recogen el líquido que se extrae en los molinos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Large serving platter for the table.",
+    "Pans or receptacles that collect the liquid extracted in mills."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "guasimal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sitio abundante en árboles de guásima",
+      "consolidated_definition": "Sitio abundante en árboles de guásima.",
+      "en_consolidated_definition": "Area abundant in guanabera trees.\n\nNota: Guanabera es otro nombre para el árbol de guásima en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Sitio abundante en árboles de guásima"
+    "Sitio abundante en árboles de guásima."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area abundant in guanabera trees.\n\nNota: Guanabera es otro nombre para el árbol de guásima en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

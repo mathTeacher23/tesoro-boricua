@@ -3,15 +3,18 @@
   "term": "soga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La jáquima",
+      "consolidated_definition": "La jáquima es una cabeza de cuadra utilizada en ciertas regiones como Maunabo, Cabo Rojo, La Parguera y Guamá.",
+      "en_consolidated_definition": "The jáquima is a headland or promontory used in certain regions such as Maunabo, Cabo Rojo, La Parguera, and Guamá.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4326",
-        "semantic_similarity_score": 0.4326,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4373",
+        "semantic_similarity_score": 0.4373,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -46,7 +49,7 @@
           "soguero"
         ],
         "reference_definitions": [
-          "La jáquima, simple cabezada de cuadra del animal en Maunabo, Cabo Rojo, La Parguera y Guamá.",
+          "La jáquima, simple cabezada de cuadra del animal ... en Maunabo, Cabo Rojo, La Parguera y Guamá.",
           "Cuerda hecha de majagua.",
           "Cabezada de cordel, que suple por el cabestro, para atar las bestias y llevarlas."
         ]
@@ -54,8 +57,10 @@
     }
   },
   "es_definitions": [
-    "La jáquima"
+    "La jáquima es una cabeza de cuadra utilizada en ciertas regiones como Maunabo, Cabo Rojo, La Parguera y Guamá."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The jáquima is a headland or promontory used in certain regions such as Maunabo, Cabo Rojo, La Parguera, and Guamá."
+  ],
   "source": "https://tesoro.pr"
 }

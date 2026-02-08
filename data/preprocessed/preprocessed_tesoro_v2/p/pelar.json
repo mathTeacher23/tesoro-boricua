@@ -3,14 +3,17 @@
   "term": "pelar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Zurrar",
+      "consolidated_definition": "Dar una pela o serie de golpes a alguien.",
+      "en_consolidated_definition": "Administer a someone a beating or series of blows.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3722",
-        "semantic_similarity_score": 0.3722,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -47,22 +50,23 @@
           "pela"
         ],
         "reference_definitions": [
-          "Zurrar. Azotar. Dar una paliza.",
-          "Golpear, azotar.",
           "Dar una pela o serie de golpes a alguien."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Hablar mal de uno",
+      "consolidated_definition": "La difamación es el acto de expresar opiniones o comentarios negativos sobre alguien con la intención de dañar su reputación.",
+      "en_consolidated_definition": "Defamation is the act of expressing negative opinions or comments about someone with the intention of damaging their reputation.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.82",
         "semantic_similarity_score": 0.82,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "verbo intransitivo"
         ],
@@ -100,9 +104,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Perder alguien todo el dinero",
+      "consolidated_definition": "Perder alguien todo el dinero.",
+      "en_consolidated_definition": "Perder toda la fortuna de alguien.\n\nNota: En este contexto, \"fortuna\" se refiere a los bienes y dinero que alguien posee. La expresión es común en el español puertorriqueño y se utiliza para describir una situación en la que alguien pierde todo su patrimonio.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -137,9 +144,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Esforzarse por conseguir algo que se desea mucho",
+      "consolidated_definition": "Esforzarse por conseguir algo que se desea mucho.",
+      "en_consolidated_definition": "To strive for something that is greatly desired.\n\nNota: Esta traducción mantiene el significado exacto de la definición original y utiliza vocabulario formal y apropiado para un diccionario.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -173,11 +183,16 @@
     }
   },
   "es_definitions": [
-    "Zurrar",
-    "Hablar mal de uno",
-    "Perder alguien todo el dinero",
-    "Esforzarse por conseguir algo que se desea mucho"
+    "Dar una pela o serie de golpes a alguien.",
+    "La difamación es el acto de expresar opiniones o comentarios negativos sobre alguien con la intención de dañar su reputación.",
+    "Perder alguien todo el dinero.",
+    "Esforzarse por conseguir algo que se desea mucho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Administer a someone a beating or series of blows.",
+    "Defamation is the act of expressing negative opinions or comments about someone with the intention of damaging their reputation.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "Perder toda la fortuna de alguien.\n\nNota: En este contexto, \"fortuna\" se refiere a los bienes y dinero que alguien posee. La expresión es común en el español puertorriqueño y se utiliza para describir una situación en la que alguien pierde todo su patrimonio.",
+    "To strive for something that is greatly desired.\n\nNota: Esta traducción mantiene el significado exacto de la definición original y utiliza vocabulario formal y apropiado para un diccionario."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "alborada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Procesión religiosa popular en las fiestas patronales, en la que grupos de personas transportan la imagen del patrón o la patrona desde los barrios hasta la iglesia.",
+      "consolidated_definition": "Misa o procesión de fiestas patronales al amanecer.",
+      "en_consolidated_definition": "Dawn Mass or procession of patronal festivals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6953",
-        "semantic_similarity_score": 0.6953,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -46,17 +49,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Actividad efectuada durante las fiestas patronales en los pueblos, en la que grupos de personas de los distintos barrios llevan la imagen del patrón o la patrona hasta la iglesia.",
-          "El floklorista Pablo Garrido da esta explicación: “Durante las fiestas patronales, todos los barrios, o algunos, organizan una romería, preparan un muñeco sobre un caballo y entran al pueblo. A ese muñeco lo llaman Judas. Oyen la misa en la iglesia a las siete y media de la tarde. Luego llevan el muñeco a la plaza y lo azotan. En algunos pueblos premian al mejor Judas que presenten”. b. Según estudios hechos por Pablo Garrido son recorridos que dan las gentes por los barrios con jachos prendidos durante las fiestas patronales.",
-          "Procesión o romería; tipo de celebración colectiva en la que participan las gentes de los campos en la ocasión de las fiestas patronales de los pueblos, cuando grupos de personas de los barrios rurales llevan en procesión hasta la iglesia, al rayar el alba, la imagen del santo patrón o santa patrona de la comunidad, acompañando su paso con música y cánticos.",
           "Misa o procesión de fiestas patronales al amanecer."
         ]
       }
     }
   },
   "es_definitions": [
-    "Procesión religiosa popular en las fiestas patronales, en la que grupos de personas transportan la imagen del patrón o la patrona desde los barrios hasta la iglesia."
+    "Misa o procesión de fiestas patronales al amanecer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dawn Mass or procession of patronal festivals."
+  ],
   "source": "https://tesoro.pr"
 }

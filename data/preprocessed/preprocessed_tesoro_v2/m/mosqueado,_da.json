@@ -3,14 +3,17 @@
   "term": "mosqueado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de los aguacates a los que",
+      "consolidated_definition": "Referido a un aguacate, que tiene puntos negros en la cáscara, indicio de que ha empezado a pudrirse.",
+      "en_consolidated_definition": "Referring to an avocado with black spots on the skin, indicating that it has begun to rot.\n\nNota: En este contexto, \"aguacate\" se refiere a un tipo de fruta común en Puerto Rico y otros países hispanohablantes. La traducción mantiene el término original para mantener la precisión cultural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4857",
-        "semantic_similarity_score": 0.4857,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -48,22 +51,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se dice de los aguacates a los que les salen en la cáscara unos puntos negros por donde se van pudriendo.",
-          "Persona pecosa.",
-          "Dícese del mueble barnizado en color caoba con ciertas sombras de negro. También dicen matizado, da.",
           "Referido a un aguacate, que tiene puntos negros en la cáscara, indicio de que ha empezado a pudrirse."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Voz usada por drogadictos",
+      "consolidated_definition": "Referido a persona, que aún no está enviciada o acostumbrada al uso de drogas.",
+      "en_consolidated_definition": "Referido a persona que aún no está acostumbrada o dependiente del uso de drogas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7682",
-        "semantic_similarity_score": 0.7682,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "adjetivo"
@@ -93,15 +96,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Voz usada por drogadictos. Dícese de la persona que aún no está enviciada o habituada a las drogas. También dicen mosquiao.",
           "Referido a persona, que aún no está enviciada o acostumbrada al uso de drogas."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, triste, deprimida o aburrida.",
+      "en_consolidated_definition": "Desalentada o desanimada.\n\nNota: La palabra \"desalentada\" se utiliza en este contexto para describir a una persona que está triste, deprimida o aburrida.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -136,9 +141,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Referido a un local comercial",
+      "consolidated_definition": "Referido a un local comercial, vacío, o con pocos clientes.",
+      "en_consolidated_definition": "Referido a un commercial establishment, vacant or with few patrons.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -174,11 +182,16 @@
     }
   },
   "es_definitions": [
-    "Se dice de los aguacates a los que",
-    "Voz usada por drogadictos",
-    "Referido a persona",
-    "Referido a un local comercial"
+    "Referido a un aguacate, que tiene puntos negros en la cáscara, indicio de que ha empezado a pudrirse.",
+    "Referido a persona, que aún no está enviciada o acostumbrada al uso de drogas.",
+    "Referido a persona, triste, deprimida o aburrida.",
+    "Referido a un local comercial, vacío, o con pocos clientes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referring to an avocado with black spots on the skin, indicating that it has begun to rot.\n\nNota: En este contexto, \"aguacate\" se refiere a un tipo de fruta común en Puerto Rico y otros países hispanohablantes. La traducción mantiene el término original para mantener la precisión cultural.",
+    "Referido a persona que aún no está acostumbrada o dependiente del uso de drogas.",
+    "Desalentada o desanimada.\n\nNota: La palabra \"desalentada\" se utiliza en este contexto para describir a una persona que está triste, deprimida o aburrida.",
+    "Referido a un commercial establishment, vacant or with few patrons."
+  ],
   "source": "https://tesoro.pr"
 }

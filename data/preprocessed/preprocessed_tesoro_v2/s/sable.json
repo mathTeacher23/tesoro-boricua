@@ -3,15 +3,18 @@
   "term": "sable",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Instrumento de trabajo",
+      "consolidated_definition": "\"Instrumento de trabajo\": objeto o dispositivo diseñado para facilitar la realización de tareas o actividades específicas en un proceso laboral.",
+      "en_consolidated_definition": "Work Tool: an object or device designed to facilitate the performance of specific tasks or activities in a work process.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.4917",
         "semantic_similarity_score": 0.4917,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -64,8 +67,11 @@
     },
     "2": {
       "consolidated_definition": ". Es el pez machete. Stahl: Catalog.; Evermann.",
+      "en_consolidated_definition": "It is the machete fish. Stahl: Catalog.; Evermann.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -100,9 +106,12 @@
     }
   },
   "es_definitions": [
-    "Instrumento de trabajo",
+    "\"Instrumento de trabajo\": objeto o dispositivo diseñado para facilitar la realización de tareas o actividades específicas en un proceso laboral.",
     ". Es el pez machete. Stahl: Catalog.; Evermann."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Work Tool: an object or device designed to facilitate the performance of specific tasks or activities in a work process.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "It is the machete fish. Stahl: Catalog.; Evermann."
+  ],
   "source": "https://tesoro.pr"
 }

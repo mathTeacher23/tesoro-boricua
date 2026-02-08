@@ -3,9 +3,12 @@
   "term": "pandilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grupo que se dedica a robar, relacionado con un grupo",
+      "consolidated_definition": "Grupo que se dedica a robar.",
+      "en_consolidated_definition": "Group that engages in theft or robbery.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Grupo que se dedica a robar, relacionado con un grupo"
+    "Grupo que se dedica a robar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Group that engages in theft or robbery."
+  ],
   "source": "https://tesoro.pr"
 }

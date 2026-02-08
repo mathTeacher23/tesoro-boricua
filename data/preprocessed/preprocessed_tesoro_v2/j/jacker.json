@@ -3,9 +3,12 @@
   "term": "jacker",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pirata informático especializado en penetrar en las bases",
+      "consolidated_definition": "Pirata informático especializado en penetrar en las bases de datos de sistemas informáticos para obtener información secreta.",
+      "en_consolidated_definition": "Computer pirate specializing in infiltrating the databases of computer systems to obtain confidential information.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pirata informático especializado en penetrar en las bases"
+    "Pirata informático especializado en penetrar en las bases de datos de sistemas informáticos para obtener información secreta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Computer pirate specializing in infiltrating the databases of computer systems to obtain confidential information."
+  ],
   "source": "https://tesoro.pr"
 }

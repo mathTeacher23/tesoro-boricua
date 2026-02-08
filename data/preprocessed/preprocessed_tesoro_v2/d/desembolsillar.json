@@ -3,9 +3,12 @@
   "term": "desembolsillar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pagar o entregar una cantidad de dinero",
+      "consolidated_definition": "Pagar o entregar una cantidad de dinero.",
+      "en_consolidated_definition": "To pay or deliver a sum of money.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Pagar o entregar una cantidad de dinero"
+    "Pagar o entregar una cantidad de dinero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To pay or deliver a sum of money."
+  ],
   "source": "https://tesoro.pr"
 }

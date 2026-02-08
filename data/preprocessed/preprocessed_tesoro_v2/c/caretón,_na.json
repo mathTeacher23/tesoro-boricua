@@ -3,15 +3,18 @@
   "term": "caretón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona con rostro anormalmente grande o prominente.",
+      "consolidated_definition": "Referido a persona, que tiene la cara grande.",
+      "en_consolidated_definition": "Referido a persona, que tiene la cara grande.\n\nTranslation:\nReferring to a person with a large face.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona con rostro anormalmente grande o prominente."
+    "Referido a persona, que tiene la cara grande."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a persona, que tiene la cara grande.\n\nTranslation:\nReferring to a person with a large face."
+  ],
   "source": "https://tesoro.pr"
 }

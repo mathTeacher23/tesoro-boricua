@@ -3,15 +3,18 @@
   "term": "lechuga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "fig",
+      "consolidated_definition": "Fig.: nombre coloquial del dólar, derivado del color verde del papel moneda.",
+      "en_consolidated_definition": "Colloquial name for the dollar, derived from the green color of paper currency.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3982",
         "semantic_similarity_score": 0.3982,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona fresca",
+      "consolidated_definition": "Persona fresca, descarada.",
+      "en_consolidated_definition": "Fresh and impudent person.\n\nNota: En este caso, \"fresca\" se refiere a una persona que actúa con descaro o falta de respeto, y no necesariamente a alguien que está fresca en el sentido de estar recién llegada o nueva. La traducción debe mantener el significado exacto del término original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -85,9 +91,12 @@
     }
   },
   "es_definitions": [
-    "fig",
-    "Persona fresca"
+    "Fig.: nombre coloquial del dólar, derivado del color verde del papel moneda.",
+    "Persona fresca, descarada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Colloquial name for the dollar, derived from the green color of paper currency.",
+    "Fresh and impudent person.\n\nNota: En este caso, \"fresca\" se refiere a una persona que actúa con descaro o falta de respeto, y no necesariamente a alguien que está fresca en el sentido de estar recién llegada o nueva. La traducción debe mantener el significado exacto del término original."
+  ],
   "source": "https://tesoro.pr"
 }

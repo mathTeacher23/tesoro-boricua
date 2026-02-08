@@ -3,15 +3,18 @@
   "term": "frío",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Resfriado",
+      "consolidated_definition": "Resfriado: enfermedad infecciosa viral que afecta el sistema respiratorio superior, caracterizada por síntomas como fiebre, tos y congestión nasal.",
+      "en_consolidated_definition": "Upper Respiratory Infection (URI): a contagious viral illness affecting the upper respiratory system, characterized by symptoms such as fever, cough, and nasal congestion.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.5424",
         "semantic_similarity_score": 0.5424,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -60,8 +63,10 @@
     }
   },
   "es_definitions": [
-    "Resfriado"
+    "Resfriado: enfermedad infecciosa viral que afecta el sistema respiratorio superior, caracterizada por síntomas como fiebre, tos y congestión nasal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Upper Respiratory Infection (URI): a contagious viral illness affecting the upper respiratory system, characterized by symptoms such as fever, cough, and nasal congestion."
+  ],
   "source": "https://tesoro.pr"
 }

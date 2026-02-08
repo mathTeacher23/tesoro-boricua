@@ -3,9 +3,12 @@
   "term": "supply",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mercancías",
+      "consolidated_definition": "Mercancías, surtido, existencias, inventario, efectos de oficina, efectos de escuela.",
+      "en_consolidated_definition": "Merchandise, stock, inventory, office supplies, school supplies.\n\nNota: En este caso, no se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si se hubiera encontrado alguno, se habría traducido y preservado el contexto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Mercancías"
+    "Mercancías, surtido, existencias, inventario, efectos de oficina, efectos de escuela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Merchandise, stock, inventory, office supplies, school supplies.\n\nNota: En este caso, no se encontraron términos culturales específicos de Puerto Rico en la definición proporcionada. Si se hubiera encontrado alguno, se habría traducido y preservado el contexto."
+  ],
   "source": "https://tesoro.pr"
 }

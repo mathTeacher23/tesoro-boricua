@@ -3,9 +3,12 @@
   "term": "moscón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pretendiente insistente",
+      "consolidated_definition": "Pretendiente insistente.",
+      "en_consolidated_definition": "Persistent suitor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Moscardón",
+      "consolidated_definition": "Moscardón.",
+      "en_consolidated_definition": "Moscardón: a type of traditional Puerto Rican folk music characterized by its lively rhythms and melodies, often played on the accordion or other stringed instruments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Pretendiente insistente",
-    "Moscardón"
+    "Pretendiente insistente.",
+    "Moscardón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persistent suitor.",
+    "Moscardón: a type of traditional Puerto Rican folk music characterized by its lively rhythms and melodies, often played on the accordion or other stringed instruments."
+  ],
   "source": "https://tesoro.pr"
 }

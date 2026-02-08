@@ -3,15 +3,18 @@
   "term": "correo registrado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Correo certificado: tipo de envío postal que garantiza la seguridad y trazabilidad del artículo enviado mediante un acuse de recibo.",
+      "consolidated_definition": "Correo certificado. Tipo de envío postal mediante el cual se asegura el artículo enviado. Calco de estructura, usual. Se recomienda a los concursantes hacer el envío por medio del correo registrado o certificado con acuse de recibo",
+      "en_consolidated_definition": "Certified Mail. A type of postal delivery that ensures the item being sent is received. Calque of structure, usual. It is recommended for contestants to make the shipment via registered or certified mail with return receipt requested.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Correo certificado: tipo de envío postal que garantiza la seguridad y trazabilidad del artículo enviado mediante un acuse de recibo."
+    "Correo certificado. Tipo de envío postal mediante el cual se asegura el artículo enviado. Calco de estructura, usual. Se recomienda a los concursantes hacer el envío por medio del correo registrado o certificado con acuse de recibo"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Certified Mail. A type of postal delivery that ensures the item being sent is received. Calque of structure, usual. It is recommended for contestants to make the shipment via registered or certified mail with return receipt requested."
+  ],
   "source": "https://tesoro.pr"
 }

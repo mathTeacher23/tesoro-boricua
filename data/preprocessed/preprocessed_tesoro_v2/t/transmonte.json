@@ -3,9 +3,12 @@
   "term": "transmonte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que recibe cierta carne enlatada que se",
+      "consolidated_definition": "Nombre que recibe cierta carne enlatada que se distribuye gratis en la ciudad de Ponce.",
+      "en_consolidated_definition": "Poncean canned meat, a type of pre-cooked meat product distributed free of charge in the city of Ponce.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Nombre que recibe cierta carne enlatada que se"
+    "Nombre que recibe cierta carne enlatada que se distribuye gratis en la ciudad de Ponce."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Poncean canned meat, a type of pre-cooked meat product distributed free of charge in the city of Ponce."
+  ],
   "source": "https://tesoro.pr"
 }

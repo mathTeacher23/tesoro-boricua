@@ -3,9 +3,12 @@
   "term": "golondrino",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Macho de la golondrina",
+      "consolidated_definition": "Macho de la golondrina.",
+      "en_consolidated_definition": "Swallow male.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Macho de la golondrina"
+    "Macho de la golondrina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Swallow male."
+  ],
   "source": "https://tesoro.pr"
 }

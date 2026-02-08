@@ -3,15 +3,18 @@
   "term": "guarachero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Bromista",
+      "consolidated_definition": "Persona que participa de la guaracha y se destaca por su talento comunicativo y habilidad para contar historias o hacer bromas de manera atractiva y entretenida.",
+      "en_consolidated_definition": "Person who participates in the guaracha and stands out for their communicative talent and ability to tell stories or make jokes in an attractive and entertaining manner.\n\nNota: La \"guaracha\" se refiere a un estilo de música y baile tradicional en Puerto Rico, así como una forma de entretenimiento popular. En este contexto, se utiliza para describir a alguien que participa activamente en la guaracha, lo que implica su talento para contar historias o hacer bromas de manera atractiva y entretenida.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.4668",
         "semantic_similarity_score": 0.4668,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "adjetivo"
         ],
@@ -61,9 +64,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Referido a un gallo",
+      "consolidated_definition": "Referido a un gallo, hábil en proteger la cabeza de la picada de su contrincante.",
+      "en_consolidated_definition": "Referring to a rooster skilled in protecting its head from pecking by its opponent.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -99,9 +105,12 @@
     }
   },
   "es_definitions": [
-    "Bromista",
-    "Referido a un gallo"
+    "Persona que participa de la guaracha y se destaca por su talento comunicativo y habilidad para contar historias o hacer bromas de manera atractiva y entretenida.",
+    "Referido a un gallo, hábil en proteger la cabeza de la picada de su contrincante."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who participates in the guaracha and stands out for their communicative talent and ability to tell stories or make jokes in an attractive and entertaining manner.\n\nNota: La \"guaracha\" se refiere a un estilo de música y baile tradicional en Puerto Rico, así como una forma de entretenimiento popular. En este contexto, se utiliza para describir a alguien que participa activamente en la guaracha, lo que implica su talento para contar historias o hacer bromas de manera atractiva y entretenida.",
+    "Referring to a rooster skilled in protecting its head from pecking by its opponent."
+  ],
   "source": "https://tesoro.pr"
 }

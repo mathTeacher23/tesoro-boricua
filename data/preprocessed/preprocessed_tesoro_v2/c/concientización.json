@@ -3,15 +3,18 @@
   "term": "concientización",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Toma de conciencia: Sustantivo que se refiere al proceso de reconocer o comprender un hecho, situación o idea que antes no era percibido o entendido.",
+      "consolidated_definition": "Toma de conciencia.",
+      "en_consolidated_definition": "Awareness of one's own thoughts or feelings.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Toma de conciencia: Sustantivo que se refiere al proceso de reconocer o comprender un hecho, situación o idea que antes no era percibido o entendido."
+    "Toma de conciencia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Awareness of one's own thoughts or feelings."
+  ],
   "source": "https://tesoro.pr"
 }

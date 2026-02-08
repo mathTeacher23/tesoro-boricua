@@ -3,14 +3,17 @@
   "term": "penepé",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sigla del Partido Nuevo Progresista",
+      "consolidated_definition": "Militante de este partido.",
+      "en_consolidated_definition": "Party militant.\n\nNota: En este caso, \"militante\" se refiere a un miembro activo o apasionado de un partido político, y no necesariamente a alguien que esté en el ejército o en una situación militar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6473",
-        "semantic_similarity_score": 0.6473,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,16 +44,16 @@
           "penepeísta"
         ],
         "reference_definitions": [
-          "Sigla del Partido Nuevo Progresista: P.P.",
-          "Dícese del militante de dicho partido.",
           "Militante de este partido."
         ]
       }
     }
   },
   "es_definitions": [
-    "Sigla del Partido Nuevo Progresista"
+    "Militante de este partido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Party militant.\n\nNota: En este caso, \"militante\" se refiere a un miembro activo o apasionado de un partido político, y no necesariamente a alguien que esté en el ejército o en una situación militar."
+  ],
   "source": "https://tesoro.pr"
 }

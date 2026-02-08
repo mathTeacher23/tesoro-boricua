@@ -3,9 +3,12 @@
   "term": "fupista",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Miembro de la Federación de Universitarios Pro Independencia",
+      "consolidated_definition": "Miembro de la Federación de Universitarios Pro Independencia.",
+      "en_consolidated_definition": "Member of the Federation of University Students for Independence.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Miembro de la Federación de Universitarios Pro Independencia"
+    "Miembro de la Federación de Universitarios Pro Independencia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Member of the Federation of University Students for Independence."
+  ],
   "source": "https://tesoro.pr"
 }

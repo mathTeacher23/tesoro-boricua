@@ -3,9 +3,12 @@
   "term": "rebozo de orilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se refiere a la misma condición",
+      "consolidated_definition": "Se refiere a la misma condición que el mar de fondo, pero existente únicamente en la orilla.",
+      "en_consolidated_definition": "Refers to the same condition as the undertow, but existing only at the shoreline.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -34,14 +37,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Se refiere a la misma condición , pero existente únicamente en la orilla."
+          "Se refiere a la misma condición que el mar de fondo, pero existente únicamente en la orilla."
         ]
       }
     }
   },
   "es_definitions": [
-    "Se refiere a la misma condición"
+    "Se refiere a la misma condición que el mar de fondo, pero existente únicamente en la orilla."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Refers to the same condition as the undertow, but existing only at the shoreline."
+  ],
   "source": "https://tesoro.pr"
 }

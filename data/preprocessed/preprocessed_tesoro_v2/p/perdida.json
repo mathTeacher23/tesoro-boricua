@@ -3,9 +3,12 @@
   "term": "perdida",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Siembra llena de maleza o a la que",
+      "consolidated_definition": "Siembra llena de maleza o a la que le hace falta un desyerbo.",
+      "en_consolidated_definition": "Overgrown with weeds or in need of weeding.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Siembra llena de maleza o a la que"
+    "Siembra llena de maleza o a la que le hace falta un desyerbo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Overgrown with weeds or in need of weeding."
+  ],
   "source": "https://tesoro.pr"
 }

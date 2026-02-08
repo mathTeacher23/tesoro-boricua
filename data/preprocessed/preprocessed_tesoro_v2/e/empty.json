@@ -3,9 +3,12 @@
   "term": "empty",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vacío",
+      "consolidated_definition": "Vacío. Que no contiene nada. Anglicismo crudo, poco frecuente. No dejes el depósito empty que la gasolina va a subir",
+      "en_consolidated_definition": "Empty. Lacking content. Raw anglicism, relatively uncommon. Do not leave the tank empty as gasoline prices will rise.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Vacío"
+    "Vacío. Que no contiene nada. Anglicismo crudo, poco frecuente. No dejes el depósito empty que la gasolina va a subir"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Empty. Lacking content. Raw anglicism, relatively uncommon. Do not leave the tank empty as gasoline prices will rise."
+  ],
   "source": "https://tesoro.pr"
 }

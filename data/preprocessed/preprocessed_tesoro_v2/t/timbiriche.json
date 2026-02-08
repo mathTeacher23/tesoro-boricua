@@ -3,14 +3,17 @@
   "term": "timbiriche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pequeña tienda",
+      "consolidated_definition": "Tienda o taller de aspecto muy pobre. Puesto de tabaco muy reducido.",
+      "en_consolidated_definition": "A small, impoverished shop or workshop. A very limited tobacco stand.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6417",
-        "semantic_similarity_score": 0.6417,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pequeña tienda, taller u oficina pobre y mal equipada. Sinónimos cuchitril, chinchal, guariquitén, ventorro, ventorriyo.",
           "Tienda o taller de aspecto muy pobre. Puesto de tabaco muy reducido."
         ]
       }
     }
   },
   "es_definitions": [
-    "Pequeña tienda"
+    "Tienda o taller de aspecto muy pobre. Puesto de tabaco muy reducido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A small, impoverished shop or workshop. A very limited tobacco stand."
+  ],
   "source": "https://tesoro.pr"
 }

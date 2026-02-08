@@ -3,9 +3,12 @@
   "term": "grandulón, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, especialmente a un joven, muy grande o más grande de lo que corresponde a su edad.",
+      "en_consolidated_definition": "Referido a una persona, especialmente un joven, que es notablemente grande o más grande de lo que corresponde a su edad.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona"
+    "Referido a persona, especialmente a un joven, muy grande o más grande de lo que corresponde a su edad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a una persona, especialmente un joven, que es notablemente grande o más grande de lo que corresponde a su edad."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "voicemail",
   "superscripts": {
     "1": {
-      "consolidated_definition": "telecom",
+      "consolidated_definition": "telecom. Sistema de mensajes de voz. Sistema de telefonía electrónica que permite grabar los mensajes telefónicos para escucharlos posteriormente. Anglicismo crudo, frecuente. Tienen una oferta de $42 mensual que además de las llamadas ilimitadas incluye, mensaje de texto ilimitados, voicemail, identificación de llamada, transferencia de llamadas, llamada en espera y llamada en conferencia (El Nuevo Día, 18-06-07)",
+      "en_consolidated_definition": "Telecom. Voice messaging system. Electronic telephone system that allows recording of phone messages for later listening. Raw anglicism, frequent. They offer a $42 monthly plan that includes unlimited calls, unlimited text messages, voicemail, caller ID, call transfer, hold and conference calling (The New Day, 18-06-07)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2009",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.815",
-        "semantic_similarity_score": 0.815,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -36,15 +39,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "telecom. Sistema de mensajes de voz. Sistema de telefonía electrónica que permite grabar los mensajes telefónicos para escucharlos posteriormente. Anglicismo crudo, frecuente. Tienen una oferta de $42 mensual que además de las llamadas ilimitadas incluye, mensaje de texto ilimitados, voicemail, identificación de llamada, transferencia de llamadas, llamada en espera y llamada en conferencia",
-          "telecom. Mensaje telefónico grabado mediante un sistema especial de telefonía. Anglicismo crudo, frecuente. J es la nueva voz del voice mail de mi celular. Tengo un amiga de la Alianza de Autismo que había tenido esta idea, su hijo grababa el mensaje de su voice mail y pues se me ocurrió hacerlo con J"
+          "telecom. Sistema de mensajes de voz. Sistema de telefonía electrónica que permite grabar los mensajes telefónicos para escucharlos posteriormente. Anglicismo crudo, frecuente. Tienen una oferta de $42 mensual que además de las llamadas ilimitadas incluye, mensaje de texto ilimitados, voicemail, identificación de llamada, transferencia de llamadas, llamada en espera y llamada en conferencia (El Nuevo Día, 18-06-07)"
         ]
       }
     }
   },
   "es_definitions": [
-    "telecom"
+    "telecom. Sistema de mensajes de voz. Sistema de telefonía electrónica que permite grabar los mensajes telefónicos para escucharlos posteriormente. Anglicismo crudo, frecuente. Tienen una oferta de $42 mensual que además de las llamadas ilimitadas incluye, mensaje de texto ilimitados, voicemail, identificación de llamada, transferencia de llamadas, llamada en espera y llamada en conferencia (El Nuevo Día, 18-06-07)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Telecom. Voice messaging system. Electronic telephone system that allows recording of phone messages for later listening. Raw anglicism, frequent. They offer a $42 monthly plan that includes unlimited calls, unlimited text messages, voicemail, caller ID, call transfer, hold and conference calling (The New Day, 18-06-07)"
+  ],
   "source": "https://tesoro.pr"
 }

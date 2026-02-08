@@ -3,14 +3,17 @@
   "term": "gallina de palo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Iguana",
+      "consolidated_definition": "Lagarto.",
+      "en_consolidated_definition": "Iguana.\n\nNota: En algunos contextos en Puerto Rico, \"lagarto\" se refiere específicamente a una especie de lagartija o iguana, por lo que es posible que la traducción sea más precisa si se especifica el tipo de reptil al que se hace referencia.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.3571",
-        "semantic_similarity_score": 0.3571,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -39,15 +42,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Iguana.",
           "Lagarto."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Panapén",
+      "consolidated_definition": "Panapén.",
+      "en_consolidated_definition": "Panapén: A type of traditional Puerto Rican folk music characterized by its lively rhythm and lyrics that often tell stories or express social commentary.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +87,12 @@
     }
   },
   "es_definitions": [
-    "Iguana",
-    "Panapén"
+    "Lagarto.",
+    "Panapén."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Iguana.\n\nNota: En algunos contextos en Puerto Rico, \"lagarto\" se refiere específicamente a una especie de lagartija o iguana, por lo que es posible que la traducción sea más precisa si se especifica el tipo de reptil al que se hace referencia.",
+    "Panapén: A type of traditional Puerto Rican folk music characterized by its lively rhythm and lyrics that often tell stories or express social commentary."
+  ],
   "source": "https://tesoro.pr"
 }

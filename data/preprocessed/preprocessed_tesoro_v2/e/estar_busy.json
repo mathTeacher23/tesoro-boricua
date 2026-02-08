@@ -3,9 +3,12 @@
   "term": "estar busy",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver rush",
+      "consolidated_definition": "Ver rush .",
+      "en_consolidated_definition": "See rush.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver rush"
+    "Ver rush ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See rush."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "guayarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Emborracharse",
+      "consolidated_definition": "Embriagarse, persona que pierde el control debido al consumo excesivo de bebidas alcohólicas.",
+      "en_consolidated_definition": "To become intoxicated, a person who loses control due to excessive consumption of alcoholic beverages.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.6464",
         "semantic_similarity_score": 0.6464,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "verbo pronominal"
         ],
@@ -52,9 +55,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Herirse alguien por sufrir una caída",
+      "consolidated_definition": "Herirse alguien por sufrir una caída.",
+      "en_consolidated_definition": "To take a tumble or to fall and injure oneself.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -90,9 +96,12 @@
     }
   },
   "es_definitions": [
-    "Emborracharse",
-    "Herirse alguien por sufrir una caída"
+    "Embriagarse, persona que pierde el control debido al consumo excesivo de bebidas alcohólicas.",
+    "Herirse alguien por sufrir una caída."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To become intoxicated, a person who loses control due to excessive consumption of alcoholic beverages.",
+    "To take a tumble or to fall and injure oneself."
+  ],
   "source": "https://tesoro.pr"
 }

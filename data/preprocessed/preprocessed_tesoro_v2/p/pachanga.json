@@ -3,14 +3,17 @@
   "term": "pachanga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Baile",
+      "consolidated_definition": "Fiesta bulliciosa con baile y bebida.",
+      "en_consolidated_definition": "Vibrant celebration characterized by dance and drinking.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6313",
-        "semantic_similarity_score": 0.6313,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -55,17 +58,16 @@
           "pachanguero, ra"
         ],
         "reference_definitions": [
-          "Baile, fiesta.",
-          "Baile popular.",
-          "Baile.",
           "Fiesta bulliciosa con baile y bebida."
         ]
       }
     }
   },
   "es_definitions": [
-    "Baile"
+    "Fiesta bulliciosa con baile y bebida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Vibrant celebration characterized by dance and drinking."
+  ],
   "source": "https://tesoro.pr"
 }

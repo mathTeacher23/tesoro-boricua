@@ -3,9 +3,12 @@
   "term": "deshijar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Quitar a una planta o a un árbol",
+      "consolidated_definition": "Quitar a una planta o a un árbol ciertos retoños o renuevos superfluos.",
+      "en_consolidated_definition": "Remover ciertos retoños o renuevos superfluos de una planta o un árbol.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Quitar a una planta o a un árbol"
+    "Quitar a una planta o a un árbol ciertos retoños o renuevos superfluos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Remover ciertos retoños o renuevos superfluos de una planta o un árbol."
+  ],
   "source": "https://tesoro.pr"
 }

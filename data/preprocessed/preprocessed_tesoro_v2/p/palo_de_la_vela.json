@@ -3,9 +3,12 @@
   "term": "palo de la vela",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Palo mayor donde va sostenida la vela",
+      "consolidated_definition": "Palo mayor donde va sostenida la vela.",
+      "en_consolidated_definition": "Mainmast where the sail is supported.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Palo mayor donde va sostenida la vela"
+    "Palo mayor donde va sostenida la vela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mainmast where the sail is supported."
+  ],
   "source": "https://tesoro.pr"
 }

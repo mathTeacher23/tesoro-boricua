@@ -3,15 +3,18 @@
   "term": "teniente a guerra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Todos los pueblos de la Isla tienen un",
+      "consolidated_definition": "En cada pueblo de la isla, un juez militar y civil designado por el gobernador con el título de teniente a guerra ejerce autoridad gubernativa según instrucciones y órdenes del gobernador.",
+      "en_consolidated_definition": "In each town on the island, a military and civil judge designated by the governor with the title of lieutenant at war exercises gubernatorial authority according to instructions and orders from the governor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5073",
-        "semantic_similarity_score": 0.5073,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5056",
+        "semantic_similarity_score": 0.5056,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -52,7 +55,7 @@
         "related_words": [],
         "reference_definitions": [
           "Todos los pueblos de la Isla tienen un juez nombrado por el gobernador, con título de teniente a guerra: a este pertenece el gobierno de su pueblo, según la instrucción y órdenes del gobernador.",
-          "Arcaísmo. En el repaso del léxico de Puerto Rico sólo se acomodaron a tal definición algunas palabras que, en efecto, tienen un carácter meramente histórico: teniente a guerra, delegado del gobernador en cada municipio.",
+          "Arcaísmo. En el repaso del léxico de Puerto Rico sólo se acomodaron a tal definición algunas palabras que, en efecto, tienen un carácter meramente histórico: ... teniente a guerra, delegado del gobernador en cada municipio.",
           "Grado militar y civil de los alcaldes mayores. Nombrados por la corona.",
           "Delegado del capitán general de la isla en las cabeceras de los antiguos partidos de jurisdicción administrativa."
         ]
@@ -60,8 +63,10 @@
     }
   },
   "es_definitions": [
-    "Todos los pueblos de la Isla tienen un"
+    "En cada pueblo de la isla, un juez militar y civil designado por el gobernador con el título de teniente a guerra ejerce autoridad gubernativa según instrucciones y órdenes del gobernador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In each town on the island, a military and civil judge designated by the governor with the title of lieutenant at war exercises gubernatorial authority according to instructions and orders from the governor."
+  ],
   "source": "https://tesoro.pr"
 }

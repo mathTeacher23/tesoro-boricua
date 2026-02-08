@@ -3,15 +3,18 @@
   "term": "popeta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Órgano sexual masculino",
+      "consolidated_definition": "El órgano sexual masculino es el pene.",
+      "en_consolidated_definition": "The male reproductive organ is the penis.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5314",
         "semantic_similarity_score": 0.5314,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -47,8 +50,10 @@
     }
   },
   "es_definitions": [
-    "Órgano sexual masculino"
+    "El órgano sexual masculino es el pene."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The male reproductive organ is the penis."
+  ],
   "source": "https://tesoro.pr"
 }

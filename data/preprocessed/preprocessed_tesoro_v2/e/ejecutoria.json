@@ -3,9 +3,12 @@
   "term": "ejecutoria",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expediente o trayectoria de un ejecutivo",
+      "consolidated_definition": "Expediente o trayectoria de un ejecutivo, hombre público o personalidad reconocida.",
+      "en_consolidated_definition": "Career path or trajectory of an executive, public figure, or recognized personality.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Expediente o trayectoria de un ejecutivo"
+    "Expediente o trayectoria de un ejecutivo, hombre público o personalidad reconocida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Career path or trajectory of an executive, public figure, or recognized personality."
+  ],
   "source": "https://tesoro.pr"
 }

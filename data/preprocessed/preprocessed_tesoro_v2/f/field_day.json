@@ -3,14 +3,17 @@
   "term": "field day",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Día de justas o torneos escolares",
+      "consolidated_definition": "Día de competencias deportivas.",
+      "en_consolidated_definition": "Sports Competition Day",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5562",
-        "semantic_similarity_score": 0.5562,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -46,16 +49,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Día de justas o torneos escolares.",
-          "educ. Día de campo, día de juegos. Día dedicado a los deportes y la competencia atlética que se celebra anualmente en las escuelas. Anglicismo crudo, usual. Este año gracias a la cortesía de la Compañía Bacardí que auspicia el field day todos los años, nos visitaron turistas de varios lugares en el extranjero",
           "Día de competencias deportivas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Día de justas o torneos escolares"
+    "Día de competencias deportivas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sports Competition Day"
+  ],
   "source": "https://tesoro.pr"
 }

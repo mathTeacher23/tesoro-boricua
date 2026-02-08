@@ -3,9 +3,12 @@
   "term": "sembrarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sentarse alguien en un lugar por mucho tiempo",
+      "consolidated_definition": "Sentarse alguien en un lugar por mucho tiempo.",
+      "en_consolidated_definition": "To occupy a place for an extended period of time.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Sentarse alguien en un lugar por mucho tiempo"
+    "Sentarse alguien en un lugar por mucho tiempo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To occupy a place for an extended period of time."
+  ],
   "source": "https://tesoro.pr"
 }

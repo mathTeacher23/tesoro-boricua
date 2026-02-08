@@ -3,9 +3,12 @@
   "term": "moje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Riego",
+      "consolidated_definition": "Riego. Conducción del agua al terreno.",
+      "en_consolidated_definition": "Irrigation. Conduction of water to the terrain.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Riego"
+    "Riego. Conducción del agua al terreno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Irrigation. Conduction of water to the terrain."
+  ],
   "source": "https://tesoro.pr"
 }

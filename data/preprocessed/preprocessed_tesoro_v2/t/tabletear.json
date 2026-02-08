@@ -3,9 +3,12 @@
   "term": "tabletear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Disparar con ametralladora",
+      "consolidated_definition": "Disparar con ametralladora.",
+      "en_consolidated_definition": "To fire a machine gun.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Disparar con ametralladora"
+    "Disparar con ametralladora."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To fire a machine gun."
+  ],
   "source": "https://tesoro.pr"
 }

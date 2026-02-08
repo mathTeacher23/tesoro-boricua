@@ -3,9 +3,12 @@
   "term": "siguatera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad de peces",
+      "consolidated_definition": "Enfermedad de peces, crustáceos y moluscos que produce en quien los come intoxicación o envenenamiento graves.",
+      "en_consolidated_definition": "Fish and shellfish poisoning is a disease caused by consuming contaminated seafood that can lead to severe intoxication or envenoming.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Enfermedad de peces"
+    "Enfermedad de peces, crustáceos y moluscos que produce en quien los come intoxicación o envenenamiento graves."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fish and shellfish poisoning is a disease caused by consuming contaminated seafood that can lead to severe intoxication or envenoming."
+  ],
   "source": "https://tesoro.pr"
 }

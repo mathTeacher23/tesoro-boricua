@@ -3,15 +3,18 @@
   "term": "viequera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Torcaza o paloma cabeziblanca",
+      "consolidated_definition": "La torcaza o paloma cabeziblanca es un tipo de ave columbiforme conocido científicamente como Columba leucocephala.",
+      "en_consolidated_definition": "The White-headed Dove or White-headed Pigeon is a species of Columbiform bird known scientifically as Columba leucocephala.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6854",
-        "semantic_similarity_score": 0.6854,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.7702",
+        "semantic_similarity_score": 0.7702,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,16 +47,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Torcaza o paloma cabeziblanca. .",
+          "Torcaza o paloma cabeziblanca. (Columba leucocephala, Lin).",
           "Columba leucocephala. Nombre popular de una paloma torcaz existente en la Isla de Vieques. De acuerdo con Pierre Ledrú, en su Viaje a la Isla de Puerto Rico, era parecida a la llamada paloma caribe y habitaba las sabanas e inmediaciones de los bosques.",
           "Columba leucocephala. Paloma torcaz de Vieques."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver yautía viequera",
+      "consolidated_definition": "Ver yautía viequera .",
+      "en_consolidated_definition": "View Vieques yautía.\n\nNota: La \"yautía\" se refiere a una planta de la familia de las arumáceas, también conocida como ñame o taro en otros países. El término \"viequés\" se refiere al lugar de origen, que es la isla de Vieques en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -74,9 +80,12 @@
     }
   },
   "es_definitions": [
-    "Torcaza o paloma cabeziblanca",
-    "Ver yautía viequera"
+    "La torcaza o paloma cabeziblanca es un tipo de ave columbiforme conocido científicamente como Columba leucocephala.",
+    "Ver yautía viequera ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The White-headed Dove or White-headed Pigeon is a species of Columbiform bird known scientifically as Columba leucocephala.",
+    "View Vieques yautía.\n\nNota: La \"yautía\" se refiere a una planta de la familia de las arumáceas, también conocida como ñame o taro en otros países. El término \"viequés\" se refiere al lugar de origen, que es la isla de Vieques en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

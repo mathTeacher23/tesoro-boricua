@@ -3,9 +3,12 @@
   "term": "pesebre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Abono natural",
+      "consolidated_definition": "Abono natural, pesebre de bestia.",
+      "en_consolidated_definition": "Natural fertilizer, animal feeding trough.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,9 +44,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Vivienda del caballo",
+      "consolidated_definition": "Vivienda del caballo. También cuadra, establo.",
+      "en_consolidated_definition": "Equine dwelling or stable, also known as a cuadra or stall.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Abono natural",
-    "Vivienda del caballo"
+    "Abono natural, pesebre de bestia.",
+    "Vivienda del caballo. También cuadra, establo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Natural fertilizer, animal feeding trough.",
+    "Equine dwelling or stable, also known as a cuadra or stall."
+  ],
   "source": "https://tesoro.pr"
 }

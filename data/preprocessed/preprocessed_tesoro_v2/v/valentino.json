@@ -3,9 +3,12 @@
   "term": "valentino",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de brazalete con placa de inscripción usado",
+      "consolidated_definition": "Especie de brazalete con placa de inscripción usado tanto por mujeres como por hombres.",
+      "en_consolidated_definition": "A type of armlet with an inscription plaque worn by both women and men.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Especie de brazalete con placa de inscripción usado"
+    "Especie de brazalete con placa de inscripción usado tanto por mujeres como por hombres."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A type of armlet with an inscription plaque worn by both women and men."
+  ],
   "source": "https://tesoro.pr"
 }

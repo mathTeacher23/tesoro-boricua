@@ -3,9 +3,12 @@
   "term": "sacar el mondongo a alguien",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hacerlo trabajar al máximo",
+      "consolidated_definition": "Hacerlo trabajar al máximo.",
+      "en_consolidated_definition": "To have it working at its peak.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Hacerlo trabajar al máximo"
+    "Hacerlo trabajar al máximo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To have it working at its peak."
+  ],
   "source": "https://tesoro.pr"
 }

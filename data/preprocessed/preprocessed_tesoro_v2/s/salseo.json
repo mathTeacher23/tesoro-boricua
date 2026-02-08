@@ -3,15 +3,18 @@
   "term": "salseo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acción y efecto de salsear",
+      "consolidated_definition": "La acción y el efecto de salsear son un tipo de fiesta.",
+      "en_consolidated_definition": "The action and effect of salsear are a type of party or celebration.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.2331",
         "semantic_similarity_score": 0.2331,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Acción y efecto de salsear"
+    "La acción y el efecto de salsear son un tipo de fiesta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The action and effect of salsear are a type of party or celebration."
+  ],
   "source": "https://tesoro.pr"
 }

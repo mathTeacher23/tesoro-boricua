@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "La margarita silvestre es una planta con flores amarillas y hojas blancas.",
+      "en_consolidated_definition": "Wild Marguerite is a plant with yellow flowers and white leaves.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -48,6 +51,8 @@
   "es_definitions": [
     "La margarita silvestre es una planta con flores amarillas y hojas blancas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wild Marguerite is a plant with yellow flowers and white leaves."
+  ],
   "source": "https://tesoro.pr"
 }

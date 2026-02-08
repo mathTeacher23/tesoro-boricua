@@ -3,15 +3,18 @@
   "term": "colorado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pargo profundo se refiere a un pez marino perteneciente al género Lutjanus, específicamente a las especies Lutjanus vivanus y Lutjanus guttatus.",
+      "consolidated_definition": "Pez marino de hasta 70 cm de longitud, de ojos amarillos, cuerpo rosáceo con tenues líneas amarillas y una mancha negra en los lados. Lutjanidae; Lutjanus vivanus.",
+      "en_consolidated_definition": "Marine fish reaching up to 70 cm in length, with yellow eyes, a pinkish body featuring faint yellow lines and a black spot on the sides. Family Lutjanidae; Species Lutjanus vivanus.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6103",
-        "semantic_similarity_score": 0.6103,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,21 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pez de la variedad del pargo. (Lutjanus profundos; Neomoenis vivanus). Evermann, 33.",
           "Pez marino de hasta 70 cm de longitud, de ojos amarillos, cuerpo rosáceo con tenues líneas amarillas y una mancha negra en los lados. Lutjanidae; Lutjanus vivanus."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Observar o percibir algo como un objeto de color rojizo.",
+      "consolidated_definition": "Ver palo colorado .",
+      "en_consolidated_definition": "See red stick (ver palo colorado)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [],
         "themes": [],
         "all_themes_found": [],
@@ -68,9 +73,12 @@
     }
   },
   "es_definitions": [
-    "Pargo profundo se refiere a un pez marino perteneciente al género Lutjanus, específicamente a las especies Lutjanus vivanus y Lutjanus guttatus.",
-    "Observar o percibir algo como un objeto de color rojizo."
+    "Pez marino de hasta 70 cm de longitud, de ojos amarillos, cuerpo rosáceo con tenues líneas amarillas y una mancha negra en los lados. Lutjanidae; Lutjanus vivanus.",
+    "Ver palo colorado ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine fish reaching up to 70 cm in length, with yellow eyes, a pinkish body featuring faint yellow lines and a black spot on the sides. Family Lutjanidae; Species Lutjanus vivanus.",
+    "See red stick (ver palo colorado)"
+  ],
   "source": "https://tesoro.pr"
 }

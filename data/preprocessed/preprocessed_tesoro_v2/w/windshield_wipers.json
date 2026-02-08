@@ -3,15 +3,18 @@
   "term": "windshield wipers",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Limpiaparabrisas",
+      "consolidated_definition": "\"Limpiaparabrisas\": dispositivo utilizado para eliminar la niebla o el hielo que se forma en el parabrisas de un vehículo.",
+      "en_consolidated_definition": "Windshield wiper: device used to remove fog or ice that forms on the windshield of a vehicle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.425",
         "semantic_similarity_score": 0.425,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -48,8 +51,10 @@
     }
   },
   "es_definitions": [
-    "Limpiaparabrisas"
+    "\"Limpiaparabrisas\": dispositivo utilizado para eliminar la niebla o el hielo que se forma en el parabrisas de un vehículo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Windshield wiper: device used to remove fog or ice that forms on the windshield of a vehicle."
+  ],
   "source": "https://tesoro.pr"
 }

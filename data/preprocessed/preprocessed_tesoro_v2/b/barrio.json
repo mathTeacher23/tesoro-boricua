@@ -3,15 +3,18 @@
   "term": "barrio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un barrio es un conjunto de casas ubicadas en el campo, generalmente cerca del pueblo principal o cabecera municipal.",
+      "consolidated_definition": "Conjunto de casas en el campo, cerca del pueblo o cabeza del municipio. Un municipio o pueblo tiene varios barrios.",
+      "en_consolidated_definition": "Conjunto de casas en el campo, cerca del pueblo o cabeza del municipio. Un municipio o pueblo tiene varios barrios.\n\nTranslation:\n\nA group of houses in the countryside, near the town or municipal capital. A municipality or town has several wards.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Penitenciaría estatal. Cárcel gestionada por el Estado para la reclusión y rehabilitación de personas condenadas por delitos graves.",
+      "consolidated_definition": "Penitenciaría Estatal. Cárcel.",
+      "en_consolidated_definition": "State Penitentiary. State Prison.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Un barrio es un conjunto de casas ubicadas en el campo, generalmente cerca del pueblo principal o cabecera municipal.",
-    "Penitenciaría estatal. Cárcel gestionada por el Estado para la reclusión y rehabilitación de personas condenadas por delitos graves."
+    "Conjunto de casas en el campo, cerca del pueblo o cabeza del municipio. Un municipio o pueblo tiene varios barrios.",
+    "Penitenciaría Estatal. Cárcel."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conjunto de casas en el campo, cerca del pueblo o cabeza del municipio. Un municipio o pueblo tiene varios barrios.\n\nTranslation:\n\nA group of houses in the countryside, near the town or municipal capital. A municipality or town has several wards.",
+    "State Penitentiary. State Prison."
+  ],
   "source": "https://tesoro.pr"
 }

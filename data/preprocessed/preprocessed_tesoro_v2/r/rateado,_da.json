@@ -3,15 +3,18 @@
   "term": "rateado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Delator",
+      "consolidated_definition": "Delator: Persona que proporciona información a las autoridades o a otra persona con el fin de obtener beneficios o evitar castigos.",
+      "en_consolidated_definition": "Informant: A person who provides information to authorities or another individual in order to obtain benefits or avoid penalties.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3326",
         "semantic_similarity_score": 0.3326,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -52,8 +55,10 @@
     }
   },
   "es_definitions": [
-    "Delator"
+    "Delator: Persona que proporciona información a las autoridades o a otra persona con el fin de obtener beneficios o evitar castigos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Informant: A person who provides information to authorities or another individual in order to obtain benefits or avoid penalties."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "pan de mallorca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ensaimada",
+      "consolidated_definition": "Ensaimada.",
+      "en_consolidated_definition": "Ensaimada: a sweet, spiral-shaped pastry typically made from dough that is wrapped around a filling of lard or butter and sugar, often associated with Puerto Rican cuisine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ensaimada"
+    "Ensaimada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ensaimada: a sweet, spiral-shaped pastry typically made from dough that is wrapped around a filling of lard or butter and sugar, often associated with Puerto Rican cuisine."
+  ],
   "source": "https://tesoro.pr"
 }

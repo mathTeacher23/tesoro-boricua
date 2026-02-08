@@ -3,9 +3,12 @@
   "term": "no parar ni en mientes",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablar sin ambages",
+      "consolidated_definition": "Hablar sin ambages.",
+      "en_consolidated_definition": "Speak without equivocation or ambiguity.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Hablar sin ambages"
+    "Hablar sin ambages."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Speak without equivocation or ambiguity."
+  ],
   "source": "https://tesoro.pr"
 }

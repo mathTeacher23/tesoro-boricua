@@ -3,15 +3,18 @@
   "term": "administrar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Engañar a una persona para obtener algo a cambio.",
+      "consolidated_definition": "Sacar una persona dinero a alguien mediante engaño.",
+      "en_consolidated_definition": "Extracción de dinero a alguien mediante engaño o manipulación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 10,
-        "num_cleaned_definitions": 10,
-        "definition_stability": "Stability: 0.6019",
-        "semantic_similarity_score": 0.6019,
-        "cluster_count": 9,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -62,29 +65,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Sacarle el dinero a otro con engañifas. “Me he casado con esta viuda para administrarla.”",
-          "(general) Engañar a uno. Sacarle dinero a una persona con engaños. Disfrutar de lo ajeno.",
-          "Tener relaciones ilícitas con una mujer.",
-          "Engañar a uno, sacarle dinero con engaños, tener relaciones ilícitas, disfrutar de lo ajeno.",
-          "Engañar a uno; sacarle dinero con engaño; tener relaciones ilícitas con una mujer; disfrutar de lo ajeno.",
-          "Sacar dinero a una persona mediante engaño o adulación.",
-          "Tener relaciones ilícitas para sacar provecho material. También alministrar.",
-          "Sacar una persona dinero a alguien mediante engaño.",
-          "Mantener alguien relaciones ilícitas para sacar provecho material.",
-          "Disfrutar alguien de lo ajeno."
+          "Sacar una persona dinero a alguien mediante engaño."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Evaluar: medir el conocimiento o habilidades de alguien mediante ejercicios o pruebas específicas en una materia determinada.",
+      "consolidated_definition": "Aplicar, dar. Medir con ejercicios o pruebas determinadas el conocimiento de alguien en una materia. Calco de estructura, frecuente. Se podrán administrar exámenes cortos (quizzes) o cortos proyectos para evaluar el progreso del estudiante (Universidad Interamericana, Recinto Metropolitano, enero 2008)",
+      "en_consolidated_definition": "To administer, to apply. To measure someone's knowledge in a subject through specific exercises or tests. Calque of structure, frequent. Short quizzes or short projects can be administered to evaluate the student's progress (University Interamericana, Metropolitan Recinto, January 2008)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -114,9 +111,12 @@
     }
   },
   "es_definitions": [
-    "Engañar a una persona para obtener algo a cambio.",
-    "Evaluar: medir el conocimiento o habilidades de alguien mediante ejercicios o pruebas específicas en una materia determinada."
+    "Sacar una persona dinero a alguien mediante engaño.",
+    "Aplicar, dar. Medir con ejercicios o pruebas determinadas el conocimiento de alguien en una materia. Calco de estructura, frecuente. Se podrán administrar exámenes cortos (quizzes) o cortos proyectos para evaluar el progreso del estudiante (Universidad Interamericana, Recinto Metropolitano, enero 2008)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Extracción de dinero a alguien mediante engaño o manipulación.",
+    "To administer, to apply. To measure someone's knowledge in a subject through specific exercises or tests. Calque of structure, frequent. Short quizzes or short projects can be administered to evaluate the student's progress (University Interamericana, Metropolitan Recinto, January 2008)"
+  ],
   "source": "https://tesoro.pr"
 }

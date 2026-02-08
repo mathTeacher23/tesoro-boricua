@@ -3,15 +3,18 @@
   "term": "café buche de puerco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Café colado: bebida hecha con el líquido resultante del proceso de filtración del café en grano, que pertenece a una categoría de café con sabor inferior al tradicional.",
+      "consolidated_definition": "Café colado con poco sabor.",
+      "en_consolidated_definition": "Weak coffee with little flavor.\n\nNota: En este caso, \"colado\" se refiere a un método de preparación del café en Puerto Rico, donde el café se pasa por una malla fina para eliminar las impurezas y dejar solo la bebida. La traducción busca mantener el contexto cultural específico de Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.7266",
-        "semantic_similarity_score": 0.7266,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El café colado de sabor deficiente.",
           "Café colado con poco sabor."
         ]
       }
     }
   },
   "es_definitions": [
-    "Café colado: bebida hecha con el líquido resultante del proceso de filtración del café en grano, que pertenece a una categoría de café con sabor inferior al tradicional."
+    "Café colado con poco sabor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Weak coffee with little flavor.\n\nNota: En este caso, \"colado\" se refiere a un método de preparación del café en Puerto Rico, donde el café se pasa por una malla fina para eliminar las impurezas y dejar solo la bebida. La traducción busca mantener el contexto cultural específico de Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

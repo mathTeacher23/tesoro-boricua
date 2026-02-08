@@ -3,14 +3,17 @@
   "term": "jático",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Especie de bolsa",
+      "consolidated_definition": "Bolsa con asa hecha de mallas, usada para llevar los peces de un sitio a otro en los viveros.",
+      "en_consolidated_definition": "Net bag with handle made of mesh, used to transport fish from one location to another in hatcheries.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.7866",
-        "semantic_similarity_score": 0.7866,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -51,17 +54,16 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Especie de bolsa, hecha de mallas como las de las redes de pescar, la cual lleva un asa y sirve para mudar los peces de un sitio a otro en los viveros.",
-          "Especie de bolsa, hecha de mallas como las redes de pescar, la cual lleva un asa y sirve para mudar peces de un sitio a otro en los viveros.",
-          "Malla de pescar con asa para mover peces en los viveros.",
           "Bolsa con asa hecha de mallas, usada para llevar los peces de un sitio a otro en los viveros."
         ]
       }
     }
   },
   "es_definitions": [
-    "Especie de bolsa"
+    "Bolsa con asa hecha de mallas, usada para llevar los peces de un sitio a otro en los viveros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Net bag with handle made of mesh, used to transport fish from one location to another in hatcheries."
+  ],
   "source": "https://tesoro.pr"
 }

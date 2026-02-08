@@ -3,9 +3,12 @@
   "term": "llenadora",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Equipo que se encarga de recoger la caña",
+      "consolidated_definition": "Equipo que se encarga de recoger la caña que se corta a mano. Esta caña se transporta a granel.",
+      "en_consolidated_definition": "Harvester team responsible for collecting cut cane by hand, which is then transported in bulk.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Equipo que se encarga de recoger la caña"
+    "Equipo que se encarga de recoger la caña que se corta a mano. Esta caña se transporta a granel."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Harvester team responsible for collecting cut cane by hand, which is then transported in bulk."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "mezanine",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Entresuelo",
+      "consolidated_definition": "En un cine o teatro, piso sobrepuesto a la platea, con butacas para los espectadores.",
+      "en_consolidated_definition": "Upper level or mezzanine in a cinema or theater, with seating for spectators.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4891",
-        "semantic_similarity_score": 0.4891,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Entresuelo, entrepiso. Anglicismo adaptado, poco frecuente. Véase mezzanine. En el mezanine del edificio de operaciones electorales donde se ubican las oficinas de los comisionados y la del presidente se limpiará una vez al día en situaciones normales",
           "En un cine o teatro, piso sobrepuesto a la platea, con butacas para los espectadores."
         ]
       }
     }
   },
   "es_definitions": [
-    "Entresuelo"
+    "En un cine o teatro, piso sobrepuesto a la platea, con butacas para los espectadores."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Upper level or mezzanine in a cinema or theater, with seating for spectators."
+  ],
   "source": "https://tesoro.pr"
 }

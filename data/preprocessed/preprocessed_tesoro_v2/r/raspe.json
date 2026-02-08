@@ -3,15 +3,18 @@
   "term": "raspe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Sistema de recogida del café en forma de",
+      "consolidated_definition": "El sistema de recogida del café en forma de ordeño de la rama consiste en el último recolección de café, conocido como \"café verde y maduro\", que marca el final de la cosecha.",
+      "en_consolidated_definition": "The coffee harvesting system in the form of branch milking consists of the final coffee collection, known as \"green and mature coffee\", which marks the end of the harvest.\n\nNota: En este contexto, \"ordeño de la rama\" se refiere a un método de recolección de café en el que las ramas de la planta están siendo exprimidas para extraer el grano.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.7009",
         "semantic_similarity_score": 0.7009,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -44,9 +47,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Operación vaginal para limpiar la matriz de una",
+      "consolidated_definition": "Operación vaginal para limpiar la matriz de una mujer.",
+      "en_consolidated_definition": "Vaginal operation to clean the uterus of a woman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -83,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Sistema de recogida del café en forma de",
-    "Operación vaginal para limpiar la matriz de una"
+    "El sistema de recogida del café en forma de ordeño de la rama consiste en el último recolección de café, conocido como \"café verde y maduro\", que marca el final de la cosecha.",
+    "Operación vaginal para limpiar la matriz de una mujer."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The coffee harvesting system in the form of branch milking consists of the final coffee collection, known as \"green and mature coffee\", which marks the end of the harvest.\n\nNota: En este contexto, \"ordeño de la rama\" se refiere a un método de recolección de café en el que las ramas de la planta están siendo exprimidas para extraer el grano.",
+    "Vaginal operation to clean the uterus of a woman."
+  ],
   "source": "https://tesoro.pr"
 }

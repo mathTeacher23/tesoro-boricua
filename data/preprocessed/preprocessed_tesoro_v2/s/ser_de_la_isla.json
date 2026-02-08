@@ -3,14 +3,17 @@
   "term": "ser de la isla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser de cualquier pueblo del interior",
+      "consolidated_definition": "Ser alguien de un pueblo del interior de la isla o de otro que no sea la capital del país.",
+      "en_consolidated_definition": "To be someone from a town in the interior of the island or another that is not the capital city of the country.\n\nNota: En este contexto, \"pueblo del interior\" se refiere a un pueblo o ciudad ubicada en la parte interior de la isla de Puerto Rico, en contraste con la capital, San Juan.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.777",
-        "semantic_similarity_score": 0.777,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "locución verbal"
@@ -40,15 +43,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ser de cualquier pueblo del interior, o de otro que no sea la capital o la zona metropolitana.",
           "Ser alguien de un pueblo del interior de la isla o de otro que no sea la capital del país."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ser de cualquier pueblo del interior"
+    "Ser alguien de un pueblo del interior de la isla o de otro que no sea la capital del país."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be someone from a town in the interior of the island or another that is not the capital city of the country.\n\nNota: En este contexto, \"pueblo del interior\" se refiere a un pueblo o ciudad ubicada en la parte interior de la isla de Puerto Rico, en contraste con la capital, San Juan."
+  ],
   "source": "https://tesoro.pr"
 }

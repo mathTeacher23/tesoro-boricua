@@ -3,9 +3,12 @@
   "term": "puerta ventana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Puerta partida al centro",
+      "consolidated_definition": "Puerta partida al centro, horizontalmente, de manera que se pueda abrir también como ventana.",
+      "en_consolidated_definition": "Split door in the center, horizontally, so that it can also be opened as a window.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Puerta partida al centro"
+    "Puerta partida al centro, horizontalmente, de manera que se pueda abrir también como ventana."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Split door in the center, horizontally, so that it can also be opened as a window."
+  ],
   "source": "https://tesoro.pr"
 }

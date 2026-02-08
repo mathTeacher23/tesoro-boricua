@@ -3,9 +3,12 @@
   "term": "estar anidado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Vivir alguien permanentemente con una pareja",
+      "consolidated_definition": "Vivir alguien permanentemente con una pareja.",
+      "en_consolidated_definition": "To live permanently with a partner or spouse.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Vivir alguien permanentemente con una pareja"
+    "Vivir alguien permanentemente con una pareja."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To live permanently with a partner or spouse."
+  ],
   "source": "https://tesoro.pr"
 }

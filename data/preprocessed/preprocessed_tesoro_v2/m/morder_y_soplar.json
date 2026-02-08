@@ -3,9 +3,12 @@
   "term": "morder y soplar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Aplícase a la persona que causa daño a",
+      "consolidated_definition": "Aplícase a la persona que causa daño a otra y luego la halaga.",
+      "en_consolidated_definition": "Person who causes harm to another and then flatters them.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Aplícase a la persona que causa daño a"
+    "Aplícase a la persona que causa daño a otra y luego la halaga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Person who causes harm to another and then flatters them."
+  ],
   "source": "https://tesoro.pr"
 }

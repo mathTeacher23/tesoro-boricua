@@ -3,9 +3,12 @@
   "term": "parcelero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Propietario de una parcela de tierra otorgada por",
+      "consolidated_definition": "Propietario de una parcela de tierra otorgada por el gobierno.",
+      "en_consolidated_definition": "Landowner of a parcel of land granted by the government.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Propietario de una parcela de tierra otorgada por"
+    "Propietario de una parcela de tierra otorgada por el gobierno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Landowner of a parcel of land granted by the government."
+  ],
   "source": "https://tesoro.pr"
 }

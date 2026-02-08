@@ -3,15 +3,18 @@
   "term": "acabose",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hundimiento, desastre, situación catastrófica, desastre producido por el hombre.",
+      "consolidated_definition": "Situación catastrófica, desastre producido por el hombre.",
+      "en_consolidated_definition": "Disaster caused by human activity.\n\nNota: En este contexto, no se refiere a un desastre natural, sino a uno provocado por el hombre.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.5082",
-        "semantic_similarity_score": 0.5082,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,16 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Hundimiento, desastre.",
-          "“El acabose: ser (una cosa o persona) el jundimiento, la jundición”.",
           "Situación catastrófica, desastre producido por el hombre."
         ]
       }
     }
   },
   "es_definitions": [
-    "Hundimiento, desastre, situación catastrófica, desastre producido por el hombre."
+    "Situación catastrófica, desastre producido por el hombre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Disaster caused by human activity.\n\nNota: En este contexto, no se refiere a un desastre natural, sino a uno provocado por el hombre."
+  ],
   "source": "https://tesoro.pr"
 }

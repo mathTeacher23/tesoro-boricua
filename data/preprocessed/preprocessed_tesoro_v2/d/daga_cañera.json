@@ -3,15 +3,18 @@
   "term": "daga cañera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Machete: objeto cortante con mango largo, generalmente utilizado para tareas como la poda de plantas o el corte de vegetación en áreas rurales y selváticas.",
+      "consolidated_definition": "Machete.",
+      "en_consolidated_definition": "Machete: a long-bladed cutting tool used for clearing vegetation and other tasks, often associated with rural areas in Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Machete: objeto cortante con mango largo, generalmente utilizado para tareas como la poda de plantas o el corte de vegetación en áreas rurales y selváticas."
+    "Machete."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Machete: a long-bladed cutting tool used for clearing vegetation and other tasks, often associated with rural areas in Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

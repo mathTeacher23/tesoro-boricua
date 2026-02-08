@@ -3,9 +3,12 @@
   "term": "zarzadilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Otra variedad de zarza",
+      "consolidated_definition": "Otra variedad de zarza. Benth). “Se da en los barrancos.”",
+      "en_consolidated_definition": "Another variety of zarza. Benth). \"It is found in ravines.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Otra variedad de zarza"
+    "Otra variedad de zarza. Benth). “Se da en los barrancos.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Another variety of zarza. Benth). \"It is found in ravines.\""
+  ],
   "source": "https://tesoro.pr"
 }

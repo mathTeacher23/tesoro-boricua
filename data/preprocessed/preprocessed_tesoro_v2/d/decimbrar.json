@@ -3,9 +3,12 @@
   "term": "decimbrar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En construcción",
+      "consolidated_definition": "En construcción, quitar los moldes al hormigón fundido y fraguado.",
+      "en_consolidated_definition": "Remove molds from set concrete after it has been cast and hardened.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En construcción"
+    "En construcción, quitar los moldes al hormigón fundido y fraguado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Remove molds from set concrete after it has been cast and hardened."
+  ],
   "source": "https://tesoro.pr"
 }

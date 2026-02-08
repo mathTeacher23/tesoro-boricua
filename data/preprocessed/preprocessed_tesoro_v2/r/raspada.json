@@ -3,9 +3,12 @@
   "term": "raspada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Refresco hecho con hielo finamente desmenuzado",
+      "consolidated_definition": "Refresco hecho con hielo finamente desmenuzado, al que se agrega alguna esencia, sirope o jugo de fruta.",
+      "en_consolidated_definition": "Frozen drink made with finely crushed ice to which some essence, syrup or fruit juice is added.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Refresco hecho con hielo finamente desmenuzado"
+    "Refresco hecho con hielo finamente desmenuzado, al que se agrega alguna esencia, sirope o jugo de fruta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Frozen drink made with finely crushed ice to which some essence, syrup or fruit juice is added."
+  ],
   "source": "https://tesoro.pr"
 }

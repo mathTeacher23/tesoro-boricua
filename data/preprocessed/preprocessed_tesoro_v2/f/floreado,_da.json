@@ -3,9 +3,12 @@
   "term": "floreado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido al habla o a la escritura",
+      "consolidated_definition": "Referido al habla o a la escritura, recargada.",
+      "en_consolidated_definition": "Referido a la habla o escritura, redundante or recargada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Referido al habla o a la escritura"
+    "Referido al habla o a la escritura, recargada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referido a la habla o escritura, redundante or recargada."
+  ],
   "source": "https://tesoro.pr"
 }

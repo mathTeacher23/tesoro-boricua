@@ -3,14 +3,17 @@
   "term": "trapiche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ingenio de azúcar, relacionado con un grupo o un mecanismo",
+      "consolidated_definition": "Conjunto de instalaciones y máquinas donde se procesa la caña de azúcar para fabricar panela.",
+      "en_consolidated_definition": "Facility or equipment complex where sugarcane is processed to manufacture panela.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.3994",
-        "semantic_similarity_score": 0.3994,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -63,24 +66,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ingenio de azúcar.",
-          "Personas de esta procedencia debieron ser las que extendieron por las Antillas el vocabulario del azúcar: trapiche.",
-          "Molino de azúcar. “Sírvense por este río cuatro ingenios de moler azúcar, que llaman trapiches.”",
-          "Molino.",
-          "Tipo de molino .",
           "Conjunto de instalaciones y máquinas donde se procesa la caña de azúcar para fabricar panela."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Entre delincuentes",
+      "consolidated_definition": "Agente de rentas internas.",
+      "en_consolidated_definition": "Internal Revenue Agent",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8773",
-        "semantic_similarity_score": 0.8773,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -111,16 +112,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Entre delincuentes, agentes de Rentas Internas.",
           "Agente de rentas internas."
         ]
       }
     }
   },
   "es_definitions": [
-    "Ingenio de azúcar, relacionado con un grupo o un mecanismo",
-    "Entre delincuentes"
+    "Conjunto de instalaciones y máquinas donde se procesa la caña de azúcar para fabricar panela.",
+    "Agente de rentas internas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Facility or equipment complex where sugarcane is processed to manufacture panela.",
+    "Internal Revenue Agent"
+  ],
   "source": "https://tesoro.pr"
 }

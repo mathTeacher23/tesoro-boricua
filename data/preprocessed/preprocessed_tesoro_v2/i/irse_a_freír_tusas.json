@@ -3,9 +3,12 @@
   "term": "irse a freír tusas",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No inmiscuirse en lo que no le importa",
+      "consolidated_definition": "No inmiscuirse en lo que no le importa.",
+      "en_consolidated_definition": "No intervenir en asuntos que no le conciernen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "No inmiscuirse en lo que no le importa"
+    "No inmiscuirse en lo que no le importa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No intervenir en asuntos que no le conciernen."
+  ],
   "source": "https://tesoro.pr"
 }

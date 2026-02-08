@@ -3,9 +3,12 @@
   "term": "reis",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Agentes de policía",
+      "consolidated_definition": "Agentes de policía.",
+      "en_consolidated_definition": "Law enforcement officers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -38,8 +41,10 @@
     }
   },
   "es_definitions": [
-    "Agentes de policía"
+    "Agentes de policía."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Law enforcement officers."
+  ],
   "source": "https://tesoro.pr"
 }

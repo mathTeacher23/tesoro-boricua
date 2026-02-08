@@ -3,15 +3,18 @@
   "term": "guacaica",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre del pájaro bobo",
+      "consolidated_definition": "Dícese del pájaro Pterocles alchata, conocido comúnmente como el nombre del pájaro bobo.",
+      "en_consolidated_definition": "This bird is referred to as the Pterocles alchata, commonly known as the bobo bird.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3674",
         "semantic_similarity_score": 0.3674,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Nombre del pájaro bobo"
+    "Dícese del pájaro Pterocles alchata, conocido comúnmente como el nombre del pájaro bobo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This bird is referred to as the Pterocles alchata, commonly known as the bobo bird."
+  ],
   "source": "https://tesoro.pr"
 }

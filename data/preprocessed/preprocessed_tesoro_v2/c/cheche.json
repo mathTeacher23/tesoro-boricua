@@ -3,15 +3,18 @@
   "term": "cheche",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que se comporta con valentía o audacia excesiva, a menudo en situaciones donde la prudencia sería más adecuada.",
+      "consolidated_definition": "Valentón, matón, perdonavidas.",
+      "en_consolidated_definition": "Bravado, bully, self-justifier.\n\nNota: La expresión \"perdonavidas\" se refiere a alguien que se justifica a sí mismo después de haber cometido una falta o error, y es un término coloquial común en Puerto Rico. En el contexto de la traducción, he mantenido su significado original para preservar la autenticidad cultural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.2395",
-        "semantic_similarity_score": 0.2395,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -36,22 +39,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Valentón, matón, perdonavidas.",
-          "Jefe, director, líder, persona influyente.",
-          "Persona inteligente, eficiente."
+          "Valentón, matón, perdonavidas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Documento utilizado para realizar pagos o transferencias de dinero.",
+      "consolidated_definition": "El papel que sirve para pagar deudas.",
+      "en_consolidated_definition": "The document or instrument used to settle debts.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -82,9 +86,12 @@
     }
   },
   "es_definitions": [
-    "Persona que se comporta con valentía o audacia excesiva, a menudo en situaciones donde la prudencia sería más adecuada.",
-    "Documento utilizado para realizar pagos o transferencias de dinero."
+    "Valentón, matón, perdonavidas.",
+    "El papel que sirve para pagar deudas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bravado, bully, self-justifier.\n\nNota: La expresión \"perdonavidas\" se refiere a alguien que se justifica a sí mismo después de haber cometido una falta o error, y es un término coloquial común en Puerto Rico. En el contexto de la traducción, he mantenido su significado original para preservar la autenticidad cultural.",
+    "The document or instrument used to settle debts."
+  ],
   "source": "https://tesoro.pr"
 }

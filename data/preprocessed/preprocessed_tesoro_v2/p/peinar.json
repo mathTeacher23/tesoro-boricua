@@ -3,9 +3,12 @@
   "term": "peinar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pasar el peine al terreno toscoso para prepararlo",
+      "consolidated_definition": "Pasar el peine al terreno toscoso para prepararlo para la siembra.",
+      "en_consolidated_definition": "To prepare the land for planting by raking it with a rake to smooth out its rough terrain.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Pasar el peine al terreno toscoso para prepararlo"
+    "Pasar el peine al terreno toscoso para prepararlo para la siembra."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To prepare the land for planting by raking it with a rake to smooth out its rough terrain."
+  ],
   "source": "https://tesoro.pr"
 }

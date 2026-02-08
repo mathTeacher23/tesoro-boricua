@@ -3,15 +3,18 @@
   "term": "hibisco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Amapola",
+      "consolidated_definition": "La amapola es una planta anual de la familia de las papaveráceas, conocida por sus flores grandes y coloridas.",
+      "en_consolidated_definition": "The poppy is an annual plant of the Papaveraceae family, known for its large and colorful flowers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.3996",
         "semantic_similarity_score": 0.3996,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -52,8 +55,10 @@
     }
   },
   "es_definitions": [
-    "Amapola"
+    "La amapola es una planta anual de la familia de las papaveráceas, conocida por sus flores grandes y coloridas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The poppy is an annual plant of the Papaveraceae family, known for its large and colorful flowers."
+  ],
   "source": "https://tesoro.pr"
 }

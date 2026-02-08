@@ -3,9 +3,12 @@
   "term": "tortuguero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nombre que algunos le dan al árbol nativo",
+      "consolidated_definition": "Nombre que algunos le dan al árbol nativo llamado violeta. También llamado tortuga.",
+      "en_consolidated_definition": "Name given by some to the native tree called violeta. Also known as tortuga.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Nombre que algunos le dan al árbol nativo"
+    "Nombre que algunos le dan al árbol nativo llamado violeta. También llamado tortuga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Name given by some to the native tree called violeta. Also known as tortuga."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "descontinuar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Interrumpir la realización de algo",
+      "consolidated_definition": "Interrumpir la realización de algo.",
+      "en_consolidated_definition": "Interrupt the execution or completion of something.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Interrumpir la realización de algo"
+    "Interrumpir la realización de algo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Interrupt the execution or completion of something."
+  ],
   "source": "https://tesoro.pr"
 }

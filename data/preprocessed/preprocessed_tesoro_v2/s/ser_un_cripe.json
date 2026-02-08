@@ -3,9 +3,12 @@
   "term": "ser un cripe",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ser un avaro",
+      "consolidated_definition": "Ser un avaro.",
+      "en_consolidated_definition": "To be a miser or to hoard wealth excessively.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Ser un avaro"
+    "Ser un avaro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be a miser or to hoard wealth excessively."
+  ],
   "source": "https://tesoro.pr"
 }

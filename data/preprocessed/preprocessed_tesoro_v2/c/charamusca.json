@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Un término coloquial utilizado en varios países de América Latina, como Argentina, Bolivia, Cuba, Uruguay y Perú, que se refiere a algo o alguien ridículo o absurdo.",
+      "en_consolidated_definition": "A colloquial term used in various countries of Latin America, such as Argentina, Bolivia, Cuba, Uruguay, and Peru, referring to something or someone ridiculous or absurd.\n\nNota: No se mencionan términos culturales específicos de Puerto Rico en la definición original, por lo que no hay necesidad de traducirlos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -41,14 +44,17 @@
     },
     "2": {
       "consolidated_definition": "Leña menuda y seca de fácil combustión.",
+      "en_consolidated_definition": "Small dry and easily combustible firewood.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -82,6 +88,9 @@
     "Un término coloquial utilizado en varios países de América Latina, como Argentina, Bolivia, Cuba, Uruguay y Perú, que se refiere a algo o alguien ridículo o absurdo.",
     "Leña menuda y seca de fácil combustión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A colloquial term used in various countries of Latin America, such as Argentina, Bolivia, Cuba, Uruguay, and Peru, referring to something or someone ridiculous or absurd.\n\nNota: No se mencionan términos culturales específicos de Puerto Rico en la definición original, por lo que no hay necesidad de traducirlos.",
+    "Small dry and easily combustible firewood."
+  ],
   "source": "https://tesoro.pr"
 }

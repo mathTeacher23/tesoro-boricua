@@ -3,15 +3,18 @@
   "term": "bichar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La venta en gran escala de sustancias ilegales.",
+      "consolidated_definition": "Vender droga en gran escala.",
+      "en_consolidated_definition": "Traficar drogas en gran escala.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "La venta en gran escala de sustancias ilegales."
+    "Vender droga en gran escala."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Traficar drogas en gran escala."
+  ],
   "source": "https://tesoro.pr"
 }

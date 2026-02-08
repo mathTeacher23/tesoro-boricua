@@ -3,9 +3,12 @@
   "term": "sleep over",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver sleepover",
+      "consolidated_definition": "Ver sleepover .",
+      "en_consolidated_definition": "Sleepover, see under sleepover.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver sleepover"
+    "Ver sleepover ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sleepover, see under sleepover."
+  ],
   "source": "https://tesoro.pr"
 }

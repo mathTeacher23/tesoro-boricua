@@ -3,14 +3,17 @@
   "term": "fogón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Artefacto localizado en la cocina con una o",
+      "consolidated_definition": "Cocina rústica de leña, construida con cemento o barro sobre una mesa, y que puede incluir una parrilla.",
+      "en_consolidated_definition": "Wood-fired rustic kitchen built with cement or adobe over a platform, which may include a grill.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4729",
-        "semantic_similarity_score": 0.4729,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -46,21 +49,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Artefacto localizado en la cocina con una o más hornillas que se usa para cocinar.",
-          "La hornilla se habilita por lo común en el fogón con tres piedras que se colocan en arreglo triangular para sostener la vasija que se pone al fuego que arde entre las mismas.",
           "Cocina rústica de leña, construida con cemento o barro sobre una mesa, y que puede incluir una parrilla."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Coraje",
+      "consolidated_definition": "Acto, objeto o suceso que puede levantar sospechas o poner en descubierto a alguien.",
+      "en_consolidated_definition": "Act that, object, or event capable of raising suspicions or exposing someone.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4565",
-        "semantic_similarity_score": 0.4565,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -96,19 +100,18 @@
           "enfogonarse"
         ],
         "reference_definitions": [
-          "Coraje. Enfado.",
-          "Entusiasmo pasajero.",
-          "Fiebre.",
-          "Acto, objeto o suceso que puede levantar sospechas o poner en descubierto a alguien.",
-          "Enfado, indignación."
+          "Acto, objeto o suceso que puede levantar sospechas o poner en descubierto a alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Artefacto localizado en la cocina con una o",
-    "Coraje"
+    "Cocina rústica de leña, construida con cemento o barro sobre una mesa, y que puede incluir una parrilla.",
+    "Acto, objeto o suceso que puede levantar sospechas o poner en descubierto a alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wood-fired rustic kitchen built with cement or adobe over a platform, which may include a grill.",
+    "Act that, object, or event capable of raising suspicions or exposing someone.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

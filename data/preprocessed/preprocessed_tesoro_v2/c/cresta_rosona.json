@@ -3,15 +3,18 @@
   "term": "cresta rosona",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La cresta geológica es un relieve caracterizado por una superficie ondulada o irregular, similar a la cresta de serrucho pero con menor altura y mayor anchura.",
+      "consolidated_definition": "Cresta con las características de la cresta de serrucho, con la diferencia de que su altura es menor y es mucho más ancha.",
+      "en_consolidated_definition": "Ridge with the characteristics of a serrated crest, differing in that its height is less and it is much wider.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La cresta geológica es un relieve caracterizado por una superficie ondulada o irregular, similar a la cresta de serrucho pero con menor altura y mayor anchura."
+    "Cresta con las características de la cresta de serrucho, con la diferencia de que su altura es menor y es mucho más ancha."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ridge with the characteristics of a serrated crest, differing in that its height is less and it is much wider."
+  ],
   "source": "https://tesoro.pr"
 }

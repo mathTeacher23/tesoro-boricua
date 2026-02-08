@@ -3,15 +3,18 @@
   "term": "gorrión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pájaro",
+      "consolidated_definition": "Pájaro: ave que se caracteriza por tener alas y pertenece a la categoría de aves.",
+      "en_consolidated_definition": "Bird: a winged creature that belongs to the category of birds.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.3644",
         "semantic_similarity_score": 0.3644,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -58,8 +61,10 @@
     }
   },
   "es_definitions": [
-    "Pájaro"
+    "Pájaro: ave que se caracteriza por tener alas y pertenece a la categoría de aves."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Bird: a winged creature that belongs to the category of birds."
+  ],
   "source": "https://tesoro.pr"
 }

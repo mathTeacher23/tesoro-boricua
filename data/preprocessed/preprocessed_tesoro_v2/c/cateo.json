@@ -3,15 +3,18 @@
   "term": "cateo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cacheo: búsqueda física de una persona para verificar la presencia de objetos prohibidos, realizada mediante el examen de su vestimenta o cuerpo.",
+      "consolidated_definition": "Cacheo, búsqueda en la que se palpa la vestimenta o el cuerpo de una persona para saber si oculta objetos prohibidos, como armas, drogas, etc. La primera ejecutiva municipal hizo énfasis en que ningún ciudadano podrá entrar a la celebración sin ser revisado por personal de seguridad a través de diez puntos de cateo que estarán ubicados en diversas calles del casco del Viejo San Juan. Estos contarán con policías, detectores de metales y canes especializados en seguridad. (Primera Hora, 10-1-14)",
+      "en_consolidated_definition": "Body search, a search in which the clothing or body of a person is palpated to determine if they are concealing prohibited items, such as weapons, drugs, etc.\n\nCasco del Viejo San Juan translates to Old San Juan Historic District.\n\nDiez puntos de cateo translates to ten checkpoints.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Cacheo: búsqueda física de una persona para verificar la presencia de objetos prohibidos, realizada mediante el examen de su vestimenta o cuerpo."
+    "Cacheo, búsqueda en la que se palpa la vestimenta o el cuerpo de una persona para saber si oculta objetos prohibidos, como armas, drogas, etc. La primera ejecutiva municipal hizo énfasis en que ningún ciudadano podrá entrar a la celebración sin ser revisado por personal de seguridad a través de diez puntos de cateo que estarán ubicados en diversas calles del casco del Viejo San Juan. Estos contarán con policías, detectores de metales y canes especializados en seguridad. (Primera Hora, 10-1-14)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Body search, a search in which the clothing or body of a person is palpated to determine if they are concealing prohibited items, such as weapons, drugs, etc.\n\nCasco del Viejo San Juan translates to Old San Juan Historic District.\n\nDiez puntos de cateo translates to ten checkpoints."
+  ],
   "source": "https://tesoro.pr"
 }

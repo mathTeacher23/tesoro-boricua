@@ -3,9 +3,12 @@
   "term": "mi hermano, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se usa como forma de tratamiento entre amigos",
+      "consolidated_definition": "Se usa como forma de tratamiento entre amigos.",
+      "en_consolidated_definition": "Used as a form of address among friends.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Se usa como forma de tratamiento entre amigos"
+    "Se usa como forma de tratamiento entre amigos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Used as a form of address among friends."
+  ],
   "source": "https://tesoro.pr"
 }

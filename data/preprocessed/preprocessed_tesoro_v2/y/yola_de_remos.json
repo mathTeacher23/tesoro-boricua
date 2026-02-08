@@ -3,9 +3,12 @@
   "term": "yola de remos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Barca de pesca",
+      "consolidated_definition": "Barca de pesca.",
+      "en_consolidated_definition": "Fishing boat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Barca de pesca"
+    "Barca de pesca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fishing boat."
+  ],
   "source": "https://tesoro.pr"
 }

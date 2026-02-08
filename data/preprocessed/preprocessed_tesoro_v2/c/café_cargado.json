@@ -3,15 +3,18 @@
   "term": "café cargado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión coloquial que describe un café muy denso y oscuro, resultado de haber utilizado una mayor cantidad de harina en el proceso de colado.",
+      "consolidated_definition": "Se dice por todo el país del café que resulta más denso y tinto por haberse empleado mayor cantidad de harina al colarlo.",
+      "en_consolidated_definition": "This coffee is said throughout the country to be denser and darker in color due to a greater amount of flour being used when it is filtered.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Expresión coloquial que describe un café muy denso y oscuro, resultado de haber utilizado una mayor cantidad de harina en el proceso de colado."
+    "Se dice por todo el país del café que resulta más denso y tinto por haberse empleado mayor cantidad de harina al colarlo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This coffee is said throughout the country to be denser and darker in color due to a greater amount of flour being used when it is filtered."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "chema",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Voz usada por campesinos para describir un nudo en la faldeta de la camisa que se forma al cruzarla sobre el vientre.",
+      "consolidated_definition": "Voz usada por campesinos. Nudo con la faldeta de la camisa sobre el vientre.",
+      "en_consolidated_definition": "Term used by peasants. Knot formed with the apron of a shirt over the abdomen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Voz usada por campesinos para describir un nudo en la faldeta de la camisa que se forma al cruzarla sobre el vientre."
+    "Voz usada por campesinos. Nudo con la faldeta de la camisa sobre el vientre."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Term used by peasants. Knot formed with the apron of a shirt over the abdomen."
+  ],
   "source": "https://tesoro.pr"
 }

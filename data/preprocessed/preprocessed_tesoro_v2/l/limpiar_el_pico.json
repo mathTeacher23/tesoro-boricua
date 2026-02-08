@@ -3,9 +3,12 @@
   "term": "limpiar el pico",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Matar una persona a alguien",
+      "consolidated_definition": "Matar una persona a alguien.",
+      "en_consolidated_definition": "To kill someone.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Matar una persona a alguien"
+    "Matar una persona a alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To kill someone."
+  ],
   "source": "https://tesoro.pr"
 }

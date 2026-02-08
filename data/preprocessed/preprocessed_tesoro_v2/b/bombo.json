@@ -3,15 +3,18 @@
   "term": "bombo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El sombrero derby es un tipo de sombrero de copa aovada y ala angosta, generalmente con ribete en la orilla.",
+      "consolidated_definition": "Sombrero de copa aovada, pero no alta, y ala angosta, generalmente con ribete a la orilla. Es el “derby” inglés. “Llevas... un bombo (chistera) que usó en sus buenos tiempos tu tío Pancho.” Luis Bonafoux, Esbozos novelescos, 1894, p. 193.",
+      "en_consolidated_definition": "Sombrero de copa aovada, pero no alta, y ala angosta, generalmente con ribete a la orilla. Es el \"derby\" inglés.\n\nTranslation:\n\nA hat with an oval-shaped crown that is not high and narrow wings, usually with a ribbon at the edge. It is the English \"derby\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,11 @@
     },
     "2": {
       "consolidated_definition": "El guarapo era un objeto que se transportaba a través de un canal hasta la primera paila de la hornalla, desde donde era trasladado al segundo depósito (fondo) y luego al tercer depósito (tacho), mediante grandes cazos de madera llamados bombos.",
+      "en_consolidated_definition": "The guarapo was an object transported through a canal to the first cauldron of the hearth, from where it was transferred to the second reservoir (bottom) and then to the third reservoir (vat), via large wooden pots called bombos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -79,8 +85,11 @@
     },
     "3": {
       "consolidated_definition": "Secadora cilíndrica de metal o cemento utilizada para reducir la humedad del café recién tostado antes de su comercialización.",
+      "en_consolidated_definition": "Cylindrical metal or concrete dryer used to reduce the moisture of freshly roasted coffee before its commercialization.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
         "num_cleaned_definitions": 6,
@@ -140,15 +149,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Se le considera a veces como sinónimo de 'bomba' y en otros contextos como equivalente a 'tambor'.",
+      "consolidated_definition": "Algunos sujetos la reconocieron como sinónimo de bomba, otros como tambor.",
+      "en_consolidated_definition": "Some subjects recognized it as a synonym for bomb, others as a drum.\n\nNota: En este caso, no se trata de un término específico de Puerto Rico, sino más bien una descripción general que podría aplicarse en diferentes contextos. Sin embargo, si el contexto fuera específico de Puerto Rico y se refiriera a un término cultural o idioma local, la traducción sería diferente.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -177,11 +189,16 @@
     }
   },
   "es_definitions": [
-    "El sombrero derby es un tipo de sombrero de copa aovada y ala angosta, generalmente con ribete en la orilla.",
+    "Sombrero de copa aovada, pero no alta, y ala angosta, generalmente con ribete a la orilla. Es el “derby” inglés. “Llevas... un bombo (chistera) que usó en sus buenos tiempos tu tío Pancho.” Luis Bonafoux, Esbozos novelescos, 1894, p. 193.",
     "El guarapo era un objeto que se transportaba a través de un canal hasta la primera paila de la hornalla, desde donde era trasladado al segundo depósito (fondo) y luego al tercer depósito (tacho), mediante grandes cazos de madera llamados bombos.",
     "Secadora cilíndrica de metal o cemento utilizada para reducir la humedad del café recién tostado antes de su comercialización.",
-    "Se le considera a veces como sinónimo de 'bomba' y en otros contextos como equivalente a 'tambor'."
+    "Algunos sujetos la reconocieron como sinónimo de bomba, otros como tambor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sombrero de copa aovada, pero no alta, y ala angosta, generalmente con ribete a la orilla. Es el \"derby\" inglés.\n\nTranslation:\n\nA hat with an oval-shaped crown that is not high and narrow wings, usually with a ribbon at the edge. It is the English \"derby\".",
+    "The guarapo was an object transported through a canal to the first cauldron of the hearth, from where it was transferred to the second reservoir (bottom) and then to the third reservoir (vat), via large wooden pots called bombos.",
+    "Cylindrical metal or concrete dryer used to reduce the moisture of freshly roasted coffee before its commercialization.",
+    "Some subjects recognized it as a synonym for bomb, others as a drum.\n\nNota: En este caso, no se trata de un término específico de Puerto Rico, sino más bien una descripción general que podría aplicarse en diferentes contextos. Sin embargo, si el contexto fuera específico de Puerto Rico y se refiriera a un término cultural o idioma local, la traducción sería diferente."
+  ],
   "source": "https://tesoro.pr"
 }

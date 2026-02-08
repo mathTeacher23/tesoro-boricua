@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Substancia purgante utilizada para estimular el movimiento intestinal en reses, a menudo preparada con agua de tocino, malva o tuna.",
+      "en_consolidated_definition": "Purgative substance used to stimulate intestinal movement in cattle, often prepared with pork drippings, mallow or prickly pear.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -47,15 +50,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Tierra cenagosa, fango fino y poco profundo que presenta una superficie resbaladiza.",
+      "consolidated_definition": "Tierra cenagosa.",
+      "en_consolidated_definition": "Marshy land or wetland.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6727",
-        "semantic_similarity_score": 0.6727,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,22 +89,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tierra cenagosa. Fango fino y poco profundo, muy resbaladizo.",
-          "Tierra cenagosa.",
-          "Fango fino, poco profundo y muy resbaladizo."
+          "Tierra cenagosa."
         ]
       }
     },
     "3": {
       "consolidated_definition": "Residuo del cascajo de los graveros, relleno.",
+      "en_consolidated_definition": "Remnant of the gravel pit's spoil heap, fill material.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
+        "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -126,7 +133,6 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Residuo del cascajo de los graveros, relleno.",
           "Residuo del cascajo de los graveros, relleno."
         ]
       }
@@ -134,9 +140,13 @@
   },
   "es_definitions": [
     "Substancia purgante utilizada para estimular el movimiento intestinal en reses, a menudo preparada con agua de tocino, malva o tuna.",
-    "Tierra cenagosa, fango fino y poco profundo que presenta una superficie resbaladiza.",
+    "Tierra cenagosa.",
     "Residuo del cascajo de los graveros, relleno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Purgative substance used to stimulate intestinal movement in cattle, often prepared with pork drippings, mallow or prickly pear.",
+    "Marshy land or wetland.",
+    "Remnant of the gravel pit's spoil heap, fill material."
+  ],
   "source": "https://tesoro.pr"
 }

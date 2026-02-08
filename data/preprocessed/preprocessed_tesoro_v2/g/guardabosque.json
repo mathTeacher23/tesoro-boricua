@@ -3,14 +3,17 @@
   "term": "guardabosque",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "Jugador de beisbol.",
+      "en_consolidated_definition": "Baseball player.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6632",
-        "semantic_similarity_score": 0.6632,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,16 @@
           "bosque"
         ],
         "reference_definitions": [
-          "En béisbol, jugador que sirve en el fondo del campo. Hay tres: derecho, izquierdo y central.",
           "Jugador de beisbol."
         ]
       }
     }
   },
   "es_definitions": [
-    "En béisbol"
+    "Jugador de beisbol."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Baseball player."
+  ],
   "source": "https://tesoro.pr"
 }

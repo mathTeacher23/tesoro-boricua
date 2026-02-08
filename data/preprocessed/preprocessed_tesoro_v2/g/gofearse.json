@@ -3,9 +3,12 @@
   "term": "gofearse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Quedarse dormido por efecto de las drogas",
+      "consolidated_definition": "Quedarse dormido por efecto de las drogas.",
+      "en_consolidated_definition": "To fall asleep as a result of the effects of drugs.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Quedarse dormido por efecto de las drogas"
+    "Quedarse dormido por efecto de las drogas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To fall asleep as a result of the effects of drugs."
+  ],
   "source": "https://tesoro.pr"
 }

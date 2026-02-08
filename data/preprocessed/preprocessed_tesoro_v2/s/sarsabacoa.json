@@ -3,9 +3,12 @@
   "term": "sarsabacoa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Planta de la cual hay varias especies",
+      "consolidated_definition": "Planta de la cual hay varias especies, algunas de ellas medicinales. También zarzabacoa.",
+      "en_consolidated_definition": "Plant with several species, some of which are medicinal. Also known as zarzabacoa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Planta de la cual hay varias especies"
+    "Planta de la cual hay varias especies, algunas de ellas medicinales. También zarzabacoa."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Plant with several species, some of which are medicinal. Also known as zarzabacoa."
+  ],
   "source": "https://tesoro.pr"
 }

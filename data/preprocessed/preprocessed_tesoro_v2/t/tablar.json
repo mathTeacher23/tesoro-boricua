@@ -3,14 +3,17 @@
   "term": "tablar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Construir una embarcación",
+      "consolidated_definition": "En las actividades marítimas, construir alguien una embarcación.",
+      "en_consolidated_definition": "To build a vessel in maritime activities.\n\nNota: En este contexto, \"vessel\" se refiere a una embarcación en general, pero si se desea mantener el término específico de Puerto Rico, podría ser \"barco\" o \"buque\", dependiendo del contexto. Sin embargo, la traducción proporcionada es más amplia y abarca diferentes tipos de embarcaciones.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6784",
-        "semantic_similarity_score": 0.6784,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -42,15 +45,16 @@
           "entablar 2"
         ],
         "reference_definitions": [
-          "Construir una embarcación.",
           "En las actividades marítimas, construir alguien una embarcación."
         ]
       }
     }
   },
   "es_definitions": [
-    "Construir una embarcación"
+    "En las actividades marítimas, construir alguien una embarcación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To build a vessel in maritime activities.\n\nNota: En este contexto, \"vessel\" se refiere a una embarcación en general, pero si se desea mantener el término específico de Puerto Rico, podría ser \"barco\" o \"buque\", dependiendo del contexto. Sin embargo, la traducción proporcionada es más amplia y abarca diferentes tipos de embarcaciones."
+  ],
   "source": "https://tesoro.pr"
 }

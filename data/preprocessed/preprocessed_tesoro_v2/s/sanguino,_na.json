@@ -3,9 +3,12 @@
   "term": "sanguino, na",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Dícese de la persona con un porciento alto",
+      "consolidated_definition": "Dícese de la persona con un porciento alto de hemoglobina.",
+      "en_consolidated_definition": "Persona con un alto porcentaje de hemoglobina en la sangre.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Dícese de la persona con un porciento alto"
+    "Dícese de la persona con un porciento alto de hemoglobina."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona con un alto porcentaje de hemoglobina en la sangre."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tirar la puerta por la ventana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gastar con generosidad en un convite o por",
+      "consolidated_definition": "Gastar con generosidad en un convite o por cualquier otro motivo.",
+      "en_consolidated_definition": "To lavish liberally at a banquet or for any other reason.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Gastar con generosidad en un convite o por"
+    "Gastar con generosidad en un convite o por cualquier otro motivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To lavish liberally at a banquet or for any other reason."
+  ],
   "source": "https://tesoro.pr"
 }

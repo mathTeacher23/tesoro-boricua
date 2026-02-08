@@ -3,9 +3,12 @@
   "term": "mapeo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Limpieza del suelo con un mapo",
+      "consolidated_definition": "Limpieza del suelo con un mapo.",
+      "en_consolidated_definition": "Floor cleaning with a mop.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Limpieza del suelo con un mapo"
+    "Limpieza del suelo con un mapo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Floor cleaning with a mop."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "relinga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La costura de los tres lados de la",
+      "consolidated_definition": "La costura de los tres lados de la vela.",
+      "en_consolidated_definition": "The stitching of the three sides of the sail.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "La costura de los tres lados de la"
+    "La costura de los tres lados de la vela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The stitching of the three sides of the sail."
+  ],
   "source": "https://tesoro.pr"
 }

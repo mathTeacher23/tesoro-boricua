@@ -3,15 +3,18 @@
   "term": "cheque sin fondos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cheque sin fondos: Orden escrita de pago de una cantidad que no cuenta con el saldo suficiente en la cuenta para cubrir su valor, lo que hace imposible su procesamiento y puede generar un delito penal.",
+      "consolidated_definition": "Orden escrita de pago de una cantidad que no está disponible en el banco. Calco de estructura, usual. Llana y sencillamente, no habría persona que estuviera en disposición de aceptar un cheque en apoyo de un servicio o deuda en vista del hecho que sería, prácticamente, imposible poder procesar, por el delito de cheque sin fondo, a persona alguna (Tribunal Supremo, 16-11-05)",
+      "en_consolidated_definition": "Written order for payment of an amount not available in the bank. Calque of structure, usual. Plainly and simply, there would be no person disposed to accept a check in support of a service or debt given that it would be practically impossible to process, due to the crime of issuing a bad check, anyone (Supreme Court, 16-11-05)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cheque sin fondos: Orden escrita de pago de una cantidad que no cuenta con el saldo suficiente en la cuenta para cubrir su valor, lo que hace imposible su procesamiento y puede generar un delito penal."
+    "Orden escrita de pago de una cantidad que no está disponible en el banco. Calco de estructura, usual. Llana y sencillamente, no habría persona que estuviera en disposición de aceptar un cheque en apoyo de un servicio o deuda en vista del hecho que sería, prácticamente, imposible poder procesar, por el delito de cheque sin fondo, a persona alguna (Tribunal Supremo, 16-11-05)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Written order for payment of an amount not available in the bank. Calque of structure, usual. Plainly and simply, there would be no person disposed to accept a check in support of a service or debt given that it would be practically impossible to process, due to the crime of issuing a bad check, anyone (Supreme Court, 16-11-05)"
+  ],
   "source": "https://tesoro.pr"
 }

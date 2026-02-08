@@ -3,9 +3,12 @@
   "term": "pendaflex",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Carpeta con dos varillas metálicas que sirve para",
+      "consolidated_definition": "Carpeta con dos varillas metálicas que sirve para colgarla en el archivo.",
+      "en_consolidated_definition": "File folder with two metal rods that serves to hang it in the archive.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Carpeta con dos varillas metálicas que sirve para"
+    "Carpeta con dos varillas metálicas que sirve para colgarla en el archivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "File folder with two metal rods that serves to hang it in the archive."
+  ],
   "source": "https://tesoro.pr"
 }

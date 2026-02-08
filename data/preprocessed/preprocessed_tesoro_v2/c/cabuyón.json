@@ -4,14 +4,17 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Particularismo medianero. Enredo, bochinche.",
+      "en_consolidated_definition": "Mediatory particularism. Intrigue, gossip.\n\nNota: El término \"bochinche\" es un vocablo coloquial puertorriqueño que se refiere a información o rumores sobre alguien o algo, y puede ser difícil de traducir literalmente sin perder su connotación cultural. En este contexto, he optado por traducirlo como \"gossip\", aunque podría también ser \"rumors\" o \"scandal\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La cabuya es un tipo de cordel o soga hecho de fibras naturales, caracterizado por su gran fuerza y resistencia.",
+      "consolidated_definition": "Cordel o soga grande y fuerte.",
+      "en_consolidated_definition": "Large and strong rope or cord.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6298",
-        "semantic_similarity_score": 0.6298,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,7 +81,6 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Cabuya grande y fuerte.",
           "Cordel o soga grande y fuerte."
         ]
       }
@@ -83,8 +88,11 @@
   },
   "es_definitions": [
     "Particularismo medianero. Enredo, bochinche.",
-    "La cabuya es un tipo de cordel o soga hecho de fibras naturales, caracterizado por su gran fuerza y resistencia."
+    "Cordel o soga grande y fuerte."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mediatory particularism. Intrigue, gossip.\n\nNota: El término \"bochinche\" es un vocablo coloquial puertorriqueño que se refiere a información o rumores sobre alguien o algo, y puede ser difícil de traducir literalmente sin perder su connotación cultural. En este contexto, he optado por traducirlo como \"gossip\", aunque podría también ser \"rumors\" o \"scandal\".",
+    "Large and strong rope or cord."
+  ],
   "source": "https://tesoro.pr"
 }

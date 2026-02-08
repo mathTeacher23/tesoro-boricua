@@ -3,9 +3,12 @@
   "term": "saja",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Rodaja",
+      "consolidated_definition": "Rodaja. Rebanada.",
+      "en_consolidated_definition": "Slice. Wedge.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Rodaja"
+    "Rodaja. Rebanada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Slice. Wedge."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "olaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Olas muy seguidas",
+      "consolidated_definition": "Olas muy seguidas.",
+      "en_consolidated_definition": "Succession of large waves.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Olas muy seguidas"
+    "Olas muy seguidas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Succession of large waves."
+  ],
   "source": "https://tesoro.pr"
 }

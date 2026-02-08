@@ -3,9 +3,12 @@
   "term": "grano espepitao",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Grano del café caído en el suelo por",
+      "consolidated_definition": "Grano del café caído en el suelo por varias razones, sin la cubierta exterior; puramente en su pepita.",
+      "en_consolidated_definition": "Coffee bean that has fallen to the ground for various reasons, without its outer covering; purely in its pit or kernel.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -38,8 +41,10 @@
     }
   },
   "es_definitions": [
-    "Grano del café caído en el suelo por"
+    "Grano del café caído en el suelo por varias razones, sin la cubierta exterior; puramente en su pepita."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coffee bean that has fallen to the ground for various reasons, without its outer covering; purely in its pit or kernel."
+  ],
   "source": "https://tesoro.pr"
 }

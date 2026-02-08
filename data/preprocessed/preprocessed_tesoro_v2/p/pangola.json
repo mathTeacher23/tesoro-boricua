@@ -3,9 +3,12 @@
   "term": "pangola",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cosa de poco o ningún valor",
+      "consolidated_definition": "Cosa de poco o ningún valor.",
+      "en_consolidated_definition": "Thing of little or no value.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cosa de poco o ningún valor"
+    "Cosa de poco o ningún valor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Thing of little or no value.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

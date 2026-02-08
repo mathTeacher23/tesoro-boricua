@@ -3,15 +3,18 @@
   "term": "cepo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El cepo es un tipo de castigo corporal consistente en dos maderos horizontales que se juntan dejando aberturas para aprisionar el cuello, las piernas o los brazos del individuo sometido a este tratamiento.",
+      "consolidated_definition": ". Tipo de castigo corporal que se infligía a los negros esclavos. Estaba constituido por dos maderos, puesto el uno sobre el otro en posición horizontal, los que al juntarse dejaban unas aberturas redondas donde se aprisionaba el cuello, una o ambas piernas o uno o ambos brazos del negro, que así se veía obligado a permanecer sentado o acostado incómodamente por largas horas.",
+      "en_consolidated_definition": "Type of corporal punishment inflicted on black slaves. It consisted of two wooden beams placed one on top of the other in a horizontal position, which, when joined together, left round openings where the neck, one or both legs, or one or both arms of the black person could be confined, forcing them to remain seated or lying uncomfortably for long hours.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,15 +44,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Medidor de longitud utilizado para verificar el tamaño de las espuelas postizas en peleas de gallos y otros contextos.",
+      "consolidated_definition": "En las peleas de gallos, instrumento con espacio de medidas exactas utilizado para corroborar el largo de las espuelas postizas de los gallos de pelea.",
+      "en_consolidated_definition": "In cockfighting, an instrument with exact measurement spaces used to verify the length of the artificial spurs of fighting cocks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8341",
-        "semantic_similarity_score": 0.8341,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -79,21 +85,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Instrumento con espacio de medidas exactas que se utiliza para corroborar el largo de las espuelas postizas.",
           "En las peleas de gallos, instrumento con espacio de medidas exactas utilizado para corroborar el largo de las espuelas postizas de los gallos de pelea."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Corral especial, muy estrecho, destinado a aislar las cabezas de ganado para su cura o sellamiento.",
+      "consolidated_definition": "Corral especial, muy estrecho, donde se aíslan las cabezas de ganado para curarlas.",
+      "en_consolidated_definition": "Aislamiento especializado para cabezas de ganado, muy estrecho, donde se aíslan para su curación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7998",
-        "semantic_similarity_score": 0.7998,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -126,18 +134,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Corral especial, muy estrecho, que se hace para aislar las cabezas de ganado en las estancias con el fin de curarlas o sellarlas.",
-          "Corral donde se obliga a ir al ganado y que consta de una parte angosta que sirve de salida y espacio donde la res que se quiere amarrar, curar o sacar, queda indefensa.",
           "Corral especial, muy estrecho, donde se aíslan las cabezas de ganado para curarlas."
         ]
       }
     }
   },
   "es_definitions": [
-    "El cepo es un tipo de castigo corporal consistente en dos maderos horizontales que se juntan dejando aberturas para aprisionar el cuello, las piernas o los brazos del individuo sometido a este tratamiento.",
-    "Medidor de longitud utilizado para verificar el tamaño de las espuelas postizas en peleas de gallos y otros contextos.",
-    "Corral especial, muy estrecho, destinado a aislar las cabezas de ganado para su cura o sellamiento."
+    ". Tipo de castigo corporal que se infligía a los negros esclavos. Estaba constituido por dos maderos, puesto el uno sobre el otro en posición horizontal, los que al juntarse dejaban unas aberturas redondas donde se aprisionaba el cuello, una o ambas piernas o uno o ambos brazos del negro, que así se veía obligado a permanecer sentado o acostado incómodamente por largas horas.",
+    "En las peleas de gallos, instrumento con espacio de medidas exactas utilizado para corroborar el largo de las espuelas postizas de los gallos de pelea.",
+    "Corral especial, muy estrecho, donde se aíslan las cabezas de ganado para curarlas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Type of corporal punishment inflicted on black slaves. It consisted of two wooden beams placed one on top of the other in a horizontal position, which, when joined together, left round openings where the neck, one or both legs, or one or both arms of the black person could be confined, forcing them to remain seated or lying uncomfortably for long hours.",
+    "In cockfighting, an instrument with exact measurement spaces used to verify the length of the artificial spurs of fighting cocks.",
+    "Aislamiento especializado para cabezas de ganado, muy estrecho, donde se aíslan para su curación."
+  ],
   "source": "https://tesoro.pr"
 }

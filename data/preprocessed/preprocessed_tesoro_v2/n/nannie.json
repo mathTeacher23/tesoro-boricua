@@ -3,9 +3,12 @@
   "term": "nannie",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver nanny",
+      "consolidated_definition": "Ver nanny .",
+      "en_consolidated_definition": "See nanny.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver nanny"
+    "Ver nanny ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See nanny."
+  ],
   "source": "https://tesoro.pr"
 }

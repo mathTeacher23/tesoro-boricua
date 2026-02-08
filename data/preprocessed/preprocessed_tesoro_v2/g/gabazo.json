@@ -3,15 +3,18 @@
   "term": "gabazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Residuo de la caña",
+      "consolidated_definition": "\"Residuo de la caña\": desecho o resto de la caña de azúcar después del proceso de extracción de su jugo.",
+      "en_consolidated_definition": "Sugar cane byproduct: waste or residue of sugar cane after the extraction process of its juice.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
         "num_cleaned_definitions": 5,
         "definition_stability": "Stability: 0.4359",
         "semantic_similarity_score": 0.4359,
-        "cluster_count": null,
+        "cluster_count": 5,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -63,8 +66,10 @@
     }
   },
   "es_definitions": [
-    "Residuo de la caña"
+    "\"Residuo de la caña\": desecho o resto de la caña de azúcar después del proceso de extracción de su jugo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sugar cane byproduct: waste or residue of sugar cane after the extraction process of its juice."
+  ],
   "source": "https://tesoro.pr"
 }

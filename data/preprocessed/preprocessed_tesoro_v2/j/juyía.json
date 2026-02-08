@@ -3,9 +3,12 @@
   "term": "juyía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver templero",
+      "consolidated_definition": "Ver templero .",
+      "en_consolidated_definition": "See templero.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver templero"
+    "Ver templero ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See templero."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "guisado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Botín obtenido de un robo",
+      "consolidated_definition": "Botín obtenido en un robo.",
+      "en_consolidated_definition": "Spoils obtained in a robbery.\n\nNota: En este contexto, \"botín\" se refiere específicamente a los objetos o bienes obtenidos mediante un acto de robo, lo que es una expresión común en la cultura puertorriqueña y otros países hispanohablantes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9815",
-        "semantic_similarity_score": 0.9815,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -41,15 +44,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Botín obtenido de un robo.",
           "Botín obtenido en un robo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Guiso",
+      "consolidated_definition": "Guiso.",
+      "en_consolidated_definition": "Stew.\n\nNota: En este contexto, \"guiso\" se refiere a una preparación culinaria típica de Puerto Rico y otros países hispanos, similar a un estofado o un caldo espeso.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -84,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "Botín obtenido de un robo",
-    "Guiso"
+    "Botín obtenido en un robo.",
+    "Guiso."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Spoils obtained in a robbery.\n\nNota: En este contexto, \"botín\" se refiere específicamente a los objetos o bienes obtenidos mediante un acto de robo, lo que es una expresión común en la cultura puertorriqueña y otros países hispanohablantes.",
+    "Stew.\n\nNota: En este contexto, \"guiso\" se refiere a una preparación culinaria típica de Puerto Rico y otros países hispanos, similar a un estofado o un caldo espeso."
+  ],
   "source": "https://tesoro.pr"
 }

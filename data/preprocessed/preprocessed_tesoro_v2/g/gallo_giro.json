@@ -3,9 +3,12 @@
   "term": "gallo giro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo de plumaje matizado de amarillo",
+      "consolidated_definition": "Gallo de plumaje matizado de amarillo.",
+      "en_consolidated_definition": "Peacock with mottled yellow plumage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gallo de plumaje matizado de amarillo"
+    "Gallo de plumaje matizado de amarillo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Peacock with mottled yellow plumage."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "mahón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver guayuco",
+      "consolidated_definition": "Ver guayuco .",
+      "en_consolidated_definition": "See guayuco.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,9 +28,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pantalón de tela recia",
+      "consolidated_definition": "Pantalón de tela recia, ceñido y en general tirando a azul.",
+      "en_consolidated_definition": "Pantalón de tela robusta, ajustado y generalmente de color azul.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -62,9 +68,12 @@
     }
   },
   "es_definitions": [
-    "Ver guayuco",
-    "Pantalón de tela recia"
+    "Ver guayuco .",
+    "Pantalón de tela recia, ceñido y en general tirando a azul."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See guayuco.",
+    "Pantalón de tela robusta, ajustado y generalmente de color azul."
+  ],
   "source": "https://tesoro.pr"
 }

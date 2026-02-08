@@ -3,9 +3,12 @@
   "term": "macero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hombre encargado de un matadero o de matar",
+      "consolidated_definition": "Hombre encargado de un matadero o de matar las reses en un macelo.",
+      "en_consolidated_definition": "Butcher in charge of a slaughterhouse or responsible for slaughtering cattle in a corral.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Hombre encargado de un matadero o de matar"
+    "Hombre encargado de un matadero o de matar las reses en un macelo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Butcher in charge of a slaughterhouse or responsible for slaughtering cattle in a corral."
+  ],
   "source": "https://tesoro.pr"
 }

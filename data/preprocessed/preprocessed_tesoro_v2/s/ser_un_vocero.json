@@ -3,9 +3,12 @@
   "term": "ser un vocero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que no guarda secretos",
+      "consolidated_definition": "Persona que no guarda secretos, que lo cuenta todo.",
+      "en_consolidated_definition": "Persona que no guarda secretos, que lo cuenta todo.\n\nPersona who does not keep secrets, who tells everything.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Persona que no guarda secretos"
+    "Persona que no guarda secretos, que lo cuenta todo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que no guarda secretos, que lo cuenta todo.\n\nPersona who does not keep secrets, who tells everything."
+  ],
   "source": "https://tesoro.pr"
 }

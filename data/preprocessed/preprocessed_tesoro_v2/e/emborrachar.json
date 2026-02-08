@@ -3,9 +3,12 @@
   "term": "emborrachar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Hablar hasta aturdir al oyente",
+      "consolidated_definition": "Hablar hasta aturdir al oyente.",
+      "en_consolidated_definition": "Speak to the point of exhaustion or bewilderment in the listener.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Hablar hasta aturdir al oyente"
+    "Hablar hasta aturdir al oyente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Speak to the point of exhaustion or bewilderment in the listener."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,14 +4,17 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Aparato eléctrico que impulsa o remueve el aire en una habitación.",
+      "en_consolidated_definition": "Electrical device that impels or agitates the air in a room.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4633",
-        "semantic_similarity_score": 0.4633,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -43,22 +46,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Ventilador eléctrico.",
-          "Aparato eléctrico que impulsa o remueve el aire en una habitación.",
-          "Dispositivo en forma de hélice del que disponen los automóviles para evitar el recalentamiento del motor."
+          "Aparato eléctrico que impulsa o remueve el aire en una habitación."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "En la industria del azúcar, se denomina \"cogedor\" a un objeto utilizado para recoger las hojas y las hierbas.",
+      "consolidated_definition": "En la industria del azúcar, aparato para coger las hojas y las yerbas.",
+      "en_consolidated_definition": "In the sugar industry, device for gathering leaves and herbs.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural puertorriqueño, ya que la definición es general y aplicable a la industria del azúcar en general. Sin embargo, si fuera necesario, podría agregar una nota o una referencia para contextualizar el término en relación con la cultura puertorriqueña.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -89,8 +93,11 @@
     },
     "3": {
       "consolidated_definition": "El pez vela se conoce en Aguadilla también como [nombre del pez].",
+      "en_consolidated_definition": "The sailfish is also known in Aguadilla as [name of the fish].",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -130,15 +137,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "El área semicircular que se encuentra entre el cuadro interior del terreno de juego y la cerca en el béisbol.",
+      "consolidated_definition": "En el beisbol, espacio semicircular comprendido entre el cuadro interior del terreno de juego y la cerca.",
+      "en_consolidated_definition": "In baseball, the semicircular space between the infield and the fence.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -168,10 +178,15 @@
   },
   "es_definitions": [
     "Aparato eléctrico que impulsa o remueve el aire en una habitación.",
-    "En la industria del azúcar, se denomina \"cogedor\" a un objeto utilizado para recoger las hojas y las hierbas.",
+    "En la industria del azúcar, aparato para coger las hojas y las yerbas.",
     "El pez vela se conoce en Aguadilla también como [nombre del pez].",
-    "El área semicircular que se encuentra entre el cuadro interior del terreno de juego y la cerca en el béisbol."
+    "En el beisbol, espacio semicircular comprendido entre el cuadro interior del terreno de juego y la cerca."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Electrical device that impels or agitates the air in a room.\n\nNota: No se encontraron términos culturales específicos de Puerto Rico en esta definición.",
+    "In the sugar industry, device for gathering leaves and herbs.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural puertorriqueño, ya que la definición es general y aplicable a la industria del azúcar en general. Sin embargo, si fuera necesario, podría agregar una nota o una referencia para contextualizar el término en relación con la cultura puertorriqueña.",
+    "The sailfish is also known in Aguadilla as [name of the fish].",
+    "In baseball, the semicircular space between the infield and the fence."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "tísico, ca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tuberculoso",
+      "consolidated_definition": "\"Tuberculoso\": Que padece tuberculosis, enfermedad infecciosa que afecta principalmente los pulmones y se caracteriza por la formación de granulomas en el tejido pulmonar.",
+      "en_consolidated_definition": "Pulmonary tuberculosis sufferer: One who suffers from pulmonary tuberculosis, a contagious disease that primarily affects the lungs and is characterized by the formation of granulomas in lung tissue.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4309",
         "semantic_similarity_score": 0.4309,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "adjetivo"
         ],
@@ -55,8 +58,10 @@
     }
   },
   "es_definitions": [
-    "Tuberculoso"
+    "\"Tuberculoso\": Que padece tuberculosis, enfermedad infecciosa que afecta principalmente los pulmones y se caracteriza por la formación de granulomas en el tejido pulmonar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pulmonary tuberculosis sufferer: One who suffers from pulmonary tuberculosis, a contagious disease that primarily affects the lungs and is characterized by the formation of granulomas in lung tissue."
+  ],
   "source": "https://tesoro.pr"
 }

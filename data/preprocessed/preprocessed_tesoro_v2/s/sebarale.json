@@ -3,9 +3,12 @@
   "term": "sebarale",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Elevación del fondo del mar",
+      "consolidated_definition": "Elevación del fondo del mar.",
+      "en_consolidated_definition": "Depresión del fondo del mar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Elevación del fondo del mar"
+    "Elevación del fondo del mar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Depresión del fondo del mar."
+  ],
   "source": "https://tesoro.pr"
 }

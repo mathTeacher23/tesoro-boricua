@@ -3,14 +3,17 @@
   "term": "sabanilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Capa de grasa que cubre la barriga del",
+      "consolidated_definition": "Capa fina de grasa que cubre la barriga del cerdo.",
+      "en_consolidated_definition": "Thin layer of fat covering the belly of a pig.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.9282",
-        "semantic_similarity_score": 0.9282,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,16 +47,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Capa de grasa que cubre la barriga del cerdo.",
-          "Capa fina de cuero y grasa de la barriga del cerdo.",
           "Capa fina de grasa que cubre la barriga del cerdo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Sábana pequeña para los recién nacidos",
+      "consolidated_definition": "Sábana pequeña para los recién nacidos.",
+      "en_consolidated_definition": "Swaddling cloth for newborns.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -88,9 +92,12 @@
     }
   },
   "es_definitions": [
-    "Capa de grasa que cubre la barriga del",
-    "Sábana pequeña para los recién nacidos"
+    "Capa fina de grasa que cubre la barriga del cerdo.",
+    "Sábana pequeña para los recién nacidos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Thin layer of fat covering the belly of a pig.",
+    "Swaddling cloth for newborns."
+  ],
   "source": "https://tesoro.pr"
 }

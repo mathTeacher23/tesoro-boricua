@@ -3,9 +3,12 @@
   "term": "polilla de biblioteca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se refiere al estudiante inteligente",
+      "consolidated_definition": "Se refiere al estudiante inteligente.",
+      "en_consolidated_definition": "Refers to the intelligent student.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Se refiere al estudiante inteligente"
+    "Se refiere al estudiante inteligente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Refers to the intelligent student."
+  ],
   "source": "https://tesoro.pr"
 }

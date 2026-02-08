@@ -3,15 +3,18 @@
   "term": "maraquero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tocador de maracas",
+      "consolidated_definition": "Tocador de maracas se refiere a una persona que ejecuta o interpreta maracas para producir sonidos rítmicos.",
+      "en_consolidated_definition": "Maracas player refers to a person who performs or interprets maracas to produce rhythmic sounds.\n\nNota: En este contexto, \"maracas\" se refiere a un instrumento musical tradicional en Puerto Rico y otros países de América Latina, pero la definición se mantiene general para abarcar diferentes contextos culturales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.7748",
         "semantic_similarity_score": 0.7748,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -45,9 +48,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Buey que se resiste a ser enyugado moviendo, relacionado con una organización",
+      "consolidated_definition": "Buey que se resiste a ser enyugado moviendo el cuerpo y tratando de huir la cabeza.",
+      "en_consolidated_definition": "Ox that resists being yoked by moving its body and attempting to flee with its head.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "Tocador de maracas",
-    "Buey que se resiste a ser enyugado moviendo, relacionado con una organización"
+    "Tocador de maracas se refiere a una persona que ejecuta o interpreta maracas para producir sonidos rítmicos.",
+    "Buey que se resiste a ser enyugado moviendo el cuerpo y tratando de huir la cabeza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maracas player refers to a person who performs or interprets maracas to produce rhythmic sounds.\n\nNota: En este contexto, \"maracas\" se refiere a un instrumento musical tradicional en Puerto Rico y otros países de América Latina, pero la definición se mantiene general para abarcar diferentes contextos culturales.",
+    "Ox that resists being yoked by moving its body and attempting to flee with its head."
+  ],
   "source": "https://tesoro.pr"
 }

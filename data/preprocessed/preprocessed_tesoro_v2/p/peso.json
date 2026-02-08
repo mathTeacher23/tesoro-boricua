@@ -3,15 +3,18 @@
   "term": "peso",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Moneda de un dólar",
+      "consolidated_definition": "Dólar: Moneda oficial de los Estados Unidos de América, cuyo valor nominal es igual a 100 centavos.",
+      "en_consolidated_definition": "Dollar: Official currency of the United States of America, whose face value is equal to 100 cents.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5033",
-        "semantic_similarity_score": 0.5033,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4439",
+        "semantic_similarity_score": 0.4439,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,14 +43,16 @@
         "related_words": [],
         "reference_definitions": [
           "Moneda de un dólar.",
-          "Dólar ."
+          "Dólar (en cuanto al uso rural, se observa en texto jibaresco de Méndez Quiñones el viejo empleo de peso bajo el antiguo gobierno español de la Isla: “En sinco pesos carcula/ …las példias y los daños”, y todavía por las décadas tempranas del presente siglo se documenta la retención del mismo vocablo en obra de Meléndez Muñoz: “tengo… cuatro pesos e las ganacias”; “deme un pal e pesos”)."
         ]
       }
     }
   },
   "es_definitions": [
-    "Moneda de un dólar"
+    "Dólar: Moneda oficial de los Estados Unidos de América, cuyo valor nominal es igual a 100 centavos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Dollar: Official currency of the United States of America, whose face value is equal to 100 cents."
+  ],
   "source": "https://tesoro.pr"
 }

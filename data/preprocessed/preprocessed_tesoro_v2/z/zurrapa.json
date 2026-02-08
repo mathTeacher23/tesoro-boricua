@@ -3,9 +3,12 @@
   "term": "zurrapa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pegado del dulce",
+      "consolidated_definition": "Pegado del dulce. Azúcar que se adhiere al fondo de un tacho.",
+      "en_consolidated_definition": "Sugar that adheres to the bottom of a cauldron.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Pegado del dulce"
+    "Pegado del dulce. Azúcar que se adhiere al fondo de un tacho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sugar that adheres to the bottom of a cauldron."
+  ],
   "source": "https://tesoro.pr"
 }

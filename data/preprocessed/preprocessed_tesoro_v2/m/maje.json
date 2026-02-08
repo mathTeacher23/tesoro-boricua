@@ -3,14 +3,17 @@
   "term": "maje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acarus spp",
+      "consolidated_definition": "Jején, insecto.",
+      "en_consolidated_definition": "Jején, insect.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4244",
-        "semantic_similarity_score": 0.4244,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Acarus spp. Maje, insecto pequeño que pica, abuí.",
           "Jején, insecto."
         ]
       }
     }
   },
   "es_definitions": [
-    "Acarus spp"
+    "Jején, insecto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Jején, insect."
+  ],
   "source": "https://tesoro.pr"
 }

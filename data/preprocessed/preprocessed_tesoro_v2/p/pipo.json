@@ -3,9 +3,12 @@
   "term": "pipo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se usa para dirigirse al novio o al",
+      "consolidated_definition": "Se usa para dirigirse al novio o al esposo, o a un niño pequeño si el que habla es una persona mayor.",
+      "en_consolidated_definition": "It is used to address a fiancé or husband, or a young child if the speaker is an older person.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Se usa para dirigirse al novio o al"
+    "Se usa para dirigirse al novio o al esposo, o a un niño pequeño si el que habla es una persona mayor."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "It is used to address a fiancé or husband, or a young child if the speaker is an older person."
+  ],
   "source": "https://tesoro.pr"
 }

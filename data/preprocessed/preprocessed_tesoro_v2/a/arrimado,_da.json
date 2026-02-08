@@ -3,15 +3,18 @@
   "term": "arrimado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que vive y trabaja en una finca rústica ajena, pero a la vez trabaja para otros patronos.",
+      "consolidated_definition": "P. Rico. Persona que mediante la concesión de un pedazo de tierra donde tiene su casa, siembra en parte para sí y en parte para el dueño de la propiedad.",
+      "en_consolidated_definition": "In Puerto Rico, a person who cultivates part of the land allocated to them by the property owner for their own use and part for the benefit of the owner themselves.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2001",
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "num_cleaned_definitions": 9,
-        "definition_stability": "Stability: 0.5478",
-        "semantic_similarity_score": 0.5478,
-        "cluster_count": 8,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -75,28 +78,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Agregado. “Y lo único que conseguí fue que me dejaran de arrimao en estos seborucos.” Brau, La pecadora, 1888 “Cuando tiendo la vista hacia el porvenir, veo a Puerto Rico viviendo su propia vida en una gran comunidad de naciones americanas... no como arrimado ni un pariente pobre...” José Padín, Hacia el porvenir, 1933.",
-          "Agregado.",
-          "(jíbaro) Agregado, persona que vive en una finca ajena.",
-          "Persona que vive en una finca ajena. Un individuo agregado.",
-          "Algo así como un agregado de la finca.",
-          "Campesino que vive y trabaja en una finca rústica ajena, pero a la vez trabaja para otros patronos.",
-          "Persona que recibe un pedazo de tierra y siembra para él y el dueño.",
-          "Agregado.",
           "P. Rico. Persona que mediante la concesión de un pedazo de tierra donde tiene su casa, siembra en parte para sí y en parte para el dueño de la propiedad."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que reside en una vivienda perteneciente a otra persona, sin ser propietaria ni arrendataria.",
+      "consolidated_definition": "Persona que vive en casa ajena y a costa de su dueño.",
+      "en_consolidated_definition": "Persona que vive en casa ajena y a costa de su dueño.\n\nTranslation:\n\nPerson who lives in another person's home at their expense.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5585",
-        "semantic_similarity_score": 0.5585,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -120,16 +118,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Persona que vive en casa ajena y a costa de su dueño.",
-          "Persona que no paga alquiler."
+          "Persona que vive en casa ajena y a costa de su dueño."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que vive y trabaja en una finca rústica ajena, pero a la vez trabaja para otros patronos.",
-    "Persona que reside en una vivienda perteneciente a otra persona, sin ser propietaria ni arrendataria."
+    "P. Rico. Persona que mediante la concesión de un pedazo de tierra donde tiene su casa, siembra en parte para sí y en parte para el dueño de la propiedad.",
+    "Persona que vive en casa ajena y a costa de su dueño."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In Puerto Rico, a person who cultivates part of the land allocated to them by the property owner for their own use and part for the benefit of the owner themselves.",
+    "Persona que vive en casa ajena y a costa de su dueño.\n\nTranslation:\n\nPerson who lives in another person's home at their expense."
+  ],
   "source": "https://tesoro.pr"
 }

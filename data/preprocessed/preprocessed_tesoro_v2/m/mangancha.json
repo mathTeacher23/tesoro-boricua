@@ -3,9 +3,12 @@
   "term": "mangancha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Plato hecho con harina de maíz hervida con",
+      "consolidated_definition": "Plato hecho con harina de maíz hervida con sal.",
+      "en_consolidated_definition": "Cornmeal dish made with boiled cornmeal and salt.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Plato hecho con harina de maíz hervida con"
+    "Plato hecho con harina de maíz hervida con sal."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cornmeal dish made with boiled cornmeal and salt."
+  ],
   "source": "https://tesoro.pr"
 }

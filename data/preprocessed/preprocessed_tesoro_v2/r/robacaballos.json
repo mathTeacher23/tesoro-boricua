@@ -3,9 +3,12 @@
   "term": "robacaballos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ladrón cuatrero",
+      "consolidated_definition": "Ladrón cuatrero.",
+      "en_consolidated_definition": "Cattle thief.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Ladrón cuatrero"
+    "Ladrón cuatrero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cattle thief."
+  ],
   "source": "https://tesoro.pr"
 }

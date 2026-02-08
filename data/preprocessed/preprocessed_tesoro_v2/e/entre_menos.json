@@ -3,9 +3,12 @@
   "term": "entre menos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cuanto menos",
+      "consolidated_definition": "Cuanto menos.",
+      "en_consolidated_definition": "Less than possible or desirable.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Cuanto menos"
+    "Cuanto menos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Less than possible or desirable."
+  ],
   "source": "https://tesoro.pr"
 }

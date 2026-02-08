@@ -3,9 +3,12 @@
   "term": "suave y sin sudar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Con calma",
+      "consolidated_definition": "Con calma. Sin prisa. Sin temor ninguno.",
+      "en_consolidated_definition": "Sin prisa y sin temor alguno.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Con calma"
+    "Con calma. Sin prisa. Sin temor ninguno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sin prisa y sin temor alguno."
+  ],
   "source": "https://tesoro.pr"
 }

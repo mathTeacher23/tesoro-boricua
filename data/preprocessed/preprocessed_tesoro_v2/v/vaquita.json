@@ -3,14 +3,17 @@
   "term": "vaquita",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Insecto dañino a las plantas",
+      "consolidated_definition": "Insecto coleóptero de hasta 2 cm de longitud, con cabeza y patas oscuras, y élitros rayados donde predominan el color negro y el pardo. CurculionidaeDiaprepes spengleri.",
+      "en_consolidated_definition": "Coleopteran insect of up to 2 cm in length, with dark head and legs, and elytra featuring prominent black and brown stripes. Diaprepes spengleri.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
-        "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.4635",
-        "semantic_similarity_score": 0.4635,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -68,21 +71,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Insecto dañino a las plantas . “Las mariquitas o vaquitas de San Antón, todos las conocéis.” Morales Cabrera, Letras y ciencias, 1927, p. 176.",
-          "Insecto que se alimenta de las hojas tiernas de distintas plantas.",
-          "Escarabajito de media pulgada de largo, que ataca la caña, el plátano, el guineo.",
-          "Insecto dañino que se cría en la raíz del plátano.",
-          "Afecta la hoja de la caña.",
-          "Insecto.",
-          "Mariquita. También vaquita de San Pedro.",
           "Insecto coleóptero de hasta 2 cm de longitud, con cabeza y patas oscuras, y élitros rayados donde predominan el color negro y el pardo. CurculionidaeDiaprepes spengleri."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cosa que rinde gran provecho",
+      "consolidated_definition": "Cosa que rinde gran provecho.",
+      "en_consolidated_definition": "Something that yields great profit.\n\nNota: La palabra \"provecho\" en este contexto puede ser interpretada como beneficio o ganancia, lo que se refleja en la traducción propuesta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -116,9 +115,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Otro nombre para el pez llamado maduro",
+      "consolidated_definition": "Otro nombre para el pez llamado maduro.",
+      "en_consolidated_definition": "Another name for the fish known as maduro.\n\nNota: \"maduro\" es un término específico de Puerto Rico que se refiere a una variedad de pez. En este contexto, la traducción busca mantener el significado exacto y preservar el contexto cultural.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -153,10 +155,14 @@
     }
   },
   "es_definitions": [
-    "Insecto dañino a las plantas",
-    "Cosa que rinde gran provecho",
-    "Otro nombre para el pez llamado maduro"
+    "Insecto coleóptero de hasta 2 cm de longitud, con cabeza y patas oscuras, y élitros rayados donde predominan el color negro y el pardo. CurculionidaeDiaprepes spengleri.",
+    "Cosa que rinde gran provecho.",
+    "Otro nombre para el pez llamado maduro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Coleopteran insect of up to 2 cm in length, with dark head and legs, and elytra featuring prominent black and brown stripes. Diaprepes spengleri.",
+    "Something that yields great profit.\n\nNota: La palabra \"provecho\" en este contexto puede ser interpretada como beneficio o ganancia, lo que se refleja en la traducción propuesta.",
+    "Another name for the fish known as maduro.\n\nNota: \"maduro\" es un término específico de Puerto Rico que se refiere a una variedad de pez. En este contexto, la traducción busca mantener el significado exacto y preservar el contexto cultural."
+  ],
   "source": "https://tesoro.pr"
 }

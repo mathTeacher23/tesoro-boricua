@@ -3,9 +3,12 @@
   "term": "guandul",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En puntos rurales de Ponce y pueblos cercanos",
+      "consolidated_definition": "En puntos rurales de Ponce y pueblos cercanos, variante de uso más bien regional o rústico de gandul.",
+      "en_consolidated_definition": "In rural areas of Ponce and nearby towns, a regional or rustic variant of gandul.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En puntos rurales de Ponce y pueblos cercanos"
+    "En puntos rurales de Ponce y pueblos cercanos, variante de uso más bien regional o rústico de gandul."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In rural areas of Ponce and nearby towns, a regional or rustic variant of gandul."
+  ],
   "source": "https://tesoro.pr"
 }

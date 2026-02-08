@@ -3,15 +3,18 @@
   "term": "revolú blandón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Arroz cocido que no es granoso",
+      "consolidated_definition": "Arroz cocido que no es granoso y conserva una cierta humedad.",
+      "en_consolidated_definition": "Cooked rice that is not granular and retains a certain moisture level.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.2816",
         "semantic_similarity_score": 0.2816,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -45,8 +48,10 @@
     }
   },
   "es_definitions": [
-    "Arroz cocido que no es granoso"
+    "Arroz cocido que no es granoso y conserva una cierta humedad."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cooked rice that is not granular and retains a certain moisture level."
+  ],
   "source": "https://tesoro.pr"
 }

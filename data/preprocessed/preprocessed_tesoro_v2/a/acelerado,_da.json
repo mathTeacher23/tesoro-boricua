@@ -3,15 +3,18 @@
   "term": "acelerado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que ha consumido marihuana y se encuentra bajo su influencia.",
+      "consolidated_definition": "Referido a persona, medio borracha o drogada.",
+      "en_consolidated_definition": "Referring to a person who is intoxicated or under the influence of drugs.\n\nNota: En este contexto, el término \"borracha\" se refiere a una persona que ha consumido alcohol en exceso, mientras que \"drogada\" se refiere a una persona que ha consumido drogas ilegales.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.4786",
-        "semantic_similarity_score": 0.4786,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -44,21 +47,23 @@
           "acelerarse"
         ],
         "reference_definitions": [
-          "Que está bajo efectos de marihuana.",
           "Referido a persona, medio borracha o drogada."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona de mano.",
+      "consolidated_definition": "Persona de mano muy suelta.",
+      "en_consolidated_definition": "Person with extremely loose hands.\n\nNota: La expresión \"mano muy suelta\" es un término coloquial en español puertorriqueño que se utiliza para describir a alguien con habilidades manuales delicadas o precisas, pero también puede implicar una falta de coordinación o control. En el contexto de la traducción, he intentado mantener el significado original mientras utilizo un vocabulario formal y preciso.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -86,9 +91,12 @@
     }
   },
   "es_definitions": [
-    "Persona que ha consumido marihuana y se encuentra bajo su influencia.",
-    "Persona de mano."
+    "Referido a persona, medio borracha o drogada.",
+    "Persona de mano muy suelta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Referring to a person who is intoxicated or under the influence of drugs.\n\nNota: En este contexto, el término \"borracha\" se refiere a una persona que ha consumido alcohol en exceso, mientras que \"drogada\" se refiere a una persona que ha consumido drogas ilegales.",
+    "Person with extremely loose hands.\n\nNota: La expresión \"mano muy suelta\" es un término coloquial en español puertorriqueño que se utiliza para describir a alguien con habilidades manuales delicadas o precisas, pero también puede implicar una falta de coordinación o control. En el contexto de la traducción, he intentado mantener el significado original mientras utilizo un vocabulario formal y preciso."
+  ],
   "source": "https://tesoro.pr"
 }

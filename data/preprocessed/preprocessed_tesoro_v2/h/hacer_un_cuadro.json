@@ -3,9 +3,12 @@
   "term": "hacer un cuadro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Orgía sexual entre hombres y mujeres",
+      "consolidated_definition": "Orgía sexual entre hombres y mujeres.",
+      "en_consolidated_definition": "Orgy involving both men and women.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Orgía sexual entre hombres y mujeres"
+    "Orgía sexual entre hombres y mujeres."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Orgy involving both men and women."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "toro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cometa parecido a la chiringa pero de forma",
+      "consolidated_definition": "Cometa parecido a la chiringa pero de forma cuadrada.",
+      "en_consolidated_definition": "Cometa similar a la chiringa pero de forma cuadrada.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pez",
+      "consolidated_definition": "Mysiopsis jacobus, también conocido como \"torito\" o \"en patillas\", es un pez marino perteneciente a la familia Holocentridae.",
+      "en_consolidated_definition": "Mysiopsis jacobus, also known as \"torito\" or \"en patillas\", is a marine fish belonging to the family Holocentridae.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5813",
         "semantic_similarity_score": 0.5813,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -77,9 +83,12 @@
     }
   },
   "es_definitions": [
-    "Cometa parecido a la chiringa pero de forma",
-    "Pez"
+    "Cometa parecido a la chiringa pero de forma cuadrada.",
+    "Mysiopsis jacobus, también conocido como \"torito\" o \"en patillas\", es un pez marino perteneciente a la familia Holocentridae."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cometa similar a la chiringa pero de forma cuadrada.",
+    "Mysiopsis jacobus, also known as \"torito\" or \"en patillas\", is a marine fish belonging to the family Holocentridae."
+  ],
   "source": "https://tesoro.pr"
 }

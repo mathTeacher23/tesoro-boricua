@@ -3,9 +3,12 @@
   "term": "lampar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Tunar",
+      "consolidated_definition": "Tunar, darse a la bribonería y a no trabajar.",
+      "en_consolidated_definition": "To idle or engage in idleness and avoid work.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Tunar"
+    "Tunar, darse a la bribonería y a no trabajar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To idle or engage in idleness and avoid work."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar",
+      "consolidated_definition": "Lugar, nacimiento. Sinónimo de guara.",
+      "en_consolidated_definition": "Birthplace, place of origin. Synonym of guara.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Lugar"
+    "Lugar, nacimiento. Sinónimo de guara."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Birthplace, place of origin. Synonym of guara."
+  ],
   "source": "https://tesoro.pr"
 }

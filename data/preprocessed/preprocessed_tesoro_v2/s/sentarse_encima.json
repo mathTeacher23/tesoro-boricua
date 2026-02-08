@@ -3,9 +3,12 @@
   "term": "sentarse encima",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Posponer alguien deliberadamente un asunto que no conviene",
+      "consolidated_definition": "Posponer alguien deliberadamente un asunto que no conviene resolver de inmediato.",
+      "en_consolidated_definition": "Intentionally defer or postpone a matter that is not advisable to resolve immediately.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Posponer alguien deliberadamente un asunto que no conviene"
+    "Posponer alguien deliberadamente un asunto que no conviene resolver de inmediato."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Intentionally defer or postpone a matter that is not advisable to resolve immediately."
+  ],
   "source": "https://tesoro.pr"
 }

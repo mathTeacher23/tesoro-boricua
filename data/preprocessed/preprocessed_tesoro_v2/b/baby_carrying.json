@@ -3,15 +3,18 @@
   "term": "baby carrying",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Una canasta portabebés es un objeto diseñado para transportar a un bebé de manera segura y cómoda.",
+      "consolidated_definition": "Canasta para llevar el bebé sujetado al pecho.",
+      "en_consolidated_definition": "Baby carrier or sling for carrying the infant against the mother's chest.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Una canasta portabebés es un objeto diseñado para transportar a un bebé de manera segura y cómoda."
+    "Canasta para llevar el bebé sujetado al pecho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Baby carrier or sling for carrying the infant against the mother's chest."
+  ],
   "source": "https://tesoro.pr"
 }

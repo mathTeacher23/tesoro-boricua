@@ -3,9 +3,12 @@
   "term": "zapalastre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona con poco prestigio",
+      "consolidated_definition": "Persona con poco prestigio.",
+      "en_consolidated_definition": "Persona con poco prestigio social o reputación.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Persona con poco prestigio"
+    "Persona con poco prestigio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona con poco prestigio social o reputación."
+  ],
   "source": "https://tesoro.pr"
 }

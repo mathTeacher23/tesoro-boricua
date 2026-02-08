@@ -3,9 +3,12 @@
   "term": "sargazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "El tejido que envuelve el tronco del cocotero",
+      "consolidated_definition": "El tejido que envuelve el tronco del cocotero entre las palmas y los racimos.",
+      "en_consolidated_definition": "The fibrous tissue that encloses the trunk of a coconut palm between the fronds and the inflorescences.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "El tejido que envuelve el tronco del cocotero"
+    "El tejido que envuelve el tronco del cocotero entre las palmas y los racimos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The fibrous tissue that encloses the trunk of a coconut palm between the fronds and the inflorescences."
+  ],
   "source": "https://tesoro.pr"
 }

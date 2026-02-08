@@ -3,9 +3,12 @@
   "term": "yónker",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Casa",
+      "consolidated_definition": "Casa, puesto o lugar donde se venden repuestos usados para vehículos.",
+      "en_consolidated_definition": "Used car parts dealership or lot where second-hand vehicle components are sold.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Casa"
+    "Casa, puesto o lugar donde se venden repuestos usados para vehículos."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Used car parts dealership or lot where second-hand vehicle components are sold."
+  ],
   "source": "https://tesoro.pr"
 }

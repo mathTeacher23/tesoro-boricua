@@ -3,9 +3,12 @@
   "term": "descuadre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desajuste entre el debe y el haber de",
+      "consolidated_definition": "Desajuste entre el debe y el haber de una cuenta.",
+      "en_consolidated_definition": "Discrepancia entre el debe y el haber de una cuenta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Desajuste entre el debe y el haber de"
+    "Desajuste entre el debe y el haber de una cuenta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Discrepancia entre el debe y el haber de una cuenta."
+  ],
   "source": "https://tesoro.pr"
 }

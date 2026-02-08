@@ -3,14 +3,17 @@
   "term": "sorbeto",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Sorbete. Paja para tomar refrescos.",
+      "consolidated_definition": "Pajilla para sorber líquidos, especialmente refrescos.",
+      "en_consolidated_definition": "Straw for sipping liquids, especially soft drinks.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 9,
-        "num_cleaned_definitions": 9,
-        "definition_stability": "Stability: 0.6547",
-        "semantic_similarity_score": 0.6547,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -76,22 +79,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Sorbete. Paja para tomar refrescos.",
-          "Cánula de paja para tomar refrescos. “Y Babbit, mientras bebe Coca-Cola a sorbete.”",
-          "Especie de pajita para tomar una bebida. También pajita.",
-          "Especie de pajita para tomar una bebida.",
-          "Sorbete. Paja para tomar ciertas bebidas.",
-          "Pajita hueca para tomar bebidas, pajilla.",
-          "Pajita para sorber.",
-          "Paja para sorber bebidas.",
           "Pajilla para sorber líquidos, especialmente refrescos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Galletitas que en inglés se llaman “waffle creams”",
+      "consolidated_definition": "Galletitas que en inglés se llaman “waffle creams”.",
+      "en_consolidated_definition": "Waffle creams: small waffles filled with a sweet or savory cream filling.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -126,9 +124,12 @@
     }
   },
   "es_definitions": [
-    ". Sorbete. Paja para tomar refrescos.",
-    "Galletitas que en inglés se llaman “waffle creams”"
+    "Pajilla para sorber líquidos, especialmente refrescos.",
+    "Galletitas que en inglés se llaman “waffle creams”."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Straw for sipping liquids, especially soft drinks.",
+    "Waffle creams: small waffles filled with a sweet or savory cream filling."
+  ],
   "source": "https://tesoro.pr"
 }

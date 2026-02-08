@@ -3,9 +3,12 @@
   "term": "tren",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Conjunto de carretones remolcados por un mosco para",
+      "consolidated_definition": "Conjunto de carretones remolcados por un mosco para transportar caña.",
+      "en_consolidated_definition": "Conjunto de carts pulled by a mosquito for transporting sugarcane.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Conjunto de carretones remolcados por un mosco para"
+    "Conjunto de carretones remolcados por un mosco para transportar caña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Conjunto de carts pulled by a mosquito for transporting sugarcane."
+  ],
   "source": "https://tesoro.pr"
 }

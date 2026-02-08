@@ -3,9 +3,12 @@
   "term": "palo muñeca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver palo muñeco",
+      "consolidated_definition": "Ver palo muñeco .",
+      "en_consolidated_definition": "See puppet stick.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver palo muñeco"
+    "Ver palo muñeco ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See puppet stick."
+  ],
   "source": "https://tesoro.pr"
 }

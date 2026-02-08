@@ -3,9 +3,12 @@
   "term": "pasmado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Acero que ha perdido el temple",
+      "consolidated_definition": "Acero que ha perdido el temple.",
+      "en_consolidated_definition": "Steel that has lost its temper.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Acero que ha perdido el temple"
+    "Acero que ha perdido el temple."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Steel that has lost its temper."
+  ],
   "source": "https://tesoro.pr"
 }

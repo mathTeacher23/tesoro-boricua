@@ -3,15 +3,18 @@
   "term": "yuca de jardín",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de yuca comestible",
+      "consolidated_definition": "\"Yuca comestible\": variedad de planta cultivada para su consumo humano.",
+      "en_consolidated_definition": "Edible cassava: variety of cultivated plant for human consumption.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.5315",
         "semantic_similarity_score": 0.5315,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo compuesto",
           "femenino"
@@ -53,8 +56,10 @@
     }
   },
   "es_definitions": [
-    "Variedad de yuca comestible"
+    "\"Yuca comestible\": variedad de planta cultivada para su consumo humano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Edible cassava: variety of cultivated plant for human consumption."
+  ],
   "source": "https://tesoro.pr"
 }

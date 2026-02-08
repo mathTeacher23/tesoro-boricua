@@ -3,14 +3,17 @@
   "term": "gallego",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Ave acuática parecida a la gaviota. . Ac.",
+      "consolidated_definition": ". Cuba y P. Rico. Ave palmípeda de plumaje ceniciento, rabadilla, vientre y cola blancos, patas, pico y párpados rojizos.",
+      "en_consolidated_definition": "Cuba and P.Rico. A wading bird with a gray plumage, white rump, belly, and tail, reddish legs, bill, and eyelids.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2001",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.3679",
-        "semantic_similarity_score": 0.3679,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,21 +47,22 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Ave acuática parecida a la gaviota. . Ac.",
-          "Ave.",
           ". Cuba y P. Rico. Ave palmípeda de plumaje ceniciento, rabadilla, vientre y cola blancos, patas, pico y párpados rojizos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "El croto de hoja rizada y ancha",
+      "consolidated_definition": "Arbusto de hasta 4 m de altura, hojas pinnadas, inflorescencia terminal, colgante, formada por numerosas umbelas y fruto subgloboso. (Araliaceae, Polyscias guilfoylei).",
+      "en_consolidated_definition": "Shrub reaching up to 4 m in height, pinnate leaves, terminal inflorescence, pendulous, formed by numerous umbels and subglobose fruit (Araliaceae, Polyscias guilfoylei).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4081",
-        "semantic_similarity_score": 0.4081,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -94,17 +98,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "El croto de hoja rizada y ancha, de tonalidades rojas. También mangocillo.",
-          "Crotón. Arbusto ornamental, del cual hay múltiples variedades, con hojas de diferentes colores y formas.",
-          "Español de cualquier región.",
-          "Arbusto de hasta 4 m de altura, hojas pinnadas, inflorescencia terminal, colgante, formada por numerosas umbelas y fruto subgloboso. ."
+          "Arbusto de hasta 4 m de altura, hojas pinnadas, inflorescencia terminal, colgante, formada por numerosas umbelas y fruto subgloboso. (Araliaceae, Polyscias guilfoylei)."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Ver anivelador",
+      "consolidated_definition": "Ver anivelador .",
+      "en_consolidated_definition": "See anivelador.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -125,10 +129,14 @@
     }
   },
   "es_definitions": [
-    ". Ave acuática parecida a la gaviota. . Ac.",
-    "El croto de hoja rizada y ancha",
-    "Ver anivelador"
+    ". Cuba y P. Rico. Ave palmípeda de plumaje ceniciento, rabadilla, vientre y cola blancos, patas, pico y párpados rojizos.",
+    "Arbusto de hasta 4 m de altura, hojas pinnadas, inflorescencia terminal, colgante, formada por numerosas umbelas y fruto subgloboso. (Araliaceae, Polyscias guilfoylei).",
+    "Ver anivelador ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cuba and P.Rico. A wading bird with a gray plumage, white rump, belly, and tail, reddish legs, bill, and eyelids.",
+    "Shrub reaching up to 4 m in height, pinnate leaves, terminal inflorescence, pendulous, formed by numerous umbels and subglobose fruit (Araliaceae, Polyscias guilfoylei).",
+    "See anivelador."
+  ],
   "source": "https://tesoro.pr"
 }

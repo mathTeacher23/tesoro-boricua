@@ -3,15 +3,18 @@
   "term": "bravo, va",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Las vacas monteses o bravas son animales que viven en libertad en los bosques, clasificadas como una categoría de vacas, caracterizadas por ser más pequeñas, delgadas y con el pelaje erizado, y tienen un menor índice de reproducción comparado con las criadas en praderías.",
+      "consolidated_definition": "Dícese de los animales monteses. Las vacas se multiplican pasmosamente: las hay bravas o monteses, y criadas en las praderías: las primeras se mantienen en los bosques, procrean menos, son más pequeñas, flacas y su pelo es erizado.",
+      "en_consolidated_definition": "This term refers to wild animals. Cattle multiply astonishingly: there are fierce or feral ones, and those raised in pastures: the former are maintained in the forests, reproduce less, are smaller, thinner, and their hair is erect.\n\nNota: En este contexto, \"praderías\" se refiere a áreas de pastoreo o prados, lo que es común en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -40,15 +43,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Persona que prioriza sus propias necesidades o intereses sobre los de otros.",
+      "consolidated_definition": "Referido a persona, enemistada con alguien.",
+      "en_consolidated_definition": "Hostil towards someone.\n\nNota: Esta palabra se refiere a una actitud o relación negativa hacia alguien, pero no necesariamente a un enemigo en el sentido clásico del término.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4974",
-        "semantic_similarity_score": 0.4974,
-        "cluster_count": 4,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -82,18 +88,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "(popular) Egoísta.",
-          "Egoísta. Enojado. Enfadado. Molesto. Colérico.",
-          "Referido a persona, enemistada con alguien.",
-          "Referido a persona, irritada, enojada u ofendida."
+          "Referido a persona, enemistada con alguien."
         ]
       }
     }
   },
   "es_definitions": [
-    "Las vacas monteses o bravas son animales que viven en libertad en los bosques, clasificadas como una categoría de vacas, caracterizadas por ser más pequeñas, delgadas y con el pelaje erizado, y tienen un menor índice de reproducción comparado con las criadas en praderías.",
-    "Persona que prioriza sus propias necesidades o intereses sobre los de otros."
+    "Dícese de los animales monteses. Las vacas se multiplican pasmosamente: las hay bravas o monteses, y criadas en las praderías: las primeras se mantienen en los bosques, procrean menos, son más pequeñas, flacas y su pelo es erizado.",
+    "Referido a persona, enemistada con alguien."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "This term refers to wild animals. Cattle multiply astonishingly: there are fierce or feral ones, and those raised in pastures: the former are maintained in the forests, reproduce less, are smaller, thinner, and their hair is erect.\n\nNota: En este contexto, \"praderías\" se refiere a áreas de pastoreo o prados, lo que es común en Puerto Rico.",
+    "Hostil towards someone.\n\nNota: Esta palabra se refiere a una actitud o relación negativa hacia alguien, pero no necesariamente a un enemigo en el sentido clásico del término."
+  ],
   "source": "https://tesoro.pr"
 }

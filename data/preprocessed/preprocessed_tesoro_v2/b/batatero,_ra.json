@@ -3,15 +3,18 @@
   "term": "batatero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Persona que vende batatas.",
+      "consolidated_definition": "Vendedor de batatas.",
+      "en_consolidated_definition": "Potato vendor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.7365",
-        "semantic_similarity_score": 0.7365,
-        "cluster_count": 3,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino y femenino"
@@ -46,23 +49,23 @@
           "batatal 1"
         ],
         "reference_definitions": [
-          "Que gusta de la batata.",
-          "Vendedor de batatas.",
-          "Vendedor de batatas.",
-          "Persona a la que le gustan mucho las batatas."
+          "Vendedor de batatas."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "\"papanatas\": persona que se comporta de manera engreída o pretenciosa.",
+      "consolidated_definition": "Empleado incompetente.",
+      "en_consolidated_definition": "Incompetent employee \n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.4224",
-        "semantic_similarity_score": 0.4224,
-        "cluster_count": 5,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -103,19 +106,18 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Papanatas. “Y luego habrá quien diga que nuestros jíbaros son holgazanes, anémicos y batateros.” Daubón, Casos de , p. 255.",
-          "Atontado, simple, papanatas, el zoquete, el torpe (especialmente en los estudios).",
-          "Dícese del empleado de gobierno que no rinde servicio público y recibe un sueldo.",
-          "Empleado incompetente.",
-          "Referido a persona, papanatas, pusilánime, atontada, simple."
+          "Empleado incompetente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Persona que vende batatas.",
-    "\"papanatas\": persona que se comporta de manera engreída o pretenciosa."
+    "Vendedor de batatas.",
+    "Empleado incompetente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Potato vendor.",
+    "Incompetent employee \n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

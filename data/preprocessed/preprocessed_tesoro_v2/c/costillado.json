@@ -3,15 +3,18 @@
   "term": "costillado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Parte delantera de un barco o embarcación.",
+      "consolidated_definition": "En las actividades marítimas, tablazón de una embarcación.",
+      "en_consolidated_definition": "Deck planking of a vessel in maritime activities.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6291",
-        "semantic_similarity_score": 0.6291,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Tablazón de la embarcación. Costiyao.",
           "En las actividades marítimas, tablazón de una embarcación."
         ]
       }
     }
   },
   "es_definitions": [
-    "Parte delantera de un barco o embarcación."
+    "En las actividades marítimas, tablazón de una embarcación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Deck planking of a vessel in maritime activities."
+  ],
   "source": "https://tesoro.pr"
 }

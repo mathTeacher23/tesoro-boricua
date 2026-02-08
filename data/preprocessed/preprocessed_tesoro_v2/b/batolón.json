@@ -3,15 +3,18 @@
   "term": "batolón",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prenda holgada: Prenda de vestir que tiene un ajuste relajado o no se ajusta al cuerpo en exceso.",
+      "consolidated_definition": "Prenda holgada.",
+      "en_consolidated_definition": "Lozano o holgada prenda de vestir.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Prenda holgada: Prenda de vestir que tiene un ajuste relajado o no se ajusta al cuerpo en exceso."
+    "Prenda holgada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lozano o holgada prenda de vestir."
+  ],
   "source": "https://tesoro.pr"
 }

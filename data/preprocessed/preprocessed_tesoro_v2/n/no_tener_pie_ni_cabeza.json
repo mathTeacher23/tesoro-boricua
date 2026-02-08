@@ -3,9 +3,12 @@
   "term": "no tener pie ni cabeza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No tener sentido una cosa",
+      "consolidated_definition": "No tener sentido una cosa, ser un disparate.",
+      "en_consolidated_definition": "Lack of sense or reason; something absurd or nonsensical.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "No tener sentido una cosa"
+    "No tener sentido una cosa, ser un disparate."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lack of sense or reason; something absurd or nonsensical."
+  ],
   "source": "https://tesoro.pr"
 }

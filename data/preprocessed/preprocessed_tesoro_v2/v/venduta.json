@@ -3,15 +3,18 @@
   "term": "venduta",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cambio en una persona debido a soborno",
+      "consolidated_definition": "Cambio en una persona debido a soborno; acto traicionero.",
+      "en_consolidated_definition": "Corrupción en una persona debido a soborno; acto de traición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6265",
-        "semantic_similarity_score": 0.6265,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6243",
+        "semantic_similarity_score": 0.6243,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -49,7 +52,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Cambio en una persona debido a soborno; acto traicionero. De poco uso hoy.",
+          "(general) Cambio en una persona debido a soborno; acto traicionero. De poco uso hoy.",
           "Cambio en una persona debido a soborno. Acto traicionero.",
           "Cohecho. Soborno. Vendimia.",
           "Acción y efecto de cambiar de partido político por razones de conveniencia personal."
@@ -58,8 +61,10 @@
     }
   },
   "es_definitions": [
-    "Cambio en una persona debido a soborno"
+    "Cambio en una persona debido a soborno; acto traicionero."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Corrupción en una persona debido a soborno; acto de traición."
+  ],
   "source": "https://tesoro.pr"
 }

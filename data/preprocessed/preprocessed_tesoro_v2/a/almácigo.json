@@ -3,15 +3,18 @@
   "term": "almácigo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Bursera\": árbol cuyo fruto se consume por los cerdos, perteneciente a la familia Burseraceae y conocido como Terebinthus americana.",
+      "consolidated_definition": "Árbol de hasta 30 m de altura, de copa irregular y espesa, hojas alternas, flores pequeñas, aromáticas, de color verde o amarillo y fruto rojizo; se utiliza en la medicina tradicional. Burseraceae; Bursera simaruba.",
+      "en_consolidated_definition": "Tree reaching heights of up to 30 m with an irregular and dense canopy, alternate leaves, small aromatic flowers in shades of green or yellow, and reddish fruit; used in traditional medicine. Burseraceae; Bursera simaruba.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.4867",
-        "semantic_similarity_score": 0.4867,
-        "cluster_count": 7,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -64,26 +67,23 @@
           "almacigado, da"
         ],
         "reference_definitions": [
-          "(T. en Cuba, Pan. y Ven.). Árbol cuyo fruto come el cerdo. (Bursera; Terebinthus americana). Ac. Stahl, 4, 51. “Miró por entre los almácigos de la palizada.” Fernández Juncos, Costumbres y tradiciones, 1833. (El almácigo de España es el Pistacia lentiscus).",
-          "Planta medicinal o para otros usos.",
-          "Burseraceas, Elaphrium simaruba. “Lo hay blanco y colorao, alimenta el cránio.” Se lava el pelo con la cáscara. Se usa además “pa guarapiyo de nene chiquito”.",
-          "Puede ser rojo o blanco. Árbol medicinal cuya corteza se usa para teses como remedio para los pujos.",
-          "Árbol de tronco amarillo rojizo, cuya corteza es medicinal y nutrituva.",
-          "La corteza de dicho árbol. También indio esnú.",
           "Árbol de hasta 30 m de altura, de copa irregular y espesa, hojas alternas, flores pequeñas, aromáticas, de color verde o amarillo y fruto rojizo; se utiliza en la medicina tradicional. Burseraceae; Bursera simaruba."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Los granos forman las sementeras, también conocidas como almácigos.",
+      "consolidated_definition": "“De estos granos forman sus sementeras, que llaman almácigos.”",
+      "en_consolidated_definition": "From these grains they form their fields, which they call almácigos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -112,9 +112,12 @@
     }
   },
   "es_definitions": [
-    "\"Bursera\": árbol cuyo fruto se consume por los cerdos, perteneciente a la familia Burseraceae y conocido como Terebinthus americana.",
-    "Los granos forman las sementeras, también conocidas como almácigos."
+    "Árbol de hasta 30 m de altura, de copa irregular y espesa, hojas alternas, flores pequeñas, aromáticas, de color verde o amarillo y fruto rojizo; se utiliza en la medicina tradicional. Burseraceae; Bursera simaruba.",
+    "“De estos granos forman sus sementeras, que llaman almácigos.”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree reaching heights of up to 30 m with an irregular and dense canopy, alternate leaves, small aromatic flowers in shades of green or yellow, and reddish fruit; used in traditional medicine. Burseraceae; Bursera simaruba.",
+    "From these grains they form their fields, which they call almácigos."
+  ],
   "source": "https://tesoro.pr"
 }

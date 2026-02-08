@@ -3,9 +3,12 @@
   "term": "debitado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a dinero",
+      "consolidated_definition": "Referido a dinero, cargado en el debe de una cuenta.",
+      "en_consolidated_definition": "Deposited to a bank account's debit side in terms of money.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -43,8 +46,10 @@
     }
   },
   "es_definitions": [
-    "Referido a dinero"
+    "Referido a dinero, cargado en el debe de una cuenta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Deposited to a bank account's debit side in terms of money."
+  ],
   "source": "https://tesoro.pr"
 }

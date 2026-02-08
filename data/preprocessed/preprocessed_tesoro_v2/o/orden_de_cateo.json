@@ -3,9 +3,12 @@
   "term": "orden de cateo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Orden de allanamiento o registro policial",
+      "consolidated_definition": "Orden de allanamiento o registro policial.",
+      "en_consolidated_definition": "Order of search or police raid.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Orden de allanamiento o registro policial"
+    "Orden de allanamiento o registro policial."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Order of search or police raid."
+  ],
   "source": "https://tesoro.pr"
 }

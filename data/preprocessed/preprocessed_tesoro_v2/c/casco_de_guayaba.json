@@ -3,15 +3,18 @@
   "term": "casco de guayaba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guayabada: sustantivo que designa un preparado culinario hecho con cortezas de guayaba hervidas en azúcar.",
+      "consolidated_definition": "Dulce hecho con cortezas de guayaba hervidas con azúcar.",
+      "en_consolidated_definition": "Guava crust sweet made with boiled guava skins and sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Guayabada: sustantivo que designa un preparado culinario hecho con cortezas de guayaba hervidas en azúcar."
+    "Dulce hecho con cortezas de guayaba hervidas con azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Guava crust sweet made with boiled guava skins and sugar."
+  ],
   "source": "https://tesoro.pr"
 }

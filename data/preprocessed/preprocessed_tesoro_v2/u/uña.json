@@ -3,15 +3,18 @@
   "term": "uña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "La parte central y recia del yugo recibió",
+      "consolidated_definition": "La parte central y recia del yugo se conoce en algunas áreas de Matabuey como \"uña\".",
+      "en_consolidated_definition": "The central and robust part of the yoke is known in some areas of Matabuey as \"uña\". \n\nNota: Para mantener el contexto cultural específico de Puerto Rico, se mantuvo la referencia a \"Matabuey\" en lugar de traducirla.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5886",
-        "semantic_similarity_score": 0.5886,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6032",
+        "semantic_similarity_score": 0.6032,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -41,15 +44,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "La parte central y recia del yugo recibió abundantes nombres. Dentro de la extensa zona de matabuey, se encontraron, como formas locales, uña en Naranjito.",
+          "La parte central y recia del yugo recibió abundantes nombres. Dentro de la extensa zona de matabuey, se encontraron, como formas locales, ... uña en Naranjito.",
           "El centro del yugo se llama en algunos puntos aislados uña."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver pata 1",
+      "consolidated_definition": "Ver pata 1 .",
+      "en_consolidated_definition": "See \"pata 1\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -69,9 +75,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Instrumento con un mecanismo de pinzas que se, relacionado con un mecanismo",
+      "consolidated_definition": "Instrumento con un mecanismo de pinzas que se utiliza para quitar las grapas.",
+      "en_consolidated_definition": "Device with a pair of pliers mechanism used to remove staples.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -105,9 +114,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Chapa triangular u ovalada de carey",
+      "consolidated_definition": "Chapa triangular u ovalada de carey, marfil o material plástico, que se emplea para tocar ciertos instrumentos musicales de cuerda.",
+      "en_consolidated_definition": "Plectrum triangular or oval-shaped made of caribou (carey), ivory, or plastic, used to play certain stringed musical instruments.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -144,11 +156,16 @@
     }
   },
   "es_definitions": [
-    "La parte central y recia del yugo recibió",
-    "Ver pata 1",
-    "Instrumento con un mecanismo de pinzas que se, relacionado con un mecanismo",
-    "Chapa triangular u ovalada de carey"
+    "La parte central y recia del yugo se conoce en algunas áreas de Matabuey como \"uña\".",
+    "Ver pata 1 .",
+    "Instrumento con un mecanismo de pinzas que se utiliza para quitar las grapas.",
+    "Chapa triangular u ovalada de carey, marfil o material plástico, que se emplea para tocar ciertos instrumentos musicales de cuerda."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The central and robust part of the yoke is known in some areas of Matabuey as \"uña\". \n\nNota: Para mantener el contexto cultural específico de Puerto Rico, se mantuvo la referencia a \"Matabuey\" en lugar de traducirla.",
+    "See \"pata 1\".",
+    "Device with a pair of pliers mechanism used to remove staples.",
+    "Plectrum triangular or oval-shaped made of caribou (carey), ivory, or plastic, used to play certain stringed musical instruments."
+  ],
   "source": "https://tesoro.pr"
 }

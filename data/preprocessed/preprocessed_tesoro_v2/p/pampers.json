@@ -3,9 +3,12 @@
   "term": "pampers",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pañales",
+      "consolidated_definition": "Pañales. Este préstamo, que es la marca de un tipo de pañales desechables se ha impuesto totalmente.",
+      "en_consolidated_definition": "Disposable Diapers. This loanword, which is the brand name of a type of disposable diapers, has become completely established.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Pañales"
+    "Pañales. Este préstamo, que es la marca de un tipo de pañales desechables se ha impuesto totalmente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Disposable Diapers. This loanword, which is the brand name of a type of disposable diapers, has become completely established."
+  ],
   "source": "https://tesoro.pr"
 }

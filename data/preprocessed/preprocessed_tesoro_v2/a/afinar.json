@@ -3,15 +3,18 @@
   "term": "afinar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mejora: Acción de hacer más eficiente o efectivo el funcionamiento y rendimiento del motor de un vehículo mediante la limpieza y regulación de sus partes, en especial las bujías y el carburador.",
+      "consolidated_definition": "Mejorar el funcionamiento y rendimiento del motor de un vehículo mediante la limpieza y regulación de sus partes, en especial las bujías y el carburador.",
+      "en_consolidated_definition": "Improve the operation and performance of a vehicle's engine by cleaning and regulating its parts, particularly spark plugs and the carburetor.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "verbo transitivo"
         ],
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Mejora: Acción de hacer más eficiente o efectivo el funcionamiento y rendimiento del motor de un vehículo mediante la limpieza y regulación de sus partes, en especial las bujías y el carburador."
+    "Mejorar el funcionamiento y rendimiento del motor de un vehículo mediante la limpieza y regulación de sus partes, en especial las bujías y el carburador."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Improve the operation and performance of a vehicle's engine by cleaning and regulating its parts, particularly spark plugs and the carburetor."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "terno",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Compañero de fiestas y diversiones",
+      "consolidated_definition": "Compañero de fiestas y diversiones.",
+      "en_consolidated_definition": "Social companion and reveler.\n\nNota: La palabra \"fiestas\" se refiere a eventos festivos y celebraciones, mientras que \"diversiones\" se traduce como \"revelries\", lo que incluye actividades lúdicas y entretenidas. El término \"compañero de fiestas\" es una expresión coloquial en español puertorriqueño que se utiliza para describir a alguien que disfruta de la compañía de otros en eventos sociales y festivos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,14 +44,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Juego de joyas consistente en collar",
+      "consolidated_definition": ". Cuba y P. Rico. Aderezo de joyas compuesto de pendientes, collar y alfiler.",
+      "en_consolidated_definition": "Adornamento de joyas compuesto de pendientes, collar y broche.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2001",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6764",
-        "semantic_similarity_score": 0.6764,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -77,16 +83,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Juego de joyas consistente en collar, pendientes y alfiler y pulsera.",
           ". Cuba y P. Rico. Aderezo de joyas compuesto de pendientes, collar y alfiler."
         ]
       }
     }
   },
   "es_definitions": [
-    "Compañero de fiestas y diversiones",
-    "Juego de joyas consistente en collar"
+    "Compañero de fiestas y diversiones.",
+    ". Cuba y P. Rico. Aderezo de joyas compuesto de pendientes, collar y alfiler."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Social companion and reveler.\n\nNota: La palabra \"fiestas\" se refiere a eventos festivos y celebraciones, mientras que \"diversiones\" se traduce como \"revelries\", lo que incluye actividades lúdicas y entretenidas. El término \"compañero de fiestas\" es una expresión coloquial en español puertorriqueño que se utiliza para describir a alguien que disfruta de la compañía de otros en eventos sociales y festivos.",
+    "Adornamento de joyas compuesto de pendientes, collar y broche."
+  ],
   "source": "https://tesoro.pr"
 }

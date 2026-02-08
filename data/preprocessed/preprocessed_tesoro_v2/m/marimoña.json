@@ -3,15 +3,18 @@
   "term": "marimoña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fueron abundantes las denominaciones recogidas para la margarita",
+      "consolidated_definition": "La margarita de botón amarillo y hojas blancas es un nombre común para varias plantas silvestres utilizadas en la parte oriental de Vega Baja y Barros.",
+      "en_consolidated_definition": "The yellow button margarita and white leaves is a common name for several wild plants used in the eastern part of Vega Baja and Barros.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.4984",
-        "semantic_similarity_score": 0.4984,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.5041",
+        "semantic_similarity_score": 0.5041,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -44,16 +47,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Fueron abundantes las denominaciones recogidas para la margarita de botón amarillo y hojas blancas En la parte oriental, a partir de la línea de Vega Baja y Barros, aparecen numerosos nombres: marimoña, Loíza, Medianía, Fajardo y Palmarejo.",
+          "Fueron abundantes las denominaciones recogidas para la margarita de botón amarillo y hojas blancas .. En la parte oriental, a partir de la línea de Vega Baja y Barros, aparecen numerosos nombres: ... marimoña, Loíza, Medianía, Fajardo y Palmarejo.",
           "Flor y mata.",
-          "Para la denominación más bien urbana de margarita, de botón amarillo y hojas blancas, Navarro recogió por toda la Isla diversidad de nombres de uso popular tanto por la ruralía como por los pueblos : marimoña."
+          "Para la denominación más bien urbana de margarita, de botón amarillo y hojas blancas, Navarro recogió por toda la Isla diversidad de nombres de uso popular tanto por la ruralía como por los pueblos …: marimoña."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Planta silvestre de tallos frágiles con hojas espinosas",
+      "consolidated_definition": "Planta silvestre de tallos frágiles con hojas espinosas en el borde. Echa una espiga alta con una flor en su extremo superior en forma de bola con púas con semillitas rojas. Es una variedad de cardo.",
+      "en_consolidated_definition": "Wild plant with fragile stems and spiny-edged leaves. Produces a tall spike with a flower at the upper end in the form of a ball with thorns and red seeds. It is a variety of cardoon.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -87,15 +93,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Marihuana",
+      "consolidated_definition": "Marihuana es un tipo de planta psicoactiva cuya hoja se utiliza principalmente para producir efectos recreativos y alucinógenos a través del consumo de su resina o inhalación.",
+      "en_consolidated_definition": "Marijuana is a type of psychoactive plant whose leaf is primarily used to produce recreational and hallucinogenic effects through the consumption of its resin or inhalation.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5258",
         "semantic_similarity_score": 0.5258,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -130,10 +139,14 @@
     }
   },
   "es_definitions": [
-    "Fueron abundantes las denominaciones recogidas para la margarita",
-    "Planta silvestre de tallos frágiles con hojas espinosas",
-    "Marihuana"
+    "La margarita de botón amarillo y hojas blancas es un nombre común para varias plantas silvestres utilizadas en la parte oriental de Vega Baja y Barros.",
+    "Planta silvestre de tallos frágiles con hojas espinosas en el borde. Echa una espiga alta con una flor en su extremo superior en forma de bola con púas con semillitas rojas. Es una variedad de cardo.",
+    "Marihuana es un tipo de planta psicoactiva cuya hoja se utiliza principalmente para producir efectos recreativos y alucinógenos a través del consumo de su resina o inhalación."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The yellow button margarita and white leaves is a common name for several wild plants used in the eastern part of Vega Baja and Barros.",
+    "Wild plant with fragile stems and spiny-edged leaves. Produces a tall spike with a flower at the upper end in the form of a ball with thorns and red seeds. It is a variety of cardoon.",
+    "Marijuana is a type of psychoactive plant whose leaf is primarily used to produce recreational and hallucinogenic effects through the consumption of its resin or inhalation."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "guaimen",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Pez de mar",
+      "consolidated_definition": "Pez de mar, comestible, de la familia del jurel.",
+      "en_consolidated_definition": "Marine fish, edible, of the jack family.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Pez de mar"
+    "Pez de mar, comestible, de la familia del jurel."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine fish, edible, of the jack family."
+  ],
   "source": "https://tesoro.pr"
 }

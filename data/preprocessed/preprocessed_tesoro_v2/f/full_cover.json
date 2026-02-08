@@ -3,14 +3,17 @@
   "term": "full cover",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Seguro de accidentes a todo riesgo",
+      "consolidated_definition": "Seguro a todo riesgo, especialmente el de los automóviles.",
+      "en_consolidated_definition": "Comprehensive insurance, especially for automobiles.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.579",
-        "semantic_similarity_score": 0.579,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -51,18 +54,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Seguro de accidentes a todo riesgo.",
-          "Seguro completo, cubierta o cobertura completa.",
-          "Alcance económico completo, cubierta completa. Se dice del seguro a todo riesgo, que cubre en cualquier accidente tanto al que lo provoca como al perjudicado. Anglicismo crudo, usual. Con un seguro full cover o de cubierta completa, usted se asegura de contar con una póliza que le pague por los daños físicos que pueda sufrir su vehículo, así como los daños físicos a terceros y su propiedad",
-          "Seguro a todo riesgo, especialmente el de los automóviles.",
-          "Seguro de accidentes a todo riesgo, de cobertura completa."
+          "Seguro a todo riesgo, especialmente el de los automóviles."
         ]
       }
     }
   },
   "es_definitions": [
-    "Seguro de accidentes a todo riesgo"
+    "Seguro a todo riesgo, especialmente el de los automóviles."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Comprehensive insurance, especially for automobiles."
+  ],
   "source": "https://tesoro.pr"
 }

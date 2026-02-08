@@ -3,9 +3,12 @@
   "term": "esdejado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Referido a persona",
+      "consolidated_definition": "Referido a persona, descuidada en el aseo.",
+      "en_consolidated_definition": "Desaliñada en cuanto a su apariencia personal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Referido a persona"
+    "Referido a persona, descuidada en el aseo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Desaliñada en cuanto a su apariencia personal."
+  ],
   "source": "https://tesoro.pr"
 }

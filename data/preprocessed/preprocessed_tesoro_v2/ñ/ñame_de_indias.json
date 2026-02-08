@@ -3,15 +3,18 @@
   "term": "ñame de indias",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Guáyaro",
+      "consolidated_definition": "\"Guáyaro\": árbol de la familia de las fabáceas, nativo de América del Sur.",
+      "en_consolidated_definition": "Guáyaro: tree of the Fabaceae family, native to South America.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.2377",
         "semantic_similarity_score": 0.2377,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo compuesto",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Guáyaro"
+    "\"Guáyaro\": árbol de la familia de las fabáceas, nativo de América del Sur."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Guáyaro: tree of the Fabaceae family, native to South America."
+  ],
   "source": "https://tesoro.pr"
 }

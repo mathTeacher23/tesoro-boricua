@@ -3,9 +3,12 @@
   "term": "tener la cabeza llena de gandures secos",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No tener memoria",
+      "consolidated_definition": "No tener memoria. Ser despistado.",
+      "en_consolidated_definition": "Lack of memory; to be absent-minded or forgetful.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "No tener memoria"
+    "No tener memoria. Ser despistado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Lack of memory; to be absent-minded or forgetful."
+  ],
   "source": "https://tesoro.pr"
 }

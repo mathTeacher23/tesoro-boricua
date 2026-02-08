@@ -3,9 +3,12 @@
   "term": "pie de mabí",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fermento del mabí preparado para la fabricación de",
+      "consolidated_definition": "Fermento del mabí preparado para la fabricación de la bebida.",
+      "en_consolidated_definition": "Mabí ferment extract prepared for the manufacture of a beverage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Fermento del mabí preparado para la fabricación de"
+    "Fermento del mabí preparado para la fabricación de la bebida."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Mabí ferment extract prepared for the manufacture of a beverage."
+  ],
   "source": "https://tesoro.pr"
 }

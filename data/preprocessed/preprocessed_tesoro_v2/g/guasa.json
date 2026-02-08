@@ -3,15 +3,18 @@
   "term": "guasa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol de unos 35 pies de altura",
+      "consolidated_definition": "Árbol de madera floja pero resistente que alcanza una altura de unos 35 pies.",
+      "en_consolidated_definition": "Tree of softwood but resistant wood that reaches a height of about 35 feet.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.5831",
         "semantic_similarity_score": 0.5831,
-        "cluster_count": null,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -57,14 +60,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Epinephelus mystacinus, relacionado con una organización",
+      "consolidated_definition": "Pez marino de hasta 2 m de longitud, de cuerpo muy robusto, casi redondo, de color pardo verdoso con manchas negras y bandas transversales oscuras; es comestible. (Serranidae; Epinephelus itajara).",
+      "en_consolidated_definition": "Marine fish of up to 2 m in length, with a very robust body, almost spherical in shape, having a greenish-brown color with black spots and dark transverse bands; it is edible (Serranidae; Epinephelus itajara).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.5056",
-        "semantic_similarity_score": 0.5056,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -105,17 +111,17 @@
         "origin": "Indigenismo",
         "related_words": [],
         "reference_definitions": [
-          "Epinephelus mystacinus. Pez comestible, de la familia del mero, de color aceitunado y muchas veces morado, con manchas pardo rojizas. Es de los acantilados y aguas profundas, pudiendo alcanzar muchas libras de peso.",
-          "Pez, de la familia Seranidae . Epinephelus mystacinus.",
-          "Cierta variedad del pez mero de color verdoso.",
-          "Pez marino de hasta 2 m de longitud, de cuerpo muy robusto, casi redondo, de color pardo verdoso con manchas negras y bandas transversales oscuras; es comestible. ."
+          "Pez marino de hasta 2 m de longitud, de cuerpo muy robusto, casi redondo, de color pardo verdoso con manchas negras y bandas transversales oscuras; es comestible. (Serranidae; Epinephelus itajara)."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Marihuana",
+      "consolidated_definition": "Marihuana.",
+      "en_consolidated_definition": "Cannabis.\n\nNota: En algunos contextos culturales de Puerto Rico, también se refiere a esta planta como \"marihuana\" o simplemente \"grifa\", pero en un sentido más amplio y formal, la traducción correcta es \"cannabis\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -149,9 +155,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Mentira",
+      "consolidated_definition": "Mentira.",
+      "en_consolidated_definition": "Falsehood \n\nNota: En algunos contextos culturales de Puerto Rico, esta palabra puede estar relacionada con el término \"mentira\" en su sentido coloquial y popular, pero en un contexto formal y académico, se mantiene la traducción literal como \"falsehood\".",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -186,11 +195,16 @@
     }
   },
   "es_definitions": [
-    "Árbol de unos 35 pies de altura",
-    "Epinephelus mystacinus, relacionado con una organización",
-    "Marihuana",
-    "Mentira"
+    "Árbol de madera floja pero resistente que alcanza una altura de unos 35 pies.",
+    "Pez marino de hasta 2 m de longitud, de cuerpo muy robusto, casi redondo, de color pardo verdoso con manchas negras y bandas transversales oscuras; es comestible. (Serranidae; Epinephelus itajara).",
+    "Marihuana.",
+    "Mentira."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree of softwood but resistant wood that reaches a height of about 35 feet.",
+    "Marine fish of up to 2 m in length, with a very robust body, almost spherical in shape, having a greenish-brown color with black spots and dark transverse bands; it is edible (Serranidae; Epinephelus itajara).",
+    "Cannabis.\n\nNota: En algunos contextos culturales de Puerto Rico, también se refiere a esta planta como \"marihuana\" o simplemente \"grifa\", pero en un sentido más amplio y formal, la traducción correcta es \"cannabis\".",
+    "Falsehood \n\nNota: En algunos contextos culturales de Puerto Rico, esta palabra puede estar relacionada con el término \"mentira\" en su sentido coloquial y popular, pero en un contexto formal y académico, se mantiene la traducción literal como \"falsehood\"."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "ojoto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver jojoto",
+      "consolidated_definition": "Ver jojoto, ta .",
+      "en_consolidated_definition": "Ver jojoto, ta.\n\nTranslation:\nSee jojoto, ta.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver jojoto"
+    "Ver jojoto, ta ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ver jojoto, ta.\n\nTranslation:\nSee jojoto, ta."
+  ],
   "source": "https://tesoro.pr"
 }

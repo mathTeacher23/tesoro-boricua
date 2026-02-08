@@ -3,9 +3,12 @@
   "term": "faltar x para las y",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Expresión en que se ofrecen los minutos que",
+      "consolidated_definition": "Expresión en que se ofrecen los minutos que faltan para la próxima hora, en vez de los minutos que han trascurrido desde la hora en punto anterior. Calco de estructura, usual. Faltan cinco para las doce, vamos a empezar en seguida",
+      "en_consolidated_definition": "Expression in which the minutes remaining until the next hour are offered instead of those that have elapsed since the previous hour on the dot. Calque of structure, usual. Faltan cinco para las doce, vamos a empezar en seguida translates to There are five minutes until twelve; we will start right away",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Expresión en que se ofrecen los minutos que"
+    "Expresión en que se ofrecen los minutos que faltan para la próxima hora, en vez de los minutos que han trascurrido desde la hora en punto anterior. Calco de estructura, usual. Faltan cinco para las doce, vamos a empezar en seguida"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Expression in which the minutes remaining until the next hour are offered instead of those that have elapsed since the previous hour on the dot. Calque of structure, usual. Faltan cinco para las doce, vamos a empezar en seguida translates to There are five minutes until twelve; we will start right away"
+  ],
   "source": "https://tesoro.pr"
 }

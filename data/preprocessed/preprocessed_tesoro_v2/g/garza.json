@@ -3,15 +3,18 @@
   "term": "garza",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Mujer alta y delgada",
+      "consolidated_definition": "Mujer alta y delgada.",
+      "en_consolidated_definition": "Tall and slender woman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8286",
-        "semantic_similarity_score": 0.8286,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.7628",
+        "semantic_similarity_score": 0.7628,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -41,15 +44,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Mujer alta y delgada. Palma.",
+          "(popular) Mujer alta y delgada. Palma.",
           "Mujer alta y delgada que anda rápidamente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Ver pollo de mangle",
+      "consolidated_definition": "Ver pollo de mangle .",
+      "en_consolidated_definition": "See mangrove chicken.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -70,9 +76,12 @@
     }
   },
   "es_definitions": [
-    "Mujer alta y delgada",
-    "Ver pollo de mangle"
+    "Mujer alta y delgada.",
+    "Ver pollo de mangle ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tall and slender woman.",
+    "See mangrove chicken."
+  ],
   "source": "https://tesoro.pr"
 }

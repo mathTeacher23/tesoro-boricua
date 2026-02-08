@@ -3,9 +3,12 @@
   "term": "pulover",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver pull over",
+      "consolidated_definition": "Ver pull over .",
+      "en_consolidated_definition": "Pull-over.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver pull over"
+    "Ver pull over ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pull-over."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "internarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Disponer una persona su ingreso en una institución, relacionado con una organización",
+      "consolidated_definition": "Disponer una persona su ingreso en una institución de asistencia médica o en un hospital.",
+      "en_consolidated_definition": "Admitir a una persona en un establecimiento de atención médica o hospital.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Disponer una persona su ingreso en una institución, relacionado con una organización"
+    "Disponer una persona su ingreso en una institución de asistencia médica o en un hospital."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Admitir a una persona en un establecimiento de atención médica o hospital."
+  ],
   "source": "https://tesoro.pr"
 }

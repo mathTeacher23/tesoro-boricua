@@ -3,9 +3,12 @@
   "term": "gallo mudo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gallo que no pica",
+      "consolidated_definition": "Gallo que no pica.",
+      "en_consolidated_definition": "Rooster that does not crow.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Gallo que no pica"
+    "Gallo que no pica."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rooster that does not crow."
+  ],
   "source": "https://tesoro.pr"
 }

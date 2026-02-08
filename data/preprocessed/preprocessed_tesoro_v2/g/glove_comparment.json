@@ -3,9 +3,12 @@
   "term": "glove comparment",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Receptáculo pequeño en un automóvil",
+      "consolidated_definition": "Receptáculo pequeño en un automóvil.",
+      "en_consolidated_definition": "Small receptacle found in a vehicle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Receptáculo pequeño en un automóvil"
+    "Receptáculo pequeño en un automóvil."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Small receptacle found in a vehicle."
+  ],
   "source": "https://tesoro.pr"
 }

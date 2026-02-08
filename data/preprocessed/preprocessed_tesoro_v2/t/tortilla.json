@@ -3,9 +3,12 @@
   "term": "tortilla",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver chopaipa 1",
+      "consolidated_definition": "Ver chopaipa 1 .",
+      "en_consolidated_definition": "Ver chopaipa 1.\n\nSee chopaipa 1.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,9 +28,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Alimento en forma de torta circular y aplanada",
+      "consolidated_definition": "Alimento en forma de torta circular y aplanada, elaborado con masa de maíz o trigo, que se cuece generalmente sobre un comal o rescoldo.",
+      "en_consolidated_definition": "Cornmeal or wheat flatbread in the form of a circular cake, typically cooked on a griddle or over embers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -62,9 +68,12 @@
     }
   },
   "es_definitions": [
-    "Ver chopaipa 1",
-    "Alimento en forma de torta circular y aplanada"
+    "Ver chopaipa 1 .",
+    "Alimento en forma de torta circular y aplanada, elaborado con masa de maíz o trigo, que se cuece generalmente sobre un comal o rescoldo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ver chopaipa 1.\n\nSee chopaipa 1.",
+    "Cornmeal or wheat flatbread in the form of a circular cake, typically cooked on a griddle or over embers."
+  ],
   "source": "https://tesoro.pr"
 }

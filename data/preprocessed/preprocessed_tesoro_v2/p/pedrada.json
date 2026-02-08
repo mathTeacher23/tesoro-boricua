@@ -3,9 +3,12 @@
   "term": "pedrada",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Embarazo de una mujer soltera",
+      "consolidated_definition": "Embarazo de una mujer soltera. “¡Qué pedrá!”",
+      "en_consolidated_definition": "Pregnancy of an unmarried woman.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Embarazo de una mujer soltera"
+    "Embarazo de una mujer soltera. “¡Qué pedrá!”"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pregnancy of an unmarried woman."
+  ],
   "source": "https://tesoro.pr"
 }

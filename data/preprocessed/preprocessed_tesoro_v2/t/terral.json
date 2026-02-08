@@ -3,15 +3,18 @@
   "term": "terral",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Terreno de secano",
+      "consolidated_definition": "\"Terreno de secano\": área de tierra que no recibe suficiente agua para ser considerado como terreno húmedo o inundable.",
+      "en_consolidated_definition": "Arroyo seco: area of land that does not receive sufficient water to be considered as arid or floodable terrain.\n\nNota: En este contexto, \"arroyo\" puede referirse a un área de tierra en general, en lugar de un curso de agua específico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4245",
         "semantic_similarity_score": 0.4245,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -42,9 +45,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Brisa de tierra",
+      "consolidated_definition": "Brisa de tierra.",
+      "en_consolidated_definition": "Land Breeze",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Sol muy caliente",
+      "consolidated_definition": "Sol muy caliente.",
+      "en_consolidated_definition": "Blazing sun",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -115,10 +124,14 @@
     }
   },
   "es_definitions": [
-    "Terreno de secano",
-    "Brisa de tierra",
-    "Sol muy caliente"
+    "\"Terreno de secano\": área de tierra que no recibe suficiente agua para ser considerado como terreno húmedo o inundable.",
+    "Brisa de tierra.",
+    "Sol muy caliente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Arroyo seco: area of land that does not receive sufficient water to be considered as arid or floodable terrain.\n\nNota: En este contexto, \"arroyo\" puede referirse a un área de tierra en general, en lugar de un curso de agua específico.",
+    "Land Breeze",
+    "Blazing sun"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "ahogado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Preso\": Persona que se encuentra detenida o encarcelada por un delito o infracción.",
+      "consolidated_definition": "Referido a persona, abrumada, agobiada por exceso de trabajo.",
+      "en_consolidated_definition": "Overwhelmed by an excessive workload, typically referring to a person burdened or weighed down by it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2827",
-        "semantic_similarity_score": 0.2827,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -40,21 +43,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Preso.",
           "Referido a persona, abrumada, agobiada por exceso de trabajo."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Persona que se encuentra en un estado de ebriedad avanzado, caracterizado por la pérdida de coordinación y control sobre sus acciones.",
+      "consolidated_definition": "Referido a persona, que está en completamente borracha.",
+      "en_consolidated_definition": "Completamente ebrio/a. \n\nNota: En este caso, he mantenido la traducción literal para reflejar el significado exacto del término en español. Sin embargo, es importante destacar que en algunos contextos culturales o regionales, se puede utilizar un lenguaje más formal o eufemístico para describir a alguien que está ebrio.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -84,9 +89,12 @@
     }
   },
   "es_definitions": [
-    "\"Preso\": Persona que se encuentra detenida o encarcelada por un delito o infracción.",
-    "Persona que se encuentra en un estado de ebriedad avanzado, caracterizado por la pérdida de coordinación y control sobre sus acciones."
+    "Referido a persona, abrumada, agobiada por exceso de trabajo.",
+    "Referido a persona, que está en completamente borracha."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Overwhelmed by an excessive workload, typically referring to a person burdened or weighed down by it.",
+    "Completamente ebrio/a. \n\nNota: En este caso, he mantenido la traducción literal para reflejar el significado exacto del término en español. Sin embargo, es importante destacar que en algunos contextos culturales o regionales, se puede utilizar un lenguaje más formal o eufemístico para describir a alguien que está ebrio."
+  ],
   "source": "https://tesoro.pr"
 }

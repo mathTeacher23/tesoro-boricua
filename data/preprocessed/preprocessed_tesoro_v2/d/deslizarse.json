@@ -3,9 +3,12 @@
   "term": "deslizarse",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el beisbol",
+      "consolidated_definition": "En el beisbol, lanzarse el jugador al suelo y llegar a la base por deslizamiento.",
+      "en_consolidated_definition": "In baseball, a player slides into the ground and reaches base by sliding.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "En el beisbol"
+    "En el beisbol, lanzarse el jugador al suelo y llegar a la base por deslizamiento."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, a player slides into the ground and reaches base by sliding."
+  ],
   "source": "https://tesoro.pr"
 }

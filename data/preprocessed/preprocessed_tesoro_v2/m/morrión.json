@@ -3,15 +3,18 @@
   "term": "morrión",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Gorrión",
+      "consolidated_definition": "El gorrión es un pequeño pájaro de la familia Fringillidae.",
+      "en_consolidated_definition": "The sparrow is a small bird of the family Fringillidae.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5706",
         "semantic_similarity_score": 0.5706,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Gorrión"
+    "El gorrión es un pequeño pájaro de la familia Fringillidae."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The sparrow is a small bird of the family Fringillidae."
+  ],
   "source": "https://tesoro.pr"
 }

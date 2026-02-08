@@ -3,9 +3,12 @@
   "term": "ni parientes ni dolientes",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Nadie sin excepción",
+      "consolidated_definition": "Nadie sin excepción.",
+      "en_consolidated_definition": "No hay excepción.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Nadie sin excepción"
+    "Nadie sin excepción."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No hay excepción."
+  ],
   "source": "https://tesoro.pr"
 }

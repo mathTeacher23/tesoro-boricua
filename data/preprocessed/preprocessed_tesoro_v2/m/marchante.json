@@ -3,14 +3,17 @@
   "term": "marchante",
   "superscripts": {
     "1": {
-      "consolidated_definition": "fig",
+      "consolidated_definition": "Cliente habitual de una tienda o negocio.",
+      "en_consolidated_definition": "Regular customer of a store or business.\n\nNota: En este caso, no hay términos culturales específicos de Puerto Rico que requieran traducción o preservación del contexto. La definición es general y se aplica en diferentes contextos.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4951",
-        "semantic_similarity_score": 0.4951,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -63,25 +66,23 @@
           "marchantía"
         ],
         "reference_definitions": [
-          "fig. . Solapado, maula. “La señorita se enamora de un pericón, de un marchante, de un sígueme-pollo.” Fernández Juncos, Tipos y..., 1882, p. 171.",
-          "Cliente fijo en un establecimento. También en Andalucía, parroquiano que acostumbra a comprar siempre en una misma tienda. Alcalá Venceslada, 387.",
-          "Fulano. Individuo.",
-          "Amigo. Novio. Pretendiente.",
-          "Cliente habitual de una tienda o negocio.",
-          "Novio informal, pretendiente."
+          "Cliente habitual de una tienda o negocio."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Peine de adorno mujeril",
+      "consolidated_definition": "Peine de adorno femenino: objeto utilizado para adornar el cabello o la cabeza en un estilo estético.",
+      "en_consolidated_definition": "Hair ornament: an object used to adorn the hair or head in a style of aesthetic.\n\nNota: En este contexto, no se menciona específicamente un término cultural de Puerto Rico, pero si lo hiciera, seguiría las instrucciones para traducirlo y preservar el contexto.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.566",
         "semantic_similarity_score": 0.566,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -121,9 +122,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "Billete de un dólar",
+      "consolidated_definition": "Billete de un dólar.",
+      "en_consolidated_definition": "One-dollar bill.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -158,10 +162,14 @@
     }
   },
   "es_definitions": [
-    "fig",
-    "Peine de adorno mujeril",
-    "Billete de un dólar"
+    "Cliente habitual de una tienda o negocio.",
+    "Peine de adorno femenino: objeto utilizado para adornar el cabello o la cabeza en un estilo estético.",
+    "Billete de un dólar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Regular customer of a store or business.\n\nNota: En este caso, no hay términos culturales específicos de Puerto Rico que requieran traducción o preservación del contexto. La definición es general y se aplica en diferentes contextos.",
+    "Hair ornament: an object used to adorn the hair or head in a style of aesthetic.\n\nNota: En este contexto, no se menciona específicamente un término cultural de Puerto Rico, pero si lo hiciera, seguiría las instrucciones para traducirlo y preservar el contexto.",
+    "One-dollar bill."
+  ],
   "source": "https://tesoro.pr"
 }

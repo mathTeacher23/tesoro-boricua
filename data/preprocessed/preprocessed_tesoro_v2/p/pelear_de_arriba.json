@@ -3,9 +3,12 @@
   "term": "pelear de arriba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Forma de atacar el gallo",
+      "consolidated_definition": "Forma de atacar el gallo.",
+      "en_consolidated_definition": "Form of attacking a rooster.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Forma de atacar el gallo"
+    "Forma de atacar el gallo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Form of attacking a rooster."
+  ],
   "source": "https://tesoro.pr"
 }

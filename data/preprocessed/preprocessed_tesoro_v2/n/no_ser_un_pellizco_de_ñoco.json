@@ -3,9 +3,12 @@
   "term": "no ser un pellizco de ñoco",
   "superscripts": {
     "1": {
-      "consolidated_definition": "No ser una cosa fácil de realizar",
+      "consolidated_definition": "No ser una cosa fácil de realizar. No ser una tontería.",
+      "en_consolidated_definition": "No ser una tarea sencilla de realizar. No ser algo trivial o insignificante.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "No ser una cosa fácil de realizar"
+    "No ser una cosa fácil de realizar. No ser una tontería."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "No ser una tarea sencilla de realizar. No ser algo trivial o insignificante."
+  ],
   "source": "https://tesoro.pr"
 }

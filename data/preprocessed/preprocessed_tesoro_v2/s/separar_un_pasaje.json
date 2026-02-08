@@ -3,9 +3,12 @@
   "term": "separar un pasaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reservar el pasaje",
+      "consolidated_definition": "Reservar el pasaje.",
+      "en_consolidated_definition": "Book a seat or reserve a passage.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Reservar el pasaje"
+    "Reservar el pasaje."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Book a seat or reserve a passage."
+  ],
   "source": "https://tesoro.pr"
 }

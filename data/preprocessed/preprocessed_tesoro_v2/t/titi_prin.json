@@ -3,9 +3,12 @@
   "term": "titi prin",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Principal escolar",
+      "consolidated_definition": "Principal escolar.",
+      "en_consolidated_definition": "Principal escolar.\n\nMain student or pupil.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Principal escolar"
+    "Principal escolar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Principal escolar.\n\nMain student or pupil."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,14 +3,17 @@
   "term": "media agua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Techo de una sola vertiente",
+      "consolidated_definition": "Techo de una sola vertiente.",
+      "en_consolidated_definition": "Single-sloped roof.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.9372",
-        "semantic_similarity_score": 0.9372,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo compuesto",
@@ -34,15 +37,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Techo de una sola vertiente.",
-          "Edificio con el techo de una sola vertiente."
+          "Techo de una sola vertiente."
         ]
       }
     }
   },
   "es_definitions": [
-    "Techo de una sola vertiente"
+    "Techo de una sola vertiente."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Single-sloped roof."
+  ],
   "source": "https://tesoro.pr"
 }

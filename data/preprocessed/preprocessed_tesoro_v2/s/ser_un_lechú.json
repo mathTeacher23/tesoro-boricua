@@ -3,9 +3,12 @@
   "term": "ser un lechú",
   "superscripts": {
     "1": {
-      "consolidated_definition": "‘Ser una persona de mucha suerte",
+      "consolidated_definition": "‘Ser una persona de mucha suerte.’ ¡Qué vaina!",
+      "en_consolidated_definition": "To be a very lucky person. What a thing!",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "‘Ser una persona de mucha suerte"
+    "‘Ser una persona de mucha suerte.’ ¡Qué vaina!"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To be a very lucky person. What a thing!"
+  ],
   "source": "https://tesoro.pr"
 }

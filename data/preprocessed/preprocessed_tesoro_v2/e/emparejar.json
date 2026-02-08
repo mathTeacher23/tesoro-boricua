@@ -3,9 +3,12 @@
   "term": "emparejar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Empadronar",
+      "consolidated_definition": "Empadronar. Aparear.",
+      "en_consolidated_definition": "Enroll or register (in a census or official records). To pair or match (e.g., in a census or survey).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Empadronar"
+    "Empadronar. Aparear."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Enroll or register (in a census or official records). To pair or match (e.g., in a census or survey)."
+  ],
   "source": "https://tesoro.pr"
 }

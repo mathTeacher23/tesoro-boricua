@@ -3,15 +3,18 @@
   "term": "ojo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la contestación relativa al asa del mango",
+      "consolidated_definition": "El asa del mango de la pala. También conocido como asa, abrasadera, agarradero, braso, cogedero, empuñadura, gancho, garrador, garfio, laso o mango.",
+      "en_consolidated_definition": "The handle of the shovel's shaft. Also known as grip, knob, or shaft.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6738",
-        "semantic_similarity_score": 0.6738,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.7034",
+        "semantic_similarity_score": 0.7034,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "En la contestación relativa al asa del mango se reunieron varias formas, entremezcladas por todo el país: ojo en Utuado y Adjuntas.",
-          "El asa del mango . También asa, abrasadera, agarradero, braso, cogedero, empuñadura, gancho, garrador, garfio, laso, mango, manigueta."
+          "En la contestación relativa al asa del mango de la pala se reunieron varias formas, entremezcladas por todo el país: ... ojo en Utuado y Adjuntas.",
+          "El asa del mango de la pala. También asa, abrasadera, agarradero, braso, cogedero, empuñadura, gancho, garrador, garfio, laso, mango, manigueta."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Término que se usa para designar la yema",
+      "consolidated_definition": "Término que se usa para designar la yema de la semilla de la caña. La yema se encuentra cerca del nudo como en una especie de agujero al que tapa una hoja dura. En la condición de agujero radica la comparación con el ojo.",
+      "en_consolidated_definition": "Term used to refer to the tip or bud of a sugarcane seed. The bud is located near the node, resembling an opening covered by a hard leaf. It is in this condition as an opening that the comparison with the eye originates.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -82,9 +88,12 @@
     }
   },
   "es_definitions": [
-    "En la contestación relativa al asa del mango",
-    "Término que se usa para designar la yema"
+    "El asa del mango de la pala. También conocido como asa, abrasadera, agarradero, braso, cogedero, empuñadura, gancho, garrador, garfio, laso o mango.",
+    "Término que se usa para designar la yema de la semilla de la caña. La yema se encuentra cerca del nudo como en una especie de agujero al que tapa una hoja dura. En la condición de agujero radica la comparación con el ojo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The handle of the shovel's shaft. Also known as grip, knob, or shaft.",
+    "Term used to refer to the tip or bud of a sugarcane seed. The bud is located near the node, resembling an opening covered by a hard leaf. It is in this condition as an opening that the comparison with the eye originates."
+  ],
   "source": "https://tesoro.pr"
 }

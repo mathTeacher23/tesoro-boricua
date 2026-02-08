@@ -3,15 +3,18 @@
   "term": "bipazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Bipazo\": mensaje breve enviado por beeper o llamada telefónica corta, que se utiliza especialmente para comunicar la ubicación o estado de alguien.",
+      "consolidated_definition": "Llamada. Mensaje que se envía por beeper o llamada hecha con él. Neologismo anglicado, poco frecuente. Si cuando llegas no me encuentras en la oficina, dame un bipazo porque estaré en el almacén (ejemplo creado)",
+      "en_consolidated_definition": "Beep. Message sent via beeper or call made with it. Anglicized neologism, infrequently used. If you arrive and do not find me in the office, give me a beep because I will be in the warehouse (example created)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "\"Bipazo\": mensaje breve enviado por beeper o llamada telefónica corta, que se utiliza especialmente para comunicar la ubicación o estado de alguien."
+    "Llamada. Mensaje que se envía por beeper o llamada hecha con él. Neologismo anglicado, poco frecuente. Si cuando llegas no me encuentras en la oficina, dame un bipazo porque estaré en el almacén (ejemplo creado)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Beep. Message sent via beeper or call made with it. Anglicized neologism, infrequently used. If you arrive and do not find me in the office, give me a beep because I will be in the warehouse (example created)"
+  ],
   "source": "https://tesoro.pr"
 }

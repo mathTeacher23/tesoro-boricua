@@ -3,9 +3,12 @@
   "term": "gadejo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Deseo de molestar o fastidiar",
+      "consolidated_definition": "Deseo de molestar o fastidiar.",
+      "en_consolidated_definition": "Deseo de causar molestia o incomodidad a alguien.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Deseo de molestar o fastidiar"
+    "Deseo de molestar o fastidiar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Deseo de causar molestia o incomodidad a alguien."
+  ],
   "source": "https://tesoro.pr"
 }

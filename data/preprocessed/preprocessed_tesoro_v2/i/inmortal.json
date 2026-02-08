@@ -3,14 +3,17 @@
   "term": "inmortal",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fueron igualmente abundantes las denominaciones recogidas para la",
+      "consolidated_definition": "Margarita común, de botón amarillo y pétalos blancos.",
+      "en_consolidated_definition": "Common daisy, with yellow button and white petals.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7562",
-        "semantic_similarity_score": 0.7562,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -44,22 +47,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Fueron igualmente abundantes las denominaciones recogidas para la margarita de botón amarillo y hojas blancas inmortal, Naranjito.",
-          "La margarita de botón amarillo y hojas blancas.",
           "Margarita común, de botón amarillo y pétalos blancos."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ". Siempreviva, planta de bellas flores. . .",
+      "consolidated_definition": "La siempreviva es una planta conocida por sus hermosas flores.",
+      "en_consolidated_definition": "The sempervivum is a plant known for its beautiful flowers.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.677",
         "semantic_similarity_score": 0.677,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -93,14 +97,17 @@
       }
     },
     "3": {
-      "consolidated_definition": "Árbol",
+      "consolidated_definition": "Árbol de hasta 7 m de altura, de tronco espinoso, hojas trifolioladas y alternas, flores tubulares rojas y frutos leguminosos, rojos o negros cuando están maduros. Fabaceae, Erythrina spp.",
+      "en_consolidated_definition": "Tree reaching a height of up to 7 m, with thorny trunk, trifoliate and alternate leaves, tubular red flowers, and leguminous fruits that are red or black when mature. Fabaceae, Erythrina spp.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2533",
-        "semantic_similarity_score": 0.2533,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -129,17 +136,20 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Árbol. Variedad de bucaré.",
           "Árbol de hasta 7 m de altura, de tronco espinoso, hojas trifolioladas y alternas, flores tubulares rojas y frutos leguminosos, rojos o negros cuando están maduros. Fabaceae, Erythrina spp."
         ]
       }
     }
   },
   "es_definitions": [
-    "Fueron igualmente abundantes las denominaciones recogidas para la",
-    ". Siempreviva, planta de bellas flores. . .",
-    "Árbol"
+    "Margarita común, de botón amarillo y pétalos blancos.",
+    "La siempreviva es una planta conocida por sus hermosas flores.",
+    "Árbol de hasta 7 m de altura, de tronco espinoso, hojas trifolioladas y alternas, flores tubulares rojas y frutos leguminosos, rojos o negros cuando están maduros. Fabaceae, Erythrina spp."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Common daisy, with yellow button and white petals.",
+    "The sempervivum is a plant known for its beautiful flowers.",
+    "Tree reaching a height of up to 7 m, with thorny trunk, trifoliate and alternate leaves, tubular red flowers, and leguminous fruits that are red or black when mature. Fabaceae, Erythrina spp."
+  ],
   "source": "https://tesoro.pr"
 }

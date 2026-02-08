@@ -3,15 +3,18 @@
   "term": "cañonero, ra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "\"Bravo\": adjetivo que se refiere a una persona o cosa valiente, audaz o admirable.",
+      "consolidated_definition": "Referido a persona, embustera, traidora.",
+      "en_consolidated_definition": "Decepcionante, embustera, traidora.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.4011",
-        "semantic_similarity_score": 0.4011,
-        "cluster_count": 7,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "adjetivo"
         ],
@@ -44,26 +47,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Bravo, atrevido",
-          "Informal, embustero, traidor.",
-          "Ladrón.",
-          "Referido a persona, embustera, traidora.",
-          "Referido a persona, que deja plantadas a otras.",
-          "Referido a persona, brava, atrevida, que se impone por la fuerza.",
-          "Referido a persona, agresiva conduciendo un automóvil."
+          "Referido a persona, embustera, traidora."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Jugador de béisbol que se caracteriza por batear la pelota con mucha frecuencia.",
+      "consolidated_definition": "En el beisbol, jugador que batea la pelota con mucha frecuencia.",
+      "en_consolidated_definition": "In baseball, a player who frequently hits the ball with the bat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo"
         ],
@@ -93,9 +93,12 @@
     }
   },
   "es_definitions": [
-    "\"Bravo\": adjetivo que se refiere a una persona o cosa valiente, audaz o admirable.",
-    "Jugador de béisbol que se caracteriza por batear la pelota con mucha frecuencia."
+    "Referido a persona, embustera, traidora.",
+    "En el beisbol, jugador que batea la pelota con mucha frecuencia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Decepcionante, embustera, traidora.",
+    "In baseball, a player who frequently hits the ball with the bat."
+  ],
   "source": "https://tesoro.pr"
 }

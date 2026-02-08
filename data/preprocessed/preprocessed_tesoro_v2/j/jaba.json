@@ -3,15 +3,18 @@
   "term": "jaba",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cesta indígena hecha de hojas de palma de",
+      "consolidated_definition": "Una cesta indígena es un objeto tradicional hecho a partir de las hojas de la palma de yarey.",
+      "en_consolidated_definition": "A traditional basket made from the leaves of the yarey palm.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
         "definition_stability": "Stability: 0.4931",
         "semantic_similarity_score": 0.4931,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -54,15 +57,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pedazo pequeño de jabón",
+      "consolidated_definition": "Jaboncito: pedazo pequeño de jabón.",
+      "en_consolidated_definition": "Soaplette: small piece of soap.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.6297",
-        "semantic_similarity_score": 0.6297,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6093",
+        "semantic_similarity_score": 0.6093,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -97,7 +103,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pedazo pequeño de jabón.",
+          "(jíbaro) Pedazo pequeño de jabón.",
           "Pastilla de jabón desgastada.",
           "Rodaja o loncha de cualquier cosa.",
           "Pedazo pequeño de jabón."
@@ -105,15 +111,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Inflamación que les da a los caballos en",
+      "consolidated_definition": "Flema: Crecimiento en el paladar del caballo que le dificulta comer; se cura cortándola y cauterizándola.",
+      "en_consolidated_definition": "Flema: Growth on the horse's palate that hinders its ability to eat; it is cured by cutting and cauterizing it.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5792",
         "semantic_similarity_score": 0.5792,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -149,15 +158,18 @@
       }
     },
     "4": {
-      "consolidated_definition": "Semilla",
+      "consolidated_definition": "Semilla: En el contexto de las fabáceas, se refiere a dos especies específicas: Phaseolus lunatus (jaba de enredadera que puede ser tóxica para los animales) y Canavalia ensiformis (jaba de burro utilizada tradicionalmente para combatir la fatiga).",
+      "en_consolidated_definition": "Seed: In the context of legumes, it refers to two specific species: Phaseolus lunatus (a type of bean vine that can be toxic to animals) and Canavalia ensiformis (burro bean traditionally used to combat fatigue).",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4862",
         "semantic_similarity_score": 0.4862,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -192,11 +204,16 @@
     }
   },
   "es_definitions": [
-    "Cesta indígena hecha de hojas de palma de",
-    "Pedazo pequeño de jabón",
-    "Inflamación que les da a los caballos en",
-    "Semilla"
+    "Una cesta indígena es un objeto tradicional hecho a partir de las hojas de la palma de yarey.",
+    "Jaboncito: pedazo pequeño de jabón.",
+    "Flema: Crecimiento en el paladar del caballo que le dificulta comer; se cura cortándola y cauterizándola.",
+    "Semilla: En el contexto de las fabáceas, se refiere a dos especies específicas: Phaseolus lunatus (jaba de enredadera que puede ser tóxica para los animales) y Canavalia ensiformis (jaba de burro utilizada tradicionalmente para combatir la fatiga)."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A traditional basket made from the leaves of the yarey palm.",
+    "Soaplette: small piece of soap.",
+    "Flema: Growth on the horse's palate that hinders its ability to eat; it is cured by cutting and cauterizing it.",
+    "Seed: In the context of legumes, it refers to two specific species: Phaseolus lunatus (a type of bean vine that can be toxic to animals) and Canavalia ensiformis (burro bean traditionally used to combat fatigue)."
+  ],
   "source": "https://tesoro.pr"
 }

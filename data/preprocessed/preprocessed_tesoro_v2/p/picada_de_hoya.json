@@ -3,9 +3,12 @@
   "term": "picada de hoya",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver picada a la cabeza del ala",
+      "consolidated_definition": "Ver picada a la cabeza del ala .",
+      "en_consolidated_definition": "Maintain a cut to the head of the wing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver picada a la cabeza del ala"
+    "Ver picada a la cabeza del ala ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Maintain a cut to the head of the wing."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "carcacha",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Objeto mecánico en mal estado o sin utilidad.",
+      "consolidated_definition": "Máquina, aparato o vehículo inútiles y desvencijados.",
+      "en_consolidated_definition": "Useless and rickety machine, apparatus or vehicle.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Objeto mecánico en mal estado o sin utilidad."
+    "Máquina, aparato o vehículo inútiles y desvencijados."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Useless and rickety machine, apparatus or vehicle."
+  ],
   "source": "https://tesoro.pr"
 }

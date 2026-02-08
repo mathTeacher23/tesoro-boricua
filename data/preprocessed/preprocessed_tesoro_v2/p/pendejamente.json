@@ -3,9 +3,12 @@
   "term": "pendejamente",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De forma sencilla",
+      "consolidated_definition": "De forma sencilla, sin complicaciones y como si no tuviera importancia.",
+      "en_consolidated_definition": "En forma simple, sin complicaciones y como si no tuviera importancia.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "De forma sencilla"
+    "De forma sencilla, sin complicaciones y como si no tuviera importancia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "En forma simple, sin complicaciones y como si no tuviera importancia."
+  ],
   "source": "https://tesoro.pr"
 }

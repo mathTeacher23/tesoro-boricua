@@ -3,9 +3,12 @@
   "term": "maletero",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las peleas de gallos",
+      "consolidated_definition": "En las peleas de gallos, animal poco diestro en el tiro de la espuela.",
+      "en_consolidated_definition": "In cockfights, an animal that is not skilled in the spur kick.\n\nNota: En este contexto, \"peleas de gallos\" se refiere a las peleadas entre gallos en un entorno de combate controlado, una tradición cultural en Puerto Rico y otros países.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En las peleas de gallos"
+    "En las peleas de gallos, animal poco diestro en el tiro de la espuela."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In cockfights, an animal that is not skilled in the spur kick.\n\nNota: En este contexto, \"peleas de gallos\" se refiere a las peleadas entre gallos en un entorno de combate controlado, una tradición cultural en Puerto Rico y otros países."
+  ],
   "source": "https://tesoro.pr"
 }

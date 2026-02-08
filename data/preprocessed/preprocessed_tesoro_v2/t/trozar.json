@@ -3,9 +3,12 @@
   "term": "trozar",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cortar el tronco del árbol en trozas para",
+      "consolidated_definition": "Cortar el tronco del árbol en trozas para aserrarlo. “Picar de hacha”.",
+      "en_consolidated_definition": "To cut the trunk of a tree into logs for sawing. \"To chop with an axe.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -44,8 +47,10 @@
     }
   },
   "es_definitions": [
-    "Cortar el tronco del árbol en trozas para"
+    "Cortar el tronco del árbol en trozas para aserrarlo. “Picar de hacha”."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To cut the trunk of a tree into logs for sawing. \"To chop with an axe.\""
+  ],
   "source": "https://tesoro.pr"
 }

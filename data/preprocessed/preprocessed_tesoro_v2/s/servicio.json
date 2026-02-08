@@ -3,9 +3,12 @@
   "term": "servicio",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En béisbol, el equipo que ocupa el campo para que el otro batee.",
+      "en_consolidated_definition": "In baseball, the team occupying the field for the opposing team to bat against.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Retrete",
+      "consolidated_definition": "Retrete. Cuarto de aseo.",
+      "en_consolidated_definition": "Water closet. Bathroom or lavatory room.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "En béisbol",
-    "Retrete"
+    "En béisbol, el equipo que ocupa el campo para que el otro batee.",
+    "Retrete. Cuarto de aseo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In baseball, the team occupying the field for the opposing team to bat against.",
+    "Water closet. Bathroom or lavatory room."
+  ],
   "source": "https://tesoro.pr"
 }

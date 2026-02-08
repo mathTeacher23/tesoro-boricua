@@ -3,9 +3,12 @@
   "term": "iambó",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En el sureste del país",
+      "consolidated_definition": "En el sureste del país, variante denominativa de menor extensión y carácter excepcional de quingombó.",
+      "en_consolidated_definition": "In the southeastern region of the country, a variant of lesser extent and exceptional character of quingombó.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En el sureste del país"
+    "En el sureste del país, variante denominativa de menor extensión y carácter excepcional de quingombó."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the southeastern region of the country, a variant of lesser extent and exceptional character of quingombó."
+  ],
   "source": "https://tesoro.pr"
 }

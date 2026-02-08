@@ -3,15 +3,18 @@
   "term": "punzonazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Puntazo",
+      "consolidated_definition": "\"Puntazo\": herida hecha con un punzón.",
+      "en_consolidated_definition": "Puncture wound: a wound inflicted with a pointed instrument.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3095",
         "semantic_similarity_score": 0.3095,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Puntazo"
+    "\"Puntazo\": herida hecha con un punzón."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Puncture wound: a wound inflicted with a pointed instrument."
+  ],
   "source": "https://tesoro.pr"
 }

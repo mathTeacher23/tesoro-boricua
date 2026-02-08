@@ -3,9 +3,12 @@
   "term": "ser de menudo para acá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Alegación de juventud",
+      "consolidated_definition": "Alegación de juventud.",
+      "en_consolidated_definition": "Claim of youthfulness.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Alegación de juventud"
+    "Alegación de juventud."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Claim of youthfulness."
+  ],
   "source": "https://tesoro.pr"
 }

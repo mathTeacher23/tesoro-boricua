@@ -3,15 +3,18 @@
   "term": "brazo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En la región correspondiente al asa del mango de la pala se encuentran diversas formas regionales que varían en todo el país.",
+      "consolidated_definition": "En la contestación relativa al asa del mango de la pala se reunieron varias formas, entremezcladas por todo el país: brazo, Vegas.",
+      "en_consolidated_definition": "In the response related to the handle of the mango's shovel, various forms were gathered, intermingled throughout the country: arm, Vegas.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En la región correspondiente al asa del mango de la pala se encuentran diversas formas regionales que varían en todo el país."
+    "En la contestación relativa al asa del mango de la pala se reunieron varias formas, entremezcladas por todo el país: brazo, Vegas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the response related to the handle of the mango's shovel, various forms were gathered, intermingled throughout the country: arm, Vegas."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "meaíto",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Árbol de hasta 20 m de altura",
+      "consolidated_definition": "Árbol de hasta 20 m de altura, de follaje denso y copa redondeada, hojas compuestas de folíolos ásperos al tacto, inflorescencia en racimos y flores grandes de color rojo anaranjado con el borde amarillento. Bignoniaceae, Spathodea campanulata.",
+      "en_consolidated_definition": "Tree reaching heights of up to 20 m, with dense foliage and a rounded crown, compound leaves with rough-textured leaflets, inflorescence in racemes and large flowers of reddish-orange color with yellowish edges. Bignoniaceae, Spathodea campanulata.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cine de barrio",
+      "consolidated_definition": "Cine de barrio.",
+      "en_consolidated_definition": "Neighborhood cinema.\n\nNota: En este contexto, \"barrio\" se refiere a un área urbana o comunidad local en Puerto Rico, por lo que la traducción busca mantener el énfasis en la proximidad geográfica y cultural de la película.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -76,9 +82,12 @@
     }
   },
   "es_definitions": [
-    "Árbol de hasta 20 m de altura",
-    "Cine de barrio"
+    "Árbol de hasta 20 m de altura, de follaje denso y copa redondeada, hojas compuestas de folíolos ásperos al tacto, inflorescencia en racimos y flores grandes de color rojo anaranjado con el borde amarillento. Bignoniaceae, Spathodea campanulata.",
+    "Cine de barrio."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Tree reaching heights of up to 20 m, with dense foliage and a rounded crown, compound leaves with rough-textured leaflets, inflorescence in racemes and large flowers of reddish-orange color with yellowish edges. Bignoniaceae, Spathodea campanulata.",
+    "Neighborhood cinema.\n\nNota: En este contexto, \"barrio\" se refiere a un área urbana o comunidad local en Puerto Rico, por lo que la traducción busca mantener el énfasis en la proximidad geográfica y cultural de la película."
+  ],
   "source": "https://tesoro.pr"
 }

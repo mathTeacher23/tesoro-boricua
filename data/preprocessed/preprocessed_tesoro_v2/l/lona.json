@@ -3,14 +3,17 @@
   "term": "lona",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Saco grande",
+      "consolidated_definition": "En la industria cafetalera, saco grande usado principalmente para guardar granos secos de café.",
+      "en_consolidated_definition": "In the coffee industry, large sack used primarily to store dry coffee beans.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
-        "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4944",
-        "semantic_similarity_score": 0.4944,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -51,17 +54,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Saco grande.",
-          "Saco grande que se usa para guardar café seco ya sea cáscara blanda o collor. Estos sacos pueden tener otros usos también.",
-          "sobre toldas o lonas hechas de sacos unidos por costura .",
           "En la industria cafetalera, saco grande usado principalmente para guardar granos secos de café."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Suelo del cuadrilátero de boxeo",
+      "consolidated_definition": "Suelo del cuadrilátero de boxeo.",
+      "en_consolidated_definition": "Ring of the boxing square.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -96,9 +99,12 @@
     }
   },
   "es_definitions": [
-    "Saco grande",
-    "Suelo del cuadrilátero de boxeo"
+    "En la industria cafetalera, saco grande usado principalmente para guardar granos secos de café.",
+    "Suelo del cuadrilátero de boxeo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "In the coffee industry, large sack used primarily to store dry coffee beans.",
+    "Ring of the boxing square."
+  ],
   "source": "https://tesoro.pr"
 }

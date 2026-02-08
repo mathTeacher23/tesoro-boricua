@@ -3,15 +3,18 @@
   "term": "traquear",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Beber licor",
+      "consolidated_definition": "La bebida de licor es el consumo de alcohol en forma líquida.",
+      "en_consolidated_definition": "The liquor beverage is the consumption of alcohol in liquid form.\n\nNota: En este caso, no se requiere una traducción más específica para el español puertorriqueño, ya que la definición es general y aplicable a diferentes contextos. Sin embargo, si fuera necesario, podría incluirse un término cultural específico de Puerto Rico en la definición original para reflejar su contexto local.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.6653",
         "semantic_similarity_score": 0.6653,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "verbo transitivo"
         ],
@@ -46,14 +49,17 @@
       }
     },
     "2": {
-      "consolidated_definition": ". Probar o hacer examen o experimento de las cualidades de una persona, cosa o animal. “Con unas tijeras viejas —limpia el hombre las orejas —del esmirriado chiringo, —luego de haber traqueado —el pollo rubio quemado —que va a jugar el domingo.” Virgilio Dávila, “Montañesas”, Puerto Rico Ilustrado, septiembre 1, 1934.",
+      "consolidated_definition": "Entrenar alguien a un animal, especialmente a gallos y a caballos para competir.",
+      "en_consolidated_definition": "To train an animal for competition, especially cocks and horses.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 5,
-        "num_cleaned_definitions": 5,
-        "definition_stability": "Stability: 0.5224",
-        "semantic_similarity_score": 0.5224,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "verbo transitivo"
@@ -97,19 +103,18 @@
           "traqueo"
         ],
         "reference_definitions": [
-          ". Probar o hacer examen o experimento de las cualidades de una persona, cosa o animal. “Con unas tijeras viejas —limpia el hombre las orejas —del esmirriado chiringo, —luego de haber traqueado —el pollo rubio quemado —que va a jugar el domingo.” Virgilio Dávila, “Montañesas”, Puerto Rico Ilustrado, septiembre 1, 1934.",
-          "Llevar a una persona de la Ceca a la Meca. .",
-          ". Probar o hacer examen y experimento de cualidades de una persona, cosa o animal.",
-          "Entrenar para competir. Úsase especialmente en gallos y caballos.",
           "Entrenar alguien a un animal, especialmente a gallos y a caballos para competir."
         ]
       }
     }
   },
   "es_definitions": [
-    "Beber licor",
-    ". Probar o hacer examen o experimento de las cualidades de una persona, cosa o animal. “Con unas tijeras viejas —limpia el hombre las orejas —del esmirriado chiringo, —luego de haber traqueado —el pollo rubio quemado —que va a jugar el domingo.” Virgilio Dávila, “Montañesas”, Puerto Rico Ilustrado, septiembre 1, 1934."
+    "La bebida de licor es el consumo de alcohol en forma líquida.",
+    "Entrenar alguien a un animal, especialmente a gallos y a caballos para competir."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The liquor beverage is the consumption of alcohol in liquid form.\n\nNota: En este caso, no se requiere una traducción más específica para el español puertorriqueño, ya que la definición es general y aplicable a diferentes contextos. Sin embargo, si fuera necesario, podría incluirse un término cultural específico de Puerto Rico en la definición original para reflejar su contexto local.",
+    "To train an animal for competition, especially cocks and horses."
+  ],
   "source": "https://tesoro.pr"
 }

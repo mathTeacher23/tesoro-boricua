@@ -3,15 +3,18 @@
   "term": "pre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Adicto en proceso de rehabilitación",
+      "consolidated_definition": "Persona que está recibiendo tratamiento o apoyo para superar un hábito o comportamiento adictivo.",
+      "en_consolidated_definition": "Persona que está recibiendo tratamiento o apoyo para superar un hábito o comportamiento adictivo.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.4056",
         "semantic_similarity_score": 0.4056,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -46,8 +49,10 @@
     }
   },
   "es_definitions": [
-    "Adicto en proceso de rehabilitación"
+    "Persona que está recibiendo tratamiento o apoyo para superar un hábito o comportamiento adictivo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que está recibiendo tratamiento o apoyo para superar un hábito o comportamiento adictivo."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -4,8 +4,11 @@
   "superscripts": {
     "1": {
       "consolidated_definition": "Clavillo: nombre común para varias especies de plantas herbáceas, incluyendo Jussiaea palustris y Centella asiatica.",
+      "en_consolidated_definition": "Buttonwort: common name for various species of herbaceous plants, including Jussiaea palustris and Centella asiatica.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
@@ -45,15 +48,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "La parte del objeto de limpieza conocido como escoba que sirve para agarrar la paja o el alambre que la sostiene.",
+      "consolidated_definition": "Parte de la escoba … para agarrar la paja. También alambre, el alambre de la escoba.",
+      "en_consolidated_definition": "Handle of the broom ... for grasping the bristles. Also, wire, the wire of the broom.\n\nNota: En este contexto, \"paja\" se refiere a las cerdas de la escoba, no a la paja como material vegetal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -85,8 +91,11 @@
   },
   "es_definitions": [
     "Clavillo: nombre común para varias especies de plantas herbáceas, incluyendo Jussiaea palustris y Centella asiatica.",
-    "La parte del objeto de limpieza conocido como escoba que sirve para agarrar la paja o el alambre que la sostiene."
+    "Parte de la escoba … para agarrar la paja. También alambre, el alambre de la escoba."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Buttonwort: common name for various species of herbaceous plants, including Jussiaea palustris and Centella asiatica.",
+    "Handle of the broom ... for grasping the bristles. Also, wire, the wire of the broom.\n\nNota: En este contexto, \"paja\" se refiere a las cerdas de la escoba, no a la paja como material vegetal."
+  ],
   "source": "https://tesoro.pr"
 }

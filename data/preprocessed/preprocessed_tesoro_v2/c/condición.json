@@ -3,15 +3,18 @@
   "term": "condición",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Enfermedad: estado en que se encuentra una persona cuando tiene algún trastorno o condición patológica.",
+      "consolidated_definition": "med. Enfermedad, dolencia, afección. Estado en que se encuentra una persona cuando tiene alguna enfermedad. Desvío semántico, usual. DRAE 2001: estado natural de las cosas o la situación en que se encuentran. La Enfermedad de Reflujo Gastroesofágico se define como los síntomas y/o daños producidos cuando los fluidos del estómago suben al esófago. Esta condición puede producir erosiones, úlceras y estrechez del canal esofágico (Revista VEA, 06-10-02)",
+      "en_consolidated_definition": "Medical condition, illness, affliction. State in which a person is when they have any disease. Semantic deviation, usual. DRAE 2001: natural state of things or the situation in which they are found. Gastroesophageal Reflux Disease is defined as symptoms and/or damage produced when stomach fluids rise into the esophagus. This condition may produce erosions, ulcers, and narrowing of the esophageal canal (VEA Review, 06-10-02)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Enfermedad: estado en que se encuentra una persona cuando tiene algún trastorno o condición patológica."
+    "med. Enfermedad, dolencia, afección. Estado en que se encuentra una persona cuando tiene alguna enfermedad. Desvío semántico, usual. DRAE 2001: estado natural de las cosas o la situación en que se encuentran. La Enfermedad de Reflujo Gastroesofágico se define como los síntomas y/o daños producidos cuando los fluidos del estómago suben al esófago. Esta condición puede producir erosiones, úlceras y estrechez del canal esofágico (Revista VEA, 06-10-02)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Medical condition, illness, affliction. State in which a person is when they have any disease. Semantic deviation, usual. DRAE 2001: natural state of things or the situation in which they are found. Gastroesophageal Reflux Disease is defined as symptoms and/or damage produced when stomach fluids rise into the esophagus. This condition may produce erosions, ulcers, and narrowing of the esophageal canal (VEA Review, 06-10-02)"
+  ],
   "source": "https://tesoro.pr"
 }

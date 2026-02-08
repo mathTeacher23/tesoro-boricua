@@ -3,15 +3,18 @@
   "term": "chorro",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Corriente marina. Es un movimiento constante del agua en el océano, causado por la combinación de factores como las mareas, los vientos y la topografía submarina.",
+      "consolidated_definition": "Corriente de agua marina o de un río.",
+      "en_consolidated_definition": "Marine or river current of water.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6138",
-        "semantic_similarity_score": 0.6138,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Corriente marina.",
           "Corriente de agua marina o de un río."
         ]
       }
     }
   },
   "es_definitions": [
-    "Corriente marina. Es un movimiento constante del agua en el océano, causado por la combinación de factores como las mareas, los vientos y la topografía submarina."
+    "Corriente de agua marina o de un río."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Marine or river current of water."
+  ],
   "source": "https://tesoro.pr"
 }

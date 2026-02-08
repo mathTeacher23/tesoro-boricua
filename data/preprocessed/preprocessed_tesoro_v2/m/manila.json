@@ -3,9 +3,12 @@
   "term": "manila",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Cierta clase de papel o cartoncillo",
+      "consolidated_definition": "Cierta clase de papel o cartoncillo. Fabricado a base de fibra de cáñamo de color amarillento. Papel manila. Sobre manila.",
+      "en_consolidated_definition": "A certain type of paper or cardstock made from yellowish hemp fiber. Manila paper. Manila envelope.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Cierta clase de papel o cartoncillo"
+    "Cierta clase de papel o cartoncillo. Fabricado a base de fibra de cáñamo de color amarillento. Papel manila. Sobre manila."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "A certain type of paper or cardstock made from yellowish hemp fiber. Manila paper. Manila envelope."
+  ],
   "source": "https://tesoro.pr"
 }

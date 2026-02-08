@@ -3,14 +3,17 @@
   "term": "sangría",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Zanja pequeña que desemboca en la zanja grande",
+      "consolidated_definition": "Zanja que se hace en un terreno para que fluya el agua sobrante o para secar el terreno.",
+      "en_consolidated_definition": "Ditch that is dug in a terrain to allow excess water to flow or to dry the land.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.5986",
-        "semantic_similarity_score": 0.5986,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -39,15 +42,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Zanja pequeña que desemboca en la zanja grande llamada maestra.",
           "Zanja que se hace en un terreno para que fluya el agua sobrante o para secar el terreno."
         ]
       }
     }
   },
   "es_definitions": [
-    "Zanja pequeña que desemboca en la zanja grande"
+    "Zanja que se hace en un terreno para que fluya el agua sobrante o para secar el terreno."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Ditch that is dug in a terrain to allow excess water to flow or to dry the land."
+  ],
   "source": "https://tesoro.pr"
 }

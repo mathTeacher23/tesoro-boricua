@@ -3,9 +3,12 @@
   "term": "rompeola de piedra",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver rompeola",
+      "consolidated_definition": "Ver rompeola .",
+      "en_consolidated_definition": "See rompeola.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver rompeola"
+    "Ver rompeola ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See rompeola."
+  ],
   "source": "https://tesoro.pr"
 }

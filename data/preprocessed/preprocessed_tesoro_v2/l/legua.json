@@ -3,9 +3,12 @@
   "term": "legua",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Medida de superficie",
+      "consolidated_definition": "Medida de superficie. La de esta isla tiene 4240 metros, mientras que la legua española es de 5572 metros.",
+      "en_consolidated_definition": "Area of surface measurement. That of this island is 4240 meters, while the Spanish league is 5572 meters.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Medida de superficie"
+    "Medida de superficie. La de esta isla tiene 4240 metros, mientras que la legua española es de 5572 metros."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Area of surface measurement. That of this island is 4240 meters, while the Spanish league is 5572 meters."
+  ],
   "source": "https://tesoro.pr"
 }

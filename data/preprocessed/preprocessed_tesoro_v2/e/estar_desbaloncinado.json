@@ -3,9 +3,12 @@
   "term": "estar desbaloncinado",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Maltrecho",
+      "consolidated_definition": "Maltrecho. En mal estado de salud.",
+      "en_consolidated_definition": "En mal estado de salud.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Maltrecho"
+    "Maltrecho. En mal estado de salud."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "En mal estado de salud."
+  ],
   "source": "https://tesoro.pr"
 }

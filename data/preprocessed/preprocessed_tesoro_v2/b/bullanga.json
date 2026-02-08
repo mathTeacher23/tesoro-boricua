@@ -3,15 +3,18 @@
   "term": "bullanga",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Fiesta informal: reunión social no oficial y casual, generalmente celebrada en un entorno familiar o privado, similar a una juerga.",
+      "consolidated_definition": "Fiesta informal. Bachata. Juerga.",
+      "en_consolidated_definition": "Informal gathering or party, typically featuring bachata music and lively socializing.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Fiesta informal: reunión social no oficial y casual, generalmente celebrada en un entorno familiar o privado, similar a una juerga."
+    "Fiesta informal. Bachata. Juerga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Informal gathering or party, typically featuring bachata music and lively socializing."
+  ],
   "source": "https://tesoro.pr"
 }

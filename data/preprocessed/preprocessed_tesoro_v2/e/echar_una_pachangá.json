@@ -3,15 +3,18 @@
   "term": "echar una pachangá",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Pachangá: baile popular que consiste en bailar una punta o un ritmo característico, especialmente en fiestas y reuniones sociales.",
+      "en_consolidated_definition": "Pachangá: a popular dance characterized by dancing to a distinctive point or rhythm, especially at social gatherings and parties.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.513",
         "semantic_similarity_score": 0.513,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "locución verbal"
         ],
@@ -49,9 +52,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Bailar por un rato",
+      "consolidated_definition": "Bailar por un rato.",
+      "en_consolidated_definition": "Dance for a while.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -85,9 +91,12 @@
     }
   },
   "es_definitions": [
-    "vulg",
-    "Bailar por un rato"
+    "Pachangá: baile popular que consiste en bailar una punta o un ritmo característico, especialmente en fiestas y reuniones sociales.",
+    "Bailar por un rato."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Pachangá: a popular dance characterized by dancing to a distinctive point or rhythm, especially at social gatherings and parties.",
+    "Dance for a while.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,9 +3,12 @@
   "term": "tener la cárcel de garaje",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Reincidir en pena de cárcel",
+      "consolidated_definition": "Reincidir en pena de cárcel.",
+      "en_consolidated_definition": "To relapse into imprisonment.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Reincidir en pena de cárcel"
+    "Reincidir en pena de cárcel."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To relapse into imprisonment."
+  ],
   "source": "https://tesoro.pr"
 }

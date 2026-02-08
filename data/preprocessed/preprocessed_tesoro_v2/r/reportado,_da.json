@@ -3,9 +3,12 @@
   "term": "reportado, da",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Trabajador que",
+      "consolidated_definition": "Trabajador que, con la anuencia del Fondo del Seguro del Estado, o de su patrono, por enfermedad o accidente, no está concurriendo a su trabajo.",
+      "en_consolidated_definition": "Employee who, with the approval of the State Insurance Fund or their employer, is absent from work due to illness or accident.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -41,8 +44,10 @@
     }
   },
   "es_definitions": [
-    "Trabajador que"
+    "Trabajador que, con la anuencia del Fondo del Seguro del Estado, o de su patrono, por enfermedad o accidente, no está concurriendo a su trabajo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Employee who, with the approval of the State Insurance Fund or their employer, is absent from work due to illness or accident."
+  ],
   "source": "https://tesoro.pr"
 }

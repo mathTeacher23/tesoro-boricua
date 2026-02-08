@@ -3,9 +3,12 @@
   "term": "dembow",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Baile con movimientos sensuales",
+      "consolidated_definition": "Baile con movimientos sensuales.",
+      "en_consolidated_definition": "Sensual dance with seductive movements.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Baile con movimientos sensuales"
+    "Baile con movimientos sensuales."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Sensual dance with seductive movements."
+  ],
   "source": "https://tesoro.pr"
 }

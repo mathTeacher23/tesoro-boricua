@@ -3,9 +3,12 @@
   "term": "gallo cobarde",
   "superscripts": {
     "1": {
-      "consolidated_definition": "En las peleas de gallos",
+      "consolidated_definition": "En las peleas de gallos, gallo huido.",
+      "en_consolidated_definition": "Fugitive rooster in cockfighting matches.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "En las peleas de gallos"
+    "En las peleas de gallos, gallo huido."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fugitive rooster in cockfighting matches."
+  ],
   "source": "https://tesoro.pr"
 }

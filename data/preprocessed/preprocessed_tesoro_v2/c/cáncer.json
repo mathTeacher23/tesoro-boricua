@@ -3,15 +3,18 @@
   "term": "cáncer",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Anhelo de matrimonio: Deseo o aspiración de contraer matrimonio en un futuro cercano.",
+      "consolidated_definition": "Anillo de matrimonio, especialmente el del hombre.",
+      "en_consolidated_definition": "Wedding ring, especially that of the man.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que la definición es general y aplicable a diferentes contextos. Sin embargo, si fuera necesario traducir un término cultural específico, lo haría con precisión y respetando el contexto original.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.8183",
-        "semantic_similarity_score": 0.8183,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -41,21 +44,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Anhelo de matrimonio.",
           "Anillo de matrimonio, especialmente el del hombre."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Cigarrillo: pequeño cilindro de tabaco enrollado en papel o material similar, objeto diseñado para ser fumado.",
+      "consolidated_definition": "Cigarrillo.",
+      "en_consolidated_definition": "Cigarillo.\n\nNote: En este caso, no hay términos culturales específicos de Puerto Rico que requieran preservar el contexto. La palabra \"cigarrillo\" es un término común en español y su traducción al inglés también es común.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -83,15 +88,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Persona que consume grandes cantidades de alimentos.",
+      "consolidated_definition": "Persona que come mucho.",
+      "en_consolidated_definition": "Gourmand \n\nPersona que come mucho.\n\nNota: En algunos contextos culturales de Puerto Rico, el término \"gourmand\" puede referirse a alguien que aprecia y disfruta la comida en su forma más auténtica y tradicional.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -120,10 +128,14 @@
     }
   },
   "es_definitions": [
-    "Anhelo de matrimonio: Deseo o aspiración de contraer matrimonio en un futuro cercano.",
-    "Cigarrillo: pequeño cilindro de tabaco enrollado en papel o material similar, objeto diseñado para ser fumado.",
-    "Persona que consume grandes cantidades de alimentos."
+    "Anillo de matrimonio, especialmente el del hombre.",
+    "Cigarrillo.",
+    "Persona que come mucho."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wedding ring, especially that of the man.\n\nNota: En este caso, no se requiere una traducción específica de un término cultural de Puerto Rico, ya que la definición es general y aplicable a diferentes contextos. Sin embargo, si fuera necesario traducir un término cultural específico, lo haría con precisión y respetando el contexto original.",
+    "Cigarillo.\n\nNote: En este caso, no hay términos culturales específicos de Puerto Rico que requieran preservar el contexto. La palabra \"cigarrillo\" es un término común en español y su traducción al inglés también es común.",
+    "Gourmand \n\nPersona que come mucho.\n\nNota: En algunos contextos culturales de Puerto Rico, el término \"gourmand\" puede referirse a alguien que aprecia y disfruta la comida en su forma más auténtica y tradicional."
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "yanicleca",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Torta de harina de trigo",
+      "consolidated_definition": "Torta de harina de trigo, leche, huevo, mantequilla y azúcar.",
+      "en_consolidated_definition": "Wheat flour cake made with milk, egg, butter, and sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 8,
         "num_cleaned_definitions": 8,
-        "definition_stability": "Stability: 0.6372",
-        "semantic_similarity_score": 0.6372,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6282",
+        "semantic_similarity_score": 0.6282,
+        "cluster_count": 6,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -68,7 +71,7 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Torta de harina de trigo, leche, huevo, mantequilla y azúcar.",
+          "(general) Torta de harina de trigo, leche, huevo, mantequilla y azúcar.",
           "Torta de harina de trigo hervida. También yaniclé.",
           "Torta de harina de trigo, leche, huevo, mantequilla y azúcar.",
           "De la harina de trigo amasada con agua de sal y manteca hacían yanicleclas, las que asaban en un burén o artesa de metal. Hoy se asan en caldero o en el horno. Se hace una sola yanicleca grande, redonda, que luego se sirve en pedazos.",
@@ -81,8 +84,10 @@
     }
   },
   "es_definitions": [
-    "Torta de harina de trigo"
+    "Torta de harina de trigo, leche, huevo, mantequilla y azúcar."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Wheat flour cake made with milk, egg, butter, and sugar."
+  ],
   "source": "https://tesoro.pr"
 }

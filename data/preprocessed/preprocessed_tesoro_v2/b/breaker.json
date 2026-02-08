@@ -3,15 +3,18 @@
   "term": "breaker",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Un interruptor grande de electricidad es un dispositivo diseñado para interrumpir parcial o totalmente el flujo eléctrico en un circuito o sistema eléctrico.",
+      "consolidated_definition": "Fusible o dispositivo que desconecta el circuito eléctrico cuando hay sobrecarga.",
+      "en_consolidated_definition": "Fusible or device that disconnects the electrical circuit when there is an overload.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6511",
-        "semantic_similarity_score": 0.6511,
-        "cluster_count": 2,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,16 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Interruptor grande de electricidad. Dispositivo diseñado para cortar parcial o totalmente la corriente eléctrica. Anglicismo crudo, usual. Prueba de ello es que si pones un plasma junto con otros equipos, vas a ver que se va caer el breaker",
           "Fusible o dispositivo que desconecta el circuito eléctrico cuando hay sobrecarga."
         ]
       }
     }
   },
   "es_definitions": [
-    "Un interruptor grande de electricidad es un dispositivo diseñado para interrumpir parcial o totalmente el flujo eléctrico en un circuito o sistema eléctrico."
+    "Fusible o dispositivo que desconecta el circuito eléctrico cuando hay sobrecarga."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Fusible or device that disconnects the electrical circuit when there is an overload."
+  ],
   "source": "https://tesoro.pr"
 }

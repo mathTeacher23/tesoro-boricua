@@ -3,9 +3,12 @@
   "term": "magazín",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver magacín",
+      "consolidated_definition": "Ver magacín .",
+      "en_consolidated_definition": "See magazine.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -26,8 +29,10 @@
     }
   },
   "es_definitions": [
-    "Ver magacín"
+    "Ver magacín ."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See magazine."
+  ],
   "source": "https://tesoro.pr"
 }

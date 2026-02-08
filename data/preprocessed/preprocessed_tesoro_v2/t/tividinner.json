@@ -3,9 +3,12 @@
   "term": "tividinner",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Comida congelada de fácil y rápida preparación que",
+      "consolidated_definition": "Comida congelada de fácil y rápida preparación que suele comerse mientras se ve televisión.",
+      "en_consolidated_definition": "Frozen food prepared for easy and quick consumption, often eaten while watching television.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Comida congelada de fácil y rápida preparación que"
+    "Comida congelada de fácil y rápida preparación que suele comerse mientras se ve televisión."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Frozen food prepared for easy and quick consumption, often eaten while watching television."
+  ],
   "source": "https://tesoro.pr"
 }

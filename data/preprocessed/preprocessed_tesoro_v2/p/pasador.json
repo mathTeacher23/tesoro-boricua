@@ -3,9 +3,12 @@
   "term": "pasador",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Para sostener la rueda",
+      "consolidated_definition": "Para sostener la rueda, que no se salga del eje. También barra.",
+      "en_consolidated_definition": "To maintain the wheel in place on its axis, preventing it from coming off. Also, to steady or support.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,9 +42,12 @@
       }
     },
     "2": {
-      "consolidated_definition": "Cerrojo que pasa de la puerta al marco",
+      "consolidated_definition": "Cerrojo que pasa de la puerta al marco. También pestillo, seguro.",
+      "en_consolidated_definition": "Latch that passes from the door to the frame. Also latch, lock.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -78,9 +84,12 @@
     }
   },
   "es_definitions": [
-    "Para sostener la rueda",
-    "Cerrojo que pasa de la puerta al marco"
+    "Para sostener la rueda, que no se salga del eje. También barra.",
+    "Cerrojo que pasa de la puerta al marco. También pestillo, seguro."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To maintain the wheel in place on its axis, preventing it from coming off. Also, to steady or support.",
+    "Latch that passes from the door to the frame. Also latch, lock."
+  ],
   "source": "https://tesoro.pr"
 }

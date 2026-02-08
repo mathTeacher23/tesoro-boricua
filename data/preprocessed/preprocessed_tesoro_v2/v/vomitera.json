@@ -3,15 +3,18 @@
   "term": "vomitera",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Vómitos. Vómitos continuados. Período del embarazo en que la mujer suele vomitar con frecuencia.",
+      "en_consolidated_definition": "Morning sickness. Prolonged vomiting. Period of pregnancy during which the woman typically vomits frequently.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.5",
         "semantic_similarity_score": 0.5,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -49,8 +52,10 @@
     }
   },
   "es_definitions": [
-    "vulg"
+    "Vómitos. Vómitos continuados. Período del embarazo en que la mujer suele vomitar con frecuencia."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Morning sickness. Prolonged vomiting. Period of pregnancy during which the woman typically vomits frequently."
+  ],
   "source": "https://tesoro.pr"
 }

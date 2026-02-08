@@ -3,9 +3,12 @@
   "term": "falfayota",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Inflamación de los ganglios submaxilares",
+      "consolidated_definition": "Inflamación de los ganglios submaxilares.",
+      "en_consolidated_definition": "Inflammation of the submaxillary lymph nodes.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Inflamación de los ganglios submaxilares"
+    "Inflamación de los ganglios submaxilares."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Inflammation of the submaxillary lymph nodes."
+  ],
   "source": "https://tesoro.pr"
 }

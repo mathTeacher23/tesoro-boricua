@@ -3,9 +3,12 @@
   "term": "palear",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". Trabajar con la pala. “¿En qué trabajas? —Paleando.” También se usa como activo. “Hay que palear esa tierra.”",
+      "consolidated_definition": "(T. en Am. Cen., Cuba y Chile). Trabajar con la pala. “¿En qué trabajas? —Paleando.” También se usa como activo. “Hay que palear esa tierra.”",
+      "en_consolidated_definition": "To work with a shovel; to dig or cultivate the land using a shovel. \"What do you do? —I'm shoveling.\" It is also used as an active verb. \"That land needs to be shoveled.\"",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -35,20 +38,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Trabajar con la pala. “¿En qué trabajas? —Paleando.” También se usa como activo. “Hay que palear esa tierra.”"
+          "(T. en Am. Cen., Cuba y Chile). Trabajar con la pala. “¿En qué trabajas? —Paleando.” También se usa como activo. “Hay que palear esa tierra.”"
         ]
       }
     },
     "2": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Vulg. Persona que bebe excesivamente alcohol, llegando a un estado de ebriedad.",
+      "en_consolidated_definition": "Person who excessively consumes alcohol, reaching a state of intoxication.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.4683",
         "semantic_similarity_score": 0.4683,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "verbo pronominal"
         ],
@@ -84,9 +90,12 @@
       }
     },
     "3": {
-      "consolidated_definition": "En béisbol",
+      "consolidated_definition": "En béisbol, darle a la pelota con el bate.",
+      "en_consolidated_definition": "To hit the ball with a bat in baseball.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -125,10 +134,14 @@
     }
   },
   "es_definitions": [
-    ". Trabajar con la pala. “¿En qué trabajas? —Paleando.” También se usa como activo. “Hay que palear esa tierra.”",
-    "vulg",
-    "En béisbol"
+    "(T. en Am. Cen., Cuba y Chile). Trabajar con la pala. “¿En qué trabajas? —Paleando.” También se usa como activo. “Hay que palear esa tierra.”",
+    "Vulg. Persona que bebe excesivamente alcohol, llegando a un estado de ebriedad.",
+    "En béisbol, darle a la pelota con el bate."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "To work with a shovel; to dig or cultivate the land using a shovel. \"What do you do? —I'm shoveling.\" It is also used as an active verb. \"That land needs to be shoveled.\"",
+    "Person who excessively consumes alcohol, reaching a state of intoxication.",
+    "To hit the ball with a bat in baseball."
+  ],
   "source": "https://tesoro.pr"
 }

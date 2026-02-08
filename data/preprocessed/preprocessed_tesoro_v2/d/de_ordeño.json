@@ -3,9 +3,12 @@
   "term": "de ordeño",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Se dice de las vacas y otros animales",
+      "consolidated_definition": "Se dice de las vacas y otros animales que están en tiempo de ser ordeñadas.",
+      "en_consolidated_definition": "Cows and other animals that are in the time of being milked.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Se dice de las vacas y otros animales"
+    "Se dice de las vacas y otros animales que están en tiempo de ser ordeñadas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cows and other animals that are in the time of being milked."
+  ],
   "source": "https://tesoro.pr"
 }

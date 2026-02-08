@@ -3,9 +3,12 @@
   "term": "más tarde cae el sereno",
   "superscripts": {
     "1": {
-      "consolidated_definition": "‘A su tiempo maduran las uvas’",
+      "consolidated_definition": "‘A su tiempo maduran las uvas’.",
+      "en_consolidated_definition": "At its appointed time, the grapes ripen.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -37,8 +40,10 @@
     }
   },
   "es_definitions": [
-    "‘A su tiempo maduran las uvas’"
+    "‘A su tiempo maduran las uvas’."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "At its appointed time, the grapes ripen."
+  ],
   "source": "https://tesoro.pr"
 }

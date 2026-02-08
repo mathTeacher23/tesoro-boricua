@@ -3,15 +3,18 @@
   "term": "turrumote",
   "superscripts": {
     "1": {
-      "consolidated_definition": "vulg",
+      "consolidated_definition": "Vulg. Terremoto.",
+      "en_consolidated_definition": "Earthquake (colloq.)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
         "definition_stability": "Stability: 0.445",
         "semantic_similarity_score": 0.445,
-        "cluster_count": null,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -51,8 +54,10 @@
     }
   },
   "es_definitions": [
-    "vulg"
+    "Vulg. Terremoto."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Earthquake (colloq.)"
+  ],
   "source": "https://tesoro.pr"
 }

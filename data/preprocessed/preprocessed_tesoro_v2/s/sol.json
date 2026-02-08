@@ -3,15 +3,18 @@
   "term": "sol",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Peso",
+      "consolidated_definition": "\"Peso\" se refiere a un objeto o carga que es muy grande y difícil de soportar.",
+      "en_consolidated_definition": "Weight refers to an object or load that is very large and difficult to bear.\n\nNota: En este contexto, \"bear\" se utiliza en su sentido de \"soportar o tolerar\", más que el animal.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.6352",
-        "semantic_similarity_score": 0.6352,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6827",
+        "semantic_similarity_score": 0.6827,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,20 +42,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Peso, puro, machacante.",
-          "Como términos en decadencia en el habla general de Puerto Rico pueden considerarse sol, peso, duro."
+          "Peso, puro, machacante. (Acep. fig., al parecer, de todos los países de lengua española.)",
+          "Como términos en decadencia en el habla general de Puerto Rico pueden considerarse ... sol, peso, duro."
         ]
       }
     },
     "2": {
-      "consolidated_definition": ". Alectis crinitus. Nombre con el cual se conoce el pez corcovado.",
+      "consolidated_definition": "Pez marino.",
+      "en_consolidated_definition": "Marine fish.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
-        "num_cleaned_definitions": 2,
-        "definition_stability": "Stability: 0.2882",
-        "semantic_similarity_score": 0.2882,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -81,15 +87,17 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". Alectis crinitus. Nombre con el cual se conoce el pez corcovado.",
           "Pez marino."
         ]
       }
     },
     "3": {
-      "consolidated_definition": "Nombre que recibe el pez rey en San",
+      "consolidated_definition": "Nombre que recibe el pez rey en San Juan.",
+      "en_consolidated_definition": "Common name for the kingfisher in San Juan.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -123,9 +131,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Pez de agua salada, relacionado con una organización",
+      "consolidated_definition": "Pez de agua salada, de hasta 60 cm de longitud, con el cuerpo cubierto de escamas pequeñas y ojos grandes, aletas dorsales y anales que tienen de 12 a 15 radios. Priacanthidae, Priacanthus arenatus.",
+      "en_consolidated_definition": "Saltwater fish, up to 24 inches in length, with the body covered in small scales and large eyes, dorsal and anal fins having 12 to 15 rays. Family Priacanthidae, species Priacanthus arenatus.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -160,11 +171,16 @@
     }
   },
   "es_definitions": [
-    "Peso",
-    ". Alectis crinitus. Nombre con el cual se conoce el pez corcovado.",
-    "Nombre que recibe el pez rey en San",
-    "Pez de agua salada, relacionado con una organización"
+    "\"Peso\" se refiere a un objeto o carga que es muy grande y difícil de soportar.",
+    "Pez marino.",
+    "Nombre que recibe el pez rey en San Juan.",
+    "Pez de agua salada, de hasta 60 cm de longitud, con el cuerpo cubierto de escamas pequeñas y ojos grandes, aletas dorsales y anales que tienen de 12 a 15 radios. Priacanthidae, Priacanthus arenatus."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Weight refers to an object or load that is very large and difficult to bear.\n\nNota: En este contexto, \"bear\" se utiliza en su sentido de \"soportar o tolerar\", más que el animal.",
+    "Marine fish.",
+    "Common name for the kingfisher in San Juan.",
+    "Saltwater fish, up to 24 inches in length, with the body covered in small scales and large eyes, dorsal and anal fins having 12 to 15 rays. Family Priacanthidae, species Priacanthus arenatus."
+  ],
   "source": "https://tesoro.pr"
 }

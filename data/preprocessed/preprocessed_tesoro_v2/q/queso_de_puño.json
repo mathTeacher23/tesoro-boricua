@@ -3,9 +3,12 @@
   "term": "queso de puño",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Queso hecho con leche fresca de vaca amasado",
+      "consolidated_definition": "Queso hecho con leche fresca de vaca amasado y exprimido a mano.",
+      "en_consolidated_definition": "Cheese made from fresh cow's milk kneaded and hand-expressed.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Queso hecho con leche fresca de vaca amasado"
+    "Queso hecho con leche fresca de vaca amasado y exprimido a mano."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Cheese made from fresh cow's milk kneaded and hand-expressed."
+  ],
   "source": "https://tesoro.pr"
 }

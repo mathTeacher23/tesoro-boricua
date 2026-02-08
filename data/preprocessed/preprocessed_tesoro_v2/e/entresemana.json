@@ -3,9 +3,12 @@
   "term": "entresemana",
   "superscripts": {
     "1": {
-      "consolidated_definition": "De lunes a viernes",
+      "consolidated_definition": "De lunes a viernes, durante la semana normal de trabajo.",
+      "en_consolidated_definition": "From Monday to Friday, during the standard working week.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "De lunes a viernes"
+    "De lunes a viernes, durante la semana normal de trabajo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "From Monday to Friday, during the standard working week."
+  ],
   "source": "https://tesoro.pr"
 }

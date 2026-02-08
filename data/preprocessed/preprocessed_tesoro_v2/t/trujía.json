@@ -3,9 +3,12 @@
   "term": "trujía",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Desagüe por donde se vacía el agua de",
+      "consolidated_definition": "Desagüe por donde se vacía el agua de las yolas.",
+      "en_consolidated_definition": "Drainage outlet through which the water from yolas is emptied.\n\nNota: La palabra \"yola\" se refiere a un tipo de embarcación tradicional en Puerto Rico.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Desagüe por donde se vacía el agua de"
+    "Desagüe por donde se vacía el agua de las yolas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Drainage outlet through which the water from yolas is emptied.\n\nNota: La palabra \"yola\" se refiere a un tipo de embarcación tradicional en Puerto Rico."
+  ],
   "source": "https://tesoro.pr"
 }

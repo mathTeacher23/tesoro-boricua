@@ -3,9 +3,12 @@
   "term": "paquin",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Lugar donde se envasa el azúcar refinada para",
+      "consolidated_definition": "Lugar donde se envasa el azúcar refinada para distibuirla al mercado.",
+      "en_consolidated_definition": "Facility where refined sugar is packaged for distribution to the market.\n\nNota: En este caso, \"distibuirla\" se traduce como \"distribution\", ya que es un término más formal y preciso para describir el proceso de enviar productos al mercado.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -42,8 +45,10 @@
     }
   },
   "es_definitions": [
-    "Lugar donde se envasa el azúcar refinada para"
+    "Lugar donde se envasa el azúcar refinada para distibuirla al mercado."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Facility where refined sugar is packaged for distribution to the market.\n\nNota: En este caso, \"distibuirla\" se traduce como \"distribution\", ya que es un término más formal y preciso para describir el proceso de enviar productos al mercado."
+  ],
   "source": "https://tesoro.pr"
 }

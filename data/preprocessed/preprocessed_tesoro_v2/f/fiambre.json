@@ -3,9 +3,12 @@
   "term": "fiambre",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Embutido de varios tamaños",
+      "consolidated_definition": "Embutido de varios tamaños, en forma de salchicha prensada, que se elabora con carne molida de gallina o cerdo.",
+      "en_consolidated_definition": "Canned sausage of various sizes, in the form of a pressed frankfurter, made with ground chicken or pork meat.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Embutido de varios tamaños"
+    "Embutido de varios tamaños, en forma de salchicha prensada, que se elabora con carne molida de gallina o cerdo."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Canned sausage of various sizes, in the form of a pressed frankfurter, made with ground chicken or pork meat."
+  ],
   "source": "https://tesoro.pr"
 }

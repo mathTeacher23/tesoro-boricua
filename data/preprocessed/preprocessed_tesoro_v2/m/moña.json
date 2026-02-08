@@ -3,9 +3,12 @@
   "term": "moña",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ver cogollo 2",
+      "consolidated_definition": "Ver cogollo 2 .",
+      "en_consolidated_definition": "See capitulum 2.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -25,14 +28,17 @@
       }
     },
     "2": {
-      "consolidated_definition": "Pequeño grupo de árboles de café, relacionado con un grupo",
+      "consolidated_definition": "Pequeño grupo de árboles de café.",
+      "en_consolidated_definition": "Small group of coffee trees.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
-        "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.7423",
-        "semantic_similarity_score": 0.7423,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -66,22 +72,23 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Pequeño grupo de árboles de café. “Una moña de café.”",
-          "Al cultivo del café, otro de los frutos mayores del país, corresponden vocablos del tenor de mancha o moña.",
           "Pequeño grupo de árboles de café."
         ]
       }
     },
     "3": {
-      "consolidated_definition": ". Lazo con que suelen adornarse la cabeza las mujeres; adorno cualquiera en forma de lazo., relacionado con un grupo",
+      "consolidated_definition": "Un moño es un adorno en forma de cinta o cordón que se utiliza para decorar la cabeza o el cabello de una persona, especialmente las mujeres.",
+      "en_consolidated_definition": "A bun is an ornament in the form of a ribbon or cord that is used to decorate the head or hair of a person, especially women.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 4,
         "num_cleaned_definitions": 4,
-        "definition_stability": "Stability: 0.4847",
-        "semantic_similarity_score": 0.4847,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.4914",
+        "semantic_similarity_score": 0.4914,
+        "cluster_count": 4,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -121,7 +128,7 @@
           "moñero"
         ],
         "reference_definitions": [
-          ". Lazo con que suelen adornarse la cabeza las mujeres; adorno cualquiera en forma de lazo.",
+          "(T. en otras partes de Am. y Esp.). Lazo con que suelen adornarse la cabeza las mujeres; adorno cualquiera en forma de lazo.",
           "Copete de pelo de ciertos peinados femeninos.",
           "Puede ser de cinta o puede ser la moña de la gallina o la moña que se hacen las mujeres en la parte delantera de la cabeza, arreglándose el resto del pelo en un moño o en otra forma.",
           "Grupo de plumas algo largas que tienen algunas aves un poco debajo de la cresta. A los gallos de pelea que son así los llaman moñús."
@@ -129,9 +136,12 @@
       }
     },
     "4": {
-      "consolidated_definition": "Fantasía",
+      "consolidated_definition": "Fantasía, imaginación.",
+      "en_consolidated_definition": "Fantasy, imagination.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -165,9 +175,12 @@
       }
     },
     "5": {
-      "consolidated_definition": "Mentira",
+      "consolidated_definition": "Mentira, engaño.",
+      "en_consolidated_definition": "Deceit, falsehood.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -201,9 +214,12 @@
       }
     },
     "6": {
-      "consolidated_definition": "Imitación que se hace de la conducta y, relacionado con un grupo",
+      "consolidated_definition": "Imitación que se hace de la conducta y hábitos de otras personas.",
+      "en_consolidated_definition": "Imitation of the behavior and habits of other people.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -238,13 +254,20 @@
     }
   },
   "es_definitions": [
-    "Ver cogollo 2",
-    "Pequeño grupo de árboles de café, relacionado con un grupo",
-    ". Lazo con que suelen adornarse la cabeza las mujeres; adorno cualquiera en forma de lazo., relacionado con un grupo",
-    "Fantasía",
-    "Mentira",
-    "Imitación que se hace de la conducta y, relacionado con un grupo"
+    "Ver cogollo 2 .",
+    "Pequeño grupo de árboles de café.",
+    "Un moño es un adorno en forma de cinta o cordón que se utiliza para decorar la cabeza o el cabello de una persona, especialmente las mujeres.",
+    "Fantasía, imaginación.",
+    "Mentira, engaño.",
+    "Imitación que se hace de la conducta y hábitos de otras personas."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "See capitulum 2.",
+    "Small group of coffee trees.",
+    "A bun is an ornament in the form of a ribbon or cord that is used to decorate the head or hair of a person, especially women.",
+    "Fantasy, imagination.\n\nNota: No hay términos culturales específicos de Puerto Rico en esta definición.",
+    "Deceit, falsehood.",
+    "Imitation of the behavior and habits of other people."
+  ],
   "source": "https://tesoro.pr"
 }

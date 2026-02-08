@@ -3,15 +3,18 @@
   "term": "raspadura",
   "superscripts": {
     "1": {
-      "consolidated_definition": ". El azúcar moreno que va quedando pegado a la paila, en los trapiches. “Si antes, por onzas y libras —Me dabas la raspadura...” José G. Padilla, Trabuco a Pepe.",
+      "consolidated_definition": "La raspadura es el azúcar moreno que se queda pegado a la paila en los trapiches durante el proceso de refinamiento del azúcar.",
+      "en_consolidated_definition": "The raspadura is the dark brown sugar that remains stuck to the pail in trapiches during the refining process of sugar.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 3,
         "num_cleaned_definitions": 3,
-        "definition_stability": "Stability: 0.6035",
-        "semantic_similarity_score": 0.6035,
-        "cluster_count": null,
+        "definition_stability": "Stability: 0.6067",
+        "semantic_similarity_score": 0.6067,
+        "cluster_count": 3,
         "grammar": [
           "sustantivo",
           "femenino"
@@ -46,16 +49,19 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          ". El azúcar moreno que va quedando pegado a la paila, en los trapiches. “Si antes, por onzas y libras —Me dabas la raspadura...” José G. Padilla, Trabuco a Pepe.",
-          ". El azucar moreno que va quedando pegado a la paila en los trapiches.",
+          "(T. en Am. Cen., Bol., Cuba, Ecuad. y Pan.). El azúcar moreno que va quedando pegado a la paila, en los trapiches. “Si antes, por onzas y libras —Me dabas la raspadura...” José G. Padilla, Trabuco a Pepe.",
+          "(T. en Cuba, Ecuad., Hond. y Pan.). El azucar moreno que va quedando pegado a la paila en los trapiches.",
           "Porción de un dulce que se queda pegada en el fondo de la olla en que se cuece."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Refresco hecho con hielo finamente desmenuzado",
+      "consolidated_definition": "Refresco hecho con hielo finamente desmenuzado, al que se agrega alguna esencia, sirope o jugo de fruta.",
+      "en_consolidated_definition": "Frozen drink made with finely crushed ice to which some essence, syrup or fruit juice is added.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -90,9 +96,12 @@
     }
   },
   "es_definitions": [
-    ". El azúcar moreno que va quedando pegado a la paila, en los trapiches. “Si antes, por onzas y libras —Me dabas la raspadura...” José G. Padilla, Trabuco a Pepe.",
-    "Refresco hecho con hielo finamente desmenuzado"
+    "La raspadura es el azúcar moreno que se queda pegado a la paila en los trapiches durante el proceso de refinamiento del azúcar.",
+    "Refresco hecho con hielo finamente desmenuzado, al que se agrega alguna esencia, sirope o jugo de fruta."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "The raspadura is the dark brown sugar that remains stuck to the pail in trapiches during the refining process of sugar.",
+    "Frozen drink made with finely crushed ice to which some essence, syrup or fruit juice is added."
+  ],
   "source": "https://tesoro.pr"
 }

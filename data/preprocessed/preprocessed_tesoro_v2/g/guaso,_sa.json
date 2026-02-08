@@ -3,15 +3,18 @@
   "term": "guaso, sa",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Confiable",
+      "consolidated_definition": "Persona que se considera creíble y digna de confianza.",
+      "en_consolidated_definition": "Persona que se considera digna de confianza y creíble en su palabra o acciones.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.3021",
         "semantic_similarity_score": 0.3021,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "adjetivo"
         ],
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Confiable"
+    "Persona que se considera creíble y digna de confianza."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Persona que se considera digna de confianza y creíble en su palabra o acciones."
+  ],
   "source": "https://tesoro.pr"
 }

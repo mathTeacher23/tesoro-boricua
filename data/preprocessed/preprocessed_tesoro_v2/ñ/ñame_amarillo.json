@@ -3,9 +3,12 @@
   "term": "ñame amarillo",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Variedad de ñame",
+      "consolidated_definition": "Variedad de ñame.",
+      "en_consolidated_definition": "Variety of yautía.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Variedad de ñame"
+    "Variedad de ñame."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Variety of yautía."
+  ],
   "source": "https://tesoro.pr"
 }

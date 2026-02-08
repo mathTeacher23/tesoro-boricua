@@ -3,14 +3,17 @@
   "term": "mata",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Al retoño de la caña se le dan",
+      "consolidated_definition": "Planta, excepto árboles grandes.",
+      "en_consolidated_definition": "Shrub, excluding large trees.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2010",
       "consolidation_metadata": {
         "num_definitions_analyzed": 6,
-        "num_cleaned_definitions": 6,
-        "definition_stability": "Stability: 0.4859",
-        "semantic_similarity_score": 0.4859,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -61,19 +64,16 @@
         "origin": null,
         "related_words": [],
         "reference_definitions": [
-          "Al retoño de la caña se le dan numerosos nombres, empleados también en gran parte para designar el brote de cualquier otra planta mata, localizado concretamente en el ángulo suroeste, Guamá, Cabo Rojo, La Parguera y Duey.",
-          "Planta de diferentes alzadas. “Mata de plátano.”",
-          "Se califica de matas en el país, tanto por las zonas rurales como por las urbanas, a diversidad de plantas de alzada variable entre sí y tronco o tallo no leñoso y duración vital limitada —muchas veces no más de un año— por comparación con la de árboles, arbustos y palmeras.",
-          "Árbol, planta, hierba.",
-          "Caña. También tallo.",
           "Planta, excepto árboles grandes."
         ]
       }
     }
   },
   "es_definitions": [
-    "Al retoño de la caña se le dan"
+    "Planta, excepto árboles grandes."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Shrub, excluding large trees."
+  ],
   "source": "https://tesoro.pr"
 }

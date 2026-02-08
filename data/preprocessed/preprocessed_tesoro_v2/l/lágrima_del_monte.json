@@ -3,9 +3,12 @@
   "term": "lágrima del monte",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Ron caña",
+      "consolidated_definition": "Ron caña.",
+      "en_consolidated_definition": "Rum caña.\n\nNota: La \"caña\" se refiere a una bebida popular en Puerto Rico hecha con ron y gaseosa.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -40,8 +43,10 @@
     }
   },
   "es_definitions": [
-    "Ron caña"
+    "Ron caña."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Rum caña.\n\nNota: La \"caña\" se refiere a una bebida popular en Puerto Rico hecha con ron y gaseosa."
+  ],
   "source": "https://tesoro.pr"
 }

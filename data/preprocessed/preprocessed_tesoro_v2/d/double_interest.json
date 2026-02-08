@@ -3,9 +3,12 @@
   "term": "double interest",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Póliza a todo riesgo",
+      "consolidated_definition": "Póliza a todo riesgo. Seguro o póliza de doble protección que además de proteger al conductor y al vehículo, cubre la pérdida parcial o total del vehículo o el costo de reparación. Anglicismo crudo, poco frecuente. En otras palabras, si la prima promedio para un seguro double interest es de $5,150.00, la comisión sería de alrededor de $643.75 para cinco años de servicios",
+      "en_consolidated_definition": "Full-coverage policy. A double-protection insurance or policy that not only protects the driver and vehicle but also covers partial or total loss of the vehicle or repair costs.\n\nNote: Anglicismo crudo, poco frecuente = Raw anglicism, infrequent\nPérdida parcial o total del vehículo = Partial or total loss of the vehicle\nCosto de reparación = Repair costs",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
@@ -39,8 +42,10 @@
     }
   },
   "es_definitions": [
-    "Póliza a todo riesgo"
+    "Póliza a todo riesgo. Seguro o póliza de doble protección que además de proteger al conductor y al vehículo, cubre la pérdida parcial o total del vehículo o el costo de reparación. Anglicismo crudo, poco frecuente. En otras palabras, si la prima promedio para un seguro double interest es de $5,150.00, la comisión sería de alrededor de $643.75 para cinco años de servicios"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Full-coverage policy. A double-protection insurance or policy that not only protects the driver and vehicle but also covers partial or total loss of the vehicle or repair costs.\n\nNote: Anglicismo crudo, poco frecuente = Raw anglicism, infrequent\nPérdida parcial o total del vehículo = Partial or total loss of the vehicle\nCosto de reparación = Repair costs"
+  ],
   "source": "https://tesoro.pr"
 }

@@ -3,15 +3,18 @@
   "term": "clutch",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Embrague: dispositivo mecánico que conecta o desconecta el movimiento de un vehículo.",
+      "consolidated_definition": "Embrague. También embriague.",
+      "en_consolidated_definition": "Clutch (also clutch)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -39,15 +42,18 @@
       }
     },
     "2": {
-      "consolidated_definition": "\"Clutch\": situación crítica o momento decisivo en un juego deportivo donde la presión es alta y se requiere una actuación destacada para lograr el éxito.",
+      "consolidated_definition": "dep. Ejecución deportiva que se realiza bajo mucha presión en un juego crítico o en los últimos momentos de un juego muy cerrado. Anglicismo crudo, poco frecuente. “Pero, sabía que nosotros íbamos a reaccionar en el clutch y Monty siempre ha sabido meter el canasto grande y hoy (ayer) lo hizo de nuevo”, dijo el dirigente de los Brujos, Carlos Mercado, en el camerino (El Nuevo Día, 16-05-07)",
+      "en_consolidated_definition": "Clutch execution is a high-pressure athletic performance that takes place in a critical game or during the final moments of a closely contested match. This term is an anglicism and relatively uncommon. \"But I knew we were going to react in the clutch and Monty has always known how to sink the big shot, and he did it again yesterday,\" said the Wizards' manager, Carlos Mercado, in the locker room (El Nuevo Día, 16-05-07)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -75,15 +81,18 @@
       }
     },
     "3": {
-      "consolidated_definition": "Cartera femenina pequeña sin asas, normalmente utilizada por la noche.",
+      "consolidated_definition": "mod. Bolso, cartera femenina. Pequeño bolso femenino de mano sin asas que se usa, normalmente, de noche. Anglicismo crudo, poco frecuente. Los estilos de carteras van de tamaño grande a mediano también continúan para el diario y el clásico clutch de noche también se visten de tonos metálicos como pewter, dorado cremoso y gris tostado (El Nuevo Día, 07-12-06)",
+      "en_consolidated_definition": "Purse, small handbag without handles used typically at night. Raw anglicism, relatively infrequent. Handbag styles range from large to medium size and continue for daily and classic clutch evening wear, also dressed in metallic tones such as pewter, creamy gold, and toasted gray (The New Day, 07-12-06)",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "single_definition",
       "consolidation_metadata": {
         "num_definitions_analyzed": 1,
         "num_cleaned_definitions": 1,
         "definition_stability": "Stability: 1.0",
         "semantic_similarity_score": 1.0,
-        "cluster_count": 1,
+        "cluster_count": null,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -112,10 +121,14 @@
     }
   },
   "es_definitions": [
-    "Embrague: dispositivo mecánico que conecta o desconecta el movimiento de un vehículo.",
-    "\"Clutch\": situación crítica o momento decisivo en un juego deportivo donde la presión es alta y se requiere una actuación destacada para lograr el éxito.",
-    "Cartera femenina pequeña sin asas, normalmente utilizada por la noche."
+    "Embrague. También embriague.",
+    "dep. Ejecución deportiva que se realiza bajo mucha presión en un juego crítico o en los últimos momentos de un juego muy cerrado. Anglicismo crudo, poco frecuente. “Pero, sabía que nosotros íbamos a reaccionar en el clutch y Monty siempre ha sabido meter el canasto grande y hoy (ayer) lo hizo de nuevo”, dijo el dirigente de los Brujos, Carlos Mercado, en el camerino (El Nuevo Día, 16-05-07)",
+    "mod. Bolso, cartera femenina. Pequeño bolso femenino de mano sin asas que se usa, normalmente, de noche. Anglicismo crudo, poco frecuente. Los estilos de carteras van de tamaño grande a mediano también continúan para el diario y el clásico clutch de noche también se visten de tonos metálicos como pewter, dorado cremoso y gris tostado (El Nuevo Día, 07-12-06)"
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "Clutch (also clutch)",
+    "Clutch execution is a high-pressure athletic performance that takes place in a critical game or during the final moments of a closely contested match. This term is an anglicism and relatively uncommon. \"But I knew we were going to react in the clutch and Monty has always known how to sink the big shot, and he did it again yesterday,\" said the Wizards' manager, Carlos Mercado, in the locker room (El Nuevo Día, 16-05-07)",
+    "Purse, small handbag without handles used typically at night. Raw anglicism, relatively infrequent. Handbag styles range from large to medium size and continue for daily and classic clutch evening wear, also dressed in metallic tones such as pewter, creamy gold, and toasted gray (The New Day, 07-12-06)"
+  ],
   "source": "https://tesoro.pr"
 }

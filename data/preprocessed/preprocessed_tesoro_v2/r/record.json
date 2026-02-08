@@ -3,14 +3,17 @@
   "term": "record",
   "superscripts": {
     "1": {
-      "consolidated_definition": "Prueba fehaciente de una hazaña deportiva digna de, relacionado con una calificación",
+      "consolidated_definition": "Archivo, expediente.",
+      "en_consolidated_definition": "File, dossier.\n\nNota: En algunos contextos, \"dossier\" puede ser más preciso que simplemente \"file\", ya que implica un conjunto de documentos relacionados y organizados de manera sistemática.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": true,
+      "consolidation_skip_reason": "recent_definition_from_2001",
       "consolidation_metadata": {
         "num_definitions_analyzed": 7,
-        "num_cleaned_definitions": 7,
-        "definition_stability": "Stability: 0.5351",
-        "semantic_similarity_score": 0.5351,
+        "num_cleaned_definitions": 1,
+        "definition_stability": "Stability: 1.0",
+        "semantic_similarity_score": 1.0,
         "cluster_count": null,
         "grammar": [
           "sustantivo",
@@ -63,26 +66,23 @@
         "origin": "Anglicismo",
         "related_words": [],
         "reference_definitions": [
-          "Prueba fehaciente de una hazaña deportiva digna de registrarse.",
-          "Expediente. Registro, historial, hoja de servicios.",
-          "Registro, historial, hoja de servicios.",
-          "Proeza deportiva.",
-          "Registro, historial, hoja de servicio.",
-          "Asiento. Anotación. Calificación.",
           "Archivo, expediente."
         ]
       }
     },
     "2": {
-      "consolidated_definition": "Disco",
+      "consolidated_definition": "Disco: objeto circular de material rígido, generalmente de vinilo o plástico, utilizado para reproducir música grabada.",
+      "en_consolidated_definition": "Circular disc-shaped object made of rigid material, typically vinyl or plastic, used to reproduce recorded music.",
       "could_not_consolidate": false,
       "consolidation_reason": null,
+      "consolidation_skipped": false,
+      "consolidation_skip_reason": null,
       "consolidation_metadata": {
         "num_definitions_analyzed": 2,
         "num_cleaned_definitions": 2,
         "definition_stability": "Stability: 0.5756",
         "semantic_similarity_score": 0.5756,
-        "cluster_count": null,
+        "cluster_count": 2,
         "grammar": [
           "sustantivo",
           "masculino"
@@ -119,9 +119,12 @@
     }
   },
   "es_definitions": [
-    "Prueba fehaciente de una hazaña deportiva digna de, relacionado con una calificación",
-    "Disco"
+    "Archivo, expediente.",
+    "Disco: objeto circular de material rígido, generalmente de vinilo o plástico, utilizado para reproducir música grabada."
   ],
-  "en_definitions": [],
+  "en_definitions": [
+    "File, dossier.\n\nNota: En algunos contextos, \"dossier\" puede ser más preciso que simplemente \"file\", ya que implica un conjunto de documentos relacionados y organizados de manera sistemática.",
+    "Circular disc-shaped object made of rigid material, typically vinyl or plastic, used to reproduce recorded music."
+  ],
   "source": "https://tesoro.pr"
 }
